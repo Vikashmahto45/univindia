@@ -27,6 +27,16 @@ else { define('BASE_URL', '/'); define('ASSETS_URL', '/css/style.css'); }
         .link-list li { padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.03); }
         .link-list a { color: var(--text); text-decoration: none; font-size: 0.95rem; display: block; }
         .link-list a:hover { color: #fbbf24; transform: translateX(5px); transition: 0.2s; }
+        
+        /* SEO Content Utility Classes */
+        .content-card { background: var(--c); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); margin-bottom: 30px; }
+        .gold-text { color: #fbbf24; font-weight: 700; border-bottom: 1px solid rgba(251,191,36,0.2); padding-bottom: 5px; margin-bottom: 15px; }
+        .data-table { width: 100%; border-collapse: collapse; margin: 20px 0; color: #cbd5e1; }
+        .data-table th, .data-table td { border: 1px solid rgba(255,255,255,0.05); padding: 12px; text-align: left; }
+        .data-table th { background: rgba(255,255,255,0.03); color: var(--p); }
+        .post-meta { font-size: 0.85rem; color: #64748b; margin-bottom: 25px; border-left: 3px solid var(--p); padding-left: 15px; }
+        .main-content { padding: 60px 0; }
+        
         footer { background: #000; padding: 60px 0; border-top: 1px solid rgba(255,255,255,0.05); margin-top: 40px; }
         .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 40px; }
         .f-col h4 { color: #fff; margin-bottom: 15px; }
