@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "orissaresults.nic.in 2022 - Official Odisha Board Result Archive";
-$meta_description = "Check orissaresults.nic.in 2022 online. Access the historical Odisha +2 and 10th results for the 2022 session. Official NIC marks link.";
-$meta_keywords = "orissaresults.nic.in 2022, check odisha board results online 2022, bse odisha 10th result 2022, chse odisha +2 result 2022, official 2022 odisha link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "orissaresults.nic.in 2022 - Official Odisha Board Result Archive"; 
+$meta_description = "Check orissaresults.nic.in 2022 online. Access the historical Odisha +2 and 10th results for the 2022 session. Official NIC marks link."; 
+$meta_keywords = "orissaresults.nic.in 2022, check odisha board results online 2022, bse odisha 10th result 2022, chse odisha +2 result 2022, official 2022 odisha link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

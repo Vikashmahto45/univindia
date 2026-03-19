@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "orissa results - Official Odisha Board and Council Gateway";
-$meta_description = "Check orissa results for CHSE (12th) and BSE (10th) exams. Access the official Odisha state archival result hub on indiaresults.";
-$keyword = "orissa results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "orissa results - Official Odisha Board and Council Gateway"; 
+$meta_description = "Check orissa results for CHSE (12th) and BSE (10th) exams. Access the official Odisha state archival result hub on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Your centralized hub for all examinations results from the state of
                 Odisha. Official CHSE and BSE Cuttack mirrors and archival links updated for the latest academic batch.
             </p>
@@ -115,4 +113,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

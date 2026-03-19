@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in";
-$meta_description = "Download MDU Rohtak Admit Card 2024 for B.A, B.Sc, B.Com, B.Tech and PG Exams. Get direct link for Maharshi Dayanand University Hall Ticket download at mdu.ac.in.";
-$keywords = "mdu admit card, mdu rohtak admit card 2024, maharshi dayanand university hall ticket, mdu exam card download, mdu.ac.in admit card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in"; 
+$meta_description = "Download MDU Rohtak Admit Card 2024 for B.A, B.Sc, B.Com, B.Tech and PG Exams. Get direct link for Maharshi Dayanand University Hall Ticket download at mdu.ac.in."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -131,4 +130,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

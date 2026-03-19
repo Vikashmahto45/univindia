@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online";
-$meta_description = "Download BSPHCL Admit Card. Get the direct link for Bihar State Power Holding Company Limited (BSPHCL) Assistant Engineer, Clerk, and Technician hall tickets at bsphcl.co.in.";
-$meta_keywords = "bsphcl admit card, bihar electricity board hall ticket download, bsphcl.co.in admit card login, bsphcl technician admit card download, bihar power holding call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online"; 
+$meta_description = "Download BSPHCL Admit Card. Get the direct link for Bihar State Power Holding Company Limited (BSPHCL) Assistant Engineer, Clerk, and Technician hall tickets at bsphcl.co.in."; 
+$meta_keywords = "bsphcl admit card, bihar electricity board hall ticket download, bsphcl.co.in admit card login, bsphcl technician admit card download, bihar power holding call letter"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

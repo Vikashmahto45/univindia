@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "inter results 2024 - Official National Gateway";
-$meta_description = "Check inter results 2024 online. Access the results for all major state intermediate and senior secondary boards for the 2024 session.";
-$meta_keywords = "inter results 2024, check intermediate result 2024 online, official national inter hub, 12th board result 2024 search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "inter results 2024 - Official National Gateway"; 
+$meta_description = "Check inter results 2024 online. Access the results for all major state intermediate and senior secondary boards for the 2024 session."; 
+$meta_keywords = "inter results 2024, check intermediate result 2024 online, official national inter hub, 12th board result 2024 search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

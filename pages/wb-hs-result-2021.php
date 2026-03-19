@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "WB HS Result 2021 - Historical West Bengal Board archive";
-$meta_description = "Check WB HS Result 2021 online. Access the historical West Bengal Council of Higher Secondary Education (WBCHSE) Class 12 results for 2021. Official Link.";
-$meta_keywords = "wb hs result 2021, check west bengal class 12 result 2021 online, wbresults.nic.in 2021 hs, official 2021 wbchse link, indiaresult wb 2021";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "WB HS Result 2021 - Historical West Bengal Board archive"; 
+$meta_description = "Check WB HS Result 2021 online. Access the historical West Bengal Council of Higher Secondary Education (WBCHSE) Class 12 results for 2021. Official Link."; 
+$meta_keywords = "wb hs result 2021, check west bengal class 12 result 2021 online, wbresults.nic.in 2021 hs, official 2021 wbchse link, indiaresult wb 2021"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

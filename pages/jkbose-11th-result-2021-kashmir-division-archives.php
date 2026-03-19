@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jkbose 11th result 2021 kashmir division - Official Kashmir 11th Hub";
-$meta_description = "Check JKBOSE 11th result 2021 for Kashmir Division on jkbose 11th result 2021 kashmir division. Access official archival scorecards on indiaresults portal.";
-$keyword = "jkbose 11th result 2021 kashmir division";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jkbose 11th result 2021 kashmir division - Official Kashmir 11th Hub"; 
+$meta_description = "Check JKBOSE 11th result 2021 for Kashmir Division on jkbose 11th result 2021 kashmir division. Access official archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Jammu and
                 Kashmir Board of School Education (JKBOSE) Class 11th examination for the Kashmir Division. Official
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

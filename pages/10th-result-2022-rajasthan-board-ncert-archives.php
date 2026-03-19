@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th result 2022 rajasthan board ncert - Official RBSE Matric Hub";
-$meta_description = "Check Rajasthan Board 10th result 2022 on 10th result 2022 rajasthan board ncert. Access official RBSE Secondary 2022 archival scorecards on indiaresults.";
-$keyword = "10th result 2022 rajasthan board ncert";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th result 2022 rajasthan board ncert - Official RBSE Matric Hub"; 
+$meta_description = "Check Rajasthan Board 10th result 2022 on 10th result 2022 rajasthan board ncert. Access official RBSE Secondary 2022 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 10th (Secondary) examination based on NCERT curriculum. Official
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

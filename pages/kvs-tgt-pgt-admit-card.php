@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online";
-$meta_description = "Download KVS TGT PGT Admit Card 2024. Get direct link for Kendriya Vidyalaya Trained Graduate Teacher and Post Graduate Teacher recruitment hall tickets at kvsangathan.nic.in.";
-$meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teacher admit card link, kvsangathan.nic.in teacher hall ticket, kvs interview admit card tgt pgt";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online"; 
+$meta_description = "Download KVS TGT PGT Admit Card 2024. Get direct link for Kendriya Vidyalaya Trained Graduate Teacher and Post Graduate Teacher recruitment hall tickets at kvsangathan.nic.in."; 
+$meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teacher admit card link, kvsangathan.nic.in teacher hall ticket, kvs interview admit card tgt pgt"; 
 ?>
 
 <div class="container main-content">
@@ -91,5 +89,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

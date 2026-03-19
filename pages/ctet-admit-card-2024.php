@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "CTET Admit Card 2024: Download NTA CTET July/January Session Hall Ticket @ ctet.nic.in";
-$page_description = "Download CTET Admit Card 2024 for July and January sessions. Get direct link for Central Teacher Eligibility Test Hall Ticket, Exam Schedule, and Paper 1 & 2 details. 800+ words of latest updates.";
-$page_keywords = "CTET Admit Card 2024, CTET July Hall Ticket Download, CTET January Admit Card, CBSE CTET Paper 1 2 Call Letter, ctet.nic.in admit card link";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CTET Admit Card 2024: Download NTA CTET July/January Session Hall Ticket @ ctet.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -143,7 +141,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard me-2"></i> Teacher Recruitment Links</h3>
                 <div class="row g-3">
-                    <?php
                     $teachers = [
                         'kvs-admit-card.php' => 'KVS Teacher Admit Card',
                         'nvs-admit-card.php' => 'NVS Hall Ticket Link',
@@ -157,7 +154,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -191,5 +187,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

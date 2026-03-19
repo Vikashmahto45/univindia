@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisha india result 2023 - Official Odisha Academic 2023 Archive";
-$meta_description = "Check odisha india result 2023 for BSE and CHSE exams. Access the official 2023 Odisha academic result portal and archives on indiaresults.";
-$keyword = "odisha india result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisha india result 2023 - Official Odisha Academic 2023 Archive"; 
+$meta_description = "Check odisha india result 2023 for BSE and CHSE exams. Access the official 2023 Odisha academic result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Odisha Class 10th
                 (Secondary) and 12th (Higher Secondary). Official BSE and CHSE Odisha mirrors updated for the 2023 batch
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

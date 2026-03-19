@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in";
-$page_description = "Download NEET Admit Card 2025 for UG medical entrance exam. Get direct link for NTA NEET Hall Ticket, Exam Schedule, and center city details. 800+ words of in-depth guide.";
-$page_keywords = "NEET Admit Card 2025, NTA NEET UG Hall Ticket Download, NEET Admit Card Link 1 2, neet.nta.nic.in admit card download, National Eligibility cum Entrance Test Call Letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -162,7 +160,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-stethoscope me-2"></i> Other Medical Exams</h3>
                 <div class="row g-3">
-                    <?php
                     $med = [
                         'neet-pg-admit-card.php' => 'NEET PG Hall Ticket',
                         'ini-cet-admit-card.php' => 'INI CET Call Letter',
@@ -176,7 +173,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -211,5 +207,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

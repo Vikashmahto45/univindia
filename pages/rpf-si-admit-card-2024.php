@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in";
-$page_description = "Download RPF SI Admit Card 2024. Get direct links for RPF Sub-Inspector CBT call letter. Exam date, city intimation status, and important guidelines for RPF SI recruitment.";
-$page_keywords = "RPF SI Admit Card 2024, Railway RPF Sub Inspector Hall Ticket, RPF SI Exam Date, Download RPF SI Call Letter, rrbapply.gov.in si admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -199,5 +197,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

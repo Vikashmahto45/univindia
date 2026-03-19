@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SBI PO Admit Card 2024 Download - Probationary Officer Prelims & Mains Link | Univindia.online";
-$meta_description = "Download SBI PO Admit Card 2024. Get the direct link for State Bank of India Probationary Officer (PO) recruitment prelims and mains examination hall tickets at sbi.co.in.";
-$meta_keywords = "sbi po admit card 2024, sbi probationary officer hall ticket, sbi po prelims admit card download, sbi po mains hall ticket link, sbi.co.in admit card login";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SBI PO Admit Card 2024 Download - Probationary Officer Prelims & Mains Link | Univindia.online"; 
+$meta_description = "Download SBI PO Admit Card 2024. Get the direct link for State Bank of India Probationary Officer (PO) recruitment prelims and mains examination hall tickets at sbi.co.in."; 
+$meta_keywords = "sbi po admit card 2024, sbi probationary officer hall ticket, sbi po prelims admit card download, sbi po mains hall ticket link, sbi.co.in admit card login"; 
 ?>
 
 <div class="container main-content">
@@ -92,5 +90,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

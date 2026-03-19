@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Punjab Board 10th Result - Official PSEB matric Hub";
-$meta_description = "Check Punjab Board 10th Result online. Access the high-speed Punjab School Education Board (PSEB) Mohali Matriculation results. Official marks link cluster.";
-$meta_keywords = "punjab board 10th result, check pseb matric result online, pseb.ac.in results, official punjab matric link, indiaresult punjab 10th";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Punjab Board 10th Result - Official PSEB matric Hub"; 
+$meta_description = "Check Punjab Board 10th Result online. Access the high-speed Punjab School Education Board (PSEB) Mohali Matriculation results. Official marks link cluster."; 
+$meta_keywords = "punjab board 10th result, check pseb matric result online, pseb.ac.in results, official punjab matric link, indiaresult punjab 10th"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC CPO Admit Card 2024-25 for Sub-Inspector in Delhi Police, BSF, CRPF, and CISF. Get direct link for SSC CPO Hall Ticket, Paper 1 Status, and PET Date. 800+ words guide.";
-$page_keywords = "SSC CPO Admit Card 2024, SSC CPO SI Hall Ticket Download, ssc.gov.in cpo admit card link, SSC CPO Paper 1 Status, SSC CPO Region Wise Link";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -143,7 +141,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> CAPF SI Selection Details</h3>
                 <div class="row g-3">
-                    <?php
                     $cpo_links = [
                         'ssc-cpo-physical-eligibility.php' => 'CPO Height & Chest Criteria',
                         'ssc-cpo-paper-2-english-guide.php' => 'CPO Paper 2 Strategy',
@@ -157,7 +154,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -191,5 +187,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

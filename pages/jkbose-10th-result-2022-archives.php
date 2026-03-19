@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jkbose 10th result 2022 - Official JKBOSE 2022 Archive";
-$meta_description = "Check jkbose 10th result 2022 for Matric exams. Access the official 2022 Jammu and Kashmir Board (JKBOSE) archival portal on indiaresults.";
-$keyword = "jkbose 10th result 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jkbose 10th result 2022 - Official JKBOSE 2022 Archive"; 
+$meta_description = "Check jkbose 10th result 2022 for Matric exams. Access the official 2022 Jammu and Kashmir Board (JKBOSE) archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Jammu & Kashmir Class 10th
                 (Matriculation). Official JKBOSE Jammu and Kashmir division mirrors updated for the 2022 batch
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

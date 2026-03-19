@@ -1,5 +1,10 @@
-<?php include '../header.php'; ?>
-<?php
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
 $link_map = include '../includes/link_map.php';
 $keywords = file('keyword.txt');
 array_shift($keywords); // Skip header
@@ -24,4 +29,5 @@ foreach($keywords as $i => $k) {
     }
 }
 unlink(__FILE__);
+
 <?php include '../footer.php'; ?>

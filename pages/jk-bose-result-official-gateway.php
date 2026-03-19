@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "jk bose result - Official JK Board Hub";
-$meta_description = "Check JKBOSE 10th & 12th results on jk bose result. Access official Jammu & Kashmir Board scorecards and archival result links on indiaresults.";
-$keyword = "jk bose result";
-
 include '../header.php'; 
+$page_title = "jk bose result - Official JK Board Hub"; 
+$meta_description = "Check JKBOSE 10th & 12th results on jk bose result. Access official Jammu & Kashmir Board scorecards and archival result links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Jammu and Kashmir Board of School Education (JKBOSE) Class 10th and 12th (Secondary/Sr. Secondary) examination results. Access official JK board mirrors and archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open JKBOSE Result Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

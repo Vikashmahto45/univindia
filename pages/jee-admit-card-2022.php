@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "JEE Admit Card 2022 Download - Link, Dates & Hall Ticket | Univindia.online";
-$meta_description = "Download JEE Admit Card 2022 for Main & Advanced. Get direct links for NTA JEE Hall Ticket, exam dates, shift timings, and instruction for April/May sessions.";
-$meta_keywords = "jee admit card 2022, jee main hall ticket 2022, nta jee admit card, jee main 2022 call letter, jee admit card download link";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "JEE Admit Card 2022 Download - Link, Dates & Hall Ticket | Univindia.online"; 
+$meta_description = "Download JEE Admit Card 2022 for Main & Advanced. Get direct links for NTA JEE Hall Ticket, exam dates, shift timings, and instruction for April/May sessions."; 
+$meta_keywords = "jee admit card 2022, jee main hall ticket 2022, nta jee admit card, jee main 2022 call letter, jee admit card download link"; 
 ?>
 
 <div class="container main-content">
@@ -109,5 +107,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

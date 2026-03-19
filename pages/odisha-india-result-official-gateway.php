@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisha india result - Official Odisha Academic Hub";
-$meta_description = "Check odisha india result for CHSE, BSE and university exams. Access the official Odisha board result portal and mirrors on indiaresults.";
-$keyword = "odisha india result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisha india result - Official Odisha Academic Hub"; 
+$meta_description = "Check odisha india result for CHSE, BSE and university exams. Access the official Odisha board result portal and mirrors on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Odisha
                 Class 10th (BSE), 12th (CHSE), and major state universities. Direct result links and mirrors updated for
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

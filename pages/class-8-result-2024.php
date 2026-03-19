@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Class 8 Result 2024 - Official National Portal";
-$meta_description = "Check Class 8 Result 2024 online. Access the high-speed links for Rajasthan, Punjab, and other state 8th board results. Official 2024 result mirror link.";
-$meta_keywords = "class 8 result 2024, check 8th board result 2024 online, class 8th result link, official 2024 8th result gateway, indiaresults 8th 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Class 8 Result 2024 - Official National Portal"; 
+$meta_description = "Check Class 8 Result 2024 online. Access the high-speed links for Rajasthan, Punjab, and other state 8th board results. Official 2024 result mirror link."; 
+$meta_keywords = "class 8 result 2024, check 8th board result 2024 online, class 8th result link, official 2024 8th result gateway, indiaresults 8th 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

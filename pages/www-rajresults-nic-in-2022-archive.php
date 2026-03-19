@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www.rajresults.nic.in 2022 - Official Rajasthan Result Archive";
-$meta_description = "Check www.rajresults.nic.in 2022 for Class 10th and 12th results. Access the official 2022 Rajasthan (RBSE) result archive on indiaresults.";
-$keyword = "www.rajresults.nic.in 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www.rajresults.nic.in 2022 - Official Rajasthan Result Archive"; 
+$meta_description = "Check www.rajresults.nic.in 2022 for Class 10th and 12th results. Access the official 2022 Rajasthan (RBSE) result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 board examination results for Rajasthan. Official RBSE
                 mirrors and archival links updated for the 2022 session.</p>
@@ -116,4 +114,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

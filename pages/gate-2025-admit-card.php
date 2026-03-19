@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in";
-$meta_description = "Download GATE 2025 Admit Card. Get direct link for Graduate Aptitude Test in Engineering Hall Ticket. Check exam dates, paper schedules, and reporting instructions.";
-$keywords = "gate 2025 admit card, gate admit card download, gate exam date 2025, iit gate hall ticket";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in"; 
+$meta_description = "Download GATE 2025 Admit Card. Get direct link for Graduate Aptitude Test in Engineering Hall Ticket. Check exam dates, paper schedules, and reporting instructions."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -110,4 +109,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

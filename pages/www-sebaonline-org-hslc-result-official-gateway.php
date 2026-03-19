@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www sebaonline org hslc result - Official SEBA Assam Hub";
-$meta_description = "Check www sebaonline org hslc result for Assam Board exams. Access the official sebaonline.org High School Leaving Certificate (HSLC) result mirror on indiaresults.";
-$keyword = "www sebaonline org hslc result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www sebaonline org hslc result - Official SEBA Assam Hub"; 
+$meta_description = "Check www sebaonline org hslc result for Assam Board exams. Access the official sebaonline.org High School Leaving Certificate (HSLC) result mirror on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Assam Board
                 (SEBA). Mirror links for sebaonline.org and direct HSLC result access updated for the current academic
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

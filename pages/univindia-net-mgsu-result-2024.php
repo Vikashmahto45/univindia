@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU Result 2024 - Bikaner University 2024 Scores";
-$meta_description = "Check your MGSU Bikaner results for 2024 on Univindia Net. Official guide to downloading Maharaja Ganga Singh University 2024 marksheets and scores online.";
-$meta_keywords = "Univindia Net MGSU Result 2024 - Bikaner University 2024 Scores";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Result 2024 - Bikaner University 2024 Scores"; 
+$meta_description = "Check your MGSU Bikaner results for 2024 on Univindia Net. Official guide to downloading Maharaja Ganga Singh University 2024 marksheets and scores online."; 
+$meta_keywords = "Univindia Net MGSU Result 2024 - Bikaner University 2024 Scores"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

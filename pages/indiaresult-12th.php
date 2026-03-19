@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indiaresult 12th - Official National Board Mirror";
-$meta_description = "Check indiaresult 12th online. Access the results for all Indian State Boards and University Intermediate for the 2024 session.";
-$meta_keywords = "indiaresult 12th, check 12th board results online, official indiaresults 12th link, search intermediate results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "indiaresult 12th - Official National Board Mirror"; 
+$meta_description = "Check indiaresult 12th online. Access the results for all Indian State Boards and University Intermediate for the 2024 session."; 
+$meta_keywords = "indiaresult 12th, check 12th board results online, official indiaresults 12th link, search intermediate results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

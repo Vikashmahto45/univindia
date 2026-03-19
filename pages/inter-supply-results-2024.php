@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Inter Supply Results 2024 - Official National Board archive";
-$meta_description = "Check Inter Supply Results 2024 online. Access the high-speed Intermediate Advanced Supplementary results for AP (BIEAP) and TS (TSBIE). Official marks link.";
-$meta_keywords = "inter supply results 2024, check intermediate supplementary result 2024 online, tsbie ipase 2024, bieap ipase 2024, official 2024 inter supply link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Inter Supply Results 2024 - Official National Board archive"; 
+$meta_description = "Check Inter Supply Results 2024 online. Access the high-speed Intermediate Advanced Supplementary results for AP (BIEAP) and TS (TSBIE). Official marks link."; 
+$meta_keywords = "inter supply results 2024, check intermediate supplementary result 2024 online, tsbie ipase 2024, bieap ipase 2024, official 2024 inter supply link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

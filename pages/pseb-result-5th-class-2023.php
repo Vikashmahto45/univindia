@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "pseb result 5th class 2023 - Official Punjab Board Portal";
-$meta_description = "Check pseb result 5th class 2023 for Primary examinations. Access the official Punjab School Education Board (PSEB) 5th result gateway on indiaresults for fast checking.";
-$keyword = "pseb result 5th class 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "pseb result 5th class 2023 - Official Punjab Board Portal"; 
+$meta_description = "Check pseb result 5th class 2023 for Primary examinations. Access the official Punjab School Education Board (PSEB) 5th result gateway on indiaresults for fast checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 Primary (5th Class) results for the Punjab School
                 Education Board (PSEB). Direct portal links and mirrors updated.</p>
@@ -109,4 +107,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

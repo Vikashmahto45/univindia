@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th class result 2022 punjab board term 2 - Official PSEB Hub";
-$meta_description = "Check Punjab Board 10th result 2022 Term 2 on 10th class result 2022 punjab board term 2. Access official PSEB 2022 archival scorecards on indiaresults.";
-$keyword = "10th class result 2022 punjab board term 2";
-
 include '../header.php'; 
+$page_title = "10th class result 2022 punjab board term 2 - Official PSEB Hub"; 
+$meta_description = "Check Punjab Board 10th result 2022 Term 2 on 10th class result 2022 punjab board term 2. Access official PSEB 2022 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Punjab School Education Board (PSEB) Class 10th (Matriculation) Term 2 examination results for the 2022 academic session. Access official Punjab board mirrors and 2022 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 PSEB Term 2</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

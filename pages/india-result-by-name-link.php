@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result by name - Official Name-Wise Result Portal";
-$meta_description = "Check india result by name for all boards and universities. Access the official name-wise result search portal for 10th and 12th exams on indiaresults.com.";
-$meta_keywords = "india result by name, check result by name, name wise board result, indiaresults name search, 10th result search by name";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result by name - Official Name-Wise Result Portal"; 
+$meta_description = "Check india result by name for all boards and universities. Access the official name-wise result search portal for 10th and 12th exams on indiaresults.com."; 
+$meta_keywords = "india result by name, check result by name, name wise board result, indiaresults name search, 10th result search by name"; 
 ?>
 
 <main class="container">
@@ -120,5 +119,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

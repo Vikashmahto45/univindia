@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Com MSBU Admit Card - Bharatpur University Hall Ticket Download";
-$meta_description = "Download your Maharaja Surajmal Brij University 2024 admit card at Univindia Com. Official guide to MSBU Bharatpur hall tickets online.";
-$meta_keywords = "Univindia Com MSBU Admit Card - Bharatpur University Hall Ticket Download";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Com MSBU Admit Card - Bharatpur University Hall Ticket Download"; 
+$meta_description = "Download your Maharaja Surajmal Brij University 2024 admit card at Univindia Com. Official guide to MSBU Bharatpur hall tickets online."; 
+$meta_keywords = "Univindia Com MSBU Admit Card - Bharatpur University Hall Ticket Download"; 
 ?>
 
 <main class="container">
@@ -58,5 +57,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

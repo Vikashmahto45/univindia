@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "inter 2nd year supplementary results 2023 - Official 12th Supply 2023 Archive";
-$meta_description = "Check inter 2nd year supplementary results 2023 for all state boards. Access the official 2023 Class 12th (Senior Secondary) Supply result portal on indiaresults.";
-$keyword = "inter 2nd year supplementary results 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "inter 2nd year supplementary results 2023 - Official 12th Supply 2023 Archive"; 
+$meta_description = "Check inter 2nd year supplementary results 2023 for all state boards. Access the official 2023 Class 12th (Senior Secondary) Supply result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session supplementary results for Class 12th
                 (Senior Secondary / Intermediate) across all Indian state boards. Official board mirrors and
@@ -127,4 +125,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

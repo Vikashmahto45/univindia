@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 10th 2023 UP Board - Official National Archive";
-$meta_description = "Check India Result 10th 2023 UP Board online. Access the historical Uttar Pradesh High School results for the 2023 session. Official IndiaResults mirror link.";
-$meta_keywords = "india result 10th 2023 up board, check up board high school 2023 online, upmsp 10th result 2023 link, official 2023 up board mirror, indiaresults up board 10th";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 10th 2023 UP Board - Official National Archive"; 
+$meta_description = "Check India Result 10th 2023 UP Board online. Access the historical Uttar Pradesh High School results for the 2023 session. Official IndiaResults mirror link."; 
+$meta_keywords = "india result 10th 2023 up board, check up board high school 2023 online, upmsp 10th result 2023 link, official 2023 up board mirror, indiaresults up board 10th"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

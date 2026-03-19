@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "TS Inter Results 2024 - Telangana Intermediate 1st & 2nd Year Scores";
-$meta_description = "Check TS Inter Results 2024 for 1st and 2nd year. Access official Telangana State Board of Intermediate Education (TSBIE) scores, markshet downloads, and merit lists.";
-$meta_keywords = "ts inter results 2024, tsbie results 2024, telangana inter 1st year results, ts inter 2nd year results 2024, tsbie.cgg.gov.in results 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "TS Inter Results 2024 - Telangana Intermediate 1st & 2nd Year Scores"; 
+$meta_description = "Check TS Inter Results 2024 for 1st and 2nd year. Access official Telangana State Board of Intermediate Education (TSBIE) scores, markshet downloads, and merit lists."; 
+$meta_keywords = "ts inter results 2024, tsbie results 2024, telangana inter 1st year results, ts inter 2nd year results 2024, tsbie.cgg.gov.in results 2024"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

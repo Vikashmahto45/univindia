@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "cu exam result - Official Calcutta University Result Gateway";
-$meta_description = "Check cu exam result for University of Calcutta undergraduate and postgraduate exams. Access the official CU academic result portal on indiaresults.";
-$keyword = "cu exam result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "cu exam result - Official Calcutta University Result Gateway"; 
+$meta_description = "Check cu exam result for University of Calcutta undergraduate and postgraduate exams. Access the official CU academic result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest examination results for the University of Calcutta
                 (CU). Official Kolkata mirrors and portal links updated for UG/PG Semester and Part-wise batches.</p>
@@ -116,4 +114,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

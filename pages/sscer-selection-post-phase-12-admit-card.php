@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSCER Selection Post Phase 12 Admit Card 2024 - Eastern Region Status | Univindia.online";
-$meta_description = "Download SSCER Selection Post Phase 12 Admit Card 2024 for Eastern Region. Check application status, exam date, and center list at sscer.org for ER candidates.";
-$meta_keywords = "sscer selection post phase 12 admit card, ssc eastern region selection post hall ticket, sscer.org status phase 12, ssc er phase 12 admit card download";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSCER Selection Post Phase 12 Admit Card 2024 - Eastern Region Status | Univindia.online"; 
+$meta_description = "Download SSCER Selection Post Phase 12 Admit Card 2024 for Eastern Region. Check application status, exam date, and center list at sscer.org for ER candidates."; 
+$meta_keywords = "sscer selection post phase 12 admit card, ssc eastern region selection post hall ticket, sscer.org status phase 12, ssc er phase 12 admit card download"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

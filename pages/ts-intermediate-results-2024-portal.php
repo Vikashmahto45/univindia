@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "ts intermediate results 2024 - Official Telangana State Inter Gateway";
-$meta_description = "Check ts intermediate results 2024 for TSBIE Inter 1st and 2nd year exams. Access the official 2024 Telangana State archival result portal on indiaresults.";
-$keyword = "ts intermediate results 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ts intermediate results 2024 - Official Telangana State Inter Gateway"; 
+$meta_description = "Check ts intermediate results 2024 for TSBIE Inter 1st and 2nd year exams. Access the official 2024 Telangana State archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2024 academic session results for Telangana State
                 Intermediate 1st and 2nd Year. Official TSBIE Hyderabad mirrors and archival links updated for the 2024
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

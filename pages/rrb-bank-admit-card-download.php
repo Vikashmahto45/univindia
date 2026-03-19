@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "RRB Bank Admit Card Download - IBPS RRB Officers & Assistants Hall Ticket | Univindia.online";
-$meta_description = "Download RRB Bank Admit Card. Get the direct link for IBPS RRB CRP Officers (Scale-I/II/III) and Office Assistants hall tickets at ibps.in.";
-$meta_keywords = "rrb bank admit card download, ibps rrb admit card download, ibps.in rrb hall ticket login, bank rrb exam date 2024 download, rrb assistant call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB Bank Admit Card Download - IBPS RRB Officers & Assistants Hall Ticket | Univindia.online"; 
+$meta_description = "Download RRB Bank Admit Card. Get the direct link for IBPS RRB CRP Officers (Scale-I/II/III) and Office Assistants hall tickets at ibps.in."; 
+$meta_keywords = "rrb bank admit card download, ibps rrb admit card download, ibps.in rrb hall ticket login, bank rrb exam date 2024 download, rrb assistant call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Org Result - RRBMU Alwar University Exam Scores";
-$meta_description = "Check your RRBMU Alwar results on Univindia Org. Complete guide to downloading Matsya University marksheets and revaluation results at univindia.org.";
-$meta_keywords = "Univindia Org Result - RRBMU Alwar University Exam Scores";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Org Result - RRBMU Alwar University Exam Scores"; 
+$meta_description = "Check your RRBMU Alwar results on Univindia Org. Complete guide to downloading Matsya University marksheets and revaluation results at univindia.org."; 
+$meta_keywords = "Univindia Org Result - RRBMU Alwar University Exam Scores"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

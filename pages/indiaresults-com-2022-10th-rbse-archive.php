@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indiaresults.com 2022 10th rbse - Official Rajasthan Result Archive";
-$meta_description = "Check indiaresults.com 2022 10th rbse for Class 10th Secondary examinations. Access the official 2022 Rajasthan (BSER) result archive on indiaresults.";
-$keyword = "indiaresults.com 2022 10th rbse";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2022 10th rbse - Official Rajasthan Result Archive"; 
+$meta_description = "Check indiaresults.com 2022 10th rbse for Class 10th Secondary examinations. Access the official 2022 Rajasthan (BSER) result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 Secondary (Class 10th) results for Rajasthan. Official
                 RBSE mirrors and archival links updated for the 2022 board session.</p>
@@ -113,4 +111,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

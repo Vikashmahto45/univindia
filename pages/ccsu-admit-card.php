@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "CCSU Admit Card 2025: CCS University Meerut Admit Card Download @ ccsuniversity.ac.in";
-$page_description = "Download CCSU Admit Card 2025 for Regular and Private students. Get direct link for CCS University Meerut Hall Ticket, Exam Schedule, and center details. 800+ words of in-depth guide.";
-$page_keywords = "CCSU Admit Card 2025, CCS University Meerut Hall Ticket Download, CCSU Admit Card 2025 Regular Private, CCSU Exam Form Status, ccsuniversity.ac.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CCSU Admit Card 2025: CCS University Meerut Admit Card Download @ ccsuniversity.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -143,7 +141,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Other State University Links</h3>
                 <div class="row g-3">
-                    <?php
                     $up_state = [
                         'uniraj-admit-card.php' => 'Uniraj Hall Ticket',
                         'mjpru-admit-card.php' => 'MJPRU Bareilly Admit Card',
@@ -157,7 +154,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -191,5 +187,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

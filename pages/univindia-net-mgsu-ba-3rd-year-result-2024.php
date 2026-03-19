@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU BA 3rd Year Result 2024 - Bikaner University 2024 Arts Scores";
-$meta_description = "Check your MGSU Bikaner BA 3rd year results for 2024 on Univindia Net. Official guide to downloading Bachelor of Arts final year results for the 2024 session.";
-$meta_keywords = "Univindia Net MGSU BA 3rd Year Result 2024 - Bikaner University 2024 Arts Scores";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU BA 3rd Year Result 2024 - Bikaner University 2024 Arts Scores"; 
+$meta_description = "Check your MGSU Bikaner BA 3rd year results for 2024 on Univindia Net. Official guide to downloading Bachelor of Arts final year results for the 2024 session."; 
+$meta_keywords = "Univindia Net MGSU BA 3rd Year Result 2024 - Bikaner University 2024 Arts Scores"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

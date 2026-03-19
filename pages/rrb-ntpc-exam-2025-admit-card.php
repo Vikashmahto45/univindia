@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "RRB NTPC Exam 2025 Admit Card Download - Railway Graduate Level Hall Ticket | Univindia.online";
-$meta_description = "Download RRB NTPC Exam 2025 Admit Card. Get the direct link for Railway Graduate and Undergraduate NTPC recruitment examination hall tickets at rrbapply.gov.in.";
-$meta_keywords = "rrb ntpc exam 2025 admit card download, railway ntpc hall ticket 2025 download, rrbapply.gov.in ntpc login 2025, railway recruitment exam date 2025 download, ntpc call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Exam 2025 Admit Card Download - Railway Graduate Level Hall Ticket | Univindia.online"; 
+$meta_description = "Download RRB NTPC Exam 2025 Admit Card. Get the direct link for Railway Graduate and Undergraduate NTPC recruitment examination hall tickets at rrbapply.gov.in."; 
+$meta_keywords = "rrb ntpc exam 2025 admit card download, railway ntpc hall ticket 2025 download, rrbapply.gov.in ntpc login 2025, railway recruitment exam date 2025 download, ntpc call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

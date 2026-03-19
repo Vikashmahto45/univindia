@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include 'config.php';
-$keyword = "bseb 10th result 2024 check by roll number";
-$page_title = "BSEB 10th Result 2024 Check by Roll Number - Bihar Board Matric Result";
-$meta_description = "Learn how to perform BSEB 10th Result 2024 check by roll number. Online portal for Bihar Board Class 10th results, marksheet download, and pass criteria.";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "BSEB 10th Result 2024 Check by Roll Number - Bihar Board Matric Result"; 
+$meta_description = "Learn how to perform BSEB 10th Result 2024 check by roll number. Online portal for Bihar Board Class 10th results, marksheet download, and pass criteria."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="result-container">
@@ -40,4 +38,5 @@ include '../header.php';
         </table>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

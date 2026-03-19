@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "PET Admit Card Download - State Pre Engineering Test Hall Ticket | Univindia.online";
-$meta_description = "Download PET Admit Card. Get the direct link for CG PET, MP PET, and other state-level Pre-Engineering Test examination hall tickets at official portals.";
-$meta_keywords = "pet admit card download, cg pet hall ticket download, vyapam pet login admit card, pet exam date 2024 download, engineering entrance call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "PET Admit Card Download - State Pre Engineering Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download PET Admit Card. Get the direct link for CG PET, MP PET, and other state-level Pre-Engineering Test examination hall tickets at official portals."; 
+$meta_keywords = "pet admit card download, cg pet hall ticket download, vyapam pet login admit card, pet exam date 2024 download, engineering entrance call letter"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

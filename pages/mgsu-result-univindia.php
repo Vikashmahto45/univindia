@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "MGSU Result Univindia Portal - Bikaner University Score Gateway";
-$meta_description = "Check your Maharaja Ganga Singh University results via the MGSU Result Univindia portal. Official guide to accessing Bikaner marksheet records online.";
-$meta_keywords = "mgsu result univindia";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "MGSU Result Univindia Portal - Bikaner University Score Gateway"; 
+$meta_description = "Check your Maharaja Ganga Singh University results via the MGSU Result Univindia portal. Official guide to accessing Bikaner marksheet records online."; 
+$meta_keywords = "mgsu result univindia"; 
 ?>
 
 <main class="container">
@@ -57,5 +56,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

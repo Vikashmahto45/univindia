@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Www Univindia Net MGSU Access - Bikaner University Digital Gateway";
-$meta_description = "Access MGSU Bikaner services via Www Univindia Net. Official guide to navigating Maharaja Ganga Singh University exams, results, and student panels online.";
-$meta_keywords = "Www Univindia Net MGSU Access - Bikaner University Digital Gateway";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Www Univindia Net MGSU Access - Bikaner University Digital Gateway"; 
+$meta_description = "Access MGSU Bikaner services via Www Univindia Net. Official guide to navigating Maharaja Ganga Singh University exams, results, and student panels online."; 
+$meta_keywords = "Www Univindia Net MGSU Access - Bikaner University Digital Gateway"; 
 ?>
 
 <main class="container">
@@ -52,5 +51,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

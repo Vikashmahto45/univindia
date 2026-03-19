@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result .com 2023 - Official National Result Mirror Hub";
-$meta_description = "Check india result .com 2023 for all board and university results. Access the official 2023 result portal mirrors on indiaresults for fast checking by name and roll number.";
-$keyword = "india result .com 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result .com 2023 - Official National Result Mirror Hub"; 
+$meta_description = "Check india result .com 2023 for all board and university results. Access the official 2023 result portal mirrors on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the fastest mirrors for the 2023 academic year. National, State,
                 and University results centralized.</p>
@@ -108,4 +106,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "intermediate results - Official State Board Portal";
-$meta_description = "Check intermediate results online for AP, TS, and other state boards. Access the official Inter result portal for Class 11 and Class 12.";
-$meta_keywords = "intermediate results, check inter results, ap inter results, ts intermediate results, 12th board results link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "intermediate results - Official State Board Portal"; 
+$meta_description = "Check intermediate results online for AP, TS, and other state boards. Access the official Inter result portal for Class 11 and Class 12."; 
+$meta_keywords = "intermediate results, check inter results, ap inter results, ts intermediate results, 12th board results link"; 
 ?>
 
 <main class="container">
@@ -63,5 +62,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

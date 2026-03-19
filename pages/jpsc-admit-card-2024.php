@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "JPSC Admit Card 2024: Download Civil Services Prelims Hall Ticket @jpsc.gov.in";
-$meta_description = "Download JPSC Admit Card 2024 for Jharkhand Civil Services Examination. Get direct link for JPSC Prelims/Mains Hall Ticket download at jpsc.gov.in.";
-$keywords = "jpsc admit card 2024, jharkhand civil services admit card, jpsc prelims hall ticket, download jpsc call letter, jpsc exam date 2024";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "JPSC Admit Card 2024: Download Civil Services Prelims Hall Ticket @jpsc.gov.in"; 
+$meta_description = "Download JPSC Admit Card 2024 for Jharkhand Civil Services Examination. Get direct link for JPSC Prelims/Mains Hall Ticket download at jpsc.gov.in."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -108,4 +107,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 8th class 2022 - Official Middle School National Archive";
-$meta_description = "Check india result 8th class 2022 for all state board middle school exams. Access the official 2022 Class 8 result archive on indiaresults.";
-$keyword = "india result 8th class 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 8th class 2022 - Official Middle School National Archive"; 
+$meta_description = "Check india result 8th class 2022 for all state board middle school exams. Access the official 2022 Class 8 result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 8th (Middle School)
                 for all boards in India. Official mirrors and archival links updated for the 2022 batch.</p>
@@ -117,4 +115,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

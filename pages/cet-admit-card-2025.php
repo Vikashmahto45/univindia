@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "CET Admit Card 2025 Download - Common Entrance Test Hall Ticket Link | Univindia.online";
-$meta_description = "Download CET Admit Card 2025. Get the direct link for Common Entrance Test (CET) for various state and national level examinations hall tickets at official portal logins.";
-$meta_keywords = "cet admit card 2025, common entrance test hall ticket, cet 2025 admit card download, state cet admit card link, cet exam hall ticket login";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CET Admit Card 2025 Download - Common Entrance Test Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download CET Admit Card 2025. Get the direct link for Common Entrance Test (CET) for various state and national level examinations hall tickets at official portal logins."; 
+$meta_keywords = "cet admit card 2025, common entrance test hall ticket, cet 2025 admit card download, state cet admit card link, cet exam hall ticket login"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

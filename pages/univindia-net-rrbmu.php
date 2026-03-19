@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net RRBMU - Alwar Matsya University Student Portal";
-$meta_description = "Univindia Net RRBMU is the official digital portal for Raj Rishi Bhartrihari Matsya University. Get your RRBMU Alwar results and admit cards online.";
-$meta_keywords = "Univindia Net RRBMU - Alwar Matsya University Student Portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net RRBMU - Alwar Matsya University Student Portal"; 
+$meta_description = "Univindia Net RRBMU is the official digital portal for Raj Rishi Bhartrihari Matsya University. Get your RRBMU Alwar results and admit cards online."; 
+$meta_keywords = "Univindia Net RRBMU - Alwar Matsya University Student Portal"; 
 ?>
 
 <main class="container">
@@ -55,5 +54,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

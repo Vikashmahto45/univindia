@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "AKTU Admit Card Download - Dr. APJ Abdul Kalam Technical University | Univindia.online";
-$meta_description = "Download AKTU Admit Card. Get the direct link for AKTU (formerly UPTU) B.Tech, MBA, and other semester examination hall tickets at erp.aktu.ac.in.";
-$meta_keywords = "aktu admit card download, uptu hall ticket download, erp.aktu.ac.in login admit card, aktu exam date 2024 download, engineering call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "AKTU Admit Card Download - Dr. APJ Abdul Kalam Technical University | Univindia.online"; 
+$meta_description = "Download AKTU Admit Card. Get the direct link for AKTU (formerly UPTU) B.Tech, MBA, and other semester examination hall tickets at erp.aktu.ac.in."; 
+$meta_keywords = "aktu admit card download, uptu hall ticket download, erp.aktu.ac.in login admit card, aktu exam date 2024 download, engineering call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

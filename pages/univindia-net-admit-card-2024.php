@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net Admit Card 2024 - University 2024 Hall Ticket Download";
-$meta_description = "Download your 2024 university admit card at Univindia Net. Official guide to retrieving hall tickets for RRBMU and MGSU 2024 exams online.";
-$meta_keywords = "Univindia Net Admit Card 2024 - University 2024 Hall Ticket Download";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net Admit Card 2024 - University 2024 Hall Ticket Download"; 
+$meta_description = "Download your 2024 university admit card at Univindia Net. Official guide to retrieving hall tickets for RRBMU and MGSU 2024 exams online."; 
+$meta_keywords = "Univindia Net Admit Card 2024 - University 2024 Hall Ticket Download"; 
 ?>
 
 <main class="container">
@@ -58,5 +57,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

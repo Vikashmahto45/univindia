@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jac 12th result 2021 check - Official Jharkhand Academic Council Archive";
-$meta_description = "Check jac 12th result 2021 check for Intermediate Science, Arts, and Commerce. Access the official 2021 Jharkhand (JAC) archival result portal on indiaresults.";
-$keyword = "jac 12th result 2021 check";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jac 12th result 2021 check - Official Jharkhand Academic Council Archive"; 
+$meta_description = "Check jac 12th result 2021 check for Intermediate Science, Arts, and Commerce. Access the official 2021 Jharkhand (JAC) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Class 12th (Intermediate)
                 for Jharkhand. Official JAC Ranchi mirrors and archival links updated for the 2021 session batch.</p>
@@ -117,4 +115,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

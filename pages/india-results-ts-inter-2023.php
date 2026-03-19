@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india results ts inter 2023 - Official Telangana Board Mirror";
-$meta_description = "Check india results ts inter 2023 online. Access the results for Telangana State Board (TSBIE) 1st and 2nd Year Intermediate for the 2023 session.";
-$meta_keywords = "india results ts inter 2023, check ts inter results 2023 online, official tsbie mirror link, telangana inter 2023 results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india results ts inter 2023 - Official Telangana Board Mirror"; 
+$meta_description = "Check india results ts inter 2023 online. Access the results for Telangana State Board (TSBIE) 1st and 2nd Year Intermediate for the 2023 session."; 
+$meta_keywords = "india results ts inter 2023, check ts inter results 2023 online, official tsbie mirror link, telangana inter 2023 results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

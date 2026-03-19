@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal";
-$meta_description = "Univindia MSBU is the official digital portal for Brij University Bharatpur. Complete guide to MSBU results, admit cards, and examination forms.";
-$meta_keywords = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal"; 
+$meta_description = "Univindia MSBU is the official digital portal for Brij University Bharatpur. Complete guide to MSBU results, admit cards, and examination forms."; 
+$meta_keywords = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal"; 
 ?>
 
 <main class="container">
@@ -55,5 +54,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "HSLC Result 2024 Date - Official Assam Board Notification";
-$meta_description = "Check HSLC Result 2024 Date online. Access the official notification for the Secondary Education Board of Assam (SEBA) Class 10 results release schedule.";
-$meta_keywords = "hslc result 2024 date, check seba hslc 2024 result date, assam board 10th result 2024 announcement, official seba hslc 2024 release time, resultsassam.nic.in 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "HSLC Result 2024 Date - Official Assam Board Notification"; 
+$meta_description = "Check HSLC Result 2024 Date online. Access the official notification for the Secondary Education Board of Assam (SEBA) Class 10 results release schedule."; 
+$meta_keywords = "hslc result 2024 date, check seba hslc 2024 result date, assam board 10th result 2024 announcement, official seba hslc 2024 release time, resultsassam.nic.in 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

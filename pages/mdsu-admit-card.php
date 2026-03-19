@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "MDSU Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket @mdsuajmer.ac.in";
-$meta_description = "Download MDSU Ajmer Admit Card 2024 for UG/PG Semester and Annual Exams. Get direct link for Maharshi Dayanand Saraswati University Hall Ticket download.";
-$keywords = "mdsu admit card, mdsu ajmer admit card 2024, maharshi dayanand saraswati university hall ticket, mdsu exam card download, mdsuajmer.ac.in admit card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MDSU Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket @mdsuajmer.ac.in"; 
+$meta_description = "Download MDSU Ajmer Admit Card 2024 for UG/PG Semester and Annual Exams. Get direct link for Maharshi Dayanand Saraswati University Hall Ticket download."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -123,4 +122,5 @@ include '../header.php';
 <style>
 .underline-warning { border-bottom: 3px solid #ffc107; display: inline-block; padding-bottom: 2px; }
 </style>
+
 <?php include '../footer.php'; ?>

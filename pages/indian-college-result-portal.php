@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indian college result - Official University Mirror Hub";
-$meta_description = "Check indian college result online. Access the results for all major colleges and universities across India. Centralized gateway for degree scores.";
-$meta_keywords = "indian college result, check college result online india, official degree result hub, university result portal, college marksheet search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "indian college result - Official University Mirror Hub"; 
+$meta_description = "Check indian college result online. Access the results for all major colleges and universities across India. Centralized gateway for degree scores."; 
+$meta_keywords = "indian college result, check college result online india, official degree result hub, university result portal, college marksheet search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

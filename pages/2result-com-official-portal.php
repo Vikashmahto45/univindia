@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "2result com - Official National Academic Results Portal";
-$meta_description = "Check 2result com for all board and university exams. Access the official national results portal, news updates, and archival scores on indiaresults.";
-$keyword = "2result com";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "2result com - Official National Academic Results Portal"; 
+$meta_description = "Check 2result com for all board and university exams. Access the official national results portal, news updates, and archival scores on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your dedicated destination for all academic results across India.
                 Official mirrors for state boards, central councils, and major universities updated for the latest
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

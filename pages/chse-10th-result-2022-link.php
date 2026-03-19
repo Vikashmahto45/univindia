@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "chse 10th result 2022 - Official Odisha Board Archive Portal";
-$meta_description = "Check chse 10th result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result portal on indiaresults for fast checking.";
-$keyword = "chse 10th result 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "chse 10th result 2022 - Official Odisha Board Archive Portal"; 
+$meta_description = "Check chse 10th result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result portal on indiaresults for fast checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 Matriculation (10th) results for Odisha. Official BSE
                 mirrors and archival links updated for HSC examinations.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

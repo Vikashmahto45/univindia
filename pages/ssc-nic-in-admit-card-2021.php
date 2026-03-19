@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "ssc.nic.in Admit Card 2021 Download - Staff Selection Commission Recruitment Hall Ticket Link | Univindia.online";
-$meta_description = "Download ssc.nic.in Admit Card 2021. Get the direct link for SSC GD, CHSL, CGL, and MTS recruitment examination hall tickets at ssc.nic.in regional portals.";
-$meta_keywords = "ssc.nic.in admit card 2021, ssc gd admit card download, ssc chsl 2021 hall ticket login, ssc mts admit card 2021 link, staff selection commission call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ssc.nic.in Admit Card 2021 Download - Staff Selection Commission Recruitment Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download ssc.nic.in Admit Card 2021. Get the direct link for SSC GD, CHSL, CGL, and MTS recruitment examination hall tickets at ssc.nic.in regional portals."; 
+$meta_keywords = "ssc.nic.in admit card 2021, ssc gd admit card download, ssc chsl 2021 hall ticket login, ssc mts admit card 2021 link, staff selection commission call letter"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

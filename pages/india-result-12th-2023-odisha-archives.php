@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 12th 2023 odisha - Official Odisha 12th 2023 Archive";
-$meta_description = "Check india result 12th 2023 odisha for CHSE exams. Access the official 2023 Odisha Board (CHSE) archival result portal on indiaresults.";
-$keyword = "india result 12th 2023 odisha";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 12th 2023 odisha - Official Odisha 12th 2023 Archive"; 
+$meta_description = "Check india result 12th 2023 odisha for CHSE exams. Access the official 2023 Odisha Board (CHSE) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Odisha Class
                 12th (Senior Secondary). Official CHSE Odisha mirrors and archival links updated for the 2023 batch
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

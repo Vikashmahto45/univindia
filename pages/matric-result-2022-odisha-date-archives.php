@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "matric result 2022 odisha date - Official BSE Odisha 10th Hub";
-$meta_description = "Check Odisha Board 10th result 2022 and announcement dates on matric result 2022 odisha date. Access official BSE Odisha Secondary 2022 archival scorecards.";
-$keyword = "matric result 2022 odisha date";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "matric result 2022 odisha date - Official BSE Odisha 10th Hub"; 
+$meta_description = "Check Odisha Board 10th result 2022 and announcement dates on matric result 2022 odisha date. Access official BSE Odisha Secondary 2022 archival scorecards."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results and crucial
                 announcement schedule for Board of Secondary Education (BSE), Odisha Class 10th (Secondary/Matric)
@@ -127,4 +125,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

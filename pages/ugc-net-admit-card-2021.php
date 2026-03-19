@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "UGC NET Admit Card 2021: Download December/June Exam Hall Ticket @ ugcnet.nta.nic.in";
-$page_description = "Download UGC NET Admit Card 2021. Get direct link for NTA UGC NET December 2020 and June 2021 merged session hall tickets, exam schedule, and subject-wise dates. 800+ words.";
-$page_keywords = "UGC NET Admit Card 2021, UGC NET Hall Ticket Download, NTA UGC NET 2021 Admit Card, UGC NET Exam Date 2021, ugcnet.nta.nic.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UGC NET Admit Card 2021: Download December/June Exam Hall Ticket @ ugcnet.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -172,7 +170,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard-teacher me-2"></i> Competitive Academic Exams</h3>
                 <div class="row g-3">
-                    <?php
                     $academic = [
                         'ignou-admit-card.php' => 'IGNOU Exam Hall Ticket',
                         'ctet-admit-card-2024.php' => 'CTET 2024 Call Letter',
@@ -186,7 +183,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -220,5 +216,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "reet 2021 result - Official Rajasthan REET 2021 Archive";
-$meta_description = "Check reet 2021 result for Rajasthan Eligibility Examination for Teachers. Access the official 2021 REET archival portal and scorecard link on indiaresults.";
-$keyword = "reet 2021 result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "reet 2021 result - Official Rajasthan REET 2021 Archive"; 
+$meta_description = "Check reet 2021 result for Rajasthan Eligibility Examination for Teachers. Access the official 2021 REET archival portal and scorecard link on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Rajasthan Eligibility
                 Examination for Teachers (REET). Official BSER Ajmer mirrors for the REET 2021 level 1 and level 2
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

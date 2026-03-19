@@ -1,14 +1,11 @@
-<?php include '../header.php'; ?>
-<?php
-/**
- * Sitemap Generator for Univindia.online
- * Generates sitemap.xml using the static link_map.php array.
- */
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
 
-include_once 'includes/config.php';
-include_once 'includes/link_map.php';
-
-$xml = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
+<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
 $xml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
 
 // Add Home Page
@@ -54,5 +51,5 @@ if (file_put_contents('sitemap.xml', $xml)) {
 } else {
     echo "Failed to generate sitemap.";
 }
-?>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 2020: rajasthan - Official Rajasthan Result Archive Portal";
-$meta_description = "Check india result 2020: rajasthan for 10th and 12th board results. Access the official 2020 Rajasthan (BSER) result archive on indiaresults.";
-$keyword = "india result 2020: rajasthan";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 2020: rajasthan - Official Rajasthan Result Archive Portal"; 
+$meta_description = "Check india result 2020: rajasthan for 10th and 12th board results. Access the official 2020 Rajasthan (BSER) result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2020 academic session results for Rajasthan Board. Official
                 BSER mirrors and archival links updated for the 2020 Matric and Inter examinations.</p>
@@ -115,4 +113,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

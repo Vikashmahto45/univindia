@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "CHSE 10th Result 2023 - Official Odisha Board Link";
-$meta_description = "Check CHSE 10th Result 2023 online. Access the Odisha Board Secondary results for the 2023 session. Official marksheets and board stats available for download.";
-$meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, orissaresults.nic.in 2023, bse odisha 10th result, official chse portal 2023, odisha secondary result link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "CHSE 10th Result 2023 - Official Odisha Board Link"; 
+$meta_description = "Check CHSE 10th Result 2023 online. Access the Odisha Board Secondary results for the 2023 session. Official marksheets and board stats available for download."; 
+$meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, orissaresults.nic.in 2023, bse odisha 10th result, official chse portal 2023, odisha secondary result link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

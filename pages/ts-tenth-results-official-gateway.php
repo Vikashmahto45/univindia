@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "ts tenth results - Official Telangana Secondary Hub";
-$meta_description = "Check ts tenth results for SSC exams. Access the official Telangana Board of Secondary Education (BSE) result gateway and archives on indiaresults.";
-$keyword = "ts tenth results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ts tenth results - Official Telangana Secondary Hub"; 
+$meta_description = "Check ts tenth results for SSC exams. Access the official Telangana Board of Secondary Education (BSE) result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Telangana Class
                 10th (SSC). Official BSE Hyderabad mirrors and board result links updated for the current academic
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

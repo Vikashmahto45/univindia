@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Admit Card for SBI PO Exam - Download Probationary Officer Hall Ticket";
-$meta_description = "Download Admit Card for SBI PO Exam. Get the direct link to access your State Bank of India Probationary Officer prelims & mains hall tickets.";
-$meta_keywords = "admit card for sbi po exam, sbi po hall ticket download, sbi po call letter link, sbi exam center";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Admit Card for SBI PO Exam - Download Probationary Officer Hall Ticket"; 
+$meta_description = "Download Admit Card for SBI PO Exam. Get the direct link to access your State Bank of India Probationary Officer prelims & mains hall tickets."; 
+$meta_keywords = "admit card for sbi po exam, sbi po hall ticket download, sbi po call letter link, sbi exam center"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">More SBI Recruitment</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "admit card for sbi po exam";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

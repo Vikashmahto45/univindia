@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india result 12th 2023 rajasthan board - Official RBSE Mirror";
-$meta_description = "Check india result 12th 2023 rajasthan board online. Access the results for Board of Secondary Education Rajasthan (BSER) Class 12 for the 2023 session.";
-$meta_keywords = "india result 12th 2023 rajasthan board, check rbse 12th result 2023 online, official rajasthan board link 2023, indiaresults raj 12th portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india result 12th 2023 rajasthan board - Official RBSE Mirror"; 
+$meta_description = "Check india result 12th 2023 rajasthan board online. Access the results for Board of Secondary Education Rajasthan (BSER) Class 12 for the 2023 session."; 
+$meta_keywords = "india result 12th 2023 rajasthan board, check rbse 12th result 2023 online, official rajasthan board link 2023, indiaresults raj 12th portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

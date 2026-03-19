@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indiaresults.com 2019 - Official National Result Mirror";
-$meta_description = "Check indiaresults.com 2019 online. Access the historical results for all major state boards and universities across India for the 2019 session.";
-$meta_keywords = "indiaresults.com 2019, check india results 2019 online, official national mirror link, historical board results 2019 search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "indiaresults.com 2019 - Official National Result Mirror"; 
+$meta_description = "Check indiaresults.com 2019 online. Access the historical results for all major state boards and universities across India for the 2019 session."; 
+$meta_keywords = "indiaresults.com 2019, check india results 2019 online, official national mirror link, historical board results 2019 search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

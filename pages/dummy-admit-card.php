@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online";
-$meta_description = "Download Dummy Admit Card. Get the direct link for Bihar Board (BSEB), CBSE, and other school board dummy hall tickets at secondary.biharboardonline.com.";
-$meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar board dummy hall ticket download, inter dummy admit card login, board exam error correction admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online"; 
+$meta_description = "Download Dummy Admit Card. Get the direct link for Bihar Board (BSEB), CBSE, and other school board dummy hall tickets at secondary.biharboardonline.com."; 
+$meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar board dummy hall ticket download, inter dummy admit card login, board exam error correction admit card"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "navodaya result - Official JNVST Portal";
-$meta_description = "Check navodaya result online for JNVST Class 6 and Class 9. Access the official NVS portal for selection list, cutoff, and results.";
-$meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 result, nvs selection list, navodaya class 9 results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "navodaya result - Official JNVST Portal"; 
+$meta_description = "Check navodaya result online for JNVST Class 6 and Class 9. Access the official NVS portal for selection list, cutoff, and results."; 
+$meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 result, nvs selection list, navodaya class 9 results"; 
 ?>
 
 <main class="container">
@@ -63,5 +62,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

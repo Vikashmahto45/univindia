@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "class 12 rbse result 2022 - Official Rajasthan Board Archive";
-$meta_description = "Check class 12 rbse result 2022 for all streams including Science, Arts, and Commerce. Access the official 2022 Rajasthan Board (BSER) result portal on indiaresults.";
-$keyword = "class 12 rbse result 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "class 12 rbse result 2022 - Official Rajasthan Board Archive"; 
+$meta_description = "Check class 12 rbse result 2022 for all streams including Science, Arts, and Commerce. Access the official 2022 Rajasthan Board (BSER) result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 Senior Secondary (Class 12th) results for Rajasthan.
                 Official RBSE mirrors and archival links updated for all streams.</p>
@@ -110,4 +108,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "mjpru result 2021 by name - Official University Mirror";
-$meta_description = "Check mjpru result 2021 by name online. Access the historical results for M.J.P. Rohilkhand University, Bareilly without roll number.";
-$meta_keywords = "mjpru result 2021 by name, check mjp university result 2021 online, official rohilkhand university name wise search, mjpru bareilly name results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "mjpru result 2021 by name - Official University Mirror"; 
+$meta_description = "Check mjpru result 2021 by name online. Access the historical results for M.J.P. Rohilkhand University, Bareilly without roll number."; 
+$meta_keywords = "mjpru result 2021 by name, check mjp university result 2021 online, official rohilkhand university name wise search, mjpru bareilly name results"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

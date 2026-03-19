@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in";
-$page_description = "Complete guide to JoSAA 2025 Counselling for IIT, NIT, and IIIT admissions. Get direct link for JoSAA Registration, Choice Filling, and Seat Allotment Status. 800+ words.";
-$page_keywords = "JoSAA 2025 Counselling, JoSAA Registration Choice Filling, josaa.nic.in seat allotment, JEE Advanced JoSAA Schedule, NIT IIIT Admission Process";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -143,7 +141,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Engineering Institute Portals</h3>
                 <div class="row g-3">
-                    <?php
                     $eng_portals = [
                         'iit-bombay-admission.php' => 'IIT Bombay Admission Link',
                         'nit-trichy-admission.php' => 'NIT Trichy Seat Status',
@@ -157,7 +154,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -191,5 +187,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

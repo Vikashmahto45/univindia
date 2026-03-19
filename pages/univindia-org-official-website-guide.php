@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Org Official Website Guide - Alwar University Administrative Portal";
-$meta_description = "Access the Univindia Org official website for RRBMU Alwar. Official guide to navigating university exams, student panels, and official records online.";
-$meta_keywords = "Univindia Org Official Website Guide - Alwar University Administrative Portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Org Official Website Guide - Alwar University Administrative Portal"; 
+$meta_description = "Access the Univindia Org official website for RRBMU Alwar. Official guide to navigating university exams, student panels, and official records online."; 
+$meta_keywords = "Univindia Org Official Website Guide - Alwar University Administrative Portal"; 
 ?>
 
 <main class="container">
@@ -52,5 +51,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

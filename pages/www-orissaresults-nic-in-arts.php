@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www orissaresults nic in arts - Official Odisha CHSE Arts Result Hub";
-$meta_description = "Check www orissaresults nic in arts online. Access the Odisha +2 Arts results (Higher Secondary). Official 2024 merit list, subject marks, and grade cards.";
-$meta_keywords = "www orissaresults nic in arts, check odisha chse arts result, chse odisha +2 arts result 2024, orissa higher secondary arts results, official arts result link odisha";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www orissaresults nic in arts - Official Odisha CHSE Arts Result Hub"; 
+$meta_description = "Check www orissaresults nic in arts online. Access the Odisha +2 Arts results (Higher Secondary). Official 2024 merit list, subject marks, and grade cards."; 
+$meta_keywords = "www orissaresults nic in arts, check odisha chse arts result, chse odisha +2 arts result 2024, orissa higher secondary arts results, official arts result link odisha"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

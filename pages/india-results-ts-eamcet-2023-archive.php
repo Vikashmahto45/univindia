@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india results ts eamcet 2023 - Official Telangana Entrance Archive Portal";
-$meta_description = "Check india results ts eamcet 2023 for Engineering, Agriculture, and Medical streams. Access the official 2023 TS EAMCET result archive on indiaresults.";
-$keyword = "india results ts eamcet 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india results ts eamcet 2023 - Official Telangana Entrance Archive Portal"; 
+$meta_description = "Check india results ts eamcet 2023 for Engineering, Agriculture, and Medical streams. Access the official 2023 TS EAMCET result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 Entrance Examination results for Telangana EAMCET.
                 Official TSCHE mirrors and archival links updated for Engineering and Medical streams.</p>
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

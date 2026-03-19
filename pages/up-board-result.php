@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "UP Board Result - Official Uttar Pradesh Board examination Hub";
-$meta_description = "Check UP Board Result online. Access the high-speed UP Board (UPMSP) 10th and 12th results. Official 2024 merit lists, subject marks, and grade cards.";
-$meta_keywords = "up board result, check up board result online, upmsp 10th 12th result 2024, up board result nic in, official up board result link, upmsp news and results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "UP Board Result - Official Uttar Pradesh Board examination Hub"; 
+$meta_description = "Check UP Board Result online. Access the high-speed UP Board (UPMSP) 10th and 12th results. Official 2024 merit lists, subject marks, and grade cards."; 
+$meta_keywords = "up board result, check up board result online, upmsp 10th 12th result 2024, up board result nic in, official up board result link, upmsp news and results"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

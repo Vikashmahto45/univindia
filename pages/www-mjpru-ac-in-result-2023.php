@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www.mjpru.ac.in result 2023 - Official University Mirror";
-$meta_description = "Check www.mjpru.ac.in result 2023 online. Access the results for M.J.P. Rohilkhand University, Bareilly for all Undergraduate and Postgraduate exams.";
-$meta_keywords = "www.mjpru.ac.in result 2023, check mjp rohlikhand university results 2023 online, official mjpru portal results, mjpru direct links 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www.mjpru.ac.in result 2023 - Official University Mirror"; 
+$meta_description = "Check www.mjpru.ac.in result 2023 online. Access the results for M.J.P. Rohilkhand University, Bareilly for all Undergraduate and Postgraduate exams."; 
+$meta_keywords = "www.mjpru.ac.in result 2023, check mjp rohlikhand university results 2023 online, official mjpru portal results, mjpru direct links 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

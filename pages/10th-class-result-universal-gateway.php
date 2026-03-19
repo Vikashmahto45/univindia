@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th class ka result - Official Class 10th Result Universal Hub";
-$meta_description = "Check 10th class ka result for all Indian boards. Access the official 10th result universal gateway on indiaresults for high-speed score checking.";
-$keyword = "10th class ka result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th class ka result - Official Class 10th Result Universal Hub"; 
+$meta_description = "Check 10th class ka result for all Indian boards. Access the official 10th result universal gateway on indiaresults for high-speed score checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized hub for every Class 10th result in India. Official
                 state board and central mirrors updated for the current academic session.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

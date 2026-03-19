@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "wb result - Official West Bengal Academic Hub";
-$meta_description = "Check wb result for Madhyamik and Higher Secondary exams. Access the official West Bengal Board of Secondary Education (WBBSE) and Council (WBCHSE) result gateways on indiaresults.";
-$keyword = "wb result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "wb result - Official West Bengal Academic Hub"; 
+$meta_description = "Check wb result for Madhyamik and Higher Secondary exams. Access the official West Bengal Board of Secondary Education (WBBSE) and Council (WBCHSE) result gateways on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for West Bengal Class
                 10th (Madhyamik) and Class 12th (Higher Secondary). Official WBBSE and WBCHSE mirrors updated for the
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

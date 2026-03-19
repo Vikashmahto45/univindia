@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "RMLAU Admit Card Download - Dr. Ram Manohar Lohia Avadh University Hall Ticket | Univindia.online";
-$meta_description = "Download RMLAU Admit Card. Get the direct link for RMLAU BA, BSc, BCom, MA, and MSc semester/yearly examination hall tickets at rmlau.ac.in.";
-$meta_keywords = "rmlau admit card, dr ram manohar lohia avadh university hall ticket download, rmlau.ac.in admit card login, rmlau exam scheme 2024 download, rmlau call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RMLAU Admit Card Download - Dr. Ram Manohar Lohia Avadh University Hall Ticket | Univindia.online"; 
+$meta_description = "Download RMLAU Admit Card. Get the direct link for RMLAU BA, BSc, BCom, MA, and MSc semester/yearly examination hall tickets at rmlau.ac.in."; 
+$meta_keywords = "rmlau admit card, dr ram manohar lohia avadh university hall ticket download, rmlau.ac.in admit card login, rmlau exam scheme 2024 download, rmlau call letter"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

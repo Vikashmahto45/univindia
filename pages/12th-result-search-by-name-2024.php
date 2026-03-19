@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th Result Search By Name 2024 - Official Name-Wise Higher Secondary Portal";
-$meta_description = "Check 12th Result Search By Name 2024 online. Access the name-wise search for Punjab, Rajasthan, HP, and all state boards. Verify your 12th scores instantly.";
-$meta_keywords = "12th result search by name 2024, check 12th result name wise 2024, board result name search 2024, click to check 12th result by name, official hsc name search portal, check intermediate result by name";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th Result Search By Name 2024 - Official Name-Wise Higher Secondary Portal"; 
+$meta_description = "Check 12th Result Search By Name 2024 online. Access the name-wise search for Punjab, Rajasthan, HP, and all state boards. Verify your 12th scores instantly."; 
+$meta_keywords = "12th result search by name 2024, check 12th result name wise 2024, board result name search 2024, click to check 12th result by name, official hsc name search portal, check intermediate result by name"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

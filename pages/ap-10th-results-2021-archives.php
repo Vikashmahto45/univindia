@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "ap 10th results 2021 - Official Andhra Pradesh 2021 Archive";
-$meta_description = "Check ap 10th results 2021 for SSC exams. Access the official 2021 Andhra Pradesh Board (BSEAP) archival result gateway on indiaresults.";
-$keyword = "ap 10th results 2021";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ap 10th results 2021 - Official Andhra Pradesh 2021 Archive"; 
+$meta_description = "Check ap 10th results 2021 for SSC exams. Access the official 2021 Andhra Pradesh Board (BSEAP) archival result gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Andhra Pradesh
                 Class 10th (SSC). Official BSEAP mirrors and archival links updated for the 2021 batch verification.</p>
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

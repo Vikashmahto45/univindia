@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU Reval Result - Bikaner University Revaluation Scores";
-$meta_description = "Check your MGSU Bikaner revaluation results on Univindia Net. Official guide to downloading re-totaling and re-evaluation marksheets online.";
-$meta_keywords = "Univindia Net MGSU Reval Result - Bikaner University Revaluation Scores";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Reval Result - Bikaner University Revaluation Scores"; 
+$meta_description = "Check your MGSU Bikaner revaluation results on Univindia Net. Official guide to downloading re-totaling and re-evaluation marksheets online."; 
+$meta_keywords = "Univindia Net MGSU Reval Result - Bikaner University Revaluation Scores"; 
 ?>
 
 <main class="container">
@@ -54,5 +53,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

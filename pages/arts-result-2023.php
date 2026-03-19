@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Arts Result 2023 - Official Multi-Board Archive";
-$meta_description = "Check Arts Result 2023 online. Access the high-speed 12th Arts results for Rajasthan (RBSE), Odisha (CHSE), and MP Board for the 2023 session. Official Link.";
-$meta_keywords = "arts result 2023, check 12th arts result 2023 online, rbse 12th arts 2023, chse odisha arts 2023, mp board 12th arts result 2023, official arts results link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Arts Result 2023 - Official Multi-Board Archive"; 
+$meta_description = "Check Arts Result 2023 online. Access the high-speed 12th Arts results for Rajasthan (RBSE), Odisha (CHSE), and MP Board for the 2023 session. Official Link."; 
+$meta_keywords = "arts result 2023, check 12th arts result 2023 online, rbse 12th arts 2023, chse odisha arts 2023, mp board 12th arts result 2023, official arts results link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

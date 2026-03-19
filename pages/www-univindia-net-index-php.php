@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Www Univindia Net Index Php - University Portal Homepage Guide";
-$meta_description = "Access the official Www Univindia Net Index Php page for MGSU Bikaner. Complete guide to the university portal homepage for exams, results, and forms.";
-$meta_keywords = "Www Univindia Net Index Php - University Portal Homepage Guide";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Www Univindia Net Index Php - University Portal Homepage Guide"; 
+$meta_description = "Access the official Www Univindia Net Index Php page for MGSU Bikaner. Complete guide to the university portal homepage for exams, results, and forms."; 
+$meta_keywords = "Www Univindia Net Index Php - University Portal Homepage Guide"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

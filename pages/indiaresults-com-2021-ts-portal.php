@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indiaresults.com 2021 ts - Official Telangana Result Archive";
-$meta_description = "Check indiaresults.com 2021 ts for Telangana board and university results. Access the official 2021 TS result portal on indiaresults for high-speed checking.";
-$keyword = "indiaresults.com 2021 ts";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2021 ts - Official Telangana Result Archive"; 
+$meta_description = "Check indiaresults.com 2021 ts for Telangana board and university results. Access the official 2021 TS result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic result archives for Telangana. Official board
                 mirrors and high-speed links updated for the 2021 sessions.</p>
@@ -110,4 +108,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

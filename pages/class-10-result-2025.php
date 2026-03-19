@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Class 10 Result 2025 - All India Board 10th Result Hub";
-$meta_description = "Check Class 10 Result 2025 for CBSE, ICSE, and all state boards. Access the latest updates on high school result dates, scoring patterns, and official links.";
-$meta_keywords = "class 10 result 2025, 10th board result 2025, ssc result 2025, matric result date, class 10 scorecard online";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Class 10 Result 2025 - All India Board 10th Result Hub"; 
+$meta_description = "Check Class 10 Result 2025 for CBSE, ICSE, and all state boards. Access the latest updates on high school result dates, scoring patterns, and official links."; 
+$meta_keywords = "class 10 result 2025, 10th board result 2025, ssc result 2025, matric result date, class 10 scorecard online"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

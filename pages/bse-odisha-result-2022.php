@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "bse odisha result 2022 - Official Odisha Board Mirror";
-$meta_description = "Check bse odisha result 2022 online. Access the historical Class 10th (Matric) results for Board of Secondary Education (BSE) Odisha session 2022.";
-$meta_keywords = "bse odisha result 2022, check odisha 10th result 2022 online, official bse odisha matric 2022 link, odisha results 2022 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "bse odisha result 2022 - Official Odisha Board Mirror"; 
+$meta_description = "Check bse odisha result 2022 online. Access the historical Class 10th (Matric) results for Board of Secondary Education (BSE) Odisha session 2022."; 
+$meta_keywords = "bse odisha result 2022, check odisha 10th result 2022 online, official bse odisha matric 2022 link, odisha results 2022 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

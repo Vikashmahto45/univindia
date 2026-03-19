@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12 rbse result 2023 arts - Official Rajasthan 2023 Archive";
-$meta_description = "Check Rajasthan Board 12th Arts result 2023 on 12 rbse result 2023 arts. Access official RBSE Senior Secondary Arts 2023 archival scorecards on indiaresults.";
-$keyword = "12 rbse result 2023 arts";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12 rbse result 2023 arts - Official Rajasthan 2023 Archive"; 
+$meta_description = "Check Rajasthan Board 12th Arts result 2023 on 12 rbse result 2023 arts. Access official RBSE Senior Secondary Arts 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 12th (Senior Secondary) Arts stream. Official RBSE mirrors and 2023
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

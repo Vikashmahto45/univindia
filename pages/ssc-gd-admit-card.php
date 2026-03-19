@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC GD Admit Card 2025: BSF, CISF, CRPF Constable GD Hall Ticket Link @ ssc.gov.in";
-$page_description = "Download SSC GD Admit Card 2025. Get region-wise direct links for SSC Constable GD Hall Ticket, Exam Schedule, and Physical Test details. 800+ words of essential info.";
-$page_keywords = "SSC GD Admit Card 2025, SSC Constable GD Hall Ticket, SSC GD Exam Date, Download SSC GD Admit Card, SSC CR NR WR Admit Card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC GD Admit Card 2025: BSF, CISF, CRPF Constable GD Hall Ticket Link @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -202,7 +200,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-link me-2"></i> Related Search Keywords</h3>
                 <div class="row g-3">
-                    <?php
                     $related = [
                         'ssc-cgl-admit-card.php' => 'SSC CGL Admit Card',
                         'ssc-chsl-admit-card-2024.php' => 'SSC CHSL 2024 Hall Ticket',
@@ -216,7 +213,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -251,5 +247,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

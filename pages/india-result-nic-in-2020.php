@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result.nic.in 2020 - Official National Archive Gateway";
-$meta_description = "Check india result.nic.in 2020 for Class 10th and 12th board results. Access the official 2020 result archive on indiaresults for fast checking by name and roll number.";
-$keyword = "india result.nic.in 2020";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result.nic.in 2020 - Official National Archive Gateway"; 
+$meta_description = "Check india result.nic.in 2020 for Class 10th and 12th board results. Access the official 2020 result archive on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2020 national academic result archives. Dedicated links and
                 mirrors updated for the 2020 board examinations.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

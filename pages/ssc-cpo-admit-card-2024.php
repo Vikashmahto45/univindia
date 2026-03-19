@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC CPO Admit Card 2024 for Sub-Inspector (SI) recruitment. Get direct link for SSC CPO 2024 Hall Ticket, Physical Date, and Region Wise Status. 800+ words guide.";
-$page_keywords = "SSC CPO Admit Card 2024, SSC CPO SI 2024 Hall Ticket Download, ssc.gov.in cpo 2024 link, SSC CPO 2024 Exam Date, SSC CPO Region Status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -144,7 +142,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> SI Executive Resources</h3>
                 <div class="row g-3">
-                    <?php
                     $cpo24_links = [
                         'ssc-cpo-result-2024.php' => 'CPO Final Selection List',
                         'ssc-cpo-cut-off-2024.php' => 'CPO Region Wise Cut Off',
@@ -158,7 +155,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -192,5 +188,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

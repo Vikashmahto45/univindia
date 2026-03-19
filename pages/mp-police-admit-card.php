@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "MP Police Admit Card 2024 Download - MPESB Constable Hall Ticket Link | Univindia.online";
-$meta_description = "Download MP Police Admit Card 2024. Get the direct link for Madhya Pradesh Employees Selection Board (MPESB) Constable recruitment hall tickets at esb.mp.gov.in.";
-$meta_keywords = "mp police admit card 2024, mp police constable hall ticket download, esb.mp.gov.in admit card link, mp police exam date 2024, mp constable admit card download";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MP Police Admit Card 2024 Download - MPESB Constable Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download MP Police Admit Card 2024. Get the direct link for Madhya Pradesh Employees Selection Board (MPESB) Constable recruitment hall tickets at esb.mp.gov.in."; 
+$meta_keywords = "mp police admit card 2024, mp police constable hall ticket download, esb.mp.gov.in admit card link, mp police exam date 2024, mp constable admit card download"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

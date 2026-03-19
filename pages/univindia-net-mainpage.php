@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard";
-$meta_description = "Access the Univindia Net MainPage for Maharaja Ganga Singh University. Official guide to navigating exams, results, and student services via the main portal.";
-$meta_keywords = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard"; 
+$meta_description = "Access the Univindia Net MainPage for Maharaja Ganga Singh University. Official guide to navigating exams, results, and student services via the main portal."; 
+$meta_keywords = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "hs result 2021 assam seba board - Official Assam 2021 Archive";
-$meta_description = "Check Assam Board (SEBA) HS result 2021 on hs result 2021 assam seba board. Access the official Assam Class 12 archival results on indiaresults.";
-$keyword = "hs result 2021 assam seba board";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "hs result 2021 assam seba board - Official Assam 2021 Archive"; 
+$meta_description = "Check Assam Board (SEBA) HS result 2021 on hs result 2021 assam seba board. Access the official Assam Class 12 archival results on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Secondary
                 Education Board of Assam (SEBA) and AHSEC Higher Secondary (HS) examinations. Official Assam board
                 mirrors and 2021 archival links updated for batch verification.</p>
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

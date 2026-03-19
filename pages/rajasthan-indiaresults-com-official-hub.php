@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rajasthan indiaresults com - Official Rajasthan State Academic Hub";
-$meta_description = "Check rajasthan indiaresults com for board and university exams. Access the official Rajasthan result portal for BSER, RU, JNVU, and more on indiaresults.";
-$keyword = "rajasthan indiaresults com";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rajasthan indiaresults com - Official Rajasthan State Academic Hub"; 
+$meta_description = "Check rajasthan indiaresults com for board and university exams. Access the official Rajasthan result portal for BSER, RU, JNVU, and more on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your primary destination for all academic results across Rajasthan.
                 Official mirrors for BSER Ajmer, Rajasthan University Jaipur, and other major state boards and
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

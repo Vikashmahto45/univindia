@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 2019 - Official 2019 National Result Archive";
-$meta_description = "Check india result 2019 for 10th, 12th, and university exams. Access the official 2019 national result archive and historical marksheet download portal.";
-$meta_keywords = "india result 2019, 2019 board result, check 2019 results online, indiaresults 2019 archive, national result gateway 2019";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 2019 - Official 2019 National Result Archive"; 
+$meta_description = "Check india result 2019 for 10th, 12th, and university exams. Access the official 2019 national result archive and historical marksheet download portal."; 
+$meta_keywords = "india result 2019, 2019 board result, check 2019 results online, indiaresults 2019 archive, national result gateway 2019"; 
 ?>
 
 <main class="container">
@@ -120,5 +119,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

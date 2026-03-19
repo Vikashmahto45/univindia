@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rajasthan result nic in 10th - Official Rajasthan NIC Secondary Portal";
-$meta_description = "Check rajasthan result nic in 10th for RBSE exams. Access the official rajresults.nic.in mirror for Board of Secondary Education Rajasthan (BSER) on indiaresults.";
-$keyword = "rajasthan result nic in 10th";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rajasthan result nic in 10th - Official Rajasthan NIC Secondary Portal"; 
+$meta_description = "Check rajasthan result nic in 10th for RBSE exams. Access the official rajresults.nic.in mirror for Board of Secondary Education Rajasthan (BSER) on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your dedicated NIC portal mirror for Rajasthan Class 10th (Secondary)
                 examination results. Access official rajresults.nic.in data mirrors for both latest and archival
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

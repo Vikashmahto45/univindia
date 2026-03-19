@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Results AP - Official Andhra Pradesh Board Result Hub";
-$meta_description = "Check India Results AP online. Access the high-speed Andhra Pradesh (BSEAP, BIEAP) SSC and Inter results on IndiaResults mirror. 2024 merit lists link.";
-$meta_keywords = "india results ap, check andhra pradesh board result online, ap ssc result indiaresults 2024, indiaresult ap inter 2nd year, bseap result mirror, name wise ap result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Results AP - Official Andhra Pradesh Board Result Hub"; 
+$meta_description = "Check India Results AP online. Access the high-speed Andhra Pradesh (BSEAP, BIEAP) SSC and Inter results on IndiaResults mirror. 2024 merit lists link."; 
+$meta_keywords = "india results ap, check andhra pradesh board result online, ap ssc result indiaresults 2024, indiaresult ap inter 2nd year, bseap result mirror, name wise ap result"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

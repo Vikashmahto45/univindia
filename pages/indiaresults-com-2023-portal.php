@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "IndiaResults.com 2023 - Official National Result Archive";
-$meta_description = "Check IndiaResults.com 2023 online. Access the historical results for Rajasthan, Punjab, and other states for the 2023 session. Official IndiaResults mirror link.";
-$meta_keywords = "indiaresults.com 2023, check board results 2023 online, indiaresults 2023 mirror, state results 2023 link, official indiaresults 2023 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "IndiaResults.com 2023 - Official National Result Archive"; 
+$meta_description = "Check IndiaResults.com 2023 online. Access the historical results for Rajasthan, Punjab, and other states for the 2023 session. Official IndiaResults mirror link."; 
+$meta_keywords = "indiaresults.com 2023, check board results 2023 online, indiaresults 2023 mirror, state results 2023 link, official indiaresults 2023 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

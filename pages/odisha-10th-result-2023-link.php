@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "odisha 10th result 2023 - Official BSE Odisha Mirror";
-$meta_description = "Check odisha 10th result 2023 online. Access the results for Board of Secondary Education (BSE) Odisha Class 10 (Matric) for the 2023 session.";
-$meta_keywords = "odisha 10th result 2023, check bse odisha matric result 2023 online, official odisha 10th link, orissaresults nic in 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "odisha 10th result 2023 - Official BSE Odisha Mirror"; 
+$meta_description = "Check odisha 10th result 2023 online. Access the results for Board of Secondary Education (BSE) Odisha Class 10 (Matric) for the 2023 session."; 
+$meta_keywords = "odisha 10th result 2023, check bse odisha matric result 2023 online, official odisha 10th link, orissaresults nic in 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

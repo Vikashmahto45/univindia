@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "results.indiaresults.com 2021 - Official National Archive Hub";
-$meta_description = "Check results.indiaresults.com 2021 for all state and central board results. Access the official 2021 result gateway on indiaresults for high-speed checking.";
-$keyword = "results.indiaresults.com 2021";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "results.indiaresults.com 2021 - Official National Archive Hub"; 
+$meta_description = "Check results.indiaresults.com 2021 for all state and central board results. Access the official 2021 result gateway on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 national academic result archives. Dedicated mirrors and
                 high-speed links updated for the 2021 examination cycles.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

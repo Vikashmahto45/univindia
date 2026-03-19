@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RBSE 10th Result 2023 Link - Official Rajasthan Board Result Portal";
-$meta_description = "Access the RBSE 10th Result 2023 link for Rajasthan Board Secondary examinations. Check your archive result by roll number and official marksheet online.";
-$meta_keywords = "rbse 10th result 2023 link, rajasthan board 10th result 2023, check rbse secondary result 2023, rajresults.nic.in 2023 10th, bser 10th result search, official rbse results link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RBSE 10th Result 2023 Link - Official Rajasthan Board Result Portal"; 
+$meta_description = "Access the RBSE 10th Result 2023 link for Rajasthan Board Secondary examinations. Check your archive result by roll number and official marksheet online."; 
+$meta_keywords = "rbse 10th result 2023 link, rajasthan board 10th result 2023, check rbse secondary result 2023, rajresults.nic.in 2023 10th, bser 10th result search, official rbse results link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

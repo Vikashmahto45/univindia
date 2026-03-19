@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia MSBU Result - Bharatpur Brij University Marks Check";
-$meta_description = "Check your MSBU Bharatpur results on Univindia. Complete guide to downloading Brij University marksheets and revaluation results online.";
-$meta_keywords = "Univindia MSBU Result - Bharatpur Brij University Marks Check";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia MSBU Result - Bharatpur Brij University Marks Check"; 
+$meta_description = "Check your MSBU Bharatpur results on Univindia. Complete guide to downloading Brij University marksheets and revaluation results online."; 
+$meta_keywords = "Univindia MSBU Result - Bharatpur Brij University Marks Check"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

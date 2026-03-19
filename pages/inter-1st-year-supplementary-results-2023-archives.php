@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "inter 1st year supplementary results 2023 - Official National Inter Hub";
-$meta_description = "Check Intermediate 1st year supplementary result 2023 on inter 1st year supplementary results 2023. Access official indiaresults gateway for Inter Supply scorecards.";
-$keyword = "inter 1st year supplementary results 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "inter 1st year supplementary results 2023 - Official National Inter Hub"; 
+$meta_description = "Check Intermediate 1st year supplementary result 2023 on inter 1st year supplementary results 2023. Access official indiaresults gateway for Inter Supply scorecards."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all 2023 academic session Intermediate (1st
                 Year) Supplementary/Improvement examination results across India. Access official board mirrors and
@@ -127,4 +125,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

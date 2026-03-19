@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th class result 2022 odisha - Official BSE Archive Portal";
-$meta_description = "Check 10th class result 2022 odisha for the High School Certificate (HSC) Annual Exam. Access the official 2022 Odisha Matric result gateway on indiaresults.";
-$keyword = "10th class result 2022 odisha";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th class result 2022 odisha - Official BSE Archive Portal"; 
+$meta_description = "Check 10th class result 2022 odisha for the High School Certificate (HSC) Annual Exam. Access the official 2022 Odisha Matric result gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official 2022 Matriculation (10th) results for Odisha. Direct
                 archival links for BSE Odisha aspirants.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jammu and kashmir result - Official JKBOSE Result Hub";
-$meta_description = "Check Jammu and Kashmir board results on jammu and kashmir result. Access official JKBOSE 10th & 12th scorecards and archival links on indiaresults.";
-$keyword = "jammu and kashmir result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jammu and kashmir result - Official JKBOSE Result Hub"; 
+$meta_description = "Check Jammu and Kashmir board results on jammu and kashmir result. Access official JKBOSE 10th & 12th scorecards and archival links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Jammu and Kashmir Board of School Education
                 (JKBOSE) examination results for both Jammu and Kashmir divisions. Access official JKBOSE mirrors and
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

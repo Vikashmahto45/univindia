@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 2024 - Official National 2024 Portal";
-$meta_description = "Check india result 2024 for all board and university exams. Access the official 2024 national academic result gateway and live updates on indiaresults.";
-$keyword = "india result 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 2024 - Official National 2024 Portal"; 
+$meta_description = "Check india result 2024 for all board and university exams. Access the official 2024 national academic result gateway and live updates on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your dedicated destination for all academic results across India for the
                 2024 session. Official mirrors for all state boards, central councils, and major universities updated
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

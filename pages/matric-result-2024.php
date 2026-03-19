@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Matric Result 2024 - Official Secondary Examination Link Hub";
-$meta_description = "Check Matric Result 2024 online. Access the 10th (Secondary) results for Bihar Board (BSEB), UP Board, CBSE, ICSE, and all state boards. Download your 2024 marksheets.";
-$meta_keywords = "matric result 2024, check 10th result 2024, bseb matric result 2024, up board 10th result 2024, official matric result link, secondary school result 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Matric Result 2024 - Official Secondary Examination Link Hub"; 
+$meta_description = "Check Matric Result 2024 online. Access the 10th (Secondary) results for Bihar Board (BSEB), UP Board, CBSE, ICSE, and all state boards. Download your 2024 marksheets."; 
+$meta_keywords = "matric result 2024, check 10th result 2024, bseb matric result 2024, up board 10th result 2024, official matric result link, secondary school result 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

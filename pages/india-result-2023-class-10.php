@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 2023 Class 10 - Official Secondary Result Gateway";
-$meta_description = "Check India Result 2023 Class 10 online. Access the secondary board results for CBSE, ICSE, and all state boards. Download your 2023 marksheet and merit list.";
-$meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all india secondary result 2023, cbse 10th result 2023, state board 10th result 2023, official india result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 2023 Class 10 - Official Secondary Result Gateway"; 
+$meta_description = "Check India Result 2023 Class 10 online. Access the secondary board results for CBSE, ICSE, and all state boards. Download your 2023 marksheet and merit list."; 
+$meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all india secondary result 2023, cbse 10th result 2023, state board 10th result 2023, official india result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

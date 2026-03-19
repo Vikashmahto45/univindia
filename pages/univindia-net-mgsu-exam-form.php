@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU Exam Form - Bikaner University Online Registration";
-$meta_description = "Fill your MGSU Bikaner exam forms on Univindia Net MGSU Exam Form portal. Official guide to online registration, fee payment, and form status for Bikaner university.";
-$meta_keywords = "Univindia Net MGSU Exam Form - Bikaner University Online Registration";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Exam Form - Bikaner University Online Registration"; 
+$meta_description = "Fill your MGSU Bikaner exam forms on Univindia Net MGSU Exam Form portal. Official guide to online registration, fee payment, and form status for Bikaner university."; 
+$meta_keywords = "Univindia Net MGSU Exam Form - Bikaner University Online Registration"; 
 ?>
 
 <main class="container">
@@ -53,5 +52,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

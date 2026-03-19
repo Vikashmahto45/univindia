@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "wbresults.nic.in 10th result link - Official West Bengal Hub";
-$meta_description = "Check West Bengal Board 10th result on wbresults.nic.in 10th result link. Access official WBBSE Madhyamik scorecards and 10th result links on indiaresults.";
-$keyword = "wbresults.nic.in 10th result link";
-
 include '../header.php'; 
+$page_title = "wbresults.nic.in 10th result link - Official West Bengal Hub"; 
+$meta_description = "Check West Bengal Board 10th result on wbresults.nic.in 10th result link. Access official WBBSE Madhyamik scorecards and 10th result links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for West Bengal Board of Secondary Education (WBBSE) 10th (Madhyamik) examination results via the official wbresults.nic.in infrastructure. Access official board mirrors and 10th result links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 10th Result Link</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

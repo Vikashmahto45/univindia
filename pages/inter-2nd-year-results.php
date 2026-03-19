@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Inter 2nd Year Results - Official National Intermediate Gateway";
-$meta_description = "Check Inter 2nd Year Results online. Access the AP Intermediate, TS Intermediate, and other state 12th results. Official 2024 marksheets and merit lists.";
-$meta_keywords = "inter 2nd year results, check ap inter 2nd year result 2024, ts inter 2nd year results 2024, bieap results, bsetelangana results, official inter result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Inter 2nd Year Results - Official National Intermediate Gateway"; 
+$meta_description = "Check Inter 2nd Year Results online. Access the AP Intermediate, TS Intermediate, and other state 12th results. Official 2024 marksheets and merit lists."; 
+$meta_keywords = "inter 2nd year results, check ap inter 2nd year result 2024, ts inter 2nd year results 2024, bieap results, bsetelangana results, official inter result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

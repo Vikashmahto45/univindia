@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "inter results 2023 ap - Official Andhra Pradesh Intermediate Archive Hub";
-$meta_description = "Check inter results 2023 ap for 1st and 2nd year examinations. Access the official 2023 Andhra Pradesh (BIEAP) result archive on indiaresults.";
-$keyword = "inter results 2023 ap";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "inter results 2023 ap - Official Andhra Pradesh Intermediate Archive Hub"; 
+$meta_description = "Check inter results 2023 ap for 1st and 2nd year examinations. Access the official 2023 Andhra Pradesh (BIEAP) result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 Intermediate (1st & 2nd Year) results for Andhra
                 Pradesh. Official BIEAP mirrors and archival links updated for the 2023 session.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

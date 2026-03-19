@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 10th 2024 - Official Secondary Board Result Gateway";
-$meta_description = "Check india result 10th 2024 for all state and central boards. Access the latest 2024 secondary board exam results on indiaresults for fast checking and name-wise search.";
-$keyword = "india result 10th 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 10th 2024 - Official Secondary Board Result Gateway"; 
+$meta_description = "Check india result 10th 2024 for all state and central boards. Access the latest 2024 secondary board exam results on indiaresults for fast checking and name-wise search."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Stay updated with the latest 2024 Matriculation and Secondary Board
                 Results across all Indian states.</p>
             <div class="cta-group animate-up">
@@ -108,4 +106,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

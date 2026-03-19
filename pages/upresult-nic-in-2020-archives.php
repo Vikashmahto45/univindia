@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "upresult nic in 2020 - Official Uttar Pradesh Board Archive";
-$meta_description = "Check upresult nic in 2020 for High School and Intermediate exams. Access the official 2020 UPMSP archival result portal on indiaresults.";
-$keyword = "upresult nic in 2020";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "upresult nic in 2020 - Official Uttar Pradesh Board Archive"; 
+$meta_description = "Check upresult nic in 2020 for High School and Intermediate exams. Access the official 2020 UPMSP archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2020 High School and Intermediate academic results for Uttar
                 Pradesh. Official UPMSP mirrors and archival links updated for the 2020 session.</p>
@@ -116,4 +114,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

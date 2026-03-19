@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online";
-$meta_description = "Check SSC GD Constable Admit Card Status 2024. Get direct links for regional status updates, exam center city intimation, and Tier 1 hall ticket download steps.";
-$meta_keywords = "ssc gd admit card status 2024, ssc gd constable application status, ssc gd exam city check, ssc nr gd status, ssc cr gd admit card status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online"; 
+$meta_description = "Check SSC GD Constable Admit Card Status 2024. Get direct links for regional status updates, exam center city intimation, and Tier 1 hall ticket download steps."; 
+$meta_keywords = "ssc gd admit card status 2024, ssc gd constable application status, ssc gd exam city check, ssc nr gd status, ssc cr gd admit card status"; 
 ?>
 
 <div class="container main-content">
@@ -122,5 +120,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

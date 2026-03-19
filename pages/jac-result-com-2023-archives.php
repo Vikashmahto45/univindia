@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jac result.com 2023 - Official Jharkhand Academic 2023 Archive";
-$meta_description = "Check jac result.com 2023 for 10th and 12th exams. Access the official 2023 Jharkhand Academic Council (JAC) result portal and archives on indiaresults.";
-$keyword = "jac result.com 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jac result.com 2023 - Official Jharkhand Academic 2023 Archive"; 
+$meta_description = "Check jac result.com 2023 for 10th and 12th exams. Access the official 2023 Jharkhand Academic Council (JAC) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Jharkhand Class 10th
                 (Secondary) and 12th (Senior Secondary). Official JAC Ranchi mirrors and archival links updated for the
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

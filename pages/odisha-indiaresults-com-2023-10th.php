@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub";
-$meta_description = "Check odisha.indiaresults.com 2023 10th for BSE Odisha Matric examinations. Access the official 2023 Odisha 10th result link on indiaresults for fast checking.";
-$keyword = "odisha.indiaresults.com 2023 10th";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub"; 
+$meta_description = "Check odisha.indiaresults.com 2023 10th for BSE Odisha Matric examinations. Access the official 2023 Odisha 10th result link on indiaresults for fast checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 Matriculation (Class 10th) results for Odisha. Official
                 BSE mirrors and high-speed result links updated.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

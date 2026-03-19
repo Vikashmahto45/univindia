@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 2023 - Official National 2023 Archive";
-$meta_description = "Check india result 2023 for all state boards and universities. Access the official 2023 national examination results archival portal on indiaresults.";
-$keyword = "india result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 2023 - Official National 2023 Archive"; 
+$meta_description = "Check india result 2023 for all state boards and universities. Access the official 2023 national examination results archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all examination results across India for the
                 2023 session. Official board mirrors and archival result links updated for the 2023 academic batch
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

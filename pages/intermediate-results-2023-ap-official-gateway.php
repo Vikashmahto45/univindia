@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "intermediate results 2023 ap - Official Andhra Pradesh Hub";
-$meta_description = "Check Andhra Pradesh Intermediate result 2023 on intermediate results 2023 ap. Access official BIEAP Inter 2023 archival scorecards on indiaresults.";
-$keyword = "intermediate results 2023 ap";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "intermediate results 2023 ap - Official Andhra Pradesh Hub"; 
+$meta_description = "Check Andhra Pradesh Intermediate result 2023 on intermediate results 2023 ap. Access official BIEAP Inter 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for Andhra Pradesh Board of Intermediate Education
                 (BIEAP) Class 12th examination results for the 2023 academic session. Access official AP inter mirrors
@@ -129,4 +127,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

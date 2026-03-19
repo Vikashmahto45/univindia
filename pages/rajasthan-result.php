@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Rajasthan Result - Official State Board Portal";
-$meta_description = "Visit Rajasthan Result online. Access the primary Board of Secondary Education Rajasthan (BSER) and NIC results. Official state result gateway for 10th and 12th.";
-$meta_keywords = "rajasthan result, check rbse result online, rajresults nic in, bser ajmer result link, rajasthan 10th 12th result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Rajasthan Result - Official State Board Portal"; 
+$meta_description = "Visit Rajasthan Result online. Access the primary Board of Secondary Education Rajasthan (BSER) and NIC results. Official state result gateway for 10th and 12th."; 
+$meta_keywords = "rajasthan result, check rbse result online, rajresults nic in, bser ajmer result link, rajasthan 10th 12th result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

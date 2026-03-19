@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "ptet result 2025 - Official Rajasthan B.Ed Portal";
-$meta_description = "Check ptet result 2025 online. Access the Pre Teacher Education Test (PTET) results for Rajasthan B.Ed admission session 2025.";
-$meta_keywords = "ptet result 2025, check ptet 2025 result online, official ptet raj link, rajasthan b.ed entrance result 2025 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "ptet result 2025 - Official Rajasthan B.Ed Portal"; 
+$meta_description = "Check ptet result 2025 online. Access the Pre Teacher Education Test (PTET) results for Rajasthan B.Ed admission session 2025."; 
+$meta_keywords = "ptet result 2025, check ptet 2025 result online, official ptet raj link, rajasthan b.ed entrance result 2025 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

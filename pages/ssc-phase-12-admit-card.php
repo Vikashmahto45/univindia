@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC Phase 12 Admit Card 2024: Selection Posts Phase XII Hall Ticket Download @ ssc.gov.in";
-$page_description = "Download SSC Phase 12 Admit Card 2024 for Selection Posts (Matric, HS, and Graduate Level). Get direct link for SSC Phase XII Hall Ticket, Exam Date, and Status. 800+ words guide.";
-$page_keywords = "SSC Phase 12 Admit Card 2024, SSC Selection Post Phase XII Hall Ticket, ssc.gov.in phase 12 link, SSC Phase 12 Exam Date, SSC Phase 12 Region Wise Status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC Phase 12 Admit Card 2024: Selection Posts Phase XII Hall Ticket Download @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -139,7 +137,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-search-location me-2"></i> Region Wise Selection Details</h3>
                 <div class="row g-3">
-                    <?php
                     $selection_links = [
                         'sscsr.gov.in-selection-post.php' => 'Southern Reg Phase 12',
                         'ssckkr.kar.nic.in-selection-post.php' => 'KKR Reg Phase 12 Status',
@@ -153,7 +150,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -187,5 +183,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

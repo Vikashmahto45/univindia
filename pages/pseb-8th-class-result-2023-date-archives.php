@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "pseb 8th class result 2023 date - Official PSEB 8th Result Hub";
-$meta_description = "Find PSEB 8th class result 2023 date and updates on pseb 8th class result 2023 date. Access official Punjab Board Middle Result 2023 archives and links.";
-$keyword = "pseb 8th class result 2023 date";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "pseb 8th class result 2023 date - Official PSEB 8th Result Hub"; 
+$meta_description = "Find PSEB 8th class result 2023 date and updates on pseb 8th class result 2023 date. Access official Punjab Board Middle Result 2023 archives and links."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Punjab School Education Board (PSEB) Class
                 8th (Middle School) examination result dates and scorecard releases for the 2023 session. Official PSEB
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

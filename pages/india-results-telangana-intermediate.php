@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Results Telangana Intermediate - Official State Mirror Portal";
-$meta_description = "Check India Results Telangana Intermediate online. Access the Telangana State Board of Intermediate Education (TSBIE) 1st and 2nd Year results via the official mirror.";
-$meta_keywords = "india results telangana intermediate, check tsbie intermediate results online, ts 1st year result 2024, ts 2nd year result 2024 link, telangana indiaresults inter";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Results Telangana Intermediate - Official State Mirror Portal"; 
+$meta_description = "Check India Results Telangana Intermediate online. Access the Telangana State Board of Intermediate Education (TSBIE) 1st and 2nd Year results via the official mirror."; 
+$meta_keywords = "india results telangana intermediate, check tsbie intermediate results online, ts 1st year result 2024, ts 2nd year result 2024 link, telangana indiaresults inter"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

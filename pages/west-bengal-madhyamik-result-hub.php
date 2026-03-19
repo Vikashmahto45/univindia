@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "west bengal madhyamik result - Official WBBSE Result Portal Hub";
-$meta_description = "Check west bengal madhyamik result for Class 10th examinations. Access the official West Bengal (WBBSE) Matric result gateway on indiaresults.";
-$keyword = "west bengal madhyamik result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "west bengal madhyamik result - Official WBBSE Result Portal Hub"; 
+$meta_description = "Check west bengal madhyamik result for Class 10th examinations. Access the official West Bengal (WBBSE) Matric result gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest Madhyamik Pariksha (10th) results for West Bengal.
                 Official WBBSE mirrors and portal links updated for the Matric examinations.</p>
@@ -113,4 +111,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

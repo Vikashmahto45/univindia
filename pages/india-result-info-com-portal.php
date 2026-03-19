@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result info.com - Official Result Information Portal";
-$meta_description = "Access india result info.com for news and updates on board and university results across India. Your trusted source for official result links and data.";
-$meta_keywords = "india result info.com, india result info, check result info, official board results, indiaresults updates, university results info";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result info.com - Official Result Information Portal"; 
+$meta_description = "Access india result info.com for news and updates on board and university results across India. Your trusted source for official result links and data."; 
+$meta_keywords = "india result info.com, india result info, check result info, official board results, indiaresults updates, university results info"; 
 ?>
 
 <main class="container">
@@ -120,5 +119,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

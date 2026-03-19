@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in";
-$page_description = "Download RRB Group D Admit Card 2024-25 (RRC Level 1). Get direct link for Railway Group D Hall Ticket, Exam Schedule, and CBT Shift timings. 800+ words of latest updates.";
-$page_keywords = "RRB Group D Admit Card 2024, RRC Level 1 Hall Ticket Download, Railway Group D Admit Card Link, RRC Group D Call Letter, rrbcdg.gov.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -142,7 +140,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-subway me-2"></i> RRB Recruitment Pages</h3>
                 <div class="row g-3">
-                    <?php
                     $rrb_links = [
                         'rrb-ntpc-admit-card.php' => 'RRB NTPC Hall Ticket',
                         'rpf-constable-admit-card.php' => 'RPF Constable Admit Card',
@@ -156,7 +153,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -190,5 +186,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

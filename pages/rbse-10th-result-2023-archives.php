@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rbse 10th result 2023 - Official Rajasthan Secondary 2023 Archive";
-$meta_description = "Check rbse 10th result 2023 for Matric exams. Access the official 2023 Board of Secondary Education Rajasthan (BSER) archival portal and result link.";
-$keyword = "rbse 10th result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rbse 10th result 2023 - Official Rajasthan Secondary 2023 Archive"; 
+$meta_description = "Check rbse 10th result 2023 for Matric exams. Access the official 2023 Board of Secondary Education Rajasthan (BSER) archival portal and result link."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Rajasthan Class 10th
                 (Secondary). Official RBSE Ajmer mirrors and archival links updated for the 2023 batch verification.</p>
             <div class="cta-group animate-up">
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

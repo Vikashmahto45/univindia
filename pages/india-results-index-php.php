@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india results index php - Official National Board Mirror";
-$meta_description = "Check india results index php online. Access the primary national index of Class 10th and 12th results for all Indian State Boards via the official mirror.";
-$meta_keywords = "india results index php, check board results online index, official indiaresults index link, state board result index search, all india results php portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india results index php - Official National Board Mirror"; 
+$meta_description = "Check india results index php online. Access the primary national index of Class 10th and 12th results for all Indian State Boards via the official mirror."; 
+$meta_keywords = "india results index php, check board results online index, official indiaresults index link, state board result index search, all india results php portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

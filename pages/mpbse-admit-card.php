@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "MPBSE Admit Card 2025: MP Board 10th & 12th Hall Ticket Download @ mpbse.nic.in";
-$page_description = "Download MPBSE Admit Card 2025 for Class 10th and 12th examinations. Get direct link for MP Board Hall Ticket, Exam Schedule, and center details. 800+ words of in-depth updates.";
-$page_keywords = "MPBSE Admit Card 2025, MP Board Hall Ticket Download, MPBSE 10th Admit Card, MPBSE 12th Hall Ticket 2025, mpbse.nic.in call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MPBSE Admit Card 2025: MP Board 10th & 12th Hall Ticket Download @ mpbse.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -142,7 +140,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marked-alt me-2"></i> Other State Boards</h3>
                 <div class="row g-3">
-                    <?php
                     $other_boards = [
                         'hbse-admit-card.php' => 'HBSE Haryana Board',
                         'gseb-admit-card.php' => 'GSEB Gujarat Board',
@@ -156,7 +153,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -190,5 +186,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

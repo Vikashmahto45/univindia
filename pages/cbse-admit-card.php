@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online";
-$meta_description = "Download CBSE Admit Card. Get the direct link for CBSE Class 10th and 12th Board examination hall tickets at cbse.gov.in.";
-$meta_keywords = "cbse admit card download, central board hall ticket download, cbse.gov.in login admit card, class 10 exam date 2024 download, class 12 board call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online"; 
+$meta_description = "Download CBSE Admit Card. Get the direct link for CBSE Class 10th and 12th Board examination hall tickets at cbse.gov.in."; 
+$meta_keywords = "cbse admit card download, central board hall ticket download, cbse.gov.in login admit card, class 10 exam date 2024 download, class 12 board call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

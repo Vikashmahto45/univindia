@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Indian Army Admit Card Download - Agniveer & JCO Recruitment Hall Ticket | Univindia.online";
-$meta_description = "Download Indian Army Admit Card. Get the direct link for Join Indian Army Agniveer, JCO, and OR recruitment examination hall tickets at joinindianarmy.nic.in.";
-$meta_keywords = "indian army admit card, agniveer admit card download, joinindianarmy.nic.in login, indian army cee hall ticket, army recruitment rally admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Indian Army Admit Card Download - Agniveer & JCO Recruitment Hall Ticket | Univindia.online"; 
+$meta_description = "Download Indian Army Admit Card. Get the direct link for Join Indian Army Agniveer, JCO, and OR recruitment examination hall tickets at joinindianarmy.nic.in."; 
+$meta_keywords = "indian army admit card, agniveer admit card download, joinindianarmy.nic.in login, indian army cee hall ticket, army recruitment rally admit card"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

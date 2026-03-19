@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "orisha result nic.in - Official Odisha Board Mirror";
-$meta_description = "Check orisha result nic.in online. Access the results for Board of Secondary Education (BSE) and Council of Higher Secondary Education (CHSE) Odisha.";
-$meta_keywords = "orisha result nic.in, check odisha board results online, official orissa results link, orissaresults nic in search portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "orisha result nic.in - Official Odisha Board Mirror"; 
+$meta_description = "Check orisha result nic.in online. Access the results for Board of Secondary Education (BSE) and Council of Higher Secondary Education (CHSE) Odisha."; 
+$meta_keywords = "orisha result nic.in, check odisha board results online, official orissa results link, orissaresults nic in search portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

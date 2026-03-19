@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Inter Results 2022 AP 1st Year - Official BIEAP Archive";
-$meta_description = "Check Inter Results 2022 AP 1st Year online. Access the historical Andhra Pradesh Board of Intermediate Education (BIEAP) Junior Inter results for 2022. Official marks.";
-$meta_keywords = "inter results 2022 ap 1st year, check ap inter 1st year result 2022 online, bieap 1st year results 2022 manabadi, official 2022 ap inter link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Inter Results 2022 AP 1st Year - Official BIEAP Archive"; 
+$meta_description = "Check Inter Results 2022 AP 1st Year online. Access the historical Andhra Pradesh Board of Intermediate Education (BIEAP) Junior Inter results for 2022. Official marks."; 
+$meta_keywords = "inter results 2022 ap 1st year, check ap inter 1st year result 2022 online, bieap 1st year results 2022 manabadi, official 2022 ap inter link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

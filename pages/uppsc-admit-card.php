@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "UPPSC Admit Card Download - Uttar Pradesh Public Service Commission Hall Ticket | Univindia.online";
-$meta_description = "Download UPPSC Admit Card. Get the direct link for UPPSC RO/ARO, PCS, and other Uttar Pradesh state recruitment examination hall tickets at uppsc.up.nic.in.";
-$meta_keywords = "uppsc admit card download, uttar pradesh public service commission hall ticket download, uppsc.up.nic.in login admit card, uppsc exam date 2024 download, public service call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UPPSC Admit Card Download - Uttar Pradesh Public Service Commission Hall Ticket | Univindia.online"; 
+$meta_description = "Download UPPSC Admit Card. Get the direct link for UPPSC RO/ARO, PCS, and other Uttar Pradesh state recruitment examination hall tickets at uppsc.up.nic.in."; 
+$meta_keywords = "uppsc admit card download, uttar pradesh public service commission hall ticket download, uppsc.up.nic.in login admit card, uppsc exam date 2024 download, public service call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

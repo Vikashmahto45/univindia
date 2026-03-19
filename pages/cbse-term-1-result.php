@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "CBSE Term 1 Result - Official Central Board examination Hub";
-$meta_description = "Check CBSE Term 1 Result online. Access the Central Board (CBSE) Class 10 and 12 Term 1 examination scores. Official 2022-23 merit list and performance link.";
-$meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse class 12 term 1 result online, cbse term 1 result date, official cbseresults.nic.in term 1";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "CBSE Term 1 Result - Official Central Board examination Hub"; 
+$meta_description = "Check CBSE Term 1 Result online. Access the Central Board (CBSE) Class 10 and 12 Term 1 examination scores. Official 2022-23 merit list and performance link."; 
+$meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse class 12 term 1 result online, cbse term 1 result date, official cbseresults.nic.in term 1"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

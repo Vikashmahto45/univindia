@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "hptu india result - Official Himachal Pradesh Technical University Hub";
-$meta_description = "Check hptu india result for B.Tech, M.Tech, MBA and other degree exams. Access the official HPTU result portal and mirrors on indiaresults.";
-$keyword = "hptu india result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "hptu india result - Official Himachal Pradesh Technical University Hub"; 
+$meta_description = "Check hptu india result for B.Tech, M.Tech, MBA and other degree exams. Access the official HPTU result portal and mirrors on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Himachal
                 Pradesh Technical University (HPTU), Hamirpur. Direct degree result links and mirrors updated for the
@@ -126,4 +124,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

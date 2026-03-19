@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Result 2024 - Check Your Academic Scores Online";
-$meta_description = "Check your university results for the academic year 2024 on Univindia. Official guide for MGSU, RRBMU, and MSBU Result 2024 downloads and marksheets.";
-$meta_keywords = "Univindia Result 2024 - Check Your Academic Scores Online";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Result 2024 - Check Your Academic Scores Online"; 
+$meta_description = "Check your university results for the academic year 2024 on Univindia. Official guide for MGSU, RRBMU, and MSBU Result 2024 downloads and marksheets."; 
+$meta_keywords = "Univindia Result 2024 - Check Your Academic Scores Online"; 
 ?>
 
 <main class="container">
@@ -60,5 +59,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

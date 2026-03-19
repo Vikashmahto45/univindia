@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "CSIR NET Admit Card 2025 Download - NTA National Eligibility Test Hall Ticket | Univindia.online";
-$meta_description = "Download CSIR NET Admit Card 2025. Get the direct link for Joint CSIR UGC NET 2025 examination hall tickets for JRF and Assistant Professorship at csirnet.nta.ac.in.";
-$meta_keywords = "csir net admit card 2025, download csir net 2025 hall ticket, csirnet.nta.ac.in 2025 login, csir ugc net exam date 2025 download, science net call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CSIR NET Admit Card 2025 Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download CSIR NET Admit Card 2025. Get the direct link for Joint CSIR UGC NET 2025 examination hall tickets for JRF and Assistant Professorship at csirnet.nta.ac.in."; 
+$meta_keywords = "csir net admit card 2025, download csir net 2025 hall ticket, csirnet.nta.ac.in 2025 login, csir ugc net exam date 2025 download, science net call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

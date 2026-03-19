@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "seba hslc result 2024 - Official Assam Secondary Hub";
-$meta_description = "Check seba hslc result 2024 for MSBSHSE exams. Access the official Assam Board High School Leaving Certificate (HSLC) result gateway on indiaresults.";
-$keyword = "seba hslc result 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "seba hslc result 2024 - Official Assam Secondary Hub"; 
+$meta_description = "Check seba hslc result 2024 for MSBSHSE exams. Access the official Assam Board High School Leaving Certificate (HSLC) result gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2024 academic session individual results for Assam Class 10th
                 (HSLC). Official SEBA mirrors and board result links updated for the current 2024 academic session.</p>
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

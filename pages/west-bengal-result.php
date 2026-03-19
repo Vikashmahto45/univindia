@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "west bengal result - Official West Bengal Board Portal";
-$meta_description = "Check west bengal result online. Access the Madhyamik (Class 10) and Higher Secondary (Class 12) results for West Bengal Board of Secondary Education (WBBSE).";
-$meta_keywords = "west bengal result, check wb board results online, official wbbse results link, wbresults nic in index, kolkata board results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "west bengal result - Official West Bengal Board Portal"; 
+$meta_description = "Check west bengal result online. Access the Madhyamik (Class 10) and Higher Secondary (Class 12) results for West Bengal Board of Secondary Education (WBBSE)."; 
+$meta_keywords = "west bengal result, check wb board results online, official wbbse results link, wbresults nic in index, kolkata board results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "assam indiaresults - Official Assam Academic Hub";
-$meta_description = "Check assam indiaresults for SEBA, AHSEC and university exams. Access the official Assam board result portal and mirrors on indiaresults.";
-$keyword = "assam indiaresults";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "assam indiaresults - Official Assam Academic Hub"; 
+$meta_description = "Check assam indiaresults for SEBA, AHSEC and university exams. Access the official Assam board result portal and mirrors on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Assam Class
                 10th (SEBA), 12th (AHSEC), and major state universities. Direct result links and mirrors updated for the
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

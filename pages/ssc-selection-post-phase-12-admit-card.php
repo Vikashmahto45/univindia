@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC Selection Post Phase 12 Admit Card 2024. Get direct links for Matric, Higher Secondary, and Graduate level Selection Post Phase XII exams. 800+ word guide.";
-$page_keywords = "SSC Selection Post Phase 12 Admit Card 2024, Phase XII Hall Ticket Download, SSC Selection Post Exam Date, ssc.gov.in selection post admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -209,5 +207,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

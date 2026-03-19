@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rbse 10th board result - Official Rajasthan Secondary Hub";
-$meta_description = "Check rbse 10th board result for the High School (Secondary) examinations. Access the official Rajasthan (BSER) result gateway on indiaresults.";
-$keyword = "rbse 10th board result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rbse 10th board result - Official Rajasthan Secondary Hub"; 
+$meta_description = "Check rbse 10th board result for the High School (Secondary) examinations. Access the official Rajasthan (BSER) result gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest High School (Class 10th) results for Rajasthan.
                 Official RBSE mirrors and portal links updated for the Secondary examinations.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

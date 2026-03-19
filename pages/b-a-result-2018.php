@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks";
-$meta_description = "Check the B.A. Result 2018 archives. Access historical Bachelor of Arts scores from major Indian universities and understand the result retrieval process for the 2018 cycle.";
-$meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 2018 university results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks"; 
+$meta_description = "Check the B.A. Result 2018 archives. Access historical Bachelor of Arts scores from major Indian universities and understand the result retrieval process for the 2018 cycle."; 
+$meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 2018 university results"; 
 ?>
 
 <main class="container">
@@ -72,5 +71,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

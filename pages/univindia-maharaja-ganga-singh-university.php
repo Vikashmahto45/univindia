@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal";
-$meta_description = "Univindia Maharaja Ganga Singh University is the dedicated digital hub for MGSU Bikaner exams, results, and student forms. Complete guide to the official portal.";
-$meta_keywords = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal"; 
+$meta_description = "Univindia Maharaja Ganga Singh University is the dedicated digital hub for MGSU Bikaner exams, results, and student forms. Complete guide to the official portal."; 
+$meta_keywords = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal"; 
 ?>
 
 <main class="container">
@@ -55,5 +54,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

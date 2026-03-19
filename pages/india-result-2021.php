@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india result 2021 - Official National Board Mirror";
-$meta_description = "Check india result 2021 online. Access the historical results for all Indian State Boards and Universities for the 2021 academic session.";
-$meta_keywords = "india result 2021, check national results 2021 online, official indiaresults portal 2021, results nic in 2021 index";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india result 2021 - Official National Board Mirror"; 
+$meta_description = "Check india result 2021 online. Access the historical results for all Indian State Boards and Universities for the 2021 academic session."; 
+$meta_keywords = "india result 2021, check national results 2021 online, official indiaresults portal 2021, results nic in 2021 index"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

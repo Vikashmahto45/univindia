@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "pseb.ac.in 10th result 2022 term 2 - Official Punjab Board Archive";
-$meta_description = "Check pseb.ac.in 10th result 2022 term 2 for Matric exams. Access the official 2022 Punjab Board (PSEB) Term 2 archival result portal on indiaresults.";
-$keyword = "pseb.ac.in 10th result 2022 term 2";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "pseb.ac.in 10th result 2022 term 2 - Official Punjab Board Archive"; 
+$meta_description = "Check pseb.ac.in 10th result 2022 term 2 for Matric exams. Access the official 2022 Punjab Board (PSEB) Term 2 archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 Term 2 Matriculation academic results for Punjab.
                 Official PSEB mirrors and archival links updated for the 2022 session.</p>
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "BHU Admit Card 2021 Download - Banaras Hindu University Entrance Hall Ticket | Univindia.online";
-$meta_description = "Download BHU Admit Card 2021. Get the direct link for NTA BHU UET and PET entrance examination hall tickets at bhuet.nta.nic.in.";
-$meta_keywords = "bhu admit card 2021, bhu uet admit card download, bhu pet hall ticket login, bhuet.nta.nic.in admit card 2021 link, banaras hindu university admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "BHU Admit Card 2021 Download - Banaras Hindu University Entrance Hall Ticket | Univindia.online"; 
+$meta_description = "Download BHU Admit Card 2021. Get the direct link for NTA BHU UET and PET entrance examination hall tickets at bhuet.nta.nic.in."; 
+$meta_keywords = "bhu admit card 2021, bhu uet admit card download, bhu pet hall ticket login, bhuet.nta.nic.in admit card 2021 link, banaras hindu university admit card"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

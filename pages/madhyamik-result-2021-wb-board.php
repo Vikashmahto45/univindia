@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "madhyamik result 2021 west bengal board - Official WBBSE Archive";
-$meta_description = "Check madhyamik result 2021 west bengal board for the Class 10th examinations. Access the official 2021 WBBSE Matric result archive on indiaresults.";
-$keyword = "madhyamik result 2021 west bengal board";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "madhyamik result 2021 west bengal board - Official WBBSE Archive"; 
+$meta_description = "Check madhyamik result 2021 west bengal board for the Class 10th examinations. Access the official 2021 WBBSE Matric result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 Madhyamik Pariksha (10th) results for West Bengal.
                 Official WBBSE mirrors and archival links updated for Matric examinations.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online";
-$meta_description = "Download NEET PG Admit Card 2024. Get the direct link for NBEMS National Eligibility Entrance Test for Post Graduates (MD/MS) hall tickets at nbe.edu.in.";
-$meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu.in admit card login, neet pg exam date 2024 download, medical pg entrance call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download NEET PG Admit Card 2024. Get the direct link for NBEMS National Eligibility Entrance Test for Post Graduates (MD/MS) hall tickets at nbe.edu.in."; 
+$meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu.in admit card login, neet pg exam date 2024 download, medical pg entrance call letter"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

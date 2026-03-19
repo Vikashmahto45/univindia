@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indiaresults.com 2023 ba 1st year - Official University Academic Archive";
-$meta_description = "Check indiaresults.com 2023 ba 1st year for all participating universities. Access the official 2023 BA Part 1 archival result portal on indiaresults.";
-$keyword = "indiaresults.com 2023 ba 1st year";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2023 ba 1st year - Official University Academic Archive"; 
+$meta_description = "Check indiaresults.com 2023 ba 1st year for all participating universities. Access the official 2023 BA Part 1 archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Bachelor of Arts (BA) 1st
                 Year for major universities across India. Official mirrors and archival links updated for the 2023
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

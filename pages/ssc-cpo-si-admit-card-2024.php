@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket";
-$page_description = "Download SSC CPO SI Admit Card 2024. Get region-wise call letters for SSC Sub-Inspector in Delhi Police, BSF, CISF, CRPF, ITBP & SSB. Exam date and PET/PST details.";
-$page_keywords = "SSC CPO SI Admit Card 2024, SSC Sub Inspector Hall Ticket, SSC CPO Paper 1 Admit Card, Delhi Police SI Call Letter, ssc.gov.in cpo si admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -242,5 +240,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

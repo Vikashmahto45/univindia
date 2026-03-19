@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Www Univindia Net MGSU Admit Card 2024 - Bikaner University 2024 Hall Ticket";
-$meta_description = "Download your MGSU Bikaner 2024 admit card at Www Univindia Net. Official portal for Maharaja Ganga Singh University 2024 hall tickets online.";
-$meta_keywords = "Www Univindia Net MGSU Admit Card 2024 - Bikaner University 2024 Hall Ticket";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Www Univindia Net MGSU Admit Card 2024 - Bikaner University 2024 Hall Ticket"; 
+$meta_description = "Download your MGSU Bikaner 2024 admit card at Www Univindia Net. Official portal for Maharaja Ganga Singh University 2024 hall tickets online."; 
+$meta_keywords = "Www Univindia Net MGSU Admit Card 2024 - Bikaner University 2024 Hall Ticket"; 
 ?>
 
 <main class="container">
@@ -58,5 +57,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th hsc result 2023 - Official National Secondary Hub";
-$meta_description = "Check Class 10th (HSC) result 2023 on 10th hsc result 2023. Access official indiaresults gateway for Secondary scores and 2023 archival marksheet links.";
-$keyword = "10th hsc result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th hsc result 2023 - Official National Secondary Hub"; 
+$meta_description = "Check Class 10th (HSC) result 2023 on 10th hsc result 2023. Access official indiaresults gateway for Secondary scores and 2023 archival marksheet links."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all 2023 academic session Class 10th
                 (HSC/Secondary) examination results across India. Access official board mirrors and direct result links
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

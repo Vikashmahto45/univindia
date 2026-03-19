@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG";
-$page_description = "Download CUET Admit Card 2025 for UG Entrance Exam. Get direct link for NTA CUET Hall Ticket, Exam Schedule, and City Intimation Slip. 800+ words guide.";
-$page_keywords = "CUET Admit Card 2025, NTA CUET UG Hall Ticket Download, CUET 2025 Call Letter Link, exams.nta.ac.in cuet login, CUET City Slip Status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -137,7 +135,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-graduation-cap me-2"></i> University Admission Links</h3>
                 <div class="row g-3">
-                    <?php
                     $univ_links = [
                         'du-admit-card.php' => 'Delhi University Admit Card',
                         'bhu-admit-card.php' => 'BHU Entrance Hall Ticket',
@@ -151,7 +148,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -185,5 +181,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,5 +1,10 @@
-<?php include '../header.php'; ?>
-<?php
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
 include '../includes/link_map.php';
 $keywords = file('keyword.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 $filter = 'result';
@@ -17,5 +22,5 @@ foreach ($keywords as $keyword) {
 if ($count == 0) {
     echo "No results found.\n";
 }
-?>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway";
-$meta_description = "Check jkbose 11th result 2024 for Class 11 exams. Access the official JKBOSE divisional result portal on indiaresults for high-speed checking.";
-$keyword = "jkbose 11th result 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway"; 
+$meta_description = "Check jkbose 11th result 2024 for Class 11 exams. Access the official JKBOSE divisional result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest Class 11 academic results for Jammu & Kashmir.
                 Official JKBOSE mirrors and portal links updated for the 2024 session.</p>
@@ -115,4 +113,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

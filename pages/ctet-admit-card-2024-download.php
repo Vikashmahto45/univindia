@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "CTET Admit Card 2024 Download - Central Teacher Elidgibility Test Hall Ticket | Univindia.online";
-$meta_description = "Download CTET Admit Card 2024. Get the direct link for CBSE CTET 2024 (January/July) examination hall tickets at ctet.nic.in.";
-$meta_keywords = "ctet admit card 2024 download, ctet nic in admit card login, cbse ctet hall ticket 2024, ctet exam date 2024 download, central teacher eligibility test call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CTET Admit Card 2024 Download - Central Teacher Elidgibility Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download CTET Admit Card 2024. Get the direct link for CBSE CTET 2024 (January/July) examination hall tickets at ctet.nic.in."; 
+$meta_keywords = "ctet admit card 2024 download, ctet nic in admit card login, cbse ctet hall ticket 2024, ctet exam date 2024 download, central teacher eligibility test call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

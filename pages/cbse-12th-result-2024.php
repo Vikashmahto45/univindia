@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "CBSE 12th Result 2024 - Official Central Board Result Portal";
-$meta_description = "Check CBSE 12th Result 2024 online. Access the Central Board of Secondary Education Class 12 results, marksheets, and merit list for the 2024 session.";
-$meta_keywords = "cbse 12th result 2024, cbse result 2024 class 12, check cbse 12 result online, cbse board result 2024, class 12 result merit list 2024, official cbse result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "CBSE 12th Result 2024 - Official Central Board Result Portal"; 
+$meta_description = "Check CBSE 12th Result 2024 online. Access the Central Board of Secondary Education Class 12 results, marksheets, and merit list for the 2024 session."; 
+$meta_keywords = "cbse 12th result 2024, cbse result 2024 class 12, check cbse 12 result online, cbse board result 2024, class 12 result merit list 2024, official cbse result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

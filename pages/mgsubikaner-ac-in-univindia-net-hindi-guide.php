@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Mgsubikaner.ac.in एवं Www.univindia.net - MGSU बीकानेर हिंदी गाइड";
-$meta_description = "Mgsubikaner.ac.in और Www.univindia.net पोर्टल के उपयोग की पूरी जानकारी हिंदी में। एमजीएसयू बीकानेर परीक्षा, परिणाम और छात्र सेवा मार्गदर्शिका।";
-$meta_keywords = "Mgsubikaner.ac.in एवं Www.univindia.net - MGSU बीकानेर हिंदी गाइड";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Mgsubikaner.ac.in एवं Www.univindia.net - MGSU बीकानेर हिंदी गाइड"; 
+$meta_description = "Mgsubikaner.ac.in और Www.univindia.net पोर्टल के उपयोग की पूरी जानकारी हिंदी में। एमजीएसयू बीकानेर परीक्षा, परिणाम और छात्र सेवा मार्गदर्शिका।"; 
+$meta_keywords = "Mgsubikaner.ac.in एवं Www.univindia.net - MGSU बीकानेर हिंदी गाइड"; 
 ?>
 
 <main class="container">
@@ -62,5 +61,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

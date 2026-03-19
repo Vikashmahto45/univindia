@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "webresult.nic.in 2022 result - Official National NIC Mirror";
-$meta_description = "Check webresult.nic.in 2022 result online. Access the historical CBSE, ICSE, and All-India State Board results for the 2022 session via the official NIC portal.";
-$meta_keywords = "webresult.nic.in 2022 result, check 2022 board results online, official 2022 nic result link, national 2022 mirror portal, results.nic.in 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "webresult.nic.in 2022 result - Official National NIC Mirror"; 
+$meta_description = "Check webresult.nic.in 2022 result online. Access the historical CBSE, ICSE, and All-India State Board results for the 2022 session via the official NIC portal."; 
+$meta_keywords = "webresult.nic.in 2022 result, check 2022 board results online, official 2022 nic result link, national 2022 mirror portal, results.nic.in 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

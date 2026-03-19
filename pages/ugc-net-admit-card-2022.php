@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "UGC NET Admit Card 2022 Download - NTA National Eligibility Test Hall Ticket | Univindia.online";
-$meta_description = "Download UGC NET Admit Card 2022. Get the direct link for NTA UGC National Eligibility Test (NET) combined cycle examination hall tickets at ugcnet.nta.nic.in.";
-$meta_keywords = "ugc net admit card 2022, nta ugc net hall ticket download, ugcnet.nta.nic.in admit card login, ugc net december 2021 june 2022 admit card, net exam hall ticket";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UGC NET Admit Card 2022 Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download UGC NET Admit Card 2022. Get the direct link for NTA UGC National Eligibility Test (NET) combined cycle examination hall tickets at ugcnet.nta.nic.in."; 
+$meta_keywords = "ugc net admit card 2022, nta ugc net hall ticket download, ugcnet.nta.nic.in admit card login, ugc net december 2021 june 2022 admit card, net exam hall ticket"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

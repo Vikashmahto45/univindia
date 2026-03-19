@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive";
-$meta_description = "Check inter 1st year results 2022 ap for BIEAP exams. Access the official 2022 Andhra Pradesh Intermediate result portal and archives on indiaresults.";
-$keyword = "inter 1st year results 2022 ap";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive"; 
+$meta_description = "Check inter 1st year results 2022 ap for BIEAP exams. Access the official 2022 Andhra Pradesh Intermediate result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Andhra Pradesh Class 11th
                 (Junior Intermediate). Official BIEAP Vijayawada mirrors and archival links updated for 2022 batch
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

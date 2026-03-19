@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in";
-$page_description = "Download RRB Admit Card 2025 for all zones. Get direct link for Railway NTPC, ALP, JE, and Group D Hall Tickets. 800+ words of technical guide for all RRB regions.";
-$page_keywords = "RRB Admit Card 2025, Railway Hall Ticket Download Link, RRB NTPC Admit Card, RRB ALP Call Letter, rrbcdg.gov.in admit card 2025";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -138,7 +136,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marker-alt me-2"></i> Popular RRB Zone Portals</h3>
                 <div class="row g-3">
-                    <?php
                     $zones = [
                         'rrb-chandigarh-admit-card.php' => 'RRB Chandigarh',
                         'rrb-patna-admit-card.php' => 'RRB Patna',
@@ -152,7 +149,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -186,5 +182,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

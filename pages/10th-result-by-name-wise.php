@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th result by name wise - Official National Board Mirror";
-$meta_description = "Check 10th result by name wise online. Access the results for all Indian State Boards (Rajasthan, Bihar, Punjab, etc.) using your name for the 2024 session.";
-$meta_keywords = "10th result by name wise, check class 10 result by name online, official name wise result link, indiaresults name search portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th result by name wise - Official National Board Mirror"; 
+$meta_description = "Check 10th result by name wise online. Access the results for all Indian State Boards (Rajasthan, Bihar, Punjab, etc.) using your name for the 2024 session."; 
+$meta_keywords = "10th result by name wise, check class 10 result by name online, official name wise result link, indiaresults name search portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

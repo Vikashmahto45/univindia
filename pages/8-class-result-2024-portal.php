@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "8 class result 2024 - Official Elementary Board Result Portal";
-$meta_description = "Check 8 class result 2024 for academic board exams. Access the official 2024 Class 8th (Elementary) result portal on indiaresults.";
-$keyword = "8 class result 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "8 class result 2024 - Official Elementary Board Result Portal"; 
+$meta_description = "Check 8 class result 2024 for academic board exams. Access the official 2024 Class 8th (Elementary) result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for the Class 8th (Elementary) results for
                 the 2024 academic session. Official multi-board mirrors and portal links updated for the 2024 batch.</p>
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

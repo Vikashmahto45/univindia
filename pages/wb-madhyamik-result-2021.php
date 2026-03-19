@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "WB Madhyamik Result 2021 - Historical West Bengal Class 10th Archive";
-$meta_description = "Check WB Madhyamik Result 2021 online. Access the historical West Bengal Board of Secondary Education (WBBSE) results for the 2021 session. Verify your 2021 scores.";
-$meta_keywords = "wb madhyamik result 2021, check wbbse result 2021, west bengal 10th result 2021 link, wbresults.nic.in 2021 madhyamik, official madhyamik portal 2021, wbbse marksheet 2021";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "WB Madhyamik Result 2021 - Historical West Bengal Class 10th Archive"; 
+$meta_description = "Check WB Madhyamik Result 2021 online. Access the historical West Bengal Board of Secondary Education (WBBSE) results for the 2021 session. Verify your 2021 scores."; 
+$meta_keywords = "wb madhyamik result 2021, check wbbse result 2021, west bengal 10th result 2021 link, wbresults.nic.in 2021 madhyamik, official madhyamik portal 2021, wbbse marksheet 2021"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

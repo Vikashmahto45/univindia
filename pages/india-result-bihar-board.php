@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result Bihar Board - Official National Mirror";
-$meta_description = "Check India Result Bihar Board online. Access the primary BSEB Matric (10th) and Intermediate (12th) results. Official Bihar IndiaResults high-speed link.";
-$meta_keywords = "india result bihar board, check bseb result online, indiaresults bihar board matric, bihar board inter result link, bseb result 2024 online";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result Bihar Board - Official National Mirror"; 
+$meta_description = "Check India Result Bihar Board online. Access the primary BSEB Matric (10th) and Intermediate (12th) results. Official Bihar IndiaResults high-speed link."; 
+$meta_keywords = "india result bihar board, check bseb result online, indiaresults bihar board matric, bihar board inter result link, bseb result 2024 online"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result jkbose - Official Jammu & Kashmir Board Hub";
-$meta_description = "Check india result jkbose for Class 10th (Secondary) and 12th (Senior Secondary) results. Access the official JKBOSE result portal on indiaresults.";
-$keyword = "india result jkbose";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result jkbose - Official Jammu & Kashmir Board Hub"; 
+$meta_description = "Check india result jkbose for Class 10th (Secondary) and 12th (Senior Secondary) results. Access the official JKBOSE result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest academic results for Jammu & Kashmir. Official JKBOSE
                 mirrors and portal links updated for both Jammu and Kashmir divisions.</p>
@@ -116,4 +114,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

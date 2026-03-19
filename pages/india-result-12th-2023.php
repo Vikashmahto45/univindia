@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 12th 2023 - Senior Secondary Results Archive for All Boards";
-$meta_description = "Retrieve your India Result 12th 2023 online. Access the archival scores and merit lists for Class 12 CBSE, state boards, and national exams from the 2023 session.";
-$meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th board result 2023, senior secondary result 2023 national, india results 12th-2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 12th 2023 - Senior Secondary Results Archive for All Boards"; 
+$meta_description = "Retrieve your India Result 12th 2023 online. Access the archival scores and merit lists for Class 12 CBSE, state boards, and national exams from the 2023 session."; 
+$meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th board result 2023, senior secondary result 2023 national, india results 12th-2023"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

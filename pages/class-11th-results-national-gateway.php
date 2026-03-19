@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "class 11th results - Official National Examination Hub";
-$meta_description = "Check class 11th results for all major state and central boards. Access the official Class 11 (Plus One) result portal on indiaresults for high-speed checking.";
-$keyword = "class 11th results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "class 11th results - Official National Examination Hub"; 
+$meta_description = "Check class 11th results for all major state and central boards. Access the official Class 11 (Plus One) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized national portal for all Class 11th academic results.
                 State, Central, and Autonomous board links updated in real-time.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

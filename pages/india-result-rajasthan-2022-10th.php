@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india result rajasthan 2022 10th - Official RBSE Matric Portal";
-$meta_description = "Check india result rajasthan 2022 10th online. Access the historical Board of Secondary Education Rajasthan (BSER) Class 10th results for the 2022 session.";
-$meta_keywords = "india result rajasthan 2022 10th, check rbse 10th result 2022 online, official 2022 rajasthan board link, rajresults.nic.in 2022 portal, rajasthan matric 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india result rajasthan 2022 10th - Official RBSE Matric Portal"; 
+$meta_description = "Check india result rajasthan 2022 10th online. Access the historical Board of Secondary Education Rajasthan (BSER) Class 10th results for the 2022 session."; 
+$meta_keywords = "india result rajasthan 2022 10th, check rbse 10th result 2022 online, official 2022 rajasthan board link, rajresults.nic.in 2022 portal, rajasthan matric 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

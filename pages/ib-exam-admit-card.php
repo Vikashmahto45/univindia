@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "IB Exam Admit Card 2024: Intelligence Bureau ACIO & SA Hall Ticket";
-$meta_description = "Download Intelligence Bureau (IB) Exam Admit Card for ACIO, Security Assistant, and MTS. Get direct link to MHA official portal for IB Hall Ticket download.";
-$keywords = "ib exam admit card, intelligence bureau admit card, ib acio admit card, ib security assistant hall ticket, mha ib admit card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "IB Exam Admit Card 2024: Intelligence Bureau ACIO & SA Hall Ticket"; 
+$meta_description = "Download Intelligence Bureau (IB) Exam Admit Card for ACIO, Security Assistant, and MTS. Get direct link to MHA official portal for IB Hall Ticket download."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -156,4 +155,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

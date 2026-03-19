@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jac 10th result - Official Jharkhand Academic Council Portal";
-$meta_description = "Check jac 10th result online. Access the official Jharkhand Board Matriculation result portal, marksheet download, and school-wise selection list.";
-$meta_keywords = "jac 10th result, Jharkhand board 10th result, jac matric result, check jac 10th result online, Jharkhand Academic Council result";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jac 10th result - Official Jharkhand Academic Council Portal"; 
+$meta_description = "Check jac 10th result online. Access the official Jharkhand Board Matriculation result portal, marksheet download, and school-wise selection list."; 
+$meta_keywords = "jac 10th result, Jharkhand board 10th result, jac matric result, check jac 10th result online, Jharkhand Academic Council result"; 
 ?>
 
 <main class="container">
@@ -121,5 +120,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

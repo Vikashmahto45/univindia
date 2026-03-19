@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "search by name result - Official National Name-Wise Hub";
-$meta_description = "Check board results by student name on search by name result. Access the official indiaresults Name-Wise Search features for 10th & 12th results nationwide.";
-$keyword = "search by name result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "search by name result - Official National Name-Wise Hub"; 
+$meta_description = "Check board results by student name on search by name result. Access the official indiaresults Name-Wise Search features for 10th & 12th results nationwide."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all examination results searchable by student
                 name instead of roll number. Access official board name-wise mirrors and direct score links for all
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "OTET Admit Card 2021 Download - Odisha Teacher Eligibility Test Hall Ticket Link | Univindia.online";
-$meta_description = "Download OTET Admit Card 2021. Get the direct link for Odisha Teacher Eligibility Test (OTET) examination hall tickets at bseodisha.ac.in.";
-$meta_keywords = "otet admit card 2021, bse odisha teacher hall ticket download, otet.nic.in admit card link, odisha tet 2021 hall ticket download, teacher eligibility test odisha";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "OTET Admit Card 2021 Download - Odisha Teacher Eligibility Test Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download OTET Admit Card 2021. Get the direct link for Odisha Teacher Eligibility Test (OTET) examination hall tickets at bseodisha.ac.in."; 
+$meta_keywords = "otet admit card 2021, bse odisha teacher hall ticket download, otet.nic.in admit card link, odisha tet 2021 hall ticket download, teacher eligibility test odisha"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

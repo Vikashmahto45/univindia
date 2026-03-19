@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "JEE Admit Card 2025: IIT JEE Main/Advanced Hall Ticket Download @ jeemain.nta.nic.in";
-$page_description = "Download JEE Admit Card 2025 for Session 1 and Session 2. Get direct link for NTA JEE Main Call Letter, Exam Schedule, and center details. 800+ words of in-depth guide.";
-$page_keywords = "JEE Admit Card 2025, JEE Main Hall Ticket Download, IIT JEE Admit Card, NTA JEE Main Session 1 Admit Card, jeemain.nta.nic.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "JEE Admit Card 2025: IIT JEE Main/Advanced Hall Ticket Download @ jeemain.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -152,7 +150,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-microchip me-2"></i> Engineering Hall Tickets</h3>
                 <div class="row g-3">
-                    <?php
                     $eng = [
                         'jee-main-admit-card.php' => 'JEE Main Session 2 Link',
                         'bitsat-admit-card.php' => 'BITSAT Hall Ticket',
@@ -166,7 +163,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -200,5 +196,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

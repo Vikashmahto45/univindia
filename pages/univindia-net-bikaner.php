@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net Bikaner - MGSU University Exam & Result portal";
-$meta_description = "Univindia Net Bikaner is the dedicated portal for Maharaja Ganga Singh University. Get your MGSU Bikaner results, admit cards, and exam forms at Univindia.net.";
-$meta_keywords = "univindia net bikaner";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net Bikaner - MGSU University Exam & Result portal"; 
+$meta_description = "Univindia Net Bikaner is the dedicated portal for Maharaja Ganga Singh University. Get your MGSU Bikaner results, admit cards, and exam forms at Univindia.net."; 
+$meta_keywords = "univindia net bikaner"; 
 ?>
 
 <main class="container">
@@ -47,5 +46,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

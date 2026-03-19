@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in";
-$page_description = "RPF Constable Admit Card 2024 Download Link. Get hall ticket for Railway Protection Force Constable CBT Exam. Physical test date, exam city, and instructions.";
-$page_keywords = "RPF Constable Admit Card 2024, Railway RPF Hall Ticket, RPF Constable Exam Date 2024, Download RPF Call Letter, rrbapply.gov.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -207,5 +205,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www-pseb-ac-in 12th result 2021 - Official Punjab Board Senior Secondary Archive";
-$meta_description = "Check www-pseb-ac-in 12th result 2021 for Senior Secondary exams. Access the official 2021 Punjab Board (PSEB) archival result portal on indiaresults.";
-$keyword = "www-pseb-ac-in 12th result 2021";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www-pseb-ac-in 12th result 2021 - Official Punjab Board Senior Secondary Archive"; 
+$meta_description = "Check www-pseb-ac-in 12th result 2021 for Senior Secondary exams. Access the official 2021 Punjab Board (PSEB) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Class 12th (Senior
                 Secondary) for Punjab. Official PSEB Mohali mirrors and archival links updated for the 2021 batch.</p>
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result NIC In 2024 - Official National Examination Portal";
-$meta_description = "Check India Result NIC In 2024 online. Access the results for all central and state boards hosted on the official National Informatics Centre (NIC) network for 2024.";
-$meta_keywords = "india result nic in 2024, click to check results 2024 nic, results.nic.in 2024, national results 20th 12th 2024, official nic result portal, check results gov in 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result NIC In 2024 - Official National Examination Portal"; 
+$meta_description = "Check India Result NIC In 2024 online. Access the results for all central and state boards hosted on the official National Informatics Centre (NIC) network for 2024."; 
+$meta_keywords = "india result nic in 2024, click to check results 2024 nic, results.nic.in 2024, national results 20th 12th 2024, official nic result portal, check results gov in 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

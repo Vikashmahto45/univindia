@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Intermediate Results 2024 AP - Official Andhra Pradesh Inter Hub";
-$meta_description = "Check Intermediate Results 2024 AP online. Access the Andhra Pradesh Board of Intermediate Education (BIEAP) 1st and 2nd year results. Official 2024 marksheet links.";
-$meta_keywords = "intermediate results 2024 ap, check ap intermediate results 2024, bie.ap.gov.in results 2024, ap inter 1st year result 2024, ap inter 2nd year result 2024, official ap inter portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Intermediate Results 2024 AP - Official Andhra Pradesh Inter Hub"; 
+$meta_description = "Check Intermediate Results 2024 AP online. Access the Andhra Pradesh Board of Intermediate Education (BIEAP) 1st and 2nd year results. Official 2024 marksheet links."; 
+$meta_keywords = "intermediate results 2024 ap, check ap intermediate results 2024, bie.ap.gov.in results 2024, ap inter 1st year result 2024, ap inter 2nd year result 2024, official ap inter portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

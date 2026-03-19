@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indiaresults.com Punjab 2022 10th Class - Official PSEB Archive";
-$meta_description = "Check Indiaresults.com Punjab 2022 10th Class online. Access the historical Punjab School Education Board (PSEB) Matric results for the 2022 session. Official mirror.";
-$meta_keywords = "indiaresults.com punjab 2022 10th class, check pseb 10th result 2022 online, punjab board matric result 2022 indiaresults, official 2022 punjab 10th link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indiaresults.com Punjab 2022 10th Class - Official PSEB Archive"; 
+$meta_description = "Check Indiaresults.com Punjab 2022 10th Class online. Access the historical Punjab School Education Board (PSEB) Matric results for the 2022 session. Official mirror."; 
+$meta_keywords = "indiaresults.com punjab 2022 10th class, check pseb 10th result 2022 online, punjab board matric result 2022 indiaresults, official 2022 punjab 10th link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

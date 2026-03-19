@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "pseb ac in login - Official Punjab Board Portal";
-$meta_description = "Check pseb ac in login online. Access the login portal for Punjab School Education Board (PSEB) for results, registrations, and official services.";
-$meta_keywords = "pseb ac in login, check pseb portal online, official punjab board login, pseb result index, punjab board student login portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "pseb ac in login - Official Punjab Board Portal"; 
+$meta_description = "Check pseb ac in login online. Access the login portal for Punjab School Education Board (PSEB) for results, registrations, and official services."; 
+$meta_keywords = "pseb ac in login, check pseb portal online, official punjab board login, pseb result index, punjab board student login portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

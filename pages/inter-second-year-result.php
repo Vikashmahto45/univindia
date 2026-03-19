@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "inter second year result - Official National Board Mirror";
-$meta_description = "Check inter second year result online. Access the results for all Indian State Boards (TS, AP, UP, etc.) Class 12 for the 2024 session.";
-$meta_keywords = "inter second year result, check senior intermediate results 2024 online, official inter mirror link, inter 2nd year results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "inter second year result - Official National Board Mirror"; 
+$meta_description = "Check inter second year result online. Access the results for all Indian State Boards (TS, AP, UP, etc.) Class 12 for the 2024 session."; 
+$meta_keywords = "inter second year result, check senior intermediate results 2024 online, official inter mirror link, inter 2nd year results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

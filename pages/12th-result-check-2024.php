@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th Result Check 2024 - Official Intermediate Result Verification";
-$meta_description = "Check 12th Result Check 2024 online. Access the Intermediate and Senior Secondary results for CBSE, ICSE, and all state boards. Download your 2024 marksheet now.";
-$meta_keywords = "12th result check 2024, check 12th board result 2024, hsc result 2024 check, check intermediate result 2024, class 12 result link 2024, official 12th result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th Result Check 2024 - Official Intermediate Result Verification"; 
+$meta_description = "Check 12th Result Check 2024 online. Access the Intermediate and Senior Secondary results for CBSE, ICSE, and all state boards. Download your 2024 marksheet now."; 
+$meta_keywords = "12th result check 2024, check 12th board result 2024, hsc result 2024 check, check intermediate result 2024, class 12 result link 2024, official 12th result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

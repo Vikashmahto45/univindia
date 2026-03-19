@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bse 10th result 2023 - Official Secondary Education Result Portal";
-$meta_description = "Check bse 10th result 2023 for all boards including BSE Odisha, BSE Telangana, and more. Access the official 2023 secondary results on indiaresults for fast checking.";
-$keyword = "bse 10th result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bse 10th result 2023 - Official Secondary Education Result Portal"; 
+$meta_description = "Check bse 10th result 2023 for all boards including BSE Odisha, BSE Telangana, and more. Access the official 2023 secondary results on indiaresults for fast checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 Secondary School Certificate (SSC) and 10th Board
                 Results. Official links and mirrors updated.</p>
@@ -110,4 +108,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

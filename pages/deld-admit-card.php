@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online";
-$meta_description = "Download DElEd Admit Card 2024. Get the direct link for Diploma in Elementary Education (D.El.Ed / BTC) entrance examination hall tickets for various states at the official education portals.";
-$meta_keywords = "deled admit card 2024, btc admit card download, deled entrance hall ticket, state deled admit card link, deled exam hall ticket login";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online"; 
+$meta_description = "Download DElEd Admit Card 2024. Get the direct link for Diploma in Elementary Education (D.El.Ed / BTC) entrance examination hall tickets for various states at the official education portals."; 
+$meta_keywords = "deled admit card 2024, btc admit card download, deled entrance hall ticket, state deled admit card link, deled exam hall ticket login"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

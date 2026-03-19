@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india com result - Official National News & Result Portal";
-$meta_description = "Check india com result online. Access the latest Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official news mirror.";
-$meta_keywords = "india com result, check board results online, official india.com results link, 10th 12th result search portal, national news result mirror";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india com result - Official National News & Result Portal"; 
+$meta_description = "Check india com result online. Access the latest Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official news mirror."; 
+$meta_keywords = "india com result, check board results online, official india.com results link, 10th 12th result search portal, national news result mirror"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

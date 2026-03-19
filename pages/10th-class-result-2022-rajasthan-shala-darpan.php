@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th class result 2022 rajasthan - Official BSER Secondary 2022 Archive";
-$meta_description = "Check 10th class result 2022 rajasthan for BSER Secondary exams. Access the official 2022 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults.";
-$keyword = "10th class result 2022 rajasthan";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th class result 2022 rajasthan - Official BSER Secondary 2022 Archive"; 
+$meta_description = "Check 10th class result 2022 rajasthan for BSER Secondary exams. Access the official 2022 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 10th (Secondary) for
                 Rajasthan. Official BSER Ajmer/Shala Darpan mirrors and archival links updated for the 2022 batch.</p>
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

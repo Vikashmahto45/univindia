@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "all india result hptu - Official National Technical Hub";
-$meta_description = "Check all india result hptu for B.Tech, MBA, MCA and other courses. Access official national HPTU result portals and university mirrors on indiaresults.";
-$keyword = "all india result hptu";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "all india result hptu - Official National Technical Hub"; 
+$meta_description = "Check all india result hptu for B.Tech, MBA, MCA and other courses. Access official national HPTU result portals and university mirrors on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Himachal
                 Pradesh Technical University (HPTU), Hamirpur on the national stage. Direct degree result links and
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

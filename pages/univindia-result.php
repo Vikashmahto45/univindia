@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Result - Check MGSU, RRBMU, MSBU Exam Results Online";
-$meta_description = "Check your univindia result for Rajasthan universities. Comprehensive guide to navigating the result portal, downloading marksheets, and checking merit lists.";
-$meta_keywords = "univindia result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Result - Check MGSU, RRBMU, MSBU Exam Results Online"; 
+$meta_description = "Check your univindia result for Rajasthan universities. Comprehensive guide to navigating the result portal, downloading marksheets, and checking merit lists."; 
+$meta_keywords = "univindia result"; 
 ?>
 
 <main class="container">
@@ -55,5 +54,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

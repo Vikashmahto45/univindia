@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 12th 2021 - Senior Secondary Results Archive for All Boards";
-$meta_description = "Retrieve your India Result 12th 2021 online. Access the archival scores for CBSE, state boards, and national senior secondary exams from the 2021 session.";
-$meta_keywords = "india result 12th 2021, class 12 result 2021 archive, 12th board result 2021, senior secondary result 2021 national, india results 12th index";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 12th 2021 - Senior Secondary Results Archive for All Boards"; 
+$meta_description = "Retrieve your India Result 12th 2021 online. Access the archival scores for CBSE, state boards, and national senior secondary exams from the 2021 session."; 
+$meta_keywords = "india result 12th 2021, class 12 result 2021 archive, 12th board result 2021, senior secondary result 2021 national, india results 12th index"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

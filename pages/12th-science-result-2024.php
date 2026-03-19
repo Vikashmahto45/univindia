@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th Science Result 2024 - Official National Portal";
-$meta_description = "Check 12th Science Result 2024 online. Access the upcoming board-level 12th results for Science streams across all major Indian states. Official portal.";
-$meta_keywords = "12th science result 2024, check 12th science result 2024 online, rbse 12th science result 2024, up board 12th science result 2024, official 2024 science link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th Science Result 2024 - Official National Portal"; 
+$meta_description = "Check 12th Science Result 2024 online. Access the upcoming board-level 12th results for Science streams across all major Indian states. Official portal."; 
+$meta_keywords = "12th science result 2024, check 12th science result 2024 online, rbse 12th science result 2024, up board 12th science result 2024, official 2024 science link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

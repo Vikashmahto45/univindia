@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www.odisha result.nic.in 2023 - Official Odisha Board Result Gateway";
-$meta_description = "Check www.odisha result.nic.in 2023 for official BSE 10th and CHSE 12th results. Access the primary official results gateway for Odisha student success during the 2023 session.";
-$meta_keywords = "www.odisha result.nic.in 2023, orissaresults.nic.in 2023, odisha 10th result 2023, hsc result 2023 odisha, chse odisha result 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www.odisha result.nic.in 2023 - Official Odisha Board Result Gateway"; 
+$meta_description = "Check www.odisha result.nic.in 2023 for official BSE 10th and CHSE 12th results. Access the primary official results gateway for Odisha student success during the 2023 session."; 
+$meta_keywords = "www.odisha result.nic.in 2023, orissaresults.nic.in 2023, odisha 10th result 2023, hsc result 2023 odisha, chse odisha result 2023"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

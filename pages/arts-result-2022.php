@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Arts Result 2022 - Official National Board Archive";
-$meta_description = "Check Arts Result 2022 online. Access the historical Higher Secondary (12th) Arts results for all major state boards including RBSE, UP Board, and GSEB. Official mirror.";
-$meta_keywords = "arts result 2022, check 12th arts result 2022 online, rbse 12th arts result 2022, up board 12th arts result 2022, official 2022 arts link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Arts Result 2022 - Official National Board Archive"; 
+$meta_description = "Check Arts Result 2022 online. Access the historical Higher Secondary (12th) Arts results for all major state boards including RBSE, UP Board, and GSEB. Official mirror."; 
+$meta_keywords = "arts result 2022, check 12th arts result 2022 online, rbse 12th arts result 2022, up board 12th arts result 2022, official 2022 arts link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

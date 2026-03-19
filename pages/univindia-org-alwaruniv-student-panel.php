@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access";
-$meta_description = "Access the Univindia Org AlwarUniv StudentPanel for RRBMU Alwar. Official guide to navigating your personalized university dashboard online.";
-$meta_keywords = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access"; 
+$meta_description = "Access the Univindia Org AlwarUniv StudentPanel for RRBMU Alwar. Official guide to navigating your personalized university dashboard online."; 
+$meta_keywords = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access"; 
 ?>
 
 <main class="container">
@@ -52,5 +51,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

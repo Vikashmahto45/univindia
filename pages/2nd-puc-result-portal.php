@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "2nd puc result - Official Karnataka PUE Portal";
-$meta_description = "Check 2nd puc result online for Karnataka Class 12. Access the official KarResults portal for science, commerce, and arts results.";
-$meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 2024, pue karnataka result, 2nd puc result link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "2nd puc result - Official Karnataka PUE Portal"; 
+$meta_description = "Check 2nd puc result online for Karnataka Class 12. Access the official KarResults portal for science, commerce, and arts results."; 
+$meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 2024, pue karnataka result, 2nd puc result link"; 
 ?>
 
 <main class="container">
@@ -63,5 +62,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

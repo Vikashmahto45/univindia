@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jharkhand board 10th result 2023 - Official JAC Matric Hub";
-$meta_description = "Check Jharkhand Board 10th result 2023 on jharkhand board 10th result 2023. Access official JAC Matric 2023 archival scorecards on indiaresults.";
-$keyword = "jharkhand board 10th result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jharkhand board 10th result 2023 - Official JAC Matric Hub"; 
+$meta_description = "Check Jharkhand Board 10th result 2023 on jharkhand board 10th result 2023. Access official JAC Matric 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Jharkhand
                 Academic Council (JAC) Class 10th (Secondary/Matric) examination. Official Jharkhand board mirrors and
@@ -128,4 +126,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

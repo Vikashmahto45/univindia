@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 8th class 2023 - Official Middle School Result Mirror";
-$meta_description = "Check india result 8th class 2023 for all boards. Access the official 8th class result portal on indiaresults.com for fast result checking and name-wise search.";
-$keyword = "india result 8th class 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 8th class 2023 - Official Middle School Result Mirror"; 
+$meta_description = "Check india result 8th class 2023 for all boards. Access the official 8th class result portal on indiaresults.com for fast result checking and name-wise search."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Access the fastest mirrors for Class 8th Board Results 2023. Direct
                 links and official gateways updated.</p>
             <div class="cta-group animate-up">
@@ -108,4 +106,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

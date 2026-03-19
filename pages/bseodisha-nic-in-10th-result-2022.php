@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "bseodisha.nic.in 10th Result 2022 - Official Matric Archive";
-$meta_description = "Check bseodisha.nic.in 10th Result 2022 online. Access the historical Board of Secondary Education Odisha Class 10th results. Official state link.";
-$meta_keywords = "bseodisha.nic.in 10th result 2022, check bse odisha matric result 2022, odisha 10th result 2022 link, orissaresults nic in 10th result, official matric result odisha";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "bseodisha.nic.in 10th Result 2022 - Official Matric Archive"; 
+$meta_description = "Check bseodisha.nic.in 10th Result 2022 online. Access the historical Board of Secondary Education Odisha Class 10th results. Official state link."; 
+$meta_keywords = "bseodisha.nic.in 10th result 2022, check bse odisha matric result 2022, odisha 10th result 2022 link, orissaresults nic in 10th result, official matric result odisha"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

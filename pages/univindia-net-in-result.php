@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net In Result - University Gateway for Rajasthan Students";
-$meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Net In Result portal. Official guide to downloading university marksheets and scores online.";
-$meta_keywords = "Univindia Net In Result - University Gateway for Rajasthan Students";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net In Result - University Gateway for Rajasthan Students"; 
+$meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Net In Result portal. Official guide to downloading university marksheets and scores online."; 
+$meta_keywords = "Univindia Net In Result - University Gateway for Rajasthan Students"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

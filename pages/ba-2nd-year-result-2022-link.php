@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "BA 2nd Year Result 2022 - University BA Part 2 Results Online";
-$keyword = "ba 2nd year result 2022";
-$description = "Access BA 2nd Year Result 2022. Find direct links to university BA Part 2 marksheet downloads, result dates, and portal information for all states.";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "BA 2nd Year Result 2022 - University BA Part 2 Results Online"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <div class="result-container">
@@ -33,4 +32,5 @@ include '../header.php';
         <p>Students can check their results on the official portals of their respective universities. Whether it's CCSU, MSBU, UNIRAJ, or any other state university, the results are usually published under the 'Students Corner' section.</p>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

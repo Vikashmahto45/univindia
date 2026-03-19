@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "jkbose 12th result 2023 - Official JK Board Hub";
-$meta_description = "Check JKBOSE 12th result 2023 on jkbose 12th result 2023. Access official Jammu & Kashmir Board Class 12th 2023 archival scorecards on indiaresults.";
-$keyword = "jkbose 12th result 2023";
-
 include '../header.php'; 
+$page_title = "jkbose 12th result 2023 - Official JK Board Hub"; 
+$meta_description = "Check JKBOSE 12th result 2023 on jkbose 12th result 2023. Access official Jammu & Kashmir Board Class 12th 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Jammu and Kashmir Board of School Education (JKBOSE) Class 12th (Higher Secondary/Part II) examination results for the 2023 academic session. Access official JK board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 JK Archive</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

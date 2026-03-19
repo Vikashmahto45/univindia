@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "AP SSC Results 2024 - Official Andhra Pradesh Board Link";
-$meta_description = "Check AP SSC Results 2024 online. Access the Andhra Pradesh Board (BSEAP) Secondary School Certificate results for the 2024 session. Official 2024 BSEAP portal.";
-$meta_keywords = "ap ssc results 2024, check andhra pradesh 10th result 2024 online, bseap ssc results 2024 date, official 2024 ap ssc link, bse.ap.gov.in 2024 result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "AP SSC Results 2024 - Official Andhra Pradesh Board Link"; 
+$meta_description = "Check AP SSC Results 2024 online. Access the Andhra Pradesh Board (BSEAP) Secondary School Certificate results for the 2024 session. Official 2024 BSEAP portal."; 
+$meta_keywords = "ap ssc results 2024, check andhra pradesh 10th result 2024 online, bseap ssc results 2024 date, official 2024 ap ssc link, bse.ap.gov.in 2024 result"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

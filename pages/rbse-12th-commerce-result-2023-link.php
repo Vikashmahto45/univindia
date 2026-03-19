@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include 'config.php';
-$keyword = "rbse 12th commerce result 2023 link";
-$page_title = "RBSE 12th Commerce Result 2023 Link - Rajasthan Board Commerce Result";
-$meta_description = "Check RBSE 12th Commerce Result 2023 Link. Get the direct link to download Rajasthan Board Class 12th Commerce stream results, toppers list, and marksheet.";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RBSE 12th Commerce Result 2023 Link - Rajasthan Board Commerce Result"; 
+$meta_description = "Check RBSE 12th Commerce Result 2023 Link. Get the direct link to download Rajasthan Board Class 12th Commerce stream results, toppers list, and marksheet."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="result-container">
@@ -47,4 +45,5 @@ include '../header.php';
         </table>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

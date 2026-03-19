@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bse odisha.ac.in 10th result 2023 - Official Odisha 10th Hub";
-$meta_description = "Check BSE Odisha 10th result 2023 on bse odisha.ac.in 10th result 2023. Access the official Board of Secondary Education 2023 archival scorecards.";
-$keyword = "bse odisha.ac.in 10th result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bse odisha.ac.in 10th result 2023 - Official Odisha 10th Hub"; 
+$meta_description = "Check BSE Odisha 10th result 2023 on bse odisha.ac.in 10th result 2023. Access the official Board of Secondary Education 2023 archival scorecards."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Board of
                 Secondary Education (BSE), Odisha Class 10th (Annual Secondary) examination. Official BSE Odisha mirrors
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

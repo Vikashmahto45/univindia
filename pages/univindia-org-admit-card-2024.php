@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Org Admit Card 2024 - Matsya University Hall Ticket Search";
-$meta_description = "Download your RRBMU Alwar admit card for 2024 at Univindia Org. Official guide to retrieving Matsya University 2024 hall tickets online.";
-$meta_keywords = "Univindia Org Admit Card 2024 - Matsya University Hall Ticket Search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Org Admit Card 2024 - Matsya University Hall Ticket Search"; 
+$meta_description = "Download your RRBMU Alwar admit card for 2024 at Univindia Org. Official guide to retrieving Matsya University 2024 hall tickets online."; 
+$meta_keywords = "Univindia Org Admit Card 2024 - Matsya University Hall Ticket Search"; 
 ?>
 
 <main class="container">
@@ -58,5 +57,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result RBSE - Official Rajasthan Board examination Hub";
-$meta_description = "Check India Result RBSE online. Access the high-speed Rajasthan Board (BSER) 10th and 12th results on IndiaResults mirror. 2024 official merit lists link.";
-$meta_keywords = "india result rbse, check rajasthan board result online, rbse result indiaresults 2024, indiaresult rbse 10th 12th, bser result mirror, name wise rbse result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result RBSE - Official Rajasthan Board examination Hub"; 
+$meta_description = "Check India Result RBSE online. Access the high-speed Rajasthan Board (BSER) 10th and 12th results on IndiaResults mirror. 2024 official merit lists link."; 
+$meta_keywords = "india result rbse, check rajasthan board result online, rbse result indiaresults 2024, indiaresult rbse 10th 12th, bser result mirror, name wise rbse result"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

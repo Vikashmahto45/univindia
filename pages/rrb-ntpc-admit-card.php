@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in";
-$page_description = "Download RRB NTPC Admit Card 2025. Get direct link for RRB NTPC Hall Ticket, Exam Schedule, City Intimation, and Step-by-Step Download Guide. 800+ words of detailed info.";
-$page_keywords = "RRB NTPC Admit Card 2025, RRB NTPC Hall Ticket, Download RRB NTPC Admit Card, Railway NTPC Exam Date, RRB NTPC City Intimation";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -176,7 +174,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-link me-2"></i> More Admit Cards & Updates</h3>
                 <div class="row g-3">
-                    <?php
                     $admit_keywords = ['neet-admit-card-2024.php' => 'NEET Admit Card 2024', 'ssc-gd-admit-card.php' => 'SSC GD Admit Card', 'ugc-net-admit-card-2024.php' => 'UGC NET Admit Card', 'rpf-admmit-card.php' => 'RPF Admit Card'];
                     foreach ($admit_keywords as $url => $kw) {
                         echo '<div class="col-md-3 col-sm-6">
@@ -185,7 +182,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -226,5 +222,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

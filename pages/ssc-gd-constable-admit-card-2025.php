@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in";
-$page_description = "SSC GD Constable Admit Card 2025 Download Link. Get region-wise call letters for SSC Constable GD Exam. Physical & Medical test details, exam date, and hall ticket status.";
-$page_keywords = "SSC GD Constable Admit Card 2025, SSC GD Hall Ticket 2025, SSC GD Constable Exam Date, SSC GD Call Letter download, ssc.gov.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -242,5 +240,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

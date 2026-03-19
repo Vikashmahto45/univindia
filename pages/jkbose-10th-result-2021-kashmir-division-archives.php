@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jkbose 10th result 2021 kashmir division - Official JKBOSE 2021 Archive";
-$meta_description = "Check jkbose 10th result 2021 kashmir division for Matric exams. Access the official 2021 Jammu and Kashmir Board (JKBOSE) archival portal on indiaresults.";
-$keyword = "jkbose 10th result 2021 kashmir division";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jkbose 10th result 2021 kashmir division - Official JKBOSE 2021 Archive"; 
+$meta_description = "Check jkbose 10th result 2021 kashmir division for Matric exams. Access the official 2021 Jammu and Kashmir Board (JKBOSE) archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Jammu & Kashmir Class 10th
                 (Kashmir Division). Official JKBOSE mirrors and archival links updated for the 2021 batch verification.
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

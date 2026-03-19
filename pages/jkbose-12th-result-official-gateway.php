@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jkbose 12th result - Official Jammu & Kashmir Board Gateway";
-$meta_description = "Check jkbose 12th result for Class 12 exams. Access the official JKBOSE Jammu and Kashmir divisions archival portal on indiaresults.";
-$keyword = "jkbose 12th result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jkbose 12th result - Official Jammu & Kashmir Board Gateway"; 
+$meta_description = "Check jkbose 12th result for Class 12 exams. Access the official JKBOSE Jammu and Kashmir divisions archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest examination results for Class 12th (Senior Secondary)
                 for Jammu and Kashmir. Official JKBOSE mirrors and archival links updated for both Jammu and Kashmir
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

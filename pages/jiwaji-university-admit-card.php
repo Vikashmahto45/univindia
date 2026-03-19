@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket";
-$meta_description = "Download Jiwaji University Gwalior Admit Card for Semester and Annual Examinations. Get direct links for UG/PG Private and Regular Student Hall Tickets at jiwaji.edu.";
-$keywords = "jiwaji university admit card, jiwaji gwalior hall ticket, jiwaji uni admit card download, jiwaji.edu gwalior exam card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket"; 
+$meta_description = "Download Jiwaji University Gwalior Admit Card for Semester and Annual Examinations. Get direct links for UG/PG Private and Regular Student Hall Tickets at jiwaji.edu."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -105,4 +104,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

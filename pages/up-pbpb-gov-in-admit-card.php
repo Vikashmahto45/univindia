@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in";
-$page_description = "Download UP PBPB Admit Card 2025 for Constable, SI, and Fireman. Get direct link for UP Police Hall Ticket, Exam Schedule, and center status. 800+ words of latest updates.";
-$page_keywords = "UP PBPB Admit Card 2025, UP Police Constable Hall Ticket Download, uppbpb.gov.in admit card link, UP Police SI Call Letter, up-pbpb-gov-in-admit-card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -141,7 +139,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> UP Recruitment & Education Links</h3>
                 <div class="row g-3">
-                    <?php
                     $up_links = [
                         'uptransport-admit-card.php' => 'UP Transport Admit Card',
                         'upnrhm-admit-card.php' => 'UP NRHM Call Letter',
@@ -155,7 +152,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -189,5 +185,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

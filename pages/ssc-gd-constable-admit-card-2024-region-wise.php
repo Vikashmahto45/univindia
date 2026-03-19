@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in";
-$page_description = "SSC GD Constable Admit Card 2024 Region-wise Download. Get direct links for NR, CR, WR, SR, ER, KKR, NER, MPR, and NWR. Physical test and Medical exam hall ticket status.";
-$page_keywords = "SSC GD Constable Admit Card 2024, SSC GD Region-wise Hall Ticket, Download SSC GD 2024 Admit Card CR NR WR, ssc.gov.in gd admit card 2024 region wise";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -221,5 +219,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odia result - Official Odisha Board Result Gateway";
-$meta_description = "Check Odisha Board 10th & 12th results on odia result. Access official BSE/CHSE Odisha archival scorecards and direct links on indiaresults.";
-$keyword = "odia result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odia result - Official Odisha Board Result Gateway"; 
+$meta_description = "Check Odisha Board 10th & 12th results on odia result. Access official BSE/CHSE Odisha archival scorecards and direct links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Odisha state board examination results,
                 including HSC (10th) and +2 (12th Arts/Science/Commerce). Official Odisha mirrors and archival links
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

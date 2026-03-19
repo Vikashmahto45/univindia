@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "odisharesult.nic.in 2023 - Official Odisha Board Mirror";
-$meta_description = "Check odisharesult.nic.in 2023 online. Access the historical HSC (Class 10) and CHSE (Class 12) results for Odisha for the 2023 session.";
-$meta_keywords = "odisharesult.nic.in 2023, check odisha board results 2023 online, official bse odisha mirror 2023, odisha results nic in index portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "odisharesult.nic.in 2023 - Official Odisha Board Mirror"; 
+$meta_description = "Check odisharesult.nic.in 2023 online. Access the historical HSC (Class 10) and CHSE (Class 12) results for Odisha for the 2023 session."; 
+$meta_keywords = "odisharesult.nic.in 2023, check odisha board results 2023 online, official bse odisha mirror 2023, odisha results nic in index portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

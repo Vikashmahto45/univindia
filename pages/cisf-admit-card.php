@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in";
-$page_description = "Download CISF Admit Card 2025 for Constable Fireman, ASI, and HC recruitment. Get direct link for CISF Physical (PET/PST) and CBT Hall Ticket. 800+ words of latest updates.";
-$page_keywords = "CISF Admit Card 2025, CISF Constable Fireman Hall Ticket, CISF ASI Steno Call Letter, CISF Head Constable Admit Card, cisfrectt.cisf.gov.in admit card download";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -144,7 +142,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-user-shield me-2"></i> Paramilitary & Defense Links</h3>
                 <div class="row g-3">
-                    <?php
                     $forces = [
                         'crpf-admit-card.php' => 'CRPF Constable Admit Card',
                         'itbp-admit-card.php' => 'ITBP Recruitment Hall Ticket',
@@ -158,7 +155,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -192,5 +188,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

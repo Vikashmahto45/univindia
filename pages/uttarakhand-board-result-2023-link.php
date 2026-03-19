@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "uttarakhand board result 2023 - Official UBSE Mirror";
-$meta_description = "Check uttarakhand board result 2023 online. Access the results for Uttarakhand Board of School Education (UBSE) Class 10 and 12 for the 2023 session.";
-$meta_keywords = "uttarakhand board result 2023, check ubse result 2023 online, official uttarakhand board link, uaresults nic in 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "uttarakhand board result 2023 - Official UBSE Mirror"; 
+$meta_description = "Check uttarakhand board result 2023 online. Access the results for Uttarakhand Board of School Education (UBSE) Class 10 and 12 for the 2023 session."; 
+$meta_keywords = "uttarakhand board result 2023, check ubse result 2023 online, official uttarakhand board link, uaresults nic in 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

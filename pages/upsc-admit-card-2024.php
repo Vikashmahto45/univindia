@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "UPSC Admit Card 2024 Download - IAS & Civil Services Exam Hall Ticket | Univindia.online";
-$meta_description = "Download UPSC Admit Card 2024. Get the direct link for Civil Services (Prelims), NDA, CDS, and IES examination hall tickets at upsc.gov.in.";
-$meta_keywords = "upsc admit card 2024, upsc ias hall ticket 2024 download, upsc.gov.in admit card login, civil services prelmi exam date 2024 download, upsc call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UPSC Admit Card 2024 Download - IAS & Civil Services Exam Hall Ticket | Univindia.online"; 
+$meta_description = "Download UPSC Admit Card 2024. Get the direct link for Civil Services (Prelims), NDA, CDS, and IES examination hall tickets at upsc.gov.in."; 
+$meta_keywords = "upsc admit card 2024, upsc ias hall ticket 2024 download, upsc.gov.in admit card login, civil services prelmi exam date 2024 download, upsc call letter"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

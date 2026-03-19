@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "uttrakhand board result - Official UBSE Result Portal Hub";
-$meta_description = "Check uttrakhand board result for Class 10th and 12th examinations. Access the official Uttarakhand (UBSE) result gateway on indiaresults for high-speed checking.";
-$keyword = "uttrakhand board result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "uttrakhand board result - Official UBSE Result Portal Hub"; 
+$meta_description = "Check uttrakhand board result for Class 10th and 12th examinations. Access the official Uttarakhand (UBSE) result gateway on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest High School and Intermediate results for Uttarakhand.
                 Official UBSE mirrors and portal links updated for the board examinations.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

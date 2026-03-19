@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12 commerce result 2023 link - Official Class 12 Commerce 2023 Archive";
-$meta_description = "Check 12 commerce result 2023 link for all state board exams. Access the official 2023 Class 12th (Higher Secondary) Commerce result portal on indiaresults.";
-$keyword = "12 commerce result 2023 link";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12 commerce result 2023 link - Official Class 12 Commerce 2023 Archive"; 
+$meta_description = "Check 12 commerce result 2023 link for all state board exams. Access the official 2023 Class 12th (Higher Secondary) Commerce result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Class 12th (Higher
                 Secondary / Senior Secondary) Commerce stream across all Indian state boards. Official board mirrors and
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india results 2022 10th - Official National 10th 2022 Archive";
-$meta_description = "Check india results 2022 10th for all state boards. Access the official national Class 10 archival result portal and direct links on indiaresults.";
-$keyword = "india results 2022 10th";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india results 2022 10th - Official National 10th 2022 Archive"; 
+$meta_description = "Check india results 2022 10th for all state boards. Access the official national Class 10 archival result portal and direct links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Class 10th (Secondary/HSC/SSLC) examination
                 results across India for the 2022 academic session. Official board mirrors and 2022 archival links
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

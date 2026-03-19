@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive";
-$meta_description = "Check Punjab Board 2022 results on www pseb ac in indiaresult com 2022. Access the official PSEB Class 10 and 12 archival results for the 2022 session.";
-$keyword = "www pseb ac in indiaresult com 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive"; 
+$meta_description = "Check Punjab Board 2022 results on www pseb ac in indiaresult com 2022. Access the official PSEB Class 10 and 12 archival results for the 2022 session."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Punjab School Education
                 Board (PSEB) Class 10th (Matric) and 12th (Senior Secondary). Official PSEB mirrors and 2022 archival
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

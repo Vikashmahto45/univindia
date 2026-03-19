@@ -1,4 +1,10 @@
-<?php include '../header.php'; ?>
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
 <div id="content-container">
     <div class="main-content">
         <section class="result-section">
@@ -97,6 +103,7 @@
         </section>
     </div>
     
-    <?php include 'sidebar.php'; ?>
+    
 </div>
+
 <?php include '../footer.php'; ?>

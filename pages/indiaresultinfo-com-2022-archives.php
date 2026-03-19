@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indiaresultinfo.com 2022 - Official 2022 Academic Information Archive";
-$meta_description = "Check indiaresultinfo.com 2022 for board and university exams. Access the official 2022 academic result information and portal links on indiaresults.";
-$keyword = "indiaresultinfo.com 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indiaresultinfo.com 2022 - Official 2022 Academic Information Archive"; 
+$meta_description = "Check indiaresultinfo.com 2022 for board and university exams. Access the official 2022 academic result information and portal links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized information hub for the 2022 academic session results
                 across all Indian boards and universities. Official status updates and archival links updated for the
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

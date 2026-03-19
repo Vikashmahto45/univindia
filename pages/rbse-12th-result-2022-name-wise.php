@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "rbse 12th result 2022 name wise - Official Rajasthan Board Mirror";
-$meta_description = "Check rbse 12th result 2022 name wise online. Access the search by name facility for Rajasthan Board Class 12 (Arts, Science, Commerce) for the 2022 session.";
-$meta_keywords = "rbse 12th result 2022 name wise, check rajasthan board class 12 result by name 2022 online, official rbse 12th link, rajresults nic in index 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "rbse 12th result 2022 name wise - Official Rajasthan Board Mirror"; 
+$meta_description = "Check rbse 12th result 2022 name wise online. Access the search by name facility for Rajasthan Board Class 12 (Arts, Science, Commerce) for the 2022 session."; 
+$meta_keywords = "rbse 12th result 2022 name wise, check rajasthan board class 12 result by name 2022 online, official rbse 12th link, rajresults nic in index 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

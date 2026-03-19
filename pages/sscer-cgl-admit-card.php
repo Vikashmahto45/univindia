@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSCER CGL Admit Card 2024 Download - Eastern Region Tier 1 Status | Univindia.online";
-$meta_description = "Download SSCER CGL Admit Card 2024 for Eastern Region. Check SSC CGL Tier 1 Application Status, exam dates, and hall ticket download link for West Bengal, Odisha, Jharkhand.";
-$meta_keywords = "sscer cgl admit card 2024, ssc eastern region cgl hall ticket, sscer.org cgl status, ssc cgl admit card west bengal, ssc cgl admit card odisha";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSCER CGL Admit Card 2024 Download - Eastern Region Tier 1 Status | Univindia.online"; 
+$meta_description = "Download SSCER CGL Admit Card 2024 for Eastern Region. Check SSC CGL Tier 1 Application Status, exam dates, and hall ticket download link for West Bengal, Odisha, Jharkhand."; 
+$meta_keywords = "sscer cgl admit card 2024, ssc eastern region cgl hall ticket, sscer.org cgl status, ssc cgl admit card west bengal, ssc cgl admit card odisha"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

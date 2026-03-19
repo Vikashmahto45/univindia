@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indiaresult raj - Official Rajasthan Board Mirror";
-$meta_description = "Check indiaresult raj online. Access the latest and historical results for all Rajasthan Board (RBSE) and Universities (UOR, MDSU, MGSU, etc.).";
-$meta_keywords = "indiaresult raj, check rajasthan board results online, official rajasthan indiaresults link, rajresults nic in search portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "indiaresult raj - Official Rajasthan Board Mirror"; 
+$meta_description = "Check indiaresult raj online. Access the latest and historical results for all Rajasthan Board (RBSE) and Universities (UOR, MDSU, MGSU, etc.)."; 
+$meta_keywords = "indiaresult raj, check rajasthan board results online, official rajasthan indiaresults link, rajresults nic in search portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

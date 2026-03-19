@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Delhi Police MTS Admit Card Download - SSC DP MTS Trade Test Hall Ticket | Univindia.online";
-$meta_description = "Download Delhi Police MTS Admit Card. Get the direct link for SSC Delhi Police Multi-Tasking Staff (Civilian) examination hall tickets at ssc.nic.in.";
-$meta_keywords = "delhi police mts admit card, ssc delhi police mts hall ticket download, delhi police mts exam date 2024, dp mts trade test admit card, ssc recruit call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Delhi Police MTS Admit Card Download - SSC DP MTS Trade Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download Delhi Police MTS Admit Card. Get the direct link for SSC Delhi Police Multi-Tasking Staff (Civilian) examination hall tickets at ssc.nic.in."; 
+$meta_keywords = "delhi police mts admit card, ssc delhi police mts hall ticket download, delhi police mts exam date 2024, dp mts trade test admit card, ssc recruit call letter"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

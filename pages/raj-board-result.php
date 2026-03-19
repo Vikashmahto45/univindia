@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Raj Board Result - Official Rajasthan Board of Secondary Education Hub";
-$meta_description = "Check Raj Board Result online. Access the Rajasthan Board (BSER) 10th and 12th results. Official 2024 marksheets and result statistics portal.";
-$meta_keywords = "raj board result, check rbse result online, rajeduboard.rajasthan.gov.in results, rajasthan 10th 12th result link, official rbse portal, bser result hub";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Raj Board Result - Official Rajasthan Board of Secondary Education Hub"; 
+$meta_description = "Check Raj Board Result online. Access the Rajasthan Board (BSER) 10th and 12th results. Official 2024 marksheets and result statistics portal."; 
+$meta_keywords = "raj board result, check rbse result online, rajeduboard.rajasthan.gov.in results, rajasthan 10th 12th result link, official rbse portal, bser result hub"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

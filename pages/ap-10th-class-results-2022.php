@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "AP 10th Class Results 2022 - Official Andhra Pradesh Portal";
-$meta_description = "Check AP 10th Class Results 2022 online. Access the historical Andhra Pradesh Board (BSEAP) Secondary School Certificate (SSC) results for the 2022 session.";
-$meta_keywords = "ap 10th class results 2022, check andhra pradesh board ssc result 2022 online, official bseap 10th 2022 link, bse.ap.gov.in 2022 portal, manabadi ap 10th 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "AP 10th Class Results 2022 - Official Andhra Pradesh Portal"; 
+$meta_description = "Check AP 10th Class Results 2022 online. Access the historical Andhra Pradesh Board (BSEAP) Secondary School Certificate (SSC) results for the 2022 session."; 
+$meta_keywords = "ap 10th class results 2022, check andhra pradesh board ssc result 2022 online, official bseap 10th 2022 link, bse.ap.gov.in 2022 portal, manabadi ap 10th 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

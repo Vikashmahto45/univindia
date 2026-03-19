@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "JAC 12th Result 2024 - Jharkhand Academic Council Inter Results Hub";
-$meta_description = "Check JAC 12th Result 2024 for Science, Commerce, and Arts. Access the official Jharkhand Academic Council gateway for intermediate scores and merit lists.";
-$meta_keywords = "jac 12th result 2024, jharkhand board 12th result 2024, jac nic in 12th result, jac board inter result 2024, jac exam results 2024 science commerce arts";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "JAC 12th Result 2024 - Jharkhand Academic Council Inter Results Hub"; 
+$meta_description = "Check JAC 12th Result 2024 for Science, Commerce, and Arts. Access the official Jharkhand Academic Council gateway for intermediate scores and merit lists."; 
+$meta_keywords = "jac 12th result 2024, jharkhand board 12th result 2024, jac nic in 12th result, jac board inter result 2024, jac exam results 2024 science commerce arts"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

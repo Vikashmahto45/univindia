@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "IBPS Clerk Admit Card 2025 Download - CRP Clerks-XV Hall Ticket Link | Univindia.online";
-$meta_description = "Download IBPS Clerk Admit Card 2025. Get the direct link for IBPS CRP Clerks-XV Preliminary and Main examination hall tickets at ibps.in.";
-$meta_keywords = "ibps clerk admit card 2025, ibps crp clerks xv hall ticket download, ibps.in admit card 2025 login, ibps clerk prelims exam date 2025, bank clerk call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "IBPS Clerk Admit Card 2025 Download - CRP Clerks-XV Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download IBPS Clerk Admit Card 2025. Get the direct link for IBPS CRP Clerks-XV Preliminary and Main examination hall tickets at ibps.in."; 
+$meta_keywords = "ibps clerk admit card 2025, ibps crp clerks xv hall ticket download, ibps.in admit card 2025 login, ibps clerk prelims exam date 2025, bank clerk call letter"; 
 ?>
 
 <div class="container main-content">
@@ -96,5 +94,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

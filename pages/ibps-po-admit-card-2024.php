@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in";
-$meta_description = "Download IBPS PO Admit Card 2024 for CRP PO/MT XIV. Get direct link for Preliminary Exam Hall Ticket. Check exam dates, reporting time, and important banking exam guidelines.";
-$keywords = "ibps po admit card 2024, ibps po prelims admit card, download ibps call letter, ibps po exam date 2024, crp po/mt xiv admit card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in"; 
+$meta_description = "Download IBPS PO Admit Card 2024 for CRP PO/MT XIV. Get direct link for Preliminary Exam Hall Ticket. Check exam dates, reporting time, and important banking exam guidelines."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -168,4 +167,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

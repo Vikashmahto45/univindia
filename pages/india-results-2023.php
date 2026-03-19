@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india results 2023 - Official National Board Mirror";
-$meta_description = "Check india results 2023 online. Access the historical results for all Indian State Boards, Universities, and competitive exams for the 2023 session.";
-$meta_keywords = "india results 2023, check historical board results 2023 online, official indiaresults 2023 link, national board results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india results 2023 - Official National Board Mirror"; 
+$meta_description = "Check india results 2023 online. Access the historical results for all Indian State Boards, Universities, and competitive exams for the 2023 session."; 
+$meta_keywords = "india results 2023, check historical board results 2023 online, official indiaresults 2023 link, national board results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

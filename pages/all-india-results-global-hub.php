@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "all india result - Official National Dashboard Hub";
-$meta_description = "Check all india result for every board, university, and competitive exam. Access the official national result portal on indiaresults for high-speed checking.";
-$keyword = "all india result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "all india result - Official National Dashboard Hub"; 
+$meta_description = "Check all india result for every board, university, and competitive exam. Access the official national result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized national portal for every academic result in India.
                 Board, University, and Competitive exam links updated in real-time.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

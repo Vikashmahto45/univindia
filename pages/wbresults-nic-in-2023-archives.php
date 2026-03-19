@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "wbresults-nic-in 2023 - Official West Bengal 2023 Archive";
-$meta_description = "Check wbresults-nic-in 2023 for Madhyamik and HS exams. Access the official 2023 West Bengal Board result portal archival mirror on indiaresults.";
-$keyword = "wbresults-nic-in 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "wbresults-nic-in 2023 - Official West Bengal 2023 Archive"; 
+$meta_description = "Check wbresults-nic-in 2023 for Madhyamik and HS exams. Access the official 2023 West Bengal Board result portal archival mirror on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session examination results for West Bengal
                 Madhyamik (10th) and Higher Secondary (12th). Official wbresults.nic.in mirrors and archival links
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

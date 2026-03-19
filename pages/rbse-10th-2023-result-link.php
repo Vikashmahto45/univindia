@@ -1,7 +1,10 @@
-<?php include '../header.php'; ?>
-<?php
-// rbse 10th 2023 result
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,8 +48,9 @@
         <p>The 2023 academic session saw thousands of students successfully clearing the Rajasthan Board exams. The pass percentage for girls and boys is updated here as per the official BSER notifications.</p>
     </main>
     <footer>
-        &copy; <?php echo date("Y"); ?> University India - RBSE News Portal. All Rights Reserved.
+        &copy;  University India - RBSE News Portal. All Rights Reserved.
     </footer>
 </body>
 </html>
+
 <?php include '../footer.php'; ?>

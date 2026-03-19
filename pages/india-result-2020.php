@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 2020 - Official Archive of National Board Results";
-$meta_description = "Check india result 2020 for CBSE, ICSE, and all State Boards. Access the official archives for 10th and 12th results of the 2020 academic year on indiaresults.";
-$keyword = "india result 2020";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 2020 - Official Archive of National Board Results"; 
+$meta_description = "Check india result 2020 for CBSE, ICSE, and all State Boards. Access the official archives for 10th and 12th results of the 2020 academic year on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2020 result archives for secondary and senior secondary
                 examinations across all Indian boards.</p>
@@ -108,4 +106,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

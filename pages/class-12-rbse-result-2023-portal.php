@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "class 12 rbse result 2023 - Official BSER Rajasthan Senior Secondary Gateway";
-$meta_description = "Check class 12 rbse result 2023 for Science, Commerce, and Arts. Access the official 2023 BSER Rajasthan (12th) result portal on indiaresults.";
-$keyword = "class 12 rbse result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "class 12 rbse result 2023 - Official BSER Rajasthan Senior Secondary Gateway"; 
+$meta_description = "Check class 12 rbse result 2023 for Science, Commerce, and Arts. Access the official 2023 BSER Rajasthan (12th) result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Class 12th (Senior
                 Secondary) for Rajasthan. Official BSER Ajmer mirrors and portal links updated for the 2023 batch.</p>
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

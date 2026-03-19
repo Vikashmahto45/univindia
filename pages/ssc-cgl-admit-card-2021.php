@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online";
-$meta_description = "Download SSC CGL Admit Card 2021. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) 2021 Tier-1 exam hall tickets at ssc.nic.in.";
-$meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, ssc cgl tier 1 2021 hall ticket download, ssc.nic.in cgl login, staff selection graduate level call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online"; 
+$meta_description = "Download SSC CGL Admit Card 2021. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) 2021 Tier-1 exam hall tickets at ssc.nic.in."; 
+$meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, ssc cgl tier 1 2021 hall ticket download, ssc.nic.in cgl login, staff selection graduate level call letter"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

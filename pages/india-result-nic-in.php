@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result Nic In - Official National Government Result Hub";
-$meta_description = "Check India Result Nic In online. Access the official National Informatics Centre (NIC) results for CBSE, JEE, NEET, and state boards. 2024 official Link.";
-$meta_keywords = "india result nic in, check board results nic in, results.nic.in 2024, cbse results nic in, national results portal 2024, official nic result link, results.gov.in hub";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result Nic In - Official National Government Result Hub"; 
+$meta_description = "Check India Result Nic In online. Access the official National Informatics Centre (NIC) results for CBSE, JEE, NEET, and state boards. 2024 official Link."; 
+$meta_keywords = "india result nic in, check board results nic in, results.nic.in 2024, cbse results nic in, national results portal 2024, official nic result link, results.gov.in hub"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

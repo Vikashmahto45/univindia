@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "NEET Admit Card 2024 Release Date - NTA Hall Ticket News";
-$meta_description = "Check NEET Admit Card 2024 Release Date. Get latest news, tentative hall ticket schedule, and direct download links for NTA NEET UG.";
-$meta_keywords = "neet admit card 2024 release date, neet 2024 hall ticket date, neet ug call letter link, nta neet latest news";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "NEET Admit Card 2024 Release Date - NTA Hall Ticket News"; 
+$meta_description = "Check NEET Admit Card 2024 Release Date. Get latest news, tentative hall ticket schedule, and direct download links for NTA NEET UG."; 
+$meta_keywords = "neet admit card 2024 release date, neet 2024 hall ticket date, neet ug call letter link, nta neet latest news"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Medical Exam Hall Tickets</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "neet admit card 2024 release date";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "wbruselt.nic.in 2022 - Official West Bengal 2022 Archive";
-$meta_description = "Check wbruselt.nic.in 2022 for Madhyamik and HS exams. Access the official 2022 West Bengal Board result portal archival mirror on indiaresults.";
-$keyword = "wbruselt.nic.in 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "wbruselt.nic.in 2022 - Official West Bengal 2022 Archive"; 
+$meta_description = "Check wbruselt.nic.in 2022 for Madhyamik and HS exams. Access the official 2022 West Bengal Board result portal archival mirror on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for West Bengal Secondary
                 (Madhyamik) and Higher Secondary (HS) candidates. Official wbresults.nic.in mirrors and archival links
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

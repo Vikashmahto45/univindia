@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in";
-$page_description = "Download Haryana Police Admit Card 2025 for Constable 6000 vacancies. Get direct link for HSSC Haryana Police Hall Ticket, PST/PMT Schedule, and Exam Date. 800+ words guide.";
-$page_keywords = "Haryana Police Admit Card 2025, HSSC Constable Hall Ticket Download, hssc.gov.in admit card link, Haryana Police PST PMT Status, Haryana Police Exam Date";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -141,7 +139,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Haryana State Recruitment Links</h3>
                 <div class="row g-3">
-                    <?php
                     $hry_links = [
                         'hpsc-admit-card.php' => 'HPSC SDO/HCS Admit Card',
                         'hseb-admit-card.php' => 'HBSE Board Result 2025',
@@ -155,7 +152,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -189,5 +185,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

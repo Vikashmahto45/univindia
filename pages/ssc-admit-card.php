@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSC Admit Card 2024 Download - CGL, CHSL, MTS, GD, CPO | Univindia.online";
-$meta_description = "Download SSC Admit Card 2024 for all major exams including CGL Tier 1, CHSL, MTS, GD Constable, and CPO SI. Get regional links and step-by-step guide here.";
-$meta_keywords = "ssc admit card 2024, ssc hall ticket download, ssc exam status, ssc portal login, ssc admit card link, ssc cgl chsl mts gd admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC Admit Card 2024 Download - CGL, CHSL, MTS, GD, CPO | Univindia.online"; 
+$meta_description = "Download SSC Admit Card 2024 for all major exams including CGL Tier 1, CHSL, MTS, GD Constable, and CPO SI. Get regional links and step-by-step guide here."; 
+$meta_keywords = "ssc admit card 2024, ssc hall ticket download, ssc exam status, ssc portal login, ssc admit card link, ssc cgl chsl mts gd admit card"; 
 ?>
 
 <div class="container main-content">
@@ -105,5 +103,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

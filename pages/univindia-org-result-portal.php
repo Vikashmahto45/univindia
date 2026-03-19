@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard";
-$meta_description = "Check your RRBMU Alwar results via the Univindia Org Result Portal. Official guide to downloading Matsya University marksheets and score reports online.";
-$meta_keywords = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard"; 
+$meta_description = "Check your RRBMU Alwar results via the Univindia Org Result Portal. Official guide to downloading Matsya University marksheets and score reports online."; 
+$meta_keywords = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard"; 
 ?>
 
 <main class="container">
@@ -57,5 +56,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores";
-$meta_description = "Check your MGSU Bikaner supplementary and re-exam results on Univindia Net. Official guide to downloading back-paper marksheets for Bikaner university.";
-$meta_keywords = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores"; 
+$meta_description = "Check your MGSU Bikaner supplementary and re-exam results on Univindia Net. Official guide to downloading back-paper marksheets for Bikaner university."; 
+$meta_keywords = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores"; 
 ?>
 
 <main class="container">
@@ -59,5 +58,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

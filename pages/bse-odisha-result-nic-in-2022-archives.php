@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www.bse odisha result.nic.in 2022 - Official Odisha Secondary 2022 Archive";
-$meta_description = "Check www.bse odisha result.nic.in 2022 for BSE exams. Access the official 2022 Odisha HSC (Class 10) archival result portal on indiaresults.";
-$keyword = "www.bse odisha result.nic.in 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www.bse odisha result.nic.in 2022 - Official Odisha Secondary 2022 Archive"; 
+$meta_description = "Check www.bse odisha result.nic.in 2022 for BSE exams. Access the official 2022 Odisha HSC (Class 10) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Odisha Class 10th
                 (Secondary). Official BSE Odisha mirrors for the NIC results portal updated for the 2022 batch
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www orissaresults nic in 2022 +2 arts - Official CHSE Odisha 2022 Archive";
-$meta_description = "Check www orissaresults nic in 2022 +2 arts for CHSE Class 12 exams. Access the official 2022 Odisha Higher Secondary (+2 Arts) archival portal on indiaresults.";
-$keyword = "www orissaresults nic in 2022 +2 arts";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www orissaresults nic in 2022 +2 arts - Official CHSE Odisha 2022 Archive"; 
+$meta_description = "Check www orissaresults nic in 2022 +2 arts for CHSE Class 12 exams. Access the official 2022 Odisha Higher Secondary (+2 Arts) archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Odisha Class 12th (Higher
                 Secondary) Arts stream. Official CHSE Cuttack mirrors and archival links updated for the 2022 batch
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

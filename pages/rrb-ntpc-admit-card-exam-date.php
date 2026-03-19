@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in";
-$page_description = "Check RRB NTPC Admit Card and Exam Date 2024-25. Get detailed schedule for CBT 1, shift timings, and download link for Railway NTPC Call Letter. 800+ words of latest updates.";
-$page_keywords = "RRB NTPC Admit Card Exam Date, RRB NTPC 2024 Exam Date, Railway NTPC CBT 1 Schedule, Download RRB NTPC Call Letter, rrbcdg.gov.in ntpc admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -142,7 +140,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-train me-2"></i> RRB Regional Sites</h3>
                 <div class="row g-3">
-                    <?php
                     $rrbs = [
                         'rrb-chandigarh-admit-card.php' => 'RRB Chandigarh Hall Ticket',
                         'rrb-mumbai-admit-card.php' => 'RRB Mumbai Call Letter',
@@ -156,7 +153,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -190,5 +186,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

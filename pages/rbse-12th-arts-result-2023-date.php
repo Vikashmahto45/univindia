@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "rbse 12th arts result 2023 date - Official Rajasthan Board Mirror";
-$meta_description = "Check rbse 12th arts result 2023 date online. Access the official release schedule for Board of Secondary Education Rajasthan (BSER) Class 12 Arts for the 2023 session.";
-$meta_keywords = "rbse 12th arts result 2023 date, check rbse class 12 arts result 2023 online, official rajasthan board link, rajresults nic in index 2023 date";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "rbse 12th arts result 2023 date - Official Rajasthan Board Mirror"; 
+$meta_description = "Check rbse 12th arts result 2023 date online. Access the official release schedule for Board of Secondary Education Rajasthan (BSER) Class 12 Arts for the 2023 session."; 
+$meta_keywords = "rbse 12th arts result 2023 date, check rbse class 12 arts result 2023 online, official rajasthan board link, rajresults nic in index 2023 date"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

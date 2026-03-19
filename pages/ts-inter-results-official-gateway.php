@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "ts inter results - Official Telangana Intermediate Result Hub";
-$meta_description = "Check ts inter results for 1st and 2nd year exams. Access the official Telangana Board of Intermediate Education (TSBIE) result gateway and archives on indiaresults.";
-$keyword = "ts inter results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ts inter results - Official Telangana Intermediate Result Hub"; 
+$meta_description = "Check ts inter results for 1st and 2nd year exams. Access the official Telangana Board of Intermediate Education (TSBIE) result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Telangana
                 Intermediate 1st and 2nd Year (General & Vocational). Official TSBIE Hyderabad mirrors and board result
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

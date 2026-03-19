@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 10th - Official National Secondary Gateway";
-$meta_description = "Check india result 10th for all state board exams. Access the official national secondary results portal, highlights, and archival scores on indiaresults.";
-$keyword = "india result 10th";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 10th - Official National Secondary Gateway"; 
+$meta_description = "Check india result 10th for all state board exams. Access the official national secondary results portal, highlights, and archival scores on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your primary destination to access Class 10th (Secondary/Matric) results
                 across all Indian states. Official mirrors for all state boards updated for the latest academic session.
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

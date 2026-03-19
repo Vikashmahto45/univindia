@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "wbresult - Official West Bengal Board Mirror";
-$meta_description = "Check wbresult online. Access the high-speed results for WBBSE Madhyamik and WBCHSE Higher Secondary for the 2024 session.";
-$meta_keywords = "wbresult, check west bengal results 2024 online, official wb results link, wbresults nic in index portal, kolkata board results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "wbresult - Official West Bengal Board Mirror"; 
+$meta_description = "Check wbresult online. Access the high-speed results for WBBSE Madhyamik and WBCHSE Higher Secondary for the 2024 session."; 
+$meta_keywords = "wbresult, check west bengal results 2024 online, official wb results link, wbresults nic in index portal, kolkata board results"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "JAC Board Result 2023 - Historical Jharkhand Academic Council Archive";
-$meta_description = "Check JAC Board Result 2023 online. Access the historical Jharkhand Academic Council (JAC) Ranchi 10th and 12th results for the 2023 session. Official marks link.";
-$meta_keywords = "jac board result 2023, check jharkhand board 10th result 2023 online, jac results 2023 rachi, official 2023 jac link, jac 12th result 2023 indiaresults";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "JAC Board Result 2023 - Historical Jharkhand Academic Council Archive"; 
+$meta_description = "Check JAC Board Result 2023 online. Access the historical Jharkhand Academic Council (JAC) Ranchi 10th and 12th results for the 2023 session. Official marks link."; 
+$meta_keywords = "jac board result 2023, check jharkhand board 10th result 2023 online, jac results 2023 rachi, official 2023 jac link, jac 12th result 2023 indiaresults"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th class result 2023 ssc telangana - Official TS SSC Hub";
-$meta_description = "Check Telangana Board 10th result 2023 on 10th class result 2023 ssc telangana. Access official BSE Telangana SSC 2023 archival scorecards on indiaresults.";
-$keyword = "10th class result 2023 ssc telangana";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th class result 2023 ssc telangana - Official TS SSC Hub"; 
+$meta_description = "Check Telangana Board 10th result 2023 on 10th class result 2023 ssc telangana. Access official BSE Telangana SSC 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Telangana Board
                 of Secondary Education (BSE) Class 10th (SSC) examination. Official Telangana board mirrors and 2023
@@ -126,4 +124,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

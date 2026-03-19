@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Org AlwarUniv Portal - Matsya University Official Access Hub";
-$meta_description = "Access the Univindia Org AlwarUniv portal for RRBMU Alwar. Official guide to navigating Matsya University exam forms, results, and student services.";
-$meta_keywords = "Univindia Org AlwarUniv Portal - Matsya University Official Access Hub";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Org AlwarUniv Portal - Matsya University Official Access Hub"; 
+$meta_description = "Access the Univindia Org AlwarUniv portal for RRBMU Alwar. Official guide to navigating Matsya University exam forms, results, and student services."; 
+$meta_keywords = "Univindia Org AlwarUniv Portal - Matsya University Official Access Hub"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "NEET 2023 Admit Card Download - NTA Medical Entrance Release Link | Univindia.online";
-$meta_description = "Download NEET 2023 Admit Card. Get the direct link for NTA NEET (UG) 2023 examination hall tickets and release updates at exams.nta.ac.in.";
-$meta_keywords = "neet 2023 admit card release, nta neet hall ticket 2023 download, neet.nta.nic.in login 2023, neet ug exam date 2023 download, medical entrance call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "NEET 2023 Admit Card Download - NTA Medical Entrance Release Link | Univindia.online"; 
+$meta_description = "Download NEET 2023 Admit Card. Get the direct link for NTA NEET (UG) 2023 examination hall tickets and release updates at exams.nta.ac.in."; 
+$meta_keywords = "neet 2023 admit card release, nta neet hall ticket 2023 download, neet.nta.nic.in login 2023, neet ug exam date 2023 download, medical entrance call letter"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

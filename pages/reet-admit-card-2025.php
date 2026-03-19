@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "REET Admit Card 2025: Rajasthan REET Level 1 & 2 Hall Ticket Link @ reetbser2025.in";
-$page_description = "Download REET Admit Card 2025 for Level 1 and Level 2 exams. Get direct link for BSER REET Hall Ticket, Exam Schedule, and center status. 800+ words of detailed guide.";
-$page_keywords = "REET Admit Card 2025, Rajasthan REET Hall Ticket Download, BSER REET 2025 Admit Card, REET Level 1 Level 2 Admit Card, reetbser2025.in call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "REET Admit Card 2025: Rajasthan REET Level 1 & 2 Hall Ticket Link @ reetbser2025.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -142,7 +140,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-user-graduate me-2"></i> Rajasthan Education Portals</h3>
                 <div class="row g-3">
-                    <?php
                     $raj = [
                         'uniraj-admit-card.php' => 'Uniraj Exam Hall Ticket',
                         'jnvu-admit-card.php' => 'JNVU Admit Card',
@@ -156,7 +153,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -190,5 +186,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "rbse 10th result 2024 date - Official Rajasthan Board Schedule";
-$meta_description = "Check rbse 10th result 2024 date online. Access the expected and confirmed release dates for Board of Secondary Education Rajasthan (BSER) Class 10th results.";
-$meta_keywords = "rbse 10th result 2024 date, check rajasthan 10th result date online, official rbse result schedule 2024, bser matric result date portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "rbse 10th result 2024 date - Official Rajasthan Board Schedule"; 
+$meta_description = "Check rbse 10th result 2024 date online. Access the expected and confirmed release dates for Board of Secondary Education Rajasthan (BSER) Class 10th results."; 
+$meta_keywords = "rbse 10th result 2024 date, check rajasthan 10th result date online, official rbse result schedule 2024, bser matric result date portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

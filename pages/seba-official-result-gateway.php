@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "seba - Official Assam Secondary Education Results Gateway";
-$meta_description = "Check seba HSLC results for Assam Class 10th exams. Access the official SEBA result portal on indiaresults for high-speed checking.";
-$keyword = "seba";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "seba - Official Assam Secondary Education Results Gateway"; 
+$meta_description = "Check seba HSLC results for Assam Class 10th exams. Access the official SEBA result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest HSLC (Class 10th) academic results for Assam. Official
                 SEBA Guwahati mirrors and portal links updated for the current session.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

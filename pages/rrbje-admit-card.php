@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online";
-$meta_description = "Download RRB JE Admit Card. Get the direct link for Railway Recruitment Board (RRB) Junior Engineer (JE) examination hall tickets at rrbcdg.gov.in.";
-$meta_keywords = "rrbje admit card, rrb je admit card download, railway junior engineer hall ticket download, rrb je cbt 1 exam date 2024, rrbcdg.gov.in je login";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download RRB JE Admit Card. Get the direct link for Railway Recruitment Board (RRB) Junior Engineer (JE) examination hall tickets at rrbcdg.gov.in."; 
+$meta_keywords = "rrbje admit card, rrb je admit card download, railway junior engineer hall ticket download, rrb je cbt 1 exam date 2024, rrbcdg.gov.in je login"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

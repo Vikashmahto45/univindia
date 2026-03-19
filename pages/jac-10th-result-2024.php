@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "JAC 10th Result 2024 - Jharkhand Academic Council Matric Updates";
-$meta_description = "Check JAC 10th Result 2024 online. Access Jharkhand board matric result dates, merit lists, and official marksheets at jacresults.com.";
-$meta_keywords = "jac 10th result 2024, jharkhand board 10th result, jac matric result 2024, jacresults.com 2024, jharkhand 10th result date";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "JAC 10th Result 2024 - Jharkhand Academic Council Matric Updates"; 
+$meta_description = "Check JAC 10th Result 2024 online. Access Jharkhand board matric result dates, merit lists, and official marksheets at jacresults.com."; 
+$meta_keywords = "jac 10th result 2024, jharkhand board 10th result, jac matric result 2024, jacresults.com 2024, jharkhand 10th result date"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

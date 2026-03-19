@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jac 10th result 2024 date - Official Jharkhand Board Matric Schedule Hub";
-$meta_description = "Check jac 10th result 2024 date for JAC Matric exams. Access the official 2024 Jharkhand Academic Council (JAC) result declaration schedule and portal on indiaresults.";
-$keyword = "jac 10th result 2024 date";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jac 10th result 2024 date - Official Jharkhand Board Matric Schedule Hub"; 
+$meta_description = "Check jac 10th result 2024 date for JAC Matric exams. Access the official 2024 Jharkhand Academic Council (JAC) result declaration schedule and portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Stay updated with the official declaration schedule for Jharkhand Class
                 10th (Matric) results for the 2024 academic session. Official JAC Ranchi mirrors and date announcements
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

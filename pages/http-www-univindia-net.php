@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Http www univindia net - Official MGSU University Result Portal";
-$meta_description = "Access the official Maharaja Ganga Singh University portal at http://www.univindia.net. Get your MGSU Bikaner results, admit cards, and time tables online.";
-$meta_keywords = "http www univindia net";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Http www univindia net - Official MGSU University Result Portal"; 
+$meta_description = "Access the official Maharaja Ganga Singh University portal at http://www.univindia.net. Get your MGSU Bikaner results, admit cards, and time tables online."; 
+$meta_keywords = "http www univindia net"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

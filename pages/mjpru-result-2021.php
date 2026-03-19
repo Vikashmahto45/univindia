@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "MJPRU Result 2021 - Mahatma Jyotiba Phule Rohilkhand University Archives";
-$meta_description = "Retrieve your MJPRU Result 2021 online. Access the Mahatma Jyotiba Phule Rohilkhand University archive for B.A, B.Sc, B.Com, and MA scores from the 2021 session.";
-$meta_keywords = "mjpru result 2021, rohilkhand university result 2021, mjpru ba result 2021, mjpru private result 2021, mjpru exam portal archives";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "MJPRU Result 2021 - Mahatma Jyotiba Phule Rohilkhand University Archives"; 
+$meta_description = "Retrieve your MJPRU Result 2021 online. Access the Mahatma Jyotiba Phule Rohilkhand University archive for B.A, B.Sc, B.Com, and MA scores from the 2021 session."; 
+$meta_keywords = "mjpru result 2021, rohilkhand university result 2021, mjpru ba result 2021, mjpru private result 2021, mjpru exam portal archives"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

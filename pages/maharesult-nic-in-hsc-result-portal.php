@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "maharesult nic in hsc result - Official Maharashtra Board Portal";
-$meta_description = "Check maharesult nic in hsc result for Class 12 exams. Access the official Maharashtra (MSBSHSE) result portal on indiaresults for high-speed checking.";
-$keyword = "maharesult nic in hsc result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "maharesult nic in hsc result - Official Maharashtra Board Portal"; 
+$meta_description = "Check maharesult nic in hsc result for Class 12 exams. Access the official Maharashtra (MSBSHSE) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest Higher Secondary results for Maharashtra. Official
                 MSBSHSE mirrors and portal links updated for the current HSC session.</p>
@@ -117,4 +115,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

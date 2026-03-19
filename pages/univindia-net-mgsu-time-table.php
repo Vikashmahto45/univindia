@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule";
-$meta_description = "Check the official Univindia Net MGSU Time Table for Bikaner University exams. Complete guide to downloading UG/PG schedules and revised dates online.";
-$meta_keywords = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule"; 
+$meta_description = "Check the official Univindia Net MGSU Time Table for Bikaner University exams. Complete guide to downloading UG/PG schedules and revised dates online."; 
+$meta_keywords = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

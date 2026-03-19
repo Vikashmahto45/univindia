@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores";
-$meta_description = "Check your MGSU Bikaner MA results on Univindia Net. Official guide to downloading Master of Arts previous and final year marksheets online.";
-$meta_keywords = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores"; 
+$meta_description = "Check your MGSU Bikaner MA results on Univindia Net. Official guide to downloading Master of Arts previous and final year marksheets online."; 
+$meta_keywords = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

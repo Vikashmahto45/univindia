@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "std 12 arts result 2022 - Official National Board Mirror";
-$meta_description = "Check std 12 arts result 2022 online. Access the historical Class 12th (Senior Secondary) Arts stream results for all Indian State Boards for 2022.";
-$meta_keywords = "std 12 arts result 2022, check 12th arts result 2022 online, official arts 2022 result link, 12th board result 2022 arts portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "std 12 arts result 2022 - Official National Board Mirror"; 
+$meta_description = "Check std 12 arts result 2022 online. Access the historical Class 12th (Senior Secondary) Arts stream results for all Indian State Boards for 2022."; 
+$meta_keywords = "std 12 arts result 2022, check 12th arts result 2022 online, official arts 2022 result link, 12th board result 2022 arts portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

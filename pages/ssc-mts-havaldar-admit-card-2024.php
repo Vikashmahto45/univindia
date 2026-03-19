@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in";
-$page_description = "SSC MTS Havaldar Admit Card 2024 Download Link. Get region-wise call letters for SSC Multi Tasking Staff & Havaldar CBT Exam. Physical test details and exam status.";
-$page_keywords = "SSC MTS Havaldar Admit Card 2024, SSC MTS Hall Ticket, SSC Havaldar PET PST Admit Card, Download SSC MTS 2024 Admit Card, ssc.gov.in mts admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -233,5 +231,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

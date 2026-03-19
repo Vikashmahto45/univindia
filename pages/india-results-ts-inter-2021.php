@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Results TS Inter 2021 - Official National Archive";
-$meta_description = "Check India Results TS Inter 2021 online. Access the historical Telangana Intermediate results for the 2021 session. Official results.cgg.gov.in mirror.";
-$meta_keywords = "india results ts inter 2021, check telangana inter 2021 results online, ts inter 1st year 2021 result, tsbie 2021 result link, official 2021 ts inter mirror";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Results TS Inter 2021 - Official National Archive"; 
+$meta_description = "Check India Results TS Inter 2021 online. Access the historical Telangana Intermediate results for the 2021 session. Official results.cgg.gov.in mirror."; 
+$meta_keywords = "india results ts inter 2021, check telangana inter 2021 results online, ts inter 1st year 2021 result, tsbie 2021 result link, official 2021 ts inter mirror"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

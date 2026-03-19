@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SOL Admit Card Download - DU School of Open Learning Hall Ticket | Univindia.online";
-$meta_description = "Download SOL Admit Card. Get the direct link for Delhi University (DU SOL) UG and PG semester examination hall tickets at sol.du.ac.in.";
-$meta_keywords = "sol admit card download, du sol hall ticket download, sol.du.ac.in login admit card, du sol exam date 2024 download, university assignment call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SOL Admit Card Download - DU School of Open Learning Hall Ticket | Univindia.online"; 
+$meta_description = "Download SOL Admit Card. Get the direct link for Delhi University (DU SOL) UG and PG semester examination hall tickets at sol.du.ac.in."; 
+$meta_keywords = "sol admit card download, du sol hall ticket download, sol.du.ac.in login admit card, du sol exam date 2024 download, university assignment call letter"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

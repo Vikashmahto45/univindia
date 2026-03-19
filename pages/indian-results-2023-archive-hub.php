@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indian results 2023 - Official National Result Archive Portal";
-$meta_description = "Check indian results 2023 for all state and central board results. Access the official 2023 India result archive on indiaresults for high-speed checking.";
-$keyword = "indian results 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indian results 2023 - Official National Result Archive Portal"; 
+$meta_description = "Check indian results 2023 for all state and central board results. Access the official 2023 India result archive on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for all state and central
                 boards in India. Official mirrors and archival links updated for the 2023 session.</p>
@@ -115,4 +113,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

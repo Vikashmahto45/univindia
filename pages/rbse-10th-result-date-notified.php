@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rbse 10th result date - Official BSER Rajasthan Notification Hub";
-$meta_description = "Track rbse 10th result date for BSER Secondary exams. Access the official Rajasthan result date notifications and portal on indiaresults.";
-$keyword = "rbse 10th result date";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rbse 10th result date - Official BSER Rajasthan Notification Hub"; 
+$meta_description = "Track rbse 10th result date for BSER Secondary exams. Access the official Rajasthan result date notifications and portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Stay updated with the official declaration schedule for Rajasthan
                 Secondary results. BSER Ajmer notifications and result portal links synchronized for the current batch.
             </p>
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

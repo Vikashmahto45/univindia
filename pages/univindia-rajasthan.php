@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Rajasthan - University Portal for Rajasthan Students";
-$meta_description = "Univindia Rajasthan is the central gateway for higher education results in Rajasthan. Guide for MGSU, RRBMU, and MSBU university portals and forms.";
-$meta_keywords = "Univindia Rajasthan - University Portal for Rajasthan Students";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Rajasthan - University Portal for Rajasthan Students"; 
+$meta_description = "Univindia Rajasthan is the central gateway for higher education results in Rajasthan. Guide for MGSU, RRBMU, and MSBU university portals and forms."; 
+$meta_keywords = "Univindia Rajasthan - University Portal for Rajasthan Students"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

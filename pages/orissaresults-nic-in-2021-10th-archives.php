@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www.orissaresults.nic.in 2021 10th - Official Odisha Board Archive";
-$meta_description = "Check www.orissaresults.nic.in 2021 10th for HSC exams. Access the official 2021 Odisha (BSE) archival result portal on indiaresults.";
-$keyword = "www.orissaresults.nic.in 2021 10th";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www.orissaresults.nic.in 2021 10th - Official Odisha Board Archive"; 
+$meta_description = "Check www.orissaresults.nic.in 2021 10th for HSC exams. Access the official 2021 Odisha (BSE) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 High School Certificate (Class 10th) results for Odisha.
                 Official BSE mirrors and archival links updated for the 2021 session.</p>
@@ -116,4 +114,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

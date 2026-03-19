@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Www Univindia Org Exam Form - Matsya University Online Registration";
-$meta_description = "Fill your RRBMU Alwar exam forms on Www Univindia Org. Official guide to online registration, fee payment, and form status for Brij and Matsya university students.";
-$meta_keywords = "Www Univindia Org Exam Form - Matsya University Online Registration";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Www Univindia Org Exam Form - Matsya University Online Registration"; 
+$meta_description = "Fill your RRBMU Alwar exam forms on Www Univindia Org. Official guide to online registration, fee payment, and form status for Brij and Matsya university students."; 
+$meta_keywords = "Www Univindia Org Exam Form - Matsya University Online Registration"; 
 ?>
 
 <main class="container">
@@ -53,5 +52,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

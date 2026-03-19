@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indian College Result - National University and Degree College Hub";
-$meta_description = "Check Indian College Result for all major universities and colleges in India. Access official UG and PG semester results, merit lists, and marksheet download links.";
-$meta_keywords = "indian college result, college result 2024, university result 2024, bsc result 2024 college, ba result college india, pg college results directory";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indian College Result - National University and Degree College Hub"; 
+$meta_description = "Check Indian College Result for all major universities and colleges in India. Access official UG and PG semester results, merit lists, and marksheet download links."; 
+$meta_keywords = "indian college result, college result 2024, university result 2024, bsc result 2024 college, ba result college india, pg college results directory"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

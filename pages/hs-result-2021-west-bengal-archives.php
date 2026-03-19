@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "hs result 2021 west bengal - Official WBCHSE 2021 Archive";
-$meta_description = "Check hs result 2021 west bengal for Higher Secondary exams. Access the official 2021 West Bengal Council of Higher Secondary Education (WBCHSE) archival portal.";
-$keyword = "hs result 2021 west bengal";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "hs result 2021 west bengal - Official WBCHSE 2021 Archive"; 
+$meta_description = "Check hs result 2021 west bengal for Higher Secondary exams. Access the official 2021 West Bengal Council of Higher Secondary Education (WBCHSE) archival portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for West Bengal
                 Class 12th (Higher Secondary). Official WBCHSE mirrors and archival links updated for the 2021 batch
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

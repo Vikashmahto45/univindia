@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net PracDetail ShowPracCenter - MGSU Bikaner Practical Exam Locations";
-$meta_description = "Find your MGSU Bikaner practical exam center via Univindia Net. Official guide to using PracDetail ShowPracCenter for venue identification online.";
-$meta_keywords = "Univindia Net PracDetail ShowPracCenter - MGSU Bikaner Practical Exam Locations";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net PracDetail ShowPracCenter - MGSU Bikaner Practical Exam Locations"; 
+$meta_description = "Find your MGSU Bikaner practical exam center via Univindia Net. Official guide to using PracDetail ShowPracCenter for venue identification online."; 
+$meta_keywords = "Univindia Net PracDetail ShowPracCenter - MGSU Bikaner Practical Exam Locations"; 
 ?>
 
 <main class="container">
@@ -57,5 +56,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

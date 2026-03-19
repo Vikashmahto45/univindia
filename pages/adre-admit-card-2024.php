@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "ADRE Admit Card 2024 Download - Assam Direct Recruitment Hall Ticket | Univindia.online";
-$meta_description = "Download ADRE Admit Card 2024. Get the direct link for Assam Direct Recruitment Grade 3 and Grade 4 examination hall tickets at sebaonline.org.";
-$meta_keywords = "adre admit card 2024 download, assam direct recruitment hall ticket 2024 download, sebaonline.org login 2024, assam exam date 2024 download, recruitment call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ADRE Admit Card 2024 Download - Assam Direct Recruitment Hall Ticket | Univindia.online"; 
+$meta_description = "Download ADRE Admit Card 2024. Get the direct link for Assam Direct Recruitment Grade 3 and Grade 4 examination hall tickets at sebaonline.org."; 
+$meta_keywords = "adre admit card 2024 download, assam direct recruitment hall ticket 2024 download, sebaonline.org login 2024, assam exam date 2024 download, recruitment call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

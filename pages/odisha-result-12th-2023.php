@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Odisha Result 12th 2023 - Official CHSE Odisha Archive";
-$meta_description = "Check Odisha Result 12th 2023 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Plus Two (+2) results for the 2023 session. Official marks.";
-$meta_keywords = "odisha result 12th 2023, check chse odisha 12th result 2023 online, odisha plus two result 2023 indiaresults, official 2023 odisha 12th link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Odisha Result 12th 2023 - Official CHSE Odisha Archive"; 
+$meta_description = "Check Odisha Result 12th 2023 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Plus Two (+2) results for the 2023 session. Official marks."; 
+$meta_keywords = "odisha result 12th 2023, check chse odisha 12th result 2023 online, odisha plus two result 2023 indiaresults, official 2023 odisha 12th link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

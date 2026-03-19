@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www.jac.jharkhand.gov.in 2023 class 10 - Official Jharkhand Board 2023 Archive";
-$meta_description = "Check www.jac.jharkhand.gov.in 2023 class 10 for JAC Matric exams. Access the official 2023 Jharkhand Academic Council (JAC) archival portal on indiaresults.";
-$keyword = "www.jac.jharkhand.gov.in 2023 class 10";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www.jac.jharkhand.gov.in 2023 class 10 - Official Jharkhand Board 2023 Archive"; 
+$meta_description = "Check www.jac.jharkhand.gov.in 2023 class 10 for JAC Matric exams. Access the official 2023 Jharkhand Academic Council (JAC) archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Jharkhand Class 10th
                 (Matric). Official JAC Ranchi mirrors and archival links updated for the 2023 batch verification.</p>
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

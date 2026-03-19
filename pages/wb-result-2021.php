@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "WB Result 2021 - Historical West Bengal WBBSE & WBCHSE Archive";
-$meta_description = "Check WB Result 2021 online. Access the historical West Bengal Madhyamik and Higher Secondary results for 2021. Official marks and merit list link.";
-$meta_keywords = "wb result 2021, check west bengal madhyamik result 2021 online, wbresults.nic.in 2021, official 2021 wb board link, indiaresult wb 2021";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "WB Result 2021 - Historical West Bengal WBBSE & WBCHSE Archive"; 
+$meta_description = "Check WB Result 2021 online. Access the historical West Bengal Madhyamik and Higher Secondary results for 2021. Official marks and merit list link."; 
+$meta_keywords = "wb result 2021, check west bengal madhyamik result 2021 online, wbresults.nic.in 2021, official 2021 wb board link, indiaresult wb 2021"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

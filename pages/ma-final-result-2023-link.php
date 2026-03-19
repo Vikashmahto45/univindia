@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "MA Final Result 2023 - Master of Arts Final Year Result Online";
-$keyword = "ma final result 2023";
-$description = "Check MA Final Result 2023. Download MA Final Year marksheet for English, Hindi, History, and more. Find university-wise result declaration dates and links.";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MA Final Result 2023 - Master of Arts Final Year Result Online"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <div class="result-container">
@@ -25,4 +24,5 @@ include '../header.php';
         <p>After clearing your MA Final exams, you can explore opportunities in teaching, research (NET/JRF), or further doctoral studies (PhD). Ensure you check your percentage and individual subject marks carefully.</p>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

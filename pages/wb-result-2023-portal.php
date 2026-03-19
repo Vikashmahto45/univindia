@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "wb result 2023 - Official West Bengal Board Archive";
-$meta_description = "Check wb result 2023 for Madhyamik and HS exams. Access the official 2023 West Bengal (WBBSE/WBCHSE) archival result portal on indiaresults.";
-$keyword = "wb result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "wb result 2023 - Official West Bengal Board Archive"; 
+$meta_description = "Check wb result 2023 for Madhyamik and HS exams. Access the official 2023 West Bengal (WBBSE/WBCHSE) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for both Madhyamik (10th) and
                 Higher Secondary (12th) for West Bengal. Official WBBSE/WBCHSE mirrors and archival links updated for
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

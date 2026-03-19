@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www indiaresults com 2021 - Official 2021 Academic Result Archive";
-$meta_description = "Check www indiaresults com 2021 for board and university exams. Access the official 2021 academic result portal and archival verification links on indiaresults.";
-$keyword = "www indiaresults com 2021";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www indiaresults com 2021 - Official 2021 Academic Result Archive"; 
+$meta_description = "Check www indiaresults com 2021 for board and university exams. Access the official 2021 academic result portal and archival verification links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for all major boards and
                 universities across India. Official indiaresults mirrors and archival links updated for the 2021 batch
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

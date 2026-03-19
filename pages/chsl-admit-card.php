@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "CHSL Admit Card Download - SSC 10+2 LDC DEO Tier 1 Hall Ticket | Univindia.online";
-$meta_description = "Download CHSL Admit Card 2024. Get the direct link for SSC Combined Higher Secondary Level (CHSL 10+2) Tier 1 examination regional hall tickets at ssc.gov.in.";
-$meta_keywords = "chsl admit card download, ssc chsl tier 1 hall ticket 2024, ssc.gov.in login 10+2 admit card, chsl exam date 2024 download, ssc ldc recruitment call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CHSL Admit Card Download - SSC 10+2 LDC DEO Tier 1 Hall Ticket | Univindia.online"; 
+$meta_description = "Download CHSL Admit Card 2024. Get the direct link for SSC Combined Higher Secondary Level (CHSL 10+2) Tier 1 examination regional hall tickets at ssc.gov.in."; 
+$meta_keywords = "chsl admit card download, ssc chsl tier 1 hall ticket 2024, ssc.gov.in login 10+2 admit card, chsl exam date 2024 download, ssc ldc recruitment call letter"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

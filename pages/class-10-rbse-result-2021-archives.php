@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "class 10 rbse result 2021 - Official Rajasthan 10th Hub";
-$meta_description = "Check Rajasthan Board 10th result 2021 on class 10 rbse result 2021. Access official RBSE Secondary 2021 archival scorecards on indiaresults portal.";
-$keyword = "class 10 rbse result 2021";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "class 10 rbse result 2021 - Official Rajasthan 10th Hub"; 
+$meta_description = "Check Rajasthan Board 10th result 2021 on class 10 rbse result 2021. Access official RBSE Secondary 2021 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 10th (Secondary) examination. Official RBSE mirrors and 2021
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard";
-$meta_description = "Manage your MGSU Bikaner results via Univindia Net MGSURES Index. Official guide to accessing Maharaja Ganga Singh University score reports online.";
-$meta_keywords = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard"; 
+$meta_description = "Manage your MGSU Bikaner results via Univindia Net MGSURES Index. Official guide to accessing Maharaja Ganga Singh University score reports online."; 
+$meta_keywords = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

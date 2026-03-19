@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "reetresult 2021 - Official Rajasthan Teacher Portal";
-$meta_description = "Check reetresult 2021 online. Access the historical Rajasthan Eligibility Examination for Teachers (REET) session 2021 results.";
-$meta_keywords = "reetresult 2021, check reet 2021 result online, official reet bser link, rajasthan teacher result 2021 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "reetresult 2021 - Official Rajasthan Teacher Portal"; 
+$meta_description = "Check reetresult 2021 online. Access the historical Rajasthan Eligibility Examination for Teachers (REET) session 2021 results."; 
+$meta_keywords = "reetresult 2021, check reet 2021 result online, official reet bser link, rajasthan teacher result 2021 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

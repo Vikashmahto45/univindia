@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "sslc result 2020 kerala school wise - Official Kerala SSLC 2020 Archive";
-$meta_description = "Check sslc result 2020 kerala school wise for DHSE exams. Access the official 2020 Kerala Secondary (Class 10) school-wise archival portal on indiaresults.";
-$keyword = "sslc result 2020 kerala school wise";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "sslc result 2020 kerala school wise - Official Kerala SSLC 2020 Archive"; 
+$meta_description = "Check sslc result 2020 kerala school wise for DHSE exams. Access the official 2020 Kerala Secondary (Class 10) school-wise archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2020 academic session results for Kerala SSLC (Class 10th).
                 Official Kerala Pareeksha Bhavan mirrors for school-wise and individual results portal updated for the
@@ -126,4 +124,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "8th result 2024 - Official Class 8 Board Portal";
-$meta_description = "Check 8th result 2024 online for Punjab, Rajasthan, and other state boards. Access the official class 8 board result portal.";
-$meta_keywords = "8th result 2024, check class 8 result, 8th class board result, rajresults nic in 8th, pseb 8th result 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "8th result 2024 - Official Class 8 Board Portal"; 
+$meta_description = "Check 8th result 2024 online for Punjab, Rajasthan, and other state boards. Access the official class 8 board result portal."; 
+$meta_keywords = "8th result 2024, check class 8 result, 8th class board result, rajresults nic in 8th, pseb 8th result 2024"; 
 ?>
 
 <main class="container">
@@ -63,5 +62,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

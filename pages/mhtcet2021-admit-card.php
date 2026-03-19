@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online";
-$meta_description = "Download MHCET 2021 Admit Card. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) 2021 hall tickets at mhtcet2021.mahacet.org.";
-$meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticket 2021 download, mahacet.org login 2021, mht cet exam date 2021 download, engineering entrance call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online"; 
+$meta_description = "Download MHCET 2021 Admit Card. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) 2021 hall tickets at mhtcet2021.mahacet.org."; 
+$meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticket 2021 download, mahacet.org login 2021, mht cet exam date 2021 download, engineering entrance call letter"; 
 ?>
 
 <div class="container main-content">
@@ -92,5 +90,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

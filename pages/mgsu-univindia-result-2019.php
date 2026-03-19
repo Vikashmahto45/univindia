@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "MGSU Univindia Result 2019 Portal - Bikaner University 2019 Score Archive";
-$meta_description = "Check your MGSU Bikaner 2019 results via the Univindia portal. Official guide to retrieving historical 2019 Maharaja Ganga Singh University marksheets online.";
-$meta_keywords = "mgsu univindia result 2019";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "MGSU Univindia Result 2019 Portal - Bikaner University 2019 Score Archive"; 
+$meta_description = "Check your MGSU Bikaner 2019 results via the Univindia portal. Official guide to retrieving historical 2019 Maharaja Ganga Singh University marksheets online."; 
+$meta_keywords = "mgsu univindia result 2019"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

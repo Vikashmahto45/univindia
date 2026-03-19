@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12 result 2022 - Official National Board Mirror";
-$meta_description = "Check 12 result 2022 online. Access the historical results for all Indian State Boards and University Intermediate for the 2022 session.";
-$meta_keywords = "12 result 2022, check national 12th results 2022 online, official indiaresults portal 2022, results nic in 2022 12th";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12 result 2022 - Official National Board Mirror"; 
+$meta_description = "Check 12 result 2022 online. Access the historical results for all Indian State Boards and University Intermediate for the 2022 session."; 
+$meta_keywords = "12 result 2022, check national 12th results 2022 online, official indiaresults portal 2022, results nic in 2022 12th"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

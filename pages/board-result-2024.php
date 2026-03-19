@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "board result 2024 - Official National Board Portal";
-$meta_description = "Check board result 2024 online. Access the 2024 Class 10th and 12th results for all Indian State Boards including UP, Bihar, Punjab, and Rajasthan.";
-$meta_keywords = "board result 2024, check secondary results 2024 online, official board results 2024 link, state board result 2024 search, all india board results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "board result 2024 - Official National Board Portal"; 
+$meta_description = "Check board result 2024 online. Access the 2024 Class 10th and 12th results for all Indian State Boards including UP, Bihar, Punjab, and Rajasthan."; 
+$meta_keywords = "board result 2024, check secondary results 2024 online, official board results 2024 link, state board result 2024 search, all india board results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "JNV Admit Card Download - Navodaya Selection Test Hall Ticket";
-$meta_description = "Download JNV Admit Card Class 6 & 9. Get the direct link to access your Navodaya Vidyalaya entrance exam call letter and venue details.";
-$meta_keywords = "jnv admit card, navodaya hall ticket download, jnvst admit card link, jnv class 6 exam hall ticket";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "JNV Admit Card Download - Navodaya Selection Test Hall Ticket"; 
+$meta_description = "Download JNV Admit Card Class 6 & 9. Get the direct link to access your Navodaya Vidyalaya entrance exam call letter and venue details."; 
+$meta_keywords = "jnv admit card, navodaya hall ticket download, jnvst admit card link, jnv class 6 exam hall ticket"; 
 ?>
 
 <main class="container">
@@ -38,7 +37,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">School Admission Series</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "jnv admit card";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -47,16 +45,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

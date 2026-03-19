@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th Class Result 2023 Name Wise - Official National Mirror";
-$meta_description = "Check 10th Class Result 2023 Name Wise online. Access the historical Rajasthan, Punjab, and other state matric results for the 2023 session via official name mirrors.";
-$meta_keywords = "10th class result 2023 name wise, check 10th result 2023 by name, search matric result 2023 name wise, official 2023 name mirror, indiaresults 10th name 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th Class Result 2023 Name Wise - Official National Mirror"; 
+$meta_description = "Check 10th Class Result 2023 Name Wise online. Access the historical Rajasthan, Punjab, and other state matric results for the 2023 session via official name mirrors."; 
+$meta_keywords = "10th class result 2023 name wise, check 10th result 2023 by name, search matric result 2023 name wise, official 2023 name mirror, indiaresults 10th name 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

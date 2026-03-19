@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Bihar Matric Result 2022 - Official BSEB 10th Archive";
-$meta_description = "Check Bihar Matric Result 2022 online. Access the historical Bihar School Examination Board (BSEB) Patna 10th results for the 2022 session. Official marks.";
-$meta_keywords = "bihar matric result 2022, check bseb 10th result 2022 online, bihar board matric result 2022 indiaresults, official 2022 bihar 10th link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Bihar Matric Result 2022 - Official BSEB 10th Archive"; 
+$meta_description = "Check Bihar Matric Result 2022 online. Access the historical Bihar School Examination Board (BSEB) Patna 10th results for the 2022 session. Official marks."; 
+$meta_keywords = "bihar matric result 2022, check bseb 10th result 2022 online, bihar board matric result 2022 indiaresults, official 2022 bihar 10th link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

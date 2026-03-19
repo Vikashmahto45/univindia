@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "MGSU Result 2019 Date Univindia - Bikaner University 2019 Score Timelines";
-$meta_description = "Check the MGSU Bikaner 2019 result dates via Univindia. Official guide to tracking the 2019 Maharaja Ganga Singh University marksheet release timeline.";
-$meta_keywords = "mgsu result 2019 date univindia";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "MGSU Result 2019 Date Univindia - Bikaner University 2019 Score Timelines"; 
+$meta_description = "Check the MGSU Bikaner 2019 result dates via Univindia. Official guide to tracking the 2019 Maharaja Ganga Singh University marksheet release timeline."; 
+$meta_keywords = "mgsu result 2019 date univindia"; 
 ?>
 
 <main class="container">
@@ -50,5 +49,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

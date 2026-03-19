@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result CBSE Board - Official National Mirror";
-$meta_description = "Check India Result CBSE Board online. Access the primary CBSE 10th and 12th results via the official IndiaResults mirror. High-speed national result link.";
-$meta_keywords = "india result cbse board, check cbse board result online, cbse 10th result link indiaresults, cbse 12th result link indiaresults, official cbse mirror result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result CBSE Board - Official National Mirror"; 
+$meta_description = "Check India Result CBSE Board online. Access the primary CBSE 10th and 12th results via the official IndiaResults mirror. High-speed national result link."; 
+$meta_keywords = "india result cbse board, check cbse board result online, cbse 10th result link indiaresults, cbse 12th result link indiaresults, official cbse mirror result"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

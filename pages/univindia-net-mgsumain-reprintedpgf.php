@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSUMAIN ReprintedPGF - MGSU Bikaner PG Form Retrieval";
-$meta_description = "Reprint your MGSU Bikaner PG examination forms via Univindia Net. Official guide to using MGSUMAIN ReprintedPGF for postgraduate registrations online.";
-$meta_keywords = "Univindia Net MGSUMAIN ReprintedPGF - MGSU Bikaner PG Form Retrieval";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSUMAIN ReprintedPGF - MGSU Bikaner PG Form Retrieval"; 
+$meta_description = "Reprint your MGSU Bikaner PG examination forms via Univindia Net. Official guide to using MGSUMAIN ReprintedPGF for postgraduate registrations online."; 
+$meta_keywords = "Univindia Net MGSUMAIN ReprintedPGF - MGSU Bikaner PG Form Retrieval"; 
 ?>
 
 <main class="container">
@@ -57,5 +56,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

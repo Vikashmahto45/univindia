@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "reet result - Official Rajasthan REET Eligibility Gateway";
-$meta_description = "Check reet result for Rajasthan Eligibility Examination for Teachers. Access the official REET (BSER) result portal on indiaresults for high-speed checking.";
-$keyword = "reet result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "reet result - Official Rajasthan REET Eligibility Gateway"; 
+$meta_description = "Check reet result for Rajasthan Eligibility Examination for Teachers. Access the official REET (BSER) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest teacher eligibility results for Rajasthan. Official
                 BSER Ajmer mirrors and portal links updated for the current REET session.</p>
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

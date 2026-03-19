@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indiaresults.com 2023 10th rbse - Official RBSE Secondary 2023 Archive";
-$meta_description = "Check indiaresults.com 2023 10th rbse for BSER Class 10th exams. Access the official 2023 Board of Secondary Education Rajasthan (BSER) result portal and archives.";
-$keyword = "indiaresults.com 2023 10th rbse";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2023 10th rbse - Official RBSE Secondary 2023 Archive"; 
+$meta_description = "Check indiaresults.com 2023 10th rbse for BSER Class 10th exams. Access the official 2023 Board of Secondary Education Rajasthan (BSER) result portal and archives."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Rajasthan Class 10th
                 (Secondary) via the official indiaresults portal. Verified RBSE Ajmer mirrors updated for the 2023 batch
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

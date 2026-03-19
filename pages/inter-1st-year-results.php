@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Inter 1st Year Results - Official National Board result Hub";
-$meta_description = "Check Inter 1st Year Results online. Access the high-speed Intermediate 1st Year results for AP (BIEAP) and TS (TSBIE). Official marks link cluster.";
-$meta_keywords = "inter 1st year results, check intermediate 1st year result online, bieap 1st year results, tsbie 1st year results, official 1st year inter link 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Inter 1st Year Results - Official National Board result Hub"; 
+$meta_description = "Check Inter 1st Year Results online. Access the high-speed Intermediate 1st Year results for AP (BIEAP) and TS (TSBIE). Official marks link cluster."; 
+$meta_keywords = "inter 1st year results, check intermediate 1st year result online, bieap 1st year results, tsbie 1st year results, official 1st year inter link 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

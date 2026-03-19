@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th class result 2023 rbse roll number - Official Rajasthan Mirror";
-$meta_description = "Check 10th class result 2023 rbse roll number online. Access the results for Board of Secondary Education Rajasthan (RBSE) Matric for the 2023 session.";
-$meta_keywords = "10th class result 2023 rbse roll number, check rbse 10th result 2023 online, official rajasthan matric link, rbse 10th roll search 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th class result 2023 rbse roll number - Official Rajasthan Mirror"; 
+$meta_description = "Check 10th class result 2023 rbse roll number online. Access the results for Board of Secondary Education Rajasthan (RBSE) Matric for the 2023 session."; 
+$meta_keywords = "10th class result 2023 rbse roll number, check rbse 10th result 2023 online, official rajasthan matric link, rbse 10th roll search 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

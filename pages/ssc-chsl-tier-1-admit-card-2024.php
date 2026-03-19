@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC CHSL Tier 1 Admit Card 2024. Get region-wise links for Combined Higher Secondary Level Tier I Exam. LDC, JSA & DEO Hall Ticket download instructions.";
-$page_keywords = "SSC CHSL Tier 1 Admit Card 2024, SSC CHSL Tier I Hall Ticket, Download CHSL Tier 1 2024 Admit Card, ssc.gov.in chsl admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -195,5 +193,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

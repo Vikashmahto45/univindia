@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online";
-$meta_description = "Download NVS Non-Teaching Admit Card 2024. Get direct link for NVS Recruitment Examination hall ticket, exam dates, city intimation for 1377+ posts at navodaya.gov.in.";
-$meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download, nvs lab attendant hall ticket, nvs recruitment 2024 admit card link, navodaya.gov.in recruitment login";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online"; 
+$meta_description = "Download NVS Non-Teaching Admit Card 2024. Get direct link for NVS Recruitment Examination hall ticket, exam dates, city intimation for 1377+ posts at navodaya.gov.in."; 
+$meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download, nvs lab attendant hall ticket, nvs recruitment 2024 admit card link, navodaya.gov.in recruitment login"; 
 ?>
 
 <div class="container main-content">
@@ -92,5 +90,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

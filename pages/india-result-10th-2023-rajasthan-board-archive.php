@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 10th 2023 rajasthan board - Official Rajasthan BSER Archive";
-$meta_description = "Check india result 10th 2023 rajasthan board for Secondary examinations. Access the official 2023 Rajasthan (RBSE) result archive on indiaresults.";
-$keyword = "india result 10th 2023 rajasthan board";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 10th 2023 rajasthan board - Official Rajasthan BSER Archive"; 
+$meta_description = "Check india result 10th 2023 rajasthan board for Secondary examinations. Access the official 2023 Rajasthan (RBSE) result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 Secondary (Class 10th) results for Rajasthan Board.
                 Official BSER Ajmer mirrors and archival links updated for the 2023 session.</p>
@@ -115,4 +113,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

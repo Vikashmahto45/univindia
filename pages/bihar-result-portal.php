@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bihar result - Official BSEB Result Mirror Hub";
-$meta_description = "Check bihar result for Class 10th and 12th. Access the official Bihar School Examination Board (BSEB) result portal on indiaresults for fast checking by name and roll number.";
-$keyword = "bihar result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bihar result - Official BSEB Result Mirror Hub"; 
+$meta_description = "Check bihar result for Class 10th and 12th. Access the official Bihar School Examination Board (BSEB) result portal on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official Bihar Board (BSEB) Matric and Intermediate results.
                 Direct mirrors for fast checking.</p>
@@ -110,4 +108,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

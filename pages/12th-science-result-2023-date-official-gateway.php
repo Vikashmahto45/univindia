@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th science result 2023 date - Official Board Notifications";
-$meta_description = "Check Rajasthan and all State Board 12th Science result date 2023 on 12th science result 2023 date. Access official 2023 archival schedule scorecards on indiaresults.";
-$keyword = "12th science result 2023 date";
-
 include '../header.php'; 
+$page_title = "12th science result 2023 date - Official Board Notifications"; 
+$meta_description = "Check Rajasthan and all State Board 12th Science result date 2023 on 12th science result 2023 date. Access official 2023 archival schedule scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for all Senior Secondary (Class 12th) Science stream result announcement dates and details for the 2023 academic session. Access official board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Science Result</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

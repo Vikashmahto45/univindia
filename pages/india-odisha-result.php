@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india odisha result - Official Odisha Board Mirror";
-$meta_description = "Check india odisha result online. Access the results for BSE Odisha Class 10 and CHSE Odisha Class 12 for the 2024 session.";
-$meta_keywords = "india odisha result, check odisha board results 2024 online, official bse odisha mirror link, odisharesults nic in index portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india odisha result - Official Odisha Board Mirror"; 
+$meta_description = "Check india odisha result online. Access the results for BSE Odisha Class 10 and CHSE Odisha Class 12 for the 2024 session."; 
+$meta_keywords = "india odisha result, check odisha board results 2024 online, official bse odisha mirror link, odisharesults nic in index portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

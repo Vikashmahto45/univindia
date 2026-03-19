@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www. pseb.ac.in 2022 - Official Punjab Board Mirror";
-$meta_description = "Check www. pseb.ac.in 2022 online. Access the historical results for Punjab School Education Board (PSEB) Class 10 and 12 for the 2022 session.";
-$meta_keywords = "www. pseb.ac.in 2022, check punjab board result 2022 online, official pseb matric link, punjab indiaresults com 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www. pseb.ac.in 2022 - Official Punjab Board Mirror"; 
+$meta_description = "Check www. pseb.ac.in 2022 online. Access the historical results for Punjab School Education Board (PSEB) Class 10 and 12 for the 2022 session."; 
+$meta_keywords = "www. pseb.ac.in 2022, check punjab board result 2022 online, official pseb matric link, punjab indiaresults com 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

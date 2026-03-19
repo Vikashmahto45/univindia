@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "intermediate results - National Intermediate Hub";
-$meta_description = "Check intermediate results online for all state boards including AP, Telangana, and Bihar. Access the official intermediate results portal for 11th and 12th.";
-$meta_keywords = "intermediate results, check inter results online, ap intermediate results, ts inter results, bihar board intermediate result link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "intermediate results - National Intermediate Hub"; 
+$meta_description = "Check intermediate results online for all state boards including AP, Telangana, and Bihar. Access the official intermediate results portal for 11th and 12th."; 
+$meta_keywords = "intermediate results, check inter results online, ap intermediate results, ts inter results, bihar board intermediate result link"; 
 ?>
 
 <main class="container">
@@ -63,5 +62,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

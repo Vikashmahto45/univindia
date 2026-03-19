@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th Arts Result 2024 - Official Higher Secondary result Portal";
-$meta_description = "Check 12th Arts Result 2024 for all state and central boards. Access the 2024 Class 12 Arts merit list, stream-wise toppers, and official marksheets online.";
-$meta_keywords = "12th arts result 2024, class 12 arts result, check 12th arts board result, arts result 2024 check online, 12th humanities result portal, official result hub";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th Arts Result 2024 - Official Higher Secondary result Portal"; 
+$meta_description = "Check 12th Arts Result 2024 for all state and central boards. Access the 2024 Class 12 Arts merit list, stream-wise toppers, and official marksheets online."; 
+$meta_keywords = "12th arts result 2024, class 12 arts result, check 12th arts board result, arts result 2024 check online, 12th humanities result portal, official result hub"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

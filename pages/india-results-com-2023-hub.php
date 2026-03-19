@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india results.com 2023 - Official National Result Portal Hub";
-$meta_description = "Check india results.com 2023 for all board and university results. Access the official 2023 results portal on indiaresults for the latest updates across India.";
-$keyword = "india results.com 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india results.com 2023 - Official National Result Portal Hub"; 
+$meta_description = "Check india results.com 2023 for all board and university results. Access the official 2023 results portal on indiaresults for the latest updates across India."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized hub for every academic result in India for the 2023
                 session. Board, University, and Competitive exam links centralzed.</p>
@@ -110,4 +108,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

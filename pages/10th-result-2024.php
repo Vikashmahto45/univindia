@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th Result 2024 - Official Secondary Board Examination Result Manual";
-$meta_description = "Check 10th Result 2024 for official Secondary (Matric) Board exams across India (CBSE, ICSE, State Boards). Access the 2024 result check links and official portals.";
-$meta_keywords = "10th result 2024, matric result 2024 link, class 10 board result check, secondary result 2024 archives, official 10th scoring manual, 10th board result 2024 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th Result 2024 - Official Secondary Board Examination Result Manual"; 
+$meta_description = "Check 10th Result 2024 for official Secondary (Matric) Board exams across India (CBSE, ICSE, State Boards). Access the 2024 result check links and official portals."; 
+$meta_keywords = "10th result 2024, matric result 2024 link, class 10 board result check, secondary result 2024 archives, official 10th scoring manual, 10th board result 2024 portal"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

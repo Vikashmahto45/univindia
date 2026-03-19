@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rbse 10th board result date - Official Rajasthan BSER Notification Hub";
-$meta_description = "Check rbse 10th board result date for the current academic session. Access the official Rajasthan Board (BSER) result date alerts on indiaresults.";
-$keyword = "rbse 10th board result date";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rbse 10th board result date - Official Rajasthan BSER Notification Hub"; 
+$meta_description = "Check rbse 10th board result date for the current academic session. Access the official Rajasthan Board (BSER) result date alerts on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Get authentic information about the Rajasthan Board 10th result
                 declaration date. Official BSER Ajmer notifications and update alerts for the current session.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

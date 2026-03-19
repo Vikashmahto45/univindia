@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online";
-$meta_description = "Download Jiwaji Admit Card. Get the direct link for Jiwaji University Gwalior UG and PG semester examination hall tickets at jiwaji.edu.";
-$meta_keywords = "jiwaji admit card download, jiwaji university hall ticket download, jiwaji.edu login admit card, gwalior university exam date 2024 download, university call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Jiwaji Admit Card. Get the direct link for Jiwaji University Gwalior UG and PG semester examination hall tickets at jiwaji.edu."; 
+$meta_keywords = "jiwaji admit card download, jiwaji university hall ticket download, jiwaji.edu login admit card, gwalior university exam date 2024 download, university call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "UGC NET Exam Admit Card - Download NTA University Hall Ticket";
-$meta_description = "UGC NET Exam Admit Card Download. Get the direct link to access your NTA UGC NET examination hall ticket and check exam venue details.";
-$meta_keywords = "ugc net exam admit card, nta net hall ticket download, ugc net call letter, university eligibility test admit card";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "UGC NET Exam Admit Card - Download NTA University Hall Ticket"; 
+$meta_description = "UGC NET Exam Admit Card Download. Get the direct link to access your NTA UGC NET examination hall ticket and check exam venue details."; 
+$meta_keywords = "ugc net exam admit card, nta net hall ticket download, ugc net call letter, university eligibility test admit card"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Higher Education Links</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "ugc net exam admit card";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

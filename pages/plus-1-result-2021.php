@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "+1 Result 2021 - Historical National Class 11 Result archive";
-$meta_description = "Check +1 Result 2021 online. Access the historical Class 11 (Plus One) results for the 2021 session. Official results from DHSE Kerala, TNBSE, and more.";
-$meta_keywords = "+1 result 2021, check plus one result 2021 online, dhse kerala +1 result 2021, tnbse +1 result link, official 2021 plus one result mirror";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "+1 Result 2021 - Historical National Class 11 Result archive"; 
+$meta_description = "Check +1 Result 2021 online. Access the historical Class 11 (Plus One) results for the 2021 session. Official results from DHSE Kerala, TNBSE, and more."; 
+$meta_keywords = "+1 result 2021, check plus one result 2021 online, dhse kerala +1 result 2021, tnbse +1 result link, official 2021 plus one result mirror"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

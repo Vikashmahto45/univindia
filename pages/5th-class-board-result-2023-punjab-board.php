@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "5th class board result 2023 punjab board - Official PSEB Mirror";
-$meta_description = "Check 5th class board result 2023 punjab board online. Access the historical results for Punjab School Education Board (PSEB) Class 5 for the 2023 session.";
-$meta_keywords = "5th class board result 2023 punjab board, check pseb class 5 result 2023 online, official punjab board link, indiaresults punjab 5th portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "5th class board result 2023 punjab board - Official PSEB Mirror"; 
+$meta_description = "Check 5th class board result 2023 punjab board online. Access the historical results for Punjab School Education Board (PSEB) Class 5 for the 2023 session."; 
+$meta_keywords = "5th class board result 2023 punjab board, check pseb class 5 result 2023 online, official punjab board link, indiaresults punjab 5th portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

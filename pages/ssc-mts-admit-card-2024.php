@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC MTS Admit Card 2024-25 for Multi Tasking Staff and Havaldar vacancies. Get direct link for SSC MTS 2024 Hall Ticket, Phase 1 Exam Date, and Region Status. 800+ words guide.";
-$page_keywords = "SSC MTS Admit Card 2024, SSC MTS 2024 Hall Ticket Download, ssc.gov.in mts 2024 admit card, SSC MTS Exam Date 2024, SSC MTS Result Status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -138,7 +136,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Post-Specific Selection Links</h3>
                 <div class="row g-3">
-                    <?php
                     $mts_posts = [
                         'havaldar-physical-admit-card.php' => 'Havaldar PET Hall Ticket',
                         'ssc-mts-department-allocation.php' => 'MTS Dept Allocation List',
@@ -152,7 +149,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -186,5 +182,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

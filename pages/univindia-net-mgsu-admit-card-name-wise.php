@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search";
-$meta_description = "Download your MGSU Bikaner admit card name wise at Univindia Net. Official guide to retrieving hall tickets using Name and Father's Name online.";
-$meta_keywords = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search"; 
+$meta_description = "Download your MGSU Bikaner admit card name wise at Univindia Net. Official guide to retrieving hall tickets using Name and Father\\\'s Name online."; 
+$meta_keywords = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search"; 
 ?>
 
 <main class="container">
@@ -58,5 +57,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

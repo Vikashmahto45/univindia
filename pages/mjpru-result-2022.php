@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "MJPRU Result 2022 - Official Rohilkhand University Archive";
-$meta_description = "Check MJPRU Result 2022 online. Access the historical Mahatma Jyotiba Phule Rohilkhand University (MJPRU) Bareilly results for the 2022 session. Official Link.";
-$meta_keywords = "mjpru result 2022, check rohilkhand university result online 2022, mjpru ba bsc bcom results 2022, official 2022 mjpru link, mjpru bareilly result 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "MJPRU Result 2022 - Official Rohilkhand University Archive"; 
+$meta_description = "Check MJPRU Result 2022 online. Access the historical Mahatma Jyotiba Phule Rohilkhand University (MJPRU) Bareilly results for the 2022 session. Official Link."; 
+$meta_keywords = "mjpru result 2022, check rohilkhand university result online 2022, mjpru ba bsc bcom results 2022, official 2022 mjpru link, mjpru bareilly result 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

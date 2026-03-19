@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rbse 12th result 2021 name wise science - Official Rajasthan Board Archive";
-$meta_description = "Check rbse 12th result 2021 name wise science for BSER Senior Secondary exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults.";
-$keyword = "rbse 12th result 2021 name wise science";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rbse 12th result 2021 name wise science - Official Rajasthan Board Archive"; 
+$meta_description = "Check rbse 12th result 2021 name wise science for BSER Senior Secondary exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Class 12th (Science) for
                 Rajasthan via student name. Official BSER Ajmer mirrors and archival links updated for the 2021 batch.
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

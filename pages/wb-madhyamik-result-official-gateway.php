@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "wb madhyamik result - Official West Bengal 10th Hub";
-$meta_description = "Check West Bengal Board Madhyamik result on wb madhyamik result. Access official WBBSE Class 10th scorecards and results on indiaresults archival portal.";
-$keyword = "wb madhyamik result";
-
 include '../header.php'; 
+$page_title = "wb madhyamik result - Official West Bengal 10th Hub"; 
+$meta_description = "Check West Bengal Board Madhyamik result on wb madhyamik result. Access official WBBSE Class 10th scorecards and results on indiaresults archival portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for West Bengal Board of Secondary Education (WBBSE) Madhyamik (Class 10th) examination results. Access official West Bengal board mirrors and archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Madhyamik Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

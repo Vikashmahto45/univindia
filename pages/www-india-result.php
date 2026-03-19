@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www india result - Official National result Discovery Portal";
-$meta_description = "Check www india result online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster.";
-$meta_keywords = "www india result, check board results online www india, high speed result portal india, official india result link, indiaresults com 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www india result - Official National result Discovery Portal"; 
+$meta_description = "Check www india result online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster."; 
+$meta_keywords = "www india result, check board results online www india, high speed result portal india, official india result link, indiaresults com 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

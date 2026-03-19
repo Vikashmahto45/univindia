@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "apsu result 2023 2nd year - Official APSU Rewa 2023 Archive";
-$meta_description = "Check Awadhesh Pratap Singh University 2nd year result 2023 on apsu result 2023 2nd year. Access official APSU Rewa archival results on indiaresults.";
-$keyword = "apsu result 2023 2nd year";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "apsu result 2023 2nd year - Official APSU Rewa 2023 Archive"; 
+$meta_description = "Check Awadhesh Pratap Singh University 2nd year result 2023 on apsu result 2023 2nd year. Access official APSU Rewa archival results on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Awadhesh Pratap
                 Singh University (APSU), Rewa for Undergraduate (UG) 2nd Year degree examinations. Official APSU mirrors
@@ -126,4 +124,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

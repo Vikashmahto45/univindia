@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indiaresults Com - Official National Result Search Portal";
-$meta_description = "Check Indiaresults Com online. Access the leading private result mirror for all Indian state boards (CBSE, ICSE, RBSE, PSEB). Search by name or roll number.";
-$meta_keywords = "indiaresults com, check indiaresults online, search board results by name, official indiaresults portal, indiaresult state list, national result mirror";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indiaresults Com - Official National Result Search Portal"; 
+$meta_description = "Check Indiaresults Com online. Access the leading private result mirror for all Indian state boards (CBSE, ICSE, RBSE, PSEB). Search by name or roll number."; 
+$meta_keywords = "indiaresults com, check indiaresults online, search board results by name, official indiaresults portal, indiaresult state list, national result mirror"; 
 ?>
 
 <main class="container">
@@ -67,5 +66,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

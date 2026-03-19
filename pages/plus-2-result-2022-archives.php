@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "+2 result 2022 - Official Higher Secondary Result Archive";
-$meta_description = "Check +2 result 2022 for Class 12 exams. Access the official 2022 Higher Secondary (+2) result portal and archives on indiaresults.";
-$keyword = "+2 result 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "+2 result 2022 - Official Higher Secondary Result Archive"; 
+$meta_description = "Check +2 result 2022 for Class 12 exams. Access the official 2022 Higher Secondary (+2) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 12th (Higher
                 Secondary / +2). Official state board mirrors and archival links updated for the 2022 batch
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

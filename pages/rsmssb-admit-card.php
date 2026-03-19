@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online";
-$meta_description = "Download RSMSSB Admit Card. Get the direct link for Rajasthan RSMSSB CET, LDC, Patwari, and VDO examination hall tickets at rsmssb.rajasthan.gov.in.";
-$meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket download, rsmssb.rajasthan.gov.in admit card login, rsmssb exam date 2024 download, rajasthan sso admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online"; 
+$meta_description = "Download RSMSSB Admit Card. Get the direct link for Rajasthan RSMSSB CET, LDC, Patwari, and VDO examination hall tickets at rsmssb.rajasthan.gov.in."; 
+$meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket download, rsmssb.rajasthan.gov.in admit card login, rsmssb exam date 2024 download, rajasthan sso admit card"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

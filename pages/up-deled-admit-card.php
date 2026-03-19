@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online";
-$meta_description = "Download UP DElEd Admit Card 2024 (formerly UP BTC). Get direct links for 1st, 2nd, 3rd, and 4th Semester exams, counseling status, and hall tickets at updeled.gov.in.";
-$meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.gov.in admit card, up deled semester exam hall ticket, up d.el.ed admit card 2024";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online"; 
+$meta_description = "Download UP DElEd Admit Card 2024 (formerly UP BTC). Get direct links for 1st, 2nd, 3rd, and 4th Semester exams, counseling status, and hall tickets at updeled.gov.in."; 
+$meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.gov.in admit card, up deled semester exam hall ticket, up d.el.ed admit card 2024"; 
 ?>
 
 <div class="container main-content">
@@ -88,5 +86,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

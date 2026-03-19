@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "mjpru result 2020-21 - Official Rohilkhand University Archive Portal";
-$meta_description = "Check mjpru result 2020-21 for BA, BSc, BCom, and Semester examinations. Access the official MJPRU 2020-21 result archive on indiaresults.";
-$keyword = "mjpru result 2020-21";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "mjpru result 2020-21 - Official Rohilkhand University Archive Portal"; 
+$meta_description = "Check mjpru result 2020-21 for BA, BSc, BCom, and Semester examinations. Access the official MJPRU 2020-21 result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2020-21 academic session results for Mahatma Jyotiba Phule
                 Rohilkhand University. Official MJPRU mirrors and archival links updated for all courses.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

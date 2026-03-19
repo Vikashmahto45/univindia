@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in";
-$page_description = "Download CUET PG Admit Card 2025 for Postgraduate Entrance Exam. Get direct link for NTA CUET PG Hall Ticket, Exam Schedule, and City Intimation Slip. 800+ words guide.";
-$page_keywords = "CUET PG Admit Card 2025, NTA CUET PG Hall Ticket Download, CUET PG 2025 Call Letter Link, pgcuet.samarth.ac.in login, CUET PG Exam City Status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -137,7 +135,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Top University PG Portals</h3>
                 <div class="row g-3">
-                    <?php
                     $pg_univ = [
                         'jnu-pg-admit-card.php' => 'JNU PG Admit Card',
                         'bhu-pg-admit-card.php' => 'BHU Postgrad Hall Ticket',
@@ -151,7 +148,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -185,5 +181,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

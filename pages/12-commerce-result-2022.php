@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12 commerce result 2022 - Official National Board Portal";
-$meta_description = "Check 12 commerce result 2022 online. Access the historical Class 12th Commerce results for Rajasthan (RBSE), CBSE, and all Indian State Boards.";
-$meta_keywords = "12 commerce result 2022, check senior secondary commerce result 2022 online, official 12th commerce result 2022 link, rbse 12th commerce 2022 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12 commerce result 2022 - Official National Board Portal"; 
+$meta_description = "Check 12 commerce result 2022 online. Access the historical Class 12th Commerce results for Rajasthan (RBSE), CBSE, and all Indian State Boards."; 
+$meta_keywords = "12 commerce result 2022, check senior secondary commerce result 2022 online, official 12th commerce result 2022 link, rbse 12th commerce 2022 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

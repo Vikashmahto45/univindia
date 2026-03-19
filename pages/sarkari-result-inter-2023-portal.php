@@ -1,7 +1,10 @@
-<?php include '../header.php'; ?>
-<?php
-// sarkari result inter 2023
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,8 +47,9 @@
         <p>Follow the simple steps to check your scores. Always ensure you are on a <span class="highlight">secure (HTTPS)</span> portal before entering your roll number or personal details. Sarkari results provide a one-stop destination for students to jump to their specific board result page effortlessly.</p>
     </main>
     <footer>
-        &copy; <?php echo date("Y"); ?> University India - Sarkari News Dashboard. All Rights Reserved.
+        &copy;  University India - Sarkari News Dashboard. All Rights Reserved.
     </footer>
 </body>
 </html>
+
 <?php include '../footer.php'; ?>

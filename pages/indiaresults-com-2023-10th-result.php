@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indiaresults com 2023 10th Result - Official Secondary Result Archive";
-$meta_description = "Check Indiaresults com 2023 10th Result for all state boards including Punjab, Rajasthan, and Himachal. Access the 2023 secondary results by name and roll number.";
-$meta_keywords = "indiaresults com 2023 10th result, check 10th result 2023, india results matric 2023, board exam results 10th 2023, indiaresults com archive 2023, official indiaresults portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indiaresults com 2023 10th Result - Official Secondary Result Archive"; 
+$meta_description = "Check Indiaresults com 2023 10th Result for all state boards including Punjab, Rajasthan, and Himachal. Access the 2023 secondary results by name and roll number."; 
+$meta_keywords = "indiaresults com 2023 10th result, check 10th result 2023, india results matric 2023, board exam results 10th 2023, indiaresults com archive 2023, official indiaresults portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

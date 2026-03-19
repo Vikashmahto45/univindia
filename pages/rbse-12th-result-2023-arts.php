@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RBSE 12th Result 2023 Arts - Rajasthan Board Class 12 Arts Results";
-$meta_description = "Check the RBSE 12th Result 2023 Arts archive. Access Rajasthan Board class 12th arts scores, merit lists, and official BSER Ajmer result data at rajresults.nic.in.";
-$meta_keywords = "rbse 12th result 2023 arts, rbse 12th arts result, rajasthan board 12th arts 2023, rajresults 12th arts";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RBSE 12th Result 2023 Arts - Rajasthan Board Class 12 Arts Results"; 
+$meta_description = "Check the RBSE 12th Result 2023 Arts archive. Access Rajasthan Board class 12th arts scores, merit lists, and official BSER Ajmer result data at rajresults.nic.in."; 
+$meta_keywords = "rbse 12th result 2023 arts, rbse 12th arts result, rajasthan board 12th arts 2023, rajresults 12th arts"; 
 ?>
 
 <main class="container">
@@ -70,5 +69,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

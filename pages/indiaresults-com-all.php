@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "IndiaResults Com - High-Speed All State Board Mirror";
-$meta_description = "Check IndiaResults Com online. Access the primary results for Rajasthan, Punjab, Bihar, and all other Indian states. Official IndiaResults high-speed mirror link.";
-$meta_keywords = "indiaresults com, check state board results online, indiaresults all states link, primary board result mirror, indiaresults class 10 12";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "IndiaResults Com - High-Speed All State Board Mirror"; 
+$meta_description = "Check IndiaResults Com online. Access the primary results for Rajasthan, Punjab, Bihar, and all other Indian states. Official IndiaResults high-speed mirror link."; 
+$meta_keywords = "indiaresults com, check state board results online, indiaresults all states link, primary board result mirror, indiaresults class 10 12"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

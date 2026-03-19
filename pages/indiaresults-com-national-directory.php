@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indiaresults com - Official National Results Directory";
-$meta_description = "Check all board results on indiaresults com. Access the official indiaresults national directory for 10th & 12th scorecards across all Indian states and zones.";
-$keyword = "indiaresults com";
-
 include '../header.php'; 
+$page_title = "indiaresults com - Official National Results Directory"; 
+$meta_description = "Check all board results on indiaresults com. Access the official indiaresults national directory for 10th & 12th scorecards across all Indian states and zones."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for all examination results across the Republic of India via the indiaresults com platform. Access official board mirrors and direct result links for all state and central boards updated for the latest sessions.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open National Directory</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

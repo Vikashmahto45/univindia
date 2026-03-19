@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result Com - Official National Examination Result Hub";
-$meta_description = "Check India Result Com online. Access the high-speed results for all Indian states and boards. Official 2024 marksheets, merit lists, and name-wise search.";
-$meta_keywords = "india result com, check board result online, indiaresults 10th 12th results, state board result link, official indiaresult portal, name wise result search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result Com - Official National Examination Result Hub"; 
+$meta_description = "Check India Result Com online. Access the high-speed results for all Indian states and boards. Official 2024 marksheets, merit lists, and name-wise search."; 
+$meta_keywords = "india result com, check board result online, indiaresults 10th 12th results, state board result link, official indiaresult portal, name wise result search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

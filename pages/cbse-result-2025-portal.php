@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "cbse result 2025 - Official CBSE Results Portal";
-$meta_description = "Check cbse result 2025 online for Class 10 and Class 12. Access the official CBSE results portal for marks, certificates, and pass percentage.";
-$meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result 2025, cbse official result link, central board results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "cbse result 2025 - Official CBSE Results Portal"; 
+$meta_description = "Check cbse result 2025 online for Class 10 and Class 12. Access the official CBSE results portal for marks, certificates, and pass percentage."; 
+$meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result 2025, cbse official result link, central board results"; 
 ?>
 
 <main class="container">
@@ -63,5 +62,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

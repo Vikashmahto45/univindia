@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rajresult - Official Rajasthan Board & University Result Gateway";
-$meta_description = "Check rajresult for BSER, RU, and state board exams. Access the official rajresults.nic.in mirrors and Rajasthan academic archives on indiaresults.";
-$keyword = "rajresult";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rajresult - Official Rajasthan Board & University Result Gateway"; 
+$meta_description = "Check rajresult for BSER, RU, and state board exams. Access the official rajresults.nic.in mirrors and Rajasthan academic archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your primary destination for all academic results across Rajasthan.
                 Official mirrors for BSER Ajmer, Rajasthan University, and other major state boards updated for the
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

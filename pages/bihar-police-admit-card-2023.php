@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Bihar Police Admit Card 2023 Download - Constable Hall Ticket Link | Univindia.online";
-$meta_description = "Download Bihar Police Admit Card 2023. Get the direct link for Central Selection Board of Constable (CSBC) recruitment examination hall tickets at csbc.bih.nic.in.";
-$meta_keywords = "bihar police admit card 2023 download, csbc bihar hall ticket 2023 download, csbc.bih.nic.in login 2023, bihar police exam date 2023 download, constable recruitment call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Bihar Police Admit Card 2023 Download - Constable Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Bihar Police Admit Card 2023. Get the direct link for Central Selection Board of Constable (CSBC) recruitment examination hall tickets at csbc.bih.nic.in."; 
+$meta_keywords = "bihar police admit card 2023 download, csbc bihar hall ticket 2023 download, csbc.bih.nic.in login 2023, bihar police exam date 2023 download, constable recruitment call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

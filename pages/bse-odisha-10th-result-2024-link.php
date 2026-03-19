@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bse odisha 10th result 2024 - Official Odisha HSC Gateway Hub";
-$meta_description = "Check bse odisha 10th result 2024 for High School Certificate examinations. Access the official 2024 Odisha (BSE) 10th result portal on indiaresults.";
-$keyword = "bse odisha 10th result 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bse odisha 10th result 2024 - Official Odisha HSC Gateway Hub"; 
+$meta_description = "Check bse odisha 10th result 2024 for High School Certificate examinations. Access the official 2024 Odisha (BSE) 10th result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest High School Certificate (Class 10th) results for
                 Odisha. Official BSE mirrors and portal links updated for the 2024 Annual HSC examinations.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

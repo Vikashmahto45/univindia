@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 10th 2021 pseb - Official Punjab Secondary 2021 Archive";
-$meta_description = "Check india result 10th 2021 pseb for matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival portal on indiaresults.";
-$keyword = "india result 10th 2021 pseb";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 10th 2021 pseb - Official Punjab Secondary 2021 Archive"; 
+$meta_description = "Check india result 10th 2021 pseb for matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Punjab Class 10th
                 (Matriculation). Official PSEB Mohali mirrors and archival links updated for the 2021 batch
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

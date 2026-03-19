@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 12th 2022 - Official National Education Archive";
-$meta_description = "Check India Result 12th 2022 for all states and boards. Access the 2022 Class 12th board results, merit lists, and official marksheets online.";
-$meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12 result india, official 12th marksheet online, cbse 12th result 2022, state board results 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 12th 2022 - Official National Education Archive"; 
+$meta_description = "Check India Result 12th 2022 for all states and boards. Access the 2022 Class 12th board results, merit lists, and official marksheets online."; 
+$meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12 result india, official 12th marksheet online, cbse 12th result 2022, state board results 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

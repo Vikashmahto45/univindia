@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result PSEB - Official Punjab Board Mirror Portal";
-$meta_description = "Check India Result PSEB online. Access the historical Punjab School Education Board (PSEB) 8th, 10th, and 12th results via the official national mirror.";
-$meta_keywords = "india result pseb, check punjab board result online, official indiaresults pseb link, pseb.ac.in mirror portal, punjab results search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result PSEB - Official Punjab Board Mirror Portal"; 
+$meta_description = "Check India Result PSEB online. Access the historical Punjab School Education Board (PSEB) 8th, 10th, and 12th results via the official national mirror."; 
+$meta_keywords = "india result pseb, check punjab board result online, official indiaresults pseb link, pseb.ac.in mirror portal, punjab results search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

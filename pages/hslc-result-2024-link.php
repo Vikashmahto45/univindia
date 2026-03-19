@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "HSLC Result 2024 - Official North East Board Gateway";
-$meta_description = "Check HSLC Result 2024 online. Access the high-speed links for SEBA Assam, Manipur, and Nagaland HSLC results. Official HSLC 2024 result mirror link.";
-$meta_keywords = "hslc result 2024, check hslc board result 2024 online, seba hslc 2024 link, bsem manipur hslc 2024 link, official hslc result gateway";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "HSLC Result 2024 - Official North East Board Gateway"; 
+$meta_description = "Check HSLC Result 2024 online. Access the high-speed links for SEBA Assam, Manipur, and Nagaland HSLC results. Official HSLC 2024 result mirror link."; 
+$meta_keywords = "hslc result 2024, check hslc board result 2024 online, seba hslc 2024 link, bsem manipur hslc 2024 link, official hslc result gateway"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

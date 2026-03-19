@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "uk board result - Official Uttarakhand Board Result Gateway";
-$meta_description = "Check uk board result for Class 10th and 12th exams. Access the official Uttarakhand Board of School Education (UBSE) result portal and archives on indiaresults.";
-$keyword = "uk board result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "uk board result - Official Uttarakhand Board Result Gateway"; 
+$meta_description = "Check uk board result for Class 10th and 12th exams. Access the official Uttarakhand Board of School Education (UBSE) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest examination results for Class 10th (Secondary) and
                 12th (Intermediate) for the Uttarakhand Board (UBSE). Official Ramnagar mirrors and archival links
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

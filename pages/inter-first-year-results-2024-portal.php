@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "inter first year results 2024 - Official Intermediate 1st Year Gateway";
-$meta_description = "Check inter first year results 2024 for all state boards. Access the official 2024 Intermediate (11th) result portal on indiaresults for high-speed checking.";
-$keyword = "inter first year results 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "inter first year results 2024 - Official Intermediate 1st Year Gateway"; 
+$meta_description = "Check inter first year results 2024 for all state boards. Access the official 2024 Intermediate (11th) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest educational results for Intermediate 1st Year (Class
                 11th) examinations across major state boards. Official mirrors and portal links updated for the 2024
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "inter 2nd year results - Official Class 2nd Year Intermediate Hub";
-$meta_description = "Check inter 2nd year results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults.";
-$keyword = "inter 2nd year results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "inter 2nd year results - Official Class 2nd Year Intermediate Hub"; 
+$meta_description = "Check inter 2nd year results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Class 12th
                 (Intermediate 2nd Year) across all Indian state boards. Official board mirrors and direct result links
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "wbresults.nic.in 2022 - Official West Bengal Mirror";
-$meta_description = "Check wbresults.nic.in 2022 online. Access the historical results for West Bengal Secondary (Madhyamik) and Higher Secondary (HS) for the 2022 session.";
-$meta_keywords = "wbresults.nic.in 2022, check west bengal results 2022 online, official wbresults link, madhyamik result 2022 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "wbresults.nic.in 2022 - Official West Bengal Mirror"; 
+$meta_description = "Check wbresults.nic.in 2022 online. Access the historical results for West Bengal Secondary (Madhyamik) and Higher Secondary (HS) for the 2022 session."; 
+$meta_keywords = "wbresults.nic.in 2022, check west bengal results 2022 online, official wbresults link, madhyamik result 2022 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

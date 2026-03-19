@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result today - Official National Result News & Alert Hub";
-$meta_description = "Check india result today for all board and university exams. Access the latest result declaration news, live updates, and official portal links on indiaresults.";
-$keyword = "india result today";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result today - Official National Result News & Alert Hub"; 
+$meta_description = "Check india result today for all board and university exams. Access the latest result declaration news, live updates, and official portal links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized hub for real-time examination results across India.
                 Access today's latest result declarations for boards, universities, and competitive exams with official
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "University at Univindia.org Portal - Rajasthan Higher Education Gateway";
-$meta_description = "Access university services via the Univindia.org portal. Official guide to navigating exam forms, admit cards, and results for RRBMU Alwar and other institutions.";
-$meta_keywords = "university at univindia.org";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "University at Univindia.org Portal - Rajasthan Higher Education Gateway"; 
+$meta_description = "Access university services via the Univindia.org portal. Official guide to navigating exam forms, admit cards, and results for RRBMU Alwar and other institutions."; 
+$meta_keywords = "university at univindia.org"; 
 ?>
 
 <main class="container">
@@ -52,5 +51,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

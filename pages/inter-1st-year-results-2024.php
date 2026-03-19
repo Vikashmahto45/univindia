@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Inter 1st Year Results 2024 - Official Andhra & Telangana Portal";
-$meta_description = "Check Inter 1st Year Results 2024 online. Access the high-speed links for AP and Telangana Intermediate results. Official BIEAP and TSBIE mirror.";
-$meta_keywords = "inter 1st year results 2024, ap inter 1st year result, ts inter 1st year result, check intermediate result 2024 online, inter result 2024 link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Inter 1st Year Results 2024 - Official Andhra & Telangana Portal"; 
+$meta_description = "Check Inter 1st Year Results 2024 online. Access the high-speed links for AP and Telangana Intermediate results. Official BIEAP and TSBIE mirror."; 
+$meta_keywords = "inter 1st year results 2024, ap inter 1st year result, ts inter 1st year result, check intermediate result 2024 online, inter result 2024 link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "aps result - Official School Examination Hub";
-$meta_description = "Check aps result for all classes and board exams. Access the official Army Public School (APS) and general school result portal on indiaresults.";
-$keyword = "aps result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "aps result - Official School Examination Hub"; 
+$meta_description = "Check aps result for all classes and board exams. Access the official Army Public School (APS) and general school result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Army Public School (APS) and specialized
                 school-level examination results. Official institution mirrors and direct result links updated for the
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

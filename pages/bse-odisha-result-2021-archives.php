@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bse odisha result 2021 - Official Odisha Matric Archive Hub";
-$meta_description = "Check bse odisha result 2021 for HSC examinations. Access the official 2021 Odisha Secondary archival result portal on indiaresults.";
-$keyword = "bse odisha result 2021";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bse odisha result 2021 - Official Odisha Matric Archive Hub"; 
+$meta_description = "Check bse odisha result 2021 for HSC examinations. Access the official 2021 Odisha Secondary archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Class 10th (Matriculation)
                 for Odisha. Official BSE Cuttack mirrors and archival links updated for the 2021 batch.</p>
@@ -117,4 +115,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

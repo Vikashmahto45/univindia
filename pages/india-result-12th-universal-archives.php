@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 12th - Official National Higher Secondary Archive";
-$meta_description = "Check india result 12th for all state board exams. Access the official Class 12th (Intermediate) result portal and archival verification links on indiaresults.";
-$keyword = "india result 12th";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 12th - Official National Higher Secondary Archive"; 
+$meta_description = "Check india result 12th for all state board exams. Access the official Class 12th (Intermediate) result portal and archival verification links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for the Class 12th (Higher Secondary /
                 Intermediate) results across all state boards in India. Official board mirrors and archival links
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

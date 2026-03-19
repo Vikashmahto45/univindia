@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Http Www Univindia Org - Matsya University Official Website Access";
-$meta_description = "Access RRBMU Alwar services via Http Www Univindia Org. Official guide to exams, results, and student panels for Matsya University students online.";
-$meta_keywords = "Http Www Univindia Org - Matsya University Official Website Access";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Http Www Univindia Org - Matsya University Official Website Access"; 
+$meta_description = "Access RRBMU Alwar services via Http Www Univindia Org. Official guide to exams, results, and student panels for Matsya University students online."; 
+$meta_keywords = "Http Www Univindia Org - Matsya University Official Website Access"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

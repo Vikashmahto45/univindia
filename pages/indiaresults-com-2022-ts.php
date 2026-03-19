@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indiaresults.com 2022 ts - Official TS Board Mirror";
-$meta_description = "Check indiaresults.com 2022 ts online. Access the historical results for Telangana State Board of Intermediate Education (TSBIE) for the 2022 session.";
-$meta_keywords = "indiaresults.com 2022 ts, check ts inter results 2022 online, official telangana board link, tsbie cgg gov in 2022 results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "indiaresults.com 2022 ts - Official TS Board Mirror"; 
+$meta_description = "Check indiaresults.com 2022 ts online. Access the historical results for Telangana State Board of Intermediate Education (TSBIE) for the 2022 session."; 
+$meta_keywords = "indiaresults.com 2022 ts, check ts inter results 2022 online, official telangana board link, tsbie cgg gov in 2022 results"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

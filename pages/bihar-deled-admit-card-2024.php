@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Bihar DElEd Admit Card 2024 Download - BSEB Hall Ticket Link | Univindia.online";
-$meta_description = "Download Bihar DElEd Admit Card 2024. Get the direct link for Bihar School Examination Board (BSEB) D.El.Ed Joint Entrance Test (JET) hall tickets at biharboardonline.com.";
-$meta_keywords = "bihar deled admit card 2024 download, bseb deled hall ticket 2024 download, biharboardonline.com login 2024, deled exam date 2024 download, teacher entrance call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Bihar DElEd Admit Card 2024 Download - BSEB Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Bihar DElEd Admit Card 2024. Get the direct link for Bihar School Examination Board (BSEB) D.El.Ed Joint Entrance Test (JET) hall tickets at biharboardonline.com."; 
+$meta_keywords = "bihar deled admit card 2024 download, bseb deled hall ticket 2024 download, biharboardonline.com login 2024, deled exam date 2024 download, teacher entrance call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

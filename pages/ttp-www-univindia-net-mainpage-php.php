@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "TTP //www.univindia.net/mainpage.php - Univindia Net Gateway Guide";
-$meta_description = "Access the Univindia Net main page for university services. Official guide to navigating the mainpage.php gateway for exams and results online.";
-$meta_keywords = "ttp //www.univindia.net/mainpage.php";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "TTP //www.univindia.net/mainpage.php - Univindia Net Gateway Guide"; 
+$meta_description = "Access the Univindia Net main page for university services. Official guide to navigating the mainpage.php gateway for exams and results online."; 
+$meta_keywords = "ttp //www.univindia.net/mainpage.php"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

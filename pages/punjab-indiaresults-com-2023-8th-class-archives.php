@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "punjab.indiaresults.com 2023 8th class - Official Punjab 2023 Archive";
-$meta_description = "Check Punjab Board 8th Class result 2023 on punjab.indiaresults.com 2023 8th class. Access official PSEB 8th archival scorecards on indiaresults.";
-$keyword = "punjab.indiaresults.com 2023 8th class";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "punjab.indiaresults.com 2023 8th class - Official Punjab 2023 Archive"; 
+$meta_description = "Check Punjab Board 8th Class result 2023 on punjab.indiaresults.com 2023 8th class. Access official PSEB 8th archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Punjab School
                 Education Board (PSEB) Class 8th (Middle School). Official PSEB mirrors and 2023 archival links updated
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

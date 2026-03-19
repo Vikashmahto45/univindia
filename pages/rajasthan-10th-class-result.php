@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "rajasthan 10th class result - Official RBSE Mirror";
-$meta_description = "Check rajasthan 10th class result online. Access the high-speed results for Board of Secondary Education Rajasthan (BSER) Class 10 for the 2024 session.";
-$meta_keywords = "rajasthan 10th class result, check rbse 10th result 2024 online, official rajasthan board link, rajresults nic in index portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "rajasthan 10th class result - Official RBSE Mirror"; 
+$meta_description = "Check rajasthan 10th class result online. Access the high-speed results for Board of Secondary Education Rajasthan (BSER) Class 10 for the 2024 session."; 
+$meta_keywords = "rajasthan 10th class result, check rbse 10th result 2024 online, official rajasthan board link, rajresults nic in index portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

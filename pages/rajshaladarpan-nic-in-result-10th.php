@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Rajshaladarpan nic in Result 10th - Official Rajasthan Shala Darpan Portal";
-$meta_description = "Check Rajshaladarpan nic in Result 10th online. Access the high-speed Rajasthan 10th results via the Shala Darpan integrated portal. Official marks.";
-$meta_keywords = "rajshaladarpan nic in result 10th, check rajasthan 10th result on shala darpan, rajshaladarpan result 2024 class 10, official shala darpan result link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Rajshaladarpan nic in Result 10th - Official Rajasthan Shala Darpan Portal"; 
+$meta_description = "Check Rajshaladarpan nic in Result 10th online. Access the high-speed Rajasthan 10th results via the Shala Darpan integrated portal. Official marks."; 
+$meta_keywords = "rajshaladarpan nic in result 10th, check rajasthan 10th result on shala darpan, rajshaladarpan result 2024 class 10, official shala darpan result link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

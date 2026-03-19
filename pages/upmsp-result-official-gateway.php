@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "upmsp result - Official Uttar Pradesh Board Hub";
-$meta_description = "Check UP Board 10th & 12th result on upmsp result. Access official UPMSP High School and Intermediate scorecards on indiaresults archival portal.";
-$keyword = "upmsp result";
-
 include '../header.php'; 
+$page_title = "upmsp result - Official Uttar Pradesh Board Hub"; 
+$meta_description = "Check UP Board 10th & 12th result on upmsp result. Access official UPMSP High School and Intermediate scorecards on indiaresults archival portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP), Prayagraj Class 10th (High School) and Class 12th (Intermediate) examination results. Access official UP board mirrors and archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open UP Board Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

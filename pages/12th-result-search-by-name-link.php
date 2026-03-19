@@ -1,7 +1,10 @@
-<?php include '../header.php'; ?>
-<?php
-// 12th result search by name
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,8 +51,9 @@
         <p>The <span class="highlight">12th Result Search By Name</span> feature is a lifesaver for students who have misplaced their admit cards. It allows you to quickly verify your marks and start planning for higher education or competitive exams.</p>
     </main>
     <footer>
-        &copy; <?php echo date("Y"); ?> University India - Your Academic Companion. All Rights Reserved.
+        &copy;  University India - Your Academic Companion. All Rights Reserved.
     </footer>
 </body>
 </html>
+
 <?php include '../footer.php'; ?>

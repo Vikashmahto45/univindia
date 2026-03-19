@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Result 2022 - National and State Board Results Archive";
-$meta_description = "Access Result 2022 for all major state and central boards. Retrieve the official 2022 academic scores, merit lists, and marksheet summaries from the national archives.";
-$meta_keywords = "result 2022, 10th result 2022, 12th result 2022, board result 2022 archive, university result 2022, result 2022 index";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Result 2022 - National and State Board Results Archive"; 
+$meta_description = "Access Result 2022 for all major state and central boards. Retrieve the official 2022 academic scores, merit lists, and marksheet summaries from the national archives."; 
+$meta_keywords = "result 2022, 10th result 2022, 12th result 2022, board result 2022 archive, university result 2022, result 2022 index"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

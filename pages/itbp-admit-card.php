@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download";
-$meta_description = "Download ITBP Admit Card 2024 for Constable, Head Constable, ASI, and SI. Get direct link for Indo-Tibetan Border Police Recruitment PET/PST and Written Exam Hall Ticket.";
-$keywords = "itbp admit card, itbp constable admit card, itbp head constable hall ticket, itbp physical test admit card, recruitment.itbpolice.nic.in admit card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download"; 
+$meta_description = "Download ITBP Admit Card 2024 for Constable, Head Constable, ASI, and SI. Get direct link for Indo-Tibetan Border Police Recruitment PET/PST and Written Exam Hall Ticket."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -131,4 +130,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

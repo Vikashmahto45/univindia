@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "up result nic in 2022 - Official Uttar Pradesh Board Archive";
-$meta_description = "Check up result nic in 2022 for High School and Intermediate exams. Access the official 2022 UPMSP archival result portal on indiaresults.";
-$keyword = "up result nic in 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "up result nic in 2022 - Official Uttar Pradesh Board Archive"; 
+$meta_description = "Check up result nic in 2022 for High School and Intermediate exams. Access the official 2022 UPMSP archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 High School and Intermediate academic results for Uttar
                 Pradesh. Official UPMSP mirrors and archival links updated for the 2022 session batch.</p>
@@ -116,4 +114,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

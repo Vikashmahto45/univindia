@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "PSEB 8th Result 2022 Roll Number - Official Punjab Portal";
-$meta_description = "Check PSEB 8th Result 2022 Roll Number online. Access the historical Punjab School Education Board Class 8 results for the 2022 session. Official 2022 PSEB mirror.";
-$meta_keywords = "pseb 8th result 2022 roll number, check punjab board 8th result 2022 online, official 2022 pseb 8th link, pseb.ac.in 2022 result, indiaresults punjab 8th 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "PSEB 8th Result 2022 Roll Number - Official Punjab Portal"; 
+$meta_description = "Check PSEB 8th Result 2022 Roll Number online. Access the historical Punjab School Education Board Class 8 results for the 2022 session. Official 2022 PSEB mirror."; 
+$meta_keywords = "pseb 8th result 2022 roll number, check punjab board 8th result 2022 online, official 2022 pseb 8th link, pseb.ac.in 2022 result, indiaresults punjab 8th 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

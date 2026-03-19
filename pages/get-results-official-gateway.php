@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "get results - Official National Academic Results Gateway";
-$meta_description = "Check get results for all board and university exams. Access the official national results portal, news updates, and archival scores on indiaresults.";
-$keyword = "get results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "get results - Official National Academic Results Gateway"; 
+$meta_description = "Check get results for all board and university exams. Access the official national results portal, news updates, and archival scores on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your universal gateway to get examination results across India. Access
                 official state board, university, and competitive exam mirrors updated for the latest academic session.
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indian Result MP - Official Madhya Pradesh Board result Portal";
-$meta_description = "Check Indian Result MP online. Access the high-speed MP Board (MPBSE) 10th and 12th results. Official Madhya Pradesh marks link cluster.";
-$meta_keywords = "indian result mp, check mp board 10th result online, mpbse results 2024, official madhya pradesh result link, indiaresult mp board 12th";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indian Result MP - Official Madhya Pradesh Board result Portal"; 
+$meta_description = "Check Indian Result MP online. Access the high-speed MP Board (MPBSE) 10th and 12th results. Official Madhya Pradesh marks link cluster."; 
+$meta_keywords = "indian result mp, check mp board 10th result online, mpbse results 2024, official madhya pradesh result link, indiaresult mp board 12th"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

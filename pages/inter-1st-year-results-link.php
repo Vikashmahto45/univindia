@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "inter 1 year results - Official Junior College Gateway";
-$meta_description = "Check inter 1 year results for all major state boards. Access the official 1st Year Intermediate result hub on indiaresults for high-speed checking.";
-$keyword = "inter 1 year results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "inter 1 year results - Official Junior College Gateway"; 
+$meta_description = "Check inter 1 year results for all major state boards. Access the official 1st Year Intermediate result hub on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest 1st Year Intermediate results for all state boards.
                 Official result mirrors and high-speed links updated for the current session.</p>
@@ -113,4 +111,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

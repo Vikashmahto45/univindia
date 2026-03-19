@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RBSE - Board of Secondary Education Rajasthan Ajmer";
-$meta_description = "Check RBSE (Board of Secondary Education Rajasthan) official results for 10th and 12th. Access RBSE Ajmer portal, merit lists, and marksheet download links.";
-$meta_keywords = "rbse, rbse ajmer, board of secondary education rajasthan, rbse 10th result, rbse 12th result, rajeduboard rajasthan gov in results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RBSE - Board of Secondary Education Rajasthan Ajmer"; 
+$meta_description = "Check RBSE (Board of Secondary Education Rajasthan) official results for 10th and 12th. Access RBSE Ajmer portal, merit lists, and marksheet download links."; 
+$meta_keywords = "rbse, rbse ajmer, board of secondary education rajasthan, rbse 10th result, rbse 12th result, rajeduboard rajasthan gov in results"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

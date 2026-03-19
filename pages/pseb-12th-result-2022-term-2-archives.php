@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "pseb 12th result 2022 term 2 - Official Punjab 2022 Archive";
-$meta_description = "Check pseb 12th result 2022 term 2 for Senior Secondary exams. Access the official 2022 Punjab Board (PSEB) term 2 archival result gateway.";
-$keyword = "pseb 12th result 2022 term 2";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "pseb 12th result 2022 term 2 - Official Punjab 2022 Archive"; 
+$meta_description = "Check pseb 12th result 2022 term 2 for Senior Secondary exams. Access the official 2022 Punjab Board (PSEB) term 2 archival result gateway."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the Term 2 examination results for Punjab Class 12th (Senior
                 Secondary) from the 2022 session. Official PSEB Mohali mirrors and archival links updated for the 2022
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "IB ACIO Admit Card 2024 Download - Intelligence Bureau Assistant Central Intelligence Officer Link | Univindia.online";
-$meta_description = "Download IB ACIO Admit Card 2024. Get the direct link for Intelligence Bureau (MHA) Assistant Central Intelligence Officer Grade-II/Executive hall tickets at mha.gov.in.";
-$meta_keywords = "ib acio admit card 2024, intelligence bureau hall ticket download, mha ib acio admit card link, ib acio grade 2 hall ticket, ib acio exam date 2024";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "IB ACIO Admit Card 2024 Download - Intelligence Bureau Assistant Central Intelligence Officer Link | Univindia.online"; 
+$meta_description = "Download IB ACIO Admit Card 2024. Get the direct link for Intelligence Bureau (MHA) Assistant Central Intelligence Officer Grade-II/Executive hall tickets at mha.gov.in."; 
+$meta_keywords = "ib acio admit card 2024, intelligence bureau hall ticket download, mha ib acio admit card link, ib acio grade 2 hall ticket, ib acio exam date 2024"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "orissa 10th result - Official Orissa Secondary Hub";
-$meta_description = "Check orissa 10th result for BSE exams. Access the official Board of Secondary Education Orissa (BSE) result gateway and archives on indiaresults.";
-$keyword = "orissa 10th result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "orissa 10th result - Official Orissa Secondary Hub"; 
+$meta_description = "Check orissa 10th result for BSE exams. Access the official Board of Secondary Education Orissa (BSE) result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Orissa Class 10th
                 (Secondary/HSC). Official BSE Orissa mirrors and board result links updated for the current academic
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisha indiaresults com - Official Odisha Result Direct Hub";
-$meta_description = "Check odisha indiaresults com for Matric (10th) and Higher Secondary (12th) results. Access the official Odisha result gateway for high-speed score checking.";
-$keyword = "odisha indiaresults com";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisha indiaresults com - Official Odisha Result Direct Hub"; 
+$meta_description = "Check odisha indiaresults com for Matric (10th) and Higher Secondary (12th) results. Access the official Odisha result gateway for high-speed score checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized hub for every academic result in Odisha. Official BSE
                 and CHSE mirrors updated for the current and archival board examinations.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

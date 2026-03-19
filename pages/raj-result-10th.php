@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Raj Result 10th - Official Rajasthan Board examination Hub";
-$meta_description = "Check Raj Result 10th online. Access the high-speed Rajasthan Board (RBSE) Secondary results. Official 2024 merit list, subject marks, and name-wise search.";
-$meta_keywords = "raj result 10th, check rajasthan board 10th result online, rbse 10th results 2024, rajresults.nic.in 10th, official raj board secondary link, indiaresult rajasthan 10th";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Raj Result 10th - Official Rajasthan Board examination Hub"; 
+$meta_description = "Check Raj Result 10th online. Access the high-speed Rajasthan Board (RBSE) Secondary results. Official 2024 merit list, subject marks, and name-wise search."; 
+$meta_keywords = "raj result 10th, check rajasthan board 10th result online, rbse 10th results 2024, rajresults.nic.in 10th, official raj board secondary link, indiaresult rajasthan 10th"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

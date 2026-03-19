@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "rbse 12th science result 2022 roll number wise - Official Rajasthan Hub";
-$meta_description = "Check Rajasthan Board 12th Science result 2022 on rbse 12th science result 2022 roll number wise. Access official BSER 2022 archival scorecards on indiaresults.";
-$keyword = "rbse 12th science result 2022 roll number wise";
-
 include '../header.php'; 
+$page_title = "rbse 12th science result 2022 roll number wise - Official Rajasthan Hub"; 
+$meta_description = "Check Rajasthan Board 12th Science result 2022 on rbse 12th science result 2022 roll number wise. Access official BSER 2022 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 12th (Senior Secondary) Science stream examination results for the 2022 academic session. Access official Rajasthan board mirrors and 2022 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 RBSE Science Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

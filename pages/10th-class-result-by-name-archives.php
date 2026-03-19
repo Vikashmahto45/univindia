@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th class result by name - Official National Secondary Hub";
-$meta_description = "Check Class 10 result by student name on 10th class result by name. Access official indiaresults Name-Wise Search for Secondary scores nationwide.";
-$keyword = "10th class result by name";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th class result by name - Official National Secondary Hub"; 
+$meta_description = "Check Class 10 result by student name on 10th class result by name. Access official indiaresults Name-Wise Search for Secondary scores nationwide."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Class 10th (Secondary) examination results
                 searchable by student name. Access official national board name-wise mirrors and direct score links for
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www.pseb.ac.in 12th result 2023 - Official Punjab Board Mirror";
-$meta_description = "Check www.pseb.ac.in 12th result 2023 online. Access the historical Senior Secondary (Class 12) results for Punjab School Education Board (PSEB).";
-$meta_keywords = "www.pseb.ac.in 12th result 2023, check punjab 12th result 2023 online, official pseb 12th link 2023, punjab board result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www.pseb.ac.in 12th result 2023 - Official Punjab Board Mirror"; 
+$meta_description = "Check www.pseb.ac.in 12th result 2023 online. Access the historical Senior Secondary (Class 12) results for Punjab School Education Board (PSEB)."; 
+$meta_keywords = "www.pseb.ac.in 12th result 2023, check punjab 12th result 2023 online, official pseb 12th link 2023, punjab board result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

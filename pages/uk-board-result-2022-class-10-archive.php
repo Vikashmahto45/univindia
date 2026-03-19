@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "uk board result 2022 class 10 - Official Uttarakhand Archive Portal";
-$meta_description = "Check uk board result 2022 class 10 for High School examinations. Access the official 2022 Uttarakhand (UBSE) archival portal on indiaresults.";
-$keyword = "uk board result 2022 class 10";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "uk board result 2022 class 10 - Official Uttarakhand Archive Portal"; 
+$meta_description = "Check uk board result 2022 class 10 for High School examinations. Access the official 2022 Uttarakhand (UBSE) archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 High School (Class 10th) results for Uttarakhand.
                 Official UBSE mirrors and archival links updated for the 2022 board session.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th Result 2023 Arts - Official National Mirror";
-$meta_description = "Check 12th Result 2023 Arts online. Access the historical Rajasthan, Punjab, and other state Senior Secondary Arts results for the 2023 session. Official 2023 mirror link.";
-$meta_keywords = "12th result 2023 arts, check 12th board arts result 2023 online, bser 12th arts 2023 link, official 2023 arts result gateway, indiaresults 12th arts 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th Result 2023 Arts - Official National Mirror"; 
+$meta_description = "Check 12th Result 2023 Arts online. Access the historical Rajasthan, Punjab, and other state Senior Secondary Arts results for the 2023 session. Official 2023 mirror link."; 
+$meta_keywords = "12th result 2023 arts, check 12th board arts result 2023 online, bser 12th arts 2023 link, official 2023 arts result gateway, indiaresults 12th arts 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

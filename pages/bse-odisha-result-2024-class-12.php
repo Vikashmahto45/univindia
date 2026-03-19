@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "BSE Odisha Result 2024 Class 12 - Official Higher Secondary Hub";
-$meta_description = "Check BSE Odisha Result 2024 Class 12 online. Access the Odisha Higher Secondary results for Science, Commerce, and Arts. Download your chse marksheet now.";
-$meta_keywords = "bse odisha result 2024 class 12, check odisha 12th result 2024, chse odisha results link, orissaresults.nic.in 2024 12th, odisha plus two result 2024, official odisha 12th portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "BSE Odisha Result 2024 Class 12 - Official Higher Secondary Hub"; 
+$meta_description = "Check BSE Odisha Result 2024 Class 12 online. Access the Odisha Higher Secondary results for Science, Commerce, and Arts. Download your chse marksheet now."; 
+$meta_keywords = "bse odisha result 2024 class 12, check odisha 12th result 2024, chse odisha results link, orissaresults.nic.in 2024 12th, odisha plus two result 2024, official odisha 12th portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india result apsu - Official APSU Rewa Mirror";
-$meta_description = "Check india result apsu online. Access the results for Awadhesh Pratap Singh University (APSU) Rewa for BA, BSc, BCom, and MA for the 2024 session.";
-$meta_keywords = "india result apsu, check apsu rewa results 2024 online, official apsu mirror link, apsu university results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india result apsu - Official APSU Rewa Mirror"; 
+$meta_description = "Check india result apsu online. Access the results for Awadhesh Pratap Singh University (APSU) Rewa for BA, BSc, BCom, and MA for the 2024 session."; 
+$meta_keywords = "india result apsu, check apsu rewa results 2024 online, official apsu mirror link, apsu university results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

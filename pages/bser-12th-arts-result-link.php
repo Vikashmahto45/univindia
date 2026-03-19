@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bser 12th art result - Official Rajasthan Board Portal";
-$meta_description = "Check bser 12th art result for Class 12th Board examinations. Access the official Board of Secondary Education Rajasthan (BSER) 12th Arts result link on indiaresults.";
-$keyword = "bser 12th art result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bser 12th art result - Official Rajasthan Board Portal"; 
+$meta_description = "Check bser 12th art result for Class 12th Board examinations. Access the official Board of Secondary Education Rajasthan (BSER) 12th Arts result link on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official 2024 Senior Secondary (Arts) results for the Board
                 of Secondary Education, Rajasthan (BSER/RBSE).</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

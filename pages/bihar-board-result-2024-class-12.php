@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Bihar Board Result 2024 Class 12 - Official Intermediate Examination Hub";
-$meta_description = "Check Bihar Board Result 2024 Class 12 online. Access the Bihar School Examination Board (BSEB) 12th result link for Science, Commerce, and Arts marksheets 2024.";
-$meta_keywords = "bihar board result 2024 class 12, check bseb 12th result 2024, biharboardonline.bihar.gov.in 2024 intermediate result, bihar board 12th result date, bseb intermediate result link 2024, official bihar 12th portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Bihar Board Result 2024 Class 12 - Official Intermediate Examination Hub"; 
+$meta_description = "Check Bihar Board Result 2024 Class 12 online. Access the Bihar School Examination Board (BSEB) 12th result link for Science, Commerce, and Arts marksheets 2024."; 
+$meta_keywords = "bihar board result 2024 class 12, check bseb 12th result 2024, biharboardonline.bihar.gov.in 2024 intermediate result, bihar board 12th result date, bseb intermediate result link 2024, official bihar 12th portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

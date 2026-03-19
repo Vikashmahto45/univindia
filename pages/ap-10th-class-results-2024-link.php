@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "ap 10th class results 2024 - Official BSEAP SSC Portal";
-$meta_description = "Check ap 10th class results 2024 online. Access the official Board of Secondary Education Andhra Pradesh SSC result portal and marksheet download.";
-$meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th result online, BSEAP results 2024, Andhra Pradesh 10th result";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ap 10th class results 2024 - Official BSEAP SSC Portal"; 
+$meta_description = "Check ap 10th class results 2024 online. Access the official Board of Secondary Education Andhra Pradesh SSC result portal and marksheet download."; 
+$meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th result online, BSEAP results 2024, Andhra Pradesh 10th result"; 
 ?>
 
 <main class="container">
@@ -124,5 +123,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

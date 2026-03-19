@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "UP Board Result 2024 Class 12 - Official Intermediate Examination Hub";
-$meta_description = "Check UP Board Result 2024 Class 12 online. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) 12th result link, marksheets, and stream-wise stats for 2024.";
-$meta_keywords = "up board result 2024 class 12, check upmsp 12th result 2024, upmsp.edu.in 2024 intermediate result, up board 12th result date, up board result nic in 2024, official up intermediate portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "UP Board Result 2024 Class 12 - Official Intermediate Examination Hub"; 
+$meta_description = "Check UP Board Result 2024 Class 12 online. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) 12th result link, marksheets, and stream-wise stats for 2024."; 
+$meta_keywords = "up board result 2024 class 12, check upmsp 12th result 2024, upmsp.edu.in 2024 intermediate result, up board 12th result date, up board result nic in 2024, official up intermediate portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

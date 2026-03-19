@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 8th 2022 - Historical elementary Result Archive";
-$meta_description = "Check India Result 8th 2022 online. Access the historical middle school results for Rajasthan (RBSE), Punjab (PSEB), and all state boards. Download your 2022 marksheets.";
-$meta_keywords = "india result 8th 2022, check 8th result 2022, rajasthan 8th board result 2022, punjab board 8th result 2022, official 8th result archive 2022, click to check 8th result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 8th 2022 - Historical elementary Result Archive"; 
+$meta_description = "Check India Result 8th 2022 online. Access the historical middle school results for Rajasthan (RBSE), Punjab (PSEB), and all state boards. Download your 2022 marksheets."; 
+$meta_keywords = "india result 8th 2022, check 8th result 2022, rajasthan 8th board result 2022, punjab board 8th result 2022, official 8th result archive 2022, click to check 8th result"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

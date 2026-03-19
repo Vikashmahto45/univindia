@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "UP Police Admit Card 2024-25: Download Constable & SI Hall Ticket @ uppbpb.gov.in";
-$page_description = "Download UP Police Admit Card 2024-25 for Constable (60244 Vacancies) and Sub-Inspector. Get direct link for UP Police Hall Ticket, Exam Center List, and Status. 800+ words guide.";
-$page_keywords = "UP Police Admit Card 2024, UP Police Constable Hall Ticket Download, uppbpb.gov.in admit card link, UP Police Exam Date 2025, UP Police SI Admit Card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UP Police Admit Card 2024-25: Download Constable & SI Hall Ticket @ uppbpb.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -142,7 +140,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-gavel me-2"></i> Selection & Physical Tests</h3>
                 <div class="row g-3">
-                    <?php
                     $upp_links = [
                         'up-police-constable-syllabus.php' => 'Constable OMR Pattern',
                         'up-police-physical-standard.php' => '4.8 km Run Criteria',
@@ -156,7 +153,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -190,5 +186,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

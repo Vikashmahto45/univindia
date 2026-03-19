@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "1st year result 2024 - Official University & Board Mirror";
-$meta_description = "Check 1st year result 2024 online. Access the latest results for B.A, B.Sc, B.Com, and all Undergraduate 1st Year examinations for the 2024 session.";
-$meta_keywords = "1st year result 2024, check ug 1st year result 2024 online, official university results link, indiaresults 1st year search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "1st year result 2024 - Official University & Board Mirror"; 
+$meta_description = "Check 1st year result 2024 online. Access the latest results for B.A, B.Sc, B.Com, and all Undergraduate 1st Year examinations for the 2024 session."; 
+$meta_keywords = "1st year result 2024, check ug 1st year result 2024 online, official university results link, indiaresults 1st year search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

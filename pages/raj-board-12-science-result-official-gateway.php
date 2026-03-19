@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "raj board 12 science result - Official BSER Senior Secondary Gateway";
-$meta_description = "Check raj board 12 science result for BSER Senior Secondary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults.";
-$keyword = "raj board 12 science result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "raj board 12 science result - Official BSER Senior Secondary Gateway"; 
+$meta_description = "Check raj board 12 science result for BSER Senior Secondary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for the Senior Secondary (Science) results
                 for Rajasthan. Official BSER Ajmer mirrors and portal links updated for the latest academic session.</p>
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

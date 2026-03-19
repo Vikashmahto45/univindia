@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia MGSU Practical Admit Card - Bikaner University Practical Hall Ticket";
-$meta_description = "Download your MGSU Bikaner practical exam admit card on Univindia. Complete guide to retrieving practical hall tickets and center details for MGSU students.";
-$meta_keywords = "univindia mgsu practical admit card";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia MGSU Practical Admit Card - Bikaner University Practical Hall Ticket"; 
+$meta_description = "Download your MGSU Bikaner practical exam admit card on Univindia. Complete guide to retrieving practical hall tickets and center details for MGSU students."; 
+$meta_keywords = "univindia mgsu practical admit card"; 
 ?>
 
 <main class="container">
@@ -58,5 +57,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

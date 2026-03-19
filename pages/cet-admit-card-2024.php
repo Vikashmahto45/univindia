@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link";
-$meta_description = "Download CET Admit Card 2024. Get direct links for Rajasthan CET Graduation and 12th Level examination hall tickets easily.";
-$meta_keywords = "cet admit card 2024, rajasthan cet hall ticket download, rsmssb cet admit card, cet 12th level admit card, cet graduation admit card";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link"; 
+$meta_description = "Download CET Admit Card 2024. Get direct links for Rajasthan CET Graduation and 12th Level examination hall tickets easily."; 
+$meta_keywords = "cet admit card 2024, rajasthan cet hall ticket download, rsmssb cet admit card, cet 12th level admit card, cet graduation admit card"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">RSMSSB Exam Services</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "cet admit card 2024";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

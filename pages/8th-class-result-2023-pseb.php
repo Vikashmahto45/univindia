@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "8th class result 2023 pseb - Official Punjab Board 8th Portal";
-$meta_description = "Check 8th class result 2023 pseb online. Access the historical Punjab School Education Board (PSEB), Mohali Class 8th (Middle School) 2023 results.";
-$meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online, official pseb 8th result 2023 link, punjab school education board 8th 2023 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "8th class result 2023 pseb - Official Punjab Board 8th Portal"; 
+$meta_description = "Check 8th class result 2023 pseb online. Access the historical Punjab School Education Board (PSEB), Mohali Class 8th (Middle School) 2023 results."; 
+$meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online, official pseb 8th result 2023 link, punjab school education board 8th 2023 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

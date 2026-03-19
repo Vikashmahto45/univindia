@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rbse 12th result 2022 science name wise - Official Rajasthan Board Archive";
-$meta_description = "Check rbse 12th result 2022 science name wise for BSER Senior Secondary. Access the official 2022 Rajasthan Science archival result portal on indiaresults.";
-$keyword = "rbse 12th result 2022 science name wise";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rbse 12th result 2022 science name wise - Official Rajasthan Board Archive"; 
+$meta_description = "Check rbse 12th result 2022 science name wise for BSER Senior Secondary. Access the official 2022 Rajasthan Science archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 12th (Senior
                 Secondary) Science for Rajasthan with name-wise search features. Official BSER Ajmer mirrors updated for
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

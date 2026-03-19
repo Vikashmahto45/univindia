@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result class 8 - Official Class 8th National Gateway Hub";
-$meta_description = "Check india result class 8 for all state and central boards. Access the official Class 8 (Middle School) result portal on indiaresults for high-speed checking.";
-$keyword = "india result class 8";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result class 8 - Official Class 8th National Gateway Hub"; 
+$meta_description = "Check india result class 8 for all state and central boards. Access the official Class 8 (Middle School) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized hub for every Class 8th result in India. Official state
                 board and middle school mirrors updated for the current academic session.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "9th class result - Official Academic Result Portal";
-$meta_description = "Check 9th class result for school and state exams. Access the official Class 9th result portal and marksheet verification links on indiaresults.";
-$keyword = "9th class result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "9th class result - Official Academic Result Portal"; 
+$meta_description = "Check 9th class result for school and state exams. Access the official Class 9th result portal and marksheet verification links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for the Class 9th results across various
                 states and schools. Official board mirrors and portal links updated for the latest academic batch.</p>
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

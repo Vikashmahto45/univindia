@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Odisha Result - Official Board of Secondary Education Result Portal";
-$meta_description = "Check Odisha Result 2024 for Class 10th (Matric) and +2 (HS) examinations. Access the BSE and CHSE Odisha board results, merit list, and official certificates.";
-$meta_keywords = "odisha result, check odisha board result, bse odisha 10th result, chse odisha +2 result, odisha state result hub, official orissa result portal, matric result odisha";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Odisha Result - Official Board of Secondary Education Result Portal"; 
+$meta_description = "Check Odisha Result 2024 for Class 10th (Matric) and +2 (HS) examinations. Access the BSE and CHSE Odisha board results, merit list, and official certificates."; 
+$meta_keywords = "odisha result, check odisha board result, bse odisha 10th result, chse odisha +2 result, odisha state result hub, official orissa result portal, matric result odisha"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

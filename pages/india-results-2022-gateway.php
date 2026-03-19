@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india results 2022 - Official National Board Mirror Hub";
-$meta_description = "Check india results 2022 for all board and university exams. Access the official 2022 results portal on indiaresults for the latest updates across India.";
-$keyword = "india results 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india results 2022 - Official National Board Mirror Hub"; 
+$meta_description = "Check india results 2022 for all board and university exams. Access the official 2022 results portal on indiaresults for the latest updates across India."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official 2022 academic result archives for every state and
                 central board in India. Direct links and mirrors updated.</p>
@@ -113,4 +111,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

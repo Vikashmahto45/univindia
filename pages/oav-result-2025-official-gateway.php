@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "oav result 2025 - Official OAV Entrance Hub";
-$meta_description = "Check Odisha Adarsha Vidyalaya result 2025 on oav result 2025. Access official OAVS Class 6th entry scorecards and selection lists on indiaresults portal.";
-$keyword = "oav result 2025";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "oav result 2025 - Official OAV Entrance Hub"; 
+$meta_description = "Check Odisha Adarsha Vidyalaya result 2025 on oav result 2025. Access official OAVS Class 6th entry scorecards and selection lists on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for Odisha Adarsha Vidyalaya Sangathan (OAVS)
                 entrance examination results for the 2025 academic session. Access official OAV mirrors and selection
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

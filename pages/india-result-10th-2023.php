@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 10th 2023 - Official National Secondary School Archive";
-$meta_description = "Check India Result 10th 2023 for all major state and central boards. Access the 2023 archival results, merit lists, and marksheet download links for matric scholars.";
-$meta_keywords = "india result 10th 2023, 10th class result 2023 india, board results 10th 2023, national matric results 2023 archive, indiaresults 10th 2023 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 10th 2023 - Official National Secondary School Archive"; 
+$meta_description = "Check India Result 10th 2023 for all major state and central boards. Access the 2023 archival results, merit lists, and marksheet download links for matric scholars."; 
+$meta_keywords = "india result 10th 2023, 10th class result 2023 india, board results 10th 2023, national matric results 2023 archive, indiaresults 10th 2023 portal"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

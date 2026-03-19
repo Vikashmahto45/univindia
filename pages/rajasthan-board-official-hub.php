@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rajasthan board - Official BSER/RBSE Result Gateway";
-$meta_description = "Check all Rajasthan Board results for 10th and 12th classes. Access the official BSER (RBSE) result portal on indiaresults for high-speed checking.";
-$keyword = "rajasthan board";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rajasthan board - Official BSER/RBSE Result Gateway"; 
+$meta_description = "Check all Rajasthan Board results for 10th and 12th classes. Access the official BSER (RBSE) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized hub for all Rajasthan academic results. Board of
                 Secondary Education Rajasthan (BSER) official mirrors and links updated.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

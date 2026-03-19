@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "jac class 12 result 2021 - Official Jharkhand Board Hub";
-$meta_description = "Check Jharkhand Board Class 12th result 2021 on jac class 12 result 2021. Access official JAC Ranchi 2021 archival scorecards on indiaresults portal.";
-$keyword = "jac class 12 result 2021";
-
 include '../header.php'; 
+$page_title = "jac class 12 result 2021 - Official Jharkhand Board Hub"; 
+$meta_description = "Check Jharkhand Board Class 12th result 2021 on jac class 12 result 2021. Access official JAC Ranchi 2021 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Jharkhand Academic Council (JAC), Ranchi Intermediate (Class 12th) examination results for the 2021 academic session. Access official Jharkhand board mirrors and 2021 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 JAC 12th Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

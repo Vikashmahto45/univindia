@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "name wise result - Find Results by Student Name Officially";
-$meta_description = "Access name wise result search for all state boards and universities in India. Unified portal for official result verification using student name alternative criteria.";
-$keyword = "name wise result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "name wise result - Find Results by Student Name Officially"; 
+$meta_description = "Access name wise result search for all state boards and universities in India. Unified portal for official result verification using student name alternative criteria."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for accessing examination results across India using
                 the student's name alternative search feature. Official board mirrors and name-wise archival links
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "jac.nic.in 12th result 2021 - Official Jharkhand Board Mirror";
-$meta_description = "Check jac.nic.in 12th result 2021 online. Access the historical Jharkhand Academic Council (JAC), Ranchi Intermediate 2021 results.";
-$meta_keywords = "jac.nic.in 12th result 2021, check jharkhand inter result 2021 online, official jac 12th 2021 link, jharkhand academic council ranchi portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "jac.nic.in 12th result 2021 - Official Jharkhand Board Mirror"; 
+$meta_description = "Check jac.nic.in 12th result 2021 online. Access the historical Jharkhand Academic Council (JAC), Ranchi Intermediate 2021 results."; 
+$meta_keywords = "jac.nic.in 12th result 2021, check jharkhand inter result 2021 online, official jac 12th 2021 link, jharkhand academic council ranchi portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in";
-$page_description = "Download NTA JEE Main Admit Card 2025 for Session 1 & 2. Get direct download link, shift timings, and important exam day instructions. 800+ words of detailed content.";
-$page_keywords = "JEE Main Admit Card 2025, NTA JEE Main Hall Ticket, Download JEE Main Call Letter, JEE Main Session 1 Admit Card Date, jeemain.nta.nic.in hall ticket";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -150,7 +148,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-edit me-2"></i> Other Entrance Exams</h3>
                 <div class="row g-3">
-                    <?php
                     $others = [
                         'cuet-admit-card-2024.php' => 'CUET UG Admit Card',
                         'neet-admit-card-2024.php' => 'NEET UG Call Letter',
@@ -164,7 +161,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -198,5 +194,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

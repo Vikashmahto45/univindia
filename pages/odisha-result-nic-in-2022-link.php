@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisha result.nic.in 2022 - Official Odisha Result Archive Hub";
-$meta_description = "Check odisha result.nic.in 2022 for Matric (10th) and Higher Secondary (12th) results. Access the official 2022 Odisha result gateway on indiaresults.";
-$keyword = "odisha result.nic.in 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisha result.nic.in 2022 - Official Odisha Result Archive Hub"; 
+$meta_description = "Check odisha result.nic.in 2022 for Matric (10th) and Higher Secondary (12th) results. Access the official 2022 Odisha result gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic results for Odisha. Official CHSE and BSE
                 mirrors and archival links updated for all 2022 examination sessions.</p>
@@ -115,4 +113,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

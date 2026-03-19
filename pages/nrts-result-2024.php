@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "nrts result 2024 - Official Odisha BSE Portal";
-$meta_description = "Check nrts result 2024 online. Access the National Rural Talent Scholarship (NRTS) results conducted by Board of Secondary Education (BSE) Odisha.";
-$meta_keywords = "nrts result 2024, check bse odisha nrts result online, official nrts 2024 link, bse odisha talent scholarship result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "nrts result 2024 - Official Odisha BSE Portal"; 
+$meta_description = "Check nrts result 2024 online. Access the National Rural Talent Scholarship (NRTS) results conducted by Board of Secondary Education (BSE) Odisha."; 
+$meta_keywords = "nrts result 2024, check bse odisha nrts result online, official nrts 2024 link, bse odisha talent scholarship result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

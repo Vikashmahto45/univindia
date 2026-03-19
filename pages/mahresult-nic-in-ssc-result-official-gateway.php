@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "mahresult-nic-in ssc result - Official Maharashtra SSC Hub";
-$meta_description = "Check mahresult-nic-in ssc result for MSBSHSE exams. Access the official Maharashtra Board Secondary School Certificate (SSC) result gateway on indiaresults.";
-$keyword = "mahresult-nic-in ssc result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "mahresult-nic-in ssc result - Official Maharashtra SSC Hub"; 
+$meta_description = "Check mahresult-nic-in ssc result for MSBSHSE exams. Access the official Maharashtra Board Secondary School Certificate (SSC) result gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Maharashtra Class
                 10th (SSC). Official mahresult.nic.in mirrors and MSBSHSE board result links updated for the current
@@ -127,4 +125,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

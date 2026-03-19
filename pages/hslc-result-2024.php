@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "HSLC Result 2024 - SEBA Assam 10th Class Board Results";
-$meta_description = "Check SEBA HSLC Result 2024 online. Access Assam 10th class scores, merit lists, and official high school result updates at sebaonline.org.";
-$meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 2024 result date, sebaonline hslc archive";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "HSLC Result 2024 - SEBA Assam 10th Class Board Results"; 
+$meta_description = "Check SEBA HSLC Result 2024 online. Access Assam 10th class scores, merit lists, and official high school result updates at sebaonline.org."; 
+$meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 2024 result date, sebaonline hslc archive"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

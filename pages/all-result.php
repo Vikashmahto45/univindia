@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "all result - Official National Board Mirror";
-$meta_description = "Check all result online. Access the master directory for all Indian board and university results across all states and sessions.";
-$meta_keywords = "all result, check all board results online, official national results link, search results for all exams portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "all result - Official National Board Mirror"; 
+$meta_description = "Check all result online. Access the master directory for all Indian board and university results across all states and sessions."; 
+$meta_keywords = "all result, check all board results online, official national results link, search results for all exams portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

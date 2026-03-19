@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Join Indian Army Admit Card 2024 Download - Agniveer GD, Clerk & Trademan Hall Ticket | Univindia.online";
-$meta_description = "Download Join Indian Army Admit Card 2024. Get the direct link for Army Agniveer GD, Technical, Clerk, and Tradesman CEE examination hall tickets at joinindianarmy.nic.in.";
-$meta_keywords = "join indian army admit card 2024, army agniveer hall ticket download, joinindianarmy.nic.in admit card login, army cee admit card 2024 link, indian army bharti admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Join Indian Army Admit Card 2024 Download - Agniveer GD, Clerk & Trademan Hall Ticket | Univindia.online"; 
+$meta_description = "Download Join Indian Army Admit Card 2024. Get the direct link for Army Agniveer GD, Technical, Clerk, and Tradesman CEE examination hall tickets at joinindianarmy.nic.in."; 
+$meta_keywords = "join indian army admit card 2024, army agniveer hall ticket download, joinindianarmy.nic.in admit card login, army cee admit card 2024 link, indian army bharti admit card"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

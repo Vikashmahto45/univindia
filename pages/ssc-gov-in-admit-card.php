@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "SSC Gov In Admit Card Download - Staff Selection Commission Hall Ticket";
-$meta_description = "Download SSC Gov In Admit Card for CGL, CHSL, MTS, and GD Constable. Get direct links for all SSC regional recruitment portals.";
-$meta_keywords = "ssc gov in admit card, ssc admit card download, ssc official hall ticket, ssc regional portal links";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "SSC Gov In Admit Card Download - Staff Selection Commission Hall Ticket"; 
+$meta_description = "Download SSC Gov In Admit Card for CGL, CHSL, MTS, and GD Constable. Get direct links for all SSC regional recruitment portals."; 
+$meta_keywords = "ssc gov in admit card, ssc admit card download, ssc official hall ticket, ssc regional portal links"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Popular SSC Results</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "ssc gov in admit card";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

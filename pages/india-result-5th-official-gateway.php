@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 5th - Official National 5th Primary Portal";
-$meta_description = "Check india result 5th for all state board primary exams. Access official national 5th class result mirrors and direct scorecard links on indiaresults.";
-$keyword = "india result 5th";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 5th - Official National 5th Primary Portal"; 
+$meta_description = "Check india result 5th for all state board primary exams. Access official national 5th class result mirrors and direct scorecard links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Class 5th (Primary) examination results and
                 scorecards across India. Official state board mirrors and primary result links updated for the current
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

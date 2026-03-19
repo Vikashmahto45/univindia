@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Www Exametc Com Result - Official Professional Result Mirror";
-$meta_description = "Check Www Exametc Com Result online. Access the results for all Indian universities (WBSU, CU, BU, VU). Direct link for 2024 examination scores and marks.";
-$meta_keywords = "www exametc com result, check university result exametc, exametc.com 2024 results, wbsu result exametc, cu result exametc, official exametc result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Www Exametc Com Result - Official Professional Result Mirror"; 
+$meta_description = "Check Www Exametc Com Result online. Access the results for all Indian universities (WBSU, CU, BU, VU). Direct link for 2024 examination scores and marks."; 
+$meta_keywords = "www exametc com result, check university result exametc, exametc.com 2024 results, wbsu result exametc, cu result exametc, official exametc result portal"; 
 ?>
 
 <main class="container">
@@ -67,5 +66,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

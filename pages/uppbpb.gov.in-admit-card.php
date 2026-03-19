@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "uppbpb.gov.in Admit Card 2025: Download UP Police Recruitment Hall Ticket @ uppbpb.gov.in";
-$page_description = "Official Portal uppbpb.gov.in Admit Card 2025 Download Link for Constable, SI, and Fireman posts. Get direct link for UP Police Recruitment Board Call Letter & Exam Date.";
-$page_keywords = "uppbpb.gov.in admit card 2025, UPPBPB Hall Ticket Download Link, UP Police Constable Call Letter 2025, uppbpb registration login, UP Police Exam Center Status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "uppbpb.gov.in Admit Card 2025: Download UP Police Recruitment Hall Ticket @ uppbpb.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -142,7 +140,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> UP State Authority Links</h3>
                 <div class="row g-3">
-                    <?php
                     $up_auth = [
                         'up-board-admit-card.php' => 'UP Board Authority Admit Card',
                         'upsssc-admit-card.php' => 'UPSSSC Lucknow Admit Card',
@@ -156,7 +153,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -190,5 +186,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

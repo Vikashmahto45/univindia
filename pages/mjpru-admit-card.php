@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in";
-$page_description = "Download MJPRU Admit Card 2025 for Private & Regular exams. Get direct link for Mahatma Jyotiba Phule Rohilkhand University UG/PG Hall Ticket, Exam Schedule, and private entrance info.";
-$page_keywords = "MJPRU Admit Card 2025, MJP Rohilkhand University Hall Ticket, MJPRU Admit Card Private, Download MJPRU Call Letter, mjpru.ac.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -153,7 +151,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-graduation-cap me-2"></i> Other University Portals</h3>
                 <div class="row g-3">
-                    <?php
                     $unis = [
                         'ccsu-admit-card.php' => 'CCSU Admit Card',
                         'ccs-admit-card.php' => 'CCS Hall Ticket',
@@ -167,7 +164,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -201,5 +197,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

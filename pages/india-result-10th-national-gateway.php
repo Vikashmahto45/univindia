@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 10th - Official National Matric Gateway";
-$meta_description = "Check india result 10th for all state and central boards. Access the official Class 10th (Matric) result portal on indiaresults for high-speed checking.";
-$keyword = "india result 10th";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 10th - Official National Matric Gateway"; 
+$meta_description = "Check india result 10th for all state and central boards. Access the official Class 10th (Matric) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized national portal for every Class 10th academic result in
                 India. State and Central board links updated for all Matric exams.</p>
@@ -113,4 +111,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

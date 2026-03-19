@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "hs result 2021 assam - Official AHSEC Mirror";
-$meta_description = "Check hs result 2021 assam online. Access the historical results for Assam Higher Secondary Education Council (AHSEC) Class 12 for the 2021 session.";
-$meta_keywords = "hs result 2021 assam, check ahsec class 12 result 2021 online, official assam hs link, ahsec assam gov in search 2021";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "hs result 2021 assam - Official AHSEC Mirror"; 
+$meta_description = "Check hs result 2021 assam online. Access the historical results for Assam Higher Secondary Education Council (AHSEC) Class 12 for the 2021 session."; 
+$meta_keywords = "hs result 2021 assam, check ahsec class 12 result 2021 online, official assam hs link, ahsec assam gov in search 2021"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

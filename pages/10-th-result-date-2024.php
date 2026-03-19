@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th Result Date 2024 - All India Board Result Calendar";
-$meta_description = "Check the official 10th Result Date 2024 for all state and central boards. Stay updated with the latest news on CBSE, UP Board, RBSE, and BSE Odisha matric result announcements.";
-$meta_keywords = "10th result date 2024, class 10 result date 2024, board result 2024 date, 10th results 2024 release date, matric result 2024 kab aayega";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th Result Date 2024 - All India Board Result Calendar"; 
+$meta_description = "Check the official 10th Result Date 2024 for all state and central boards. Stay updated with the latest news on CBSE, UP Board, RBSE, and BSE Odisha matric result announcements."; 
+$meta_keywords = "10th result date 2024, class 10 result date 2024, board result 2024 date, 10th results 2024 release date, matric result 2024 kab aayega"; 
 ?>
 
 <main class="container">
@@ -79,5 +78,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

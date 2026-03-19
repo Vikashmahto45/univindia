@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12th result 2021 jac - Official Jharkhand 12th 2021 Archive";
-$meta_description = "Check Jharkhand Board 12th results for 2021 on 12th result 2021 jac. Access the official JAC Intermediate archival result portal on indiaresults.";
-$keyword = "12th result 2021 jac";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12th result 2021 jac - Official Jharkhand 12th 2021 Archive"; 
+$meta_description = "Check Jharkhand Board 12th results for 2021 on 12th result 2021 jac. Access the official JAC Intermediate archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Jharkhand
                 Academic Council (JAC) Class 12th (Intermediate). Official JAC mirrors and archival links updated for
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

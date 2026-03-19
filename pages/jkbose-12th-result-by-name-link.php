@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "jkbose 12th result by name - Official JK Board Mirror";
-$meta_description = "Check jkbose 12th result by name online. Access the results for Jammu & Kashmir Board of School Education (JKBOSE) Class 12 without roll number.";
-$meta_keywords = "jkbose 12th result by name, check jk board class 12 result online, official jkbose name wise link, jkbose nic in results search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "jkbose 12th result by name - Official JK Board Mirror"; 
+$meta_description = "Check jkbose 12th result by name online. Access the results for Jammu & Kashmir Board of School Education (JKBOSE) Class 12 without roll number."; 
+$meta_keywords = "jkbose 12th result by name, check jk board class 12 result online, official jkbose name wise link, jkbose nic in results search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "IBPS PO Admit Card 2022: Download Prelims/Mains Hall Ticket";
-$meta_description = "Download IBPS PO Admit Card 2022. Get direct link for CRP PO/MT XII Preliminary and Main Examination Hall Ticket. Check exam dates and banking exam instructions.";
-$keywords = "ibps po admit card 2022, ibps admit card download, crp po/mt xii hall ticket, ibps po exam date 2022";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "IBPS PO Admit Card 2022: Download Prelims/Mains Hall Ticket"; 
+$meta_description = "Download IBPS PO Admit Card 2022. Get direct link for CRP PO/MT XII Preliminary and Main Examination Hall Ticket. Check exam dates and banking exam instructions."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -132,4 +131,5 @@ include '../header.php';
 .text-navy { color: #000080; }
 .table-navy-themed thead { background-color: #000080; }
 </style>
+
 <?php include '../footer.php'; ?>

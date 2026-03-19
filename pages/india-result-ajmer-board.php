@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result Ajmer Board - Official RBSE Mirror Portal";
-$meta_description = "Check India Result Ajmer Board online. Access the Board of Secondary Education Rajasthan (BSER) 10th and 12th results via the official national mirror.";
-$meta_keywords = "india result ajmer board, check rbse result online, ajmer board 10th 12th results, official indiaresults asb link, rajasthan board ajmer results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result Ajmer Board - Official RBSE Mirror Portal"; 
+$meta_description = "Check India Result Ajmer Board online. Access the Board of Secondary Education Rajasthan (BSER) 10th and 12th results via the official national mirror."; 
+$meta_keywords = "india result ajmer board, check rbse result online, ajmer board 10th 12th results, official indiaresults asb link, rajasthan board ajmer results"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

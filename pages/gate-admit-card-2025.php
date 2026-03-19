@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "GATE Admit Card 2025 Download - Graduate Aptitude Test in Engineering Hall Ticket Link | Univindia.online";
-$meta_description = "Download GATE Admit Card 2025. Get the direct link for IIT Graduate Aptitude Test in Engineering (GATE) hall tickets at gate2025.iit@.ac.in (GOAPS).";
-$meta_keywords = "gate admit card 2025, goaps admit card download, gate 2025 hall ticket login, graduate aptitude test in engineering call letter, iit gate admit card link";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "GATE Admit Card 2025 Download - Graduate Aptitude Test in Engineering Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download GATE Admit Card 2025. Get the direct link for IIT Graduate Aptitude Test in Engineering (GATE) hall tickets at gate2025.iit@.ac.in (GOAPS)."; 
+$meta_keywords = "gate admit card 2025, goaps admit card download, gate 2025 hall ticket login, graduate aptitude test in engineering call letter, iit gate admit card link"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

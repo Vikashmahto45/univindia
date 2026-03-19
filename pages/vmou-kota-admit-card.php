@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online";
-$meta_description = "Download VMOU Kota Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) TEE examination hall tickets at vmou.ac.in.";
-$meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, kota open university admit card 2024, vmou tee hall ticket";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online"; 
+$meta_description = "Download VMOU Kota Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) TEE examination hall tickets at vmou.ac.in."; 
+$meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, kota open university admit card 2024, vmou tee hall ticket"; 
 ?>
 
 <div class="container main-content">
@@ -92,5 +90,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

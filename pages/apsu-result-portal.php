@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "apsu result - Official Awadhesh Pratap Singh University Hub";
-$meta_description = "Check apsu result online for BA, BSC, BCOM, MA, MSC. Access the official Awadhesh Pratap Singh University Rewa result portal and marksheet download.";
-$meta_keywords = "apsu result, check apsu result online, Awadhesh Pratap Singh University result, apsu rewa result portal, apsu marksheet download";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "apsu result - Official Awadhesh Pratap Singh University Hub"; 
+$meta_description = "Check apsu result online for BA, BSC, BCOM, MA, MSC. Access the official Awadhesh Pratap Singh University Rewa result portal and marksheet download."; 
+$meta_keywords = "apsu result, check apsu result online, Awadhesh Pratap Singh University result, apsu rewa result portal, apsu marksheet download"; 
 ?>
 
 <main class="container">
@@ -63,5 +62,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

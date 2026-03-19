@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RBSE 12th Result 2022 Science - Official Rajasthan +2 Science Archive";
-$meta_description = "Check RBSE 12th Result 2022 Science for official Rajasthan board senior secondary scores. Access the 2022 archival results, merit lists, and marksheet download links.";
-$meta_keywords = "rbse 12th result 2022 science, rajasthan board 12th science result 2022, rajresults.nic.in 12th science 2022, rbse ajmer 12th science result archive, rajeduboard.rajasthan.gov.in 12th results";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RBSE 12th Result 2022 Science - Official Rajasthan +2 Science Archive"; 
+$meta_description = "Check RBSE 12th Result 2022 Science for official Rajasthan board senior secondary scores. Access the 2022 archival results, merit lists, and marksheet download links."; 
+$meta_keywords = "rbse 12th result 2022 science, rajasthan board 12th science result 2022, rajresults.nic.in 12th science 2022, rbse ajmer 12th science result archive, rajeduboard.rajasthan.gov.in 12th results"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

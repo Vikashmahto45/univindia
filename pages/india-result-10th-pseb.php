@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 10th PSEB - Official Punjab Mirror";
-$meta_description = "Check India Result 10th PSEB online. Access the primary Punjab Board Class 10th results via the official IndiaResults mirror. High-speed matric result link.";
-$meta_keywords = "india result 10th pseb, check punjab board 10th result online, pseb matric 2024 results link, indiaresults punjab board 10th, pseb 10th result official";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 10th PSEB - Official Punjab Mirror"; 
+$meta_description = "Check India Result 10th PSEB online. Access the primary Punjab Board Class 10th results via the official IndiaResults mirror. High-speed matric result link."; 
+$meta_keywords = "india result 10th pseb, check punjab board 10th result online, pseb matric 2024 results link, indiaresults punjab board 10th, pseb 10th result official"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

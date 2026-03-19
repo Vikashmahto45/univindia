@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rajasthan 12th board result 2022 - Official RBSE Senior Secondary Hub";
-$meta_description = "Check Rajasthan Board 12th result 2022 on rajasthan 12th board result 2022. Access official RBSE Senior Secondary 2022 archival scorecards on indiaresults.";
-$keyword = "rajasthan 12th board result 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rajasthan 12th board result 2022 - Official RBSE Senior Secondary Hub"; 
+$meta_description = "Check Rajasthan Board 12th result 2022 on rajasthan 12th board result 2022. Access official RBSE Senior Secondary 2022 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 12th (Senior Secondary) examination. Official RBSE mirrors and 2022
@@ -126,4 +124,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

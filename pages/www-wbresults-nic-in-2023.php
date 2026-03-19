@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www.wbresults.nic.in 2023 - Official West Bengal Board Result archive";
-$meta_description = "Check www.wbresults.nic.in 2023 online. Access the historical West Bengal Madhyamik (10th) and Higher Secondary (12th) results for 2023. Official merit stats.";
-$meta_keywords = "www.wbresults.nic.in 2023, check wb board result 2023, wbresults.nic.in 2023 10th 12th, west bengal secondary result 2023, official 2023 wb result link, wb merit list 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www.wbresults.nic.in 2023 - Official West Bengal Board Result archive"; 
+$meta_description = "Check www.wbresults.nic.in 2023 online. Access the historical West Bengal Madhyamik (10th) and Higher Secondary (12th) results for 2023. Official merit stats."; 
+$meta_keywords = "www.wbresults.nic.in 2023, check wb board result 2023, wbresults.nic.in 2023 10th 12th, west bengal secondary result 2023, official 2023 wb result link, wb merit list 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Fast Results - High-Speed Board result retrieval Hub";
-$meta_description = "Check Fast Results online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster.";
-$meta_keywords = "fast results, check board results online fast, high speed result portal, official fast result link, indiaresult fast, board result 2024 fast";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Fast Results - High-Speed Board result retrieval Hub"; 
+$meta_description = "Check Fast Results online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster."; 
+$meta_keywords = "fast results, check board results online fast, high speed result portal, official fast result link, indiaresult fast, board result 2024 fast"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

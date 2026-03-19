@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Orrisa Result Nic In - Official State Gateway";
-$meta_description = "Visit Orrisa Result Nic In online. Access the primary Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) results. Official NIC portal.";
-$meta_keywords = "orrisa result nic in, chse odisha result, bse odisha 10th result link, odisha results 2024, orissaresults nic in official";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Orrisa Result Nic In - Official State Gateway"; 
+$meta_description = "Visit Orrisa Result Nic In online. Access the primary Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) results. Official NIC portal."; 
+$meta_keywords = "orrisa result nic in, chse odisha result, bse odisha 10th result link, odisha results 2024, orissaresults nic in official"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

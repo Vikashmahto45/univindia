@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "odisha result.nic.in 2021 - Official Odisha Board Hub";
-$meta_description = "Check Odisha Board result 2021 on odisha result.nic.in 2021. Access official BSE Odisha 2021 archival scorecards and 2021 result links on indiaresults.";
-$keyword = "odisha result.nic.in 2021";
-
 include '../header.php'; 
+$page_title = "odisha result.nic.in 2021 - Official Odisha Board Hub"; 
+$meta_description = "Check Odisha Board result 2021 on odisha result.nic.in 2021. Access official BSE Odisha 2021 archival scorecards and 2021 result links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Odisha Board examination results for the 2021 academic session via the official odisha result.nic.in 2021 portal infrastructure. Access official Odisha board mirrors and 2021 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Odisha Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

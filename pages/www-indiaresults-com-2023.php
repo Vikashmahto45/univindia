@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www.indiaresults.com 2023 - Official National Board Mirror";
-$meta_description = "Check www.indiaresults.com 2023 online. Access the high-speed results for all Indian State Boards and Universities for the 2023 session.";
-$meta_keywords = "www.indiaresults.com 2023, check national results 2023 online, official indiaresults portal 2023, 2023 examination results mirror";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www.indiaresults.com 2023 - Official National Board Mirror"; 
+$meta_description = "Check www.indiaresults.com 2023 online. Access the high-speed results for all Indian State Boards and Universities for the 2023 session."; 
+$meta_keywords = "www.indiaresults.com 2023, check national results 2023 online, official indiaresults portal 2023, 2023 examination results mirror"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

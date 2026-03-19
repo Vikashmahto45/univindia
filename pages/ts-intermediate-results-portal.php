@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "ts intermediate results - Official Telangana TSBIE Gateway";
-$meta_description = "Check ts intermediate results for 1st and 2nd year exams. Access the official Telangana Board (TSBIE) result portal on indiaresults.";
-$keyword = "ts intermediate results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ts intermediate results - Official Telangana TSBIE Gateway"; 
+$meta_description = "Check ts intermediate results for 1st and 2nd year exams. Access the official Telangana Board (TSBIE) result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest Senior Secondary results for Telangana. Official TSBIE
                 mirrors and portal links updated for 1st and 2nd year Intermediate examinations.</p>
@@ -118,4 +116,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

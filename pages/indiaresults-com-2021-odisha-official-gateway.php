@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indiaresults.com 2021 odisha - Official State Gateway";
-$meta_description = "Check Odisha Board 10th & 12th results 2021 on indiaresults.com 2021 odisha. Access the official 2021 archival scorecards for all Odisha exams on indiaresults.";
-$keyword = "indiaresults.com 2021 odisha";
-
 include '../header.php'; 
+$page_title = "indiaresults.com 2021 odisha - Official State Gateway"; 
+$meta_description = "Check Odisha Board 10th & 12th results 2021 on indiaresults.com 2021 odisha. Access the official 2021 archival scorecards for all Odisha exams on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for all Odisha state examination results for the 2021 academic session. Access official Odisha board mirrors and 2021 archival links updated for batch verification via <strong>indiaresults.com 2021 odisha</strong>.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Odisha Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rajasthan board 12th result 2022 arts - Official RBSE Archive Portal";
-$meta_description = "Check rajasthan board 12th result 2022 arts for the Senior Secondary examination. Access the official 2022 RBSE/BSER 12th Arts archive gateway on indiaresults.";
-$keyword = "rajasthan board 12th result 2022 arts";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rajasthan board 12th result 2022 arts - Official RBSE Archive Portal"; 
+$meta_description = "Check rajasthan board 12th result 2022 arts for the Senior Secondary examination. Access the official 2022 RBSE/BSER 12th Arts archive gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official 2022 Senior Secondary (12th Class Arts) results for
                 the Rajasthan Board (BSER/RBSE). Direct archival links updated.</p>
@@ -113,4 +111,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

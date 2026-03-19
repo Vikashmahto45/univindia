@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jharkhand result - Official Jharkhand Academic Council Gateway";
-$meta_description = "Check jharkhand result for 10th and 12th board exams. Access the official JAC result portal on indiaresults for high-speed checking.";
-$keyword = "jharkhand result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jharkhand result - Official Jharkhand Academic Council Gateway"; 
+$meta_description = "Check jharkhand result for 10th and 12th board exams. Access the official JAC result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest educational results for Jharkhand. Official JAC Ranchi
                 mirrors and portal links updated for 10th and 12th board examinations.</p>
@@ -113,4 +111,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Admit Card of Jeevika Download - Bihar BRLPS Recruitment Hall Ticket Link | Univindia.online";
-$meta_description = "Download Admit Card of Jeevika. Get the direct link for Bihar Rural Livelihoods Promotion Society (BRLPS) exam hall tickets at brlps.in.";
-$meta_keywords = "admit card of jeevika download, bihar jeevika hall ticket download, brlps.in admit card login, jeevika exam date 2024 download, Bihar BRLPS call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Admit Card of Jeevika Download - Bihar BRLPS Recruitment Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Admit Card of Jeevika. Get the direct link for Bihar Rural Livelihoods Promotion Society (BRLPS) exam hall tickets at brlps.in."; 
+$meta_keywords = "admit card of jeevika download, bihar jeevika hall ticket download, brlps.in admit card login, jeevika exam date 2024 download, Bihar BRLPS call letter"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

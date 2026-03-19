@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online";
-$meta_description = "Download VBU Admit Card. Get the direct link for Vinoba Bhave University (VBU) UG and PG semester examination hall tickets at vbu.ac.in.";
-$meta_keywords = "vbu admit card download, vinoba bhave university hall ticket download, vbu.ac.in login admit card, vbu exam date 2024 download, university semester call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online"; 
+$meta_description = "Download VBU Admit Card. Get the direct link for Vinoba Bhave University (VBU) UG and PG semester examination hall tickets at vbu.ac.in."; 
+$meta_keywords = "vbu admit card download, vinoba bhave university hall ticket download, vbu.ac.in login admit card, vbu exam date 2024 download, university semester call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

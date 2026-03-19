@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "CHSE Odisha Result 2022 - Official Higher Secondary Portal";
-$meta_description = "Check CHSE Odisha Result 2022 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Class 12 Science, Commerce, and Arts results for 2022.";
-$meta_keywords = "chse odisha result 2022, check chse odisha 12th result 2022 online, official 2022 chse link, orissaresults.nic.in 2022 portal, odisha plus two results 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "CHSE Odisha Result 2022 - Official Higher Secondary Portal"; 
+$meta_description = "Check CHSE Odisha Result 2022 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Class 12 Science, Commerce, and Arts results for 2022."; 
+$meta_keywords = "chse odisha result 2022, check chse odisha 12th result 2022 online, official 2022 chse link, orissaresults.nic.in 2022 portal, odisha plus two results 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

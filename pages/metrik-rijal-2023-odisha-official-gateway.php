@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "metrik rijal 2023 odisha - Official BSE Odisha Hub";
-$meta_description = "Check Odisha Board 10th (Metrik) result 2023 on metrik rijal 2023 odisha. Access official BSE Odisha 2023 archival scorecards on indiaresults portal.";
-$keyword = "metrik rijal 2023 odisha";
-
 include '../header.php'; 
+$page_title = "metrik rijal 2023 odisha - Official BSE Odisha Hub"; 
+$meta_description = "Check Odisha Board 10th (Metrik) result 2023 on metrik rijal 2023 odisha. Access official BSE Odisha 2023 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education (BSE), Odisha Matriculation (Metrik) examination results for the 2023 academic session. Access official Odisha board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Metrik Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

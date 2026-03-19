@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "HS Result 2023 - Official National Mirror";
-$meta_description = "Check HS Result 2023 online. Access the historical Higher Secondary results for WB, Assam, and Odisha for the 2023 session. Official 2023 result mirror link.";
-$meta_keywords = "hs result 2023, check higher secondary result 2023 online, 12th result 2023 link, official 2023 hs result gateway, indiaresults hs 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "HS Result 2023 - Official National Mirror"; 
+$meta_description = "Check HS Result 2023 online. Access the historical Higher Secondary results for WB, Assam, and Odisha for the 2023 session. Official 2023 result mirror link."; 
+$meta_keywords = "hs result 2023, check higher secondary result 2023 online, 12th result 2023 link, official 2023 hs result gateway, indiaresults hs 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

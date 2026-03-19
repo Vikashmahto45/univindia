@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RBSE 12th Science Result 2021 - Historical Rajasthan board archive";
-$meta_description = "Check RBSE 12th Science Result 2021 online. Access the historical Rajasthan Board (BSER) Senior Secondary Science results for the 2021 session. Official Link.";
-$meta_keywords = "rbse 12th science result 2021, check rajasthan board 12th science result 2021 online, bser science result 2021, official 2021 rbse link, rajresults.nic.in 2021";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RBSE 12th Science Result 2021 - Historical Rajasthan board archive"; 
+$meta_description = "Check RBSE 12th Science Result 2021 online. Access the historical Rajasthan Board (BSER) Senior Secondary Science results for the 2021 session. Official Link."; 
+$meta_keywords = "rbse 12th science result 2021, check rajasthan board 12th science result 2021 online, bser science result 2021, official 2021 rbse link, rajresults.nic.in 2021"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

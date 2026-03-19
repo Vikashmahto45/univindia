@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "keralaresults nic in - Official Kerala Result Portal Gateway";
-$meta_description = "Check keralaresults nic in for SSLC, Plus Two, and DHSE results. Access the official Kerala result portal on indiaresults for high-speed checking.";
-$keyword = "keralaresults nic in";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "keralaresults nic in - Official Kerala Result Portal Gateway"; 
+$meta_description = "Check keralaresults nic in for SSLC, Plus Two, and DHSE results. Access the official Kerala result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest academic results for Kerala. Official SSLC, Plus Two,
                 and DHSE mirrors and high-speed links updated for the current session.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

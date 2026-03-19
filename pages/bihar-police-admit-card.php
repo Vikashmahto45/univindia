@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in";
-$page_description = "Download Bihar Police Admit Card 2025 for Constable 21391 vacancies. Get direct link for CSBC Bihar Police Hall Ticket, Exam Schedule, and center details. 800+ words guide.";
-$page_keywords = "Bihar Police Admit Card 2025, CSBC Bihar Constable Hall Ticket Download, csbc.bih.nic.in admit card link, Bihar Police Constable Exam Date, Bihar Police Call Letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -143,7 +141,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Bihar State Authority Links</h3>
                 <div class="row g-3">
-                    <?php
                     $bihar_auth = [
                         'bpssc-admit-card.php' => 'Bihar SI Admit Card',
                         'bihar-board-admit-card.php' => 'BSEB 10th 12th Admit Card',
@@ -157,7 +154,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -191,5 +187,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

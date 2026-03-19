@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th class result 2024 - Official National Board Portal";
-$meta_description = "Check 10th class result 2024 online. Access the Class 10th (Matric) results for CBSE, ICSE, and all Indian State Boards including UP, Bihar, Punjab, Rajasthan.";
-$meta_keywords = "10th class result 2024, check matric results 2024 online, official 10th result 2024 link, state board 10th result 2024 portal, board exam 10th results 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th class result 2024 - Official National Board Portal"; 
+$meta_description = "Check 10th class result 2024 online. Access the Class 10th (Matric) results for CBSE, ICSE, and all Indian State Boards including UP, Bihar, Punjab, Rajasthan."; 
+$meta_keywords = "10th class result 2024, check matric results 2024 online, official 10th result 2024 link, state board 10th result 2024 portal, board exam 10th results 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

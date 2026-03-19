@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "WBResults Nic In Result - Official West Bengal Examination Gateway";
-$meta_description = "Check WBResults Nic In Result online. Access the West Bengal Madhyamik (10th) and Higher Secondary (12th) result links, marksheets, and official scores for 2024.";
-$meta_keywords = "wbresults nic in result, check west bengal result online, wbbse madhyamik result link, wbchse hs result portal, official wb board results, wbresults.nic.in 2024 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "WBResults Nic In Result - Official West Bengal Examination Gateway"; 
+$meta_description = "Check WBResults Nic In Result online. Access the West Bengal Madhyamik (10th) and Higher Secondary (12th) result links, marksheets, and official scores for 2024."; 
+$meta_keywords = "wbresults nic in result, check west bengal result online, wbbse madhyamik result link, wbchse hs result portal, official wb board results, wbresults.nic.in 2024 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

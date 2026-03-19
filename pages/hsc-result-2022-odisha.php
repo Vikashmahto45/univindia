@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "hsc result 2022 odisha - Official Board Mirror";
-$meta_description = "Check hsc result 2022 odisha online. Access the historical Class 12th (Senior Secondary) results for Council of Higher Secondary Education (CHSE) Odisha.";
-$meta_keywords = "hsc result 2022 odisha, check odisha 12th result 2022 online, official chse odisha 2022 link, odisha hsc results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "hsc result 2022 odisha - Official Board Mirror"; 
+$meta_description = "Check hsc result 2022 odisha online. Access the historical Class 12th (Senior Secondary) results for Council of Higher Secondary Education (CHSE) Odisha."; 
+$meta_keywords = "hsc result 2022 odisha, check odisha 12th result 2022 online, official chse odisha 2022 link, odisha hsc results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

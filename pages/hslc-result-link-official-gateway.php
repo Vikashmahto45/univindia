@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "hslc result link - Official High School Result Hub";
-$meta_description = "Check all state HSLC results on hslc result link. Access official indiaresults gateway for High School Leaving Certificate 10th scores and rank lists.";
-$keyword = "hslc result link";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "hslc result link - Official High School Result Hub"; 
+$meta_description = "Check all state HSLC results on hslc result link. Access official indiaresults gateway for High School Leaving Certificate 10th scores and rank lists."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all High School Leaving Certificate (HSLC/Class
                 10th) examination results across India. Access official board mirrors and direct result links for all
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net Time Table - University Exam Schedules Online";
-$meta_description = "View and download the latest university exam time tables on Univindia Net. Complete guide to finding schedules for MGSU, RRBMU, and MSBU exams.";
-$meta_keywords = "univindia net time table";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net Time Table - University Exam Schedules Online"; 
+$meta_description = "View and download the latest university exam time tables on Univindia Net. Complete guide to finding schedules for MGSU, RRBMU, and MSBU exams."; 
+$meta_keywords = "univindia net time table"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

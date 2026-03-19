@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rsos result - Official Rajasthan State Open School Gateway";
-$meta_description = "Check rsos result for Rajasthan State Open School 10th and 12th exams. Access the official RSOS Jaipur result portal on indiaresults.";
-$keyword = "rsos result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rsos result - Official Rajasthan State Open School Gateway"; 
+$meta_description = "Check rsos result for Rajasthan State Open School 10th and 12th exams. Access the official RSOS Jaipur result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for the Rajasthan State Open School (RSOS)
                 results for Class 10th and 12th. Official RSOS Jaipur mirrors and portal links updated for the latest
@@ -117,4 +115,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

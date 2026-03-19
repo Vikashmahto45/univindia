@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bser result - Official Rajasthan Secondary Hub";
-$meta_description = "Check bser result for Board of Secondary Education Rajasthan exams. Access the official RBSE Ajmer result gateway and archives on indiaresults.";
-$keyword = "bser result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bser result - Official Rajasthan Secondary Hub"; 
+$meta_description = "Check bser result for Board of Secondary Education Rajasthan exams. Access the official RBSE Ajmer result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Rajasthan Board
                 (BSER Ajmer). Official RBSE mirrors and direct board result links updated for Class 10th and 12th for
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

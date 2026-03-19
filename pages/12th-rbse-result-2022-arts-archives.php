@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12th rbse result 2022 arts - Official Rajasthan 12th Arts Hub";
-$meta_description = "Check Rajasthan Board 12th Arts result 2022 on 12th rbse result 2022 arts. Access official RBSE Senior Secondary Arts 2022 archival scorecards on indiaresults.";
-$keyword = "12th rbse result 2022 arts";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12th rbse result 2022 arts - Official Rajasthan 12th Arts Hub"; 
+$meta_description = "Check Rajasthan Board 12th Arts result 2022 on 12th rbse result 2022 arts. Access official RBSE Senior Secondary Arts 2022 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 12th (Arts) examination. Official RBSE mirrors and 2022 archival
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisha.indiaresults.com 2021 - Official BSE/CHSE Archive";
-$meta_description = "Check odisha.indiaresults.com 2021 for the High School and Senior Secondary examinations. Access the official 2021 Odisha result archive on indiaresults.";
-$keyword = "odisha.indiaresults.com 2021";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisha.indiaresults.com 2021 - Official BSE/CHSE Archive"; 
+$meta_description = "Check odisha.indiaresults.com 2021 for the High School and Senior Secondary examinations. Access the official 2021 Odisha result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic results for Odisha. Official BSE and CHSE
                 mirrors and archival links updated for the 2021 sessions.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Exam - Official University Examination Portal Guide";
-$meta_description = "Univindia Exam is the central hub for MGSU, RRBMU, and MSBU examinations. Complete guide to exam forms, time tables, and admit cards online.";
-$meta_keywords = "Univindia Exam - Official University Examination Portal Guide";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Exam - Official University Examination Portal Guide"; 
+$meta_description = "Univindia Exam is the central hub for MGSU, RRBMU, and MSBU examinations. Complete guide to exam forms, time tables, and admit cards online."; 
+$meta_keywords = "Univindia Exam - Official University Examination Portal Guide"; 
 ?>
 
 <main class="container">
@@ -55,5 +54,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

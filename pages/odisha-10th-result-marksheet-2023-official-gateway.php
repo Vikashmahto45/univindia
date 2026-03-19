@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "odisha 10th result marksheet 2023 - Official BSE Odisha Hub";
-$meta_description = "Check Odisha Board 10th result 2023 on odisha 10th result marksheet 2023. Access official BSE Odisha 2023 archival scorecards on indiaresults.";
-$keyword = "odisha 10th result marksheet 2023";
-
 include '../header.php'; 
+$page_title = "odisha 10th result marksheet 2023 - Official BSE Odisha Hub"; 
+$meta_description = "Check Odisha Board 10th result 2023 on odisha 10th result marksheet 2023. Access official BSE Odisha 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education (BSE), Odisha HSC (Class 10th) examination results and marksheet downloads for the 2023 academic session. Access official Odisha board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Odisha 10th Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

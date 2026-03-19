@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Cache Http Www Univindia Com - University Portal Cached Access Guide";
-$meta_description = "Access cached versions of Univindia Com during server downtime. Official guide to retrieving university results and forms via web caches online.";
-$meta_keywords = "www univindia com";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Cache Http Www Univindia Com - University Portal Cached Access Guide"; 
+$meta_description = "Access cached versions of Univindia Com during server downtime. Official guide to retrieving university results and forms via web caches online."; 
+$meta_keywords = "www univindia com"; 
 ?>
 
 <main class="container">
@@ -48,5 +47,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

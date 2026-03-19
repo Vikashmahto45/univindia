@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores";
-$meta_description = "Check your MGSU Bikaner BA Part 1 results on Univindia Net. Official guide to downloading Bachelor of Arts 1st year marksheets and results online.";
-$meta_keywords = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores"; 
+$meta_description = "Check your MGSU Bikaner BA Part 1 results on Univindia Net. Official guide to downloading Bachelor of Arts 1st year marksheets and results online."; 
+$meta_keywords = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Www Univindia Org Result 2024 - Matsya University Alwar 2024 Scores Portal";
-$meta_description = "Check your RRBMU Alwar results for 2024 on Www Univindia Org. Official guide to downloading Matsya University 2024 marksheets and scores online.";
-$meta_keywords = "Www Univindia Org Result 2024 - Matsya University Alwar 2024 Scores Portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Www Univindia Org Result 2024 - Matsya University Alwar 2024 Scores Portal"; 
+$meta_description = "Check your RRBMU Alwar results for 2024 on Www Univindia Org. Official guide to downloading Matsya University 2024 marksheets and scores online."; 
+$meta_keywords = "Www Univindia Org Result 2024 - Matsya University Alwar 2024 Scores Portal"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

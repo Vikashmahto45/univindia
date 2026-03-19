@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th Arts Result 2022 Rajasthan - Official RBSE Result archive";
-$meta_description = "Check 12th Arts Result 2022 Rajasthan online. Access the historical Rajasthan Board (BSER) Senior Secondary Arts results for the 2022 session. Official marks link.";
-$meta_keywords = "12th arts result 2022 rajasthan, check rbse 12th arts result 2022 online, rajresults.nic.in 2022 arts, official 2022 rbse arts link, indiaresult rbse 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th Arts Result 2022 Rajasthan - Official RBSE Result archive"; 
+$meta_description = "Check 12th Arts Result 2022 Rajasthan online. Access the historical Rajasthan Board (BSER) Senior Secondary Arts results for the 2022 session. Official marks link."; 
+$meta_keywords = "12th arts result 2022 rajasthan, check rbse 12th arts result 2022 online, rajresults.nic.in 2022 arts, official 2022 rbse arts link, indiaresult rbse 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

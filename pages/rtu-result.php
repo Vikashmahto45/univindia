@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RTU Result - Official Rajasthan Technical University Portal";
-$meta_description = "Check RTU Result online. Access the Rajasthan Technical University (RTU Kota) B.Tech, M.Tech, MBA results. Download your RTU marksheets and grade cards instantly.";
-$meta_keywords = "rtu result, check rtu kota result online, rajasthan technical university result link, rtu btech mtech mba result, official rtu exam portal, rtu merit list";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RTU Result - Official Rajasthan Technical University Portal"; 
+$meta_description = "Check RTU Result online. Access the Rajasthan Technical University (RTU Kota) B.Tech, M.Tech, MBA results. Download your RTU marksheets and grade cards instantly."; 
+$meta_keywords = "rtu result, check rtu kota result online, rajasthan technical university result link, rtu btech mtech mba result, official rtu exam portal, rtu merit list"; 
 ?>
 
 <main class="container">
@@ -67,5 +66,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

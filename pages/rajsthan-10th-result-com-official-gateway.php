@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rajsthan 10th result com - Official Rajasthan 10th Gateway";
-$meta_description = "Access rajsthan 10th result com for official RBSE Secondary result updates. Unified portal for Rajasthan Board 10th scores and direct links on indiaresults.";
-$keyword = "rajsthan 10th result com";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rajsthan 10th result com - Official Rajasthan 10th Gateway"; 
+$meta_description = "Access rajsthan 10th result com for official RBSE Secondary result updates. Unified portal for Rajasthan Board 10th scores and direct links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Rajasthan Board of Secondary Education
                 (RBSE) Class 10th (Secondary) examination results. Official RBSE mirrors and direct result links updated
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

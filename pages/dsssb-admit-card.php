@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "DSSSB Admit Card Download - Delhi Subordinate Services Hall Ticket";
-$meta_description = "Download DSSSB Admit Card for TGT, PGT, Clerk, and Junior Assistant exams. Get direct hall ticket links from the official OARS portal.";
-$meta_keywords = "dsssb admit card, dsssb hall ticket download, delhi exam admit card, dsssb exam date 2024, dsssb oars login";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "DSSSB Admit Card Download - Delhi Subordinate Services Hall Ticket"; 
+$meta_description = "Download DSSSB Admit Card for TGT, PGT, Clerk, and Junior Assistant exams. Get direct hall ticket links from the official OARS portal."; 
+$meta_keywords = "dsssb admit card, dsssb hall ticket download, delhi exam admit card, dsssb exam date 2024, dsssb oars login"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">New Delhi Recruitments</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "dsssb admit card";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indiaresults Com Mirror - Secondary & University Result Alternative Hub";
-$meta_description = "Check Indiaresults Com Mirror online. Access the high-speed alternative result portal for all Indian state boards. Verified direct links for 10th and 12th scores.";
-$meta_keywords = "indiaresults com mirror, check board results alternative link, indiaresult mirror 2024, name wise result search india, official indiaresults backup portal, state board result mirror";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indiaresults Com Mirror - Secondary & University Result Alternative Hub"; 
+$meta_description = "Check Indiaresults Com Mirror online. Access the high-speed alternative result portal for all Indian state boards. Verified direct links for 10th and 12th scores."; 
+$meta_keywords = "indiaresults com mirror, check board results alternative link, indiaresult mirror 2024, name wise result search india, official indiaresults backup portal, state board result mirror"; 
 ?>
 
 <main class="container">
@@ -67,5 +66,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

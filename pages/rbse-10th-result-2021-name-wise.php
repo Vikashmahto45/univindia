@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RBSE 10th Result 2021 Name Wise - Official National Archive";
-$meta_description = "Check RBSE 10th Result 2021 Name Wise online. Access the historical Rajasthan Board Matric results for the 2021 session using candidate name. Official mirror.";
-$meta_keywords = "rbse 10th result 2021 name wise, check rajasthan board 10th result 2021 online, rbse matric 2021 name wise search, official 2021 rbse name link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RBSE 10th Result 2021 Name Wise - Official National Archive"; 
+$meta_description = "Check RBSE 10th Result 2021 Name Wise online. Access the historical Rajasthan Board Matric results for the 2021 session using candidate name. Official mirror."; 
+$meta_keywords = "rbse 10th result 2021 name wise, check rajasthan board 10th result 2021 online, rbse matric 2021 name wise search, official 2021 rbse name link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

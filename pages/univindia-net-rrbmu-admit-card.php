@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net RRBMU Admit Card - Matsya University Hall Ticket";
-$meta_description = "Download your RRBMU Alwar admit card at Univindia Net. Official guide to retrieving hall tickets for Raj Rishi Bhartrihari Matsya University examinations online.";
-$meta_keywords = "Univindia Net RRBMU Admit Card - Matsya University Hall Ticket";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net RRBMU Admit Card - Matsya University Hall Ticket"; 
+$meta_description = "Download your RRBMU Alwar admit card at Univindia Net. Official guide to retrieving hall tickets for Raj Rishi Bhartrihari Matsya University examinations online."; 
+$meta_keywords = "Univindia Net RRBMU Admit Card - Matsya University Hall Ticket"; 
 ?>
 
 <main class="container">
@@ -58,5 +57,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

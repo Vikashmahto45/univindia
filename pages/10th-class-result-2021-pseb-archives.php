@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th class result 2021 pseb - Official Punjab 2021 Archive";
-$meta_description = "Check 10th class result 2021 pseb for Matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival result gateway.";
-$keyword = "10th class result 2021 pseb";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th class result 2021 pseb - Official Punjab 2021 Archive"; 
+$meta_description = "Check 10th class result 2021 pseb for Matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival result gateway."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Punjab Class 10th
                 (Matriculation). Official PSEB Mohali mirrors and archival links updated for the 2021 batch
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

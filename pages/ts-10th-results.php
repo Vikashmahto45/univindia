@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "ts 10th results - Official Telangana SSC Portal";
-$meta_description = "Check ts 10th results online. Access the Telangana State Board of Secondary Education (BSE Telangana) SSC results for the 2024 session. Official TS 10th result link.";
-$meta_keywords = "ts 10th results, check telangana ssc result online, bse telangana 10th result 2024, ts 10th results link, telangana ssc result check";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "ts 10th results - Official Telangana SSC Portal"; 
+$meta_description = "Check ts 10th results online. Access the Telangana State Board of Secondary Education (BSE Telangana) SSC results for the 2024 session. Official TS 10th result link."; 
+$meta_keywords = "ts 10th results, check telangana ssc result online, bse telangana 10th result 2024, ts 10th results link, telangana ssc result check"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

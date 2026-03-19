@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 10th 2022 - Historical National Result archive";
-$meta_description = "Check India Result 10th 2022 online. Access the historical board results for Class 10 (Secondary) from CBSE, BSEB, RBSE, and more for 2022. Official Link.";
-$meta_keywords = "india result 10th 2022, check board result 10th 2022, secondary result 2022 online, official 2022 matric result link, indiaresult 10th 2022 mirror";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 10th 2022 - Historical National Result archive"; 
+$meta_description = "Check India Result 10th 2022 online. Access the historical board results for Class 10 (Secondary) from CBSE, BSEB, RBSE, and more for 2022. Official Link."; 
+$meta_keywords = "india result 10th 2022, check board result 10th 2022, secondary result 2022 online, official 2022 matric result link, indiaresult 10th 2022 mirror"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

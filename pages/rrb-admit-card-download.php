@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "RRB Admit Card Download - Railway Recruitment Board Hall Ticket Link | Univindia.online";
-$meta_description = "Download RRB Admit Card. Get the direct link for Railway Recruitment Board (RRB) NTPC, Group D, ALP, and Technicians exam hall tickets at rrbcdg.gov.in.";
-$meta_keywords = "rrb admit card download, rrb hall ticket download, rrb official website admit card, railway recruitment board call letter, rrb exam date 2024 download";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB Admit Card Download - Railway Recruitment Board Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download RRB Admit Card. Get the direct link for Railway Recruitment Board (RRB) NTPC, Group D, ALP, and Technicians exam hall tickets at rrbcdg.gov.in."; 
+$meta_keywords = "rrb admit card download, rrb hall ticket download, rrb official website admit card, railway recruitment board call letter, rrb exam date 2024 download"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

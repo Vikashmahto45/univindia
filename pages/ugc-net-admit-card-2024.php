@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in";
-$page_description = "Download UGC NET Admit Card 2024 for June and December sessions. Get direct link for NTA NET JRF Hall Ticket, Exam Schedule, and Subject Wise shifts. 800+ words of latest updates.";
-$page_keywords = "UGC NET Admit Card 2024, NTA NET JRF Hall Ticket Download, UGC NET December Hall Ticket, UGC NET June Admit Card, ugcnet.nta.nic.in call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -142,7 +140,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard me-2"></i> Teaching and Research Exams</h3>
                 <div class="row g-3">
-                    <?php
                     $research = [
                         'ignou-admit-card.php' => 'IGNOU Hall Ticket',
                         'ctet-admit-card.php' => 'CTET Paper 1/2 Admit Card',
@@ -156,7 +153,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -190,5 +186,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

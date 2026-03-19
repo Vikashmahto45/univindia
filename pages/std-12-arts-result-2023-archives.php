@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "std 12 arts result 2023 - Official 12th Arts Result 2023 Archive";
-$meta_description = "Check std 12 arts result 2023 for all state board exams. Access the official 2023 Class 12th (Senior Secondary) Arts result portal on indiaresults.";
-$keyword = "std 12 arts result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "std 12 arts result 2023 - Official 12th Arts Result 2023 Archive"; 
+$meta_description = "Check std 12 arts result 2023 for all state board exams. Access the official 2023 Class 12th (Senior Secondary) Arts result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Class 12th (Senior
                 Secondary) Arts stream across all Indian state boards. Official board mirrors and archival links updated
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

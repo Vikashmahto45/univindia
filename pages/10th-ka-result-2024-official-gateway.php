@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th ka result 2024 - Official Secondary Hub";
-$meta_description = "Check Class 10th result 2024 on 10th ka result 2024. Access official Board 10th (Matric) scorecards and results links on indiaresults updated for 2024.";
-$keyword = "10th ka result 2024";
-
 include '../header.php'; 
+$page_title = "10th ka result 2024 - Official Secondary Hub"; 
+$meta_description = "Check Class 10th result 2024 on 10th ka result 2024. Access official Board 10th (Matric) scorecards and results links on indiaresults updated for 2024."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for all Board Class 10th (Secondary/Matric) examination results for the 2024 academic session across India. Access official board mirrors and 2024 result links updated for session verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 10th Result Hub 2024</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

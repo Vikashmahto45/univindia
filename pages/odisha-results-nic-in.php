@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Odisha Results NIC In - official Odisha State Board and University Results";
-$meta_description = "Check Odisha Results NIC In for official 10th (HSC), 12th (CHSE), and university examinations. Access the official NIC Odisha result gateway, merit lists, and marksheet downloads.";
-$meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th result nic in, chse odisha result nic in, nic odisha results portal 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Odisha Results NIC In - official Odisha State Board and University Results"; 
+$meta_description = "Check Odisha Results NIC In for official 10th (HSC), 12th (CHSE), and university examinations. Access the official NIC Odisha result gateway, merit lists, and marksheet downloads."; 
+$meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th result nic in, chse odisha result nic in, nic odisha results portal 2024"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "class 12th result 2024 - Official National Senior Secondary Hub";
-$meta_description = "Check class 12th result 2024 for all state boards and CBSE. Access the official 2024 senior secondary (Class 12) result portal and live updates on indiaresults.";
-$keyword = "class 12th result 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "class 12th result 2024 - Official National Senior Secondary Hub"; 
+$meta_description = "Check class 12th result 2024 for all state boards and CBSE. Access the official 2024 senior secondary (Class 12) result portal and live updates on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary) examination
                 results across India for the 2024 session. Official board mirrors and live result links updated for the
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

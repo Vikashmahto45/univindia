@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "BSc 3rd Year Result 2023 - Final Year BSc Result & Marksheet";
-$keyword = "bsc 3rd year result 2023";
-$description = "Check BSc 3rd Year Result 2023. Download final year Bachelor of Science marksheet, check pass percentage, and university-wise result updates.";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "BSc 3rd Year Result 2023 - Final Year BSc Result & Marksheet"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <div class="result-container">
@@ -25,4 +24,5 @@ include '../header.php';
         <p>Students can visit the official result portal, enter their roll number, and download their provisional marksheet. Original marksheets will be distributed by the respective colleges later.</p>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

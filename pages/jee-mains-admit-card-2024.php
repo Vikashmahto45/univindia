@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online";
-$meta_description = "Download JEE Mains Admit Card 2024. Get the direct link for NTA JEE Main (Joint Entrance Examination) Session 1 and Session 2 hall tickets at jeemain.nta.ac.in.";
-$meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2024 download, jeemain.nta.ac.in login 2024, jee mains exam date 2024 download, engineering entrance call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online"; 
+$meta_description = "Download JEE Mains Admit Card 2024. Get the direct link for NTA JEE Main (Joint Entrance Examination) Session 1 and Session 2 hall tickets at jeemain.nta.ac.in."; 
+$meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2024 download, jeemain.nta.ac.in login 2024, jee mains exam date 2024 download, engineering entrance call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

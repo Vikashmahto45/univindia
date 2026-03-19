@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "result 8th class 2023 - Official Class 8 Result 2023 Archive";
-$meta_description = "Check result 8th class 2023 for all state boards. Access the official 2023 Class 8th (Middle School) result portal and archival links on indiaresults.";
-$keyword = "result 8th class 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "result 8th class 2023 - Official Class 8 Result 2023 Archive"; 
+$meta_description = "Check result 8th class 2023 for all state boards. Access the official 2023 Class 8th (Middle School) result portal and archival links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Class 8th (Middle School)
                 across all Indian state boards. Official DIET and state board mirrors updated for the 2023 batch
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

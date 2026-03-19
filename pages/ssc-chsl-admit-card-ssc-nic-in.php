@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSC CHSL Admit Card ssc.nic.in - Official Portal Download Link | Univindia.online";
-$meta_description = "Download SSC CHSL Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct login links for all SSC regions, application status, and Tier 1 exam hall tickets.";
-$meta_keywords = "ssc.nic.in chsl admit card, ssc chsl hall ticket ssc nic in, ssc login admit card, chsl call letter download ssc nic in, ssc government in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC CHSL Admit Card ssc.nic.in - Official Portal Download Link | Univindia.online"; 
+$meta_description = "Download SSC CHSL Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct login links for all SSC regions, application status, and Tier 1 exam hall tickets."; 
+$meta_keywords = "ssc.nic.in chsl admit card, ssc chsl hall ticket ssc nic in, ssc login admit card, chsl call letter download ssc nic in, ssc government in admit card"; 
 ?>
 
 <div class="container main-content">
@@ -72,5 +70,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

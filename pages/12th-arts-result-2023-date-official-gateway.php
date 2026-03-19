@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12th arts result 2023 date - Official Arts Stream Result Schedule Hub";
-$meta_description = "Check 12th arts result 2023 date for Class 12 exams. Access the official 2023 Higher Secondary Arts result declaration schedule and portal on indiaresults.";
-$keyword = "12th arts result 2023 date";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12th arts result 2023 date - Official Arts Stream Result Schedule Hub"; 
+$meta_description = "Check 12th arts result 2023 date for Class 12 exams. Access the official 2023 Higher Secondary Arts result declaration schedule and portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Stay updated with the official declaration schedule for Class 12th
                 (Higher Secondary) Arts results for the 2023 academic session. Official state board mirrors and date
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

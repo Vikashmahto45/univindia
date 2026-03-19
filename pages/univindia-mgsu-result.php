@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia MGSU Result - Maharaja Ganga Singh University Bikaner Scores";
-$meta_description = "Check your Univindia MGSU Result for BA, BSc, BCom, MA, MSc. Complete guide to downloading marksheets and checking revaluation results on Univindia Net.";
-$meta_keywords = "univindia mgsu result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia MGSU Result - Maharaja Ganga Singh University Bikaner Scores"; 
+$meta_description = "Check your Univindia MGSU Result for BA, BSc, BCom, MA, MSc. Complete guide to downloading marksheets and checking revaluation results on Univindia Net."; 
+$meta_keywords = "univindia mgsu result"; 
 ?>
 
 <main class="container">
@@ -55,5 +54,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City";
-$page_description = "Download RRC Group D Admit Card 2024. Get direct links for Railway Group D Call Letter, Exam City Intimation, and Exam Date. 800+ word guide for RRC Level 1 aspirants.";
-$page_keywords = "Group D Admit Card 2024, RRC Group D Hall Ticket, Railway Group D Call Letter, Download RRC Group D 2024 Admit Card, Exam City Intimation";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -261,5 +259,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

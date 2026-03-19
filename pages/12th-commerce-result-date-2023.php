@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th Commerce Result Date 2023 - Official National Board schedule";
-$meta_description = "Check 12th Commerce Result Date 2023 online. Access the historical results schedule for CBSE, RBSE, HBSE, and more. Official 2023 release link.";
-$meta_keywords = "12th commerce result date 2023, check board commerce result date 2023 online, cbse commerce 2023 date, rbse commerce 2023 date, official 2023 commerce link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th Commerce Result Date 2023 - Official National Board schedule"; 
+$meta_description = "Check 12th Commerce Result Date 2023 online. Access the historical results schedule for CBSE, RBSE, HBSE, and more. Official 2023 release link."; 
+$meta_keywords = "12th commerce result date 2023, check board commerce result date 2023 online, cbse commerce 2023 date, rbse commerce 2023 date, official 2023 commerce link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

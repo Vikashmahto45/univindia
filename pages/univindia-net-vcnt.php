@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net VCNT - MGSU Bikaner Portal Technical Backend";
-$meta_description = "Understand the role of Univindia Net VCNT in university portal operations. Official guide to navigating MGSU Bikaner technical gateways successfully.";
-$meta_keywords = "univindia net vcnt";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net VCNT - MGSU Bikaner Portal Technical Backend"; 
+$meta_description = "Understand the role of Univindia Net VCNT in university portal operations. Official guide to navigating MGSU Bikaner technical gateways successfully."; 
+$meta_keywords = "univindia net vcnt"; 
 ?>
 
 <main class="container">
@@ -49,5 +48,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

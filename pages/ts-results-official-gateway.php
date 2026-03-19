@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "ts results - Official Telangana State Academic Result Hub";
-$meta_description = "Check ts results for SSC and Inter exams. Access the official Telangana State (BSE & TSBIE) result portal and archives on indiaresults.";
-$keyword = "ts results";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "ts results - Official Telangana State Academic Result Hub"; 
+$meta_description = "Check ts results for SSC and Inter exams. Access the official Telangana State (BSE & TSBIE) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your primary destination for all academic results across Telangana.
                 Official mirrors for TS SSC (10th), TS Inter (12th), and major state universities updated for the latest
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

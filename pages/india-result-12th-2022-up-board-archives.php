@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 12th 2022 up board - Official Uttar Pradesh 12th 2022 Archive";
-$meta_description = "Check india result 12th 2022 up board for Intermediate exams. Access the official 2022 Uttar Pradesh Board (UPMSP) archival result portal on indiaresults.";
-$keyword = "india result 12th 2022 up board";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 12th 2022 up board - Official Uttar Pradesh 12th 2022 Archive"; 
+$meta_description = "Check india result 12th 2022 up board for Intermediate exams. Access the official 2022 Uttar Pradesh Board (UPMSP) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Uttar Pradesh
                 Class 12th (Intermediate). Official UPMSP mirrors and archival links updated for the 2022 batch
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

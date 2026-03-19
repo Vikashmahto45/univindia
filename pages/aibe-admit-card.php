@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "AIBE Admit Card 2024 Download - All India Bar Examination Hall Ticket Link | Univindia.online";
-$meta_description = "Download AIBE Admit Card 2024. Get the direct link for All India Bar Examination (AIBE XIX/XX) hall tickets at allindiabarexamination.com.";
-$meta_keywords = "aibe admit card 2024, all india bar examination hall ticket, aibe xix admit card download, bci admit card login, law advocate license exam link";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "AIBE Admit Card 2024 Download - All India Bar Examination Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download AIBE Admit Card 2024. Get the direct link for All India Bar Examination (AIBE XIX/XX) hall tickets at allindiabarexamination.com."; 
+$meta_keywords = "aibe admit card 2024, all india bar examination hall ticket, aibe xix admit card download, bci admit card login, law advocate license exam link"; 
 ?>
 
 <div class="container main-content">
@@ -92,5 +90,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th HSC Result 2024 - Official Higher Secondary Examination Hub";
-$meta_description = "Check 12th HSC Result 2024 online. Access the Higher Secondary results for Maharashtra, Gujarat, Odisha, and all state boards. Download your 2024 marksheet now.";
-$meta_keywords = "12th hsc result 2024, check hsc result 2024, higher secondary result 2024 date, mahresult.nic.in 2024 hsc, gseb hsc result 2024, official hsc result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th HSC Result 2024 - Official Higher Secondary Examination Hub"; 
+$meta_description = "Check 12th HSC Result 2024 online. Access the Higher Secondary results for Maharashtra, Gujarat, Odisha, and all state boards. Download your 2024 marksheet now."; 
+$meta_keywords = "12th hsc result 2024, check hsc result 2024, higher secondary result 2024 date, mahresult.nic.in 2024 hsc, gseb hsc result 2024, official hsc result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

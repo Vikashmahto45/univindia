@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12th commerce result 2022 - Official National 2022 Archive";
-$meta_description = "Check 12th commerce result 2022 for all state boards. Access the official national Class 12 Commerce archival result portal on indiaresults.";
-$keyword = "12th commerce result 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12th commerce result 2022 - Official National 2022 Archive"; 
+$meta_description = "Check 12th commerce result 2022 for all state boards. Access the official national Class 12 Commerce archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Class 12 (Higher Secondary) Commerce stream
                 examination results across India for the 2022 session. Official board mirrors and archival result links
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

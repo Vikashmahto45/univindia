@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Result of B.Sc 2nd Year 2019 Univindia - Bikaner University BSc Part-II scores";
-$meta_description = "Access the MGSU Bikaner B.Sc 2nd Year 2019 result via Univindia. Official guide to retrieving historical BSc Part-II 2019 Maharaja Ganga Singh University marksheets.";
-$meta_keywords = "result of b.sc 2nd year 2019 univindia";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Result of B.Sc 2nd Year 2019 Univindia - Bikaner University BSc Part-II scores"; 
+$meta_description = "Access the MGSU Bikaner B.Sc 2nd Year 2019 result via Univindia. Official guide to retrieving historical BSc Part-II 2019 Maharaja Ganga Singh University marksheets."; 
+$meta_keywords = "result of b.sc 2nd year 2019 univindia"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

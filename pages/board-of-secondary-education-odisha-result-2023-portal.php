@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "board of secondary education odisha result 2023 - Official Odisha Secondary Archive";
-$meta_description = "Check board of secondary education odisha result 2023 for HSC examinations. Access the official 2023 Odisha (BSE) archival result portal on indiaresults.";
-$keyword = "board of secondary education odisha result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "board of secondary education odisha result 2023 - Official Odisha Secondary Archive"; 
+$meta_description = "Check board of secondary education odisha result 2023 for HSC examinations. Access the official 2023 Odisha (BSE) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for the Board of Secondary
                 Education (BSE) Odisha. Official Cuttack mirrors and archival links updated for the 2023 batch.</p>
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

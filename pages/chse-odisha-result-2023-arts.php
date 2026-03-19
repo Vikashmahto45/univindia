@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub";
-$meta_description = "Check CHSE Odisha Result 2023 Arts for official +2 board examinations. Access the 2023 archival results, stream-wise merit lists, and marksheet download links.";
-$meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, orissaresults.nic.in arts 2023, chse odisha +2 arts result archive, bseodisha.ac.in inter arts result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub"; 
+$meta_description = "Check CHSE Odisha Result 2023 Arts for official +2 board examinations. Access the 2023 archival results, stream-wise merit lists, and marksheet download links."; 
+$meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, orissaresults.nic.in arts 2023, chse odisha +2 arts result archive, bseodisha.ac.in inter arts result"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

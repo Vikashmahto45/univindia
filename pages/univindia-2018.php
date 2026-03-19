@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia 2018 Archive Portal - Bikaner University 2018 Records";
-$meta_description = "Access the Univindia 2018 archive for Bikaner University. Official guide to retrieving 2018 Maharaja Ganga Singh University exams, results, and admit cards.";
-$meta_keywords = "univindia 2018";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia 2018 Archive Portal - Bikaner University 2018 Records"; 
+$meta_description = "Access the Univindia 2018 archive for Bikaner University. Official guide to retrieving 2018 Maharaja Ganga Singh University exams, results, and admit cards."; 
+$meta_keywords = "univindia 2018"; 
 ?>
 
 <main class="container">
@@ -57,5 +56,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

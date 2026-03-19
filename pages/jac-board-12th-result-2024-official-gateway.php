@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub";
-$meta_description = "Check jac board 12th result 2024 for Intermediate exams. Access the official Jharkhand Academic Council (JAC) result portal mirror on indiaresults.";
-$keyword = "jac board 12th result 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub"; 
+$meta_description = "Check jac board 12th result 2024 for Intermediate exams. Access the official Jharkhand Academic Council (JAC) result portal mirror on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Jharkhand
                 Class 12th (Intermediate). Direct board result links and mirror access updated for the 2024 academic
@@ -126,4 +124,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

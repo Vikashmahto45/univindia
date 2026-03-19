@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www.india result.com odisha 2022 - Official Odisha Board Archive";
-$meta_description = "Check www.india result.com odisha 2022 for BSE Odisha 10th and CHSE 12th results. Access the official Odisha result mirror for the 2022 academic session.";
-$meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indiaresults, CHSE odisha result 2022, bse odisha 2022 mirror";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www.india result.com odisha 2022 - Official Odisha Board Archive"; 
+$meta_description = "Check www.india result.com odisha 2022 for BSE Odisha 10th and CHSE 12th results. Access the official Odisha result mirror for the 2022 academic session."; 
+$meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indiaresults, CHSE odisha result 2022, bse odisha 2022 mirror"; 
 ?>
 
 <main class="container">
@@ -124,5 +123,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in";
-$page_description = "Download Voter ID Card 2025 Online. Get direct link for E-EPIC digital voter card, EPIC number search, and voter list status. 800+ words of latest updates.";
-$page_keywords = "Voter ID Download 2025, Digital Voter Card E-EPIC Online, NVSP Voter ID Download, EPIC Number Search, voters.eci.gov.in portal link";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -144,7 +142,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-user-check me-2"></i> Identity & Registration Links</h3>
                 <div class="row g-3">
-                    <?php
                     $id_links = [
                         'pan-card-download.php' => 'E-PAN Card Online Download',
                         'aadhar-card-download.php' => 'Aadhar Card Download Link',
@@ -158,7 +155,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -192,5 +188,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

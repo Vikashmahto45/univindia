@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RPF Admit Card 2024 Download - SI & Constable Hall Ticket Link";
-$meta_description = "Download RPF Admit Card 2024. Get the direct link to access your Railway Protection Force exam hall ticket and shift timings.";
-$meta_keywords = "rpf admit card 2024, rpf constable admit card download, rpf si hall ticket, railway rpf exam date 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RPF Admit Card 2024 Download - SI & Constable Hall Ticket Link"; 
+$meta_description = "Download RPF Admit Card 2024. Get the direct link to access your Railway Protection Force exam hall ticket and shift timings."; 
+$meta_keywords = "rpf admit card 2024, rpf constable admit card download, rpf si hall ticket, railway rpf exam date 2024"; 
 ?>
 
 <main class="container">
@@ -41,7 +40,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Railway Support Services</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "rpf admit card 2024";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -50,16 +48,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

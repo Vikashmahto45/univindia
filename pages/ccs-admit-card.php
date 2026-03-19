@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in";
-$page_description = "Download CCS Admit Card 2025 for Private & Regular exams. Get direct link for CCSU Meerut Hall Ticket, Exam Schedule, and center list. 800+ words of in-depth updates.";
-$page_keywords = "CCS Admit Card 2025, CCSU Meerut Hall Ticket Download, CCS University Admit Card Private, CCSU Exam Schedule 2025, ccsuniversity.ac.in admit card link";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -144,7 +142,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marked-alt me-2"></i> Other Universities in UP</h3>
                 <div class="row g-3">
-                    <?php
                     $up_univ = [
                         'mjpru-admit-card.php' => 'MJPRU Bareilly',
                         'msu-admit-card.php' => 'MSU Saharanpur',
@@ -158,7 +155,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -192,5 +188,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

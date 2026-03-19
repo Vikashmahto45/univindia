@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "raj uni result - Official Rajasthan University Result Portal";
-$meta_description = "Check raj uni result for BA, BSc, BCom, MA, MSc, and MCom examinations. Access the official Rajasthan University (Uniraj) result gateway on indiaresults for the latest updates.";
-$keyword = "raj uni result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "raj uni result - Official Rajasthan University Result Portal"; 
+$meta_description = "Check raj uni result for BA, BSc, BCom, MA, MSc, and MCom examinations. Access the official Rajasthan University (Uniraj) result gateway on indiaresults for the latest updates."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official Undergraduate and Postgraduate exam results for the
                 University of Rajasthan (Uniraj).</p>
@@ -110,4 +108,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

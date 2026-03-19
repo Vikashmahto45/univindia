@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 10th 2022 PSEB - Official Punjab Board matric Archive";
-$meta_description = "Check India Result 10th 2022 PSEB online. Access the historical Punjab School Education Board (PSEB) Mohali Matriculation results for the 2022 session. Official mirror.";
-$meta_keywords = "india result 10th 2022 pseb, check punjab board 10th result 2022 online, pseb matric result 2022 indiaresults, official 2022 punjab link, pseb results 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 10th 2022 PSEB - Official Punjab Board matric Archive"; 
+$meta_description = "Check India Result 10th 2022 PSEB online. Access the historical Punjab School Education Board (PSEB) Mohali Matriculation results for the 2022 session. Official mirror."; 
+$meta_keywords = "india result 10th 2022 pseb, check punjab board 10th result 2022 online, pseb matric result 2022 indiaresults, official 2022 punjab link, pseb results 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

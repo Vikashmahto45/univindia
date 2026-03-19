@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "jkbose nic in - Official Jammu & Kashmir Board Gateway";
-$meta_description = "Check jkbose nic in for 10th and 12th board results. Access the official JKBOSE result portal on indiaresults for high-speed checking.";
-$keyword = "jkbose nic in";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "jkbose nic in - Official Jammu & Kashmir Board Gateway"; 
+$meta_description = "Check jkbose nic in for 10th and 12th board results. Access the official JKBOSE result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest educational results for Jammu, Kashmir, and Ladakh.
                 Official JKBOSE mirrors and portal links updated for 10th and 12th board examinations.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

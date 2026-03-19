@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Related Www Univindia Net MainPage PHP Univindia Net VCNT - Dashboard Access";
-$meta_description = "Access the Univindia Net VCNT main page for university services. Official guide to navigating the specialized VCNT dashboard on the exam portal online.";
-$meta_keywords = "Related Www Univindia Net MainPage PHP Univindia Net VCNT - Dashboard Access";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Related Www Univindia Net MainPage PHP Univindia Net VCNT - Dashboard Access"; 
+$meta_description = "Access the Univindia Net VCNT main page for university services. Official guide to navigating the specialized VCNT dashboard on the exam portal online."; 
+$meta_keywords = "Related Www Univindia Net MainPage PHP Univindia Net VCNT - Dashboard Access"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

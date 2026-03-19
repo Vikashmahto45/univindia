@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisha result 12th 2023 arts - Official CHSE Result Mirror";
-$meta_description = "Check odisha result 12th 2023 arts for the Council of Higher Secondary Education (CHSE) examination. Access the official 2023 Odisha 12th Arts gateway on indiaresults.";
-$keyword = "odisha result 12th 2023 arts";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisha result 12th 2023 arts - Official CHSE Result Mirror"; 
+$meta_description = "Check odisha result 12th 2023 arts for the Council of Higher Secondary Education (CHSE) examination. Access the official 2023 Odisha 12th Arts gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 Higher Secondary (+2) results for the Arts stream in
                 Odisha. Official CHSE mirrors and archival links updated.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

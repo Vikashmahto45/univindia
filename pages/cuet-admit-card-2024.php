@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in";
-$page_description = "Download CUET Admit Card 2024 for UG courses. Get direct link for NTA CUET Hall Ticket, Exam Schedule, and subject-wise exam dates. 800+ words of detailed info.";
-$page_keywords = "CUET Admit Card 2024, CUET UG Hall Ticket Download, NTA CUET 2024 Admit Card, CUET Exam Date 2024, cuet.samarth.ac.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -156,7 +154,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> University Admit Cards</h3>
                 <div class="row g-3">
-                    <?php
                     $uni = [
                         'mjpru-admit-card.php' => 'MJPRU Exam Admit Card',
                         'ccs-university-admit-card.php' => 'CCSU Hall Ticket',
@@ -170,7 +167,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -204,5 +200,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

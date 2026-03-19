@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "IGNOU Admit Card 2025: Download IGNOU TEE Hall Ticket @ ignou.ac.in";
-$page_description = "Download IGNOU Admit Card 2025 for June and December Term End Exams (TEE). Get direct link for IGNOU Hall Ticket, Exam Schedule, and Center Details. 800+ words guide.";
-$page_keywords = "IGNOU Admit Card 2025, IGNOU TEE Hall Ticket Download, IGNOU June Dec Exam Card, ignou.ac.in admit card link, IGNOU Enrollment Number Login";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "IGNOU Admit Card 2025: Download IGNOU TEE Hall Ticket @ ignou.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -141,7 +139,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Open University Portals</h3>
                 <div class="row g-3">
-                    <?php
                     $open_univ = [
                         'uou-admit-card.php' => 'UOU Uttarakhand Hall Ticket',
                         'psou-admit-card.php' => 'PSOU Punjab Admit Card',
@@ -155,7 +152,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -189,5 +185,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result india result - Official National Academic Results Verification Archive";
-$meta_description = "Check india result india result for all state board and university exams. Access the official result portal and archival certificates nationwide on indiaresults.";
-$keyword = "india result india result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result india result - Official National Academic Results Verification Archive"; 
+$meta_description = "Check india result india result for all state board and university exams. Access the official result portal and archival certificates nationwide on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized national destination for all examination results across
                 Indian boards and universities. Official mirrors and archival links updated for all years and academic
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

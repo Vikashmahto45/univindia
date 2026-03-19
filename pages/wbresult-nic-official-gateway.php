@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "wbresult nic - Official West Bengal Board Gateways";
-$meta_description = "Check wbresult nic for Madhyamik (10th) and Uchcha Madhyamik (12th) results. Access the official West Bengal result portal on indiaresults.";
-$keyword = "wbresult nic";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "wbresult nic - Official West Bengal Board Gateways"; 
+$meta_description = "Check wbresult nic for Madhyamik (10th) and Uchcha Madhyamik (12th) results. Access the official West Bengal result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest educational results for West Bengal. Official WBBSE
                 and WBCHSE mirrors updated for Madhyamik and Higher Secondary examinations.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

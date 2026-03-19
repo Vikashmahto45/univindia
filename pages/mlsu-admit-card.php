@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in";
-$meta_description = "Download MLSU Udaipur Admit Card 2024 for B.A, B.Sc, B.Com, B.Ed and PG Semester Exams. Get direct link for Mohanlal Sukhadia University Hall Ticket download.";
-$keywords = "mlsu admit card, mlsu udaipur admit card 2024, mohanlal sukhadia university hall ticket, mlsu exam card download, mlsu.ac.in admit card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in"; 
+$meta_description = "Download MLSU Udaipur Admit Card 2024 for B.A, B.Sc, B.Com, B.Ed and PG Semester Exams. Get direct link for Mohanlal Sukhadia University Hall Ticket download."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -119,4 +118,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

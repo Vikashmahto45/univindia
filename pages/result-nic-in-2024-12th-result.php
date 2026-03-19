@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Result Nic In 2024 12th Result - Official Intermediate Examination Hub";
-$meta_description = "Check Result Nic In 2024 12th Result online. Access the Intermediate results for CBSE, Class 12th state boards, and national archives via the official NIC portal.";
-$meta_keywords = "result nic in 2024 12th result, check 12th result 2024, intermediate board result 2024, results.nic.in 2024 12th, check hsc result 2024, official nic result hub, national 12th results 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Result Nic In 2024 12th Result - Official Intermediate Examination Hub"; 
+$meta_description = "Check Result Nic In 2024 12th Result online. Access the Intermediate results for CBSE, Class 12th state boards, and national archives via the official NIC portal."; 
+$meta_keywords = "result nic in 2024 12th result, check 12th result 2024, intermediate board result 2024, results.nic.in 2024 12th, check hsc result 2024, official nic result hub, national 12th results 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

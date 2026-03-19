@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 10th 2020 pseb - Official Punjab Board Archive";
-$meta_description = "Check india result 10th 2020 pseb for Matriculation results. Access the official Punjab School Education Board (PSEB) 2020 archive on indiaresults for fast checking.";
-$keyword = "india result 10th 2020 pseb";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 10th 2020 pseb - Official Punjab Board Archive"; 
+$meta_description = "Check india result 10th 2020 pseb for Matriculation results. Access the official Punjab School Education Board (PSEB) 2020 archive on indiaresults for fast checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official 2020 Matriculation (10th) results for the Punjab
                 School Education Board (PSEB).</p>
@@ -108,4 +106,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

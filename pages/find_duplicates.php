@@ -1,5 +1,10 @@
-<?php include '../header.php'; ?>
-<?php
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
 $content = file_get_contents('c:\xampp\htdocs\univindia\includes\link_map.php');
 preg_match_all("/'(.+?)' => '(.+?)'/", $content, $matches);
 $keys = $matches[1];
@@ -9,5 +14,5 @@ foreach ($counts as $key => $count) {
         echo "Duplicate Key: $key ($count times)\n";
     }
 }
-?>
+
 <?php include '../footer.php'; ?>

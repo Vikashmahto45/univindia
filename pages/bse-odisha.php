@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "BSE Odisha - Official Board of Secondary Education Matrix Hub";
-$meta_description = "Check BSE Odisha results online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) and Madhyama results. Official Link.";
-$meta_keywords = "bse odisha, check bse odisha results online, bseodisha.ac.in, official bse odisha portal, indiaresult bse odisha, odisha matric result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "BSE Odisha - Official Board of Secondary Education Matrix Hub"; 
+$meta_description = "Check BSE Odisha results online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) and Madhyama results. Official Link."; 
+$meta_keywords = "bse odisha, check bse odisha results online, bseodisha.ac.in, official bse odisha portal, indiaresult bse odisha, odisha matric result"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

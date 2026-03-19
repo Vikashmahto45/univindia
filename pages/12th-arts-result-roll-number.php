@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12th Arts Result Roll Number - Official National Board Result Gateway";
-$meta_description = "Check 12th Arts Result Roll Number online. Access the direct result links for RBSE, UPMSP, BSEB, and all state boards. Verify your 2024 Arts scores instantly.";
-$meta_keywords = "12th arts result roll number, check 12th arts result by roll number, rajresults.nic.in 12th arts, up board 12th arts result, official arts result link, intermediate arts result search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12th Arts Result Roll Number - Official National Board Result Gateway"; 
+$meta_description = "Check 12th Arts Result Roll Number online. Access the direct result links for RBSE, UPMSP, BSEB, and all state boards. Verify your 2024 Arts scores instantly."; 
+$meta_keywords = "12th arts result roll number, check 12th arts result by roll number, rajresults.nic.in 12th arts, up board 12th arts result, official arts result link, intermediate arts result search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

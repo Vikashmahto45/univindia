@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indiaresults Com 2024 Class 12 Link - Official Higher Secondary Result Gateway";
-$meta_description = "Check Indiaresults Com 2024 Class 12 Link online. Access the direct result links for PBSE, RBSE, HPSE and all state boards. Verify your 12th scores for 2024 instantly.";
-$meta_keywords = "indiaresults com 2024 class 12 link, check india results 12th 2024 link, direct 12th result link 2024, state board 12th result link, indiaresults official 12th portal, hsc link 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indiaresults Com 2024 Class 12 Link - Official Higher Secondary Result Gateway"; 
+$meta_description = "Check Indiaresults Com 2024 Class 12 Link online. Access the direct result links for PBSE, RBSE, HPSE and all state boards. Verify your 12th scores for 2024 instantly."; 
+$meta_keywords = "indiaresults com 2024 class 12 link, check india results 12th 2024 link, direct 12th result link 2024, state board 12th result link, indiaresults official 12th portal, hsc link 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket";
-$page_description = "SSC CGL Tier 1 Admit Card 2024 Download Link. Get region-wise call letters for SSC CGL Tier I Exam. Exam date, reporting time, and important instructions for CGL 2024.";
-$page_keywords = "SSC CGL Tier 1 Admit Card 2024, SSC CGL Tier I Hall Ticket, Download CGL Tier 1 2024 Admit Card, ssc.gov.in cgl tier 1 admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -201,5 +199,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

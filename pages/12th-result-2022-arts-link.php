@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12th result 2022 arts - Official Senior Secondary Arts Archive";
-$meta_description = "Check 12th result 2022 arts for all state boards including Rajasthan, Punjab, and more. Access the official 2022 Senior Secondary Arts result gateway on indiaresults.";
-$keyword = "12th result 2022 arts";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12th result 2022 arts - Official Senior Secondary Arts Archive"; 
+$meta_description = "Check 12th result 2022 arts for all state boards including Rajasthan, Punjab, and more. Access the official 2022 Senior Secondary Arts result gateway on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 Arts stream results for Class 12th examinations.
                 Dedicated links and archival gateways updated.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

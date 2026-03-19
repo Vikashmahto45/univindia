@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "UP Result NIC In 2024 - Official Uttar Pradesh Board Portal";
-$meta_description = "Check UP Result NIC In 2024 for Class 10th and 12th. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) results, marksheets, and merit list online.";
-$meta_keywords = "up result nic in 2024, up board result 2024, upmsp nic in 2024 result, check up 10th result 2024, check up 12th result 2024, upmsp results link, official up board portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "UP Result NIC In 2024 - Official Uttar Pradesh Board Portal"; 
+$meta_description = "Check UP Result NIC In 2024 for Class 10th and 12th. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) results, marksheets, and merit list online."; 
+$meta_keywords = "up result nic in 2024, up board result 2024, upmsp nic in 2024 result, check up 10th result 2024, check up 12th result 2024, upmsp results link, official up board portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

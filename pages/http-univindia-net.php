@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Http Univindia Net - Main MGSU University Student Portal";
-$meta_description = "Http Univindia Net is the primary digital gateway for MGSU Bikaner. Complete guide to accessing results, admit cards, and examination forms at http://univindia.net.";
-$meta_keywords = "http univindia net";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Http Univindia Net - Main MGSU University Student Portal"; 
+$meta_description = "Http Univindia Net is the primary digital gateway for MGSU Bikaner. Complete guide to accessing results, admit cards, and examination forms at http://univindia.net."; 
+$meta_keywords = "http univindia net"; 
 ?>
 
 <main class="container">
@@ -43,5 +42,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

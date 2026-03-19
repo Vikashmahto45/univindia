@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "inter 2nd year result 2022 ts - Official Telangana 12th 2022 Archive";
-$meta_description = "Check inter 2nd year result 2022 ts for TSBIE exams. Access the official 2022 Telangana Intermediate result portal and archives on indiaresults.";
-$keyword = "inter 2nd year result 2022 ts";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "inter 2nd year result 2022 ts - Official Telangana 12th 2022 Archive"; 
+$meta_description = "Check inter 2nd year result 2022 ts for TSBIE exams. Access the official 2022 Telangana Intermediate result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Telangana Class 12th
                 (Senior Intermediate). Official TSBIE Hyderabad mirrors and archival links updated for 2022 batch
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

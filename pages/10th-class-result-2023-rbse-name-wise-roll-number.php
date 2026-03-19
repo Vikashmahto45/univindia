@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th Class Result 2023 RBSE Name Wise Roll Number - Official Rajasthan Board Link";
-$meta_description = "Check 10th Class Result 2023 RBSE Name Wise and Roll Number Wise. Access the Rajasthan Board Secondary results for the 2023 session. Official merit stats and marks.";
-$meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 roll number wise, rajeduboard.rajasthan.gov.in 10th result 2023, check rajasthan board 10th result by name, official rbse 10th 2023 link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th Class Result 2023 RBSE Name Wise Roll Number - Official Rajasthan Board Link"; 
+$meta_description = "Check 10th Class Result 2023 RBSE Name Wise and Roll Number Wise. Access the Rajasthan Board Secondary results for the 2023 session. Official merit stats and marks."; 
+$meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 roll number wise, rajeduboard.rajasthan.gov.in 10th result 2023, check rajasthan board 10th result by name, official rbse 10th 2023 link"; 
 ?>
 
 <main class="container">
@@ -67,5 +66,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

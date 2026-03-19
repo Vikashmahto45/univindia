@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Results 2023 - Official National Secondary Mirror Portal";
-$meta_description = "Check India Results 2023 online. Access the historical Rajasthan, Punjab, and other state board results for the 2023 session via the official national mirror.";
-$meta_keywords = "india results 2023, check india board results 2023 online, official indiaresults mirror 2023, national 2023 result link, indiaresults.com 2023 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Results 2023 - Official National Secondary Mirror Portal"; 
+$meta_description = "Check India Results 2023 online. Access the historical Rajasthan, Punjab, and other state board results for the 2023 session via the official national mirror."; 
+$meta_keywords = "india results 2023, check india board results 2023 online, official indiaresults mirror 2023, national 2023 result link, indiaresults.com 2023 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

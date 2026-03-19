@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indiaresults.com 2023 10th RBSE - Official Rajasthan Board Matrix Hub";
-$meta_description = "Check Indiaresults.com 2023 10th RBSE online. Access the high-speed Rajasthan Board (BSER) Class 10 results. Official 2023 marks and name-wise search link.";
-$meta_keywords = "indiaresults.com 2023 10th rbse, check rajasthan board 10th result 2023 online, indiaresults rbse matric 2023, official 2023 rbse secondary link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indiaresults.com 2023 10th RBSE - Official Rajasthan Board Matrix Hub"; 
+$meta_description = "Check Indiaresults.com 2023 10th RBSE online. Access the high-speed Rajasthan Board (BSER) Class 10 results. Official 2023 marks and name-wise search link."; 
+$meta_keywords = "indiaresults.com 2023 10th rbse, check rajasthan board 10th result 2023 online, indiaresults rbse matric 2023, official 2023 rbse secondary link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

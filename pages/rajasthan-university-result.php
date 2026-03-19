@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Rajasthan University Result - Official Uniraj Examination Portal";
-$meta_description = "Check Rajasthan University Result online. Access the University of Rajasthan (Uniraj) UG and PG results for BA, BSc, BCom, MA, MSc. Download your Uniraj marksheets instantly.";
-$meta_keywords = "rajasthan university result, check uniraj result online, university of rajasthan result link, uniraj ba bsc bcom result, official uor result portal, uniraj merit list";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Rajasthan University Result - Official Uniraj Examination Portal"; 
+$meta_description = "Check Rajasthan University Result online. Access the University of Rajasthan (Uniraj) UG and PG results for BA, BSc, BCom, MA, MSc. Download your Uniraj marksheets instantly."; 
+$meta_keywords = "rajasthan university result, check uniraj result online, university of rajasthan result link, uniraj ba bsc bcom result, official uor result portal, uniraj merit list"; 
 ?>
 
 <main class="container">
@@ -67,5 +66,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

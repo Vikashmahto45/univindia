@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th Result Search By Name 2024 - Official Name-Wise Matric Gateway";
-$meta_description = "Check 10th Result Search By Name 2024 online. Access the name-wise search for Rajasthan, Punjab, and other state boards for the 20th matriculation session.";
-$meta_keywords = "10th result search by name 2024, check 10th result name wise 2024, board result name search 2024, click to check 10th result by name, official name wise result portal, check matric result by name";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th Result Search By Name 2024 - Official Name-Wise Matric Gateway"; 
+$meta_description = "Check 10th Result Search By Name 2024 online. Access the name-wise search for Rajasthan, Punjab, and other state boards for the 20th matriculation session."; 
+$meta_keywords = "10th result search by name 2024, check 10th result name wise 2024, board result name search 2024, click to check 10th result by name, official name wise result portal, check matric result by name"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "mjpru result 2023 by name - Official Rohilkhand University 2023 Archive";
-$meta_description = "Check mjpru result 2023 by name for UG and PG exams. Access the official 2023 Mahatma Jyotiba Phule Rohilkhand University (MJPRU) archival portal on indiaresults.";
-$keyword = "mjpru result 2023 by name";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "mjpru result 2023 by name - Official Rohilkhand University 2023 Archive"; 
+$meta_description = "Check mjpru result 2023 by name for UG and PG exams. Access the official 2023 Mahatma Jyotiba Phule Rohilkhand University (MJPRU) archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Mahatma Jyotiba Phule
                 Rohilkhand University (MJPRU Bareilly). Official university mirrors and name-wise archival links updated
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "11th class result - Official All-India Board Mirror";
-$meta_description = "Check 11th class result online. Access the results for Class 11 (Part 1) for various state boards including JKBOSE, BIEAP, and others for the 2024 session.";
-$meta_keywords = "11th class result, check class 11 results online, official board 11th link, 11th class examination results 2024 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "11th class result - Official All-India Board Mirror"; 
+$meta_description = "Check 11th class result online. Access the results for Class 11 (Part 1) for various state boards including JKBOSE, BIEAP, and others for the 2024 session."; 
+$meta_keywords = "11th class result, check class 11 results online, official board 11th link, 11th class examination results 2024 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

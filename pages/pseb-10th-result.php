@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "PSEB 10th Result 2024 - Punjab School Education Board Updates";
-$meta_description = "Check PSEB 10th Result 2024 online. Access Punjab Board 10th class result dates, merit lists, and official scores at pseb.ac.in.";
-$meta_keywords = "pseb 10th result, punjab board 10th result 2024, pseb matric result, punjab school education board results, pseb results date";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "PSEB 10th Result 2024 - Punjab School Education Board Updates"; 
+$meta_description = "Check PSEB 10th Result 2024 online. Access Punjab Board 10th class result dates, merit lists, and official scores at pseb.ac.in."; 
+$meta_keywords = "pseb 10th result, punjab board 10th result 2024, pseb matric result, punjab school education board results, pseb results date"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "class 10 result 2022 rajasthan board - Official RBSE Mirror";
-$meta_description = "Check class 10 result 2022 rajasthan board online. Access the historical Secondary (Class 10) results for Board of Secondary Education Rajasthan (RBSE).";
-$meta_keywords = "class 10 result 2022 rajasthan board, check rbse 10th result 2022 online, official rajasthan matric 2022 link, rajresults nic in 2022 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "class 10 result 2022 rajasthan board - Official RBSE Mirror"; 
+$meta_description = "Check class 10 result 2022 rajasthan board online. Access the historical Secondary (Class 10) results for Board of Secondary Education Rajasthan (RBSE)."; 
+$meta_keywords = "class 10 result 2022 rajasthan board, check rbse 10th result 2022 online, official rajasthan matric 2022 link, rajresults nic in 2022 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

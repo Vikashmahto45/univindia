@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia University - Official राजस्थान पोर्टल Guide";
-$meta_description = "Univindia University is the core digital portal for MGSU, RRBMU, and MSBU. Comprehensive guide to university results, forms, and student services.";
-$meta_keywords = "Univindia University - Official राजस्थान पोर्टल Guide";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia University - Official राजस्थान पोर्टल Guide"; 
+$meta_description = "Univindia University is the core digital portal for MGSU, RRBMU, and MSBU. Comprehensive guide to university results, forms, and student services."; 
+$meta_keywords = "Univindia University - Official राजस्थान पोर्टल Guide"; 
 ?>
 
 <main class="container">
@@ -55,5 +54,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

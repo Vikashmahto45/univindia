@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indiaresult raj - Official Rajasthan Board Hub";
-$meta_description = "Check Rajasthan Board result on indiaresult raj. Access official Rajasthan 10th & 12th scorecards on indiaresults archival portal for RBSE exams.";
-$keyword = "indiaresult raj";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indiaresult raj - Official Rajasthan Board Hub"; 
+$meta_description = "Check Rajasthan Board result on indiaresult raj. Access official Rajasthan 10th & 12th scorecards on indiaresults archival portal for RBSE exams."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Rajasthan examination results spanning
                 various academic sessions. Access official Rajasthan (RBSE) board mirrors and archival links updated for
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

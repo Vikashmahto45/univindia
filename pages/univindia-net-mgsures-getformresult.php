@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSURES GetFormResult - MGSU Bikaner Result Retrieval Portal";
-$meta_description = "Use Univindia Net MGSURES GetFormResult to retrieve your university scores. Official guide to accessing Maharaja Ganga Singh University marksheets online.";
-$meta_keywords = "Univindia Net MGSURES GetFormResult - MGSU Bikaner Result Retrieval Portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSURES GetFormResult - MGSU Bikaner Result Retrieval Portal"; 
+$meta_description = "Use Univindia Net MGSURES GetFormResult to retrieve your university scores. Official guide to accessing Maharaja Ganga Singh University marksheets online."; 
+$meta_keywords = "Univindia Net MGSURES GetFormResult - MGSU Bikaner Result Retrieval Portal"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

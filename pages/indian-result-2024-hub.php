@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indian result 2024 - Official National Board Mirror";
-$meta_description = "Check indian result 2024 online. Access the latest results for all Indian State Boards (CBSE, ICSE, UP, Bihar, etc.) for the 2024 session.";
-$meta_keywords = "indian result 2024, check all board results 2024 online, official national results link, indiaresults 2024 search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "indian result 2024 - Official National Board Mirror"; 
+$meta_description = "Check indian result 2024 online. Access the latest results for all Indian State Boards (CBSE, ICSE, UP, Bihar, etc.) for the 2024 session."; 
+$meta_keywords = "indian result 2024, check all board results 2024 online, official national results link, indiaresults 2024 search"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

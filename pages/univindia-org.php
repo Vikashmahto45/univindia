@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Org - Raj Rishi Bhartrihari Matsya University Result Portal";
-$meta_description = "Univindia Org is the primary portal for RRBMU Alwar (Matsya University) results and admit cards. Guide to using Univindia.org for Alwar university students.";
-$meta_keywords = "univindia org";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Org - Raj Rishi Bhartrihari Matsya University Result Portal"; 
+$meta_description = "Univindia Org is the primary portal for RRBMU Alwar (Matsya University) results and admit cards. Guide to using Univindia.org for Alwar university students."; 
+$meta_keywords = "univindia org"; 
 ?>
 
 <main class="container">
@@ -49,5 +48,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

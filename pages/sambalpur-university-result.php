@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Sambalpur University Result - Official UG/PG Semester Portal";
-$meta_description = "Check Sambalpur University Result for BA, BSc, BCom, and Semester examinations. Access the official university results, plus three marks, and merit list online.";
-$meta_keywords = "sambalpur university result, check sambalpur university +3 result, sambalpur university semester result, suniv.ac.in result, university result odisha, plus three results sambalpur";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Sambalpur University Result - Official UG/PG Semester Portal"; 
+$meta_description = "Check Sambalpur University Result for BA, BSc, BCom, and Semester examinations. Access the official university results, plus three marks, and merit list online."; 
+$meta_keywords = "sambalpur university result, check sambalpur university +3 result, sambalpur university semester result, suniv.ac.in result, university result odisha, plus three results sambalpur"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

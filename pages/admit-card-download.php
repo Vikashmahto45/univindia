@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal";
-$page_description = "Universal Portal for Admit Card Download 2025. Get direct links for Railway, SSC, Banking, and University Exam Hall Tickets. 800+ words of technical guide.";
-$page_keywords = "admit card download 2025, Govt Exam Hall Ticket Link, Download Call Letter Online, sarkari result admit card download, center city intimation slip 2025";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -148,7 +146,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> University Download Portals</h3>
                 <div class="row g-3">
-                    <?php
                     $univs = [
                         'mjpru-admit-card.php' => 'MJPRU Bareilly Admit Card',
                         'davv-admit-card.php' => 'DAVV Indore Hall Ticket',
@@ -162,7 +159,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -196,5 +192,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

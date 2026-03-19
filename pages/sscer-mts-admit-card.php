@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online";
-$meta_description = "Download SSCER MTS Admit Card 2024 for Eastern Region. Check SSC Multi-Tasking Staff & Havaldar application status, exam date, and center list at sscer.org.";
-$meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket, sscer.org mts status, ssc mts admit card kolkata, ssc havladar admit card eastern region";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online"; 
+$meta_description = "Download SSCER MTS Admit Card 2024 for Eastern Region. Check SSC Multi-Tasking Staff & Havaldar application status, exam date, and center list at sscer.org."; 
+$meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket, sscer.org mts status, ssc mts admit card kolkata, ssc havladar admit card eastern region"; 
 ?>
 
 <div class="container main-content">
@@ -106,5 +104,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

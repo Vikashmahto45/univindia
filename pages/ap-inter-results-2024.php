@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "AP Inter Results 2024 - BIEAP 1st & 2nd Year Results Gateway";
-$meta_description = "Check AP Inter Results 2024 online. Access BIEAP 1st and 2nd year results, marks memos, and official updates at bie.ap.gov.in.";
-$meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap, 2nd year results ap, ap intermediate marks memo";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "AP Inter Results 2024 - BIEAP 1st & 2nd Year Results Gateway"; 
+$meta_description = "Check AP Inter Results 2024 online. Access BIEAP 1st and 2nd year results, marks memos, and official updates at bie.ap.gov.in."; 
+$meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap, 2nd year results ap, ap intermediate marks memo"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

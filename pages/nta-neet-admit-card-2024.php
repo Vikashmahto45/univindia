@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "NTA NEET Admit Card 2024 Download - National Testing Agency Hall Ticket | Univindia.online";
-$meta_description = "Download NTA NEET Admit Card 2024. Get the direct link for National Testing Agency NEET (UG) 2024 examination hall tickets at exams.nta.ac.in/NEET.";
-$meta_keywords = "nta neet admit card 2024 download, nta neet hall ticket 2024 download, neet.nta.nic.in login 2024, nta neet exam date 2024 download, medical entrance call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "NTA NEET Admit Card 2024 Download - National Testing Agency Hall Ticket | Univindia.online"; 
+$meta_description = "Download NTA NEET Admit Card 2024. Get the direct link for National Testing Agency NEET (UG) 2024 examination hall tickets at exams.nta.ac.in/NEET."; 
+$meta_keywords = "nta neet admit card 2024 download, nta neet hall ticket 2024 download, neet.nta.nic.in login 2024, nta neet exam date 2024 download, medical entrance call letter"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

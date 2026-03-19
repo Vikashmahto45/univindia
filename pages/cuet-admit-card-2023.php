@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "CUET Admit Card 2023 Download - NTA Common University Entrance Test Hall Ticket | Univindia.online";
-$meta_description = "Download CUET Admit Card 2023. Get the direct link for NTA CUET UG/PG entrance examination hall tickets at cuet.samarth.ac.in.";
-$meta_keywords = "cuet admit card 2023, nta cuet hall ticket download, cuet.samarth.ac.in admit card login, cuet pg admit card 2023, common university entrance test call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CUET Admit Card 2023 Download - NTA Common University Entrance Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download CUET Admit Card 2023. Get the direct link for NTA CUET UG/PG entrance examination hall tickets at cuet.samarth.ac.in."; 
+$meta_keywords = "cuet admit card 2023, nta cuet hall ticket download, cuet.samarth.ac.in admit card login, cuet pg admit card 2023, common university entrance test call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

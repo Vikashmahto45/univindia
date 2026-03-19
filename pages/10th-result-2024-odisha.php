@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "10th Result 2024 Odisha - official BSE Odisha HSC Results Portal";
-$meta_description = "Check 10th Result 2024 Odisha for official High School Certificate (HSC) board examinations. Access the latest BSE Odisha matric result news, dates, and merit lists.";
-$meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha matric result 2024 date, orissaresults.nic.in 2024 hsc, bseodisha.ac.in hsc results 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "10th Result 2024 Odisha - official BSE Odisha HSC Results Portal"; 
+$meta_description = "Check 10th Result 2024 Odisha for official High School Certificate (HSC) board examinations. Access the latest BSE Odisha matric result news, dates, and merit lists."; 
+$meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha matric result 2024 date, orissaresults.nic.in 2024 hsc, bseodisha.ac.in hsc results 2024"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

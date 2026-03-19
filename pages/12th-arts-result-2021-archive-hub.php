@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12th arts result 2021 - Official National Arts Result Archive";
-$meta_description = "Check 12th arts result 2021 for all state and central boards. Access the official 2021 Class 12th Arts result portal on indiaresults for archive access.";
-$keyword = "12th arts result 2021";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12th arts result 2021 - Official National Arts Result Archive"; 
+$meta_description = "Check 12th arts result 2021 for all state and central boards. Access the official 2021 Class 12th Arts result portal on indiaresults for archive access."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 Higher Secondary (Class 12th) results for the Arts
                 stream across all Indian boards. Official archival links updated for the 2021 session.</p>
@@ -115,4 +113,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

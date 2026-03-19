@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "www.indiaresults.com 2023 - Verified 2023 National Result Portal";
-$meta_description = "Check www.indiaresults.com 2023 for all secondary and senior secondary exams. Access the official 2023 national academic result archive on indiaresults.";
-$keyword = "www.indiaresults.com 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "www.indiaresults.com 2023 - Verified 2023 National Result Portal"; 
+$meta_description = "Check www.indiaresults.com 2023 for all secondary and senior secondary exams. Access the official 2023 national academic result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified digital archive for the 2023 academic examination cycle. Access
                 verified results for state boards and central universities across India for the 2023 batch.</p>
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

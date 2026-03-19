@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india ruselt. com - Official National Examination Result Hub";
-$meta_description = "Check india ruselt. com (indiaresults) for all major board, university, and competitive exams. Access the official national results portal on indiaresults.";
-$keyword = "india ruselt. com";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india ruselt. com - Official National Examination Result Hub"; 
+$meta_description = "Check india ruselt. com (indiaresults) for all major board, university, and competitive exams. Access the official national results portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for academic and competitive results across
                 the entire nation. Official mirrors and portal links updated for the latest examination sessions.</p>
@@ -116,4 +114,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

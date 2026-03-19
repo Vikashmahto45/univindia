@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisharesult.nic.in 2022 - Official Odisha 2022 Result Hub";
-$meta_description = "Check Odisha Board result 2022 on odisharesult.nic.in 2022. Access official Odisha 10th & 12th scorecards and 2022 archival links on indiaresults portal.";
-$keyword = "odisharesult.nic.in 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisharesult.nic.in 2022 - Official Odisha 2022 Result Hub"; 
+$meta_description = "Check Odisha Board result 2022 on odisharesult.nic.in 2022. Access official Odisha 10th & 12th scorecards and 2022 archival links on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Odisha examination results of the 2022
                 academic session. Access official Odisha board mirrors and 2022 archival links updated for batch
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

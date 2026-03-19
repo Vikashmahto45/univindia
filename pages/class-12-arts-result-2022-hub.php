@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "class 12 arts result 2022 - Official National Archive Gateway";
-$meta_description = "Check class 12 arts result 2022 for all major boards including RBSE, UP, and more. Access the official 2022 Senior Secondary Arts result hub on indiaresults.";
-$keyword = "class 12 arts result 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "class 12 arts result 2022 - Official National Archive Gateway"; 
+$meta_description = "Check class 12 arts result 2022 for all major boards including RBSE, UP, and more. Access the official 2022 Senior Secondary Arts result hub on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 Senior Secondary (Class 12th) results for the Arts
                 stream across all major state and central boards. Direct links and mirrors updated.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "arts 12th result 2023 - Official National Board Mirror";
-$meta_description = "Check arts 12th result 2023 online. Access the historical results for all Indian State Boards (RBSE, JAC, CHSE, etc.) Class 12 Arts for the 2023 session.";
-$meta_keywords = "arts 12th result 2023, check class 12 arts result 2023 online, official board results link, indiaresults 12th arts search 2023";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "arts 12th result 2023 - Official National Board Mirror"; 
+$meta_description = "Check arts 12th result 2023 online. Access the historical results for all Indian State Boards (RBSE, JAC, CHSE, etc.) Class 12 Arts for the 2023 session."; 
+$meta_keywords = "arts 12th result 2023, check class 12 arts result 2023 online, official board results link, indiaresults 12th arts search 2023"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

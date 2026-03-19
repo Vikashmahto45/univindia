@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online";
-$meta_description = "Download NDA Admit Card 2022. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) 2022 examination hall tickets at upsc.gov.in.";
-$meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1 2022 admit card link, nda 2 2022 admit card, naval academy call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online"; 
+$meta_description = "Download NDA Admit Card 2022. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) 2022 examination hall tickets at upsc.gov.in."; 
+$meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1 2022 admit card link, nda 2 2022 admit card, naval academy call letter"; 
 ?>
 
 <div class="container main-content">
@@ -96,5 +94,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

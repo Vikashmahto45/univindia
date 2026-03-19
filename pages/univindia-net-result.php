@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net Result - Check University Exam Results Online";
-$meta_description = "Check your MGSU, RRBMU, and other university results on Univindia Net. Complete guide to finding your marksheets, checking revaluation results, and more.";
-$meta_keywords = "univindia net result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net Result - Check University Exam Results Online"; 
+$meta_description = "Check your MGSU, RRBMU, and other university results on Univindia Net. Complete guide to finding your marksheets, checking revaluation results, and more."; 
+$meta_keywords = "univindia net result"; 
 ?>
 
 <main class="container">
@@ -53,5 +52,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

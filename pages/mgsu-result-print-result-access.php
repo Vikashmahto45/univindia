@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "MGSU Result PrintResult PHP - Bikaner University Score Retrieval Gateway";
-$meta_description = "Use the MGSU Result PrintResult PHP gateway to access your university scores. Official guide to the printresult.php technical script on Univindia Net.";
-$meta_keywords = "MGSU Result PrintResult PHP - Bikaner University Score Retrieval Gateway";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "MGSU Result PrintResult PHP - Bikaner University Score Retrieval Gateway"; 
+$meta_description = "Use the MGSU Result PrintResult PHP gateway to access your university scores. Official guide to the printresult.php technical script on Univindia Net."; 
+$meta_keywords = "MGSU Result PrintResult PHP - Bikaner University Score Retrieval Gateway"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

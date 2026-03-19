@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "indiaresults.com 2019 - Official National 2019 Results Hub";
-$meta_description = "Check all board results on indiaresults.com 2019. Access the official indiaresults gateway for 10th & 12th scorecards of the 2019 academic session.";
-$keyword = "indiaresults.com 2019";
-
 include '../header.php'; 
+$page_title = "indiaresults.com 2019 - Official National 2019 Results Hub"; 
+$meta_description = "Check all board results on indiaresults.com 2019. Access the official indiaresults gateway for 10th & 12th scorecards of the 2019 academic session."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for all examination results of the 2019 academic session across India. Access official board mirrors and direct result links for all participating state boards for the 2019 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2019 Result Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

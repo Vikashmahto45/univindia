@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online";
-$meta_description = "Download WB Food SI Admit Card 2024. Get the direct link for WBPSC Food Sub-Inspector examination status, exam dates, and hall ticket at psc.wb.gov.in.";
-$meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food sub inspector admit card west bengal, psc wb gov in admit card, food si exam date 2024";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online"; 
+$meta_description = "Download WB Food SI Admit Card 2024. Get the direct link for WBPSC Food Sub-Inspector examination status, exam dates, and hall ticket at psc.wb.gov.in."; 
+$meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food sub inspector admit card west bengal, psc wb gov in admit card, food si exam date 2024"; 
 ?>
 
 <div class="container main-content">
@@ -90,5 +88,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

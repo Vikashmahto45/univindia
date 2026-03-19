@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "12th arts result 2022 name wise - Official National 2022 Archive";
-$meta_description = "Check 12th arts result 2022 by name for all state boards. Access the official national Class 12 Arts archival result portal on indiaresults.";
-$keyword = "12th arts result 2022 name wise";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "12th arts result 2022 name wise - Official National 2022 Archive"; 
+$meta_description = "Check 12th arts result 2022 by name for all state boards. Access the official national Class 12 Arts archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary) Arts stream
                 examination results across India with name-wise search for the 2022 academic session. Official board
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

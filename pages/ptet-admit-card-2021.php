@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online";
-$meta_description = "Download PTET Admit Card 2021. Get the direct link for Rajasthan PTET 4-Year BA B.Ed / BSc B.Ed and 2-Year B.Ed recruitment entrance exam hall tickets at ptetraj2021.com.";
-$meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, ptetraj2021.com admit card link, ptet exam 2021 admit card download, raj ptet hall ticket";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download PTET Admit Card 2021. Get the direct link for Rajasthan PTET 4-Year BA B.Ed / BSc B.Ed and 2-Year B.Ed recruitment entrance exam hall tickets at ptetraj2021.com."; 
+$meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, ptetraj2021.com admit card link, ptet exam 2021 admit card download, raj ptet hall ticket"; 
 ?>
 
 <div class="container main-content">
@@ -97,5 +95,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

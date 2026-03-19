@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india board result - Official National Results Hub";
-$meta_description = "Check all state board results on india board result. Access official indiaresults gateway for 10th & 12th results of all state boards across India.";
-$keyword = "india board result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india board result - Official National Results Hub"; 
+$meta_description = "Check all state board results on india board result. Access official indiaresults gateway for 10th & 12th results of all state boards across India."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all examination results of all state education
                 boards across India. Access official board mirrors and direct result links for all participating state
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "BSTC Admit Card 2021 Download - Rajasthan Pre-DElEd Exam Hall Ticket Link | Univindia.online";
-$meta_description = "Download BSTC Admit Card 2021. Get the direct link for Rajasthan Pre-DElEd (BSTC) entrance examination hall tickets at panjiyakpredeled.in and university archives.";
-$meta_keywords = "bstc admit card 2021, rajasthan bstc hall ticket download, panjiyakpredeled.in 2021 admit card, bstc exam 2021 admit card link, raj bstc hall ticket";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "BSTC Admit Card 2021 Download - Rajasthan Pre-DElEd Exam Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download BSTC Admit Card 2021. Get the direct link for Rajasthan Pre-DElEd (BSTC) entrance examination hall tickets at panjiyakpredeled.in and university archives."; 
+$meta_keywords = "bstc admit card 2021, rajasthan bstc hall ticket download, panjiyakpredeled.in 2021 admit card, bstc exam 2021 admit card link, raj bstc hall ticket"; 
 ?>
 
 <div class="container main-content">
@@ -97,5 +95,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

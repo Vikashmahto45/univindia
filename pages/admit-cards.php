@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Admit Cards - Univindia.online Hall Ticket Portal";
-$meta_description = "Download latest admit cards and hall tickets for competitive exams, university semesters, and board tests at Univindia.online.";
-$meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Admit Cards - Univindia.online Hall Ticket Portal"; 
+$meta_description = "Download latest admit cards and hall tickets for competitive exams, university semesters, and board tests at Univindia.online."; 
+$meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket"; 
 ?>
 
 <div class="container" style="margin-top: 30px;">
@@ -16,7 +15,6 @@ include '../includes/header.php';
         </div>
 
         <div class="keyword-grid" id="fullKeywordGrid">
-            <?php
             $keywords = file('keyword.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
             $found = false;
             foreach ($keywords as $keyword) {
@@ -30,7 +28,6 @@ include '../includes/header.php';
                 }
             }
             if (!$found) echo "<p>No admit cards are currently listed. Please check back later.</p>";
-            ?>
         </div>
     </div>
 </div>
@@ -54,5 +51,4 @@ function filterLinks() {
 }
 </script>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

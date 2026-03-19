@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 8 - Official National Middle School result Hub";
-$meta_description = "Check India Result 8 online. Access the high-speed national and state board Class 8 result verification framework. Official marks link cluster.";
-$meta_keywords = "india result 8, check class 8 board results online india, high speed 8th result portal, official india result 8 link, rbse class 8 result 2024 indiaresults";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 8 - Official National Middle School result Hub"; 
+$meta_description = "Check India Result 8 online. Access the high-speed national and state board Class 8 result verification framework. Official marks link cluster."; 
+$meta_keywords = "india result 8, check class 8 board results online india, high speed 8th result portal, official india result 8 link, rbse class 8 result 2024 indiaresults"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

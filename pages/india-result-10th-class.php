@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 10th Class - Official National Board Mirror";
-$meta_description = "Check India Result 10th Class online. Access the historical Rajasthan, Punjab, UP, and All-India State Board Secondary results via the official mirror.";
-$meta_keywords = "india result 10th class, check rajasthan board 10th result online, check punjab board 10th result, official 10th class result link, indiaresults 10th class";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 10th Class - Official National Board Mirror"; 
+$meta_description = "Check India Result 10th Class online. Access the historical Rajasthan, Punjab, UP, and All-India State Board Secondary results via the official mirror."; 
+$meta_keywords = "india result 10th class, check rajasthan board 10th result online, check punjab board 10th result, official 10th class result link, indiaresults 10th class"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

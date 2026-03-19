@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "sgbau result - Official Sant Gadge Baba Amravati University Portal";
-$meta_description = "Check sgbau result for BA, BSc, BCom, MA, MSc, and Engineering exams. Access the official Sant Gadge Baba Amravati University (SGBAU) result gateway on indiaresults for the latest updates.";
-$keyword = "sgbau result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "sgbau result - Official Sant Gadge Baba Amravati University Portal"; 
+$meta_description = "Check sgbau result for BA, BSc, BCom, MA, MSc, and Engineering exams. Access the official Sant Gadge Baba Amravati University (SGBAU) result gateway on indiaresults for the latest updates."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official semester and annual examination results for Sant
                 Gadge Baba Amravati University (SGBAU).</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

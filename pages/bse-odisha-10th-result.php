@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "BSE Odisha 10th Result - Official Odisha Matric Hub";
-$meta_description = "Check BSE Odisha 10th Result online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) results. Official merit link.";
-$meta_keywords = "bse odisha 10th result, check bse odisha matric result online, bseodisha.ac.in results, official bse odisha hsc link, indiaresult bse odisha 10th";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "BSE Odisha 10th Result - Official Odisha Matric Hub"; 
+$meta_description = "Check BSE Odisha 10th Result online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) results. Official merit link."; 
+$meta_keywords = "bse odisha 10th result, check bse odisha matric result online, bseodisha.ac.in results, official bse odisha hsc link, indiaresult bse odisha 10th"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

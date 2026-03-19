@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "hslc result 2022 assam - Official SEBA Mirror";
-$meta_description = "Check hslc result 2022 assam online. Access the historical results for Board of Secondary Education Assam (SEBA) Class 10 for the 2022 session.";
-$meta_keywords = "hslc result 2022 assam, check seba class 10 result 2022 online, official assam hslc link, sebaonline org results 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "hslc result 2022 assam - Official SEBA Mirror"; 
+$meta_description = "Check hslc result 2022 assam online. Access the historical results for Board of Secondary Education Assam (SEBA) Class 10 for the 2022 session."; 
+$meta_keywords = "hslc result 2022 assam, check seba class 10 result 2022 online, official assam hslc link, sebaonline org results 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

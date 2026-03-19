@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in";
-$page_description = "Download RPF Constable Admit Card 2024-25. Get direct link for Railway Protection Force Hall Ticket, Exam Schedule, and CBT stage details. 800+ words of in-depth guide.";
-$page_keywords = "RPF Constable Admit Card 2024, RPF Constable Hall Ticket Download, Railway Protection Force Admit Card, RPF CBT 1 Admit Card, rpf.indianrailways.gov.in admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -152,7 +150,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-train me-2"></i> Railway Recruitment Hall Tickets</h3>
                 <div class="row g-3">
-                    <?php
                     $railway = [
                         'rrb-group-d-admit-card.php' => 'RRB Group D Hall Ticket',
                         'rpf-si-admit-card.php' => 'RPF SI Admit Card',
@@ -166,7 +163,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -200,5 +196,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

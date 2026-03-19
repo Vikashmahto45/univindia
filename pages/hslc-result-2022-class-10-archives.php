@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "hslc result 2022 class 10 - Official secondary 2022 Archive";
-$meta_description = "Check hslc result 2022 class 10 for SEBA and BSEM exams. Access the official 2022 HSLC (Class 10) archival result portal on indiaresults.";
-$keyword = "hslc result 2022 class 10";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "hslc result 2022 class 10 - Official secondary 2022 Archive"; 
+$meta_description = "Check hslc result 2022 class 10 for SEBA and BSEM exams. Access the official 2022 HSLC (Class 10) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 10th (HSLC/Secondary)
                 for Assam and Manipur boards. Official SEBA and BSEM mirrors updated for the 2022 batch verification.
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in";
-$page_description = "Check RRB NTPC Admit Card Date 2025. Get the latest release schedule for Railway NTPC Hall Ticket, CBT 1 Exam Date, and center city intimation. 800+ words of detailed analysis.";
-$page_keywords = "RRB NTPC Admit Card Date 2025, Railway NTPC Hall Ticket Release Date, RRB NTPC Level 2 3 5 6 Admit Card, rrb ntpc cbt 1 exam date 2025, rrbcdg.gov.in ntpc hall ticket";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -135,7 +133,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marker-alt me-2"></i> Regional RRB Portals</h3>
                 <div class="row g-3">
-                    <?php
                     $regions = [
                         'rrb-patna-admit-card.php' => 'RRB Patna Admit Card',
                         'rrb-allahabad-admit-card.php' => 'RRB Allahabad Call Letter',
@@ -149,7 +146,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -183,5 +179,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

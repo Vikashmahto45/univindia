@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "SSC Admit Card CGL - Download Tier 1 & 2 Hall Tickets";
-$meta_description = "SSC Admit Card CGL Download. Access region-wise direct links to download your SSC Combined Graduate Level (CGL) examination hall ticket.";
-$meta_keywords = "ssc admit card cgl, ssc cgl hall ticket, download cgl admit card, ssc cgl tier 1 admit card download";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "SSC Admit Card CGL - Download Tier 1 & 2 Hall Tickets"; 
+$meta_description = "SSC Admit Card CGL Download. Access region-wise direct links to download your SSC Combined Graduate Level (CGL) examination hall ticket."; 
+$meta_keywords = "ssc admit card cgl, ssc cgl hall ticket, download cgl admit card, ssc cgl tier 1 admit card download"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">More SSC Resources</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "ssc admit card cgl";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

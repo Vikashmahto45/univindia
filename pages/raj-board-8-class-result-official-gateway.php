@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "raj board 8 class result - Official BSER Rajasthan Class 8 Gateway";
-$meta_description = "Check raj board 8 class result for BSER Elementary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults.";
-$keyword = "raj board 8 class result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "raj board 8 class result - Official BSER Rajasthan Class 8 Gateway"; 
+$meta_description = "Check raj board 8 class result for BSER Elementary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for the Elementary (Class 8th) results for
                 Rajasthan. Official BSER Ajmer mirrors and portal links updated for the latest academic batch.</p>
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

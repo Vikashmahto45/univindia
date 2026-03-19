@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 10th 2023 bihar board - Official Bihar 10th Hub";
-$meta_description = "Check Bihar Board 10th result 2023 on india result 10th 2023 bihar board. Access official BSEB Matric 2023 archival scorecards on indiaresults portal.";
-$keyword = "india result 10th 2023 bihar board";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 10th 2023 bihar board - Official Bihar 10th Hub"; 
+$meta_description = "Check Bihar Board 10th result 2023 on india result 10th 2023 bihar board. Access official BSEB Matric 2023 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for Bihar School Examination Board (BSEB) Class 10th
                 (Matric) examination results for the 2023 session. Access official Bihar board mirrors and historical
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

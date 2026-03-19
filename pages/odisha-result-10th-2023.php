@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Odisha Result 10th 2023 - Official BSE Odisha Matrix archive";
-$meta_description = "Check Odisha Result 10th 2023 online. Access the historical Board of Secondary Education (BSE) Odisha matric results for the 2023 session. Official marks link.";
-$meta_keywords = "odisha result 10th 2023, check bse odisha matric result 2023 online, orissaresults.nic.in 10th 2023, official 2023 odisha 10th link, indiaresult bse odisha";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Odisha Result 10th 2023 - Official BSE Odisha Matrix archive"; 
+$meta_description = "Check Odisha Result 10th 2023 online. Access the historical Board of Secondary Education (BSE) Odisha matric results for the 2023 session. Official marks link."; 
+$meta_keywords = "odisha result 10th 2023, check bse odisha matric result 2023 online, orissaresults.nic.in 10th 2023, official 2023 odisha 10th link, indiaresult bse odisha"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

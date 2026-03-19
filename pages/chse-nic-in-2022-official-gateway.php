@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "chse.nic.in 2022 result - Official Odisha +2 Hub";
-$meta_description = "Check Odisha Board +2 result 2022 on chse.nic.in 2022 result. Access official CHSE Odisha Plus Two 2022 archival scorecards on indiaresults portal.";
-$keyword = "chse.nic.in 2022 result";
-
 include '../header.php'; 
+$page_title = "chse.nic.in 2022 result - Official Odisha +2 Hub"; 
+$meta_description = "Check Odisha Board +2 result 2022 on chse.nic.in 2022 result. Access official CHSE Odisha Plus Two 2022 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Council of Higher Secondary Education (CHSE), Odisha Class 12th (+2) examination results for the 2022 academic session. Access official Odisha board mirrors and 2022 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 +2 Archive</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

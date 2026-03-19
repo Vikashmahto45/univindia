@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "name wise result rbse - Official Rajasthan Board Search Hub";
-$meta_description = "Check name wise result rbse for 10th and 12th board exams. Access the official Rajasthan (RBSE) name-based result portal on indiaresults.";
-$keyword = "name wise result rbse";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "name wise result rbse - Official Rajasthan Board Search Hub"; 
+$meta_description = "Check name wise result rbse for 10th and 12th board exams. Access the official Rajasthan (RBSE) name-based result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest academic results for Rajasthan by student name.
                 Official BSER mirrors and name-wise search portals updated for 10th and 12th boards.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

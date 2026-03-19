@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Odisha +2 Results 2022 Arts - Historical CHSE Odisha archive";
-$meta_description = "Check Odisha +2 Results 2022 Arts online. Access the historical Council of Higher Secondary Education (CHSE) Odisha results for the 2022 session. Official Link.";
-$meta_keywords = "odisha +2 results 2022 arts, check chse odisha 12th arts result 2022 online, orissaresults.nic.in 2022 arts, official 2022 odisha plus two link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Odisha +2 Results 2022 Arts - Historical CHSE Odisha archive"; 
+$meta_description = "Check Odisha +2 Results 2022 Arts online. Access the historical Council of Higher Secondary Education (CHSE) Odisha results for the 2022 session. Official Link."; 
+$meta_keywords = "odisha +2 results 2022 arts, check chse odisha 12th arts result 2022 online, orissaresults.nic.in 2022 arts, official 2022 odisha plus two link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

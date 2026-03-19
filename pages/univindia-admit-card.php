@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Admit Card - Download University Hall Tickets Online";
-$meta_description = "Univindia Admit Card is the official document for MGSU, RRBMU, and MSBU exams. Complete guide to downloading and printing your university admit card.";
-$meta_keywords = "univindia admit card";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Admit Card - Download University Hall Tickets Online"; 
+$meta_description = "Univindia Admit Card is the official document for MGSU, RRBMU, and MSBU exams. Complete guide to downloading and printing your university admit card."; 
+$meta_keywords = "univindia admit card"; 
 ?>
 
 <main class="container">
@@ -59,5 +58,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

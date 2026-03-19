@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSC CHSL Tier 1 Admit Card 2024 - Download Exam Date & Status | Univindia.online";
-$meta_description = "SSC CHSL Admit Card 2024 for Tier 1 released. Check your SSC CHSL application status, exam date, city intimation and download hall ticket from regional websites.";
-$meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 hall ticket, ssc chsl status 2024, ssc chsl exam date, ssc.gov.in chsl admit card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC CHSL Tier 1 Admit Card 2024 - Download Exam Date & Status | Univindia.online"; 
+$meta_description = "SSC CHSL Admit Card 2024 for Tier 1 released. Check your SSC CHSL application status, exam date, city intimation and download hall ticket from regional websites."; 
+$meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 hall ticket, ssc chsl status 2024, ssc chsl exam date, ssc.gov.in chsl admit card"; 
 ?>
 
 <div class="container main-content">
@@ -109,5 +107,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

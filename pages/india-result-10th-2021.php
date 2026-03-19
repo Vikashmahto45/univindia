@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india result 10th 2021 - Official National Board Mirror";
-$meta_description = "Check india result 10th 2021 online. Access the historical results for all Indian State Boards for the 2021 Matric session.";
-$meta_keywords = "india result 10th 2021, check 10th result 2021 online, official indiaresults 10th link, national matric results 2021 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india result 10th 2021 - Official National Board Mirror"; 
+$meta_description = "Check india result 10th 2021 online. Access the historical results for all Indian State Boards for the 2021 Matric session."; 
+$meta_keywords = "india result 10th 2021, check 10th result 2021 online, official indiaresults 10th link, national matric results 2021 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

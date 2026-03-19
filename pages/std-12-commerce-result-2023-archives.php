@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "std 12 commerce result 2023 - Official National 12th Commerce Hub";
-$meta_description = "Check Class 12 Commerce result 2023 for all state boards on std 12 commerce result 2023. Access the official 12th archival scorecards on indiaresults.";
-$keyword = "std 12 commerce result 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "std 12 commerce result 2023 - Official National 12th Commerce Hub"; 
+$meta_description = "Check Class 12 Commerce result 2023 for all state boards on std 12 commerce result 2023. Access the official 12th archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary) Commerce
                 stream examination results for the 2023 academic session. Official board mirrors and 2023 archival links
@@ -126,4 +124,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

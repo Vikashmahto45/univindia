@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "8th class result 2023 punjab board roll number link - Official PSEB Portal";
-$meta_description = "Check 8th class result 2023 punjab board roll number link. Access the official Punjab School Education Board (PSEB) Middle Exam results on indiaresults for fast checking.";
-$keyword = "8th class result 2023 punjab board roll number link";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "8th class result 2023 punjab board roll number link - Official PSEB Portal"; 
+$meta_description = "Check 8th class result 2023 punjab board roll number link. Access the official Punjab School Education Board (PSEB) Middle Exam results on indiaresults for fast checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the official 2023 Middle Examination (8th Class) results for the
                 Punjab School Education Board (PSEB). Direct roll number gateways updated.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

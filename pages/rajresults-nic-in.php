@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Rajresults.nic.in - Official Rajasthan Board Results Portal 2024";
-$meta_description = "Check Rajresults.nic.in for official RBSE 10th and 12th results. Access the primary results gateway for Rajasthan Board examinations with direct links and updates.";
-$meta_keywords = "rajresults nic in, rajresults 2024, rajasthan board result 2024, rbse 10th result rajresults, rbse 12th result rajresults";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Rajresults.nic.in - Official Rajasthan Board Results Portal 2024"; 
+$meta_description = "Check Rajresults.nic.in for official RBSE 10th and 12th results. Access the primary results gateway for Rajasthan Board examinations with direct links and updates."; 
+$meta_keywords = "rajresults nic in, rajresults 2024, rajasthan board result 2024, rbse 10th result rajresults, rbse 12th result rajresults"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

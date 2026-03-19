@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC GD Admit Card 2024-25 for Constable GD in BSF, CRPF, SSB, and CISF. Get direct link for SSC GD Hall Ticket, Exam Schedule, and Region Wise Status. 800+ words.";
-$page_keywords = "SSC GD Admit Card 2024, SSC GD Hall Ticket Download, ssc.gov.in gd admit card link, SSC GD Exam Date 2025, SSC GD Constable Exam Status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -143,7 +141,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> CAPF Selection Links</h3>
                 <div class="row g-3">
-                    <?php
                     $capf_links = [
                         'bsf-admit-card.php' => 'BSF Constable GD Status',
                         'crpf-admit-card.php' => 'CRPF Tradesman Call Letter',
@@ -157,7 +154,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -191,5 +187,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

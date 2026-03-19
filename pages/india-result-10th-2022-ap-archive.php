@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 10th 2022 ap - Official Andhra Pradesh SSC Archive Portal";
-$meta_description = "Check india result 10th 2022 ap for Secondary (SSC) examinations. Access the official 2022 Andhra Pradesh (BSEAP) result archive on indiaresults.";
-$keyword = "india result 10th 2022 ap";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 10th 2022 ap - Official Andhra Pradesh SSC Archive Portal"; 
+$meta_description = "Check india result 10th 2022 ap for Secondary (SSC) examinations. Access the official 2022 Andhra Pradesh (BSEAP) result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 Secondary School Certificate (Class 10th) results for
                 Andhra Pradesh. Official BSEAP mirrors and archival links updated for the 2022 session.</p>
@@ -114,4 +112,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Orissa Result - Official Odisha Board examination Portal";
-$meta_description = "Check Orissa Result online. Access the high-speed BSE Odisha 10th and CHSE Odisha 12th results. Official Orissa marks link cluster.";
-$meta_keywords = "orissa result, check bse odisha 10th result online, chse odisha results 2024, official orissa result link, orissaresults nic in 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Orissa Result - Official Odisha Board examination Portal"; 
+$meta_description = "Check Orissa Result online. Access the high-speed BSE Odisha 10th and CHSE Odisha 12th results. Official Orissa marks link cluster."; 
+$meta_keywords = "orissa result, check bse odisha 10th result online, chse odisha results 2024, official orissa result link, orissaresults nic in 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

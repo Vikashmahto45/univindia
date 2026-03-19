@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "hslc results 2022 - Official High School Leaving Archive";
-$meta_description = "Check hslc results 2022 for Class 10th examinations across all state boards (Assam, Manipur, etc). Access the official 2022 HSLC result archive on indiaresults.";
-$keyword = "hslc results 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "hslc results 2022 - Official High School Leaving Archive"; 
+$meta_description = "Check hslc results 2022 for Class 10th examinations across all state boards (Assam, Manipur, etc). Access the official 2022 HSLC result archive on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 High School Leaving Certificate (HSLC) results for all
                 participating states. Official board mirrors and archival links updated nationwide.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

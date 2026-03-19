@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "odisha matric result - Official BSE Odisha Secondary Gateway";
-$meta_description = "Check odisha matric result for HSC exams. Access the official Board of Secondary Education (BSE) Odisha result portal on indiaresults.";
-$keyword = "odisha matric result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "odisha matric result - Official BSE Odisha Secondary Gateway"; 
+$meta_description = "Check odisha matric result for HSC exams. Access the official Board of Secondary Education (BSE) Odisha result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for the High School Certificate (HSC)
                 results for Odisha. Official BSE mirrors and portal links updated for the latest Matriculation session.
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

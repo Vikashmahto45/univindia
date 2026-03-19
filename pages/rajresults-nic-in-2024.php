@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Rajresults Nic In 2024 - Official Rajasthan Board Examination Hub";
-$meta_description = "Check Rajresults Nic In 2024 online. Access the Rajasthan Board (RBSE) 10th and 12th results for Science, Commerce, and Arts. Official results.nic.in gateway 2024.";
-$meta_keywords = "rajresults nic in 2024, check rbse result 2024, rajasthan board result 2024 link, rajresults.nic.in 2024 10th 12th, official rbse portal 2024, rajasthanjboard results 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Rajresults Nic In 2024 - Official Rajasthan Board Examination Hub"; 
+$meta_description = "Check Rajresults Nic In 2024 online. Access the Rajasthan Board (RBSE) 10th and 12th results for Science, Commerce, and Arts. Official results.nic.in gateway 2024."; 
+$meta_keywords = "rajresults nic in 2024, check rbse result 2024, rajasthan board result 2024 link, rajresults.nic.in 2024 10th 12th, official rbse portal 2024, rajasthanjboard results 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

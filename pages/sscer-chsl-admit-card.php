@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online";
-$meta_description = "Download SSCER CHSL Admit Card 2024 for Eastern Region. Check SSC Combined Higher Secondary Level (10+2) application status and hall ticket at sscer.org.";
-$meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticket, sscer.org chsl status, ssc chsl admit card kolkata, ssc chsl admit card jharkhand";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online"; 
+$meta_description = "Download SSCER CHSL Admit Card 2024 for Eastern Region. Check SSC Combined Higher Secondary Level (10+2) application status and hall ticket at sscer.org."; 
+$meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticket, sscer.org chsl status, ssc chsl admit card kolkata, ssc chsl admit card jharkhand"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

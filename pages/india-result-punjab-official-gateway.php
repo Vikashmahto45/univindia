@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result punjab - Official Punjab Board Result Gateway";
-$meta_description = "Check india result punjab for Class 10th and 12th exams. Access the official Punjab School Education Board (PSEB) result portal and archives on indiaresults.";
-$keyword = "india result punjab";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result punjab - Official Punjab Board Result Gateway"; 
+$meta_description = "Check india result punjab for Class 10th and 12th exams. Access the official Punjab School Education Board (PSEB) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the latest examination results for Class 10th (Secondary) and
                 12th (Senior Secondary) for Punjab. Official PSEB Mohali mirrors and archival links updated for the
@@ -120,4 +118,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

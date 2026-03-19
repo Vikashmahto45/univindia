@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "MJPRU Result 2024 - Mahatma Jyotiba Phule Rohilkhand University Updates";
-$meta_description = "Check MJPRU Result 2024 for B.A, B.Sc, B.Com, and other UG/PG courses. Get direct official links to Rohilkhand University result portal at mjpru.ac.in.";
-$meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba result, mjpru bsc result, mjpru pg result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "MJPRU Result 2024 - Mahatma Jyotiba Phule Rohilkhand University Updates"; 
+$meta_description = "Check MJPRU Result 2024 for B.A, B.Sc, B.Com, and other UG/PG courses. Get direct official links to Rohilkhand University result portal at mjpru.ac.in."; 
+$meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba result, mjpru bsc result, mjpru pg result"; 
 ?>
 
 <main class="container">
@@ -69,5 +68,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

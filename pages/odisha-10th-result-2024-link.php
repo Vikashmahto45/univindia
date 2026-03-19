@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "odisha 10th result 2024 - Official BSE Odisha Mirror";
-$meta_description = "Check odisha 10th result 2024 online. Access the latest results for Board of Secondary Education (BSE) Odisha Class 10 (HSC) for the 2024 session.";
-$meta_keywords = "odisha 10th result 2024, check bse odisha matric result 2024 online, official odisha results link, orissaresults nic in search 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "odisha 10th result 2024 - Official BSE Odisha Mirror"; 
+$meta_description = "Check odisha 10th result 2024 online. Access the latest results for Board of Secondary Education (BSE) Odisha Class 10 (HSC) for the 2024 session."; 
+$meta_keywords = "odisha 10th result 2024, check bse odisha matric result 2024 online, official odisha results link, orissaresults nic in search 2024"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online";
-$meta_description = "Download CGL Exam Admit Card 2024. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) examination hall tickets at regional ssc.gov.in portals.";
-$meta_keywords = "cgl exam admit card download, ssc cgl exam hall ticket 2024, ssc.gov.in login 2024, cgl tier 1 date download, ssc inspector recruitment call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download CGL Exam Admit Card 2024. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) examination hall tickets at regional ssc.gov.in portals."; 
+$meta_keywords = "cgl exam admit card download, ssc cgl exam hall ticket 2024, ssc.gov.in login 2024, cgl tier 1 date download, ssc inspector recruitment call letter"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

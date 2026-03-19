@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 12th 2022 by name - Official Senior Secondary Name Search Hub";
-$meta_description = "Check india result 12th 2022 by name for all state boards. Access the official 2022 Class 12 name-wise result archive on indiaresults for high-speed checking.";
-$keyword = "india result 12th 2022 by name";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 12th 2022 by name - Official Senior Secondary Name Search Hub"; 
+$meta_description = "Check india result 12th 2022 by name for all state boards. Access the official 2022 Class 12 name-wise result archive on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 Senior Secondary (Class 12th) results by student name
                 for all boards in India. Official mirrors and archival links updated for the 2022 session.</p>
@@ -113,4 +111,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

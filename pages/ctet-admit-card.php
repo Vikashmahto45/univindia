@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in";
-$page_description = "Download CTET Admit Card 2025 for Paper 1 & 2. Get direct link to download CBSE CTET Hall Ticket, Exam Schedule, and center details. 800+ words of in-depth guide.";
-$page_keywords = "CTET Admit Card 2025, CBSE CTET Hall Ticket Download, CTET Paper 1 Paper 2 Admit Card, ctet.nic.in admit card download, Central Teacher Eligibility Test Call Letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -141,7 +139,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard me-2"></i> Teaching Eligibility Exams</h3>
                 <div class="row g-3">
-                    <?php
                     $teaching = [
                         'mptet-admit-card.php' => 'MP TET Hall Ticket',
                         'uptet-admit-card.php' => 'UP TET Admit Card',
@@ -155,7 +152,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -189,5 +185,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Admit Card 2020 - Bikaner University 2020 Hall Tickets";
-$meta_description = "Access your Univindia 2020 admit cards for Bikaner University. Official guide to retrieving historical 2020 Maharaja Ganga Singh University hall tickets online.";
-$meta_keywords = "univindia admit card 2020";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Admit Card 2020 - Bikaner University 2020 Hall Tickets"; 
+$meta_description = "Access your Univindia 2020 admit cards for Bikaner University. Official guide to retrieving historical 2020 Maharaja Ganga Singh University hall tickets online."; 
+$meta_keywords = "univindia admit card 2020"; 
 ?>
 
 <main class="container">
@@ -57,5 +56,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "SBI Clerk Admit Card Download - State Bank Clerk Prelims Hall Ticket";
-$meta_description = "Download SBI Clerk Admit Card. Get direct links for Junior Associate (JA) preliminary and main exam hall tickets with shift timings.";
-$meta_keywords = "sbi clerk admit card, sbi clerk hall ticket download, sbi ja prelims admit card, sbi clerk exam date 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "SBI Clerk Admit Card Download - State Bank Clerk Prelims Hall Ticket"; 
+$meta_description = "Download SBI Clerk Admit Card. Get direct links for Junior Associate (JA) preliminary and main exam hall tickets with shift timings."; 
+$meta_keywords = "sbi clerk admit card, sbi clerk hall ticket download, sbi ja prelims admit card, sbi clerk exam date 2024"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Recent SBI Hall Tickets</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "sbi clerk admit card";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

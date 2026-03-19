@@ -1,7 +1,10 @@
-<?php include '../header.php'; ?>
-<?php
-include('top.php');
+<?php 
+include '../header.php'; 
+$page_title = ""; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
+
 <title>www karresults nic in 2024 - University Results 2024</title>
 
 <div class="container mt-4">
@@ -55,12 +58,11 @@ include('top.php');
         </div>
         
         <div class="col-md-4">
-            <?php include('sidebar.php'); ?>
+            
         </div>
     </div>
 </div>
 
-<?php
 include('footer.php');
-?>
+
 <?php include '../footer.php'; ?>

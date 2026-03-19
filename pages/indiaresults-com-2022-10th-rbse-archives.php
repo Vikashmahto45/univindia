@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indiaresults.com 2022 10th rbse - Official Rajasthan Secondary 2022 Archive";
-$meta_description = "Check indiaresults.com 2022 10th rbse for Matric exams. Access the official 2022 Board of Secondary Education Rajasthan (BSER) archival portal on indiaresults.";
-$keyword = "indiaresults.com 2022 10th rbse";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2022 10th rbse - Official Rajasthan Secondary 2022 Archive"; 
+$meta_description = "Check indiaresults.com 2022 10th rbse for Matric exams. Access the official 2022 Board of Secondary Education Rajasthan (BSER) archival portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Rajasthan Class 10th
                 (Secondary/Secondary). Official RBSE Ajmer mirrors and archival links updated for the 2022 batch
@@ -122,4 +120,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

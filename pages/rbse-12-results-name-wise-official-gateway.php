@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "rbse 12 results name wise - Official Rajasthan Board Hub";
-$meta_description = "Check Rajasthan Board 12th result by name on rbse 12 results name wise. Access official BSER Ajmer 2023 & 2022 archival name-wise scorecards on indiaresults.";
-$keyword = "rbse 12 results name wise";
-
 include '../header.php'; 
+$page_title = "rbse 12 results name wise - Official Rajasthan Board Hub"; 
+$meta_description = "Check Rajasthan Board 12th result by name on rbse 12 results name wise. Access official BSER Ajmer 2023 & 2022 archival name-wise scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 12th (Senior Secondary) examination results via name-wise search for all streams. Access official Rajasthan board mirrors and archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open RBSE Name Search Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

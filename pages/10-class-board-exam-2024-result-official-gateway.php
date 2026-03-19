@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10 class board exam 2024 result - Official National 10th Hub";
-$meta_description = "Check 10 class board exam 2024 result for all state boards. Access the official 2024 secondary (Class 10) result portal and live updates on indiaresults.";
-$keyword = "10 class board exam 2024 result";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10 class board exam 2024 result - Official National 10th Hub"; 
+$meta_description = "Check 10 class board exam 2024 result for all state boards. Access the official 2024 secondary (Class 10) result portal and live updates on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2024 academic session results for Class 10th (Secondary/High
                 School) across all Indian state boards. Official board mirrors and direct result links updated for the
@@ -124,4 +122,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

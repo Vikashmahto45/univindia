@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www-pseb-ac-in 12th Result 2022 - Official Punjab Board Hub";
-$meta_description = "Check www-pseb-ac-in 12th Result 2022 online. Access the historical Punjab School Education Board (PSEB) Senior Secondary results for the 2022 session.";
-$meta_keywords = "www-pseb-ac-in 12th result 2022, check punjab board 12th result 2022 online, official 2022 pseb link, pseb.ac.in 2022 portal, indiaresults punjab 12th 2022";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www-pseb-ac-in 12th Result 2022 - Official Punjab Board Hub"; 
+$meta_description = "Check www-pseb-ac-in 12th Result 2022 online. Access the historical Punjab School Education Board (PSEB) Senior Secondary results for the 2022 session."; 
+$meta_keywords = "www-pseb-ac-in 12th result 2022, check punjab board 12th result 2022 online, official 2022 pseb link, pseb.ac.in 2022 portal, indiaresults punjab 12th 2022"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

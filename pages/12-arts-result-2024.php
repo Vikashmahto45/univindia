@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "12 Arts Result 2024 - Official Rajasthan Board Link";
-$meta_description = "Check 12 Arts Result 2024 online. Access the Rajasthan Board (BSER) Senior Secondary Arts results for the 2024 session. Official 2024 BSER Arts portal.";
-$meta_keywords = "12 arts result 2024, check rajasthan board 12th arts 2024 online, rbse 12th arts 2024 date, official 2024 bser arts portal, rajresults.nic.in 2024 arts";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "12 Arts Result 2024 - Official Rajasthan Board Link"; 
+$meta_description = "Check 12 Arts Result 2024 online. Access the Rajasthan Board (BSER) Senior Secondary Arts results for the 2024 session. Official 2024 BSER Arts portal."; 
+$meta_keywords = "12 arts result 2024, check rajasthan board 12th arts 2024 online, rbse 12th arts 2024 date, official 2024 bser arts portal, rajresults.nic.in 2024 arts"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

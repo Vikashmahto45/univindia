@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "rbse 10th result 2021 name wise and father name - Official BSER Rajasthan Archive";
-$meta_description = "Check rbse 10th result 2021 name wise and father name for BSER Secondary exams. Access the official 2021 Rajasthan archival result portal on indiaresults.";
-$keyword = "rbse 10th result 2021 name wise and father name";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "rbse 10th result 2021 name wise and father name - Official BSER Rajasthan Archive"; 
+$meta_description = "Check rbse 10th result 2021 name wise and father name for BSER Secondary exams. Access the official 2021 Rajasthan archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Class 10th (Secondary) for
                 Rajasthan with name and father's name search features. Official BSER Ajmer mirrors updated for the 2021
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

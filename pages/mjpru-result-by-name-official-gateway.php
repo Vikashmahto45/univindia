@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "mjpru result by name - Official Rohilkhand University Hub";
-$meta_description = "Check MJPRU result by name on mjpru result by name. Access official Mahatma Jyotiba Phule Rohilkhand University UG/PG scorecards on indiaresults.";
-$keyword = "mjpru result by name";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "mjpru result by name - Official Rohilkhand University Hub"; 
+$meta_description = "Check MJPRU result by name on mjpru result by name. Access official Mahatma Jyotiba Phule Rohilkhand University UG/PG scorecards on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for Mahatma Jyotiba Phule Rohilkhand University
                 (MJPRU), Bareilly examination results accessible by student name. Access official MJPRU mirrors and
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

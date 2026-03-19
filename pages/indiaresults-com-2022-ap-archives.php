@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive";
-$meta_description = "Check Andhra Pradesh (AP) Board 10th & 12th result 2022 on indiaresults.com 2022 ap. Access official BSEAP/BIEAP 2022 archival results on indiaresults.";
-$keyword = "indiaresults.com 2022 ap";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive"; 
+$meta_description = "Check Andhra Pradesh (AP) Board 10th & 12th result 2022 on indiaresults.com 2022 ap. Access official BSEAP/BIEAP 2022 archival results on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Andhra Pradesh
                 Board of Secondary Education (BSEAP) and Board of Intermediate Education (BIEAP). Official AP mirrors
@@ -125,4 +123,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

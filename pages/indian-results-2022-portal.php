@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "indian results 2022 - Official National Archive Gateway Hub";
-$meta_description = "Check indian results 2022 for all board and university exams. Access the official 2022 result portal mirrors on indiaresults for fast checking by name and roll number.";
-$keyword = "indian results 2022";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "indian results 2022 - Official National Archive Gateway Hub"; 
+$meta_description = "Check indian results 2022 for all board and university exams. Access the official 2022 result portal mirrors on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2022 academic result archives for every state and central
                 board in India. Verified links and mirrors updated.</p>
@@ -111,4 +109,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

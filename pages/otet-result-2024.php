@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "OTET Result 2024 - Odisha Teacher Eligibility Test scores and merit list";
-$meta_description = "Check OTET Result 2024 for Paper 1 and Paper 2. Access the official BSE Odisha primary teacher eligibility scores, qualifying marks, and marksheet downloads.";
-$meta_keywords = "otet result 2024, bse odisha otet result, otet nic in 2024, odisha teacher eligibility test 2024 result, otet paper 1 result, otet paper 2 result";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "OTET Result 2024 - Odisha Teacher Eligibility Test scores and merit list"; 
+$meta_description = "Check OTET Result 2024 for Paper 1 and Paper 2. Access the official BSE Odisha primary teacher eligibility scores, qualifying marks, and marksheet downloads."; 
+$meta_keywords = "otet result 2024, bse odisha otet result, otet nic in 2024, odisha teacher eligibility test 2024 result, otet paper 1 result, otet paper 2 result"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

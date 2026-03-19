@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "CGL Admit Card Download - SSC Combined Graduate Level Tier 1 Region Wise | Univindia.online";
-$meta_description = "Download CGL Admit Card. Get the direct link for SSC Combined Graduate Level (CGL) Tier 1 and Tier 2 examination regional hall tickets at ssc.gov.in.";
-$meta_keywords = "cgl admit card download, ssc cgl tier 1 hall ticket download, ssc.gov.in login admit card, combined graduate level exam date 2024 download, ssc nr er wr call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "CGL Admit Card Download - SSC Combined Graduate Level Tier 1 Region Wise | Univindia.online"; 
+$meta_description = "Download CGL Admit Card. Get the direct link for SSC Combined Graduate Level (CGL) Tier 1 and Tier 2 examination regional hall tickets at ssc.gov.in."; 
+$meta_keywords = "cgl admit card download, ssc cgl tier 1 hall ticket download, ssc.gov.in login admit card, combined graduate level exam date 2024 download, ssc nr er wr call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

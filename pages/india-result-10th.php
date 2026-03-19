@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "India Result 10th Class - All India Board 10th Result Portal";
-$meta_description = "Check India Result 10th class for all boards. Access CBSE, ICSE, and State Board 10th class results online. Your complete guide to matriculation scores across India.";
-$meta_keywords = "india result 10th, 10th class result, board result 10th, matric result 2024, india results 10th";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "India Result 10th Class - All India Board 10th Result Portal"; 
+$meta_description = "Check India Result 10th class for all boards. Access CBSE, ICSE, and State Board 10th class results online. Your complete guide to matriculation scores across India."; 
+$meta_keywords = "india result 10th, 10th class result, board result 10th, matric result 2024, india results 10th"; 
 ?>
 
 <main class="container">
@@ -68,5 +67,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

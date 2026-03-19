@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bse odisha result 2024 - Official Odisha Secondary Result Hub";
-$meta_description = "Check bse odisha result 2024 for Class 10 exams. Access the official 2024 Board of Secondary Education (BSE) Odisha result portal and schedule on indiaresults.";
-$keyword = "bse odisha result 2024";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bse odisha result 2024 - Official Odisha Secondary Result Hub"; 
+$meta_description = "Check bse odisha result 2024 for Class 10 exams. Access the official 2024 Board of Secondary Education (BSE) Odisha result portal and schedule on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Stay updated with the latest declaration schedule and direct access for
                 the Odisha Class 10th (Secondary) results for the 2024 academic session. Official BSE Cuttack mirrors
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

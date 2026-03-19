@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online";
-$meta_description = "Download Delhi Police Admit Card 2023. Get the direct link for SSC Delhi Police Constable (Driver) and Head Constable AWO/TPO hall tickets at ssc.nic.in.";
-$meta_keywords = "delhi police admit card 2023 download, ssc delhi police hall ticket 2023 download, ssc.nic.in delhi police login, delhi police constable exam date 2023, ssc regional call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online"; 
+$meta_description = "Download Delhi Police Admit Card 2023. Get the direct link for SSC Delhi Police Constable (Driver) and Head Constable AWO/TPO hall tickets at ssc.nic.in."; 
+$meta_keywords = "delhi police admit card 2023 download, ssc delhi police hall ticket 2023 download, ssc.nic.in delhi police login, delhi police constable exam date 2023, ssc regional call letter"; 
 ?>
 
 <div class="container main-content">
@@ -95,5 +93,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

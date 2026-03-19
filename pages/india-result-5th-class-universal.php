@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 5th class - Official Class 5th National Gateway Hub";
-$meta_description = "Check india result 5th class for all state and central boards. Access the official Class 5 (Primary) result portal on indiaresults for high-speed checking.";
-$keyword = "india result 5th class";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 5th class - Official Class 5th National Gateway Hub"; 
+$meta_description = "Check india result 5th class for all state and central boards. Access the official Class 5 (Primary) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized hub for every Class 5th result in India. Official state
                 board and primary school mirrors updated for the current academic session.</p>
@@ -112,4 +110,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

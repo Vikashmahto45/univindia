@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "NVS Admit Card Download - Navodaya Vidyalaya Samiti Hall Ticket";
-$meta_description = "Download NVS Admit Card for TGT, PGT, and Principal recruitment. Get the direct hall ticket link from the official NVS portal.";
-$meta_keywords = "nvs admit card, navodaya vidayalaya admit card download, nvs teacher hall ticket, nvs recruitment 2024";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "NVS Admit Card Download - Navodaya Vidyalaya Samiti Hall Ticket"; 
+$meta_description = "Download NVS Admit Card for TGT, PGT, and Principal recruitment. Get the direct hall ticket link from the official NVS portal."; 
+$meta_keywords = "nvs admit card, navodaya vidayalaya admit card download, nvs teacher hall ticket, nvs recruitment 2024"; 
 ?>
 
 <main class="container">
@@ -42,7 +41,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Education Sector Recruitment</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "nvs admit card";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -51,16 +49,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

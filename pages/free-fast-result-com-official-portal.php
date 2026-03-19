@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "free fast result .com - Official National Results Hub";
-$meta_description = "Check free fast result .com for all board and university exams. Access the official fast results portal, live updates, and archival scores on indiaresults.";
-$keyword = "free fast result .com";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "free fast result .com - Official National Results Hub"; 
+$meta_description = "Check free fast result .com for all board and university exams. Access the official fast results portal, live updates, and archival scores on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your primary destination for high-speed academic results across India.
                 Official mirrors for all state boards, central councils, and major universities updated for
@@ -121,4 +119,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online";
-$meta_description = "Download NTPC Admit Card. Get the direct link for RRB NTPC (Non-Technical Popular Categories) CBT 1 and CBT 2 hall tickets at rrbapply.gov.in.";
-$meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbapply.gov.in ntpc login admit card, railway exam date 2024 download, railway recruitment call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download NTPC Admit Card. Get the direct link for RRB NTPC (Non-Technical Popular Categories) CBT 1 and CBT 2 hall tickets at rrbapply.gov.in."; 
+$meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbapply.gov.in ntpc login admit card, railway exam date 2024 download, railway recruitment call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indiaresults Com 2024 Link - Official State Board Result Gateway";
-$meta_description = "Check Indiaresults Com 2024 Link online. Access the direct result links for Punjab, Rajasthan, HP, and all state boards. Verify your 10th and 12th results for 2024.";
-$meta_keywords = "indiaresults com 2024 link, check india results 2024 link, direct result link 2024, state board results link, indiaresults official portal 2024, check 10th 12th result link";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indiaresults Com 2024 Link - Official State Board Result Gateway"; 
+$meta_description = "Check Indiaresults Com 2024 Link online. Access the direct result links for Punjab, Rajasthan, HP, and all state boards. Verify your 10th and 12th results for 2024."; 
+$meta_keywords = "indiaresults com 2024 link, check india results 2024 link, direct result link 2024, state board results link, indiaresults official portal 2024, check 10th 12th result link"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

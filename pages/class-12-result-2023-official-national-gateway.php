@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "class 12 result 2023 - Official National 12th Hub";
-$meta_description = "Check all board results on class 12 result 2023. Access the official indiaresults portal for 12th (Intermediate) scorecards of the 2023 academic session.";
-$keyword = "class 12 result 2023";
-
 include '../header.php'; 
+$page_title = "class 12 result 2023 - Official National 12th Hub"; 
+$meta_description = "Check all board results on class 12 result 2023. Access the official indiaresults portal for 12th (Intermediate) scorecards of the 2023 academic session."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary/Higher Secondary) examination results of the 2023 academic session across India. Access official board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 12th Result 2023 Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

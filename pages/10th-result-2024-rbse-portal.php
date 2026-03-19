@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "10th result 2024 rbse - Official Rajasthan Board Secondary Gateway";
-$meta_description = "Check 10th result 2024 rbse for BSER Secondary exams. Access the official 2024 Board of Secondary Education (BSER) Rajasthan result portal on indiaresults.";
-$keyword = "10th result 2024 rbse";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "10th result 2024 rbse - Official Rajasthan Board Secondary Gateway"; 
+$meta_description = "Check 10th result 2024 rbse for BSER Secondary exams. Access the official 2024 Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your centralized destination for the Secondary (Class 10th) results for
                 Rajasthan for the 2024 session. Official BSER Ajmer mirrors and portal links updated for the latest
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

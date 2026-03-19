@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Indianresults.in 2019 - official National Results Archive Hub";
-$meta_description = "Check Indianresults.in 2019 for official 10th and 12th board results from across India. Access the 2019 archival results, merit lists, and marksheet download links.";
-$meta_keywords = "indianresults in 2019, indiaresults 2019, board results 2019 archive, india results portal 2019, 10th 12th result 2019 search";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Indianresults.in 2019 - official National Results Archive Hub"; 
+$meta_description = "Check Indianresults.in 2019 for official 10th and 12th board results from across India. Access the 2019 archival results, merit lists, and marksheet download links."; 
+$meta_keywords = "indianresults in 2019, indiaresults 2019, board results 2019 archive, india results portal 2019, 10th 12th result 2019 search"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

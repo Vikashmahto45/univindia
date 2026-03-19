@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "exam result india - Official National Results Hub";
-$meta_description = "Check exam result india for all state boards and university exams. Access the official national examination result portal and direct links on indiaresults.";
-$keyword = "exam result india";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "exam result india - Official National Results Hub"; 
+$meta_description = "Check exam result india for all state boards and university exams. Access the official national examination result portal and direct links on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Unified destination for all examination results and academic information
                 across India. Official board mirrors and direct result links updated for the current academic session.
@@ -123,4 +121,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

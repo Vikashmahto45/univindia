@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link";
-$page_description = "Download SS CGL Admit Card 2025. Get region-wise direct links for SSC CGL Tier 1 Hall Ticket, Exam Schedule, and Exam Day instructions. 800+ words of detailed info.";
-$page_keywords = "SS CGL Admit Card 2025, SSC CGL Hall Ticket Download, SSC CGL Tier 1 Exam Date, Download SSC CGL Call Letter, ssc.gov.in CGL Admit Card";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -196,7 +194,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-th-large me-2"></i> Career Resources</h3>
                 <div class="row g-3">
-                    <?php
                     $resources = [
                         'ssc-chsl-admit-card-2024.php' => 'SSC CHSL Call Letter',
                         'ssc-gov-in-admit-card.php' => 'SSC Portal Admit Card',
@@ -210,7 +207,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -244,5 +240,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

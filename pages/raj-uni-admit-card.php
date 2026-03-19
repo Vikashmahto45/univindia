@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "Rajasthan University Admit Card 2024 Download - UNIRAJ UG & PG Exam Hall Ticket | Univindia.online";
-$meta_description = "Download Rajasthan University (UNIRAJ) Admit Card 2024. Get the direct link for BA, BSc, BCom, MA, MSc, and MCom annual/semester examination hall tickets at uniraj.ac.in.";
-$meta_keywords = "rajasthan university admit card 2024, uniraj admit card download, uor admit card login, uniraj.ac.in exam hall ticket, rajasthan university exam date";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Rajasthan University Admit Card 2024 Download - UNIRAJ UG & PG Exam Hall Ticket | Univindia.online"; 
+$meta_description = "Download Rajasthan University (UNIRAJ) Admit Card 2024. Get the direct link for BA, BSc, BCom, MA, MSc, and MCom annual/semester examination hall tickets at uniraj.ac.in."; 
+$meta_keywords = "rajasthan university admit card 2024, uniraj admit card download, uor admit card login, uniraj.ac.in exam hall ticket, rajasthan university exam date"; 
 ?>
 
 <div class="container main-content">
@@ -97,5 +95,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

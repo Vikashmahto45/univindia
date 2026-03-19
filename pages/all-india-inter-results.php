@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "all india inter results - Official National Board Mirror";
-$meta_description = "Check all india inter results online. Access the results for all State Boards (AP, TS, Bihar, etc.) for the 2024 Intermediate session.";
-$meta_keywords = "all india inter results, check inter results 2024 online, official state board inter link, national inter results portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "all india inter results - Official National Board Mirror"; 
+$meta_description = "Check all india inter results online. Access the results for all State Boards (AP, TS, Bihar, etc.) for the 2024 Intermediate session."; 
+$meta_keywords = "all india inter results, check inter results 2024 online, official state board inter link, national inter results portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

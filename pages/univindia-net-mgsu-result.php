@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSU Result - Bikaner University Scores Online Guide";
-$meta_description = "Check your MGSU Bikaner results on Univindia Net MGSU Result portal. Complete guide to downloading marksheets and checking graduation status online.";
-$meta_keywords = "Univindia Net MGSU Result - Bikaner University Scores Online Guide";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Result - Bikaner University Scores Online Guide"; 
+$meta_description = "Check your MGSU Bikaner results on Univindia Net MGSU Result portal. Complete guide to downloading marksheets and checking graduation status online."; 
+$meta_keywords = "Univindia Net MGSU Result - Bikaner University Scores Online Guide"; 
 ?>
 
 <main class="container">
@@ -61,5 +60,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

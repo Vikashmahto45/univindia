@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "india result 12th science - Official National Science Result Hub";
-$meta_description = "Check india result 12th science for CBSE, ICSE, and all State Boards. Access the official 12th science stream result portal and marksheet download.";
-$meta_keywords = "india result 12th science, 12th science board result, check 12th science result online, indiaresults 12th science, HSC science result";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "india result 12th science - Official National Science Result Hub"; 
+$meta_description = "Check india result 12th science for CBSE, ICSE, and all State Boards. Access the official 12th science stream result portal and marksheet download."; 
+$meta_keywords = "india result 12th science, 12th science board result, check 12th science result online, indiaresults 12th science, HSC science result"; 
 ?>
 
 <main class="container">
@@ -122,5 +121,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

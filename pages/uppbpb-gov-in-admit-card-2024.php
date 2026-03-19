@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-include '../includes/config.php';
-$page_title = "UPPBPB Gov In Admit Card 2024: UP Police Constable 60244 Posts Hall Ticket @ uppbpb.gov.in";
-$page_description = "Download UPPBPB Gov In Admit Card 2024 for Constable 60244 vacancies. Get direct link for UP Police Re-exam Hall Ticket, Exam Schedule, and Shift timings. 800+ words guide.";
-$page_keywords = "uppbpb gov in admit card 2024, UP Police Constable 2024 Hall Ticket, UPPBPB Re-exam Admit Card, uppbpb.gov.in login 2024, UP Police Constable Exam Status";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "UPPBPB Gov In Admit Card 2024: UP Police Constable 60244 Posts Hall Ticket @ uppbpb.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <main class="container py-5">
@@ -137,7 +135,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> UP Education & Job Links</h3>
                 <div class="row g-3">
-                    <?php
                     $job_links = [
                         'upnrhm-admit-card.php' => 'UP NRHM Call Letter',
                         'upsssc-admit-card.php' => 'UPSSSC PET Result',
@@ -151,7 +148,6 @@ include '../includes/header.php';
                                 </a>
                               </div>';
                     }
-                    ?>
                 </div>
             </div>
         </div>
@@ -185,5 +181,4 @@ include '../includes/header.php';
 }
 </style>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "result of 10th class 2023 - Official National Secondary Archive";
-$meta_description = "Check result of 10th class 2023 for all state and central board exams. Access the official 2023 Secondary archival result portal on indiaresults.";
-$keyword = "result of 10th class 2023";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "result of 10th class 2023 - Official National Secondary Archive"; 
+$meta_description = "Check result of 10th class 2023 for all state and central board exams. Access the official 2023 Secondary archival result portal on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Class 10th (Secondary) for
                 all boards in India. Official mirrors and archival links updated for the 2023 batch.</p>
@@ -116,4 +114,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

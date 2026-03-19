@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "RRB Bank Admit Card Download - IBPS RRB Officer & Assistant Hall Ticket";
-$meta_description = "Download RRB Bank Admit Card (IBPS RRB). Get direct links for Office Assistant and Officer Scale I, II, III prelims and mains hall tickets.";
-$meta_keywords = "rrb bank admit card, ibps rrb admit card download, rrb office assistant hall ticket, rrb officer scale 1 admit card";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "RRB Bank Admit Card Download - IBPS RRB Officer & Assistant Hall Ticket"; 
+$meta_description = "Download RRB Bank Admit Card (IBPS RRB). Get direct links for Office Assistant and Officer Scale I, II, III prelims and mains hall tickets."; 
+$meta_keywords = "rrb bank admit card, ibps rrb admit card download, rrb office assistant hall ticket, rrb officer scale 1 admit card"; 
 ?>
 
 <main class="container">
@@ -43,7 +42,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Banking Sector Results</h3>
                 <div class="row">
-                    <?php 
                     $current_kw = "rrb bank admit card";
                     $related_count = 0;
                     foreach($link_map as $kw => $url) {
@@ -52,16 +50,14 @@ include '../includes/header.php';
                             $related_count++;
                         }
                     }
-                    ?>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
+            
         </div>
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

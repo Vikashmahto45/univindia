@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "www.wbresults.nic.in 2024 - Official West Bengal Result Portal Updates";
-$meta_description = "Access www.wbresults.nic.in 2024 for official West Bengal WBBSE Madhyamik and WBCHSE HS results. Get direct links and latest date updates for WB board results.";
-$meta_keywords = "www.wbresults.nic.in 2024, wbresults.nic.in 2024, west bengal result 2024, madhyamik result 2024, hs result 2024 west bengal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "www.wbresults.nic.in 2024 - Official West Bengal Result Portal Updates"; 
+$meta_description = "Access www.wbresults.nic.in 2024 for official West Bengal WBBSE Madhyamik and WBCHSE HS results. Get direct links and latest date updates for WB board results."; 
+$meta_keywords = "www.wbresults.nic.in 2024, wbresults.nic.in 2024, west bengal result 2024, madhyamik result 2024, hs result 2024 west bengal"; 
 ?>
 
 <main class="container">
@@ -65,5 +64,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

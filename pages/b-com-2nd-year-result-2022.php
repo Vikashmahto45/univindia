@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "b.com 2nd year result 2022 - Official University Mirror";
-$meta_description = "Check b.com 2nd year result 2022 online. Access the historical results for all Indian Universities (RU, BU, CCSU, etc.) for the 2022 session.";
-$meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 online, official university link, indiaresults bcom portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "b.com 2nd year result 2022 - Official University Mirror"; 
+$meta_description = "Check b.com 2nd year result 2022 online. Access the historical results for all Indian Universities (RU, BU, CCSU, etc.) for the 2022 session."; 
+$meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 online, official university link, indiaresults bcom portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

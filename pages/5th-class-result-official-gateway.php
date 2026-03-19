@@ -1,16 +1,14 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "5th class result - Official Primary School Hub";
-$meta_description = "Check Primary School 5th class result on 5th class result. Access official Board Class 5th (Primary) scorecards and selection lists on indiaresults portal.";
-$keyword = "5th class result";
-
 include '../header.php'; 
+$page_title = "5th class result - Official Primary School Hub"; 
+$meta_description = "Check Primary School 5th class result on 5th class result. Access official Board Class 5th (Primary) scorecards and selection lists on indiaresults portal."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"><?php echo $page_title; ?></h1>
+            <h1 class="hero-title animate-up"></h1>
             <p class="hero-subtitle animate-up">Unified destination for all Board Class 5th (Primary) examination results across India. Access official primary board mirrors and archival links updated for session verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 5th Class Hub</a>
@@ -89,4 +87,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

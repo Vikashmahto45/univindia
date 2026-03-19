@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal";
-$meta_description = "Print your official MGSU Bikaner results via Univindia Net MGSURES PrintResult. Official guide to downloading and printing university score reports online.";
-$meta_keywords = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal"; 
+$meta_description = "Print your official MGSU Bikaner results via Univindia Net MGSURES PrintResult. Official guide to downloading and printing university score reports online."; 
+$meta_keywords = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal"; 
 ?>
 
 <main class="container">
@@ -51,5 +50,4 @@ include '../includes/header.php';
     </div>
 </main>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

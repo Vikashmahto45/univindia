@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "MP Online Admit Card Download - Madhya Pradesh Recruitment Hall Ticket Link | Univindia.online";
-$meta_description = "Download MP Online Admit Card. Get the direct link for MPPEB, MPPSC, and other Madhya Pradesh recruitment examination hall tickets at mponline.gov.in.";
-$meta_keywords = "mp online admit card download, mponline.gov.in hall ticket download, mp police admit card login, mp govt recruitment exam date 2024 download, madhya pradesh call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "MP Online Admit Card Download - Madhya Pradesh Recruitment Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download MP Online Admit Card. Get the direct link for MPPEB, MPPSC, and other Madhya Pradesh recruitment examination hall tickets at mponline.gov.in."; 
+$meta_keywords = "mp online admit card download, mponline.gov.in hall ticket download, mp police admit card login, mp govt recruitment exam date 2024 download, madhya pradesh call letter"; 
 ?>
 
 <div class="container main-content">
@@ -93,5 +91,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

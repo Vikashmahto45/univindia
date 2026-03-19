@@ -1,10 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-require_once 'includes/config.php';
-$page_title = "IBPS PO Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online";
-$meta_description = "Download IBPS PO Admit Card. Get the direct link for IBPS Probationary Officers (PO/MT) Prelims & Mains examination hall tickets at ibps.in.";
-$meta_keywords = "ibps po admit card download, ibps.in po hall ticket download, ibps po prelims admit card login, ibps po mains exam date 2024 download, banking po call letter";
-include '../includes/header.php';
+<?php 
+include '../header.php'; 
+$page_title = "IBPS PO Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online"; 
+$meta_description = "Download IBPS PO Admit Card. Get the direct link for IBPS Probationary Officers (PO/MT) Prelims & Mains examination hall tickets at ibps.in."; 
+$meta_keywords = "ibps po admit card download, ibps.in po hall ticket download, ibps po prelims admit card login, ibps po mains exam date 2024 download, banking po call letter"; 
 ?>
 
 <div class="container main-content">
@@ -94,5 +92,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

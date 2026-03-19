@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)";
-$meta_description = "Download archived JEE Mains 2022 Admit Card for Session 1 and 2. Get information on NTA JEE Main June/July exam hall tickets, center instructions and recovery of application number.";
-$keywords = "jee mains 2022 admit card, jee main admit card download 2022, nta jee hall ticket, jee mains 2022 exam date, jeemain.nta.nic.in admit card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)"; 
+$meta_description = "Download archived JEE Mains 2022 Admit Card for Session 1 and 2. Get information on NTA JEE Main June/July exam hall tickets, center instructions and recovery of application number."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -115,4 +114,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

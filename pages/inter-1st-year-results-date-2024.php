@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "inter 1st year results date 2024 - Official National Board Portal";
-$meta_description = "Check inter 1st year results date 2024 online. Access the expected release dates for Telangana (TSBIE) and Andhra Pradesh (BIEAP) 1st Year results.";
-$meta_keywords = "inter 1st year results date 2024, check inter 1st year release date online, ts inter 1st year result date 2024, ap inter 1st year result date 2024 portal, senior inter result dates";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "inter 1st year results date 2024 - Official National Board Portal"; 
+$meta_description = "Check inter 1st year results date 2024 online. Access the expected release dates for Telangana (TSBIE) and Andhra Pradesh (BIEAP) 1st Year results."; 
+$meta_keywords = "inter 1st year results date 2024, check inter 1st year release date online, ts inter 1st year result date 2024, ap inter 1st year result date 2024 portal, senior inter result dates"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

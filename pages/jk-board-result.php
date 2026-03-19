@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "jk board result - Official JKBOSE Mirror";
-$meta_description = "Check jk board result online. Access the results for Jammu & Kashmir Board of School Education (JKBOSE) Class 10 and Class 12 for the 2024 session.";
-$meta_keywords = "jk board result, check jkbose results 2024 online, official jk board link, jkbose nic in result portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "jk board result - Official JKBOSE Mirror"; 
+$meta_description = "Check jk board result online. Access the results for Jammu & Kashmir Board of School Education (JKBOSE) Class 10 and Class 12 for the 2024 session."; 
+$meta_keywords = "jk board result, check jkbose results 2024 online, official jk board link, jkbose nic in result portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>

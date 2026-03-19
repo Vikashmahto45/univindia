@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket";
-$meta_description = "Download Jiwaji University Admit Card 2024 for UG/PG Semester Exams. Get direct link for Jiwaji Gwalior Hall Ticket download at jiwaji.edu.";
-$keywords = "jiwaji admit card, jiwaji university admit card, jiwaji gwalior admit card 2024, download jiwaji hall ticket, jiwaji.edu admit card";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket"; 
+$meta_description = "Download Jiwaji University Admit Card 2024 for UG/PG Semester Exams. Get direct link for Jiwaji Gwalior Hall Ticket download at jiwaji.edu."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -143,4 +142,5 @@ include '../header.php';
         </div>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "BSc 1st Year Result 2023 - Download University BSc Part 1 Marksheet";
-$keyword = "bsc 1st year result 2023";
-$description = "Check BSc 1st Year Result 2023 online. Access University BSc Part 1 exam results, marksheet download, and pass percentage for all major universities in India.";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "BSc 1st Year Result 2023 - Download University BSc Part 1 Marksheet"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
 ?>
 
 <div class="result-container">
@@ -33,4 +32,5 @@ include '../header.php';
         <p>Most universities like RU, MGSU, MDSU, MLSU, and others have updated their portals with the latest BSc results. Ensure you have your admit card ready to verify the details.</p>
     </div>
 </div>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket";
-$meta_description = "Download Mahila Paryavekshak (Female Supervisor) Admit Card 2025. Get direct link for integrated recruitment hall ticket. Check exam dates and lady supervisor exam instructions.";
-$keywords = "mahila paryavekshak admit card 2025, lady supervisor admit card, female supervisor hall ticket download, mahila paryavekshak exam date 2025";
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket"; 
+$meta_description = "Download Mahila Paryavekshak (Female Supervisor) Admit Card 2025. Get direct link for integrated recruitment hall ticket. Check exam dates and lady supervisor exam instructions."; 
+$meta_keywords = ""; 
 ?>
 
 <div class="container mt-5">
@@ -148,4 +147,5 @@ include '../header.php';
 .alert-purple-light { background-color: #f3efff; color: #6f42c1; }
 .underline-purple { border-bottom: 3px solid #6f42c1; display: inline-block; padding-bottom: 2px; }
 </style>
+
 <?php include '../footer.php'; ?>

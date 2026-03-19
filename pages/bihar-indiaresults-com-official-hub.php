@@ -1,17 +1,15 @@
-<?php include '../header.php'; ?>
-<?php
-$page_title = "bihar.indiaresults - Official Bihar State Academic Hub";
-$meta_description = "Check bihar.indiaresults for BSEB, BU, and state board exams. Access the official Bihar result portal for 10th, 12th, and university results on indiaresults.";
-$keyword = "bihar.indiaresults";
-
-include '../header.php';
+<?php 
+include '../header.php'; 
+$page_title = "bihar.indiaresults - Official Bihar State Academic Hub"; 
+$meta_description = "Check bihar.indiaresults for BSEB, BU, and state board exams. Access the official Bihar result portal for 10th, 12th, and university results on indiaresults."; 
+$meta_keywords = ""; 
 ?>
 
 <main class="main-content">
     <section class="hero-section">
         <div class="container">
             <h1 class="hero-title animate-up">
-                <?php echo $page_title; ?>
+                
             </h1>
             <p class="hero-subtitle animate-up">Your primary destination for all academic results across Bihar. Official
                 mirrors for BSEB Patna, Bihar University Muzaffarpur, and other major state boards and institutes.</p>
@@ -119,4 +117,5 @@ include '../header.php';
         </div>
     </section>
 </main>
+
 <?php include '../footer.php'; ?>

@@ -1,9 +1,8 @@
-<?php include '../header.php'; ?>
 <?php 
-$page_title = "india result 2022 rajasthan - Official Rajasthan Board Mirror";
-$meta_description = "Check india result 2022 rajasthan online. Access the historical results for RBSE Class 10 and Class 12 for the Rajasthan board for the 2022 session.";
-$meta_keywords = "india result 2022 rajasthan, check rajasthan board results 2022 online, official rbse mirror link 2022, rajresults nic in 2022 portal";
-include '../includes/header.php'; 
+include '../header.php'; 
+$page_title = "india result 2022 rajasthan - Official Rajasthan Board Mirror"; 
+$meta_description = "Check india result 2022 rajasthan online. Access the historical results for RBSE Class 10 and Class 12 for the Rajasthan board for the 2022 session."; 
+$meta_keywords = "india result 2022 rajasthan, check rajasthan board results 2022 online, official rbse mirror link 2022, rajresults nic in 2022 portal"; 
 ?>
 
 <main class="container">
@@ -66,5 +65,4 @@ include '../includes/header.php';
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
 <?php include '../footer.php'; ?>
