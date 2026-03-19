@@ -1,21 +1,23 @@
     <footer>
         <div class="container">
-            <div class="footer-inner">
-                <div class="footer-col">
-                    <h5>Univindia Result Portal</h5>
-                    <p>Providing synchronized real-time result dissemination for universities across India. Not an official University portal.</p>
+            <div class="footer-grid">
+                <div class="f-col">
+                    <h4>About Portal</h4>
+                    <p style="color:#64748b; font-size:0.85rem">Official Educational News Resource for Indian University Results and Admit Cards 2025.</p>
                 </div>
-                <div class="footer-col">
-                    <h5>Important Links</h5>
-                    <a href="<?php echo BASE_URL; ?>privacy-policy.php" style="display:block">Privacy Policy</a>
-                    <a href="<?php echo BASE_URL; ?>disclaimer.php" style="display:block">Disclaimer</a>
+                <div class="f-col">
+                    <h4>Navigation</h4>
+                    <a href="<?php echo BASE_URL; ?>">Home</a>
+                    <a href="<?php echo BASE_URL; ?>pages/about-us.php">About Us</a>
+                    <a href="<?php echo BASE_URL; ?>pages/contact-us.php">Contact</a>
                 </div>
-                <div class="footer-col">
-                    <h5>Connect</h5>
-                    <a href="<?php echo BASE_URL; ?>contact-us.php" style="display:block">Contact Support</a>
+                <div class="f-col">
+                    <h4>Privacy</h4>
+                    <a href="<?php echo BASE_URL; ?>pages/privacy-policy.php">Privacy Policy</a>
+                    <a href="<?php echo BASE_URL; ?>pages/disclaimer.php">Disclaimer</a>
                 </div>
             </div>
-            <div class="copyright">&copy; <?php echo date("Y"); ?> UNIVINDIA.ONLINE - FASTEST UPDATES</div>
+            <p style="text-align:center; color:#334155; font-size:0.75rem; margin-top:40px">&copy; <?php echo date("Y"); ?> Univindia.online - Updates provided for information only.</p>
         </div>
     </footer>
 </body>

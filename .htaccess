@@ -1,7 +1,7 @@
 RewriteEngine On
 RewriteBase /
 
-# Priority 1: Direct File Access
+# Priority 1: Direct File
 RewriteCond %{REQUEST_FILENAME} -f
 RewriteRule ^ - [L]
 
