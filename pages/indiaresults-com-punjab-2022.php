@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults.com Punjab 2022 - Official State Result Archive";
 $meta_description = "Check Indiaresults.com Punjab 2022 for PSEB Class 10th and 12th board results. Access the Punjab State 2022 merit lists, roll number search, and school wise results.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

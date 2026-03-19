@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10 class board exam 2024 result - Official National 10th Hub";
 $meta_description = "Check 10 class board exam 2024 result for all state boards. Access the official 2024 secondary (Class 10) result portal and live updates on indiaresults.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

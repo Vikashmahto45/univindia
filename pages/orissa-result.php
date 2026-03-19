@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Orissa Result - Official Odisha Board examination Portal";
 $meta_description = "Check Orissa Result online. Access the high-speed BSE Odisha 10th and CHSE Odisha 12th results. Official Orissa marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

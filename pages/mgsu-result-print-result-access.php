@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "MGSU Result PrintResult PHP - Bikaner University Score Retrieval Gateway";
 $meta_description = "Use the MGSU Result PrintResult PHP gateway to access your university scores. Official guide to the printresult.php technical script on Univindia Net.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

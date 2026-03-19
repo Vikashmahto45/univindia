@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result jkbose - Official Jammu & Kashmir Board Hub";
 $meta_description = "Check india result jkbose for Class 10th (Secondary) and 12th (Senior Secondary) results. Access the official JKBOSE result portal on indiaresults.";
@@ -115,5 +116,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

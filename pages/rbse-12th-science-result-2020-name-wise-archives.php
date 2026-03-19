@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rbse 12th science result 2020 name wise - Official Rajasthan 2020 Archive";
 $meta_description = "Check Rajasthan Board 12th Science result 2020 by name on rbse 12th science result 2020 name wise. Access official RBSE Sr. Sec. Science 2020 archives.";
@@ -128,5 +129,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

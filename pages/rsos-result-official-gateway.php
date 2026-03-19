@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rsos result - Official Rajasthan State Open School Gateway";
 $meta_description = "Check rsos result for Rajasthan State Open School 10th and 12th exams. Access the official RSOS Jaipur result portal on indiaresults.";
@@ -116,5 +117,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

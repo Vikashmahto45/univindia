@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "odisha india result 2023 - Official Odisha Academic 2023 Archive";
 $meta_description = "Check odisha india result 2023 for BSE and CHSE exams. Access the official 2023 Odisha academic result portal and archives on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

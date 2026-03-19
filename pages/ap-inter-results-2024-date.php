@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "AP Inter Results 2024 Date - Official Andhra Pradesh BIEAP Schedule";
 $meta_description = "Check AP Inter Results 2024 Date online. Access the high-speed Andhra Pradesh Board of Intermediate Education (BIEAP) results schedule. Official 2024 release link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

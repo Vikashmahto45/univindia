@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indiaresult raj - Official Rajasthan Board Mirror";
 $meta_description = "Check indiaresult raj online. Access the results for Rajasthan Board of Secondary Education (RBSE) and other state exams via India Results portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

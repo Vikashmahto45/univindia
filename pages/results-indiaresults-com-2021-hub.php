@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "results.indiaresults.com 2021 - Official National Archive Hub";
 $meta_description = "Check results.indiaresults.com 2021 for all state and central board results. Access the official 2021 result gateway on indiaresults for high-speed checking.";
@@ -110,5 +111,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

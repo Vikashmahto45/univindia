@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in";
@@ -209,4 +210,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

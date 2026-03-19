@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in";
@@ -190,4 +191,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

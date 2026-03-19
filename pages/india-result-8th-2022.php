@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 8th 2022 - Historical elementary Result Archive";
 $meta_description = "Check India Result 8th 2022 online. Access the historical middle school results for Rajasthan (RBSE), Punjab (PSEB), and all state boards. Download your 2022 marksheets.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

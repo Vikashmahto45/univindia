@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 8th class 2022 - Official Middle School National Archive";
 $meta_description = "Check india result 8th class 2022 for all state board middle school exams. Access the official 2022 Class 8 result archive on indiaresults.";
@@ -116,5 +117,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

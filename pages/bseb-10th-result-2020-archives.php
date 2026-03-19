@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bseb 10th result 2020 check online - Official Bihar Board 2020 Archive";
 $meta_description = "Check bseb 10th result 2020 check online for Bihar Matric exams. Access the official 2020 Bihar School Examination Board (BSEB) archival portal on indiaresults.";
@@ -119,5 +120,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

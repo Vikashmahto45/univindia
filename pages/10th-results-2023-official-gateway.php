@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th results 2023 - Official Secondary Hub";
 $meta_description = "Check all Board 10th results 2023 on 10th results 2023. Access official Class 10th (Secondary/SSC) 2023 archival scorecards on indiaresults portal.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

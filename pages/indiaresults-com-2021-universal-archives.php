@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "www indiaresults com 2021 - Official 2021 Academic Result Archive";
 $meta_description = "Check www indiaresults com 2021 for board and university exams. Access the official 2021 academic result portal and archival verification links on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Telangana SSC Results - Official State Board Portal";
 $meta_description = "Check Telangana SSC Results online. Access the primary Board of Secondary Education Telangana (BSE) website for Class 10th results. Official state gateway.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

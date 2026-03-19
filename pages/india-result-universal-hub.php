@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india result - Universal Results Directory";
 $meta_description = "Check all Indian Board results on india result. Access the official indiaresults universal gateway for 10th & 12th scorecards across all states.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

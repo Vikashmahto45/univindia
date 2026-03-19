@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bse odisha.ac.in 10th result 2023 - Official Odisha 10th Hub";
 $meta_description = "Check BSE Odisha 10th result 2023 on bse odisha.ac.in 10th result 2023. Access the official Board of Secondary Education 2023 archival scorecards.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

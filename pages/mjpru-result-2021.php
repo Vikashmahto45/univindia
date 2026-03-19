@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "MJPRU Result 2021 - Mahatma Jyotiba Phule Rohilkhand University Archives";
 $meta_description = "Retrieve your MJPRU Result 2021 online. Access the Mahatma Jyotiba Phule Rohilkhand University archive for B.A, B.Sc, B.Com, and MA scores from the 2021 session.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

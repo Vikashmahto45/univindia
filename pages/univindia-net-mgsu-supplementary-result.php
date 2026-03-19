@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores";
 $meta_description = "Check your MGSU Bikaner supplementary and re-exam results on Univindia Net. Official guide to downloading back-paper marksheets for Bikaner university.";
@@ -59,4 +60,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

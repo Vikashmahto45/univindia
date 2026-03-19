@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "class 12 result 2022 - Official National Higher Secondary Archive";
 $meta_description = "Check class 12 result 2022 for all state and central board exams. Access the official 2022 India result archive on indiaresults for high-speed checking.";
@@ -112,5 +113,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

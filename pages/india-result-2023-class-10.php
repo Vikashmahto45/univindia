@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 2023 Class 10 - Official Secondary Result Gateway";
 $meta_description = "Check India Result 2023 Class 10 online. Access the secondary board results for CBSE, ICSE, and all state boards. Download your 2023 marksheet and merit list.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

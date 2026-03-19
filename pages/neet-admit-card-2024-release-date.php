@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "NEET Admit Card 2024 Release Date - NTA Hall Ticket News";
 $meta_description = "Check NEET Admit Card 2024 Release Date. Get latest news, tentative hall ticket schedule, and direct download links for NTA NEET UG.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

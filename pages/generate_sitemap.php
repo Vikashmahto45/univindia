@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 /**
  * Sitemap Generator for Univindia.online
@@ -54,4 +55,4 @@ if (file_put_contents('sitemap.xml', $xml)) {
     echo "Failed to generate sitemap.";
 }
 ?>
-
+<?php include '../footer.php'; ?>

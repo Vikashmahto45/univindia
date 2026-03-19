@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket";
 $meta_description = "Access your MGSU Bikaner 2023 admit card at Univindia Net. Official portal for Maharaja Ganga Singh University 2023 hall tickets and historical data online.";
@@ -50,4 +51,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

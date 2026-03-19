@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in";
@@ -200,4 +201,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

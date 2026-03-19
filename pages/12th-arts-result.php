@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th arts result - Official National Board Mirror";
 $meta_description = "Check 12th arts result online. Access the latest results for all Indian State Boards (RBSE, JAC, CHSE, etc.) Class 12 Arts for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

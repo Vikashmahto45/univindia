@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www Orissaresults Nic In 2022 +2 - Official Plus Two Archive";
 $meta_description = "Check Www Orissaresults Nic In 2022 +2 online. Access the historical Odisha Class 12th (Senior Secondary) results for Arts, Science, and Commerce. Official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

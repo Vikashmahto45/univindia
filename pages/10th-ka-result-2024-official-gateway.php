@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th ka result 2024 - Official Secondary Hub";
 $meta_description = "Check Class 10th result 2024 on 10th ka result 2024. Access official Board 10th (Matric) scorecards and results links on indiaresults updated for 2024.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www.odisha result.nic.in 2023 - Official Odisha Board Result Gateway";
 $meta_description = "Check www.odisha result.nic.in 2023 for official BSE 10th and CHSE 12th results. Access the primary official results gateway for Odisha student success during the 2023 session.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

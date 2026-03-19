@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "mjpru result 2021 by name - Official University Mirror";
 $meta_description = "Check mjpru result 2021 by name online. Access the historical results for M.J.P. Rohilkhand University, Bareilly without roll number.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

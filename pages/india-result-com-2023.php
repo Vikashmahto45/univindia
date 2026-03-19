@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result .com 2023 - Official National Result Mirror Hub";
 $meta_description = "Check india result .com 2023 for all board and university results. Access the official 2023 result portal mirrors on indiaresults for fast checking by name and roll number.";
@@ -107,5 +108,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

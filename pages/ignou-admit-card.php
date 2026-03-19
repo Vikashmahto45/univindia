@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "IGNOU Admit Card 2025: Download IGNOU TEE Hall Ticket @ ignou.ac.in";
@@ -189,4 +190,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

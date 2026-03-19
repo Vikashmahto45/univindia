@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "hslc result 2022 assam - Official SEBA Mirror";
 $meta_description = "Check hslc result 2022 assam online. Access the historical results for Board of Secondary Education Assam (SEBA) Class 10 for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

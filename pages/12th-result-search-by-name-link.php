@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 // 12th result search by name
 ?>
@@ -51,4 +52,4 @@
     </footer>
 </body>
 </html>
-
+<?php include '../footer.php'; ?>

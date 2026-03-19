@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Bengal Result 2024 - WBBSE & WBCHSE West Bengal State Results";
 $meta_description = "Check Bengal Result 2024 for Madhyamik (10th) and Higher Secondary (12th). Access the latest updates from West Bengal state boards with direct official links.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

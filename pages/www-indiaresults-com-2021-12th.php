@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www.indiaresults.com 2021 12th - Official National Board Mirror";
 $meta_description = "Check www.indiaresults.com 2021 12th online. Access the historical Class 12th (Senior Secondary) results for all Indian State Boards for 2021.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

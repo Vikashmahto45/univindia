@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Arts Result 2022 - Official National Board Archive";
 $meta_description = "Check Arts Result 2022 online. Access the historical Higher Secondary (12th) Arts results for all major state boards including RBSE, UP Board, and GSEB. Official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

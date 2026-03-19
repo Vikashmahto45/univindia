@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "orissa results - Official Odisha Board and Council Gateway";
 $meta_description = "Check orissa results for CHSE (12th) and BSE (10th) exams. Access the official Odisha state archival result hub on indiaresults.";
@@ -114,5 +115,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

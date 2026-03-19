@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "HPTU Result - Himachal Pradesh Technical University Exam Hub";
 $meta_description = "Check HPTU Result for official B.Tech, B.Pharm, M.B.A, and technical degree examinations. Access the official HPTU Hamirpur result portal, merit lists, and marksheet downloads.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

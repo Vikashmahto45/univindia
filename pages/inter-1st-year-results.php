@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Inter 1st Year Results - Official National Board result Hub";
 $meta_description = "Check Inter 1st Year Results online. Access the high-speed Intermediate 1st Year results for AP (BIEAP) and TS (TSBIE). Official marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

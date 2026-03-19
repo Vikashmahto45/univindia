@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Admit Card - Download University Hall Tickets Online";
 $meta_description = "Univindia Admit Card is the official document for MGSU, RRBMU, and MSBU exams. Complete guide to downloading and printing your university admit card.";
@@ -59,4 +60,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

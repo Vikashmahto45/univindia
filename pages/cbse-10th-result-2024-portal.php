@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "cbse 10th result 2024 - Official Central Board Gateway Hub";
 $meta_description = "Check cbse 10th result 2024 for Class 10 exams. Access the official CBSE Secondary result portal on indiaresults for high-speed checking.";
@@ -114,5 +115,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

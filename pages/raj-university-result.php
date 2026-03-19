@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Raj University Result - Official University of Rajasthan (Uniraj) Hub";
 $meta_description = "Check Raj University Result online. Access University of Rajasthan (Uniraj) BA, BSc, BCom, MA, MSc Semester and Private results. Official marksheet portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

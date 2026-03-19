@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12 result 2022 - Official National Board Mirror";
 $meta_description = "Check 12 result 2022 online. Access the historical results for all Indian State Boards and University Intermediate for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

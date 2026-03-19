@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Results TS Inter 2021 - Official National Archive";
 $meta_description = "Check India Results TS Inter 2021 online. Access the historical Telangana Intermediate results for the 2021 session. Official results.cgg.gov.in mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

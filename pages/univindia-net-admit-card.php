@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net Admit Card - Download MGSU, RRBMU & MSBU Hall Tickets";
 $meta_description = "Download your university hall ticket on Univindia Net Admit Card portal. Dedicated guide for MGSU Bikaner, RRBMU Alwar, and MSBU Bharatpur students.";
@@ -58,4 +59,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

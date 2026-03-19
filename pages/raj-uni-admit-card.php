@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "Rajasthan University Admit Card 2024 Download - UNIRAJ UG & PG Exam Hall Ticket | Univindia.online";
@@ -97,4 +98,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

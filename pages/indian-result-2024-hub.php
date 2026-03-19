@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indian result 2024 - Official National Board Mirror";
 $meta_description = "Check indian result 2024 online. Access the latest results for all Indian State Boards (CBSE, ICSE, UP, Bihar, etc.) for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

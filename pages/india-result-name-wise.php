@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india result name wise - Official National Board Mirror";
 $meta_description = "Check india result name wise online. Access the alternative search gateway to find all Indian board results using strictly your Full Name.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

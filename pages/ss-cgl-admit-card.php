@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link";
@@ -244,4 +245,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

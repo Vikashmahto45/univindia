@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "UGC NET Admit Card Download - NTA National Eligibility Test Hall Ticket";
 $meta_description = "Download UGC NET Admit Card. Access direct links for JRF and Assistant Professor eligibility exam hall tickets from NTA portal.";
@@ -62,4 +63,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

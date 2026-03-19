@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bihar.indiaresults - Official Bihar State Academic Hub";
 $meta_description = "Check bihar.indiaresults for BSEB, BU, and state board exams. Access the official Bihar result portal for 10th, 12th, and university results on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

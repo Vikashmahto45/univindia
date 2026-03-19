@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "JNV Admit Card Download - Navodaya Selection Test Hall Ticket";
 $meta_description = "Download JNV Admit Card Class 6 & 9. Get the direct link to access your Navodaya Vidyalaya entrance exam call letter and venue details.";
@@ -58,4 +59,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

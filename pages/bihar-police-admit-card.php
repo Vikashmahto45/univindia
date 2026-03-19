@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in";
@@ -191,4 +192,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india result 2025 - Official National Board Mirror";
 $meta_description = "Check india result 2025 online. Access the futuristic results and schedule for all Indian State Boards and Universities for the 2025 academic session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

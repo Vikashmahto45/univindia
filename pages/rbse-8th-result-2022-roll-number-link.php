@@ -1,7 +1,4 @@
-<?php
-include '../header.php';
-?>
-
+<?php include '../header.php'; ?>
 <div class="content-wrapper">
     <div class="container">
         <div class="row">
@@ -57,8 +54,4 @@ include '../header.php';
         </div>
     </div>
 </div>
-
-<?php
-include '../footer.php';
-?>
-
+<?php include '../footer.php'; ?>

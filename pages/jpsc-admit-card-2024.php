@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "JPSC Admit Card 2024: Download Civil Services Prelims Hall Ticket @jpsc.gov.in";
 $meta_description = "Download JPSC Admit Card 2024 for Jharkhand Civil Services Examination. Get direct link for JPSC Prelims/Mains Hall Ticket download at jpsc.gov.in.";
@@ -107,6 +108,4 @@ include '../header.php';
         </div>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

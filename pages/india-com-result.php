@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india com result - Official National News & Result Portal";
 $meta_description = "Check india com result online. Access the latest Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official news mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

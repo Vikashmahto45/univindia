@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "jkbose 11th class result search by name - Official JK Board Mirror";
 $meta_description = "Check jkbose 11th class result search by name online. Access the results for Jammu & Kashmir Board of School Education (JKBOSE) Class 11 without roll number.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

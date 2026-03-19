@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in";
@@ -211,4 +212,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

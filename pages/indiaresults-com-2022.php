@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indiaresults.com 2022 - Official National Board Mirror";
 $meta_description = "Check indiaresults.com 2022 online. Access the historical results for all Indian State Boards and Universities for the 2022 session.";
@@ -64,5 +65,4 @@ include 'includes/header.php';
         <p>Yes, your board results (verified via the official "indiaresults.com 2022" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
-
-<?php include 'includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

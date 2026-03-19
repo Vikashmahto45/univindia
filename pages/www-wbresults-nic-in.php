@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www wbresults nic in - West Bengal Result Portal Mirror";
 $meta_description = "Check www wbresults nic in online. Access the West Bengal Board (WBBSE) Madhyamik and (WBCHSE) Higher Secondary results via the official NIC portal mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

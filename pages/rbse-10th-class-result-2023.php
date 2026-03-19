@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE 10th Class Result 2023 - Official Rajasthan board archive";
 $meta_description = "Check RBSE 10th Class Result 2023 online. Access the historical Rajasthan Board (BSER) Secondary results for the 2023 session. Official merit lists and marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "search by name result - Official National Name-Wise Hub";
 $meta_description = "Check board results by student name on search by name result. Access the official indiaresults Name-Wise Search features for 10th & 12th results nationwide.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "up board 12th result - Official UP Board Portal";
 $meta_description = "Check up board 12th result online. Access the Intermediate (Class 12) results for Board of High School and Intermediate Education Uttar Pradesh, Prayagraj.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "navodaya result - Official JNVST Portal";
 $meta_description = "Check navodaya result online for JNVST Class 6 and Class 9. Access the official NVS portal for selection list, cutoff, and results.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

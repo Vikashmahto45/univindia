@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "8th class result 2023 pseb - Official Punjab Board 8th Portal";
 $meta_description = "Check 8th class result 2023 pseb online. Access the historical Punjab School Education Board (PSEB), Mohali Class 8th (Middle School) 2023 results.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "chse 10th result 2022 - Official Odisha Board Archive Portal";
 $meta_description = "Check chse 10th result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result portal on indiaresults for fast checking.";
@@ -110,5 +111,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

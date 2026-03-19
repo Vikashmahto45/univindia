@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Portal - Official University Service Hub Registration";
 $meta_description = "The Univindia Portal is the centralized gateway for MGSU, RRBMU, and MSBU exams and results. Complete guide to accessing the student panel online.";
@@ -55,4 +56,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

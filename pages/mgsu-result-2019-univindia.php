@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "MGSU Result 2019 Univindia - Bikaner University 2019 Score Portal";
 $meta_description = "Check your MGSU Bikaner 2019 results via Univindia. Official guide to retrieving historical 2019 Maharaja Ganga Singh University marksheets online.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

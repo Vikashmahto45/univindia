@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "wb result - Official West Bengal Academic Hub";
 $meta_description = "Check wb result for Madhyamik and Higher Secondary exams. Access the official West Bengal Board of Secondary Education (WBBSE) and Council (WBCHSE) result gateways on indiaresults.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

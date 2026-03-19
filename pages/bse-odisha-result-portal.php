@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "bse odisha result - Official Odisha Matric Portal";
 $meta_description = "Check bse odisha result online for HSC / Matric 10th class. Access the official Board of Secondary Education Odisha result portal.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

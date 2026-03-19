@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSUMAIN ReprintedPGF - MGSU Bikaner PG Form Retrieval";
 $meta_description = "Reprint your MGSU Bikaner PG examination forms via Univindia Net. Official guide to using MGSUMAIN ReprintedPGF for postgraduate registrations online.";
@@ -57,4 +58,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

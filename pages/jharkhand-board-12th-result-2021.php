@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Jharkhand Board 12th Result 2021 - Official JAC Archive";
 $meta_description = "Check Jharkhand Board 12th Result 2021 online. Access the historical JAC Intermediate (Arts, Science, Commerce) results for the 2021 session. Official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

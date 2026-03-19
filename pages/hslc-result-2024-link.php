@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "HSLC Result 2024 - Official North East Board Gateway";
 $meta_description = "Check HSLC Result 2024 online. Access the high-speed links for SEBA Assam, Manipur, and Nagaland HSLC results. Official HSLC 2024 result mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresults com punjab - Official PSEB Result Mirror Hub";
 $meta_description = "Check indiaresults com punjab for PSEB 10th and 12th results. Access the official Punjab board result mirror on indiaresults.com for fast result checking.";
@@ -120,3 +121,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

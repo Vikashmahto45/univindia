@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "odisha.indiaresults.com 2023 - Official Odisha Board Mirror";
 $meta_description = "Check odisha.indiaresults.com 2023 online. Access the results for all Odisha State Boards (CHSE, BSE) and Universities for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 12th 2021 bihar board - Official BSEB Archive";
 $meta_description = "Check india result 12th 2021 bihar board for Intermediate Arts, Science, and Commerce. Access the official Bihar Board 2021 result mirror for the 12th batch.";
@@ -124,3 +125,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

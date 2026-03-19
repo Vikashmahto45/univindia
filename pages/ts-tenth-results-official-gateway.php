@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "ts tenth results - Official Telangana Secondary Hub";
 $meta_description = "Check ts tenth results for SSC exams. Access the official Telangana Board of Secondary Education (BSE) result gateway and archives on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

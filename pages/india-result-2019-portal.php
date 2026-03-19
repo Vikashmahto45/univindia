@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2019 - Official 2019 National Result Archive";
 $meta_description = "Check india result 2019 for 10th, 12th, and university exams. Access the official 2019 national result archive and historical marksheet download portal.";
@@ -120,3 +121,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

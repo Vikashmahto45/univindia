@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSU Exam Form - Bikaner University Online Registration";
 $meta_description = "Fill your MGSU Bikaner exam forms on Univindia Net MGSU Exam Form portal. Official guide to online registration, fee payment, and form status for Bikaner university.";
@@ -53,4 +54,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

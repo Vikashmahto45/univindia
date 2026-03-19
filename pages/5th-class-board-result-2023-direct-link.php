@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "5th Class Board Result 2023 Direct Link - Official National archive";
 $meta_description = "Check 5th Class Board Result 2023 Direct Link online. Access the historical Rajasthan (RBSE) and Punjab (PSEB) Primary results for 2023. Official marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

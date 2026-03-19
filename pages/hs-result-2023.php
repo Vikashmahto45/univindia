@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "HS Result 2023 - Official National Mirror";
 $meta_description = "Check HS Result 2023 online. Access the historical Higher Secondary results for WB, Assam, and Odisha for the 2023 session. Official 2023 result mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

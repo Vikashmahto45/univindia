@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "MGSU Admit Card 2018 Univindia - Bikaner University 2018 Hall Tickets";
 $meta_description = "Access your MGSU Bikaner 2018 admit cards via Univindia. Official guide to retrieving historical 2018 Maharaja Ganga Singh University hall tickets online.";
@@ -56,4 +57,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "www sebaonline org hslc result - Official SEBA Assam Hub";
 $meta_description = "Check www sebaonline org hslc result for Assam Board exams. Access the official sebaonline.org High School Leaving Certificate (HSLC) result mirror on indiaresults.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

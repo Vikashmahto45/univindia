@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "orisha result nic.in - Official Odisha Board Mirror";
 $meta_description = "Check orisha result nic.in online. Access the results for Board of Secondary Education (BSE) and Council of Higher Secondary Education (CHSE) Odisha.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

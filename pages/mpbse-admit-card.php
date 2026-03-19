@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "MPBSE Admit Card 2025: MP Board 10th & 12th Hall Ticket Download @ mpbse.nic.in";
@@ -190,4 +191,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

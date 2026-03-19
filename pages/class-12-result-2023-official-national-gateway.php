@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "class 12 result 2023 - Official National 12th Hub";
 $meta_description = "Check all board results on class 12 result 2023. Access the official indiaresults portal for 12th (Intermediate) scorecards of the 2023 academic session.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

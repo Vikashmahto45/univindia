@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result RBSE - Official Rajasthan Board examination Hub";
 $meta_description = "Check India Result RBSE online. Access the high-speed Rajasthan Board (BSER) 10th and 12th results on IndiaResults mirror. 2024 official merit lists link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

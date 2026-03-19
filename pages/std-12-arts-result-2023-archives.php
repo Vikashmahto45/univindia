@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "std 12 arts result 2023 - Official 12th Arts Result 2023 Archive";
 $meta_description = "Check std 12 arts result 2023 for all state board exams. Access the official 2023 Class 12th (Senior Secondary) Arts result portal on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

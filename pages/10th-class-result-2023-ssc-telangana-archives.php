@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10th class result 2023 ssc telangana - Official TS SSC Hub";
 $meta_description = "Check Telangana Board 10th result 2023 on 10th class result 2023 ssc telangana. Access official BSE Telangana SSC 2023 archival scorecards on indiaresults.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

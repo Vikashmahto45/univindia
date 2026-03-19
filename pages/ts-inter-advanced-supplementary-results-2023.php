@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "ts inter advanced supplementary results 2023 - Official TSBIE Portal";
 $meta_description = "Check ts inter advanced supplementary results 2023 online. Access the Telangana State Board of Intermediate Education (TSBIE) IPASE June results.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

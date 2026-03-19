@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "www.indiaresults.com 2022 - Official National 2022 Hub";
 $meta_description = "Check all board results on www.indiaresults.com 2022. Access the official indiaresults gateway for 10th & 12th results of the 2022 academic session.";
@@ -119,5 +120,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

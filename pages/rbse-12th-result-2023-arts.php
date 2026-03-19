@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE 12th Result 2023 Arts - Rajasthan Board Class 12 Arts Results";
 $meta_description = "Check the RBSE 12th Result 2023 Arts archive. Access Rajasthan Board class 12th arts scores, merit lists, and official BSER Ajmer result data at rajresults.nic.in.";
@@ -70,4 +71,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

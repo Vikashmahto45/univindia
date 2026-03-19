@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india ka result - Official National Examination Result Hub";
 $meta_description = "Check india ka result for all major board, university, and competitive exams. Access the official all India result portal on indiaresults for high-speed checking.";
@@ -116,5 +117,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

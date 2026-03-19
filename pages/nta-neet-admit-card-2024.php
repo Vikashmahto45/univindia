@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "NTA NEET Admit Card 2024 Download - National Testing Agency Hall Ticket | Univindia.online";
@@ -93,4 +94,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

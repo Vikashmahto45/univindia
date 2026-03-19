@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Cache Http Www Univindia Com - University Portal Cached Access Guide";
 $meta_description = "Access cached versions of Univindia Com during server downtime. Official guide to retrieving university results and forms via web caches online.";
@@ -48,4 +49,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

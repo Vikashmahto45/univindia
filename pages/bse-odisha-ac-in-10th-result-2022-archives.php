@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bse odisha.ac.in 10th result 2022 - Official Odisha Secondary Archive";
 $meta_description = "Check bse odisha.ac.in 10th result 2022 for Matric exams. Access the official 2022 Odisha (BSE) archival result portal on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

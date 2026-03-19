@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults.com Punjab 2022 10th Class - Official PSEB Archive";
 $meta_description = "Check Indiaresults.com Punjab 2022 10th Class online. Access the historical Punjab School Education Board (PSEB) Matric results for the 2022 session. Official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

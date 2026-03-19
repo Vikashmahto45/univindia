@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "www orissaresults nic in 2022 +2 arts - Official CHSE Odisha 2022 Archive";
 $meta_description = "Check www orissaresults nic in 2022 +2 arts for CHSE Class 12 exams. Access the official 2022 Odisha Higher Secondary (+2 Arts) archival portal on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

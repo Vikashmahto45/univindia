@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "odisha result.nic.in 2021 - Official Odisha Board Hub";
 $meta_description = "Check Odisha Board result 2021 on odisha result.nic.in 2021. Access official BSE Odisha 2021 archival scorecards and 2021 result links on indiaresults.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

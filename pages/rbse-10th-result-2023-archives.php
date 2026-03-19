@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rbse 10th result 2023 - Official Rajasthan Secondary 2023 Archive";
 $meta_description = "Check rbse 10th result 2023 for Matric exams. Access the official 2023 Board of Secondary Education Rajasthan (BSER) archival portal and result link.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
-<?php include '../header.php'; ?>
+<?php include '../footer.php'; ?>

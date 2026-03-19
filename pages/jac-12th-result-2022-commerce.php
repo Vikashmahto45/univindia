@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "JAC 12th Result 2022 Commerce - Official Jharkhand Board Archive";
 $meta_description = "Check JAC 12th Result 2022 Commerce online. Access the historical Jharkhand Academic Council (JAC) Ranchi Intermediate Commerce results for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

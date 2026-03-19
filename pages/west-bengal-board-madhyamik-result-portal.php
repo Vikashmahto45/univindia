@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "west bengal board madhyamik result - Official WBBSE Mirror Gateway";
 $meta_description = "Check west bengal board madhyamik result for Class 10th exams. Access the official West Bengal (WBBSE) result portal on indiaresults for high-speed checking.";
@@ -115,5 +116,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

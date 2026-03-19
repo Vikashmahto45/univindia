@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "PSEB.ac.in 8th Result 2023 - Punjab Board Class 8 Examination Result Hub";
 $meta_description = "Check PSEB.ac.in 8th Result 2023 for official Punjab School Education Board class 8 scores. Access the 2023 middle school results, merit lists, and marksheet downloads.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

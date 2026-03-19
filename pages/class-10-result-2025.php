@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Class 10 Result 2025 - All India Board 10th Result Hub";
 $meta_description = "Check Class 10 Result 2025 for CBSE, ICSE, and all state boards. Access the latest updates on high school result dates, scoring patterns, and official links.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

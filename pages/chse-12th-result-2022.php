@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "CHSE 12th Result 2022 - Official Odisha Board Archive";
 $meta_description = "Check CHSE 12th Result 2022 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Plus Two (+2) results for the 2022 session. Official marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

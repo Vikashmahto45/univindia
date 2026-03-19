@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults.com Punjab 2021 - Official PSEB Archive Results";
 $meta_description = "Check Indiaresults.com Punjab 2021 for official PSEB 10th and 12th results. Access the 2023 archival results, merit lists, and name-wise search for Punjab Board scholars.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

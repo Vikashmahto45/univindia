@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rbse 12th result 2021 name wise science - Official Rajasthan Board Archive";
 $meta_description = "Check rbse 12th result 2021 name wise science for BSER Senior Secondary exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults.";
@@ -124,5 +125,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in";
@@ -190,4 +191,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

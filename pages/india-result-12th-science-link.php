@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 12th science - Official National Science Result Hub";
 $meta_description = "Check india result 12th science for CBSE, ICSE, and all State Boards. Access the official 12th science stream result portal and marksheet download.";
@@ -122,3 +123,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

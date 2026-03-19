@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Rajasthan University Result - Official Uniraj Examination Portal";
 $meta_description = "Check Rajasthan University Result online. Access the University of Rajasthan (Uniraj) UG and PG results for BA, BSc, BCom, MA, MSc. Download your Uniraj marksheets instantly.";
@@ -67,4 +68,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

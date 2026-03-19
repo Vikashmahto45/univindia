@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10th class result by name - Official National Secondary Hub";
 $meta_description = "Check Class 10 result by student name on 10th class result by name. Access official indiaresults Name-Wise Search for Secondary scores nationwide.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

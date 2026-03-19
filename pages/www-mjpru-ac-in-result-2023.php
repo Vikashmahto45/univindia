@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www.mjpru.ac.in result 2023 - Official University Mirror";
 $meta_description = "Check www.mjpru.ac.in result 2023 online. Access the results for M.J.P. Rohilkhand University, Bareilly for all Undergraduate and Postgraduate exams.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

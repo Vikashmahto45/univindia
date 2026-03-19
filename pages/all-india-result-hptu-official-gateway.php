@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "all india result hptu - Official National Technical Hub";
 $meta_description = "Check all india result hptu for B.Tech, MBA, MCA and other courses. Access official national HPTU result portals and university mirrors on indiaresults.";
@@ -124,5 +125,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

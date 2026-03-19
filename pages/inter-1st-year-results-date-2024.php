@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "inter 1st year results date 2024 - Official National Board Portal";
 $meta_description = "Check inter 1st year results date 2024 online. Access the expected release dates for Telangana (TSBIE) and Andhra Pradesh (BIEAP) 1st Year results.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

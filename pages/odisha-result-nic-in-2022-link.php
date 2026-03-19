@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "odisha result.nic.in 2022 - Official Odisha Result Archive Hub";
 $meta_description = "Check odisha result.nic.in 2022 for Matric (10th) and Higher Secondary (12th) results. Access the official 2022 Odisha result gateway on indiaresults.";
@@ -114,5 +115,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

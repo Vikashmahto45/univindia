@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "Madhya Pradesh Patwari Admit Card Download - MP PEB Group 2 Sub Group 4 Hall Ticket | Univindia.online";
@@ -93,4 +94,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

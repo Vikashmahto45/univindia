@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia MGSU Practical Admit Card - Bikaner University Practical Hall Ticket";
 $meta_description = "Download your MGSU Bikaner practical exam admit card on Univindia. Complete guide to retrieving practical hall tickets and center details for MGSU students.";
@@ -58,4 +59,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

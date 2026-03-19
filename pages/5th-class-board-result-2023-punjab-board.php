@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "5th class board result 2023 punjab board - Official PSEB Mirror";
 $meta_description = "Check 5th class board result 2023 punjab board online. Access the historical results for Punjab School Education Board (PSEB) Class 5 for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

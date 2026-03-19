@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE - Board of Secondary Education Rajasthan Ajmer";
 $meta_description = "Check RBSE (Board of Secondary Education Rajasthan) official results for 10th and 12th. Access RBSE Ajmer portal, merit lists, and marksheet download links.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

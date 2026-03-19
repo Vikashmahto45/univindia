@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "pseb 12th result 2022 term 2 - Official Punjab 2022 Archive";
 $meta_description = "Check pseb 12th result 2022 term 2 for Senior Secondary exams. Access the official 2022 Punjab Board (PSEB) term 2 archival result gateway.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

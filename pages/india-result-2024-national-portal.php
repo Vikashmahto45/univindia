@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2024 - Official National Gateway Portal";
 $meta_description = "Check india result 2024 for all state and central boards. Access the official 2024 results gateway on indiaresults for high-speed checking across India.";
@@ -110,5 +111,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

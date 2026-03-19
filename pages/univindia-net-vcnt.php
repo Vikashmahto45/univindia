@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net VCNT - MGSU Bikaner Portal Technical Backend";
 $meta_description = "Understand the role of Univindia Net VCNT in university portal operations. Official guide to navigating MGSU Bikaner technical gateways successfully.";
@@ -49,4 +50,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

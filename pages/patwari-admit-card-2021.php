@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "Patwari Admit Card 2021 Download - Rajasthan RSMSSB Patwar Exam Hall Ticket | Univindia.online";
@@ -94,4 +95,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

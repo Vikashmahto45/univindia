@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th Result 2024 Odisha - official BSE Odisha HSC Results Portal";
 $meta_description = "Check 10th Result 2024 Odisha for official High School Certificate (HSC) board examinations. Access the latest BSE Odisha matric result news, dates, and merit lists.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

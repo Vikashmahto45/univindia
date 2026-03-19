@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india odisha result - Official Odisha Board Mirror";
 $meta_description = "Check india odisha result online. Access the results for BSE Odisha Class 10 and CHSE Odisha Class 12 for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

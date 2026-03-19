@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result CBSE Board - Official National Mirror";
 $meta_description = "Check India Result CBSE Board online. Access the primary CBSE 10th and 12th results via the official IndiaResults mirror. High-speed national result link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

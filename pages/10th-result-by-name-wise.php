@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th result by name wise - Official National Board Mirror";
 $meta_description = "Check 10th result by name wise online. Access the results for all Indian State Boards (Rajasthan, Bihar, Punjab, etc.) using your name for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

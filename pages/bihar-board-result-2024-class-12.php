@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Bihar Board Result 2024 Class 12 - Official Intermediate Examination Hub";
 $meta_description = "Check Bihar Board Result 2024 Class 12 online. Access the Bihar School Examination Board (BSEB) 12th result link for Science, Commerce, and Arts marksheets 2024.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

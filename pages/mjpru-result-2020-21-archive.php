@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "mjpru result 2020-21 - Official Rohilkhand University Archive Portal";
 $meta_description = "Check mjpru result 2020-21 for BA, BSc, BCom, and Semester examinations. Access the official MJPRU 2020-21 result archive on indiaresults.";
@@ -113,5 +114,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

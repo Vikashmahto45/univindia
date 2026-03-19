@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "mjpru result 2023 by name - Official Rohilkhand University 2023 Archive";
 $meta_description = "Check mjpru result 2023 by name for UG and PG exams. Access the official 2023 Mahatma Jyotiba Phule Rohilkhand University (MJPRU) archival portal on indiaresults.";
@@ -119,5 +120,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

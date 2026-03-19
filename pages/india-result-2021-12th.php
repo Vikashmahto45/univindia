@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2021 12th - Official Archive of Senior Secondary Results";
 $meta_description = "Access the india result 2021 12th for all state and national boards. Documenting the high-speed mirrors and official archives for the 2021 senior secondary exams.";
@@ -120,3 +121,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks";
 $meta_description = "Check the B.A. Result 2018 archives. Access historical Bachelor of Arts scores from major Indian universities and understand the result retrieval process for the 2018 cycle.";
@@ -72,4 +73,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

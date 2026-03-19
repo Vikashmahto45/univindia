@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "name wise result rbse - Official Rajasthan Board Search Hub";
 $meta_description = "Check name wise result rbse for 10th and 12th board exams. Access the official Rajasthan (RBSE) name-based result portal on indiaresults.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

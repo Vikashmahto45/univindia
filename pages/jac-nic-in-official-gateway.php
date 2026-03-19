@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "jac nic in - Official Jharkhand Board Hub";
 $meta_description = "Check Jharkhand Board result on jac nic in. Access official JAC Ranchi 10th & 12th scorecards on indiaresults archival portal for JAC exams.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

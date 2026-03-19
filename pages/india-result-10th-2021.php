@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india result 10th 2021 - Official National Board Mirror";
 $meta_description = "Check india result 10th 2021 online. Access the historical results for all Indian State Boards for the 2021 Matric session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

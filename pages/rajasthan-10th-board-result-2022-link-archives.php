@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rajasthan 10th board result 2022 link - Official Secondary Archive Hub";
 $meta_description = "Check rajasthan 10th board result 2022 link for BSER exams. Access the official 2022 Rajasthan Secondary archival result portal on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

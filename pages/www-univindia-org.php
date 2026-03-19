@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www Univindia Org - Raj Rishi Bhartrihari Matsya University Result Hub";
 $meta_description = "Www Univindia Org is the official digital portal for RRBMU Alwar results and admit cards. Complete guide to using Www Univindia Org for Matsya University students.";
@@ -50,4 +51,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

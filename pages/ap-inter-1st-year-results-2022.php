@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "ap intermediate 1st year results 2022 - Official BIEAP Archive";
 $meta_description = "Check ap intermediate 1st year results 2022 for General and Vocational streams. Access the official Andhra Pradesh Inter 1st year result gateway on indiaresults.";
@@ -110,5 +111,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

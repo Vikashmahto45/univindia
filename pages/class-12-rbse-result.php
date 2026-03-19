@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Class 12 RBSE Result - Official Rajasthan Board 12th Portal";
 $meta_description = "Check Class 12 RBSE Result online. Access the high-speed Rajasthan Board (RBSE) Senior Secondary results for Science, Commerce, and Arts. Official marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

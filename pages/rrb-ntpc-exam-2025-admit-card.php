@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "RRB NTPC Exam 2025 Admit Card Download - Railway Graduate Level Hall Ticket | Univindia.online";
@@ -94,4 +95,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

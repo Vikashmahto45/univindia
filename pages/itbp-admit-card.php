@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download";
 $meta_description = "Download ITBP Admit Card 2024 for Constable, Head Constable, ASI, and SI. Get direct link for Indo-Tibetan Border Police Recruitment PET/PST and Written Exam Hall Ticket.";
@@ -130,6 +131,4 @@ include '../header.php';
         </div>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

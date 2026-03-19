@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 12th 2024 - All State and Central Board Results Updates";
 $meta_description = "Check India Result 12th 2024 for all state and central boards (CBSE/ISC). Access official result dates, merit lists, and marksheet download links for the Class of 2024.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

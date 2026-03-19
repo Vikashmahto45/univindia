@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10th result 2023 odisha date - Official Odisha Secondary 2023 Archive";
 $meta_description = "Check 10th result 2023 odisha date and notification. Access the official 2023 Odisha academic result portal, declaration dates, and archives on indiaresults.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

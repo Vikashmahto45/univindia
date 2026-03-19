@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Results AP - Official Andhra Pradesh Board Result Hub";
 $meta_description = "Check India Results AP online. Access the high-speed Andhra Pradesh (BSEAP, BIEAP) SSC and Inter results on IndiaResults mirror. 2024 merit lists link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

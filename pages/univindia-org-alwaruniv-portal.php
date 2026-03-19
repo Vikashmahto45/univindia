@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Org AlwarUniv Portal - Matsya University Official Access Hub";
 $meta_description = "Access the Univindia Org AlwarUniv portal for RRBMU Alwar. Official guide to navigating Matsya University exam forms, results, and student services.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

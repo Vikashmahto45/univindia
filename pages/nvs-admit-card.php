@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "NVS Admit Card Download - Navodaya Vidyalaya Samiti Hall Ticket";
 $meta_description = "Download NVS Admit Card for TGT, PGT, and Principal recruitment. Get the direct hall ticket link from the official NVS portal.";
@@ -62,4 +63,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

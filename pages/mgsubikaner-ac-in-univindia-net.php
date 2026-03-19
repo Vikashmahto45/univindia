@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Mgsubikaner.ac.in & Univindia.net - MGSU Bikaner Dual Portal Guide";
 $meta_description = "Understand the difference between Mgsubikaner.ac.in and Univindia.net for MGSU Bikaner. Official guide to using both university portals for student services.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

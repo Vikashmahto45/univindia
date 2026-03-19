@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "Navodaya Admit Card 2024 Download - NVS Class 6th & 9th JNVST Hall Ticket | Univindia.online";
@@ -94,4 +95,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

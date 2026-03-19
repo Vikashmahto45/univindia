@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Rajasthan India Result - Official Board of Secondary Education Archive";
 $meta_description = "Check Rajasthan India Result online. Access the high-speed Rajasthan Board (RBSE) 10th and 12th results for all years. Official mirror marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

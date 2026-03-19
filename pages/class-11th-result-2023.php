@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "class 11th result 2023 - Official All-India Board Mirror";
 $meta_description = "Check class 11th result 2023 online. Access the annual results for Class 11 exams conducted by various state boards (JKBOSE, HSE, etc.) for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

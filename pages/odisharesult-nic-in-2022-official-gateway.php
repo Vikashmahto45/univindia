@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "odisharesult.nic.in 2022 - Official Odisha 2022 Result Hub";
 $meta_description = "Check Odisha Board result 2022 on odisharesult.nic.in 2022. Access official Odisha 10th & 12th scorecards and 2022 archival links on indiaresults portal.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

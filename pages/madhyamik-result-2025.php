@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Madhyamik Result 2025 - WBBSE West Bengal 10th Result Updates";
 $meta_description = "Check WBBSE Madhyamik Result 2025 online. Get the latest news on West Bengal 10th class result dates, merit lists, and official scores at wbresults.nic.in.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

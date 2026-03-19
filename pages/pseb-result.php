@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "PSEB Result - Official Punjab School Education Board Hub";
 $meta_description = "Check PSEB Result online. Access the Punjab Board (PSEB) 8th, 10th, and 12th results. Official 2024 marksheets and board stats available for download.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "pseb ac in result - Official Punjab Board Gateway Hub";
 $meta_description = "Check pseb ac in result for Class 5th, 8th, 10th, and 12th examinations. Access the official Punjab School Education Board (PSEB) result portal on indiaresults.";
@@ -110,5 +111,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

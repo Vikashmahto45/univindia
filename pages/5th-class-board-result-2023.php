@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "5th Class Board Result 2023 - Official National Portal";
 $meta_description = "Check 5th Class Board Result 2023 online. Access the primary Class 5 results for HP Board, Punjab Board, and Rajasthan Shala Darpan. Official marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

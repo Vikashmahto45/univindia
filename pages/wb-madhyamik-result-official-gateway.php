@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "wb madhyamik result - Official West Bengal 10th Hub";
 $meta_description = "Check West Bengal Board Madhyamik result on wb madhyamik result. Access official WBBSE Class 10th scorecards and results on indiaresults archival portal.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

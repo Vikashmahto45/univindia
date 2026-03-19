@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "sgbau result - Official Sant Gadge Baba Amravati University Portal";
 $meta_description = "Check sgbau result for BA, BSc, BCom, MA, MSc, and Engineering exams. Access the official Sant Gadge Baba Amravati University (SGBAU) result gateway on indiaresults for the latest updates.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

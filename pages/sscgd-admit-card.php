@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "SSCGD Admit Card 2025: SSC GD Constable Hall Ticket Download @ ssc.gov.in";
@@ -190,4 +191,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

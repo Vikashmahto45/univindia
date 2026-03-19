@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rbse 12th result 2022 name wise - Official Rajasthan Board Mirror";
 $meta_description = "Check rbse 12th result 2022 name wise online. Access the search by name facility for Rajasthan Board Class 12 (Arts, Science, Commerce) for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

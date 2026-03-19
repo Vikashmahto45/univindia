@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "calcutta university results - Official WB UG/PG Archive";
 $meta_description = "Check calcutta university results for BA, BSc, BCom, and Semester examinations. Access the official CU result portal on indiaresults for high-speed checking.";
@@ -114,5 +115,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in";
@@ -190,4 +191,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

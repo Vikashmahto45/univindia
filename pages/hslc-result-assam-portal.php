@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "HSLC Result - Official Assam Board Secondary Portal";
 $meta_description = "Check HSLC Result online. Access the Secondary Education Board of Assam (SEBA) High School Leaving Certificate results for current and historical sessions.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

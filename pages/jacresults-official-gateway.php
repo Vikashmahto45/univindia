@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "jacresults - Official Jharkhand Academic Council Hub";
 $meta_description = "Check jacresults for JAC 10th and 12th exams. Access the official Jharkhand Academic Council (JAC) result portal and archives on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
-<?php include '../header.php'; ?>
+<?php include '../footer.php'; ?>

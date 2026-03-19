@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "jac result 2023 class 10 - Official Jharkhand Secondary 2023 Archive";
 $meta_description = "Check jac result 2023 class 10 for JAC Board exams. Access the official 2023 Jharkhand Academic Council (JAC) result portal and archives on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

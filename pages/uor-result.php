@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "UOR Result - Official University of Rajasthan result Portal";
 $meta_description = "Check UOR Result online. Access the high-speed University of Rajasthan (Uniraj) BA, BSc, BCom, and MA results. Official Jaipur marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

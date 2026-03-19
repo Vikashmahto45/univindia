@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rajresults.nic.in 2023 12th class - Official Rajasthan Mirror";
 $meta_description = "Check rajresults.nic.in 2023 12th class online. Access the results for Board of Secondary Education Rajasthan (RBSE) Senior Secondary for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

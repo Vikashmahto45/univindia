@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th Result 2022 Odisha Website - Official BSE Odisha Mirror";
 $meta_description = "Check 10th Result 2022 Odisha online. Access the historical BSE Odisha Class 10 results for the 2022 session. Official 2022 orissaresults.nic.in mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

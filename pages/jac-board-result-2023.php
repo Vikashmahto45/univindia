@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "JAC Board Result 2023 - Historical Jharkhand Academic Council Archive";
 $meta_description = "Check JAC Board Result 2023 online. Access the historical Jharkhand Academic Council (JAC) Ranchi 10th and 12th results for the 2023 session. Official marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

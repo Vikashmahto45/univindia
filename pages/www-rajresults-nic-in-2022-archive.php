@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "www.rajresults.nic.in 2022 - Official Rajasthan Result Archive";
 $meta_description = "Check www.rajresults.nic.in 2022 for Class 10th and 12th results. Access the official 2022 Rajasthan (RBSE) result archive on indiaresults.";
@@ -115,5 +116,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

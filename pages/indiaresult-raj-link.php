@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indiaresult raj - Official Rajasthan Board Mirror";
 $meta_description = "Check indiaresult raj online. Access the latest and historical results for all Rajasthan Board (RBSE) and Universities (UOR, MDSU, MGSU, etc.).";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indian results 2024 - Official National Board Mirror";
 $meta_description = "Check indian results 2024 online. Access the results for all Indian State Boards and Universities for the 2024 academic session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

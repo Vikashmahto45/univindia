@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rbse 12 science result 2023 - Official Rajasthan Board Hub";
 $meta_description = "Check Rajasthan Board 12th Science result 2023 on rbse 12 science result 2023. Access official BSER Ajmer 2023 archival scorecards on indiaresults portal.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresult Com 2024 - Official National Board Result Search";
 $meta_description = "Check Indiaresult Com 2024 online. Access the results for all Indian state boards including Punjab, HP, and Rajasthan. Search by name and roll number for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

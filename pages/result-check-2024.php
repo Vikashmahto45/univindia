@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Result Check 2024 - Official Multi-Board Result Verification Gateway";
 $meta_description = "Check Result Check 2024 online. Access the results for all national (CBSE, ICSE) and state boards (UP, Rajasthan, Bihar, MP) for the 2024 session with instant links.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

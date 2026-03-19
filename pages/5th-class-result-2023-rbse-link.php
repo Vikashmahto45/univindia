@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "5th class result 2023 rbse link - Rajasthan Board Update";
 $meta_description = "Check 5th class result 2023 rbse online. Access the direct link for Rajasthan Board Class 5 primary education results.";
@@ -62,4 +63,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

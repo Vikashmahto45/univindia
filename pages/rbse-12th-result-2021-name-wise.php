@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE 12th Result 2021 Name Wise - Official National Archive";
 $meta_description = "Check RBSE 12th Result 2021 Name Wise online. Access the historical Rajasthan Board Senior Secondary results for the 2021 session using candidate's name. Official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

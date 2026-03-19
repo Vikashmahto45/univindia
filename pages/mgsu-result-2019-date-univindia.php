@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "MGSU Result 2019 Date Univindia - Bikaner University 2019 Score Timelines";
 $meta_description = "Check the MGSU Bikaner 2019 result dates via Univindia. Official guide to tracking the 2019 Maharaja Ganga Singh University marksheet release timeline.";
@@ -50,4 +51,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12th science result - Official National 12th Science Hub";
 $meta_description = "Check 12th science result for all state boards and central councils. Access the official national Class 12 Science archival result portal on indiaresults.";
@@ -124,5 +125,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

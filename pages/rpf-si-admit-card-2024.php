@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in";
@@ -199,4 +200,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

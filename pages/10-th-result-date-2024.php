@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th Result Date 2024 - All India Board Result Calendar";
 $meta_description = "Check the official 10th Result Date 2024 for all state and central boards. Stay updated with the latest news on CBSE, UP Board, RBSE, and BSE Odisha matric result announcements.";
@@ -79,4 +80,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

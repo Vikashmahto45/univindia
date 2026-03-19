@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indiaresults.com 2020 result - Official National Board Mirror";
 $meta_description = "Check indiaresults.com 2020 result online. Access the historical results for all Indian State Boards and Universities for the 2020 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

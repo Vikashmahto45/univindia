@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresults.com 2019 - Official 2019 Academic Result Archive";
 $meta_description = "Check indiaresults.com 2019 for university and board exams. Access the official 2019 academic result portal and archival verification links on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 // rbse 10th 2023 result
 ?>
@@ -48,4 +49,4 @@
     </footer>
 </body>
 </html>
-
+<?php include '../footer.php'; ?>

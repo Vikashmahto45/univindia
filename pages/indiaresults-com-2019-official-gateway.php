@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indiaresults.com 2019 - Official National 2019 Results Hub";
 $meta_description = "Check all board results on indiaresults.com 2019. Access the official indiaresults gateway for 10th & 12th scorecards of the 2019 academic session.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

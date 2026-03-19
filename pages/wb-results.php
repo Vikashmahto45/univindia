@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "wb results - Official West Bengal Board Portal";
 $meta_description = "Check wb results online. Access the Madhyamik (Class 10) and Higher Secondary (Class 12) results for West Bengal Board of Secondary Education (WBBSE).";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

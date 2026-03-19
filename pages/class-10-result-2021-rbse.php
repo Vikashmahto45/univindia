@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Class 10 Result 2021 RBSE - Official Rajasthan Archive";
 $meta_description = "Check Class 10 Result 2021 RBSE online. Access the historical Rajasthan Board matric results for the 2021 session. Official 2021 BSER result mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

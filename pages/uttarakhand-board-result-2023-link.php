@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "uttarakhand board result 2023 - Official UBSE Mirror";
 $meta_description = "Check uttarakhand board result 2023 online. Access the results for Uttarakhand Board of School Education (UBSE) Class 10 and 12 for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

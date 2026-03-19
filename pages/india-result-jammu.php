@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result Jammu - Official JKBOSE Jammu Division Result Hub";
 $meta_description = "Check India Result Jammu online. Access the J&K Board (JKBOSE) Jammu Division 10th and 12th results. Official search-by-name links for Jammu division exams 2024.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

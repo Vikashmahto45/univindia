@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresults.com 2020 12th rbse - Official Rajasthan Board 2020 Archive";
 $meta_description = "Check indiaresults.com 2020 12th rbse for Senior Secondary exams. Access the official 2020 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

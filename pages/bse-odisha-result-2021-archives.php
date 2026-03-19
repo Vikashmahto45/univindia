@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bse odisha result 2021 - Official Odisha Matric Archive Hub";
 $meta_description = "Check bse odisha result 2021 for HSC examinations. Access the official 2021 Odisha Secondary archival result portal on indiaresults.";
@@ -116,5 +117,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

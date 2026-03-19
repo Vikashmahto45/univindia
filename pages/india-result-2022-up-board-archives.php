@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2022 up board - Official Uttar Pradesh 2022 Archive";
 $meta_description = "Check india result 2022 up board for Class 10 and 12 exams. Access the official 2022 Uttar Pradesh Board (UPMSP) archival result portal on indiaresults.";
@@ -124,5 +125,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

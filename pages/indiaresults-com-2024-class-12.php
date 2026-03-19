@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults Com 2024 Class 12 - Official Intermediate Result Archive";
 $meta_description = "Check Indiaresults Com 2024 Class 12 online. Access the results for all Indian state boards including Punjab, Rajasthan, and HP by name and roll number for the 12th session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

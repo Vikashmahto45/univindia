@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12th rbse result 2022 arts - Official Rajasthan 12th Arts Hub";
 $meta_description = "Check Rajasthan Board 12th Arts result 2022 on 12th rbse result 2022 arts. Access official RBSE Senior Secondary Arts 2022 archival scorecards on indiaresults.";
@@ -124,5 +125,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

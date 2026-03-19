@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www.bseodisha.ac.in 2023 10th Result - Official Board Portal";
 $meta_description = "Check www.bseodisha.ac.in 2023 10th Result online. Access the historical Board of Secondary Education (BSE) Odisha High School Certificate (HSC) results for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www-wbresults-nic-in 2022 - Official West Bengal Board Mirror";
 $meta_description = "Check www-wbresults-nic-in 2022 online. Access the historical Madhyamik (Class 10) and Higher Secondary (Class 12) results for West Bengal for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

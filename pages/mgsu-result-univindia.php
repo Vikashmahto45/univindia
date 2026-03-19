@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "MGSU Result Univindia Portal - Bikaner University Score Gateway";
 $meta_description = "Check your Maharaja Ganga Singh University results via the MGSU Result Univindia portal. Official guide to accessing Bikaner marksheet records online.";
@@ -57,4 +58,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

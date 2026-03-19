@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "CHSE Odisha Results - Official Plus Two Higher Secondary Portal";
 $meta_description = "Check CHSE Odisha Results for official +2 Science, Commerce, and Arts board examinations. Access the official CHSE Odisha result gateway, merit lists, and marksheet downloads.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Rajsthan Result.com - Official Rajasthan Board examination Hub";
 $meta_description = "Check Rajsthan Result.com online. Access the high-speed RBSE 10th and 12th results. Official Rajasthan marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

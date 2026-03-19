@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result PSEB - Official Punjab Board Mirror Portal";
 $meta_description = "Check India Result PSEB online. Access the historical Punjab School Education Board (PSEB) 8th, 10th, and 12th results via the official national mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

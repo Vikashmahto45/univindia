@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "SBI Clerk Admit Card 2025 - Download Upcoming JA Hall Ticket";
 $meta_description = "SBI Clerk Admit Card 2025 Download. Stay updated on the upcoming State Bank of India Junior Associate exam schedule and hall ticket links.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

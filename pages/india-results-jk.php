@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india results jk - Official JKBOSE Board Mirror";
 $meta_description = "Check india results jk online. Access the results for JKBOSE Class 10 and Class 12 for the Jammu and Kashmir board for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

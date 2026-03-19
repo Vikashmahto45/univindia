@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 8 - Official National Middle School result Hub";
 $meta_description = "Check India Result 8 online. Access the high-speed national and state board Class 8 result verification framework. Official marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

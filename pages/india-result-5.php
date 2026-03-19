@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 5 - Official National Class 5th Primary Portal";
 $meta_description = "Check India Result 5 online. Access the historical Rajasthan (RBSE), Punjab (PSEB), and All-India State Board Class 5th primary examination results via the official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

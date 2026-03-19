@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "bseodisha.nic.in 10th Result 2022 - Official Matric Archive";
 $meta_description = "Check bseodisha.nic.in 10th Result 2022 online. Access the historical Board of Secondary Education Odisha Class 10th results. Official state link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

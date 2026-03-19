@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores";
 $meta_description = "Check your MGSU Bikaner BA 2nd year results for 2024 on Univindia Net. Official guide to downloading Bachelor of Arts Part 2 results for the 2024 session.";
@@ -61,4 +62,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

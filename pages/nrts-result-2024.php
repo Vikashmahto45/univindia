@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "nrts result 2024 - Official Odisha BSE Portal";
 $meta_description = "Check nrts result 2024 online. Access the National Rural Talent Scholarship (NRTS) results conducted by Board of Secondary Education (BSE) Odisha.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

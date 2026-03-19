@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE 12th Result 2022 Science - Official Rajasthan +2 Science Archive";
 $meta_description = "Check RBSE 12th Result 2022 Science for official Rajasthan board senior secondary scores. Access the 2022 archival results, merit lists, and marksheet download links.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

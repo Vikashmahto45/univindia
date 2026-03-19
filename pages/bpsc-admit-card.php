@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in";
@@ -184,4 +185,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

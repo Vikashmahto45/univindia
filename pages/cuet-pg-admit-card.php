@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in";
@@ -185,4 +186,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

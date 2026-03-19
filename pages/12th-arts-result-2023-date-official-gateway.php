@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12th arts result 2023 date - Official Arts Stream Result Schedule Hub";
 $meta_description = "Check 12th arts result 2023 date for Class 12 exams. Access the official 2023 Higher Secondary Arts result declaration schedule and portal on indiaresults.";
@@ -119,5 +120,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "b.com 2nd year result 2022 - Official University Mirror";
 $meta_description = "Check b.com 2nd year result 2022 online. Access the historical results for all Indian Universities (RU, BU, CCSU, etc.) for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard";
 $meta_description = "Access the Www Univindia Net Main Page for MGSU Bikaner. Official guide to navigating university examination forms, results, and student panels online.";
@@ -52,4 +53,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

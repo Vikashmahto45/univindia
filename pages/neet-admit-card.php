@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in";
@@ -211,4 +212,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

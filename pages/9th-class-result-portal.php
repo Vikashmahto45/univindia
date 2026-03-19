@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "9th class result - Official Academic Result Portal";
 $meta_description = "Check 9th class result for school and state exams. Access the official Class 9th result portal and marksheet verification links on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

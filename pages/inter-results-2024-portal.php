@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "inter results 2024 - Official National Gateway";
 $meta_description = "Check inter results 2024 online. Access the results for all major state intermediate and senior secondary boards for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

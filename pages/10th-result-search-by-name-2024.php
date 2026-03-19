@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th Result Search By Name 2024 - Official Name-Wise Matric Gateway";
 $meta_description = "Check 10th Result Search By Name 2024 online. Access the name-wise search for Rajasthan, Punjab, and other state boards for the 20th matriculation session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

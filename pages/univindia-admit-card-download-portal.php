@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Admit Card Download Portal - Bikaner University Permit Gateway";
 $meta_description = "Download your MGSU Bikaner admit cards via the Univindia portal. Official guide to retrieving 2024 Maharaja Ganga Singh University hall tickets online.";
@@ -57,4 +58,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

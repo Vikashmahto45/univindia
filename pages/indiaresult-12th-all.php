@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresult 12th All States - Official National Result Portal";
 $meta_description = "Check Indiaresult 12th All States online. Access the high-speed link for higher secondary results across Rajasthan, Punjab, Bihar, and UP boards. Official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

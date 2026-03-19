@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "AP SSC Results 2024 - Official Andhra Pradesh Board Link";
 $meta_description = "Check AP SSC Results 2024 online. Access the Andhra Pradesh Board (BSEAP) Secondary School Certificate results for the 2024 session. Official 2024 BSEAP portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

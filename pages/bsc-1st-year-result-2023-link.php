@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "BSc 1st Year Result 2023 - Download University BSc Part 1 Marksheet";
 $keyword = "bsc 1st year result 2023";
@@ -32,6 +33,4 @@ include '../header.php';
         <p>Most universities like RU, MGSU, MDSU, MLSU, and others have updated their portals with the latest BSc results. Ensure you have your admit card ready to verify the details.</p>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in";
@@ -191,4 +192,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

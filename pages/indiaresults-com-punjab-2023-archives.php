@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresults.com punjab 2023 - Official Punjab 2023 Archive";
 $meta_description = "Check Punjab Board 2023 results on indiaresults.com punjab 2023. Access the official PSEB Class 10 and 12 archival results for the 2023 session.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

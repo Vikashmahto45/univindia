@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "+1 Result 2021 - Historical National Class 11 Result archive";
 $meta_description = "Check +1 Result 2021 online. Access the historical Class 11 (Plus One) results for the 2021 session. Official results from DHSE Kerala, TNBSE, and more.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

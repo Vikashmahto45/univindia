@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)";
 $meta_description = "Download archived JEE Mains 2022 Admit Card for Session 1 and 2. Get information on NTA JEE Main June/July exam hall tickets, center instructions and recovery of application number.";
@@ -114,6 +115,4 @@ include '../header.php';
         </div>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

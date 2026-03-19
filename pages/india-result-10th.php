@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 10th Class - All India Board 10th Result Portal";
 $meta_description = "Check India Result 10th class for all boards. Access CBSE, ICSE, and State Board 10th class results online. Your complete guide to matriculation scores across India.";
@@ -68,4 +69,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

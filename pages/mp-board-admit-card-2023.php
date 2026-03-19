@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "MP Board Admit Card 2023 Download - MPBSE 10th & 12th Exam Hall Ticket Link | Univindia.online";
@@ -93,4 +94,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

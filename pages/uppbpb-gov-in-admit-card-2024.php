@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "UPPBPB Gov In Admit Card 2024: UP Police Constable 60244 Posts Hall Ticket @ uppbpb.gov.in";
@@ -185,4 +186,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

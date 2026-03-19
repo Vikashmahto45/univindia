@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "MHT CET Admit Card 2024: Download PCM & PCB Hall Ticket @mahacet.org";
 $meta_description = "Download MHT CET Admit Card 2024 for PCM and PCB groups. Get direct link for Maharashtra CET Hall Ticket download, exam date and candidate instructions.";
@@ -119,6 +120,4 @@ include '../header.php';
         </div>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

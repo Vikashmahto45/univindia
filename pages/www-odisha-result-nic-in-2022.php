@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www.odisha result.nic.in 2022 - Official 2022 Archive";
 $meta_description = "Visit Www.odisha result.nic.in 2022 online. Access the historical 2022 board results for Odisha Class 10th and 12th. Official NIC mirror portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

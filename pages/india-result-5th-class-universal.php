@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 5th class - Official Class 5th National Gateway Hub";
 $meta_description = "Check india result 5th class for all state and central boards. Access the official Class 5 (Primary) result portal on indiaresults for high-speed checking.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

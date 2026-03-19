@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online";
@@ -94,4 +95,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result Rajasthan 2022 - RBSE & University Results Archive";
 $meta_description = "Retrieve your India Result Rajasthan 2022 online. Access the archive for Rajasthan Board (RBSE) 10th/12th and University scores from the 2022 session.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

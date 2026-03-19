@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12th result 2022 arts - Official Senior Secondary Arts Archive";
 $meta_description = "Check 12th result 2022 arts for all state boards including Rajasthan, Punjab, and more. Access the official 2022 Senior Secondary Arts result gateway on indiaresults.";
@@ -110,5 +111,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

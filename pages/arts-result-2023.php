@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Arts Result 2023 - Official Multi-Board Archive";
 $meta_description = "Check Arts Result 2023 online. Access the high-speed 12th Arts results for Rajasthan (RBSE), Odisha (CHSE), and MP Board for the 2023 session. Official Link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

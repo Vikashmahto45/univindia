@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "pseb ac in login - Official Punjab Board Portal";
 $meta_description = "Check pseb ac in login online. Access the login portal for Punjab School Education Board (PSEB) for results, registrations, and official services.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

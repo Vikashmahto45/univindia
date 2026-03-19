@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indian College Result - National University and Degree College Hub";
 $meta_description = "Check Indian College Result for all major universities and colleges in India. Access official UG and PG semester results, merit lists, and marksheet download links.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

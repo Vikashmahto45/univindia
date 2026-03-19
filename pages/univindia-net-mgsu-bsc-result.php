@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSU BSc Result - Bikaner University Science Scores";
 $meta_description = "Check your MGSU Bikaner BSc results on Univindia Net. Official guide to downloading Bachelor of Science marksheets for Part 1, 2, and 3 online.";
@@ -61,4 +62,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

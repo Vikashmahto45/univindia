@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "ap 10th class results 2024 - Official BSEAP SSC Portal";
 $meta_description = "Check ap 10th class results 2024 online. Access the official Board of Secondary Education Andhra Pradesh SSC result portal and marksheet download.";
@@ -124,3 +125,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

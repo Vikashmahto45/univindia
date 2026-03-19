@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10th result 2022 odisha sa1 - Official Odisha 2022 SA1 Archive";
 $meta_description = "Check Odisha Board 10th SA1 result 2022 on 10th result 2022 odisha sa1. Access official BSE Odisha Summative Assessment 1 archival results on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

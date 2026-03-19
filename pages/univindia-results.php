@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Results - Check University Exam Scores & Marksheets";
 $meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Results portal. Complete guide to downloading marksheets and checking revaluation results online.";
@@ -61,4 +62,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

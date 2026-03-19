@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "aps result - Official School Examination Hub";
 $meta_description = "Check aps result for all classes and board exams. Access the official Army Public School (APS) and general school result portal on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

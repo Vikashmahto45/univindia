@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "ap intermediate results - Official BIEAP Hub";
 $meta_description = "Check ap intermediate results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

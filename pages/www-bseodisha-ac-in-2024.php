@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www.bseodisha.ac.in 2024 - Official Odisha Board 10th Result Portal";
 $meta_description = "Check www.bseodisha.ac.in 2024 results online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) results. Official Link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

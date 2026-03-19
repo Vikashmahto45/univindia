@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Official Result Portal - National & State Examination Result Hub";
 $meta_description = "Check your examination Result online across all Indian boards and universities. Find the latest 10th, 12th, and entrance exam results, merit lists, and marksheets.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

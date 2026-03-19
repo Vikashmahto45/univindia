@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "wbbse result 2021 - Official West Bengal Madhyamik Archive";
 $meta_description = "Check wbbse result 2021 for Madhyamik Class 10th. Access the official 2021 West Bengal Board (WBBSE) archival result portal on indiaresults.";
@@ -113,5 +114,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

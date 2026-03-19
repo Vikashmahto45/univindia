@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "west bengal madhyamik result 2023 - Official WBBSE Hub";
 $meta_description = "Check West Bengal Board 10th result 2023 on west bengal madhyamik result 2023. Access official WBBSE Madhyamik 2023 archival scorecards on indiaresults.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

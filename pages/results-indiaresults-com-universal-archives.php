@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "results indiaresults com - Official National Academic Archive Gateway";
 $meta_description = "Check results indiaresults com for university and board exams. Access the official academic result portal and archives across all Indian states on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

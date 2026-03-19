@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rbse 10th result 2021 name wise and father name - Official BSER Rajasthan Archive";
 $meta_description = "Check rbse 10th result 2021 name wise and father name for BSER Secondary exams. Access the official 2021 Rajasthan archival result portal on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

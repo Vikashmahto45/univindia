@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Result India Result 2020 - Historical National Result Archive";
 $meta_description = "Check Result India Result 2020 online. Access the historical 10th and 12th results for all state boards (RBSE, PSEB, BSEB) from the 2020 pandemic session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

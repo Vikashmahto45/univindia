@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "apsu result 2023 2nd year - Official APSU Rewa 2023 Archive";
 $meta_description = "Check Awadhesh Pratap Singh University 2nd year result 2023 on apsu result 2023 2nd year. Access official APSU Rewa archival results on indiaresults.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

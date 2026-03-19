@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online";
@@ -94,4 +95,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/header.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "uk board result - Official Uttarakhand Board Result Gateway";
 $meta_description = "Check uk board result for Class 10th and 12th exams. Access the official Uttarakhand Board of School Education (UBSE) result portal and archives on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

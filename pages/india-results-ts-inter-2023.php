@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india results ts inter 2023 - Official Telangana Board Mirror";
 $meta_description = "Check india results ts inter 2023 online. Access the results for Telangana State Board (TSBIE) 1st and 2nd Year Intermediate for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

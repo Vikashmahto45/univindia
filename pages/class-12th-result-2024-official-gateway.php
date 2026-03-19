@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "class 12th result 2024 - Official National Senior Secondary Hub";
 $meta_description = "Check class 12th result 2024 for all state boards and CBSE. Access the official 2024 senior secondary (Class 12) result portal and live updates on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

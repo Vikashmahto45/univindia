@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Matric Result 2024 - Official Secondary Examination Link Hub";
 $meta_description = "Check Matric Result 2024 online. Access the 10th (Secondary) results for Bihar Board (BSEB), UP Board, CBSE, ICSE, and all state boards. Download your 2024 marksheets.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

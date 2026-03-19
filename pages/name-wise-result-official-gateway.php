@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "name wise result - Find Results by Student Name Officially";
 $meta_description = "Access name wise result search for all state boards and universities in India. Unified portal for official result verification using student name alternative criteria.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

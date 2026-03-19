@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Rajshaladarpan nic in Result 10th - Official Rajasthan Shala Darpan Portal";
 $meta_description = "Check Rajshaladarpan nic in Result 10th online. Access the high-speed Rajasthan 10th results via the Shala Darpan integrated portal. Official marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "upmsp result - Official Uttar Pradesh Board Hub";
 $meta_description = "Check UP Board 10th & 12th result on upmsp result. Access official UPMSP High School and Intermediate scorecards on indiaresults archival portal.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

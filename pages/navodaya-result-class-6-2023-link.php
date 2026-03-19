@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include 'config.php';
 $keyword = "navodaya result class 6 2023 link";
@@ -38,6 +39,4 @@ include '../header.php';
         </table>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

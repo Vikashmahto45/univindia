@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "metrik rijal 2023 odisha - Official BSE Odisha Hub";
 $meta_description = "Check Odisha Board 10th (Metrik) result 2023 on metrik rijal 2023 odisha. Access official BSE Odisha 2023 archival scorecards on indiaresults portal.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresult com odisha - Official Odisha Board Result Gateway";
 $meta_description = "Check indiaresult com odisha for Matric (10th) and +2 (12th) results. Access the official Odisha result portal on indiaresults for high-speed checking.";
@@ -113,6 +114,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

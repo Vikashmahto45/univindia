@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "inter second year result - Official National Board Mirror";
 $meta_description = "Check inter second year result online. Access the results for all Indian State Boards (TS, AP, UP, etc.) Class 12 for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

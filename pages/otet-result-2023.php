@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "OTET Result 2023 - Official Odisha Teacher Eligibility Test Portal";
 $meta_description = "Check OTET Result 2023 online. Access the official Board of Secondary Education (BSE) Odisha Teacher Eligibility Test (OTET) results and scorecards for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

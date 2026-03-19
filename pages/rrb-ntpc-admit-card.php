@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in";
@@ -226,4 +227,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

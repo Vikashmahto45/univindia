@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net In Result - University Gateway for Rajasthan Students";
 $meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Net In Result portal. Official guide to downloading university marksheets and scores online.";
@@ -61,4 +62,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

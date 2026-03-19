@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "eamcet results 2023 - Official AP & Telangana Hub";
 $meta_description = "Check EAMCET (EAPCET) result 2023 on eamcet results 2023. Access official AP & Telangana 2023 archival scorecards on indiaresults.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

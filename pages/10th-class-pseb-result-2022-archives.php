@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10th class pseb result 2022 - Official Punjab Board Secondary Archive";
 $meta_description = "Check 10th class pseb result 2022 for PSEB Matric exams. Access the official 2022 Punjab Board archival result portal on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

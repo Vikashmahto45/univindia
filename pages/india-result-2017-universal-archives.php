@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2017 - Official 2017 Academic Result Archive";
 $meta_description = "Check india result 2017 for board and university exams. Access the official 2017 academic result portal and archival verification links on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

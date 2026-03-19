@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "ap ssc results 2023 - Official Andhra Pradesh 10th Hub";
 $meta_description = "Check Andhra Pradesh Board SSC (Class 10th) result 2023 on ap ssc results 2023. Access official AP SSC 2023 archival scorecards on indiaresults.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

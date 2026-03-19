@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 12th Arts - Official National Board Mirror";
 $meta_description = "Check India Result 12th Arts online. Access the historical Rajasthan, Punjab, and All-India State Board Senior Secondary Arts results via the official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

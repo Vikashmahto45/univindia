@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result Rajasthan 2021 - Historical RBSE Result archive";
 $meta_description = "Check India Result Rajasthan 2021 online. Access the historical Rajasthan Board (BSER) 10th and 12th results for the 2021 session. Official merit lists.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india result apsu - Official APSU Rewa Mirror";
 $meta_description = "Check india result apsu online. Access the results for Awadhesh Pratap Singh University (APSU) Rewa for BA, BSc, BCom, and MA for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

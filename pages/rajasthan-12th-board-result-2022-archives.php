@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rajasthan 12th board result 2022 - Official RBSE Senior Secondary Hub";
 $meta_description = "Check Rajasthan Board 12th result 2022 on rajasthan 12th board result 2022. Access official RBSE Senior Secondary 2022 archival scorecards on indiaresults.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "intermediate results 2023 ap - Official Andhra Pradesh Hub";
 $meta_description = "Check Andhra Pradesh Intermediate result 2023 on intermediate results 2023 ap. Access official BIEAP Inter 2023 archival scorecards on indiaresults.";
@@ -128,5 +129,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

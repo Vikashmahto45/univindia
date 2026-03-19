@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "punjab.indiaresults.com 2022 - Official PSEB Mirror Portal";
 $meta_description = "Check punjab.indiaresults.com 2022 online. Access the historical Punjab School Education Board (PSEB) 8th, 10th, and 12th results for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

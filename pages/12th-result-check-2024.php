@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th Result Check 2024 - Official Intermediate Result Verification";
 $meta_description = "Check 12th Result Check 2024 online. Access the Intermediate and Senior Secondary results for CBSE, ICSE, and all state boards. Download your 2024 marksheet now.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bse 10th result 2021 - Official Board 10th 2021 Archive";
 $meta_description = "Check Board of Secondary Education (BSE) 10th result 2021 on bse 10th result 2021. Access official Class 10 archival results and scorecard links on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

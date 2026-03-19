@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "board result 2022 class 10 - Official National 2022 Archive";
 $meta_description = "Check board result 2022 class 10 for all state boards and CBSE. Access the official 2022 secondary (Class 10) result portal archival mirror on indiaresults.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

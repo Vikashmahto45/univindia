@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net RRBMU - Alwar Matsya University Student Portal";
 $meta_description = "Univindia Net RRBMU is the official digital portal for Raj Rishi Bhartrihari Matsya University. Get your RRBMU Alwar results and admit cards online.";
@@ -55,4 +56,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

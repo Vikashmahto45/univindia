@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online";
@@ -93,4 +94,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

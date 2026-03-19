@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "up result nic in 2022 - Official Uttar Pradesh Board Archive";
 $meta_description = "Check up result nic in 2022 for High School and Intermediate exams. Access the official 2022 UPMSP archival result portal on indiaresults.";
@@ -115,5 +116,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

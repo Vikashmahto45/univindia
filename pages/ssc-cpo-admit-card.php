@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in";
@@ -191,4 +192,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

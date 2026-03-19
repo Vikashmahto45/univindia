@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result class 10 - Official National Secondary Hub";
 $meta_description = "Check india result class 10 for all state boards and CBSE. Access the official national secondary (Class 10) result portal and live updates on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

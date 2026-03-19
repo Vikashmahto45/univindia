@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www-pseb-ac-in 12th Result 2022 - Official Punjab Board Hub";
 $meta_description = "Check www-pseb-ac-in 12th Result 2022 online. Access the historical Punjab School Education Board (PSEB) Senior Secondary results for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

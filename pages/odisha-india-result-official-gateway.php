@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "odisha india result - Official Odisha Academic Hub";
 $meta_description = "Check odisha india result for CHSE, BSE and university exams. Access the official Odisha board result portal and mirrors on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

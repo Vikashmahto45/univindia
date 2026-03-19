@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 10th 2022 - Historical National Result archive";
 $meta_description = "Check India Result 10th 2022 online. Access the historical board results for Class 10 (Secondary) from CBSE, BSEB, RBSE, and more for 2022. Official Link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

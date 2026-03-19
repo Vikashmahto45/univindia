@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 2022 Bihar Board - Historical BSEB Result archive";
 $meta_description = "Check India Result 2022 Bihar Board online. Access the historical BSEB Matric (10th) and Inter (12th) results for the 2022 session. Official 2022 merit lists.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

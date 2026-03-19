@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india results 2022 - Official National Board Mirror Hub";
 $meta_description = "Check india results 2022 for all board and university exams. Access the official 2022 results portal on indiaresults for the latest updates across India.";
@@ -112,5 +113,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

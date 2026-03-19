@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rajasthan result com - Official Rajasthan Board Mirror";
 $meta_description = "Check rajasthan result com online. Access the Class 10th and 12th results for Board of Secondary Education Rajasthan (RBSE), Ajmer.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

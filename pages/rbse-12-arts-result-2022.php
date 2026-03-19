@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rbse 12 arts result 2022 - Official Rajasthan Board Mirror";
 $meta_description = "Check rbse 12 arts result 2022 online. Access the historical Board of Secondary Education Rajasthan (RBSE), Ajmer Class 12th Arts stream scores.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

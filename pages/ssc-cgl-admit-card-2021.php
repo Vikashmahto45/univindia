@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online";
@@ -95,4 +96,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

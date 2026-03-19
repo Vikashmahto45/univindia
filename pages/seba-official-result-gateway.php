@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "seba - Official Assam Secondary Education Results Gateway";
 $meta_description = "Check seba HSLC results for Assam Class 10th exams. Access the official SEBA result portal on indiaresults for high-speed checking.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

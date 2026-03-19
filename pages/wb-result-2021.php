@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "WB Result 2021 - Historical West Bengal WBBSE & WBCHSE Archive";
 $meta_description = "Check WB Result 2021 online. Access the historical West Bengal Madhyamik and Higher Secondary results for 2021. Official marks and merit list link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

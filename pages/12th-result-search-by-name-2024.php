@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th Result Search By Name 2024 - Official Name-Wise Higher Secondary Portal";
 $meta_description = "Check 12th Result Search By Name 2024 online. Access the name-wise search for Punjab, Rajasthan, HP, and all state boards. Verify your 12th scores instantly.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

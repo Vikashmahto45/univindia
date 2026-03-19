@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "hsc result 2022 odisha - Official Board Mirror";
 $meta_description = "Check hsc result 2022 odisha online. Access the historical Class 12th (Senior Secondary) results for Council of Higher Secondary Education (CHSE) Odisha.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

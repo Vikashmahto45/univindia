@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "JAC 10th Result 2024 - Jharkhand Academic Council Matric Updates";
 $meta_description = "Check JAC 10th Result 2024 online. Access Jharkhand board matric result dates, merit lists, and official marksheets at jacresults.com.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

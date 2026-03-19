@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "2 Result Odisha - Official Odisha +2 Higher Secondary Hub";
 $meta_description = "Check 2 Result Odisha online. Access the high-speed CHSE Odisha +2 Science, Commerce, and Arts results. Official 12th marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

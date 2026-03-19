@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result Nic In - Official National Government Result Hub";
 $meta_description = "Check India Result Nic In online. Access the official National Informatics Centre (NIC) results for CBSE, JEE, NEET, and state boards. 2024 official Link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

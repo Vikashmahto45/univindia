@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "DSSSB Admit Card Download - Delhi Subordinate Services Hall Ticket";
 $meta_description = "Download DSSSB Admit Card for TGT, PGT, Clerk, and Junior Assistant exams. Get direct hall ticket links from the official OARS portal.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

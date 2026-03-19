@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "tnresults - Official Tamil Nadu Board result Portal";
 $meta_description = "Check tnresults online. Access the high-speed TN SSLC (10th) and HSC (12th) results. Official Tamil Nadu marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th RBSE Result 2021 - Historical Rajasthan board archive";
 $meta_description = "Check 12th RBSE Result 2021 online. Access the historical Rajasthan Board (BSER) Senior Secondary results for the 2021 session. Official marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

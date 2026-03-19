@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "kar results nic in - Official Karnataka Board Result Hub";
 $meta_description = "Check kar results nic in for SSLC and PUC exams. Access the official Karnataka (KSEEB/PUE) result portal on indiaresults for high-speed checking.";
@@ -116,5 +117,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

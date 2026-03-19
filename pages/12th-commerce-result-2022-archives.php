@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12th commerce result 2022 - Official National 2022 Archive";
 $meta_description = "Check 12th commerce result 2022 for all state boards. Access the official national Class 12 Commerce archival result portal on indiaresults.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

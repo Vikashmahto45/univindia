@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www.biharboard.ac.in 2023 10th result - Official Bihar Board Mirror";
 $meta_description = "Check www.biharboard.ac.in 2023 10th result online. Access the results for Bihar School Examination Board (BSEB) Matric for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

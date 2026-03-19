@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults Com 2024 Class 10 Link - Official High School Result Gateway";
 $meta_description = "Check Indiaresults Com 2024 Class 10 Link online. Access the direct result links for PBSE, RBSE, and all state boards. Verify your matric scores for 2024 instantly.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

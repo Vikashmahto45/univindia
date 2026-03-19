@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "orissa 10th result - Official Orissa Secondary Hub";
 $meta_description = "Check orissa 10th result for BSE exams. Access the official Board of Secondary Education Orissa (BSE) result gateway and archives on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "hslc results 2022 - Official High School Leaving Archive";
 $meta_description = "Check hslc results 2022 for Class 10th examinations across all state boards (Assam, Manipur, etc). Access the official 2022 HSLC result archive on indiaresults.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "www.jac.jharkhand.gov.in 2023 class 10 - Official Jharkhand Board 2023 Archive";
 $meta_description = "Check www.jac.jharkhand.gov.in 2023 class 10 for JAC Matric exams. Access the official 2023 Jharkhand Academic Council (JAC) archival portal on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

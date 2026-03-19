@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result mp 10th - Official MPBSE Result Portal";
 $meta_description = "Check india result mp 10th for Class 10 High School. Access the official Madhya Pradesh Board result mirror on indiaresults.com for fast result checking.";
@@ -123,3 +124,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Inter 1st Year Results 2024 - Official Andhra & Telangana Portal";
 $meta_description = "Check Inter 1st Year Results 2024 online. Access the high-speed links for AP and Telangana Intermediate results. Official BIEAP and TSBIE mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

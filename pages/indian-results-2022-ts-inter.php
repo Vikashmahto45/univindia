@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indian results 2022 inter ts - Official Telangana Board Archive";
 $meta_description = "Check indian results 2022 inter ts for 1st and 2nd year examinations. Access the official Telangana State Board of Intermediate Education (TSBIE) portal on indiaresults.";
@@ -109,5 +110,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

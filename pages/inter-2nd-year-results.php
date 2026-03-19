@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Inter 2nd Year Results - Official National Intermediate Gateway";
 $meta_description = "Check Inter 2nd Year Results online. Access the AP Intermediate, TS Intermediate, and other state 12th results. Official 2024 marksheets and merit lists.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard";
 $meta_description = "Manage your MGSU Bikaner results via Univindia Net MGSURES Index. Official guide to accessing Maharaja Ganga Singh University score reports online.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia RRBMU - Raj Rishi Bhartrihari Matsya University Result portal";
 $meta_description = "Univindia RRBMU is the primary portal for Matsya University Alwar exams and results. Complete guide to the Univindia RRBMU digital interface.";
@@ -47,4 +48,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

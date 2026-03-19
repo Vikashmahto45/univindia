@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "BSE Odisha Result 2024 SA2 - Official Class 10 Summative Assessment Portal";
 $meta_description = "Check BSE Odisha Result 2024 SA2 online. Access the Summative Assessment 2 (SA2) results for Class 10th matric. Download your 2024 marksheet and qualification status.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

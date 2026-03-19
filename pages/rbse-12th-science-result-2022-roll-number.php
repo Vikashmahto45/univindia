@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE 12th Science Result 2022 Roll Number - Official Rajasthan Board Link";
 $meta_description = "Check RBSE 12th Science Result 2022 Roll Number online. Access the historical Rajasthan Board (BSER) 12th science results for the 2022 session. Verified roll number wise search.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

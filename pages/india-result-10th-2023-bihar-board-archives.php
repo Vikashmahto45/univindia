@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 10th 2023 bihar board - Official Bihar 10th Hub";
 $meta_description = "Check Bihar Board 10th result 2023 on india result 10th 2023 bihar board. Access official BSEB Matric 2023 archival scorecards on indiaresults portal.";
@@ -124,5 +125,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

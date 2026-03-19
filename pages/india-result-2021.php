@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india result 2021 - Official National Board Mirror";
 $meta_description = "Check india result 2021 online. Access the historical results for all Indian State Boards and Universities for the 2021 academic session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

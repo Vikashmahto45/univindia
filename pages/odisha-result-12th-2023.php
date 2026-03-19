@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Odisha Result 12th 2023 - Official CHSE Odisha Archive";
 $meta_description = "Check Odisha Result 12th 2023 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Plus Two (+2) results for the 2023 session. Official marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSU Reval Result - Bikaner University Revaluation Scores";
 $meta_description = "Check your MGSU Bikaner revaluation results on Univindia Net. Official guide to downloading re-totaling and re-evaluation marksheets online.";
@@ -54,4 +55,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

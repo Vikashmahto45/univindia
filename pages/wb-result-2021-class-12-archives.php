@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "wb result 2021 class 12 - Official West Bengal 2021 Archive";
 $meta_description = "Check West Bengal Board 12th result 2021 on wb result 2021 class 12. Access official WBCHSE Higher Secondary 2021 archival results on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

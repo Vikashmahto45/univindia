@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "std 12 commerce result 2023 - Official National 12th Commerce Hub";
 $meta_description = "Check Class 12 Commerce result 2023 for all state boards on std 12 commerce result 2023. Access the official 12th archival scorecards on indiaresults.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

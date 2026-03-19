@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india resultcom - Official National result Mirror Portal";
 $meta_description = "Check india resultcom online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

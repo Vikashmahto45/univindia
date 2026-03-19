@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 10th - Official National Matric Gateway";
 $meta_description = "Check india result 10th for all state and central boards. Access the official Class 10th (Matric) result portal on indiaresults for high-speed checking.";
@@ -112,5 +113,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

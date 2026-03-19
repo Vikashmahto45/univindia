@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2022 - Official National 2022 Archive";
 $meta_description = "Check india result 2022 for all state boards and university exams. Access the official 2022 national examination archival result portal on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

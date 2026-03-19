@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "madhyamik result - Official West Bengal Board Mirror";
 $meta_description = "Check madhyamik result online. Access the results for West Bengal Board of Secondary Education (WBBSE) Class 10 for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

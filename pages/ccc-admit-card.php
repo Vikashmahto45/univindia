@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "CCC Admit Card 2024 Download - NIELIT Course on Computer Concepts Hall Ticket | Univindia.online";
@@ -95,4 +96,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

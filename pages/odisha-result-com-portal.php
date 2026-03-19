@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "odisha result com - Official BSE and CHSE Result Hub";
 $meta_description = "Check odisha result com for BSE Odisha 10th and CHSE Odisha 12th results. Access the official Odisha result portal on indiaresults for fast checking by name and roll number.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

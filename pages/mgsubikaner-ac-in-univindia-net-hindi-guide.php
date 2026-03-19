@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Mgsubikaner.ac.in एवं Www.univindia.net - MGSU बीकानेर हिंदी गाइड";
 $meta_description = "Mgsubikaner.ac.in और Www.univindia.net पोर्टल के उपयोग की पूरी जानकारी हिंदी में। एमजीएसयू बीकानेर परीक्षा, परिणाम और छात्र सेवा मार्गदर्शिका।";
@@ -62,4 +63,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

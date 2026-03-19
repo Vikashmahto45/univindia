@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "punjab indiaresults com - Official PSEB Result Mirror Hub";
 $meta_description = "Check punjab indiaresults com for PSEB Class 10th, 12th, and 8th results. Access the official Punjab School Education Board result gateway for fast checking.";
@@ -122,3 +123,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

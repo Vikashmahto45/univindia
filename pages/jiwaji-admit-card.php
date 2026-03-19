@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket";
 $meta_description = "Download Jiwaji University Admit Card 2024 for UG/PG Semester Exams. Get direct link for Jiwaji Gwalior Hall Ticket download at jiwaji.edu.";
@@ -142,6 +143,4 @@ include '../header.php';
         </div>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

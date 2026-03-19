@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12 commerce result 2022 - Official National Board Portal";
 $meta_description = "Check 12 commerce result 2022 online. Access the historical Class 12th Commerce results for Rajasthan (RBSE), CBSE, and all Indian State Boards.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

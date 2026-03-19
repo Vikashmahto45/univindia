@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "CHSE 10th Result 2023 - Official Odisha Board Link";
 $meta_description = "Check CHSE 10th Result 2023 online. Access the Odisha Board Secondary results for the 2023 session. Official marksheets and board stats available for download.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

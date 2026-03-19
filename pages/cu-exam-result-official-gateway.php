@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "cu exam result - Official Calcutta University Result Gateway";
 $meta_description = "Check cu exam result for University of Calcutta undergraduate and postgraduate exams. Access the official CU academic result portal on indiaresults.";
@@ -115,5 +116,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

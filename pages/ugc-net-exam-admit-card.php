@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "UGC NET Exam Admit Card - Download NTA University Hall Ticket";
 $meta_description = "UGC NET Exam Admit Card Download. Get the direct link to access your NTA UGC NET examination hall ticket and check exam venue details.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

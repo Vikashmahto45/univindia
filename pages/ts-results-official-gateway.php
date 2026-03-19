@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "ts results - Official Telangana State Academic Result Hub";
 $meta_description = "Check ts results for SSC and Inter exams. Access the official Telangana State (BSE & TSBIE) result portal and archives on indiaresults.";
@@ -119,5 +120,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

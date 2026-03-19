@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in";
@@ -186,4 +187,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

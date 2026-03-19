@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rajsthan 10th result com - Official Rajasthan 10th Gateway";
 $meta_description = "Access rajsthan 10th result com for official RBSE Secondary result updates. Unified portal for Rajasthan Board 10th scores and direct links on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

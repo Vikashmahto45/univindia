@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rajresults.nic.in 2021 class 12 - Official Rajasthan Senior Secondary 2021 Archive";
 $meta_description = "Check rajresults.nic.in 2021 class 12 for BSER Class 12 exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "All India Result - Official National Result verification Portal";
 $meta_description = "Check All India Result online. Access the high-speed national and state board result verification framework. Official 10th, 12th, and Degree marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

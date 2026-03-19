@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "wbresult - Official West Bengal Board Mirror";
 $meta_description = "Check wbresult online. Access the high-speed results for WBBSE Madhyamik and WBCHSE Higher Secondary for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

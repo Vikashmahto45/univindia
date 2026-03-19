@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2020: rajasthan - Official Rajasthan Result Archive Portal";
 $meta_description = "Check india result 2020: rajasthan for 10th and 12th board results. Access the official 2020 Rajasthan (BSER) result archive on indiaresults.";
@@ -114,5 +115,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Sambalpur University Result - Official UG/PG Semester Portal";
 $meta_description = "Check Sambalpur University Result for BA, BSc, BCom, and Semester examinations. Access the official university results, plus three marks, and merit list online.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

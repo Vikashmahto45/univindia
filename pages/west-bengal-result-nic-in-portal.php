@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "west bengal result nic in - Official WB Board Result Hub";
 $meta_description = "Check west bengal result nic in for Madhyamik and Higher Secondary results. Access the official West Bengal results portal on indiaresults.";
@@ -116,5 +117,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

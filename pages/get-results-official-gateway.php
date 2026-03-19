@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "get results - Official National Academic Results Gateway";
 $meta_description = "Check get results for all board and university exams. Access the official national results portal, news updates, and archival scores on indiaresults.";
@@ -119,5 +120,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

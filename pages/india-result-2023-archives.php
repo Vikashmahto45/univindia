@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2023 - Official National 2023 Archive";
 $meta_description = "Check india result 2023 for all state boards and universities. Access the official 2023 national examination results archival portal on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults com - official National Results Portal and Mirror Site Hub";
 $meta_description = "Check Indiaresults com for official board and university results across India. Access the latest 10th, 12th, and degree result links, merit lists, and name-wise search.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

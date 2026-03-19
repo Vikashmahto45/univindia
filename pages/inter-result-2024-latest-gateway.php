@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "inter result 2024 - Official National Intermediate Gateway Hub";
 $meta_description = "Check inter result 2024 for all state and central boards. Access the official 2024 Intermediate result portal on indiaresults for high-speed checking.";
@@ -112,5 +113,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE 10th Result 2023 Link - Official Rajasthan Board Result Portal";
 $meta_description = "Access the RBSE 10th Result 2023 link for Rajasthan Board Secondary examinations. Check your archive result by roll number and official marksheet online.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

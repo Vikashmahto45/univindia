@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india results.com 2022 - Official National Archive Gateway";
 $meta_description = "Check india results.com 2022 for all board and university results. Access the official 2022 result portal on indiaresults for the latest updates across India.";
@@ -109,5 +110,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

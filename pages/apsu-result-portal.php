@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "apsu result - Official Awadhesh Pratap Singh University Hub";
 $meta_description = "Check apsu result online for BA, BSC, BCOM, MA, MSC. Access the official Awadhesh Pratap Singh University Rewa result portal and marksheet download.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

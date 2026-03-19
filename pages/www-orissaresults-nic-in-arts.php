@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www orissaresults nic in arts - Official Odisha CHSE Arts Result Hub";
 $meta_description = "Check www orissaresults nic in arts online. Access the Odisha +2 Arts results (Higher Secondary). Official 2024 merit list, subject marks, and grade cards.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

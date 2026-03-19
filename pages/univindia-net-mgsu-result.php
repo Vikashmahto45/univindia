@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSU Result - Bikaner University Scores Online Guide";
 $meta_description = "Check your MGSU Bikaner results on Univindia Net MGSU Result portal. Complete guide to downloading marksheets and checking graduation status online.";
@@ -61,4 +62,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

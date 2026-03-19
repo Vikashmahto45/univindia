@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "hsce odisha result 2022 - Official BSE Matric Archive";
 $meta_description = "Check hsce odisha result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result archive portal on indiaresults.";
@@ -109,5 +110,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

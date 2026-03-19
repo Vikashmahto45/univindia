@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Result of 10th Class 2024 - Official National Gateway";
 $meta_description = "Check Result of 10th Class 2024 online. Access the high-speed links for CBSE, RBSE, PSEB, and other state matric board results. Official 2024 result mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

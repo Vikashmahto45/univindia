@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "8th Class Result 2022 Punjab Board Roll Number - Official PSEB Portal";
 $meta_description = "Check 8th Class Result 2022 Punjab Board by Roll Number. Access the historical Punjab School Education Board (PSEB) Middle results for the 2022 session. Official marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

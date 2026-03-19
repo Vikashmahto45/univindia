@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Inter Results 2022 AP 1st Year - Official BIEAP Archive";
 $meta_description = "Check Inter Results 2022 AP 1st Year online. Access the historical Andhra Pradesh Board of Intermediate Education (BIEAP) Junior Inter results for 2022. Official marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 5th 2022 - Official Primary School Result Gateway";
 $meta_description = "Check india result 5th 2022 for all states. Access the official 5th class result portal on indiaresults.com for the 2022 academic year. Fast result checking by name or roll number.";
@@ -107,5 +108,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

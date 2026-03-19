@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in";
@@ -189,4 +190,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indiaresults com - Official National Results Directory";
 $meta_description = "Check all board results on indiaresults com. Access the official indiaresults national directory for 10th & 12th scorecards across all Indian states and zones.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

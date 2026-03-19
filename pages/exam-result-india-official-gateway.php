@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "exam result india - Official National Results Hub";
 $meta_description = "Check exam result india for all state boards and university exams. Access the official national examination result portal and direct links on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Wbresults.nic.in - Official West Bengal Board Results Portal Hub";
 $meta_description = "Check Wbresults.nic.in for official West Bengal (WBBSE/WBCHSE) results. access the primary results gateway for West Bengal students across all exam sessions.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

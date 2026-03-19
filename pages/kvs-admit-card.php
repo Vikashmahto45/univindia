@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "KVS Admit Card 2024 Download - TGT, PGT, PRT & Non-Teaching KVS-HQ Link | Univindia.online";
@@ -91,4 +92,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

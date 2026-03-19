@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bteup - Official Board of Technical Education Uttar Pradesh Gateway";
 $meta_description = "Check bteup for Polytechnic and Diploma exams. Access the official Board of Technical Education Uttar Pradesh (BTEUP) result portal and archives on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

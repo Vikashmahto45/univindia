@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india results index php - Official National Board Mirror";
 $meta_description = "Check india results index php online. Access the primary national index of Class 10th and 12th results for all Indian State Boards via the official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result com 2023 - Official IndiaResults Archive";
 $meta_description = "Check india result com 2023 for all boards and universities. Access the 2023 result archive on indiaresults.com for 10th, 12th, and degree exams.";
@@ -120,3 +121,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

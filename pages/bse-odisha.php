@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "BSE Odisha - Official Board of Secondary Education Matrix Hub";
 $meta_description = "Check BSE Odisha results online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) and Madhyama results. Official Link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

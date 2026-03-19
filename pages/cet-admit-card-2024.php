@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link";
 $meta_description = "Download CET Admit Card 2024. Get direct links for Rajasthan CET Graduation and 12th Level examination hall tickets easily.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

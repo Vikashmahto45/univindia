@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG";
@@ -185,4 +186,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

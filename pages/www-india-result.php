@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www india result - Official National result Discovery Portal";
 $meta_description = "Check www india result online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

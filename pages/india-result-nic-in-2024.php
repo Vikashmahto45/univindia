@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result NIC In 2024 - Official National Examination Portal";
 $meta_description = "Check India Result NIC In 2024 online. Access the results for all central and state boards hosted on the official National Informatics Centre (NIC) network for 2024.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

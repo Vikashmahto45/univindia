@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rajasthan indiaresults com - Official Rajasthan State Academic Hub";
 $meta_description = "Check rajasthan indiaresults com for board and university exams. Access the official Rajasthan result portal for BSER, RU, JNVU, and more on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

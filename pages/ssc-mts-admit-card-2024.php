@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in";
@@ -186,4 +187,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

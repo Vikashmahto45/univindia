@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $link_map = [];
 include 'c:\xampp\htdocs\univindia\includes\link_map.php';
@@ -7,4 +8,4 @@ foreach(array_keys($link_map) as $k) {
     }
 }
 ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bsc 2 year result 2021 - Official National 2021 Archive";
 $meta_description = "Check bsc 2 year result 2021 for all state universities. Access the official national B.Sc 2nd year archival result portal on indiaresults.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

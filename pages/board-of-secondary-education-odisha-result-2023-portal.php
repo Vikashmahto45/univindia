@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "board of secondary education odisha result 2023 - Official Odisha Secondary Archive";
 $meta_description = "Check board of secondary education odisha result 2023 for HSC examinations. Access the official 2023 Odisha (BSE) archival result portal on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

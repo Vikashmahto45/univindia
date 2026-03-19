@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include 'config.php';
 $keyword = "bseb 10th result 2024 roll number roll code";
@@ -38,6 +39,4 @@ include '../header.php';
         </table>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

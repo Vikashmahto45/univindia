@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10th hsc result 2023 - Official National Secondary Hub";
 $meta_description = "Check Class 10th (HSC) result 2023 on 10th hsc result 2023. Access official indiaresults gateway for Secondary scores and 2023 archival marksheet links.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

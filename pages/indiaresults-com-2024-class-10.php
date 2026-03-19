@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults Com 2024 Class 10 - Official Secondary Result Archive";
 $meta_description = "Check Indiaresults Com 2024 Class 10 online. Access the results for all Indian state boards including Punjab, Rajasthan, and HP by name and roll number for the 10th session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

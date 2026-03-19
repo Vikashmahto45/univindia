@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Results 2023 - Official National Secondary Mirror Portal";
 $meta_description = "Check India Results 2023 online. Access the historical Rajasthan, Punjab, and other state board results for the 2023 session via the official national mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

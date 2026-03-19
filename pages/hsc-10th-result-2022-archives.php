@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "hsc 10th result 2022 - Official National 2022 Archive";
 $meta_description = "Check hsc 10th result 2022 for all state boards. Access the official national Class 10 (HSC) archival result portal and mirrors on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

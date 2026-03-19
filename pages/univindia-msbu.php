@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal";
 $meta_description = "Univindia MSBU is the official digital portal for Brij University Bharatpur. Complete guide to MSBU results, admit cards, and examination forms.";
@@ -55,4 +56,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

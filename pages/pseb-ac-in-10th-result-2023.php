@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "pseb.ac.in 10th Result 2023 - Official Punjab Archive";
 $meta_description = "Check pseb.ac.in 10th Result 2023 online. Access the historical Punjab School Education Board Class 10th results for the 2023 session. Official state link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

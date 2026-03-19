@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Bihar Matric Result 2022 - Official BSEB 10th Archive";
 $meta_description = "Check Bihar Matric Result 2022 online. Access the historical Bihar School Examination Board (BSEB) Patna 10th results for the 2022 session. Official marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

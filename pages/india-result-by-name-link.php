@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result by name - Official Name-Wise Result Portal";
 $meta_description = "Check india result by name for all boards and universities. Access the official name-wise result search portal for 10th and 12th exams on indiaresults.com.";
@@ -120,3 +121,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

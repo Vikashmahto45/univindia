@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result info.com - Official Result Information Portal";
 $meta_description = "Access india result info.com for news and updates on board and university results across India. Your trusted source for official result links and data.";
@@ -120,3 +121,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

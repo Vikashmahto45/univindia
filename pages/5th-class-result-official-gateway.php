@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "5th class result - Official Primary School Hub";
 $meta_description = "Check Primary School 5th class result on 5th class result. Access official Board Class 5th (Primary) scorecards and selection lists on indiaresults portal.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 // sarkari result inter 2023
 ?>
@@ -47,4 +48,4 @@
     </footer>
 </body>
 </html>
-
+<?php include '../footer.php'; ?>

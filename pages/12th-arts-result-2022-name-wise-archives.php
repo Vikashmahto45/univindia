@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12th arts result 2022 name wise - Official National 2022 Archive";
 $meta_description = "Check 12th arts result 2022 by name for all state boards. Access the official national Class 12 Arts archival result portal on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

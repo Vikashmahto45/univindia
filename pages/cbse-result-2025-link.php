@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "cbse result 2025 link - Central Board Official Hub";
 $meta_description = "Check cbse result 2025 online for Class 10 and 12. Access the official CBSE results link for the 2025 academic session.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

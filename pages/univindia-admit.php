@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Admit - Download University Exam Hall Tickets Online";
 $meta_description = "Download your university admit card at Univindia. Official guide to retrieving hall tickets for MGSU, RRBMU, and MSBU examinations online.";
@@ -58,4 +59,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net RRBMU Result - Matsya University Alwar Scores";
 $meta_description = "Check your RRBMU Alwar results on Univindia Net. Official guide to downloading Matsya University marksheets and revaluation results at univindia.net.";
@@ -61,4 +62,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

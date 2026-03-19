@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Odisha 10th Result 2023 - Official BSE Odisha HSC Archive";
 $meta_description = "Check Odisha 10th Result 2023 for official BSE Odisha HSC scores. Access the 2023 archival results, merit lists, and marksheet download links.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

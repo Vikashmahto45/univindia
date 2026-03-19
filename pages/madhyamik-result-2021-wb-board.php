@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "madhyamik result 2021 west bengal board - Official WBBSE Archive";
 $meta_description = "Check madhyamik result 2021 west bengal board for the Class 10th examinations. Access the official 2021 WBBSE Matric result archive on indiaresults.";
@@ -113,5 +114,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

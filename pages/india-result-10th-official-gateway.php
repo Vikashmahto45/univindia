@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 10th - Official National Secondary Gateway";
 $meta_description = "Check india result 10th for all state board exams. Access the official national secondary results portal, highlights, and archival scores on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

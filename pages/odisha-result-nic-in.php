@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Odisha Result Nic In - Official State Gateway";
 $meta_description = "Visit Odisha Result Nic In online. Access the primary Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) results. Official NIC portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

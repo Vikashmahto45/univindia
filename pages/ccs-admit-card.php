@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in";
@@ -192,4 +193,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

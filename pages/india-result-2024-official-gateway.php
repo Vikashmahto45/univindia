@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2024 - Official National 2024 Portal";
 $meta_description = "Check india result 2024 for all board and university exams. Access the official 2024 national academic result gateway and live updates on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

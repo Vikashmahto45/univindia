@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Inter Supply Results 2024 - Official National Board archive";
 $meta_description = "Check Inter Supply Results 2024 online. Access the high-speed Intermediate Advanced Supplementary results for AP (BIEAP) and TS (TSBIE). Official marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

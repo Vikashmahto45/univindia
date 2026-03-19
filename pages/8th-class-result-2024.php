@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "8th Class Result 2024 - Official Middle School Examination Hub";
 $meta_description = "Check 8th Class Result 2024 online. Access the middle school results for Rajasthan (RBSE), Punjab (PSEB), HP, and all state boards. Download your 2024 marksheets instantly.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

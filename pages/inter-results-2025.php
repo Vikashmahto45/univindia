@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Inter Results 2025 - Andhra Pradesh & Telangana Inter Board Updates";
 $meta_description = "Check BIEAP and TSBIE Inter Results 2025 for 1st & 2nd year. Get the latest news on Intermediate results, hall tickets, and marksheet download in AP and Telangana.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

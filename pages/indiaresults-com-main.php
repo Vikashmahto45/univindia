@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults Com - Official National Result Search Portal";
 $meta_description = "Check Indiaresults Com online. Access the leading private result mirror for all Indian state boards (CBSE, ICSE, RBSE, PSEB). Search by name or roll number.";
@@ -67,4 +68,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "odisha 10th result 2024 - Official BSE Odisha Mirror";
 $meta_description = "Check odisha 10th result 2024 online. Access the latest results for Board of Secondary Education (BSE) Odisha Class 10 (HSC) for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

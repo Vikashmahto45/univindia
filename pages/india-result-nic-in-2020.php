@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result.nic.in 2020 - Official National Archive Gateway";
 $meta_description = "Check india result.nic.in 2020 for Class 10th and 12th board results. Access the official 2020 result archive on indiaresults for fast checking by name and roll number.";
@@ -110,5 +111,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

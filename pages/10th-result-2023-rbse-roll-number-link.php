@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th class result 2023 rbse roll number - Official Rajasthan Mirror";
 $meta_description = "Check 10th class result 2023 rbse roll number online. Access the results for Board of Secondary Education Rajasthan (RBSE) Matric for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 12 arts - Official Senior Secondary Arts Archive";
 $meta_description = "Check india result 12 arts for CBSE, RBSE, UP Board, and all state boards. Access the official 12th Arts stream result gateway and name-wise search portal.";
@@ -121,3 +122,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

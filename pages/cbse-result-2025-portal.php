@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "cbse result 2025 - Official CBSE Results Portal";
 $meta_description = "Check cbse result 2025 online for Class 10 and Class 12. Access the official CBSE results portal for marks, certificates, and pass percentage.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

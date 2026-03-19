@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 12th Class 2024 - Senior Secondary Board Results All States";
 $meta_description = "Check India Result 12th Class 2024 for all state boards including CBSE, ISC, UP Board, and RBSE. Find direct links to 12th result portals across India.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

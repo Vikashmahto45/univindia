@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Odisha Result - Official Board of Secondary Education Result Portal";
 $meta_description = "Check Odisha Result 2024 for Class 10th (Matric) and +2 (HS) examinations. Access the BSE and CHSE Odisha board results, merit list, and official certificates.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

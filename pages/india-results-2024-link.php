@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Results 2024 - Official National Examination Hub";
 $meta_description = "Check India Results 2024 online. Access the high-speed result search for all Indian boards (CBSE, RBSE, PSEB, BSEB) for 2024. Official result links and merit lists.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

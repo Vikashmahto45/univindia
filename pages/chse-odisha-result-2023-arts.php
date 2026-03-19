@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub";
 $meta_description = "Check CHSE Odisha Result 2023 Arts for official +2 board examinations. Access the 2023 archival results, stream-wise merit lists, and marksheet download links.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

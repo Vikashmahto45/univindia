@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults Com 2024 Class 12 Link - Official Higher Secondary Result Gateway";
 $meta_description = "Check Indiaresults Com 2024 Class 12 Link online. Access the direct result links for PBSE, RBSE, HPSE and all state boards. Verify your 12th scores for 2024 instantly.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

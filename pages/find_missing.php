@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $link_map = include '../includes/link_map.php';
 $keywords = file('keyword.txt');
@@ -23,4 +24,4 @@ foreach($keywords as $i => $k) {
     }
 }
 unlink(__FILE__);
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "IB Exam Admit Card 2024: Intelligence Bureau ACIO & SA Hall Ticket";
 $meta_description = "Download Intelligence Bureau (IB) Exam Admit Card for ACIO, Security Assistant, and MTS. Get direct link to MHA official portal for IB Hall Ticket download.";
@@ -155,6 +156,4 @@ include '../header.php';
         </div>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

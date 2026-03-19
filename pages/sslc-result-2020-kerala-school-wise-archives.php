@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "sslc result 2020 kerala school wise - Official Kerala SSLC 2020 Archive";
 $meta_description = "Check sslc result 2020 kerala school wise for DHSE exams. Access the official 2020 Kerala Secondary (Class 10) school-wise archival portal on indiaresults.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

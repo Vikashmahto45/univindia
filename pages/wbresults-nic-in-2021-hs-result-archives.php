@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "wbresults.nic.in 2021 hs result - Official West Bengal HS Archive";
 $meta_description = "Check wbresults.nic.in 2021 hs result for WBCHSE Senior Secondary exams. Access the official 2021 West Bengal archival result portal on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "maharesult nic in hsc result - Official Maharashtra Board Portal";
 $meta_description = "Check maharesult nic in hsc result for Class 12 exams. Access the official Maharashtra (MSBSHSE) result portal on indiaresults for high-speed checking.";
@@ -116,5 +117,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

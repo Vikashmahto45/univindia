@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "mjpru result by name - Official Rohilkhand University Hub";
 $meta_description = "Check MJPRU result by name on mjpru result by name. Access official Mahatma Jyotiba Phule Rohilkhand University UG/PG scorecards on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th Class Result 2023 RBSE Name Wise - Official Rajasthan Board Archive";
 $meta_description = "Check 10th Class Result 2023 RBSE Name Wise for official Rajasthan board secondary examinations. Access the 2023 archival results, merit lists, and name search links.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

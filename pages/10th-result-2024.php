@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th Result 2024 - Official Secondary Board Examination Result Manual";
 $meta_description = "Check 10th Result 2024 for official Secondary (Matric) Board exams across India (CBSE, ICSE, State Boards). Access the 2024 result check links and official portals.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

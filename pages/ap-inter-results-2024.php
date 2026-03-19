@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "AP Inter Results 2024 - BIEAP 1st & 2nd Year Results Gateway";
 $meta_description = "Check AP Inter Results 2024 online. Access BIEAP 1st and 2nd year results, marks memos, and official updates at bie.ap.gov.in.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

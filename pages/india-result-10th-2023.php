@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 10th 2023 - Official National Secondary School Archive";
 $meta_description = "Check India Result 10th 2023 for all major state and central boards. Access the 2023 archival results, merit lists, and marksheet download links for matric scholars.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

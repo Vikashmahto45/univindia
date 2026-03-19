@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Http Www Univindia Org - Matsya University Official Website Access";
 $meta_description = "Access RRBMU Alwar services via Http Www Univindia Org. Official guide to exams, results, and student panels for Matsya University students online.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

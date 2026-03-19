@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 10th 2023 odisha - Official Odisha 2023 Archive";
 $meta_description = "Check india result 10th 2023 odisha for HSE exams. Access the official 2023 Odisha Board (BSE Odisha) archival result portal on indiaresults.";
@@ -124,5 +125,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

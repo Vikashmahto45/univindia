@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Admit Card 2019 - Bikaner University 2019 Hall Tickets";
 $meta_description = "Access your Univindia 2019 admit cards for Bikaner University. Official guide to retrieving historical 2019 Maharaja Ganga Singh University hall tickets online.";
@@ -57,4 +58,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

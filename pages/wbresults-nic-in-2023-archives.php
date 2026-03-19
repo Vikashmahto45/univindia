@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "wbresults-nic-in 2023 - Official West Bengal 2023 Archive";
 $meta_description = "Check wbresults-nic-in 2023 for Madhyamik and HS exams. Access the official 2023 West Bengal Board result portal archival mirror on indiaresults.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

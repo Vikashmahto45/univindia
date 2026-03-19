@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result today - Official National Result News & Alert Hub";
 $meta_description = "Check india result today for all board and university exams. Access the latest result declaration news, live updates, and official portal links on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

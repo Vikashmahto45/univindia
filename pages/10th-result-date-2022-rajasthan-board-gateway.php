@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10 th result date 2022 rajasthan board - Official BSER Details";
 $meta_description = "Check Rajasthan Board 10th result date 2022 on 10 th result date 2022 rajasthan board. Access official BSER Ajmer 2022 archival news and results.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

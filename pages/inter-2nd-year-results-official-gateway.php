@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "inter 2nd year results - Official Class 2nd Year Intermediate Hub";
 $meta_description = "Check inter 2nd year results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE 10th Result 2022 Roll Number Wise - Official Rajasthan Board Link";
 $meta_description = "Check RBSE 10th Result 2022 Roll Number Wise online. Access the historical Rajasthan Board (BSER) Secondary results for the 2022 session. Official merit stats and marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

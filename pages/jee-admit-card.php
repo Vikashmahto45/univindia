@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "JEE Admit Card 2025: IIT JEE Main/Advanced Hall Ticket Download @ jeemain.nta.nic.in";
@@ -200,4 +201,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

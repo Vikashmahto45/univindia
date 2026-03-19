@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "ap inter supplementary results 2023 - Official BIEAP 2023 Archive";
 $meta_description = "Check ap inter supplementary results 2023 for IPASE exams. Access the official 2023 Andhra Pradesh Board of Intermediate Education (BIEAP) archival portal.";
@@ -123,5 +124,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

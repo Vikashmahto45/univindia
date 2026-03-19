@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rbse 12th arts result 2023 date - Official Rajasthan Board Mirror";
 $meta_description = "Check rbse 12th arts result 2023 date online. Access the official release schedule for Board of Secondary Education Rajasthan (BSER) Class 12 Arts for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

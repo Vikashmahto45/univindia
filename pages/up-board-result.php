@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "UP Board Result - Official Uttar Pradesh Board examination Hub";
 $meta_description = "Check UP Board Result online. Access the high-speed UP Board (UPMSP) 10th and 12th results. Official 2024 merit lists, subject marks, and grade cards.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

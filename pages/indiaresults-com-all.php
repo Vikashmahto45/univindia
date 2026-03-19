@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "IndiaResults Com - High-Speed All State Board Mirror";
 $meta_description = "Check IndiaResults Com online. Access the primary results for Rajasthan, Punjab, Bihar, and all other Indian states. Official IndiaResults high-speed mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

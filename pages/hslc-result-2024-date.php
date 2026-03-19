@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "HSLC Result 2024 Date - Official Assam Board Notification";
 $meta_description = "Check HSLC Result 2024 Date online. Access the official notification for the Secondary Education Board of Assam (SEBA) Class 10 results release schedule.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

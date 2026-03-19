@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Com MGSU - Bikaner University Student & Error mirror Portal";
 $meta_description = "Univindia Com MGSU often serves as the mirror site for Maharaja Ganga Singh University. Get your MGSU results and admit cards at Univindia.com/mgsu.";
@@ -47,4 +48,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

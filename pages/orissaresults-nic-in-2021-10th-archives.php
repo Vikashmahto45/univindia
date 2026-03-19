@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "www.orissaresults.nic.in 2021 10th - Official Odisha Board Archive";
 $meta_description = "Check www.orissaresults.nic.in 2021 10th for HSC exams. Access the official 2021 Odisha (BSE) archival result portal on indiaresults.";
@@ -115,5 +116,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults Com Mirror - Secondary & University Result Alternative Hub";
 $meta_description = "Check Indiaresults Com Mirror online. Access the high-speed alternative result portal for all Indian state boards. Verified direct links for 10th and 12th scores.";
@@ -67,4 +68,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

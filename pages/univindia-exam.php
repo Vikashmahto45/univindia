@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Exam - Official University Examination Portal Guide";
 $meta_description = "Univindia Exam is the central hub for MGSU, RRBMU, and MSBU examinations. Complete guide to exam forms, time tables, and admit cards online.";
@@ -55,4 +56,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "board result 2023 - Official National Board Hub";
 $meta_description = "Check board result 2023 for CBSE, ICSE, UP Board, Bihar Board, and all state boards. Access the official 10th and 12th board result 2023 portal.";
@@ -120,3 +121,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

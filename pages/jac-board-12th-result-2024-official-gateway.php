@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub";
 $meta_description = "Check jac board 12th result 2024 for Intermediate exams. Access the official Jharkhand Academic Council (JAC) result portal mirror on indiaresults.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

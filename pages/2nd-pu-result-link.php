@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "2nd pu result - Official Karnataka PUE Portal";
 $meta_description = "Check 2nd pu result online for Karnataka Class 12. Access the official KarResults portal for science, commerce, and arts results.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

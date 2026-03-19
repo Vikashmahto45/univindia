@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th arts result 2021 name wise - Official National Board Mirror";
 $meta_description = "Check 12th arts result 2021 name wise online. Access the historical Class 12th Arts results for all Indian Boards using candidate names.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

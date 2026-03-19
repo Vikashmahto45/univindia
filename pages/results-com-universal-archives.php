@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "results. com - Official National Academic Results News & Portal Hub";
 $meta_description = "Check results. com for all board and university exams. Access the official result declaration gateway, news updates, and archival scores nationwide on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

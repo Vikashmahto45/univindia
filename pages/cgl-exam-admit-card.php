@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online";
@@ -95,4 +96,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

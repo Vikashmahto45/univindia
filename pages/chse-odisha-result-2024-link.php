@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "CHSE Odisha Result 2024 Link - Official +2 Higher Secondary Gateway";
 $meta_description = "Check CHSE Odisha Result 2024 Link online. Access the direct links for Odisha 12th results for Science, Commerce, and Arts. Download your +2 marksheet now.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

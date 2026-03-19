@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access";
 $meta_description = "Access the Univindia Org AlwarUniv StudentPanel for RRBMU Alwar. Official guide to navigating your personalized university dashboard online.";
@@ -52,4 +53,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

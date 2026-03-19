@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Bihar Board Result 2024 Class 10 - Official matric Examination Hub";
 $meta_description = "Check Bihar Board Result 2024 Class 10 online. Access the Bihar School Examination Board (BSEB) matric result link, marksheets, and school-wise stats for 2024.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

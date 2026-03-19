@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th class result 2022 rajasthan board - Official Rajasthan Board Mirror";
 $meta_description = "Check 10th class result 2022 rajasthan board online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 10 (Secondary) for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

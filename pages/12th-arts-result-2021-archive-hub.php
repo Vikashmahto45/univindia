@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12th arts result 2021 - Official National Arts Result Archive";
 $meta_description = "Check 12th arts result 2021 for all state and central boards. Access the official 2021 Class 12th Arts result portal on indiaresults for archive access.";
@@ -114,5 +115,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

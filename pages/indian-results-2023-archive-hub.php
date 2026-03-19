@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indian results 2023 - Official National Result Archive Portal";
 $meta_description = "Check indian results 2023 for all state and central board results. Access the official 2023 India result archive on indiaresults for high-speed checking.";
@@ -114,5 +115,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www Results Indiaresults Com - Official National Result Mirror Hub";
 $meta_description = "Check Www Results Indiaresults Com online. Access the high-speed board results for all Indian states. Official 2024 marksheets, merit lists, and name-wise search.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

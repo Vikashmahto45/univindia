@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "IndiaResults Com - Official National Examination Mirror";
 $meta_description = "Check IndiaResults Com online. Access the primary national and state board results across all Indian regions. High-speed 10th and 12th results portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

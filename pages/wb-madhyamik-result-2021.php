@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "WB Madhyamik Result 2021 - Historical West Bengal Class 10th Archive";
 $meta_description = "Check WB Madhyamik Result 2021 online. Access the historical West Bengal Board of Secondary Education (WBBSE) results for the 2021 session. Verify your 2021 scores.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

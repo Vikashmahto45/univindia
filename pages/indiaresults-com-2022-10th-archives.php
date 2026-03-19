@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresults com 2022 10th - Official National 10th 2022 Archive";
 $meta_description = "Check indiaresults com 2022 10th for all state boards. Access the official national Class 10 archival result portal and direct scorecard links.";
@@ -125,5 +126,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

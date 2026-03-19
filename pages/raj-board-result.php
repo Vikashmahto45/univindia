@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Raj Board Result - Official Rajasthan Board of Secondary Education Hub";
 $meta_description = "Check Raj Board Result online. Access the Rajasthan Board (BSER) 10th and 12th results. Official 2024 marksheets and result statistics portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

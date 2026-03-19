@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result Ajmer Board - Official RBSE Mirror Portal";
 $meta_description = "Check India Result Ajmer Board online. Access the Board of Secondary Education Rajasthan (BSER) 10th and 12th results via the official national mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

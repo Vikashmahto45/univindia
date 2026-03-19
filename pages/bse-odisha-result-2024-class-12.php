@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "BSE Odisha Result 2024 Class 12 - Official Higher Secondary Hub";
 $meta_description = "Check BSE Odisha Result 2024 Class 12 online. Access the Odisha Higher Secondary results for Science, Commerce, and Arts. Download your chse marksheet now.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

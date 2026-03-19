@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "wbresults nic in hs - Official West Bengal Higher Secondary Hub";
 $meta_description = "Check wbresults nic in hs for Class 12th results. Access the official West Bengal (WBCHSE) HS result portal on indiaresults for high-speed checking.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

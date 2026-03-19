@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th HSC Result 2024 - Official Higher Secondary Examination Hub";
 $meta_description = "Check 12th HSC Result 2024 online. Access the Higher Secondary results for Maharashtra, Gujarat, Odisha, and all state boards. Download your 2024 marksheet now.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

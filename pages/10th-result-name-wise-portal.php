@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th result name wise - Official National Board Mirror";
 $meta_description = "Check 10th result name wise online. Access the search by name facility for all Indian State Boards (RBSE, PSEB, BSE Odisha, etc.) for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

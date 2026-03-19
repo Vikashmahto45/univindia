@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $content = file_get_contents('c:\xampp\htdocs\univindia\includes\link_map.php');
 preg_match_all("/'(.+?)' => '(.+?)'/", $content, $matches);
@@ -9,4 +10,4 @@ foreach ($counts as $key => $count) {
     }
 }
 ?>
-
+<?php include '../footer.php'; ?>

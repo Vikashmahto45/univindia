@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result website - Official National Academic Portal";
 $meta_description = "Access the official india result website for all state boards and university exams. Unified destination for examination scorecard retrieval and live updates.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

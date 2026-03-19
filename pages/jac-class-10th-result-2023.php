@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "jac class 10th result 2023 - Official Jharkhand Board Mirror";
 $meta_description = "Check jac class 10th result 2023 online. Access the historical Jharkhand Academic Council (JAC), Ranchi Matriculation 2023 examination results.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th Arts Result 2024 - Official Higher Secondary result Portal";
 $meta_description = "Check 12th Arts Result 2024 for all state and central boards. Access the 2024 Class 12 Arts merit list, stream-wise toppers, and official marksheets online.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

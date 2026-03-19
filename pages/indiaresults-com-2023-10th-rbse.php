@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults.com 2023 10th RBSE - Official Rajasthan Board Matrix Hub";
 $meta_description = "Check Indiaresults.com 2023 10th RBSE online. Access the high-speed Rajasthan Board (BSER) Class 10 results. Official 2023 marks and name-wise search link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

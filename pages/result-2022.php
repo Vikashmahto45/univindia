@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Result 2022 - National and State Board Results Archive";
 $meta_description = "Access Result 2022 for all major state and central boards. Retrieve the official 2022 academic scores, merit lists, and marksheet summaries from the national archives.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

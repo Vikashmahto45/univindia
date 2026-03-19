@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rajasthan result nic in 10th - Official Rajasthan NIC Secondary Portal";
 $meta_description = "Check rajasthan result nic in 10th for RBSE exams. Access the official rajresults.nic.in mirror for Board of Secondary Education Rajasthan (BSER) on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

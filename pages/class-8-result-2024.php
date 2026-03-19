@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Class 8 Result 2024 - Official National Portal";
 $meta_description = "Check Class 8 Result 2024 online. Access the high-speed links for Rajasthan, Punjab, and other state 8th board results. Official 2024 result mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

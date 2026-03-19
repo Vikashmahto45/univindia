@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "odisha 2 arts result - Official CHSE Arts Hub";
 $meta_description = "Check Odisha Board +2 Arts result on odisha 2 arts result. Access official CHSE Odisha Plus Two Arts scorecards and archival result links on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

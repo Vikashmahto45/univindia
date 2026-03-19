@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "BA 2nd Year Result 2022 - University BA Part 2 Results Online";
 $keyword = "ba 2nd year result 2022";
@@ -32,6 +33,4 @@ include '../header.php';
         <p>Students can check their results on the official portals of their respective universities. Whether it's CCSU, MSBU, UNIRAJ, or any other state university, the results are usually published under the 'Students Corner' section.</p>
     </div>
 </div>
-
 <?php include '../footer.php'; ?>
-

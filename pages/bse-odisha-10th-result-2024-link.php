@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bse odisha 10th result 2024 - Official Odisha HSC Gateway Hub";
 $meta_description = "Check bse odisha 10th result 2024 for High School Certificate examinations. Access the official 2024 Odisha (BSE) 10th result portal on indiaresults.";
@@ -113,5 +114,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

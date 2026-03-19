@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Tnresults Nic In - Official Tamil Nadu Board Result Hub";
 $meta_description = "Check Tnresults Nic In online. Access the Tamil Nadu Directorate of Government Examinations (DGE) SSCE, HSE Class 11th and 12th results. Official 2024 marksheets.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

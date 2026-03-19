@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "std 12 arts result 2022 - Official National Board Mirror";
 $meta_description = "Check std 12 arts result 2022 online. Access the historical Class 12th (Senior Secondary) Arts stream results for all Indian State Boards for 2022.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

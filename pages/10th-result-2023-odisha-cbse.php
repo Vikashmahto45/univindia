@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th result 2023 odisha cbse - Official Odisha Board Mirror";
 $meta_description = "Check 10th result 2023 odisha cbse online. Access the historical Class 10th (Matric) results for Odisha (BSE) and CBSE school students.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

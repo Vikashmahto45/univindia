@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net Result - Check University Exam Results Online";
 $meta_description = "Check your MGSU, RRBMU, and other university results on Univindia Net. Complete guide to finding your marksheets, checking revaluation results, and more.";
@@ -53,4 +54,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

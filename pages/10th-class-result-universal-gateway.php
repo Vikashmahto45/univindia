@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10th class ka result - Official Class 10th Result Universal Hub";
 $meta_description = "Check 10th class ka result for all Indian boards. Access the official 10th result universal gateway on indiaresults for high-speed score checking.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

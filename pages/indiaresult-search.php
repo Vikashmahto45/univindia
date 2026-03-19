@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "IndiaResult - Official National secondary Board Mirror";
 $meta_description = "Check IndiaResult online. Access the Rajasthan, Punjab, and All-India state board results for the current and historical sessions via the official IndiaResults portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

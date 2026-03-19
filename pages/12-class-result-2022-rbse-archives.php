@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12 class result 2022 rbse - Official BSER Rajasthan Senior Secondary Archive";
 $meta_description = "Check 12 class result 2022 rbse for Science, Commerce, and Arts. Access the official 2022 BSER Rajasthan (12th) archival result portal on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

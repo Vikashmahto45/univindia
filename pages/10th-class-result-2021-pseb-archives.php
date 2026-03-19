@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "10th class result 2021 pseb - Official Punjab 2021 Archive";
 $meta_description = "Check 10th class result 2021 pseb for Matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival result gateway.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

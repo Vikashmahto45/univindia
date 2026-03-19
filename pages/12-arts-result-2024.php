@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12 Arts Result 2024 - Official Rajasthan Board Link";
 $meta_description = "Check 12 Arts Result 2024 online. Access the Rajasthan Board (BSER) Senior Secondary Arts results for the 2024 session. Official 2024 BSER Arts portal.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "jk bose result - Official JK Board Hub";
 $meta_description = "Check JKBOSE 10th & 12th results on jk bose result. Access official Jammu & Kashmir Board scorecards and archival result links on indiaresults.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

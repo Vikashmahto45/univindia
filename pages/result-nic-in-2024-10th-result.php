@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Result Nic In 2024 10th Result - Official Secondary Examination Hub";
 $meta_description = "Check Result Nic In 2024 10th Result online. Access the secondary results for CBSE, Class 10th state boards, and national archives via the official NIC portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result Jammu and Kashmir - Official J&K Board Result Portal";
 $meta_description = "Check India Result Jammu and Kashmir online. Access the J&K Board (JKBOSE) 10th and 12th results for Jammu and Kashmir divisions. Official search-by-name links 2024.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

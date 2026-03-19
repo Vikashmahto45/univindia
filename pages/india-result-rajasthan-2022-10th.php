@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "india result rajasthan 2022 10th - Official RBSE Matric Portal";
 $meta_description = "Check india result rajasthan 2022 10th online. Access the historical Board of Secondary Education Rajasthan (BSER) Class 10th results for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

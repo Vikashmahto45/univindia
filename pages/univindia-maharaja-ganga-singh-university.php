@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal";
 $meta_description = "Univindia Maharaja Ganga Singh University is the dedicated digital hub for MGSU Bikaner exams, results, and student forms. Complete guide to the official portal.";
@@ -55,4 +56,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

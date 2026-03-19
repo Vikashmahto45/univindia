@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "result of 10th class 2022 pseb - Official Punjab 10th 2022 Archive";
 $meta_description = "Check result of 10th class 2022 pseb for Punjab Board. Access the official PSEB Metric archival results and direct scorecard links on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

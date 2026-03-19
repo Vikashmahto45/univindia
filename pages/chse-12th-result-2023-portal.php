@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "chse 12th result 2023 - Official Odisha Higher Secondary Archive";
 $meta_description = "Check chse 12th result 2023 for Arts, Science, and Commerce streams. Access the official 2023 Odisha +2 result portal on indiaresults for high-speed checking.";
@@ -109,5 +110,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

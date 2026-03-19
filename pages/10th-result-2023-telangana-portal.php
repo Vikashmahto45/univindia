@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th result 2023 telangana - Official TSBIE Mirror";
 $meta_description = "Check 10th result 2023 telangana online. Access the historical results for Board of Secondary Education (BSE) Telangana SSC for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

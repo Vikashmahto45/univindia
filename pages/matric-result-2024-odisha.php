@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "matric result 2024 odisha - Official Odisha Board Mirror";
 $meta_description = "Check matric result 2024 odisha online. Access the latest results for Board of Secondary Education (BSE) Odisha Class 10 (Matric) for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

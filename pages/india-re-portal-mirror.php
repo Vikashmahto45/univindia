@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india re - Official National Result Archive Mirror";
 $meta_description = "Check india re for the latest national academic and competitive results. Access the official india results mirrors on indiaresults for high-speed checking.";
@@ -108,5 +109,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

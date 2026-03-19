@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rajasthan-10th-result.indiaresults.com - Official RBSE Hub";
 $meta_description = "Check Rajasthan Board 10th result on rajasthan-10th-result.indiaresults.com. Access official BSER Ajmer 10th scorecards on indiaresults subdomain.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-

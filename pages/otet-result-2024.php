@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "OTET Result 2024 - Odisha Teacher Eligibility Test scores and merit list";
 $meta_description = "Check OTET Result 2024 for Paper 1 and Paper 2. Access the official BSE Odisha primary teacher eligibility scores, qualifying marks, and marksheet downloads.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

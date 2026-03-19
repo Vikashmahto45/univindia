@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Odisha Result 2021 - Historical BSE & CHSE Board archive";
 $meta_description = "Check Odisha Result 2021 online. Access the historical Board of Secondary Education (BSE) and CHSE results for the 2021 session. Official marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

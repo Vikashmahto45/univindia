@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www Exametc Com Result - Official Professional Result Mirror";
 $meta_description = "Check Www Exametc Com Result online. Access the results for all Indian universities (WBSU, CU, BU, VU). Direct link for 2024 examination scores and marks.";
@@ -67,4 +68,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "bse odisha result 2024 - Official Odisha Secondary Result Hub";
 $meta_description = "Check bse odisha result 2024 for Class 10 exams. Access the official 2024 Board of Secondary Education (BSE) Odisha result portal and schedule on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

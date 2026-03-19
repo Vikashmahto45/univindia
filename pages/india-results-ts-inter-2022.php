@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Results TS Inter 2022 - Official Telangana 1st and 2nd Year Results Hub";
 $meta_description = "Check India Results TS Inter 2022 for official Telangana Board for Intermediate Education (TSBIE) scores. Access the 2022 archival results, merit lists, and marksheet downloads.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

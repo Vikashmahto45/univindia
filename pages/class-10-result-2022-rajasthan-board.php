@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "class 10 result 2022 rajasthan board - Official RBSE Mirror";
 $meta_description = "Check class 10 result 2022 rajasthan board online. Access the historical Secondary (Class 10) results for Board of Secondary Education Rajasthan (RBSE).";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

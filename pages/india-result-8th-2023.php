@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 8th class 2023 - Official Middle School Result Mirror";
 $meta_description = "Check india result 8th class 2023 for all boards. Access the official 8th class result portal on indiaresults.com for fast result checking and name-wise search.";
@@ -107,5 +108,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

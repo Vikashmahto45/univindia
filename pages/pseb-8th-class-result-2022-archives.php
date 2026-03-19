@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "pseb 8th class result 2022 - Official Punjab 2022 Archive";
 $meta_description = "Check Punjab Board 8th Class result 2022 on pseb 8th class result 2022. Access the official PSEB Middle School archival results on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

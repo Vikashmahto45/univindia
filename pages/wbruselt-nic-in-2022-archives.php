@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "wbruselt.nic.in 2022 - Official West Bengal 2022 Archive";
 $meta_description = "Check wbruselt.nic.in 2022 for Madhyamik and HS exams. Access the official 2022 West Bengal Board result portal archival mirror on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

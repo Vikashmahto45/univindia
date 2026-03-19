@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india board result - Official National Results Hub";
 $meta_description = "Check all state board results on india board result. Access official indiaresults gateway for 10th & 12th results of all state boards across India.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

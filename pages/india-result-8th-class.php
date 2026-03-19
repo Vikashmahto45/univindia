@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 8th Class - Official National Mirror";
 $meta_description = "Check India Result 8th Class online. Access the primary 8th Board results for Rajasthan, Punjab, and other states. Official IndiaResults mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

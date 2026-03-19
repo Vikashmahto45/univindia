@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 require_once 'includes/config.php';
 $page_title = "CTET.nic.in Admit Card 2021 Download - CBSE Teacher Entrance Hall Ticket | Univindia.online";
@@ -97,4 +98,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

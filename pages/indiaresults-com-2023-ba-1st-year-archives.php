@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresults.com 2023 ba 1st year - Official University Academic Archive";
 $meta_description = "Check indiaresults.com 2023 ba 1st year for all participating universities. Access the official 2023 BA Part 1 archival result portal on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

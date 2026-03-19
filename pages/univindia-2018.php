@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia 2018 Archive Portal - Bikaner University 2018 Records";
 $meta_description = "Access the Univindia 2018 archive for Bikaner University. Official guide to retrieving 2018 Maharaja Ganga Singh University exams, results, and admit cards.";
@@ -57,4 +58,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

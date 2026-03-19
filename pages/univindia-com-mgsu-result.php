@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Com MGSU Result - Bikaner University Marks Online";
 $meta_description = "Check your MGSU Bikaner results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University marksheets and scores via the .com portal.";
@@ -61,4 +62,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "arts result 2023 rbse - Official Rajasthan 2023 Archive";
 $meta_description = "Check Rajasthan Board 12th Arts result 2023 on arts result 2023 rbse. Access official RBSE Senior Secondary Arts 2023 archival scorecards on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

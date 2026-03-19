@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th class result 2022 punjab board - Official PSEB Portal";
 $meta_description = "Check 10th class result 2022 punjab board online. Access the historical Punjab School Education Board (PSEB), Mohali Matriculation 2022 results.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

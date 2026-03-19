@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Results Telangana Intermediate - Official State Mirror Portal";
 $meta_description = "Check India Results Telangana Intermediate online. Access the Telangana State Board of Intermediate Education (TSBIE) 1st and 2nd Year results via the official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

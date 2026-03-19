@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $keywords = file('keyword.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 $files = file('all_pages.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
@@ -23,4 +24,4 @@ foreach ($keywords as $keyword) {
 $out .= "];\n";
 file_put_contents('includes/link_map.php', $out);
 echo "Mapping complete: includes/link_map.php updated.\n";
-
+<?php include '../footer.php'; ?>

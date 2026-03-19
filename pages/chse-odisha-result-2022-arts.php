@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "chse odisha result 2022 arts - Official CHSE Mirror";
 $meta_description = "Check chse odisha result 2022 arts online. Access the historical results for Council of Higher Secondary Education (CHSE) Odisha Class 12 Arts for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

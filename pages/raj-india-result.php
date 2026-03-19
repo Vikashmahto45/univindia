@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Raj India Result - Official Rajasthan Board result Portal";
 $meta_description = "Check Raj India Result online. Access the high-speed Rajasthan Board (RBSE) 10th and 12th results. Official Rajasthan marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

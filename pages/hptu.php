@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "HPTU Result - Himachal Pradesh Technical University Semester Updates";
 $meta_description = "Check HPTU results for B.Tech, M.Tech, MBA, and other technical courses. Get the latest updates on Himachal Pradesh Technical University Hamirpur exams and scores.";
@@ -79,4 +80,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

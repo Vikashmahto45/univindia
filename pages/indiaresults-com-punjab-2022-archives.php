@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresults com punjab 2022 - Official Punjab State 2022 Archive";
 $meta_description = "Check indiaresults com punjab 2022 for board and university exams. Access the official 2022 Punjab academic result portal for PSEB and state universities on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

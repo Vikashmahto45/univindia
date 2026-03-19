@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www Univindia Net MGSU Access - Bikaner University Digital Gateway";
 $meta_description = "Access MGSU Bikaner services via Www Univindia Net. Official guide to navigating Maharaja Ganga Singh University exams, results, and student panels online.";
@@ -52,4 +53,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

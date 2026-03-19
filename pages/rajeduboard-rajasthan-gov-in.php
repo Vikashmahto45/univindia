@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rajeduboard rajasthan gov in - Official RBSE Portal";
 $meta_description = "Check rajeduboard rajasthan gov in online. Access the official Board of Secondary Education Rajasthan (BSER) portal for all results and examinations.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

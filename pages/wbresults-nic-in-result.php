@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "WBResults Nic In Result - Official West Bengal Examination Gateway";
 $meta_description = "Check WBResults Nic In Result online. Access the West Bengal Madhyamik (10th) and Higher Secondary (12th) result links, marksheets, and official scores for 2024.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

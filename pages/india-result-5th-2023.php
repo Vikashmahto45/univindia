@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 5th 2023 - Official Primary Board Result Gateway";
 $meta_description = "Check india result 5th 2023 for RBSE, PSEB, and all state boards. Access the official 5th class board result mirror for the 2023 academic session.";
@@ -121,3 +122,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 10th PSEB - Official Punjab Mirror";
 $meta_description = "Check India Result 10th PSEB online. Access the primary Punjab Board Class 10th results via the official IndiaResults mirror. High-speed matric result link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

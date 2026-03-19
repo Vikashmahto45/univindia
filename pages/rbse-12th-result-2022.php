@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "RBSE 12th Result 2022 - Historical Rajasthan Board archive";
 $meta_description = "Check RBSE 12th Result 2022 online. Access the historical Rajasthan Board (BSER) Senior Secondary results for the 2022 session. Official merit lists and marks.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

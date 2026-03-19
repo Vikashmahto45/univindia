@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "JAC 12th Result 2024 - Jharkhand Academic Council Inter Results Hub";
 $meta_description = "Check JAC 12th Result 2024 for Science, Commerce, and Arts. Access the official Jharkhand Academic Council gateway for intermediate scores and merit lists.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

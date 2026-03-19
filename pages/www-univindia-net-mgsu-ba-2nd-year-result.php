@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores";
 $meta_description = "Check your MGSU Bikaner BA Part 2 results at Www Univindia Net. Official portal for Maharaja Ganga Singh University Bachelor of Arts marksheets online.";
@@ -61,4 +62,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

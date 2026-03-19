@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 10th 2022 UP Board - Official Uttar Pradesh matric Archive";
 $meta_description = "Check India Result 10th 2022 UP Board online. Access the historical Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) High School results for the 2022 session. Official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

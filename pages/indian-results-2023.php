@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indian Results 2023 - Official National Board Result Mirror";
 $meta_description = "Check Indian Results 2023 online. Access the direct result links for CBSE, RBSE, BSEB, UPMSP, and all state boards. Download your 2023 marksheets and scorecards.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

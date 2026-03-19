@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "BSE Odisha Result 2023 - Official Class 10th Board Archive";
 $meta_description = "Check BSE Odisha Result 2023 for Class 10th Matric examinations. Access the 2023 board results, school-wise stats, and official merit lists online.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

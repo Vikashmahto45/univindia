@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket";
 $meta_description = "Download your MSBU Bharatpur admit card at Univindia. Official guide to retrieving hall tickets for Maharaja Surajmal Brij University exams online.";
@@ -58,4 +59,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

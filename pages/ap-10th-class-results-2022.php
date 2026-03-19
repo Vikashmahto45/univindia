@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "AP 10th Class Results 2022 - Official Andhra Pradesh Portal";
 $meta_description = "Check AP 10th Class Results 2022 online. Access the historical Andhra Pradesh Board (BSEAP) Secondary School Certificate (SSC) results for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

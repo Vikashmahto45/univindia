@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Exam Result - Official National Result Archive";
 $meta_description = "Check Exam Result online. Access the primary national and state board examination results for 10th, 12th, and University degrees. Official marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result 2021 10th - Official National 2021 Archive";
 $meta_description = "Check india result 2021 10th for all state boards and CBSE. Access the official 2021 secondary (Class 10) result portal archival mirror on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

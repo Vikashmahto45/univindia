@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "all india result - Official National Dashboard Hub";
 $meta_description = "Check all india result for every board, university, and competitive exam. Access the official national result portal on indiaresults for high-speed checking.";
@@ -113,5 +114,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rbse 10th board result date - Official Rajasthan BSER Notification Hub";
 $meta_description = "Check rbse 10th board result date for the current academic session. Access the official Rajasthan Board (BSER) result date alerts on indiaresults.";
@@ -113,5 +114,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

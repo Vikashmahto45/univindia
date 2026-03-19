@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "BSTC Univindia - Rajasthan Pre-DElEd Exam Portal Guide";
 $meta_description = "BSTC Univindia is the primary portal for Rajasthan Pre-DElEd (BSTC) exam forms, admit cards, and results. Complete walkthrough for BSTC aspirants.";
@@ -55,4 +56,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

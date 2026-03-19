@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th Science Result 2024 - Official National Portal";
 $meta_description = "Check 12th Science Result 2024 online. Access the upcoming board-level 12th results for Science streams across all major Indian states. Official portal.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

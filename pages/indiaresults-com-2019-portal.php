@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "indiaresults.com 2019 - Official National Result Mirror";
 $meta_description = "Check indiaresults.com 2019 online. Access the historical results for all major state boards and universities across India for the 2019 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "free fast result .com - Official National Results Hub";
 $meta_description = "Check free fast result .com for all board and university exams. Access the official fast results portal, live updates, and archival scores on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

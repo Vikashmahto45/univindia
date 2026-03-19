@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults Com 2024 Link - Official State Board Result Gateway";
 $meta_description = "Check Indiaresults Com 2024 Link online. Access the direct result links for Punjab, Rajasthan, HP, and all state boards. Verify your 10th and 12th results for 2024.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Odisha Result 10th 2023 - Official BSE Odisha Matrix archive";
 $meta_description = "Check Odisha Result 10th 2023 online. Access the historical Board of Secondary Education (BSE) Odisha matric results for the 2023 session. Official marks link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

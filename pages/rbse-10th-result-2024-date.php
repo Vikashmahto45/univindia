@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rbse 10th result 2024 date - Official Rajasthan Board Schedule";
 $meta_description = "Check rbse 10th result 2024 date online. Access the expected and confirmed release dates for Board of Secondary Education Rajasthan (BSER) Class 10th results.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

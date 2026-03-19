@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "indiaresultinfo.com 2022 - Official 2022 Academic Information Archive";
 $meta_description = "Check indiaresultinfo.com 2022 for board and university exams. Access the official 2022 academic result information and portal links on indiaresults.";
@@ -121,5 +122,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

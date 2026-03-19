@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th Board Result 2022 RBSE - Official Rajasthan Mirror";
 $meta_description = "Check 10th Board Result 2022 RBSE online. Access the historical Rajasthan Board (BSER) Class 10 results for the 2022 session via the official Ajmer portal mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

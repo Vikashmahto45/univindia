@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "jkbose 10th result 2021 kashmir division - Official JKBOSE 2021 Archive";
 $meta_description = "Check jkbose 10th result 2021 kashmir division for Matric exams. Access the official 2021 Jammu and Kashmir Board (JKBOSE) archival portal on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

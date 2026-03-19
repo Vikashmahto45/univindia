@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "intermediate results - Official State Board Portal";
 $meta_description = "Check intermediate results online for AP, TS, and other state boards. Access the official Inter result portal for Class 11 and Class 12.";
@@ -63,4 +64,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

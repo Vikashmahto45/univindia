@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result rajasthan 2021 10th - Official Rajasthan Secondary 2021 Archive";
 $meta_description = "Check india result rajasthan 2021 10th for BSER Class 10 exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults.";
@@ -118,5 +119,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

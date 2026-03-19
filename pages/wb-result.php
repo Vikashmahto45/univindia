@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "WB Result - Official West Bengal Board Examination Hub";
 $meta_description = "Check WB Result online. Access the West Bengal Board (WBBSE & WBCHSE) Madhyamik and Higher Secondary results. Download your 20th and 12th marksheets instantly.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

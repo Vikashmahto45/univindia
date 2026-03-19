@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Class 12 Arts Result 2023 - Official National Result Archive";
 $meta_description = "Check Class 12 Arts Result 2023 online. Access the historical 12th Arts results for all major state boards including RBSE, UP Board, and HBSE. Official mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "UP Result NIC In 2024 - Official Uttar Pradesh Board Portal";
 $meta_description = "Check UP Result NIC In 2024 for Class 10th and 12th. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) results, marksheets, and merit list online.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

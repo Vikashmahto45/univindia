@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "inter 1year results - Official Junior College Gateway";
 $meta_description = "Check inter 1year results for AP, TS, and other major boards. Access the official Intermediate 1st Year result hub on indiaresults for high-speed checking.";
@@ -113,5 +114,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

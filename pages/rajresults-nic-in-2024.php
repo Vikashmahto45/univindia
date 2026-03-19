@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Rajresults Nic In 2024 - Official Rajasthan Board Examination Hub";
 $meta_description = "Check Rajresults Nic In 2024 online. Access the Rajasthan Board (RBSE) 10th and 12th results for Science, Commerce, and Arts. Official results.nic.in gateway 2024.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

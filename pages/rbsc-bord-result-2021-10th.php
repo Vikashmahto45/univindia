@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rbsc bord result 2021 10th - Official Rajasthan Board Mirror";
 $meta_description = "Check rbsc bord result 2021 10th online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 10th for the 2021 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "result odisha - Official Odisha Board Mirror";
 $meta_description = "Check result odisha online. Access the latest results for all Odisha State Boards (CHSE, BSE) and Universities for the 2024 academic session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive";
 $meta_description = "Check Punjab Board 2022 results on www pseb ac in indiaresult com 2022. Access the official PSEB Class 10 and 12 archival results for the 2022 session.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

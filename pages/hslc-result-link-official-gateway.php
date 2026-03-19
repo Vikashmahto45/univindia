@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "hslc result link - Official High School Result Hub";
 $meta_description = "Check all state HSLC results on hslc result link. Access official indiaresults gateway for High School Leaving Certificate 10th scores and rank lists.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

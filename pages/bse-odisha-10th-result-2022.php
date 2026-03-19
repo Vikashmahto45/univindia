@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "BSE Odisha 10th Result 2022 - Official Class 10th Board Archive";
 $meta_description = "Check BSE Odisha 10th Result 2022. Access the 2022 Board of Secondary Education (BSE) Odisha Matric examination results, subject-wise marks, and official certificates.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

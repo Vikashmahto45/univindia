@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "10th Class Result 2023 Name Wise - Official National Mirror";
 $meta_description = "Check 10th Class Result 2023 Name Wise online. Access the historical Rajasthan, Punjab, and other state matric results for the 2023 session via official name mirrors.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

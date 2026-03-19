@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "inter 2 year results - Official National Intermediate Portal";
 $meta_description = "Check inter 2 year results online. Access the Telangana (TSBIE) and Andhra Pradesh (BIEAP) Intermediate 2nd Year (Senior Inter) results for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

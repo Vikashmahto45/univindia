@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "ts intermediate results - Official Telangana TSBIE Gateway";
 $meta_description = "Check ts intermediate results for 1st and 2nd year exams. Access the official Telangana Board (TSBIE) result portal on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
-<?php include '../header.php'; ?>
+<?php include '../footer.php'; ?>

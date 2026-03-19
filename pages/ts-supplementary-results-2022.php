@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "TS Supplementary Results 2022 - Official Telangana TSBIE Archive";
 $meta_description = "Check TS Supplementary Results 2022 online. Access the historical Telangana State Board of Intermediate Education (TSBIE) 1st & 2nd year IPASE results. Official Link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

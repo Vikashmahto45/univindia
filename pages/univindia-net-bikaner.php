@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net Bikaner - MGSU University Exam & Result portal";
 $meta_description = "Univindia Net Bikaner is the dedicated portal for Maharaja Ganga Singh University. Get your MGSU Bikaner results, admit cards, and exam forms at Univindia.net.";
@@ -47,4 +48,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

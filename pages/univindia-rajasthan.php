@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Rajasthan - University Portal for Rajasthan Students";
 $meta_description = "Univindia Rajasthan is the central gateway for higher education results in Rajasthan. Guide for MGSU, RRBMU, and MSBU university portals and forms.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

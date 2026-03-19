@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 10th 2023 UP Board - Official National Archive";
 $meta_description = "Check India Result 10th 2023 UP Board online. Access the historical Uttar Pradesh High School results for the 2023 session. Official IndiaResults mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

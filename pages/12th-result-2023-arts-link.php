@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th Result 2023 Arts - Official National Mirror";
 $meta_description = "Check 12th Result 2023 Arts online. Access the historical Rajasthan, Punjab, and other state Senior Secondary Arts results for the 2023 session. Official 2023 mirror link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

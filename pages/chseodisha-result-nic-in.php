@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Chseodisha Result Nic In - Official Odisha Board Link";
 $meta_description = "Check Chseodisha Result Nic In online. Access the Council of Higher Secondary Education (CHSE) Odisha +2 results. Official 2024 marksheet downloads.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

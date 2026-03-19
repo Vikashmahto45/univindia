@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "jac 12th result 2021 arts jharkhand - Official JAC Intermediate Arts Archive";
 $meta_description = "Check jac 12th result 2021 arts jharkhand for Intermediate exams. Access the official 2021 Jharkhand (JAC) Arts archival result portal on indiaresults.";
@@ -117,5 +118,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

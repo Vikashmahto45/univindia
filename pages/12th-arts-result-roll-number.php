@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th Arts Result Roll Number - Official National Board Result Gateway";
 $meta_description = "Check 12th Arts Result Roll Number online. Access the direct result links for RBSE, UPMSP, BSEB, and all state boards. Verify your 2024 Arts scores instantly.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

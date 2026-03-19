@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "rbse result 10th 2023 - Official Rajasthan 10th 2023 Archive";
 $meta_description = "Check Rajasthan Board 10th result 2023 on rbse result 10th 2023. Access the official RBSE Secondary archival results and direct scorecard links on indiaresults.";
@@ -120,5 +121,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

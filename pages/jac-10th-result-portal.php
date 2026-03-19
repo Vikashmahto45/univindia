@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "jac 10th result - Official Jharkhand Academic Council Portal";
 $meta_description = "Check jac 10th result online. Access the official Jharkhand Board Matriculation result portal, marksheet download, and school-wise selection list.";
@@ -121,3 +122,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

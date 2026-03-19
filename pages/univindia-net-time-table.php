@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net Time Table - University Exam Schedules Online";
 $meta_description = "View and download the latest university exam time tables on Univindia Net. Complete guide to finding schedules for MGSU, RRBMU, and MSBU exams.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

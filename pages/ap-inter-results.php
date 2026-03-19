@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "ap inter results - Official AP Board Portal";
 $meta_description = "Check ap inter results online. Access the Intermediate 1st and 2nd Year results for Board of Intermediate Education, Andhra Pradesh (BIEAP).";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

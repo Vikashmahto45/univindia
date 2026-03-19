@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www.webresult.nic.in 2022 - Official National Board Mirror";
 $meta_description = "Check www.webresult.nic.in 2022 online. Access the historical results for all Indian State Boards and competitive exams for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

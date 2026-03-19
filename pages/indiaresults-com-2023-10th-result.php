@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults com 2023 10th Result - Official Secondary Result Archive";
 $meta_description = "Check Indiaresults com 2023 10th Result for all state boards including Punjab, Rajasthan, and Himachal. Access the 2023 secondary results by name and roll number.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

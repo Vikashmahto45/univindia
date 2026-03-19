@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "rajasthan 10th class result - Official RBSE Mirror";
 $meta_description = "Check rajasthan 10th class result online. Access the high-speed results for Board of Secondary Education Rajasthan (BSER) Class 10 for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

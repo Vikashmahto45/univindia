@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "MJPRU Result 2022 - Official Rohilkhand University Archive";
 $meta_description = "Check MJPRU Result 2022 online. Access the historical Mahatma Jyotiba Phule Rohilkhand University (MJPRU) Bareilly results for the 2022 session. Official Link.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

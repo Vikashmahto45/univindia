@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Www Univindia Net Index Php - University Portal Homepage Guide";
 $meta_description = "Access the official Www Univindia Net Index Php page for MGSU Bikaner. Complete guide to the university portal homepage for exams, results, and forms.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

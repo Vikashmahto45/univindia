@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result Bihar - Official Bihar Board Mirror Portal";
 $meta_description = "Check India Result Bihar online. Access the Bihar School Examination Board (BSEB) Matric and Intermediate results via the official national mirror.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

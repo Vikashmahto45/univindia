@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "CTET Admit Card 2024: Download NTA CTET July/January Session Hall Ticket @ ctet.nic.in";
@@ -191,4 +192,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

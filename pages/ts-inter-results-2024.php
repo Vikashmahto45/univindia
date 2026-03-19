@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "TS Inter Results 2024 - Telangana Intermediate 1st & 2nd Year Scores";
 $meta_description = "Check TS Inter Results 2024 for 1st and 2nd year. Access official Telangana State Board of Intermediate Education (TSBIE) scores, markshet downloads, and merit lists.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

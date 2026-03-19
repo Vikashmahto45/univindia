@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults-com 2023 - Official National Result Archive Portal";
 $meta_description = "Check Indiaresults-com 2023 online. Access the historical national and state board result verification framework for the 2023 session. Official marks link cluster.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

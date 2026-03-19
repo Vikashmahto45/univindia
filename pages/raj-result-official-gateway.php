@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "raj result - Official Rajasthan Board Gateway Hub";
 $meta_description = "Check raj result for 10th and 12th board exams. Access the official Rajasthan (RBSE) result portal on indiaresults for high-speed checking.";
@@ -111,5 +112,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "12th Science Result 2022 - Global National Higher Secondary Archive";
 $meta_description = "Check 12th Science Result 2022 for all major state and central boards. Access the official 2022 science stream results, merit lists, and marksheet download links.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

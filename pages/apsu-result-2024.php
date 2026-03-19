@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "apsu result 2024 - Official University Portal";
 $meta_description = "Check apsu result 2024 online. Access the semester and annual results for Awadhesh Pratap Singh University (APSU) Rewa for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

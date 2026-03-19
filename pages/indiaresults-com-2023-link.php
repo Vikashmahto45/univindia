@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Indiaresults.com 2023 Link - Official Board Result Archive Gateway";
 $meta_description = "Check Indiaresults.com 2023 Link online. Access the direct high-speed result links for all Indian state boards for the 2023 session. Search by name or roll number.";
@@ -67,4 +68,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "result of 10th class 2023 - Official National Secondary Archive";
 $meta_description = "Check result of 10th class 2023 for all state and central board exams. Access the official 2023 Secondary archival result portal on indiaresults.";
@@ -115,5 +116,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

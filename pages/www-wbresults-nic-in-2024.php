@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "www.wbresults.nic.in 2024 - Official West Bengal Result Portal Updates";
 $meta_description = "Access www.wbresults.nic.in 2024 for official West Bengal WBBSE Madhyamik and WBCHSE HS results. Get direct links and latest date updates for WB board results.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

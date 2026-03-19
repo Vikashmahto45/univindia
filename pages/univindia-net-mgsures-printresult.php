@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal";
 $meta_description = "Print your official MGSU Bikaner results via Univindia Net MGSURES PrintResult. Official guide to downloading and printing university score reports online.";
@@ -51,4 +52,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

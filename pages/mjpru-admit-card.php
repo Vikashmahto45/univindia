@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 include '../includes/config.php';
 $page_title = "MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in";
@@ -201,4 +202,4 @@ include '../includes/header.php';
 </style>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

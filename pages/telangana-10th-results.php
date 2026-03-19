@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "telangana 10th results - Official BSE Telangana SSC Portal";
 $meta_description = "Check telangana 10th results online. Access the Telangana State Board of Secondary Education (BSE Telangana) SSC results for the 2024 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "india result class 5 - Official National Primary School Hub";
 $meta_description = "Check india result class 5 for all state boards. Access the official national primary (Class 5) result portal and live updates on indiaresults.";
@@ -122,5 +123,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

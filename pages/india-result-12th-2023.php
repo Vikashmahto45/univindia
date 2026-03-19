@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result 12th 2023 - Senior Secondary Results Archive for All Boards";
 $meta_description = "Retrieve your India Result 12th 2023 online. Access the archival scores and merit lists for Class 12 CBSE, state boards, and national exams from the 2023 session.";
@@ -65,4 +66,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

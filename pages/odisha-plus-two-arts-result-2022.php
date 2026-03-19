@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Odisha +2 Arts Result 2022 - Official CHSE Higher Secondary Portal";
 $meta_description = "Check Odisha +2 Arts Result 2022 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Class 12 Arts results for the 2022 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php
 $page_title = "12th science result 2021 - Official National Archive Portal";
 $meta_description = "Check 12th science result 2021 for all state and central boards. Access the official 2021 Senior Secondary Science result archive on indiaresults.";
@@ -109,5 +110,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>

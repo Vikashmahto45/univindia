@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Raj Result 10th - Official Rajasthan Board examination Hub";
 $meta_description = "Check Raj Result 10th online. Access the high-speed Rajasthan Board (RBSE) Secondary results. Official 2024 merit list, subject marks, and name-wise search.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "bsc 1st year result 2023 - Official University Result Portal";
 $meta_description = "Check bsc 1st year result 2023 online. Access the semester and annual results for Bachelor of Science (BSc) for various Indian universities for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

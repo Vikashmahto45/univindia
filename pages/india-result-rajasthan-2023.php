@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "India Result Rajasthan 2023 - Official RBSE Mirror Portal";
 $meta_description = "Check India Result Rajasthan 2023 online. Access the historical Board of Secondary Education Rajasthan (RBSE) 10th and 12th results for the 2023 session.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Rajasthan Result - Official State Board Portal";
 $meta_description = "Visit Rajasthan Result online. Access the primary Board of Secondary Education Rajasthan (BSER) and NIC results. Official state result gateway for 10th and 12th.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

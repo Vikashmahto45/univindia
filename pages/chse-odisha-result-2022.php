@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "CHSE Odisha Result 2022 - Official Higher Secondary Portal";
 $meta_description = "Check CHSE Odisha Result 2022 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Class 12 Science, Commerce, and Arts results for 2022.";
@@ -66,4 +67,4 @@ include '../includes/header.php';
 </div>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

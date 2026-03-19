@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "Univindia Org Admit Card - Download RRBMU Alwar University Hall Ticket";
 $meta_description = "Download your RRBMU Alwar admit card at Univindia Org. Official portal for Raj Rishi Bhartrihari Matsya University examinations and hall tickets.";
@@ -58,4 +59,4 @@ include '../includes/header.php';
 </main>
 
 <?php include '../includes/footer.php'; ?>
-
+<?php include '../footer.php'; ?>

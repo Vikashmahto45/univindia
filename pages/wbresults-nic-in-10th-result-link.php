@@ -1,3 +1,4 @@
+<?php include '../header.php'; ?>
 <?php 
 $page_title = "wbresults.nic.in 10th result link - Official West Bengal Hub";
 $meta_description = "Check West Bengal Board 10th result on wbresults.nic.in 10th result link. Access official WBBSE Madhyamik scorecards and 10th result links on indiaresults.";
@@ -88,6 +89,4 @@ include '../header.php';
         </div>
     </section>
 </main>
-
 <?php include '../footer.php'; ?>
-
