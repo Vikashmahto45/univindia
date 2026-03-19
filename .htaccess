@@ -1,9 +1,9 @@
 RewriteEngine On
 RewriteBase /
 
-# Don't rewrite if the file exists in the root
+# Stop if file exists in root
 RewriteCond %{REQUEST_FILENAME} -f
 RewriteRule ^ - [L]
 
-# Rewrite to pages/ directory if the file exists there
+# Route to pages/ if file exists there
 RewriteRule ^([^/]+\.php)$ pages/$1 [L]
