@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha 10th result 2022 - Official BSE Matric Archive"; 
 $meta_description = "Check odisha 10th result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result gateway on indiaresults."; 
 $meta_keywords = ""; 
@@ -109,4 +109,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

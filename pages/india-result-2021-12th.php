@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2021 12th - Official Archive of Senior Secondary Results"; 
 $meta_description = "Access the india result 2021 12th for all state and national boards. Documenting the high-speed mirrors and official archives for the 2021 senior secondary exams."; 
 $meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 board results, indiaresults class 12 2021, HSC result 2021 link"; 
@@ -119,4 +119,4 @@ $meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 b
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

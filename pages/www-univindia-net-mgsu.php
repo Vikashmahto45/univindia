@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Www Univindia Net MGSU - Bikaner University Result & Admit Card Hub"; 
 $meta_description = "Www Univindia Net MGSU is the official digital portal for MGSU Bikaner. Complete guide to checking results, exam forms, and time tables at Www Univindia Net MGSU."; 
 $meta_keywords = "www univindia net mgsu"; 
@@ -50,4 +50,4 @@ $meta_keywords = "www univindia net mgsu";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

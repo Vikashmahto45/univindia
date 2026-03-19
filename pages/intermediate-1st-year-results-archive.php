@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "intermediate 1st year results - Official Junior College Gateway"; 
 $meta_description = "Check intermediate 1st year results for all major state boards. Access the official 1st Year Intermediate result hub on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -115,4 +115,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

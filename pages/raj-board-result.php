@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Raj Board Result - Official Rajasthan Board of Secondary Education Hub"; 
 $meta_description = "Check Raj Board Result online. Access the Rajasthan Board (BSER) 10th and 12th results. Official 2024 marksheets and result statistics portal."; 
 $meta_keywords = "raj board result, check rbse result online, rajeduboard.rajasthan.gov.in results, rajasthan 10th 12th result link, official rbse portal, bser result hub"; 
@@ -65,4 +65,4 @@ $meta_keywords = "raj board result, check rbse result online, rajeduboard.rajast
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

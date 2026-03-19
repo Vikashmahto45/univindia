@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result name wise - Official National Board Mirror"; 
 $meta_description = "Check india result name wise online. Access the alternative search gateway to find all Indian board results using strictly your Full Name."; 
 $meta_keywords = "india result name wise, search board results by name, official indiaresults name link, check results without roll number portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result name wise, search board results by name, official
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

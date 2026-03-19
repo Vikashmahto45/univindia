@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisharesult.nic.in 2023 - Official Odisha Board Mirror"; 
 $meta_description = "Check odisharesult.nic.in 2023 online. Access the historical HSC (Class 10) and CHSE (Class 12) results for Odisha for the 2023 session."; 
 $meta_keywords = "odisharesult.nic.in 2023, check odisha board results 2023 online, official bse odisha mirror 2023, odisha results nic in index portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "odisharesult.nic.in 2023, check odisha board results 2023 onli
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

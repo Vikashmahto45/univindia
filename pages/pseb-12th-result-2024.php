@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "PSEB 12th Result 2024 - Official Punjab Portal"; 
 $meta_description = "Check PSEB 12th Result 2024 online. Access the high-speed link for Punjab Board Senior Secondary results. Science, Commerce, and Arts official links."; 
 $meta_keywords = "pseb 12th result 2024, check punjab board 12th result online, pseb senior secondary 2024 link, official 12th result punjab 2024, pseb.ac.in result"; 
@@ -65,4 +65,4 @@ $meta_keywords = "pseb 12th result 2024, check punjab board 12th result online, 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

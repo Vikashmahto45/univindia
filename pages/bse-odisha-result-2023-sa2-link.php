@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bse odisha result 2023 sa2 link - Official Odisha Board Mirror"; 
 $meta_description = "Check bse odisha result 2023 sa2 link online. Access the Summative Assessment-2 (SA2) Class 10th results for Board of Secondary Education (BSE) Odisha."; 
 $meta_keywords = "bse odisha result 2023 sa2 link, check odisha 10th sa2 result 2023 online, official bse odisha sa2 link, odisha results 2023 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "bse odisha result 2023 sa2 link, check odisha 10th sa2 result 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

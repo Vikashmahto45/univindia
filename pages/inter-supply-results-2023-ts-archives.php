@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter supply results 2023 ts - Official TSBIE 2023 Archive"; 
 $meta_description = "Check inter supply results 2023 ts for IPASE exams. Access the official 2023 Telangana Board of Intermediate Education (TSBIE) archival portal."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

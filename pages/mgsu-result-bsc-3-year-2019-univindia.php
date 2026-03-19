@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MGSU Result B.Sc 3 Year 2019 Univindia - Bikaner University BSc Final Scores"; 
 $meta_description = "Access the MGSU Bikaner B.Sc 3 Year 2019 results via Univindia. Official guide to retrieving B.Sc Final 2019 Maharaja Ganga Singh University marksheets."; 
 $meta_keywords = "MGSU Result B.Sc 3 Year 2019 Univindia - Bikaner University BSc Final Scores"; 
@@ -50,4 +50,4 @@ $meta_keywords = "MGSU Result B.Sc 3 Year 2019 Univindia - Bikaner University BS
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

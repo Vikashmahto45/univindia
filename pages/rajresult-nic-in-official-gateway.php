@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajresult - Official Rajasthan Board & University Result Gateway"; 
 $meta_description = "Check rajresult for BSER, RU, and state board exams. Access the official rajresults.nic.in mirrors and Rajasthan academic archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

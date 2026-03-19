@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indian Results 2023 - Official National Board Result Mirror"; 
 $meta_description = "Check Indian Results 2023 online. Access the direct result links for CBSE, RBSE, BSEB, UPMSP, and all state boards. Download your 2023 marksheets and scorecards."; 
 $meta_keywords = "indian results 2023, check india results 2023 online, 10th 12th results 2023 link, official indiaresult mirror 2023, board results 2023 search, click to check 2023 results"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indian results 2023, check india results 2023 online, 10th 12t
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

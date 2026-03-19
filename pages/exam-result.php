@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Exam Result - Official National Result Archive"; 
 $meta_description = "Check Exam Result online. Access the primary national and state board examination results for 10th, 12th, and University degrees. Official marks link."; 
 $meta_keywords = "exam result, check board result online, university exam result indiaresults, official examination result link, board results 2024 india"; 
@@ -65,4 +65,4 @@ $meta_keywords = "exam result, check board result online, university exam result
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

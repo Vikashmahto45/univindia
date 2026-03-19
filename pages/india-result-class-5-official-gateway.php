@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result class 5 - Official National Primary School Hub"; 
 $meta_description = "Check india result class 5 for all state boards. Access the official national primary (Class 5) result portal and live updates on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

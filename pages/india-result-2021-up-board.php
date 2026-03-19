@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2021 up board - Official UP Board Mirror"; 
 $meta_description = "Check india result 2021 up board online. Access the historical results for Uttar Pradesh Board (UPMSP) High School and Intermediate for the 2021 session."; 
 $meta_keywords = "india result 2021 up board, check up board results 2021 online, official upmsp mirror link 2021, upmsp results 2021 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 2021 up board, check up board results 2021 online
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

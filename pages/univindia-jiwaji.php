@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Jiwaji - Jiwaji University Gwalior Result Portal Guide"; 
 $meta_description = "Univindia Jiwaji is the official hub for Jiwaji University Gwalior results and exam forms. Complete guide to navigating the Jiwaji university student portal."; 
 $meta_keywords = "univindia jiwaji"; 
@@ -54,4 +54,4 @@ $meta_keywords = "univindia jiwaji";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

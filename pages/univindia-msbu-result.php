@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia MSBU Result - Bharatpur Brij University Marks Check"; 
 $meta_description = "Check your MSBU Bharatpur results on Univindia. Complete guide to downloading Brij University marksheets and revaluation results online."; 
 $meta_keywords = "Univindia MSBU Result - Bharatpur Brij University Marks Check"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia MSBU Result - Bharatpur Brij University Marks Check"
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th RBSE Result 2021 Name Wise - Official BSER Portal"; 
 $meta_description = "Check 10th RBSE Result 2021 Name Wise online. Access the historical Rajasthan Board matric results for the 2021 session via the official IndiaResults mirror."; 
 $meta_keywords = "10th rbse result 2021 name wise, check rajasthan board 10th result 2021 name, bser ajmer 10th result 2021 name link, official 2021 rbse name mirror, rajasthan.indiaresults.com 2021"; 
@@ -65,4 +65,4 @@ $meta_keywords = "10th rbse result 2021 name wise, check rajasthan board 10th re
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

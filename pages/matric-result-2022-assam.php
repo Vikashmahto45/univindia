@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Matric Result 2022 Assam - Historical SEBA HSLC Archive"; 
 $meta_description = "Check Matric Result 2022 Assam online. Access the historical Secondary Education Board of Assam (SEBA) HSLC results for the 2022 session. Official marksheets and stats."; 
 $meta_keywords = "matric result 2022 assam, check seba hslc result 2022, assam 10th result 2022 link, sebaonline.org result 2022, official assam matric portal, seba hslc marksheet 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "matric result 2022 assam, check seba hslc result 2022, assam 1
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

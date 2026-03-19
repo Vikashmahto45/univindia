@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Punjab Board 10th Result - Official PSEB matric Hub"; 
 $meta_description = "Check Punjab Board 10th Result online. Access the high-speed Punjab School Education Board (PSEB) Mohali Matriculation results. Official marks link cluster."; 
 $meta_keywords = "punjab board 10th result, check pseb matric result online, pseb.ac.in results, official punjab matric link, indiaresult punjab 10th"; 
@@ -65,4 +65,4 @@ $meta_keywords = "punjab board 10th result, check pseb matric result online, pse
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

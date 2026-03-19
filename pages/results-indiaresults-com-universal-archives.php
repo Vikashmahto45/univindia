@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "results indiaresults com - Official National Academic Archive Gateway"; 
 $meta_description = "Check results indiaresults com for university and board exams. Access the official academic result portal and archives across all Indian states on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "wbresults nic in higher secondary - Official WBCHSE HS Hub"; 
 $meta_description = "Check wbresults nic in higher secondary for Class 12th results. Access the official West Bengal (WBCHSE) HS result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

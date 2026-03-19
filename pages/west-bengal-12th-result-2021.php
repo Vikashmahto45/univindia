@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "West Bengal 12th Result 2021 - Official WBCHSE Archive"; 
 $meta_description = "Check West Bengal 12th Result 2021 online. Access the historical West Bengal Council of Higher Secondary Education (WBCHSE) HS results for the 2021 session. Official mirror."; 
 $meta_keywords = "west bengal 12th result 2021, check wb hs result 2021 online, wbchse 12th result 2021 name wise, official 2021 west bengal 12th link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "west bengal 12th result 2021, check wb hs result 2021 online, 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

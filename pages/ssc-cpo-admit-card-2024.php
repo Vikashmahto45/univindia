@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -188,4 +188,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

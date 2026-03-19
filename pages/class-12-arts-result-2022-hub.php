@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "class 12 arts result 2022 - Official National Archive Gateway"; 
 $meta_description = "Check class 12 arts result 2022 for all major boards including RBSE, UP, and more. Access the official 2022 Senior Secondary Arts result hub on indiaresults."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

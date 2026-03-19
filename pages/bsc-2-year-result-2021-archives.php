@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bsc 2 year result 2021 - Official National 2021 Archive"; 
 $meta_description = "Check bsc 2 year result 2021 for all state universities. Access the official national B.Sc 2nd year archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -125,4 +125,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

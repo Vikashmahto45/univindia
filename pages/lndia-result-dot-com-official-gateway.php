@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "lndia result dot com - Official National Academic Portal"; 
 $meta_description = "Access lndia result dot com for all state boards and university exams. Unified destination for official examination result updates and direct links nationwide."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

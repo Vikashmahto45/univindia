@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 10th 2021 pseb - Official Punjab Secondary 2021 Archive"; 
 $meta_description = "Check india result 10th 2021 pseb for matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajasthan board rbse class 10th result - Official Rajasthan Matric Gateway Hub"; 
 $meta_description = "Check rajasthan board rbse class 10th result for Secondary examinations. Access the official Rajasthan (BSER) 10th result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -115,4 +115,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

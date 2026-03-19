@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result today - Official National Result News & Alert Hub"; 
 $meta_description = "Check india result today for all board and university exams. Access the latest result declaration news, live updates, and official portal links on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

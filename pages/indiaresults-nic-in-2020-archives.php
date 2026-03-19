@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.indiaresults.nic.in 2020 - Official 2020 National Result Archive"; 
 $meta_description = "Check www.indiaresults.nic.in 2020 for all state and central board exams. Access the official 2020 archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -119,4 +119,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

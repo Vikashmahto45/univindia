@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "wbbse result 2021 - Official West Bengal Madhyamik Archive"; 
 $meta_description = "Check wbbse result 2021 for Madhyamik Class 10th. Access the official 2021 West Bengal Board (WBBSE) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

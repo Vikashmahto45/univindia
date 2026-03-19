@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresult.com 2023 - Official National 2023 Archive"; 
 $meta_description = "Check indiaresult.com 2023 for all board and university exams. Access the official 2023 national academic result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

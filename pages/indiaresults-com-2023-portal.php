@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "IndiaResults.com 2023 - Official National Result Archive"; 
 $meta_description = "Check IndiaResults.com 2023 online. Access the historical results for Rajasthan, Punjab, and other states for the 2023 session. Official IndiaResults mirror link."; 
 $meta_keywords = "indiaresults.com 2023, check board results 2023 online, indiaresults 2023 mirror, state results 2023 link, official indiaresults 2023 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresults.com 2023, check board results 2023 online, indiar
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "raj.result.nic.in 2021 - Official Rajasthan Mirror"; 
 $meta_description = "Check raj.result.nic.in 2021 online. Access the historical results for Board of Secondary Education Rajasthan (RBSE) for the 2021 session."; 
 $meta_keywords = "raj.result.nic.in 2021, check rajasthan board result 2021 online, official rbse link, rajresults nic in index 2021"; 
@@ -65,4 +65,4 @@ $meta_keywords = "raj.result.nic.in 2021, check rajasthan board result 2021 onli
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

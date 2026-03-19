@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Navodaya Result Class 6 2023 Link - JNVST Selection List"; 
 $meta_description = "Access the Navodaya Result Class 6 2023 Link. Check JNVST Class 6 entrance exam results, selection list PDF, and waitlist details for all regions."; 
 $meta_keywords = ""; 
@@ -38,4 +38,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

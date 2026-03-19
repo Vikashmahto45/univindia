@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.indiaresults.com 2023 - Official National Board Mirror"; 
 $meta_description = "Check www.indiaresults.com 2023 online. Access the high-speed results for all Indian State Boards and Universities for the 2023 session."; 
 $meta_keywords = "www.indiaresults.com 2023, check national results 2023 online, official indiaresults portal 2023, 2023 examination results mirror"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www.indiaresults.com 2023, check national results 2023 online,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

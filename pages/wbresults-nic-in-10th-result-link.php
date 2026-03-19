@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "wbresults.nic.in 10th result link - Official West Bengal Hub"; 
 $meta_description = "Check West Bengal Board 10th result on wbresults.nic.in 10th result link. Access official WBBSE Madhyamik scorecards and 10th result links on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

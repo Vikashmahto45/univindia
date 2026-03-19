@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "sslc result 2020 kerala school wise - Official Kerala SSLC 2020 Archive"; 
 $meta_description = "Check sslc result 2020 kerala school wise for DHSE exams. Access the official 2020 Kerala Secondary (Class 10) school-wise archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -125,4 +125,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard"; 
 $meta_description = "Check your RRBMU Alwar results via the Univindia Org Result Portal. Official guide to downloading Matsya University marksheets and score reports online."; 
 $meta_keywords = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard"; 
@@ -56,4 +56,4 @@ $meta_keywords = "Univindia Org Result Portal - Matsya University Alwar Achievem
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

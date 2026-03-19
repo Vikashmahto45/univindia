@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB ALP Admit Card 2024 Download - Assistant Loco Pilot Exam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download RRB ALP Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) Assistant Loco Pilot (ALP) CBT examination hall tickets at indianrailways.gov.in."; 
 $meta_keywords = "rrb alp admit card 2024, railway assistant loco pilot hall ticket, rrb alp cbt admit card download, rrb alp 2024 admit card link, railway recruitment hall ticket"; 
@@ -91,4 +91,4 @@ $meta_keywords = "rrb alp admit card 2024, railway assistant loco pilot hall tic
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

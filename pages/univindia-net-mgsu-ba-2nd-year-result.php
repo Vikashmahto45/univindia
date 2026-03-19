@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores"; 
 $meta_description = "Check your MGSU Bikaner BA Part 2 results on Univindia Net. Official guide to downloading Bachelor of Arts 2nd year marksheets and revaluation results online."; 
 $meta_keywords = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Art
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

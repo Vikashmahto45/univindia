@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.pseb.ac.in punjab.indiaresults.com - Official Punjab Board Doorway"; 
 $meta_description = "Check www.pseb.ac.in punjab.indiaresults.com online. Access the high-speed results for Class 10 and Class 12 for the Punjab board for the 2024 session."; 
 $meta_keywords = "www.pseb.ac.in punjab.indiaresults.com, check punjab board results online, official pseb mirror link, pseb results 2024 portal, indiaresults punjab"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www.pseb.ac.in punjab.indiaresults.com, check punjab board res
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

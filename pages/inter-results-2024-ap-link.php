@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter results 2024 ap - Official Andhra Pradesh Mirror"; 
 $meta_description = "Check inter results 2024 ap online. Access the results for Board of Intermediate Education Andhra Pradesh (BIEAP) 1st & 2nd Year for the 2024 session."; 
 $meta_keywords = "inter results 2024 ap, check ap intermediate result 2024 online, official bieap link, ap.indiaresults.com inter 2024"; 
@@ -65,4 +65,4 @@ $meta_keywords = "inter results 2024 ap, check ap intermediate result 2024 onlin
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

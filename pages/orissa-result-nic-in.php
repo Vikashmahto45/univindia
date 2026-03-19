@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Orissa Result Nic In - Official State Portal"; 
 $meta_description = "Visit Orissa Result Nic In online. Access the primary Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) results. Official NIC portal."; 
 $meta_keywords = "orissa result nic in, chse odisha result, bse odisha 10th result link, odisha results 2024, orissaresults nic in official"; 
@@ -65,4 +65,4 @@ $meta_keywords = "orissa result nic in, chse odisha result, bse odisha 10th resu
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

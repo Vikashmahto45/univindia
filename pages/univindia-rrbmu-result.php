@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia RRBMU Result - Alwar Matsya University Marks Check"; 
 $meta_description = "Check your RRBMU Alwar results on Univindia. Complete guide to downloading Matsya University marksheets and revaluation results at univindia.org."; 
 $meta_keywords = "Univindia RRBMU Result - Alwar Matsya University Marks Check"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia RRBMU Result - Alwar Matsya University Marks Check";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

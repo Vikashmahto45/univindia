@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 10th class 2022 - Official National Matric Archive Portal"; 
 $meta_description = "Check india result 10th class 2022 for all state and central boards. Access the official 2022 Class 10 results archive on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

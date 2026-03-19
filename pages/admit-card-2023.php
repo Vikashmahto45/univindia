@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Admit Card 2023 Download - National & State Exam Hall Ticket Guide | Univindia.online"; 
 $meta_description = "Download Admit Card 2023. Get the direct link for all major recruitment and entrance examinations conducted in the 2023 academic and employment session."; 
 $meta_keywords = "admit card 2023 download, exam hall ticket 2023 download, 2023 admit card login, exam date 2023 download, national recruitment call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "admit card 2023 download, exam hall ticket 2023 download, 2023
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

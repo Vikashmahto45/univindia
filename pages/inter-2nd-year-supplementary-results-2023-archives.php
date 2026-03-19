@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter 2nd year supplementary results 2023 - Official 12th Supply 2023 Archive"; 
 $meta_description = "Check inter 2nd year supplementary results 2023 for all state boards. Access the official 2023 Class 12th (Senior Secondary) Supply result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -126,4 +126,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12 arts result 2021 - Official National Board Mirror"; 
 $meta_description = "Check 12 arts result 2021 online. Access the historical Class 12th Arts stream results for Rajasthan (RBSE), JAC, UP, and all State Boards."; 
 $meta_keywords = "12 arts result 2021, check senior secondary arts result 2021 online, official 12th arts 2021 link, 12th arts 2021 merit list portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "12 arts result 2021, check senior secondary arts result 2021 o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

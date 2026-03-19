@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Www Univindia Net MGSURES GetFormResult - MGSU Bikaner Result Access"; 
 $meta_description = "Use Www Univindia Net MGSURES GetFormResult to retrieve your university scores. Official guide to accessing Maharaja Ganga Singh University marksheets online."; 
 $meta_keywords = "Www Univindia Net MGSURES GetFormResult - MGSU Bikaner Result Access"; 
@@ -50,4 +50,4 @@ $meta_keywords = "Www Univindia Net MGSURES GetFormResult - MGSU Bikaner Result 
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

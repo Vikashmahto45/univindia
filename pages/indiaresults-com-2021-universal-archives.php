@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www indiaresults com 2021 - Official 2021 Academic Result Archive"; 
 $meta_description = "Check www indiaresults com 2021 for board and university exams. Access the official 2021 academic result portal and archival verification links on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

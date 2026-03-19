@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bihar result - Official BSEB Result Mirror Hub"; 
 $meta_description = "Check bihar result for Class 10th and 12th. Access the official Bihar School Examination Board (BSEB) result portal on indiaresults for fast checking by name and roll number."; 
 $meta_keywords = ""; 
@@ -109,4 +109,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

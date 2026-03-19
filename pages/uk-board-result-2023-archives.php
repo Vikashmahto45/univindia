@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "uk board result 2023 - Official Uttarakhand 2023 Archive"; 
 $meta_description = "Check uk board result 2023 for Class 10th and 12th exams. Access the official 2023 Uttarakhand Board of School Education (UBSE) archival portal."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

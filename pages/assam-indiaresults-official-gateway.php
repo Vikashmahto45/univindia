@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "assam indiaresults - Official Assam Academic Hub"; 
 $meta_description = "Check assam indiaresults for SEBA, AHSEC and university exams. Access the official Assam board result portal and mirrors on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajasthan board 12th result 2023 science - Official Rajasthan 2023 Archive"; 
 $meta_description = "Check Rajasthan Board 12th Science result 2023 on rajasthan board 12th result 2023 science. Access official RBSE Sr. Secondary Science archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -127,4 +127,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

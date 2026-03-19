@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india ruselt. com - Official National Examination Result Hub"; 
 $meta_description = "Check india ruselt. com (indiaresults) for all major board, university, and competitive exams. Access the official national results portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -115,4 +115,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

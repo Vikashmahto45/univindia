@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "west bengal result nic in - Official WB Board Result Hub"; 
 $meta_description = "Check west bengal result nic in for Madhyamik and Higher Secondary results. Access the official West Bengal results portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -116,4 +116,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

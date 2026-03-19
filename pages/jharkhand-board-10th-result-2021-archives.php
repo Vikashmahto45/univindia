@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jharkhand board 10th result 2021 - Official JAC Matric Hub"; 
 $meta_description = "Check Jharkhand Board 10th result 2021 on jharkhand board 10th result 2021. Access official JAC Matric 2021 archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -127,4 +127,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

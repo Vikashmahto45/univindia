@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12th rbse result arts - Official Rajasthan Board Portal"; 
 $meta_description = "Check 12th rbse result arts for the Senior Secondary examination. Access the official 2023 Rajasthan Board (BSER) 12th Arts result gateway on indiaresults."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

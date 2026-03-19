@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB Admit Card Download - Railway Recruitment Board Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download RRB Admit Card. Get the direct link for Railway Recruitment Board (RRB) NTPC, Group D, ALP, and Technicians exam hall tickets at rrbcdg.gov.in."; 
 $meta_keywords = "rrb admit card download, rrb hall ticket download, rrb official website admit card, railway recruitment board call letter, rrb exam date 2024 download"; 
@@ -92,4 +92,4 @@ $meta_keywords = "rrb admit card download, rrb hall ticket download, rrb officia
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

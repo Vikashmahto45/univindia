@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajasthan 10th result - Official Rajasthan Secondary Result Gateway"; 
 $meta_description = "Check rajasthan 10th result for RBSE exams. Access the official Board of Secondary Education Rajasthan (BSER) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

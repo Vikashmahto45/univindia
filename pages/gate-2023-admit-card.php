@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "GATE 2023 Admit Card Download - IIT Kanpur Engineering Entrance Archive | Univindia.online"; 
 $meta_description = "Download GATE 2023 Admit Card. Get the direct link for IIT Kanpur Graduate Aptitude Test in Engineering (GATE 2023) hall tickets at gate.iitk.ac.in."; 
 $meta_keywords = "gate 2023 admit card download, iit kanpur gate hall ticket download, gate.iitk.ac.in GOAPS login 2023, gate exam date 2023 download, engineering entrance call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "gate 2023 admit card download, iit kanpur gate hall ticket dow
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

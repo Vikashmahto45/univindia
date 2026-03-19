@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "oav result 2024 - Official OAV Entrance Hub"; 
 $meta_description = "Check Odisha Adarsha Vidyalaya result 2024 on oav result 2024. Access official OAVS Class 6th entry scorecards and selection lists on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

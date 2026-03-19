@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MJPRU Result 2024 - Mahatma Jyotiba Phule Rohilkhand University Updates"; 
 $meta_description = "Check MJPRU Result 2024 for B.A, B.Sc, B.Com, and other UG/PG courses. Get direct official links to Rohilkhand University result portal at mjpru.ac.in."; 
 $meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba result, mjpru bsc result, mjpru pg result"; 
@@ -68,4 +68,4 @@ $meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba resu
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

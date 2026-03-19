@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result CBSE - Official National Board Portal"; 
 $meta_description = "Check India Result CBSE online. Access the primary Central Board of Secondary Education (CBSE) 10th and 12th results. Official national result portal link."; 
 $meta_keywords = "india result cbse, check cbse board result online, cbse 10th result link, cbse 12th result link, cbse.nic.in result official"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result cbse, check cbse board result online, cbse 10th r
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

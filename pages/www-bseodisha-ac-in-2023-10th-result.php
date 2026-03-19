@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.bseodisha.ac.in 2023 10th Result - Official Board Portal"; 
 $meta_description = "Check www.bseodisha.ac.in 2023 10th Result online. Access the historical Board of Secondary Education (BSE) Odisha High School Certificate (HSC) results for the 2023 session."; 
 $meta_keywords = "www.bseodisha.ac.in 2023 10th result, check bse odisha matric result 2023 online, official 2023 bse odisha link, bseodisha.ac.in 2023 portal, orissaresults matric 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www.bseodisha.ac.in 2023 10th result, check bse odisha matric 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

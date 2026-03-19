@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.exametc.com result 2nd semester - Official Academic Result Gateway"; 
 $meta_description = "Check www.exametc.com result 2nd semester for university and college exams. Access the official 2nd Semester archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

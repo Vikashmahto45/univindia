@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 12th 2022 arts - Official 12th Arts Result 2022 Archive"; 
 $meta_description = "Check india result 12th 2022 arts for all state board exams. Access the official 2022 Class 12th (Senior Secondary) Arts result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

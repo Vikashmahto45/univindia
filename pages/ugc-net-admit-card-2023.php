@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "UGC NET Admit Card 2023 Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download UGC NET Admit Card 2023. Get the direct link for NTA UGC National Eligibility Test (NET) June/December session hall tickets at ugcnet.nta.nic.in."; 
 $meta_keywords = "ugc net admit card 2023, nta net hall ticket download, ugcnet.nta.nic.in admit card login, net exam hall ticket 2023, ugc net june 2023 admit card"; 
@@ -92,4 +92,4 @@ $meta_keywords = "ugc net admit card 2023, nta net hall ticket download, ugcnet.
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

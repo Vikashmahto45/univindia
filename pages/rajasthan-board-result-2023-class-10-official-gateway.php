@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajasthan board result 2023 class 10 - Official BSER Ajmer Hub"; 
 $meta_description = "Check Rajasthan Board Class 10th result 2023 on rajasthan board result 2023 class 10. Access official BSER 2023 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

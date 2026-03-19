@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "hslc exam result - Official SEBA Mirror"; 
 $meta_description = "Check hslc exam result online. Access the results for all High School Leaving Certificate (HSLC) examinations across various Indian Boards."; 
 $meta_keywords = "hslc exam result, check class 10 hslc result online, official board results link, hslc search portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "hslc exam result, check class 10 hslc result online, official 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

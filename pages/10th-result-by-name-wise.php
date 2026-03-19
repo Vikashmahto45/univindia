@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th result by name wise - Official National Board Mirror"; 
 $meta_description = "Check 10th result by name wise online. Access the results for all Indian State Boards (Rajasthan, Bihar, Punjab, etc.) using your name for the 2024 session."; 
 $meta_keywords = "10th result by name wise, check class 10 result by name online, official name wise result link, indiaresults name search portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "10th result by name wise, check class 10 result by name online
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

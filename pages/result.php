@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Official Result Portal - National & State Examination Result Hub"; 
 $meta_description = "Check your examination Result online across all Indian boards and universities. Find the latest 10th, 12th, and entrance exam results, merit lists, and marksheets."; 
 $meta_keywords = "result, check result online, exam result india, 10th result, 12th result, university result portal, sarkari result hub, official result website"; 
@@ -65,4 +65,4 @@ $meta_keywords = "result, check result online, exam result india, 10th result, 1
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

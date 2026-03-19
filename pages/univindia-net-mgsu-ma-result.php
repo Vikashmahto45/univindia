@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores"; 
 $meta_description = "Check your MGSU Bikaner MA results on Univindia Net. Official guide to downloading Master of Arts previous and final year marksheets online."; 
 $meta_keywords = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Net MGSU MA Result - Bikaner University Postgraduate
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

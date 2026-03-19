@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Orissaresults.nic.in 2023 - official Odisha State Board and University Result Hub"; 
 $meta_description = "Check Orissaresults.nic.in 2023 for official Odisha 10th (HSC) and 12th (CHSE) examination results. Access the 2023 archival results, merit lists, and marksheet downloads."; 
 $meta_keywords = "orissaresults.nic.in 2023, odisha results 2023, bse odisha 10th result 2023, chse odisha +2 result 2023, nic odisha results 2023 portal"; 
@@ -64,4 +64,4 @@ $meta_keywords = "orissaresults.nic.in 2023, odisha results 2023, bse odisha 10t
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

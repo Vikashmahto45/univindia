@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com punjab 2020 - Official PSEB Mirror Archive"; 
 $meta_description = "Check indiaresults.com punjab 2020 online. Access the historical Punjab School Education Board (PSEB) 10th and 12th results for the 2020 session via the official mirror."; 
 $meta_keywords = "indiaresults.com punjab 2020, check pseb result 2020 online, punjab board 10th 12th result 2020 link, official indiaresults punjab archive 2020, pseb.ac.in 2020 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresults.com punjab 2020, check pseb result 2020 online, p
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "UPP Admit Card 2024 Download - UP Police Constable Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download UPP Admit Card 2024. Get the direct link for Uttar Pradesh Police (UPP) Constable recruitment examination hall tickets at uppbpb.gov.in."; 
 $meta_keywords = "upp admit card 2024 download, up police constable hall ticket 2024 download, uppbpb.gov.in login 2024, up police exam date 2024 download, police recruitment call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "upp admit card 2024 download, up police constable hall ticket 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

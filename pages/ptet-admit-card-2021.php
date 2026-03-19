@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download PTET Admit Card 2021. Get the direct link for Rajasthan PTET 4-Year BA B.Ed / BSc B.Ed and 2-Year B.Ed recruitment entrance exam hall tickets at ptetraj2021.com."; 
 $meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, ptetraj2021.com admit card link, ptet exam 2021 admit card download, raj ptet hall ticket"; 
@@ -95,4 +95,4 @@ $meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, pte
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

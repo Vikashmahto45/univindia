@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -19,4 +19,4 @@ $next_batch = array_slice($missing, 0, 15);
 file_put_contents('group_12_keywords.txt', implode("\n", $next_batch));
 echo "SUCCESS: Group 12 keywords written to group_12_keywords.txt\n";
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

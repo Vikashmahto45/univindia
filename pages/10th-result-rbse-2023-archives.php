@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th result rbse 2023 - Official Rajasthan 10th 2023 Archive"; 
 $meta_description = "Check Rajasthan Board 10th result 2023 on 10th result rbse 2023. Access the official RBSE Secondary archival results and direct scorecard links on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

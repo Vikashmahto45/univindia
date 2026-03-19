@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU BA 3rd Year Result - Bikaner University Graduation Scores"; 
 $meta_description = "Check your MGSU Bikaner BA Part 3 results on Univindia Net. Official guide to downloading Bachelor of Arts final year marksheets and degree results online."; 
 $meta_keywords = "Univindia Net MGSU BA 3rd Year Result - Bikaner University Graduation Scores"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Net MGSU BA 3rd Year Result - Bikaner University Gra
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

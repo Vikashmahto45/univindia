@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2019 - Official 2019 Academic Result Archive"; 
 $meta_description = "Check indiaresults.com 2019 for university and board exams. Access the official 2019 academic result portal and archival verification links on indiaresults."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

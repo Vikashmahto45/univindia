@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "HSSC Admit Card 2024 Download - Haryana Staff Selection Commission CET Status | Univindia.online"; 
 $meta_description = "Download HSSC Admit Card 2024. Get direct link for Haryana SSC Combined Entance Test (CET) Group C, Group D, and Police Constable hall tickets at hssc.gov.in."; 
 $meta_keywords = "hssc admit card 2024, haryana ssc hall ticket download, hssc cet admit card link, hssc.gov.in admit card login, haryana police admit card download"; 
@@ -88,4 +88,4 @@ $meta_keywords = "hssc admit card 2024, haryana ssc hall ticket download, hssc c
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

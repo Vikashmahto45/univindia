@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajasthan ajmer board 12th arts result 2022 - Official RBSE 12th Arts Hub"; 
 $meta_description = "Check Rajasthan Ajmer Board 12th Arts result 2022 on rajasthan ajmer board 12th arts result 2022. Access official RBSE 2022 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -125,4 +125,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

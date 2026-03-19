@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 12th 2022 by name - Official Senior Secondary Name Search Hub"; 
 $meta_description = "Check india result 12th 2022 by name for all state boards. Access the official 2022 Class 12 name-wise result archive on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -112,4 +112,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Rajshaladarpan nic in Result 10th - Official Rajasthan Shala Darpan Portal"; 
 $meta_description = "Check Rajshaladarpan nic in Result 10th online. Access the high-speed Rajasthan 10th results via the Shala Darpan integrated portal. Official marks."; 
 $meta_keywords = "rajshaladarpan nic in result 10th, check rajasthan 10th result on shala darpan, rajshaladarpan result 2024 class 10, official shala darpan result link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rajshaladarpan nic in result 10th, check rajasthan 10th result
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

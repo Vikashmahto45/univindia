@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MHT CET Admit Card 2023 Download - Maharashtra CET Cell Engineering Hall Ticket | Univindia.online"; 
 $meta_description = "Download MHT CET Admit Card 2023. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) hall tickets at cetcell.mahacet.org."; 
 $meta_keywords = "mht cet admit card 2023 download, maharashtra cet hall ticket 2023 download, cetcell.mahacet.org login 2023, mht cet exam date 2023 download, engineering entrance call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "mht cet admit card 2023 download, maharashtra cet hall ticket 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

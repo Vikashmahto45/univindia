@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -186,4 +186,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

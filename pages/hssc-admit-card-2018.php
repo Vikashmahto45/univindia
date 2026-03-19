@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online"; 
 $meta_description = "Download HSSC Admit Card 2018. Get the direct link for Haryana Police, Group D, and Clerk recruitment 2018 hall tickets at hssc.gov.in."; 
 $meta_keywords = "hssc admit card 2018 download, haryana staff selection commission hall ticket download, hssc.gov.in login 2018, hssc group d 2018 exam date, haryana call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "hssc admit card 2018 download, haryana staff selection commiss
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

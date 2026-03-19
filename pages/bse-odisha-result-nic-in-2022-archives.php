@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.bse odisha result.nic.in 2022 - Official Odisha Secondary 2022 Archive"; 
 $meta_description = "Check www.bse odisha result.nic.in 2022 for BSE exams. Access the official 2022 Odisha HSC (Class 10) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

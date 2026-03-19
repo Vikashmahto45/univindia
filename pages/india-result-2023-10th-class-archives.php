@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2023 10th class - Official National 2023 Archive"; 
 $meta_description = "Check india result 2023 10th class for all state boards and CBSE. Access the official 2023 secondary (Class 10) result portal archival mirror on indiaresults."; 
 $meta_keywords = ""; 
@@ -125,4 +125,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

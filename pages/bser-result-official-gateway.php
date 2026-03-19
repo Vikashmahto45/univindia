@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bser result - Official Rajasthan Secondary Hub"; 
 $meta_description = "Check bser result for Board of Secondary Education Rajasthan exams. Access the official RBSE Ajmer result gateway and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

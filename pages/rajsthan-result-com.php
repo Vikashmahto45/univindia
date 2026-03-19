@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Rajsthan Result.com - Official Rajasthan Board examination Hub"; 
 $meta_description = "Check Rajsthan Result.com online. Access the high-speed RBSE 10th and 12th results. Official Rajasthan marks link cluster."; 
 $meta_keywords = "rajsthan result.com, check rbse result online, rajasthan board 10th result 2024, official rajasthan result link, rajresults nic in mirrors"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rajsthan result.com, check rbse result online, rajasthan board
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Wbresults.nic.in - Official West Bengal Board Results Portal Hub"; 
 $meta_description = "Check Wbresults.nic.in for official West Bengal (WBBSE/WBCHSE) results. access the primary results gateway for West Bengal students across all exam sessions."; 
 $meta_keywords = "wbresults nic in, wbresults.nic.in 2024, wbresults.nic.in 2025, west bengal board result portal, wbbse results nic in, wbchse results nic in"; 
@@ -64,4 +64,4 @@ $meta_keywords = "wbresults nic in, wbresults.nic.in 2024, wbresults.nic.in 2025
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

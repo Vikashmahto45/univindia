@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "raj board 8 class result - Official BSER Rajasthan Class 8 Gateway"; 
 $meta_description = "Check raj board 8 class result for BSER Elementary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -119,4 +119,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

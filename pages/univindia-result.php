@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Result - Check MGSU, RRBMU, MSBU Exam Results Online"; 
 $meta_description = "Check your univindia result for Rajasthan universities. Comprehensive guide to navigating the result portal, downloading marksheets, and checking merit lists."; 
 $meta_keywords = "univindia result"; 
@@ -54,4 +54,4 @@ $meta_keywords = "univindia result";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

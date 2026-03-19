@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jac 12th result 2021 commerce - Official Jharkhand Board Archive"; 
 $meta_description = "Check jac 12th result 2021 commerce for JAC Inter exams. Access the official 2021 Jharkhand Academic Council (JAC) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -119,4 +119,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

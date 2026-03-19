@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU Supplementary Result 2024 - Bikaner University 2024 Supp Scores"; 
 $meta_description = "Check your MGSU Bikaner 2024 supplementary results on Univindia Net. Official guide to downloading Maharaj Ganga Singh University 2024 Supp marksheets online."; 
 $meta_keywords = "Univindia Net MGSU Supplementary Result 2024 - Bikaner University 2024 Supp Scores"; 
@@ -59,4 +59,4 @@ $meta_keywords = "Univindia Net MGSU Supplementary Result 2024 - Bikaner Univers
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

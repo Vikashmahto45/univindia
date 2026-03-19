@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india resultcom - Official National result Mirror Portal"; 
 $meta_description = "Check india resultcom online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster."; 
 $meta_keywords = "india resultcom, check board results online india resultcom, high speed result portal india, official india result link, indiaresults com 2024 results"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india resultcom, check board results online india resultcom, h
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

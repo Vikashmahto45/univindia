@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "hptu india result - Official Himachal Pradesh Technical University Hub"; 
 $meta_description = "Check hptu india result for B.Tech, M.Tech, MBA and other degree exams. Access the official HPTU result portal and mirrors on indiaresults."; 
 $meta_keywords = ""; 
@@ -125,4 +125,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

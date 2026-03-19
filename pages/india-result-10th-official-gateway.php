@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 10th - Official National Secondary Gateway"; 
 $meta_description = "Check india result 10th for all state board exams. Access the official national secondary results portal, highlights, and archival scores on indiaresults."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

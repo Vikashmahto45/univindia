@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jammu and kashmir result - Official JKBOSE Result Hub"; 
 $meta_description = "Check Jammu and Kashmir board results on jammu and kashmir result. Access official JKBOSE 10th & 12th scorecards and archival links on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

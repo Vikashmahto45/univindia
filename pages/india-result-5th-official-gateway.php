@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 5th - Official National 5th Primary Portal"; 
 $meta_description = "Check india result 5th for all state board primary exams. Access official national 5th class result mirrors and direct scorecard links on indiaresults."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

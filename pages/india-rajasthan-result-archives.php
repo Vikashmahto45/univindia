@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india rajasthan result - Official Rajasthan Board & University Archive"; 
 $meta_description = "Check india rajasthan result for BSER and state university exams. Access the official Rajasthan academic result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

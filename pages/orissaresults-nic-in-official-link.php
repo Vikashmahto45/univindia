@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "orissaresults.nic.in - Official Odisha State Results Portal"; 
 $meta_description = "Check orissaresults.nic.in online. Access the official Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) Odisha results for all sessions."; 
 $meta_keywords = "orissaresults.nic.in, check odisha board results online, official orissa results nic link, odisha matric result portal, chse odisha result search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "orissaresults.nic.in, check odisha board results online, offic
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

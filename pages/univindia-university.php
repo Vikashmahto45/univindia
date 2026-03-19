@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia University - Official राजस्थान पोर्टल Guide"; 
 $meta_description = "Univindia University is the core digital portal for MGSU, RRBMU, and MSBU. Comprehensive guide to university results, forms, and student services."; 
 $meta_keywords = "Univindia University - Official राजस्थान पोर्टल Guide"; 
@@ -54,4 +54,4 @@ $meta_keywords = "Univindia University - Official राजस्थान प�
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

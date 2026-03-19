@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www pseb ac in indiaresult com - Official Punjab Portal"; 
 $meta_description = "Check www pseb ac in indiaresult com online. Access the primary Punjab Board results via the official IndiaResults mirror. High-speed 10th and 12th results."; 
 $meta_keywords = "www pseb ac in indiaresult com, check punjab board result online, pseb indiaresults link, official pseb result portal, punjab board 10th 12th result"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www pseb ac in indiaresult com, check punjab board result onli
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

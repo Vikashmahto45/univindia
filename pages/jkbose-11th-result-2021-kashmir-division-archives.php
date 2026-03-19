@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jkbose 11th result 2021 kashmir division - Official Kashmir 11th Hub"; 
 $meta_description = "Check JKBOSE 11th result 2021 for Kashmir Division on jkbose 11th result 2021 kashmir division. Access official archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

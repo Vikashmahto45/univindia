@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "VMOU Admit Card 2024 Download - Vardhaman Mahaveer Open University Exam Hall Ticket | Univindia.online"; 
 $meta_description = "Download VMOU Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) UG, PG, and Diploma examination hall tickets at vmou.ac.in."; 
 $meta_keywords = "vmou admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, vmou result 2024, vmou kota exam date 2024"; 
@@ -90,4 +90,4 @@ $meta_keywords = "vmou admit card 2024, vmou kota hall ticket download, vmou.ac.
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

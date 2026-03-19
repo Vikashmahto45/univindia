@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "orissa results - Official Odisha Board and Council Gateway"; 
 $meta_description = "Check orissa results for CHSE (12th) and BSE (10th) exams. Access the official Odisha state archival result hub on indiaresults."; 
 $meta_keywords = ""; 
@@ -114,4 +114,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

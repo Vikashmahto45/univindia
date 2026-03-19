@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -240,4 +240,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

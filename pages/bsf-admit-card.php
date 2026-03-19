@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BSF Admit Card 2024 Download - Constable, SI & Head Constable Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download BSF Admit Card 2024. Get the direct link for Border Security Force (BSF) Constable Tradesman, Sub-Inspector (SI), and Head Constable (RO/RM) recruitment hall tickets at rectt.bsf.gov.in."; 
 $meta_keywords = "bsf admit card 2024, border security force hall ticket, bsf constable tradesman admit card, rectt.bsf.gov.in admit card login, bsf si admit card download link"; 
@@ -89,4 +89,4 @@ $meta_keywords = "bsf admit card 2024, border security force hall ticket, bsf co
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

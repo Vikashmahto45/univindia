@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2025 - Official National Board Mirror"; 
 $meta_description = "Check india result 2025 online. Access the futuristic results and schedule for all Indian State Boards and Universities for the 2025 academic session."; 
 $meta_keywords = "india result 2025, check national results 2025 online, official indiaresults portal 2025, results nic in 2025 index"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 2025, check national results 2025 online, officia
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

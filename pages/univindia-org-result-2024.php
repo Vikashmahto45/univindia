@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Org Result 2024 - Matsya University Alwar 2024 Scores"; 
 $meta_description = "Check your RRBMU Alwar results for 2024 on Univindia Org. Official guide to downloading Matsya University 2024 marksheets and scores online."; 
 $meta_keywords = "Univindia Org Result 2024 - Matsya University Alwar 2024 Scores"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Org Result 2024 - Matsya University Alwar 2024 Score
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

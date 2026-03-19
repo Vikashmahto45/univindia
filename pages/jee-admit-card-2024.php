@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "JEE Admit Card 2024 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online"; 
 $meta_description = "Download JEE Admit Card 2024. Get the direct link for NTA JEE Main Session 1 and Session 2 examination hall tickets at jeemain.nta.ac.in."; 
 $meta_keywords = "jee admit card 2024 download, nta jee main hall ticket 2024 download, jeemain.nta.ac.in login 2024, jee main exam date 2024 download, engineering national call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "jee admit card 2024 download, nta jee main hall ticket 2024 do
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

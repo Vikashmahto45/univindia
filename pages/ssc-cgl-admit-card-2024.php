@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC CGL Tier 1 Admit Card 2024 - Download Exam Date & City | Univindia.online"; 
 $meta_description = "Download SSC CGL Admit Card 2024 for Tier 1. Check your CGL application status, regional website links, and exam dates. Get official hall ticket at ssc.gov.in."; 
 $meta_keywords = "ssc cgl admit card 2024, ssc cgl tier 1 hall ticket, ssc cgl status 2024, ssc cgl exam date, ssc.gov.in cgl admit card"; 
@@ -137,4 +137,4 @@ $meta_keywords = "ssc cgl admit card 2024, ssc cgl tier 1 hall ticket, ssc cgl s
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Admit Cards - Univindia.online Hall Ticket Portal"; 
 $meta_description = "Download latest admit cards and hall tickets for competitive exams, university semesters, and board tests at Univindia.online."; 
 $meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket"; 
@@ -51,4 +51,4 @@ function filterLinks() {
 }
 </script>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

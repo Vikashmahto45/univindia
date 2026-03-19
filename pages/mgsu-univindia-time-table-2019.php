@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MGSU Univindia Time Table 2019 - Bikaner University Exam Schedule Archive"; 
 $meta_description = "Check the MGSU Bikaner 2019 time table via Univindia. Official guide to the historical 2019 Maharaja Ganga Singh University examination schedules."; 
 $meta_keywords = "mgsu univindia time table 2019"; 
@@ -55,4 +55,4 @@ $meta_keywords = "mgsu univindia time table 2019";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

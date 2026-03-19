@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -200,4 +200,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

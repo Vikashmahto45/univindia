@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www-pseb-ac-in 12th result 2021 - Official Punjab Board Senior Secondary Archive"; 
 $meta_description = "Check www-pseb-ac-in 12th result 2021 for Senior Secondary exams. Access the official 2021 Punjab Board (PSEB) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

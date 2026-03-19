@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indian Result MP - Official Madhya Pradesh Board result Portal"; 
 $meta_description = "Check Indian Result MP online. Access the high-speed MP Board (MPBSE) 10th and 12th results. Official Madhya Pradesh marks link cluster."; 
 $meta_keywords = "indian result mp, check mp board 10th result online, mpbse results 2024, official madhya pradesh result link, indiaresult mp board 12th"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indian result mp, check mp board 10th result online, mpbse res
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

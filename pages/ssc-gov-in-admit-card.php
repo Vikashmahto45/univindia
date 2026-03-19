@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC Gov In Admit Card Download - Staff Selection Commission Hall Ticket"; 
 $meta_description = "Download SSC Gov In Admit Card for CGL, CHSL, MTS, and GD Constable. Get direct links for all SSC regional recruitment portals."; 
 $meta_keywords = "ssc gov in admit card, ssc admit card download, ssc official hall ticket, ssc regional portal links"; 
@@ -60,4 +60,4 @@ $meta_keywords = "ssc gov in admit card, ssc admit card download, ssc official h
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

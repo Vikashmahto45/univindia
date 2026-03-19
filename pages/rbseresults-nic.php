@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rbseresults nic - Official Rajasthan Board Portal"; 
 $meta_description = "Check rbseresults nic online. Access the high-speed results for Board of Secondary Education Rajasthan (BSER) Class 10 and 12 for the 2024 session."; 
 $meta_keywords = "rbseresults nic, check rajasthan board results online, official rbse result link, rajresults nic in index, ajmer board results portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rbseresults nic, check rajasthan board results online, officia
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

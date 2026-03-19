@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jac class 12 result 2021 - Official Jharkhand Board Hub"; 
 $meta_description = "Check Jharkhand Board Class 12th result 2021 on jac class 12 result 2021. Access official JAC Ranchi 2021 archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

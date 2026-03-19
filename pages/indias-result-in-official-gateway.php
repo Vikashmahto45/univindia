@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indias result in - Official National Academic Hub"; 
 $meta_description = "Access indias result in for all state boards and university exams. Unified portal for official examination result updates and direct links on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

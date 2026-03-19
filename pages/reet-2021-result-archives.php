@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "reet 2021 result - Official Rajasthan REET 2021 Archive"; 
 $meta_description = "Check reet 2021 result for Rajasthan Eligibility Examination for Teachers. Access the official 2021 REET archival portal and scorecard link on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

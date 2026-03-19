@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RBSE 12 Arts Result 2023 - Official Rajasthan board archive"; 
 $meta_description = "Check RBSE 12 Arts Result 2023 online. Access the historical Rajasthan Board (BSER) Senior Secondary Arts results for the 2023 session. Official marks link."; 
 $meta_keywords = "rbse 12 arts result 2023, check rajasthan board 12th arts result 2023 online, bser inter arts result 2023, official 2023 rbse arts link, indiaresult rbse 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rbse 12 arts result 2023, check rajasthan board 12th arts resu
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

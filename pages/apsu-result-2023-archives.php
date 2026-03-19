@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "apsu result 2023 - Official Awadhesh Pratap Singh University Hub"; 
 $meta_description = "Check apsu result 2023 for all UG/PG semester exams. Access the official Awadhesh Pratap Singh University (APSU) Rewa result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

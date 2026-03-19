@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Results JKBOSE - Jammu & Kashmir Board Results Hub"; 
 $meta_description = "Check India Results JKBOSE for 10th and 12th class results. Access Jammu and Kashmir board scores, merit lists, and official updates for both Soft and Hard zones."; 
 $meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, jkbose result 2024, jammu and kashmir board results"; 
@@ -64,4 +64,4 @@ $meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Mahresult Nic In - Official Maharashtra Board Result Hub"; 
 $meta_description = "Check Mahresult Nic In online. Access the Maharashtra State Board (MSBSHSE) SSC and HSC results. Official 2024 marksheets and merit stats Link."; 
 $meta_keywords = "mahresult nic in, check maharashtra board result 2024, msbshse results, ssc hsc result 2024, maharashtra secondary result link, official mahresult portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "mahresult nic in, check maharashtra board result 2024, msbshse
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

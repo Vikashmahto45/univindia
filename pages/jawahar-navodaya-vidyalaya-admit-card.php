@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Jawahar Navodaya Vidyalaya Admit Card Download - JNVST Hall Ticket"; 
 $meta_description = "Download Jawahar Navodaya Vidyalaya (JNV) Admit Card. Get direct links for Class 6th and 9th JNVST entrance exam hall tickets."; 
 $meta_keywords = "jawahar navodaya vidyalaya admit card, jnvst hall ticket download, jnv class 6 admit card, navodaya school admit card 2024"; 
@@ -60,4 +60,4 @@ $meta_keywords = "jawahar navodaya vidyalaya admit card, jnvst hall ticket downl
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MGSU Univindia Result 2018 - Bikaner University 2018 Score Archive"; 
 $meta_description = "Check your MGSU Bikaner 2018 results via Univindia. Official guide to retrieving historical 2018 Maharaja Ganga Singh University marksheets online."; 
 $meta_keywords = "mgsu univindia result"; 
@@ -50,4 +50,4 @@ $meta_keywords = "mgsu univindia result";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

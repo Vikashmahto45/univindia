@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Jharkhand Academic Council Ranchi 10th Result 2023 - Official JAC Matric Portal"; 
 $meta_description = "Check Jharkhand Academic Council Ranchi 10th Result 2023 online. Access the JAC Ranchi matric (Class 10) result link, marksheets, and official stats for 2023."; 
 $meta_keywords = "jharkhand academic council ranchi 10th result 2023, check jac ranchi 10th result 2023, jac.jharkhand.gov.in 2023 matric result, jharkhand board 10th result link, jac results nic in 2023, official ranchi board portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "jharkhand academic council ranchi 10th result 2023, check jac 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

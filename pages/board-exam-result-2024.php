@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "board exam result 2024 - Official National Board Portal"; 
 $meta_description = "Check board exam result 2024 online. Access the 2024 Class 10th and 12th examination results for all Indian State Boards and National Boards."; 
 $meta_keywords = "board exam result 2024, check official board results 2024 online, state board exam result 2024 link, all india board exam results portal, board results 2024 search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "board exam result 2024, check official board results 2024 onli
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

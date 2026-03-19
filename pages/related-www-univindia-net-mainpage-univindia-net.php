@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Related Www Univindia Net MainPage PHP Univindia Net - Main Gateway"; 
 $meta_description = "Access the Univindia Net main page for university exams and results. Official guide to navigating mainpage.php on the Univindia network online."; 
 $meta_keywords = "Related Www Univindia Net MainPage PHP Univindia Net - Main Gateway"; 
@@ -50,4 +50,4 @@ $meta_keywords = "Related Www Univindia Net MainPage PHP Univindia Net - Main Ga
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

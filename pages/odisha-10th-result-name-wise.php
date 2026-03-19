@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha 10th result name wise - Official Odisha Board Mirror"; 
 $meta_description = "Check odisha 10th result name wise online. Access the Class 10th (HSC) results for Board of Secondary Education (BSE) Odisha using candidate names."; 
 $meta_keywords = "odisha 10th result name wise, check bse odisha 10th result by name, official odisha matric name-wise link, odisha indiaresults 10th portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "odisha 10th result name wise, check bse odisha 10th result by 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

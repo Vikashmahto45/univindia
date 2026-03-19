@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "result 8th class 2023 - Official Class 8 Result 2023 Archive"; 
 $meta_description = "Check result 8th class 2023 for all state boards. Access the official 2023 Class 8th (Middle School) result portal and archival links on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

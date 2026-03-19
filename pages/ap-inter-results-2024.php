@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "AP Inter Results 2024 - BIEAP 1st & 2nd Year Results Gateway"; 
 $meta_description = "Check AP Inter Results 2024 online. Access BIEAP 1st and 2nd year results, marks memos, and official updates at bie.ap.gov.in."; 
 $meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap, 2nd year results ap, ap intermediate marks memo"; 
@@ -64,4 +64,4 @@ $meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

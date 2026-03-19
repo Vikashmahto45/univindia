@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online"; 
 $meta_description = "Download SSCER CHSL Admit Card 2024 for Eastern Region. Check SSC Combined Higher Secondary Level (10+2) application status and hall ticket at sscer.org."; 
 $meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticket, sscer.org chsl status, ssc chsl admit card kolkata, ssc chsl admit card jharkhand"; 
@@ -92,4 +92,4 @@ $meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticke
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

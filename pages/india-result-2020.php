@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2020 - Official Archive of National Board Results"; 
 $meta_description = "Check india result 2020 for CBSE, ICSE, and all State Boards. Access the official archives for 10th and 12th results of the 2020 academic year on indiaresults."; 
 $meta_keywords = ""; 
@@ -107,4 +107,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

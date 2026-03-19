@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha matric result - Official BSE Odisha Secondary Gateway"; 
 $meta_description = "Check odisha matric result for HSC exams. Access the official Board of Secondary Education (BSE) Odisha result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -119,4 +119,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

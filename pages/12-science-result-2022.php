@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12 Science Result 2022 - Official National Board Archive"; 
 $meta_description = "Check 12 Science Result 2022 online. Access the historical 12th Science results for all major state boards including RBSE, UP Board, and GSEB. Official mirror."; 
 $meta_keywords = "12 science result 2022, check 12th science result 2022 online, rbse 12th science result 2022, up board 12th science result 2022, official 2022 science link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "12 science result 2022, check 12th science result 2022 online,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

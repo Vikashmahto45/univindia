@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter 2 year results - Official 2nd Year Intermediate Hub"; 
 $meta_description = "Check inter 2 year results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

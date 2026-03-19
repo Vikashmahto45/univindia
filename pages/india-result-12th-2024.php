@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result 12th 2024 - All State and Central Board Results Updates"; 
 $meta_description = "Check India Result 12th 2024 for all state and central boards (CBSE/ISC). Access official result dates, merit lists, and marksheet download links for the Class of 2024."; 
 $meta_keywords = "india result 12th 2024, class 12 result 2024, 12th board result 2024, national senior secondary results 2024, board result 2024 index"; 
@@ -64,4 +64,4 @@ $meta_keywords = "india result 12th 2024, class 12 result 2024, 12th board resul
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

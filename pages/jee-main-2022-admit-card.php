@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online"; 
 $meta_description = "Download JEE Main 2022 Admit Card. Get the direct link for NTA Engineering Entrance (JEE) Session 1 and Session 2 examination hall tickets at jeemain.nta.nic.in."; 
 $meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain.nta.nic.in hall ticket, jee mains 2022 admit card link, jee session 1 2 hall ticket"; 
@@ -92,4 +92,4 @@ $meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

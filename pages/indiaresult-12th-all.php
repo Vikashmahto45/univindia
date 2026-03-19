@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indiaresult 12th All States - Official National Result Portal"; 
 $meta_description = "Check Indiaresult 12th All States online. Access the high-speed link for higher secondary results across Rajasthan, Punjab, Bihar, and UP boards. Official mirror."; 
 $meta_keywords = "indiaresult 12th all states, check 12th results indiaresults, national result portal class 12, inter results 2024 indiaresults, official board links 12th"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresult 12th all states, check 12th results indiaresults, 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

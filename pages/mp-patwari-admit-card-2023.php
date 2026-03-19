@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MP Patwari Admit Card 2023 Download - MPESB Group 2 Sub Group 4 Hall Ticket | Univindia.online"; 
 $meta_description = "Download MP Patwari Admit Card 2023. Get the direct link for Madhya Pradesh Patwari (Group 2 Sub Group 4) recruitment examination hall tickets at esb.mp.gov.in."; 
 $meta_keywords = "mp patwari admit card 2023 download, mp esb patwari hall ticket download, esb.mp.gov.in patwari login 2023, mp patwari exam date 2023 download, revenue officer call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "mp patwari admit card 2023 download, mp esb patwari hall ticke
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

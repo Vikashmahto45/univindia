@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Navodaya Admit Card 2024 Download - NVS Class 6th & 9th JNVST Hall Ticket | Univindia.online"; 
 $meta_description = "Download Navodaya Admit Card 2024. Get the direct link for Jawahar Navodaya Vidyalaya Selection Test (JNVST) for Class 6th and 9th hall tickets at navodaya.gov.in."; 
 $meta_keywords = "navodaya admit card 2024, jnvst admit card download, navodaya.gov.in admit card login, class 6 navodaya hall ticket, class 9 jnvst admit card download"; 
@@ -92,4 +92,4 @@ $meta_keywords = "navodaya admit card 2024, jnvst admit card download, navodaya.
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result hp - Official Himachal Pradesh Board Result Mirror"; 
 $meta_description = "Check india result hp for HPBOSE Class 10th and 12th results. Access the official Himachal Pradesh Board result mirror on indiaresults.com for fast checking."; 
 $meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himachal Pradesh board result, indiaresults hp portal"; 
@@ -122,4 +122,4 @@ $meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himac
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

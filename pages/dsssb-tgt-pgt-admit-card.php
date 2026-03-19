@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "DSSSB TGT PGT Admit Card 2024 Download - Delhi Teacher Recruitment Hall Ticket | Univindia.online"; 
 $meta_description = "Download DSSSB TGT PGT Admit Card 2024. Get the direct link for Delhi Subordinate Services Selection Board teacher recruitment exam hall tickets at dsssb.delhi.gov.in."; 
 $meta_keywords = "dsssb tgt admit card 2024, dsssb pgt admit card download, dsssb teacher hall ticket link, dsssb.delhi.gov.in admit card login, dsssb prt admit card link"; 
@@ -88,4 +88,4 @@ $meta_keywords = "dsssb tgt admit card 2024, dsssb pgt admit card download, dsss
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

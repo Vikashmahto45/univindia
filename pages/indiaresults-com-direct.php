@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "IndiaResults Com - Official National Examination Mirror"; 
 $meta_description = "Check IndiaResults Com online. Access the primary national and state board results across all Indian regions. High-speed 10th and 12th results portal."; 
 $meta_keywords = "indiaresults com, check board results online, indiaresults official portal, indiaresults 10th 12th results, national result mirror indiaresults"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresults com, check board results online, indiaresults off
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

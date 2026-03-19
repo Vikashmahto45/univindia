@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha matric result 2021 - Official BSE Archive Portal"; 
 $meta_description = "Check odisha matric result 2021 for the High School Certificate (HSC) Annual Exam. Access the official 2021 Odisha 10th result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -108,4 +108,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

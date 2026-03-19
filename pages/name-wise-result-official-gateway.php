@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "name wise result - Find Results by Student Name Officially"; 
 $meta_description = "Access name wise result search for all state boards and universities in India. Unified portal for official result verification using student name alternative criteria."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

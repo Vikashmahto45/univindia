@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "class 12 result 2022 rbse - Official Rajasthan Board Mirror"; 
 $meta_description = "Check class 12 result 2022 rbse online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 12 for the 2022 session."; 
 $meta_keywords = "class 12 result 2022 rbse, check rbse class 12 result 2022 online, official rajasthan board link, rajresults nic in index 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "class 12 result 2022 rbse, check rbse class 12 result 2022 onl
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

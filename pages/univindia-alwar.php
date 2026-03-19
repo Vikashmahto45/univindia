@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Alwar - Raj Rishi Bhartrihari Matsya University Result Portal"; 
 $meta_description = "Univindia Alwar is the official portal for checking RRBMU (Matsya University) results, admit cards, and exam forms. Complete guide for Alwar university students."; 
 $meta_keywords = "univindia alwar"; 
@@ -46,4 +46,4 @@ $meta_keywords = "univindia alwar";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

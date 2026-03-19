@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result 10th 2023 PSEB - Official Punjab Board matric Archive"; 
 $meta_description = "Check India Result 10th 2023 PSEB online. Access the historical Punjab School Education Board (PSEB) Mohali Matriculation results for the 2023 session. Official mirror."; 
 $meta_keywords = "india result 10th 2023 pseb, check punjab board 10th result 2023 online, pseb matric result 2023 indiaresults, official 2023 punjab link, pseb results 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 10th 2023 pseb, check punjab board 10th result 20
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

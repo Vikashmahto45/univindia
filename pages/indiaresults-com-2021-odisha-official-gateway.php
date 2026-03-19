@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2021 odisha - Official State Gateway"; 
 $meta_description = "Check Odisha Board 10th & 12th results 2021 on indiaresults.com 2021 odisha. Access the official 2021 archival scorecards for all Odisha exams on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

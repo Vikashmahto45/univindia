@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MP Online Admit Card Download - Madhya Pradesh Recruitment Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download MP Online Admit Card. Get the direct link for MPPEB, MPPSC, and other Madhya Pradesh recruitment examination hall tickets at mponline.gov.in."; 
 $meta_keywords = "mp online admit card download, mponline.gov.in hall ticket download, mp police admit card login, mp govt recruitment exam date 2024 download, madhya pradesh call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "mp online admit card download, mponline.gov.in hall ticket dow
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online"; 
 $meta_description = "Check SSC GD Constable Admit Card Status 2024. Get direct links for regional status updates, exam center city intimation, and Tier 1 hall ticket download steps."; 
 $meta_keywords = "ssc gd admit card status 2024, ssc gd constable application status, ssc gd exam city check, ssc nr gd status, ssc cr gd admit card status"; 
@@ -120,4 +120,4 @@ $meta_keywords = "ssc gd admit card status 2024, ssc gd constable application st
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

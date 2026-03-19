@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.indiaresults.com 2021 12th - Official National Board Mirror"; 
 $meta_description = "Check www.indiaresults.com 2021 12th online. Access the historical Class 12th (Senior Secondary) results for all Indian State Boards for 2021."; 
 $meta_keywords = "www.indiaresults.com 2021 12th, check 12th result 2021 online, official indiaresults 2021 link, 12th board result 2021 national portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www.indiaresults.com 2021 12th, check 12th result 2021 online,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

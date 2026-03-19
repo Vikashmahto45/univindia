@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BHU Admit Card 2021 Download - Banaras Hindu University Entrance Hall Ticket | Univindia.online"; 
 $meta_description = "Download BHU Admit Card 2021. Get the direct link for NTA BHU UET and PET entrance examination hall tickets at bhuet.nta.nic.in."; 
 $meta_keywords = "bhu admit card 2021, bhu uet admit card download, bhu pet hall ticket login, bhuet.nta.nic.in admit card 2021 link, banaras hindu university admit card"; 
@@ -92,4 +92,4 @@ $meta_keywords = "bhu admit card 2021, bhu uet admit card download, bhu pet hall
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

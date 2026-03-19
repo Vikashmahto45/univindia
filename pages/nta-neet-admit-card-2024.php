@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "NTA NEET Admit Card 2024 Download - National Testing Agency Hall Ticket | Univindia.online"; 
 $meta_description = "Download NTA NEET Admit Card 2024. Get the direct link for National Testing Agency NEET (UG) 2024 examination hall tickets at exams.nta.ac.in/NEET."; 
 $meta_keywords = "nta neet admit card 2024 download, nta neet hall ticket 2024 download, neet.nta.nic.in login 2024, nta neet exam date 2024 download, medical entrance call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "nta neet admit card 2024 download, nta neet hall ticket 2024 d
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

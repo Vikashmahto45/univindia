@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indianresult.com 2022 - Official 2022 National Result Archive"; 
 $meta_description = "Check indianresult.com 2022 for all state and central board exams. Access the official 2022 National archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -116,4 +116,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

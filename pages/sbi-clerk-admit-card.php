@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SBI Clerk Admit Card Download - State Bank Clerk Prelims Hall Ticket"; 
 $meta_description = "Download SBI Clerk Admit Card. Get direct links for Junior Associate (JA) preliminary and main exam hall tickets with shift timings."; 
 $meta_keywords = "sbi clerk admit card, sbi clerk hall ticket download, sbi ja prelims admit card, sbi clerk exam date 2024"; 
@@ -60,4 +60,4 @@ $meta_keywords = "sbi clerk admit card, sbi clerk hall ticket download, sbi ja p
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

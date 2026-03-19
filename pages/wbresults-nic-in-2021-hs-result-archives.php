@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "wbresults.nic.in 2021 hs result - Official West Bengal HS Archive"; 
 $meta_description = "Check wbresults.nic.in 2021 hs result for WBCHSE Senior Secondary exams. Access the official 2021 West Bengal archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online"; 
 $meta_description = "Download SSC GD Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct links for GD Constable hall ticket, PET/PST admit card, and exam schedules."; 
 $meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd hall ticket download, ssc gd call letter ssc nic in, ssc gd admit card 2024 download link"; 
@@ -82,4 +82,4 @@ $meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

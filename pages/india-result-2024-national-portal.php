@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2024 - Official National Gateway Portal"; 
 $meta_description = "Check india result 2024 for all state and central boards. Access the official 2024 results gateway on indiaresults for high-speed checking across India."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults pseb - Official Punjab Board Result Mirror"; 
 $meta_description = "Check indiaresults pseb for Class 10th, 12th, and 8th result. Access the official Punjab School Education Board (PSEB) result mirror on indiaresults.com."; 
 $meta_keywords = "indiaresults pseb, pseb 10th result indiaresults, pseb 12th result indiaresults, Punjab board result 2024, pseb indiaresults check online"; 
@@ -118,4 +118,4 @@ $meta_keywords = "indiaresults pseb, pseb 10th result indiaresults, pseb 12th re
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

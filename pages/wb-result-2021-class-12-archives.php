@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "wb result 2021 class 12 - Official West Bengal 2021 Archive"; 
 $meta_description = "Check West Bengal Board 12th result 2021 on wb result 2021 class 12. Access official WBCHSE Higher Secondary 2021 archival results on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CHSE Result 2024 - Odisha Higher Secondary (+2) Examination Hub"; 
 $meta_description = "Check CHSE Result 2024 for Odisha +2 Science, Commerce, and Arts. Access the official Council of Higher Secondary Education gateway for results and merit lists."; 
 $meta_keywords = "chse result 2024, chse odisha result, chse plus two result 2024, orissaresults.nic.in 2024, chse result date 2024 science commerce arts"; 
@@ -64,4 +64,4 @@ $meta_keywords = "chse result 2024, chse odisha result, chse plus two result 202
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

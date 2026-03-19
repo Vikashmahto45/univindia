@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12th rbse result 2021 name wise - Official Rajasthan 12th Hub"; 
 $meta_description = "Check Rajasthan Board 12th result 2021 by name on 12th rbse result 2021 name wise. Access official RBSE Senior Secondary 2021 archival scorecards easily."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

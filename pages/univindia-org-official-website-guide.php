@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Org Official Website Guide - Alwar University Administrative Portal"; 
 $meta_description = "Access the Univindia Org official website for RRBMU Alwar. Official guide to navigating university exams, student panels, and official records online."; 
 $meta_keywords = "Univindia Org Official Website Guide - Alwar University Administrative Portal"; 
@@ -51,4 +51,4 @@ $meta_keywords = "Univindia Org Official Website Guide - Alwar University Admini
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

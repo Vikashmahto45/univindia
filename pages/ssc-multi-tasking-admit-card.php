@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC Multi Tasking Admit Card Download - SSC MTS Hall Ticket Release | Univindia.online"; 
 $meta_description = "Download SSC Multi Tasking Admit Card. Get the direct link for SSC MTS (Non-Technical) and Havaldar examination hall tickets at ssc.gov.in."; 
 $meta_keywords = "ssc multi tasking admit card download, ssc mts hall ticket download, ssc.gov.in login admit card, ssc exam date 2024 download, mts recruitment call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "ssc multi tasking admit card download, ssc mts hall ticket dow
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

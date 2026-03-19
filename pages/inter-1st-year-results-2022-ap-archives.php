@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive"; 
 $meta_description = "Check inter 1st year results 2022 ap for BIEAP exams. Access the official 2022 Andhra Pradesh Intermediate result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -193,4 +193,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

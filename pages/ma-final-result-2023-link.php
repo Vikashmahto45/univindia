@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MA Final Result 2023 - Master of Arts Final Year Result Online"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -25,4 +25,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

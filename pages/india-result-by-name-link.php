@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result by name - Official Name-Wise Result Portal"; 
 $meta_description = "Check india result by name for all boards and universities. Access the official name-wise result search portal for 10th and 12th exams on indiaresults.com."; 
 $meta_keywords = "india result by name, check result by name, name wise board result, indiaresults name search, 10th result search by name"; 
@@ -119,4 +119,4 @@ $meta_keywords = "india result by name, check result by name, name wise board re
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Www Orissaresults Nic In 2022 +2 - Official Plus Two Archive"; 
 $meta_description = "Check Www Orissaresults Nic In 2022 +2 online. Access the historical Odisha Class 12th (Senior Secondary) results for Arts, Science, and Commerce. Official mirror."; 
 $meta_keywords = "www orissaresults nic in 2022 +2, check 2022 plus two results odisha, chse odisha 12th result 2022, orissaresults nic in plus two link, official 12th result 2022 odisha"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www orissaresults nic in 2022 +2, check 2022 plus two results 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Www Results Indiaresults Com - Official National Result Mirror Hub"; 
 $meta_description = "Check Www Results Indiaresults Com online. Access the high-speed board results for all Indian states. Official 2024 marksheets, merit lists, and name-wise search."; 
 $meta_keywords = "www results indiaresults com, check board result online, indiaresults 10th 12th results, state board result mirror, official indiaresult portal, name wise result search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www results indiaresults com, check board result online, india
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

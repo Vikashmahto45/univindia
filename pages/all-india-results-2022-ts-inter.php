@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "all india results 2022 intermediate ts - Official Telangana Archive"; 
 $meta_description = "Check all india results 2022 intermediate ts for 1st and 2nd year examinations. Access the official Telangana State Board (TSBIE) portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -112,4 +112,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

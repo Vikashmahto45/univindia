@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "TS SSC Results 2023 - Official Telangana Portal"; 
 $meta_description = "Check TS SSC Results 2023 online. Access the historical Telangana Class 10th results for the 2023 session. Official bse.telangana.gov.in links."; 
 $meta_keywords = "ts ssc results 2023, check telangana 10th result 2023, bse telangana ssc 2023 link, ts matric results 2023 official, ssc marks memo telangana 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "ts ssc results 2023, check telangana 10th result 2023, bse tel
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

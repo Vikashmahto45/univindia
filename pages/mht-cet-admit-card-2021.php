@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MHT CET Admit Card 2021 Download - Maharashtra CET Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download MHT CET Admit Card 2021. Get the direct link for Maharashtra CET Engineering, Pharmacy, and Law entrance examination hall tickets at mahacet.org."; 
 $meta_keywords = "mht cet admit card 2021, maharashtra cet hall ticket download, mahacet.org admit card login, mht cet result 2021, mht cet exam date 2021 download"; 
@@ -92,4 +92,4 @@ $meta_keywords = "mht cet admit card 2021, maharashtra cet hall ticket download,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

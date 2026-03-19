@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "matric result - Official Matriculation Portal"; 
 $meta_description = "Check matric result online for BSEB, SEBA, BSE Odisha, and other boards. Access the official matric result portal for selection list and marks."; 
 $meta_keywords = "matric result, check matric result, class 10 result, matriculation board result, 10th result link"; 
@@ -62,4 +62,4 @@ $meta_keywords = "matric result, check matric result, class 10 result, matricula
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BSTC Univindia - Rajasthan Pre-DElEd Exam Portal Guide"; 
 $meta_description = "BSTC Univindia is the primary portal for Rajasthan Pre-DElEd (BSTC) exam forms, admit cards, and results. Complete walkthrough for BSTC aspirants."; 
 $meta_keywords = "bstc.univindia.in"; 
@@ -54,4 +54,4 @@ $meta_keywords = "bstc.univindia.in";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

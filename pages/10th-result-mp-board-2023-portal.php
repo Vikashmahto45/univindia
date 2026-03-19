@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th result mp board 2023 - Official MPBSE Archive Portal"; 
 $meta_description = "Check 10th result mp board 2023 for the High School Certificate examination. Access the official 2023 MP board (MPBSE) result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

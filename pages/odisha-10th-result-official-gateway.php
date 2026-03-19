@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha 10th result - Official Odisha Secondary Result Hub"; 
 $meta_description = "Check odisha 10th result for BSE exams. Access the official Board of Secondary Education Odisha (BSE) result gateway and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

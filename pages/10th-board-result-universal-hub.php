@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th board result - Official National Matriculation Gateway"; 
 $meta_description = "Check 10th board result for all state and central board exams. Access the official Secondary result directory on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -115,4 +115,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

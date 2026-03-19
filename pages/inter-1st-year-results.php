@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Inter 1st Year Results - Official National Board result Hub"; 
 $meta_description = "Check Inter 1st Year Results online. Access the high-speed Intermediate 1st Year results for AP (BIEAP) and TS (TSBIE). Official marks link cluster."; 
 $meta_keywords = "inter 1st year results, check intermediate 1st year result online, bieap 1st year results, tsbie 1st year results, official 1st year inter link 2024"; 
@@ -65,4 +65,4 @@ $meta_keywords = "inter 1st year results, check intermediate 1st year result onl
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

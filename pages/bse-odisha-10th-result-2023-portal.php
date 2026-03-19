@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bse odisha 10th result 2023 - Official Odisha HSC Archive Hub"; 
 $meta_description = "Check bse odisha 10th result 2023 for High School Certificate examinations. Access the official 2023 Odisha (BSE) 10th result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

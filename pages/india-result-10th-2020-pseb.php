@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 10th 2020 pseb - Official Punjab Board Archive"; 
 $meta_description = "Check india result 10th 2020 pseb for Matriculation results. Access the official Punjab School Education Board (PSEB) 2020 archive on indiaresults for fast checking."; 
 $meta_keywords = ""; 
@@ -107,4 +107,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

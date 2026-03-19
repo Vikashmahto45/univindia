@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "HSLC Result 2021 Assam - Official SEBA Board Result Archive"; 
 $meta_description = "Check HSLC Result 2021 Assam for Class 10th examinations. Access the SEBA Assam 2021 results, merit list, and official certificates online."; 
 $meta_keywords = "hslc result 2021 assam, seba result 2021, check assam 10th result 2021, hslc marksheet 2021, sabaonline.org result 2021, assam board result hub"; 
@@ -65,4 +65,4 @@ $meta_keywords = "hslc result 2021 assam, seba result 2021, check assam 10th res
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

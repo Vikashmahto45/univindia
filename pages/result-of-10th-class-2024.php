@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Result of 10th Class 2024 - Official National Gateway"; 
 $meta_description = "Check Result of 10th Class 2024 online. Access the high-speed links for CBSE, RBSE, PSEB, and other state matric board results. Official 2024 result mirror link."; 
 $meta_keywords = "result of 10th class 2024, check 10th board result 2024 online, class 10th result link, official 2024 matric result gateway, indiaresults 10th 2024"; 
@@ -65,4 +65,4 @@ $meta_keywords = "result of 10th class 2024, check 10th board result 2024 online
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

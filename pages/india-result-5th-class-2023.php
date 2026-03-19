@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 5th class 2023 - Official Primary Education Result Portal"; 
 $meta_description = "Check india result 5th class 2023 for all states. Access the official 5th grade results of the 2023 session on indiaresults for fast checking by name and roll number."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

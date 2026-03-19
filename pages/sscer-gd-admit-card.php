@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online"; 
 $meta_description = "Download SSCER GD Admit Card 2024 for Eastern Region. Check SSC GD Constable application status, PET/PST date, and exam center list for West Bengal, Odisha, Jharkhand at sscer.org."; 
 $meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, sscer.org gd status, ssc gd admit card kolkata, ssc gd constable admit card eastern region"; 
@@ -100,4 +100,4 @@ $meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, s
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

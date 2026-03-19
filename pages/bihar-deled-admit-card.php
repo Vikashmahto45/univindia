@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Bihar DElEd Admit Card 2024 Download - Joint Entrance Test (JET) Link | Univindia.online"; 
 $meta_description = "Download Bihar DElEd Admit Card 2024. Get direct link for BSEB Bihar DElEd Joint Entrance Test (JET) hall ticket, exam dates, and center details at deledbihar.com."; 
 $meta_keywords = "bihar deled admit card 2024, bseb deled jet admit card, bihar deled hall ticket download, deledbihar.com admit card login, bihar d.el.ed exam date"; 
@@ -92,4 +92,4 @@ $meta_keywords = "bihar deled admit card 2024, bseb deled jet admit card, bihar 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

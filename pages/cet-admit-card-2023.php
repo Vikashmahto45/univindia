@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CET Admit Card 2023 Download - Common Eligibility Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download CET Admit Card 2023. Get the direct link for Common Eligibility Test (CET) HSSC and RSMSSB recruitment examination hall tickets at official portals."; 
 $meta_keywords = "cet admit card 2023 download, rsmssb cet hall ticket 2023 download, hssc cet login 2023, cet exam date 2023 download, eligibility recruitment call letter"; 
@@ -90,4 +90,4 @@ $meta_keywords = "cet admit card 2023 download, rsmssb cet hall ticket 2023 down
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

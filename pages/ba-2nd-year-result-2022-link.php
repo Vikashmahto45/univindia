@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BA 2nd Year Result 2022 - University BA Part 2 Results Online"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -33,4 +33,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

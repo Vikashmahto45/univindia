@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "hslc result 2022 class 10 - Official secondary 2022 Archive"; 
 $meta_description = "Check hslc result 2022 class 10 for SEBA and BSEM exams. Access the official 2022 HSLC (Class 10) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

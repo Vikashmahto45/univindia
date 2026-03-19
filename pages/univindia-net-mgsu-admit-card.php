@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU Admit Card - Download MGSU Hall Ticket Online"; 
 $meta_description = "Download your MGSU Bikaner admit card for UG/PG exams on Univindia Net. Complete guide to downloading and printing your Maharaja Ganga Singh University hall ticket."; 
 $meta_keywords = "univindia net mgsu admit card"; 
@@ -60,4 +60,4 @@ $meta_keywords = "univindia net mgsu admit card";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

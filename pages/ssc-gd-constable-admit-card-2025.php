@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -240,4 +240,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

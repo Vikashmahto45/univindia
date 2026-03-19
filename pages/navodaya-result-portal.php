@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "navodaya result - Official JNVST Portal"; 
 $meta_description = "Check navodaya result online for JNVST Class 6 and Class 9. Access the official NVS portal for selection list, cutoff, and results."; 
 $meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 result, nvs selection list, navodaya class 9 results"; 
@@ -62,4 +62,4 @@ $meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 res
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

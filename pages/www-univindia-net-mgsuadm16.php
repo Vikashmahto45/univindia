@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Www Univindia Net MGSUADM16 - MGSU Bikaner 2016 Archive Portal"; 
 $meta_description = "Access the Www Univindia Net MGSUADM16 portal. Official guide to searching historical 2016 Maharaja Ganga Singh University records and admissions online."; 
 $meta_keywords = "Www Univindia Net MGSUADM16 - MGSU Bikaner 2016 Archive Portal"; 
@@ -50,4 +50,4 @@ $meta_keywords = "Www Univindia Net MGSUADM16 - MGSU Bikaner 2016 Archive Portal
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

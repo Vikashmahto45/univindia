@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB Technician Admit Card 2024 Download - Railway recruitment Hall Ticket | Univindia.online"; 
 $meta_description = "Download RRB Technician Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) Technician Grade I and III examination hall tickets at rrbapply.gov.in."; 
 $meta_keywords = "rrb technician admit card 2024 download, railway technician hall ticket 2024 download, rrbapply.gov.in technician login 2024, railway exam date 2024 download, technician recruitment call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "rrb technician admit card 2024 download, railway technician ha
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

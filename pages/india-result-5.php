@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result 5 - Official National Class 5th Primary Portal"; 
 $meta_description = "Check India Result 5 online. Access the historical Rajasthan (RBSE), Punjab (PSEB), and All-India State Board Class 5th primary examination results via the official mirror."; 
 $meta_keywords = "india result 5, check class 5th result online, rbse 5th result portal, pseb 5th result mirror, indiaresults class 5 results"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 5, check class 5th result online, rbse 5th result
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

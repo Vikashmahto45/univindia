@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in"; 
 $meta_description = "Download MDU Rohtak Admit Card 2024 for B.A, B.Sc, B.Com, B.Tech and PG Exams. Get direct link for Maharshi Dayanand University Hall Ticket download at mdu.ac.in."; 
 $meta_keywords = ""; 
@@ -131,4 +131,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "peb.mp.gov.in Admit Card 2023 Download - MP ESB Professional Exam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download peb.mp.gov.in Admit Card 2023. Get the direct link for MP Professional Examination Board (now MPESB) various recruitment hall tickets at esb.mp.gov.in (peb.mp.gov.in)."; 
 $meta_keywords = "peb.mp.gov.in admit card 2023, mp esb hall ticket download, mp board recruitment admit card link, esb.mp.gov.in hall ticket 2023, mp peb exam 2023 admit card"; 
@@ -91,4 +91,4 @@ $meta_keywords = "peb.mp.gov.in admit card 2023, mp esb hall ticket download, mp
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

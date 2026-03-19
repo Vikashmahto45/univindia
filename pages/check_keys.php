@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -13,4 +13,4 @@ foreach(array_keys($link_map) as $k) {
     }
 }
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

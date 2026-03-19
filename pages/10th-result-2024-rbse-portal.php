@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th result 2024 rbse - Official Rajasthan Board Secondary Gateway"; 
 $meta_description = "Check 10th result 2024 rbse for BSER Secondary exams. Access the official 2024 Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

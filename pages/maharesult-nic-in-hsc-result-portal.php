@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "maharesult nic in hsc result - Official Maharashtra Board Portal"; 
 $meta_description = "Check maharesult nic in hsc result for Class 12 exams. Access the official Maharashtra (MSBSHSE) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -116,4 +116,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

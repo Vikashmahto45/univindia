@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result punjab - Official Punjab Board Result Gateway"; 
 $meta_description = "Check india result punjab for Class 10th and 12th exams. Access the official Punjab School Education Board (PSEB) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -119,4 +119,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

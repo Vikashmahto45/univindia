@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Http Univindia Net - Main MGSU University Student Portal"; 
 $meta_description = "Http Univindia Net is the primary digital gateway for MGSU Bikaner. Complete guide to accessing results, admit cards, and examination forms at http://univindia.net."; 
 $meta_keywords = "http univindia net"; 
@@ -42,4 +42,4 @@ $meta_keywords = "http univindia net";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

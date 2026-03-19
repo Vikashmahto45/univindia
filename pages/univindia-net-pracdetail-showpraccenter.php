@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net PracDetail ShowPracCenter - MGSU Bikaner Practical Exam Locations"; 
 $meta_description = "Find your MGSU Bikaner practical exam center via Univindia Net. Official guide to using PracDetail ShowPracCenter for venue identification online."; 
 $meta_keywords = "Univindia Net PracDetail ShowPracCenter - MGSU Bikaner Practical Exam Locations"; 
@@ -56,4 +56,4 @@ $meta_keywords = "Univindia Net PracDetail ShowPracCenter - MGSU Bikaner Practic
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

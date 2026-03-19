@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indian college result - Official University Mirror Hub"; 
 $meta_description = "Check indian college result online. Access the results for all major colleges and universities across India. Centralized gateway for degree scores."; 
 $meta_keywords = "indian college result, check college result online india, official degree result hub, university result portal, college marksheet search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indian college result, check college result online india, offi
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

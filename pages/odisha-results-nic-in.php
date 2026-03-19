@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Odisha Results NIC In - official Odisha State Board and University Results"; 
 $meta_description = "Check Odisha Results NIC In for official 10th (HSC), 12th (CHSE), and university examinations. Access the official NIC Odisha result gateway, merit lists, and marksheet downloads."; 
 $meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th result nic in, chse odisha result nic in, nic odisha results portal 2024"; 
@@ -64,4 +64,4 @@ $meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

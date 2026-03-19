@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Madhya Pradesh Patwari Admit Card Download - MP PEB Group 2 Sub Group 4 Hall Ticket | Univindia.online"; 
 $meta_description = "Download Madhya Pradesh Patwari Admit Card. Get the direct link for MP PEB (ESB) Patwari recruitment examination hall tickets at peb.mp.gov.in (esb.mp.gov.in)."; 
 $meta_keywords = "madhya pradesh patwari admit card, mp patwari hall ticket download, peb.mp.gov.in admit card, mp esb patwari admit card link, patwari recruitment 2025"; 
@@ -91,4 +91,4 @@ $meta_keywords = "madhya pradesh patwari admit card, mp patwari hall ticket down
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

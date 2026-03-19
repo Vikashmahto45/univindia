@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "PEB MP Admit Card 2021 Download - Madhya Pradesh Vyapam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download PEB MP Admit Card 2021. Get the direct link for Madhya Pradesh Professional Examination Board (PEB) exam hall tickets at peb.mp.gov.in (MPPEB)."; 
 $meta_keywords = "peb.mp.gov.in admit card 2021, mp vyapam admit card 2021 download, mppeb hall ticket 2021 login, peb mp gov in admit card download, group 2 subgroup 4 admit card"; 
@@ -92,4 +92,4 @@ $meta_keywords = "peb.mp.gov.in admit card 2021, mp vyapam admit card 2021 downl
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

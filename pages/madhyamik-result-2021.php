@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Madhyamik Result 2021 - Official National Archive"; 
 $meta_description = "Check Madhyamik Result 2021 online. Access the historical West Bengal, Tripura, and other state matric results for the 2021 session. Official 2021 mirror link."; 
 $meta_keywords = "madhyamik result 2021, check madhyamik board result 2021 online, wbbse 10th 2021 link, tbse madhyamik 2021 link, official 2021 madhyamik portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "madhyamik result 2021, check madhyamik board result 2021 onlin
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

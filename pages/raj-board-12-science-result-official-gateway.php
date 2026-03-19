@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "raj board 12 science result - Official BSER Senior Secondary Gateway"; 
 $meta_description = "Check raj board 12 science result for BSER Senior Secondary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

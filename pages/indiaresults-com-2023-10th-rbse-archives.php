@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2023 10th rbse - Official RBSE Secondary 2023 Archive"; 
 $meta_description = "Check indiaresults.com 2023 10th rbse for BSER Class 10th exams. Access the official 2023 Board of Secondary Education Rajasthan (BSER) result portal and archives."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

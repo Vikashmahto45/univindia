@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "exam result info - Official National Examination Hub"; 
 $meta_description = "Check exam result info for all major board, university, and competitive exams in India. Access the official result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

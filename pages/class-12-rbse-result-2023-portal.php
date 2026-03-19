@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "class 12 rbse result 2023 - Official BSER Rajasthan Senior Secondary Gateway"; 
 $meta_description = "Check class 12 rbse result 2023 for Science, Commerce, and Arts. Access the official 2023 BSER Rajasthan (12th) result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

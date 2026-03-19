@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india re - Official National Result Archive Mirror"; 
 $meta_description = "Check india re for the latest national academic and competitive results. Access the official india results mirrors on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -108,4 +108,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

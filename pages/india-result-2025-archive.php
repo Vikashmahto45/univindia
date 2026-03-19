@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2025 - Official National Board Mirror Archive"; 
 $meta_description = "Check india result 2025 online. Access the upcoming 2025 Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official historical mirror."; 
 $meta_keywords = "india result 2025, check board results 2025 online, official india results 2025 link, indiaresults 2025 search, state board results 2025 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 2025, check board results 2025 online, official i
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

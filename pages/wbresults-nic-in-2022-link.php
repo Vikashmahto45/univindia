@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "wbresults.nic.in 2022 - Official West Bengal Mirror"; 
 $meta_description = "Check wbresults.nic.in 2022 online. Access the historical results for West Bengal Secondary (Madhyamik) and Higher Secondary (HS) for the 2022 session."; 
 $meta_keywords = "wbresults.nic.in 2022, check west bengal results 2022 online, official wbresults link, madhyamik result 2022 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "wbresults.nic.in 2022, check west bengal results 2022 online, 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "OSSTET Result 2023 - Official Odisha Teacher Eligibility Portal"; 
 $meta_description = "Check OSSTET Result 2023 online. Access the Odisha Secondary School Teacher Eligibility Test results, OMR sheet, and final merit list by roll number."; 
 $meta_keywords = "osstet result 2023, check osstet 2023 result, bse odisha osstet portal, osstet merit list 2023, teacher eligibility test odisha, bseodisha.ac.in osstet"; 
@@ -65,4 +65,4 @@ $meta_keywords = "osstet result 2023, check osstet 2023 result, bse odisha osste
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

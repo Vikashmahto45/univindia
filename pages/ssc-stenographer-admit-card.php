@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -187,4 +187,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

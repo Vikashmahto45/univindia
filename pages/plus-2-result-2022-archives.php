@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "+2 result 2022 - Official Higher Secondary Result Archive"; 
 $meta_description = "Check +2 result 2022 for Class 12 exams. Access the official 2022 Higher Secondary (+2) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

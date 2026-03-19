@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "8th class result 2023 punjab board - Official PSEB Mirror"; 
 $meta_description = "Check 8th class result 2023 punjab board online. Access the historical results for Punjab School Education Board (PSEB) Class 8 for the 2023 session."; 
 $meta_keywords = "8th class result 2023 punjab board, check pseb class 8 result 2023 online, official punjab board link, punjab indiaresults com 8th 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "8th class result 2023 punjab board, check pseb class 8 result 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

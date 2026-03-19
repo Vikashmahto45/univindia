@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th class ka result - Official Class 10th Result Universal Hub"; 
 $meta_description = "Check 10th class ka result for all Indian boards. Access the official 10th result universal gateway on indiaresults for high-speed score checking."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

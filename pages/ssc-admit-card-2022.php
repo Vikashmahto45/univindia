@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC Admit Card 2022 Download - Staff Selection Commission Hall Ticket | Univindia.online"; 
 $meta_description = "Download SSC Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD 2022 exam hall tickets at ssc.nic.in."; 
 $meta_keywords = "ssc admit card 2022, ssc.nic.in admit card download, ssc cgl 2022 hall ticket download, ssc gd 2022 admit card link, ssc chsl 2022 call letter"; 
@@ -94,4 +94,4 @@ $meta_keywords = "ssc admit card 2022, ssc.nic.in admit card download, ssc cgl 2
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

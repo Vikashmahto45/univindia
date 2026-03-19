@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Class 12 RBSE Result - Official Rajasthan Board 12th Portal"; 
 $meta_description = "Check Class 12 RBSE Result online. Access the high-speed Rajasthan Board (RBSE) Senior Secondary results for Science, Commerce, and Arts. Official marks."; 
 $meta_keywords = "class 12 rbse result, check rbse 12th result online, rbse senior secondary results 2024, official rbse 12th result link, rajresults nic in 12th"; 
@@ -65,4 +65,4 @@ $meta_keywords = "class 12 rbse result, check rbse 12th result online, rbse seni
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

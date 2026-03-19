@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajasthan result nic in 10th - Official Rajasthan NIC Secondary Portal"; 
 $meta_description = "Check rajasthan result nic in 10th for RBSE exams. Access the official rajresults.nic.in mirror for Board of Secondary Education Rajasthan (BSER) on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

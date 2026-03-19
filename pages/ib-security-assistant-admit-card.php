@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "IB Security Assistant Admit Card Download - MHA Intelligence Bureau Hall Ticket | Univindia.online"; 
 $meta_description = "Download IB Security Assistant Admit Card. Get the direct link for Intelligence Bureau (IB) SA and MTS recruitment examination hall tickets at mha.gov.in."; 
 $meta_keywords = "ib security assistant admit card download, intelligence bureau sa hall ticket download, mha.gov.in ib login admit card, ib sa mts exam date 2024 download, intelligence bureau call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "ib security assistant admit card download, intelligence bureau
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net In - Official University Result & Exam Portal"; 
 $meta_description = "Univindia Net In is the dedicated portal for Rajasthan university results. Complete guide to checking MGSU, RRBMU, and MSBU scores on Univindia.net.in."; 
 $meta_keywords = "univindia net in"; 
@@ -53,4 +53,4 @@ $meta_keywords = "univindia net in";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

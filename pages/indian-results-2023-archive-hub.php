@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indian results 2023 - Official National Result Archive Portal"; 
 $meta_description = "Check indian results 2023 for all state and central board results. Access the official 2023 India result archive on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -114,4 +114,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

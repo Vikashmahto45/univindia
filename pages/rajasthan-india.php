@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Rajasthan India - Official National Result Portal"; 
 $meta_description = "Visit Rajasthan India online. Access the primary Board of Secondary Education Rajasthan (BSER) results via official national and state gateways. Official mirror link."; 
 $meta_keywords = "rajasthan india, check rajasthan board result online, rbs eresults nic in, rajasthan indiaresults link, bser ajmer result portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rajasthan india, check rajasthan board result online, rbs eres
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

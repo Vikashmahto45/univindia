@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "board of secondary education odisha result 2022 - Official Odisha Board Mirror"; 
 $meta_description = "Check board of secondary education odisha result 2022 online. Access the historical results for BSE Odisha Class 10 (Matric) for the 2022 session."; 
 $meta_keywords = "board of secondary education odisha result 2022, check bse odisha class 10 result 2022 online, official odisha results link, orissaresults nic in search 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "board of secondary education odisha result 2022, check bse odi
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

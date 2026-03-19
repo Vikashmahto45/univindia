@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.indiaresults.com 2023 - Verified 2023 National Result Portal"; 
 $meta_description = "Check www.indiaresults.com 2023 for all secondary and senior secondary exams. Access the official 2023 national academic result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

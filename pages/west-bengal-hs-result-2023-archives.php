@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "west bengal hs result 2023 - Official WBCHSE 2023 Archive"; 
 $meta_description = "Check west bengal hs result 2023 for Higher Secondary exams. Access the official 2023 West Bengal Council of Higher Secondary Education (WBCHSE) archival portal."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

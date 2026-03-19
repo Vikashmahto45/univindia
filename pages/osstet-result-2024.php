@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "OSSTET Result 2024 - Odisha Secondary School Teacher Eligibility Test scores"; 
 $meta_description = "Check OSSTET Result 2024 for Phase 1 and Phase 2. Access the official BSE Odisha teacher eligibility scores, cut-off marks, and merit list download links."; 
 $meta_keywords = "osstet result 2024, bse odisha osstet result, osstet.co.in results, odisha teacher eligibility test 2024, osstet merit list 2024 pdf"; 
@@ -64,4 +64,4 @@ $meta_keywords = "osstet result 2024, bse odisha osstet result, osstet.co.in res
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

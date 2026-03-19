@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "seba - Official Assam Board Portal"; 
 $meta_description = "Check seba (Secondary Education Board of Assam) results online. Access the HSLC (Class 10th) results for Assam State Board examination."; 
 $meta_keywords = "seba, check assam 10th result online, official seba hslc link, sebaonline org index, assam board result 2024 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "seba, check assam 10th result online, official seba hslc link,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

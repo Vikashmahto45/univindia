@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th class result by name - Official National Secondary Hub"; 
 $meta_description = "Check Class 10 result by student name on 10th class result by name. Access official indiaresults Name-Wise Search for Secondary scores nationwide."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

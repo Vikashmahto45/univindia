@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Fast Results - High-Speed Board result retrieval Hub"; 
 $meta_description = "Check Fast Results online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster."; 
 $meta_keywords = "fast results, check board results online fast, high speed result portal, official fast result link, indiaresult fast, board result 2024 fast"; 
@@ -65,4 +65,4 @@ $meta_keywords = "fast results, check board results online fast, high speed resu
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

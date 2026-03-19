@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "NTPC Admit Card 2024 Download - Railway Non-Technical Popular Categories Link | Univindia.online"; 
 $meta_description = "Download NTPC Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) NTPC graduate and undergraduate examination hall tickets at indianrailways.gov.in."; 
 $meta_keywords = "ntpc admit card 2024, railway ntpc hall ticket download, rrb ntpc 2024 admit card link, rrbntpc.gov.in admit card login, railway recruitment hall ticket"; 
@@ -90,4 +90,4 @@ $meta_keywords = "ntpc admit card 2024, railway ntpc hall ticket download, rrb n
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

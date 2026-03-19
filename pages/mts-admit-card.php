@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download SSC MTS Admit Card 2024. Get the direct link for Multi Tasking Staff and Havaldar (CBIC & CBN) examination status, exam dates, and hall tickets at ssc.gov.in."; 
 $meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall ticket link, ssc.gov.in mts admit card, ssc havladar admit card 2024"; 
@@ -103,4 +103,4 @@ $meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

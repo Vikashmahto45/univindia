@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "ts inter supplementary results 2024 - Official TSBIE Portal"; 
 $meta_description = "Check ts inter supplementary results 2024 online. Access the Telangana State Board of Intermediate Education (TSBIE) IPASE June results for 1st and 2nd Year."; 
 $meta_keywords = "ts inter supplementary results 2024, check tsbie ipase 2024 results online, ts inter 1st year supply results 2024, ts inter 2nd year supply results 2024 link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "ts inter supplementary results 2024, check tsbie ipase 2024 re
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

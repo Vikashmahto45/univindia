@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "UPMSP Result 12 - Uttar Pradesh Board Class 12 Intermediate Hub"; 
 $meta_description = "Check UPMSP Result 12 for official Uttar Pradesh board intermediate examinations. Access the latest UP board 12th result news, dates, and direct marksheet download links."; 
 $meta_keywords = "upmsp result 12, upmsp result 2024 class 12, upmsp.edu.in 12th result, up board intermediate result, upmsp result news 12th"; 
@@ -64,4 +64,4 @@ $meta_keywords = "upmsp result 12, upmsp result 2024 class 12, upmsp.edu.in 12th
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

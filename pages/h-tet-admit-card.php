@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "HTET Admit Card Download - Haryana Teacher Eligibility Test Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download HTET Admit Card. Get the direct link for Haryana Teacher Eligibility Test (HTET) Level 1, 2, and 3 examination hall tickets at bseh.org.in."; 
 $meta_keywords = "h tet admit card, htet admit card download, bseh.org.in admit card login, haryana teacher eligibility test hall ticket, htet exam date 2024 download"; 
@@ -92,4 +92,4 @@ $meta_keywords = "h tet admit card, htet admit card download, bseh.org.in admit 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

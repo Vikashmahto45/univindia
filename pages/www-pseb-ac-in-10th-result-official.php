@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www pseb ac in 10th result - Official Punjab Board Gateway Portal"; 
 $meta_description = "Check www pseb ac in 10th result for Matric examinations. Access the official Punjab School Education Board (PSEB) result gateway on indiaresults."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

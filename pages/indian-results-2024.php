@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indian results 2024 - Official National Board Mirror"; 
 $meta_description = "Check indian results 2024 online. Access the results for all Indian State Boards and Universities for the 2024 academic session."; 
 $meta_keywords = "indian results 2024, check all board results 2024 online, official national results link, indiaresults 2024 search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indian results 2024, check all board results 2024 online, offi
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

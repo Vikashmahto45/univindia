@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RBSE 10th Result 2024 Roll Number - Official BSER Portal"; 
 $meta_description = "Check RBSE 10th Result 2024 Roll Number online. Access the primary Rajasthan Board Class 10 results via official RajEduBoard and NIC links. Roll Number based retrieval."; 
 $meta_keywords = "rbse 10th result 2024 roll number, check rajasthan board 10th result online, bser ajmer 10th result link, official rbse 10th result portal, rajresults.nic.in 2024"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rbse 10th result 2024 roll number, check rajasthan board 10th 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

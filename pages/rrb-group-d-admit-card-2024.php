@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online"; 
 $meta_description = "Download RRB Group D Admit Card 2024. Check your railway application status, exam date, shift timings, and download hall ticket from regional RRB websites."; 
 $meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb group d status, rrb exam city link, download rrb call letter, rrbcdg.gov.in admit card"; 
@@ -106,4 +106,4 @@ $meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

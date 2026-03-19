@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "UNIRAJ Admit Card 2024 Download - University of Rajasthan Exams Link | Univindia.online"; 
 $meta_description = "Download UNIRAJ Admit Card 2024. Get the direct link for University of Rajasthan BA, BSc, BCom, MA, MSc, and MCom annual and semester examination hall tickets at univraj.org."; 
 $meta_keywords = "uniraj admit card 2024, university of rajasthan admit card download, raj university exam hall ticket, univraj.org admit card login, uniraj.ac.in exam date"; 
@@ -95,4 +95,4 @@ $meta_keywords = "uniraj admit card 2024, university of rajasthan admit card dow
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

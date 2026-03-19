@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RTU Result - Official Rajasthan Technical University Portal"; 
 $meta_description = "Check RTU Result online. Access the Rajasthan Technical University (RTU Kota) B.Tech, M.Tech, MBA results. Download your RTU marksheets and grade cards instantly."; 
 $meta_keywords = "rtu result, check rtu kota result online, rajasthan technical university result link, rtu btech mtech mba result, official rtu exam portal, rtu merit list"; 
@@ -66,4 +66,4 @@ $meta_keywords = "rtu result, check rtu kota result online, rajasthan technical 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

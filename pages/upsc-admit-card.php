@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download UPSC Admit Card 2024. Get the direct link for Union Public Service Commission Civil Services (IAS/IFS), NDA, CDS, and IES examination hall tickets at upsc.gov.in."; 
 $meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in admit card login, upsc ias admit card link, upsc nda cds hall ticket"; 
@@ -96,4 +96,4 @@ $meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in a
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indiaresults Com 2024 Class 10 - Official Secondary Result Archive"; 
 $meta_description = "Check Indiaresults Com 2024 Class 10 online. Access the results for all Indian state boards including Punjab, Rajasthan, and HP by name and roll number for the 10th session."; 
 $meta_keywords = "indiaresults com 2024 class 10, check 10th result 2024, india results matric 2024, board exam results 10th 2024, indiaresults com 10th result search, official class 10 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresults com 2024 class 10, check 10th result 2024, india 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

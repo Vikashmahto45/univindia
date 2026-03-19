@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "class 12th result 2024 - Official National Senior Secondary Hub"; 
 $meta_description = "Check class 12th result 2024 for all state boards and CBSE. Access the official 2024 senior secondary (Class 12) result portal and live updates on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

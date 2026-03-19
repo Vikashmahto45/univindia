@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indian Result 2023 - Official National Secondary Mirror"; 
 $meta_description = "Check Indian Result 2023 online. Access the historical CBSE, ICSE, and All-India State Board Secondary (10th) and Senior Secondary (12th) results for the 2023 session."; 
 $meta_keywords = "indian result 2023, check india results 2023 online, official 2023 board results hub, national 2023 mirror, indiaresults portal 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indian result 2023, check india results 2023 online, official 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

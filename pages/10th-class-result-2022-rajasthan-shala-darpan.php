@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th class result 2022 rajasthan - Official BSER Secondary 2022 Archive"; 
 $meta_description = "Check 10th class result 2022 rajasthan for BSER Secondary exams. Access the official 2022 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

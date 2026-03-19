@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www-pseb-ac-in 10th result 2023 - Official Punjab Secondary 2023 Archive"; 
 $meta_description = "Check www-pseb-ac-in 10th result 2023 for Matric exams. Access the official 2023 Punjab School Education Board (PSEB) archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

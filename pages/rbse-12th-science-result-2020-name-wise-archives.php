@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rbse 12th science result 2020 name wise - Official Rajasthan 2020 Archive"; 
 $meta_description = "Check Rajasthan Board 12th Science result 2020 by name on rbse 12th science result 2020 name wise. Access official RBSE Sr. Sec. Science 2020 archives."; 
 $meta_keywords = ""; 
@@ -128,4 +128,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

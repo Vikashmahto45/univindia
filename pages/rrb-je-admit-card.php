@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download RRB JE Admit Card. Get the direct link for Railway Recruitment Board (RRB) Junior Engineer (JE), DMS, and CMA hall tickets at rrbcdg.gov.in."; 
 $meta_keywords = "rrb je admit card, railway junior engineer hall ticket download, rrb je cbt 1 exam date 2024, rrbcdg.gov.in je admit card login, railway je call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "rrb je admit card, railway junior engineer hall ticket downloa
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

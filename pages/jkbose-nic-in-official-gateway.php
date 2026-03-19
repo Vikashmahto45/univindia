@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jkbose nic in - Official Jammu & Kashmir Board Gateway"; 
 $meta_description = "Check jkbose nic in for 10th and 12th board results. Access the official JKBOSE result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

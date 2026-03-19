@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CSIR NET Admit Card Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download CSIR NET Admit Card. Get the direct link for Joint CSIR UGC NET examination hall tickets for JRF and Assistant Professorship at csirnet.nta.ac.in."; 
 $meta_keywords = "csir net admit card, download csir net hall ticket, csirnet.nta.ac.in login admit card, csir ugc net exam date 2024 download, science net call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "csir net admit card, download csir net hall ticket, csirnet.nt
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

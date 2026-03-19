@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th result 2023 odisha - Official Board Mirror"; 
 $meta_description = "Check 10th result 2023 odisha online. Access the historical Class 10th (Matric) results for Board of Secondary Education (BSE) Odisha session 2023."; 
 $meta_keywords = "10th result 2023 odisha, check odisha 10th result 2023 online, official odisha matric 2023 link, bse odisha 10th results portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "10th result 2023 odisha, check odisha 10th result 2023 online,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

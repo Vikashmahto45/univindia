@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "cbse nic in result - Official CBSE Secondary and Higher Secondary Hub"; 
 $meta_description = "Check cbse nic in result for Class 10th and 12th exams. Access the official CBSE result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RBSE Result 2023 Class 12 - Official Rajasthan Board Archive"; 
 $meta_description = "Check RBSE Result 2023 Class 12 online. Access the historical Rajasthan Board (RBSE) 12th results for Science, Commerce, and Arts. Official mirror."; 
 $meta_keywords = "rbse result 2023 class 12, check rbse 12th result 2023 online, rbse result 2023 arts science commerce, official 2023 rbse result link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rbse result 2023 class 12, check rbse 12th result 2023 online,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "hslc result 2024 assam - Official SEBA Mirror"; 
 $meta_description = "Check hslc result 2024 assam online. Access the latest results for Board of Secondary Education Assam (SEBA) Class 10 (High School) for the 2024 session."; 
 $meta_keywords = "hslc result 2024 assam, check seba 10th result 2024 online, official assam results link, resultsassam nic in search 2024"; 
@@ -65,4 +65,4 @@ $meta_keywords = "hslc result 2024 assam, check seba 10th result 2024 online, of
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

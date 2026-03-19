@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online"; 
 $meta_description = "Download UP Police Constable Admit Card 2024. Get the latest update on UP Police exam dates, city intimation link, and steps to download hall ticket at uppbpb.gov.in."; 
 $meta_keywords = "up police admit card 2024 date, up police constable hall ticket, uppbpb gov in admit card, up police exam city link, download up police call letter"; 
@@ -97,4 +97,4 @@ $meta_keywords = "up police admit card 2024 date, up police constable hall ticke
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter results 2023 ap - Official Andhra Pradesh Intermediate Archive Hub"; 
 $meta_description = "Check inter results 2023 ap for 1st and 2nd year examinations. Access the official 2023 Andhra Pradesh (BIEAP) result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 10th 2024 - Official Secondary Board Result Gateway"; 
 $meta_description = "Check india result 10th 2024 for all state and central boards. Access the latest 2024 secondary board exam results on indiaresults for fast checking and name-wise search."; 
 $meta_keywords = ""; 
@@ -107,4 +107,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

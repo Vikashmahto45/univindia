@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RPF Admit Card 2024 Download - SI & Constable Hall Ticket Link"; 
 $meta_description = "Download RPF Admit Card 2024. Get the direct link to access your Railway Protection Force exam hall ticket and shift timings."; 
 $meta_keywords = "rpf admit card 2024, rpf constable admit card download, rpf si hall ticket, railway rpf exam date 2024"; 
@@ -58,4 +58,4 @@ $meta_keywords = "rpf admit card 2024, rpf constable admit card download, rpf si
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

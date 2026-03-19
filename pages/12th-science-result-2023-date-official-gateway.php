@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12th science result 2023 date - Official Board Notifications"; 
 $meta_description = "Check Rajasthan and all State Board 12th Science result date 2023 on 12th science result 2023 date. Access official 2023 archival schedule scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

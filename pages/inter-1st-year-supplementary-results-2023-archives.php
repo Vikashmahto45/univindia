@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter 1st year supplementary results 2023 - Official National Inter Hub"; 
 $meta_description = "Check Intermediate 1st year supplementary result 2023 on inter 1st year supplementary results 2023. Access official indiaresults gateway for Inter Supply scorecards."; 
 $meta_keywords = ""; 
@@ -126,4 +126,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

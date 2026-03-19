@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter first year results 2024 - Official Intermediate 1st Year Gateway"; 
 $meta_description = "Check inter first year results 2024 for all state boards. Access the official 2024 Intermediate (11th) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in"; 
 $meta_description = "Download MLSU Udaipur Admit Card 2024 for B.A, B.Sc, B.Com, B.Ed and PG Semester Exams. Get direct link for Mohanlal Sukhadia University Hall Ticket download."; 
 $meta_keywords = ""; 
@@ -119,4 +119,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

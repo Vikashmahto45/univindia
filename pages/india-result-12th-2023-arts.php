@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result 12th 2023 Arts - Official National Board Mirror"; 
 $meta_description = "Check India Result 12th 2023 Arts online. Access the historical Rajasthan (RBSE), Punjab (PSEB), and Bihar (BSEB) Senior Secondary Arts results for 2023 via the official mirror."; 
 $meta_keywords = "india result 12th 2023 arts, check rbse arts 12th result 2023 online, check punjab board 12th arts result 2023, official 2023 arts result link, indiaresults 12th arts 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 12th 2023 arts, check rbse arts 12th result 2023 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

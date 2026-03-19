@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BSEB 10th Result 2024 Roll Number Roll Code - Bihar Board Matric Result"; 
 $meta_description = "Check BSEB 10th Result 2024 using Roll Number and Roll Code. Bihar School Examination Board Matric result link, marksheet download, and process explained."; 
 $meta_keywords = ""; 
@@ -38,4 +38,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

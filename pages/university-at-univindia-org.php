@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "University at Univindia.org Portal - Rajasthan Higher Education Gateway"; 
 $meta_description = "Access university services via the Univindia.org portal. Official guide to navigating exam forms, admit cards, and results for RRBMU Alwar and other institutions."; 
 $meta_keywords = "university at univindia.org"; 
@@ -51,4 +51,4 @@ $meta_keywords = "university at univindia.org";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

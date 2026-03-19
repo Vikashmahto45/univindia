@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub"; 
 $meta_description = "Check odisha.indiaresults.com 2023 10th for BSE Odisha Matric examinations. Access the official 2023 Odisha 10th result link on indiaresults for fast checking."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

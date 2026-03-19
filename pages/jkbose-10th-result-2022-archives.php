@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jkbose 10th result 2022 - Official JKBOSE 2022 Archive"; 
 $meta_description = "Check jkbose 10th result 2022 for Matric exams. Access the official 2022 Jammu and Kashmir Board (JKBOSE) archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

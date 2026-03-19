@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "mjpru result 2022 - Official MJPRU University Hub"; 
 $meta_description = "Check Mahatma Jyotiba Phule Rohilkhand University result 2022 on mjpru result 2022. Access official MJPRU 2022 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

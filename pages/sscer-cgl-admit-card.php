@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSCER CGL Admit Card 2024 Download - Eastern Region Tier 1 Status | Univindia.online"; 
 $meta_description = "Download SSCER CGL Admit Card 2024 for Eastern Region. Check SSC CGL Tier 1 Application Status, exam dates, and hall ticket download link for West Bengal, Odisha, Jharkhand."; 
 $meta_keywords = "sscer cgl admit card 2024, ssc eastern region cgl hall ticket, sscer.org cgl status, ssc cgl admit card west bengal, ssc cgl admit card odisha"; 
@@ -93,4 +93,4 @@ $meta_keywords = "sscer cgl admit card 2024, ssc eastern region cgl hall ticket,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

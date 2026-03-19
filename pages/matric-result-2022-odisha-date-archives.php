@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "matric result 2022 odisha date - Official BSE Odisha 10th Hub"; 
 $meta_description = "Check Odisha Board 10th result 2022 and announcement dates on matric result 2022 odisha date. Access official BSE Odisha Secondary 2022 archival scorecards."; 
 $meta_keywords = ""; 
@@ -126,4 +126,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

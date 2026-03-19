@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MP Police Admit Card 2023 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online"; 
 $meta_description = "Download MP Police Admit Card 2023. Get the direct link for Madhya Pradesh Police Constable recruitment examination hall tickets at esb.mp.gov.in."; 
 $meta_keywords = "mp police admit card 2023 download, mp esb police hall ticket 2023 download, esb.mp.gov.in police login 2023, mp police exam date 2023 download, police recruitment call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "mp police admit card 2023 download, mp esb police hall ticket 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "wb result 2023 - Official West Bengal Board Archive"; 
 $meta_description = "Check wb result 2023 for Madhyamik and HS exams. Access the official 2023 West Bengal (WBBSE/WBCHSE) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

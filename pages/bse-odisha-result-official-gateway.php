@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bse odisha result - Official Board of Secondary Education Gateway"; 
 $meta_description = "Check bse odisha result for HSC (Class 10th) exams. Access the official Board of Secondary Education Odisha result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

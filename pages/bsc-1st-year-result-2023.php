@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bsc 1st year result 2023 - Official University Result Portal"; 
 $meta_description = "Check bsc 1st year result 2023 online. Access the semester and annual results for Bachelor of Science (BSc) for various Indian universities for the 2023 session."; 
 $meta_keywords = "bsc 1st year result 2023, check bsc result online, official university bsc link, bsc part 1 examination results 2023 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "bsc 1st year result 2023, check bsc result online, official un
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

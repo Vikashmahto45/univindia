@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "class 11th results - Official National Examination Hub"; 
 $meta_description = "Check class 11th results for all major state and central boards. Access the official Class 11 (Plus One) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

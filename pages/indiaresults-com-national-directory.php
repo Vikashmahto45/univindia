@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults com - Official National Results Directory"; 
 $meta_description = "Check all board results on indiaresults com. Access the official indiaresults national directory for 10th & 12th scorecards across all Indian states and zones."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

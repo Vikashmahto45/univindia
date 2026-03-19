@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "search by name result - Official National Name-Wise Hub"; 
 $meta_description = "Check board results by student name on search by name result. Access the official indiaresults Name-Wise Search features for 10th & 12th results nationwide."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

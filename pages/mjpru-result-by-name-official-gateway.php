@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "mjpru result by name - Official Rohilkhand University Hub"; 
 $meta_description = "Check MJPRU result by name on mjpru result by name. Access official Mahatma Jyotiba Phule Rohilkhand University UG/PG scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

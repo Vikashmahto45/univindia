@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rbse 10th result date - Official BSER Rajasthan Notification Hub"; 
 $meta_description = "Track rbse 10th result date for BSER Secondary exams. Access the official Rajasthan result date notifications and portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

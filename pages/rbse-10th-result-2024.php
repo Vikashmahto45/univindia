@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RBSE 10th Result 2024 - Rajasthan Board Secondary Exam Updates"; 
 $meta_description = "Check RBSE 10th Result 2024 online. Access Rajasthan Board Secondary Education scores, merit lists, and official marksheets at rajresults.nic.in."; 
 $meta_keywords = "rbse 10th result 2024, rajasthan board 10th result, bser matric result 2024, rajresults.nic.in 10th, rajasthan secondary result date"; 
@@ -64,4 +64,4 @@ $meta_keywords = "rbse 10th result 2024, rajasthan board 10th result, bser matri
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

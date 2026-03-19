@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.bse odisha result.nic.in 2023 - Official Odisha 10th Hub"; 
 $meta_description = "Check Odisha Board 10th result 2023 on www.bse odisha result.nic.in 2023. Access official BSE Odisha 2023 archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -125,4 +125,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

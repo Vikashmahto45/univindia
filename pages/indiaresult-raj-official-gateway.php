@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresult raj - Official Rajasthan Board Hub"; 
 $meta_description = "Check Rajasthan Board result on indiaresult raj. Access official Rajasthan 10th & 12th scorecards on indiaresults archival portal for RBSE exams."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

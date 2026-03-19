@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www.exametc.com result 2022 - Official WB Board Mirror"; 
 $meta_description = "Check www.exametc.com result 2022 online. Access the historical school and university results for West Bengal and other states for the 2022 session."; 
 $meta_keywords = "www.exametc.com result 2022, check exametc results online, official west bengal result mirror 2022, kolkata board results portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www.exametc.com result 2022, check exametc results online, off
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

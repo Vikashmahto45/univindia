@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online"; 
 $meta_description = "Download NVS Non-Teaching Admit Card 2024. Get direct link for NVS Recruitment Examination hall ticket, exam dates, city intimation for 1377+ posts at navodaya.gov.in."; 
 $meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download, nvs lab attendant hall ticket, nvs recruitment 2024 admit card link, navodaya.gov.in recruitment login"; 
@@ -90,4 +90,4 @@ $meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

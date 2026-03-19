@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "wbresult nic - Official West Bengal Board Gateways"; 
 $meta_description = "Check wbresult nic for Madhyamik (10th) and Uchcha Madhyamik (12th) results. Access the official West Bengal result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

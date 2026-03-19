@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "UP Board Result 2024 Class 10 - Official High School Examination Hub"; 
 $meta_description = "Check UP Board Result 2024 Class 10 online. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) 10th result link, marksheets, and school-wise stats for 2024."; 
 $meta_keywords = "up board result 2024 class 10, check upmsp 10th result 2024, upmsp.edu.in 2024 high school result, up board high school result date, up board result nic in 2024, official up matric portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "up board result 2024 class 10, check upmsp 10th result 2024, u
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

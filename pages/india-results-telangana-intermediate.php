@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Results Telangana Intermediate - Official State Mirror Portal"; 
 $meta_description = "Check India Results Telangana Intermediate online. Access the Telangana State Board of Intermediate Education (TSBIE) 1st and 2nd Year results via the official mirror."; 
 $meta_keywords = "india results telangana intermediate, check tsbie intermediate results online, ts 1st year result 2024, ts 2nd year result 2024 link, telangana indiaresults inter"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india results telangana intermediate, check tsbie intermediate
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "punjab indiaresults com - Official PSEB Result Mirror Hub"; 
 $meta_description = "Check punjab indiaresults com for PSEB Class 10th, 12th, and 8th results. Access the official Punjab School Education Board result gateway for fast checking."; 
 $meta_keywords = "punjab indiaresults com, pseb result indiaresults, punjab board 10th result, punjab board 12th result, indiaresults punjab portal"; 
@@ -121,4 +121,4 @@ $meta_keywords = "punjab indiaresults com, pseb result indiaresults, punjab boar
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

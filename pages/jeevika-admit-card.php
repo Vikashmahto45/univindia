@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Jeevika Admit Card Download - Bihar SRLPS Recruitment Hall Ticket | Univindia.online"; 
 $meta_description = "Download Jeevika Admit Card. Get the direct link for Bihar State Rural Livelihoods Promotion Society (SRLPS) JEEVIKA examination hall tickets at brlps.in."; 
 $meta_keywords = "jeevika admit card download, bihar srlps hall ticket download, brlps.in jeevika login admit card, jeevika exam date 2024 download, rural livelihoods recruitment call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "jeevika admit card download, bihar srlps hall ticket download,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "8 class result 2024 - Official Elementary Board Result Portal"; 
 $meta_description = "Check 8 class result 2024 for academic board exams. Access the official 2024 Class 8th (Elementary) result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

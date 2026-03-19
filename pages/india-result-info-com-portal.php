@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result info.com - Official Result Information Portal"; 
 $meta_description = "Access india result info.com for news and updates on board and university results across India. Your trusted source for official result links and data."; 
 $meta_keywords = "india result info.com, india result info, check result info, official board results, indiaresults updates, university results info"; 
@@ -119,4 +119,4 @@ $meta_keywords = "india result info.com, india result info, check result info, o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

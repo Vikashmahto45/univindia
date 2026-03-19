@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -188,4 +188,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

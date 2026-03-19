@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th result 2022 rajasthan board ncert - Official RBSE Matric Hub"; 
 $meta_description = "Check Rajasthan Board 10th result 2022 on 10th result 2022 rajasthan board ncert. Access official RBSE Secondary 2022 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RBSE 10th Result 2022 Roll Number Wise - Official Rajasthan Board Link"; 
 $meta_description = "Check RBSE 10th Result 2022 Roll Number Wise online. Access the historical Rajasthan Board (BSER) Secondary results for the 2022 session. Official merit stats and marks."; 
 $meta_keywords = "rbse 10th result 2022 roll number wise, check rajasthan board 10th result 2022 online, rajresults.nic.in 10th result 2022, official 2022 rbse matric link, indiaresult rbse 10th 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rbse 10th result 2022 roll number wise, check rajasthan board 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

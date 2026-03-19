@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC Multi Tasking Staff Admit Card Download - Staff Selection Commission MTS Hall Ticket | Univindia.online"; 
 $meta_description = "Download SSC Multi Tasking Staff (MTS) Admit Card. Get the direct link for SSC MTS (Non-Technical) and Havaldar examination hall tickets at ssc.gov.in."; 
 $meta_keywords = "ssc multi tasking staff admit card download, ssc mts hall ticket download, ssc.gov.in login admit card, ssc recruitment exam date 2024 download, mts staff call letter"; 
@@ -93,4 +93,4 @@ $meta_keywords = "ssc multi tasking staff admit card download, ssc mts hall tick
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

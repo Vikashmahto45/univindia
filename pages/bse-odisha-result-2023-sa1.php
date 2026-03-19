@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BSE Odisha Result 2023 SA1 - Official Class 10 Summative Assessment (SA-I) Portal"; 
 $meta_description = "Check BSE Odisha Result 2023 SA1 online. Access the Summative Assessment 1 records for Class 10th matric. Download your 2023 marksheet and scorecards officially."; 
 $meta_keywords = "bse odisha result 2023 sa1, check odisha 10th sa1 result 2023, bseodisha.ac.in sa1 result 2023, odisha matric sa1 result link, official bse odisha sa1 portal, 10th sa1 marksheet odisha"; 
@@ -65,4 +65,4 @@ $meta_keywords = "bse odisha result 2023 sa1, check odisha 10th sa1 result 2023,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

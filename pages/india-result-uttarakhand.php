@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result Uttarakhand - Official UK Board result Portal"; 
 $meta_description = "Check India Result Uttarakhand online. Access the high-speed Uttarakhand Board (UBSE) 10th and 12th results. Official marks link cluster."; 
 $meta_keywords = "india result uttarakhand, check uk board 10th result online, ubse results 2024, official uttarakhand result link, indiaresult uk board 12th"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result uttarakhand, check uk board 10th result online, u
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

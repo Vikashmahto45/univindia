@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bser 12th art result - Official Rajasthan Board Portal"; 
 $meta_description = "Check bser 12th art result for Class 12th Board examinations. Access the official Board of Secondary Education Rajasthan (BSER) 12th Arts result link on indiaresults."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result Com - Official National Examination Result Hub"; 
 $meta_description = "Check India Result Com online. Access the high-speed results for all Indian states and boards. Official 2024 marksheets, merit lists, and name-wise search."; 
 $meta_keywords = "india result com, check board result online, indiaresults 10th 12th results, state board result link, official indiaresult portal, name wise result search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result com, check board result online, indiaresults 10th
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

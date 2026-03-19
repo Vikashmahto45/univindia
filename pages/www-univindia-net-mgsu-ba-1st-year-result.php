@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Www Univindia Net MGSU BA 1st Year Result - Bikaner University Arts Scores"; 
 $meta_description = "Check your MGSU Bikaner BA Part 1 results at Www Univindia Net. Official portal for Maharaja Ganga Singh University Bachelor of Arts marksheets online."; 
 $meta_keywords = "Www Univindia Net MGSU BA 1st Year Result - Bikaner University Arts Scores"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Www Univindia Net MGSU BA 1st Year Result - Bikaner University
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

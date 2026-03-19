@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "JAC 12th Result 2021 Arts - Historical Jharkhand Board archive"; 
 $meta_description = "Check JAC 12th Result 2021 Arts online. Access the historical Jharkhand Academic Council (JAC) Intermediate Arts results for the 2021 session. Official Link."; 
 $meta_keywords = "jac 12th result 2021 arts, check jharkhand board 12th arts result 2021, jac.jharkhand.gov.in 12th arts 2021, official 2021 jac arts link, indiaresult jac 2021"; 
@@ -65,4 +65,4 @@ $meta_keywords = "jac 12th result 2021 arts, check jharkhand board 12th arts res
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

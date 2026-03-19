@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rbse 12th result name wise search - Official Rajasthan 12th Archive"; 
 $meta_description = "Check Rajasthan Board 12th result by name for Science, Arts, and Commerce on rbse 12th result name wise search. Access official RBSE archival scorecards."; 
 $meta_keywords = ""; 
@@ -126,4 +126,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

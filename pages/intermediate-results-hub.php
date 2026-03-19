@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "intermediate results - National Intermediate Hub"; 
 $meta_description = "Check intermediate results online for all state boards including AP, Telangana, and Bihar. Access the official intermediate results portal for 11th and 12th."; 
 $meta_keywords = "intermediate results, check inter results online, ap intermediate results, ts inter results, bihar board intermediate result link"; 
@@ -62,4 +62,4 @@ $meta_keywords = "intermediate results, check inter results online, ap intermedi
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

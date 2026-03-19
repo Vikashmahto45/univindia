@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 12th 2022 rajasthan board - Official RBSE Mirror"; 
 $meta_description = "Check india result 12th 2022 rajasthan board online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 12 for the 2022 session."; 
 $meta_keywords = "india result 12th 2022 rajasthan board, check rbse 12th result 2022 online, official rajasthan board link 2022, indiaresults raj 12th portal 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 12th 2022 rajasthan board, check rbse 12th result
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

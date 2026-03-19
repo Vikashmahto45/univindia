@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indian results 2022 - Official National Archive Gateway Hub"; 
 $meta_description = "Check indian results 2022 for all board and university exams. Access the official 2022 result portal mirrors on indiaresults for fast checking by name and roll number."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

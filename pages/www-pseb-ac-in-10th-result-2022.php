@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "www-pseb-ac-in 10th result 2022 - Official Punjab Board Mirror"; 
 $meta_description = "Check www-pseb-ac-in 10th result 2022 online. Access the historical Matriculation (Class 10) results for Punjab School Education Board (PSEB) for 2022."; 
 $meta_keywords = "www-pseb-ac-in 10th result 2022, check pseb 10th result 2022 online, official punjab 10th link 2022, pseb matric result index portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "www-pseb-ac-in 10th result 2022, check pseb 10th result 2022 o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

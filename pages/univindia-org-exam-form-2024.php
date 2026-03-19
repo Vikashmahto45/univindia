@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Org Exam Form 2024 - Matsya University Alwar Registration Portal"; 
 $meta_description = "Fill your RRBMU Alwar 2024 exam form on Univindia Org. Official guide to Raj Rishi Bhartrihari Matsya University 2024 examination registration online."; 
 $meta_keywords = "Univindia Org Exam Form 2024 - Matsya University Alwar Registration Portal"; 
@@ -52,4 +52,4 @@ $meta_keywords = "Univindia Org Exam Form 2024 - Matsya University Alwar Registr
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

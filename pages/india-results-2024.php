@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india results 2024 - Official National Board Portal"; 
 $meta_description = "Check india results 2024 online. Access the 2024 Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official national mirror."; 
 $meta_keywords = "india results 2024, check board results 2024 online, official india results 2024 link, indiaresults 2024 search, state board results 2024 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india results 2024, check board results 2024 online, official 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

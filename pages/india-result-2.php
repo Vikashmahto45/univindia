@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2 - Official +2 Senior Secondary Result Hub"; 
 $meta_description = "Check india result 2 for Class 12th / Plus Two (Arts, Science, Commerce). Access the official results for all states and national boards online."; 
 $meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result, HSC +2 result check, india result secondary"; 
@@ -120,4 +120,4 @@ $meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

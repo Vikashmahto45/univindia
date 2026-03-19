@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "punjab.indiaresults.com 2023 8th class - Official Punjab 2023 Archive"; 
 $meta_description = "Check Punjab Board 8th Class result 2023 on punjab.indiaresults.com 2023 8th class. Access official PSEB 8th archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

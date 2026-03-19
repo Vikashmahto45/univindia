@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "b.com 2nd year result 2022 - Official University Mirror"; 
 $meta_description = "Check b.com 2nd year result 2022 online. Access the historical results for all Indian Universities (RU, BU, CCSU, etc.) for the 2022 session."; 
 $meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 online, official university link, indiaresults bcom portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

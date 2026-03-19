@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb ac in result - Official Punjab Board Portal"; 
 $meta_description = "Check pseb ac in result online. Access the results for Class 10 (Matric) and Class 12 (Senior Secondary) for Punjab School Education Board (PSEB)."; 
 $meta_keywords = "pseb ac in result, check punjab board results online, official pseb result link, mohali board results portal, pseb ac in login result"; 
@@ -65,4 +65,4 @@ $meta_keywords = "pseb ac in result, check punjab board results online, official
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

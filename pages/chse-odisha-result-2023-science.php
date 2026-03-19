@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "chse odisha result 2023 science - Official CHSE Mirror"; 
 $meta_description = "Check chse odisha result 2023 science online. Access the historical results for Council of Higher Secondary Education (CHSE) Odisha Class 12 Science for the 2023 session."; 
 $meta_keywords = "chse odisha result 2023 science, check odisha 12th science result 2023 online, official chse odisha link, orissaresults nic in science 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "chse odisha result 2023 science, check odisha 12th science res
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

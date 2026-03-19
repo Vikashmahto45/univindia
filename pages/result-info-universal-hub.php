@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "result info - Official National Board Results Hub"; 
 $meta_description = "Check result info for all state and central board examinations in India. Access the official result directory on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -112,4 +112,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

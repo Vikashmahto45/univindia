@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Result India Result 2020 - Historical National Result Archive"; 
 $meta_description = "Check Result India Result 2020 online. Access the historical 10th and 12th results for all state boards (RBSE, PSEB, BSEB) from the 2020 pandemic session."; 
 $meta_keywords = "result india result 2020, check 2020 board results, historical indiaresult 2020 archive, board results 2020 link, 10th 12th results 2020 search, official 2020 result portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "result india result 2020, check 2020 board results, historical
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

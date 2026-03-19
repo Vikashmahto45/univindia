@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india examination result - Official National Gateway"; 
 $meta_description = "Check all board results on india examination result. Access the official indiaresults portal for 10th & 12th scorecards across all Indian states and sessions."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajeduboard rajasthan gov in - Official RBSE Portal"; 
 $meta_description = "Check rajeduboard rajasthan gov in online. Access the official Board of Secondary Education Rajasthan (BSER) portal for all results and examinations."; 
 $meta_keywords = "rajeduboard rajasthan gov in, check rbse results online, official rajasthan board portal, bser ajmer official hub, raj eduboard nic"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rajeduboard rajasthan gov in, check rbse results online, offic
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

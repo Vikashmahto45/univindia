@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CTET Admit Card 2024: Download NTA CTET July/January Session Hall Ticket @ ctet.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -187,4 +187,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

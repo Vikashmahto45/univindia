@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download JEE Advanced Admit Card 2025. Get the direct link for IIT JEE Advanced postgraduate examination hall tickets at jeeadv.ac.in."; 
 $meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket download, jeeadv.ac.in 2025 admit card link, jee advanced exam hall ticket login, iit entrance hall ticket"; 
@@ -92,4 +92,4 @@ $meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket dow
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

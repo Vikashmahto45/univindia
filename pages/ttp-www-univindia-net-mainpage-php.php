@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "TTP //www.univindia.net/mainpage.php - Univindia Net Gateway Guide"; 
 $meta_description = "Access the Univindia Net main page for university services. Official guide to navigating the mainpage.php gateway for exams and results online."; 
 $meta_keywords = "ttp //www.univindia.net/mainpage.php"; 
@@ -50,4 +50,4 @@ $meta_keywords = "ttp //www.univindia.net/mainpage.php";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

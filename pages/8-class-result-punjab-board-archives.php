@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "8 class result punjab board - Official PSEB 8th Hub"; 
 $meta_description = "Check Punjab Board 8th class result on 8 class result punjab board. Access official PSEB Middle School scorecards and archival result links on indiaresults."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

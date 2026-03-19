@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BSc 1st Year Result 2023 - Download University BSc Part 1 Marksheet"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -33,4 +33,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

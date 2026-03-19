@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb result 5th class 2023 - Official Punjab Board Portal"; 
 $meta_description = "Check pseb result 5th class 2023 for Primary examinations. Access the official Punjab School Education Board (PSEB) 5th result gateway on indiaresults for fast checking."; 
 $meta_keywords = ""; 
@@ -108,4 +108,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

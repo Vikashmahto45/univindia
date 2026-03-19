@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th result name wise - Official National Board Mirror"; 
 $meta_description = "Check 10th result name wise online. Access the search by name facility for all Indian State Boards (RBSE, PSEB, BSE Odisha, etc.) for the 2024 session."; 
 $meta_keywords = "10th result name wise, check class 10 result by name online, official board results link, indiaresults 10th name wise search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "10th result name wise, check class 10 result by name online, o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Jharkhand Police Admit Card 2024 Download - JSSC Constable Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download Jharkhand Police Admit Card 2024. Get the direct link for JSSC Constable Competitive Examination (JCCE) physical and written test hall tickets at jssc.nic.in."; 
 $meta_keywords = "jharkhand police admit card 2024, jssc constable hall ticket download, jssc.nic.in admit card link, jcce 2024 hall ticket download, jharkhand police exam date"; 
@@ -92,4 +92,4 @@ $meta_keywords = "jharkhand police admit card 2024, jssc constable hall ticket d
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

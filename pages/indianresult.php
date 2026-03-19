@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indianresult - Official National Board result Portal"; 
 $meta_description = "Check Indianresult online. Access the high-speed national and state board result verification framework. Official 10th and 12th marks link cluster."; 
 $meta_keywords = "indianresult, check board results online indianresult, high speed result portal indianresult, official indianresult link, board results 2024 indianresult"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indianresult, check board results online indianresult, high sp
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

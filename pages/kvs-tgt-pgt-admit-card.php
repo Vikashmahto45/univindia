@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online"; 
 $meta_description = "Download KVS TGT PGT Admit Card 2024. Get direct link for Kendriya Vidyalaya Trained Graduate Teacher and Post Graduate Teacher recruitment hall tickets at kvsangathan.nic.in."; 
 $meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teacher admit card link, kvsangathan.nic.in teacher hall ticket, kvs interview admit card tgt pgt"; 
@@ -89,4 +89,4 @@ $meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teac
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

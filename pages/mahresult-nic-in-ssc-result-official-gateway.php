@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "mahresult-nic-in ssc result - Official Maharashtra SSC Hub"; 
 $meta_description = "Check mahresult-nic-in ssc result for MSBSHSE exams. Access the official Maharashtra Board Secondary School Certificate (SSC) result gateway on indiaresults."; 
 $meta_keywords = ""; 
@@ -126,4 +126,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jharkhand board result 2024 - Official JAC Result Hub"; 
 $meta_description = "Check Jharkhand Board result 2024 on jharkhand board result 2024. Access official JAC 10th & 12th scorecards and 2024 archival links on indiaresults."; 
 $meta_keywords = ""; 
@@ -126,4 +126,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Rajasthan Board 12th Arts Result 2022 Roll Number - Official BSER Portal"; 
 $meta_description = "Check Rajasthan Board 12th Arts Result 2022 Roll Number online. Access the historical BSER Ajmer Senior Secondary Arts results for the 2022 session."; 
 $meta_keywords = "rajasthan board 12th arts result 2022 roll number, check bser 12th arts 2022 online, official 2022 rbse arts link, rajresults.nic.in 2022 arts roll number"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rajasthan board 12th arts result 2022 roll number, check bser 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

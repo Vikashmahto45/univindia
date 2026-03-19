@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access"; 
 $meta_description = "Access MGSU Bikaner services via Www Univindia Net. Official guide to Maharaja Ganga Singh University exams, results, and student panels online."; 
 $meta_keywords = "Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access"; 
@@ -48,4 +48,4 @@ $meta_keywords = "Www Univindia Net MGSU Bikaner AC IN - Official University Por
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

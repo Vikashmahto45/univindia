@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online"; 
 $meta_description = "Download SSCER CPO SI Admit Card 2024 for Eastern Region. Check application status, exam date, and center list for Sub-Inspector in Delhi Police and CAPFs at sscer.org."; 
 $meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall ticket, sscer.org cpo si status, ssc cpo admit card download kolkata, ssc si admit card eastern region"; 
@@ -100,4 +100,4 @@ $meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall tick
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

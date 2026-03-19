@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -53,4 +53,4 @@ $meta_keywords = "";
 </body>
 </html>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

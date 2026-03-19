@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CTET Admit Card 2024 Download - Central Teacher Elidgibility Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download CTET Admit Card 2024. Get the direct link for CBSE CTET 2024 (January/July) examination hall tickets at ctet.nic.in."; 
 $meta_keywords = "ctet admit card 2024 download, ctet nic in admit card login, cbse ctet hall ticket 2024, ctet exam date 2024 download, central teacher eligibility test call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "ctet admit card 2024 download, ctet nic in admit card login, c
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

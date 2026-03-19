@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in"; 
 $meta_description = "Download IBPS PO Admit Card 2024 for CRP PO/MT XIV. Get direct link for Preliminary Exam Hall Ticket. Check exam dates, reporting time, and important banking exam guidelines."; 
 $meta_keywords = ""; 
@@ -168,4 +168,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

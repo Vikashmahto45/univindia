@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in"; 
 $meta_description = "Download GATE 2025 Admit Card. Get direct link for Graduate Aptitude Test in Engineering Hall Ticket. Check exam dates, paper schedules, and reporting instructions."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

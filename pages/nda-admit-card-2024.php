@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "NDA Admit Card 2024 Download - UPSC National Defence Academy Hall Ticket | Univindia.online"; 
 $meta_description = "Download NDA Admit Card 2024. Get the direct link for UPSC NDA & NA (I) and (II) examination hall tickets at upsconline.nic.in."; 
 $meta_keywords = "nda admit card 2024 download, upsc nda hall ticket 2024 download, upsconline.nic.in login 2024, nda exam date 2024 download, defense entrance call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "nda admit card 2024 download, upsc nda hall ticket 2024 downlo
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

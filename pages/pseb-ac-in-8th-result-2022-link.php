@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb.ac.in 8th result 2022 - Official Punjab Board Mirror"; 
 $meta_description = "Check pseb.ac.in 8th result 2022 online. Access the historical results for Punjab School Education Board (PSEB) Class 8 for the 2022 session."; 
 $meta_keywords = "pseb.ac.in 8th result 2022, check punjab board 8th result 2022 online, official pseb link, punjab indiaresults com 8th 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "pseb.ac.in 8th result 2022, check punjab board 8th result 2022
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

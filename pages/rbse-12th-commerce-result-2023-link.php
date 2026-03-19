@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RBSE 12th Commerce Result 2023 Link - Rajasthan Board Commerce Result"; 
 $meta_description = "Check RBSE 12th Commerce Result 2023 Link. Get the direct link to download Rajasthan Board Class 12th Commerce stream results, toppers list, and marksheet."; 
 $meta_keywords = ""; 
@@ -46,4 +46,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

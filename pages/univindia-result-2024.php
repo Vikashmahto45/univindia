@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Result 2024 - Check Your Academic Scores Online"; 
 $meta_description = "Check your university results for the academic year 2024 on Univindia. Official guide for MGSU, RRBMU, and MSBU Result 2024 downloads and marksheets."; 
 $meta_keywords = "Univindia Result 2024 - Check Your Academic Scores Online"; 
@@ -59,4 +59,4 @@ $meta_keywords = "Univindia Result 2024 - Check Your Academic Scores Online";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

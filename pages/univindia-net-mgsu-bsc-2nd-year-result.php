@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores"; 
 $meta_description = "Check your MGSU Bikaner BSc 2nd year results on Univindia Net. Official guide to downloading Bachelor of Science Part 2 marksheets and results online."; 
 $meta_keywords = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Sc
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

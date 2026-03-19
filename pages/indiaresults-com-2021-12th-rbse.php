@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2021 12th rbse - Official Rajasthan Board Mirror"; 
 $meta_description = "Check indiaresults.com 2021 12th rbse online. Access the historical Board of Secondary Education Rajasthan (RBSE) Senior Secondary 2021 results."; 
 $meta_keywords = "indiaresults.com 2021 12th rbse, check rbse 12th result 2021 online, official indiaresults rbse 2021 link, rajasthan board 12th arts science commerce 2021"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresults.com 2021 12th rbse, check rbse 12th result 2021 o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

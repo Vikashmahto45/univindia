@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -196,4 +196,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

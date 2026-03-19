@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter result 2024 - Official National Intermediate Gateway Hub"; 
 $meta_description = "Check inter result 2024 for all state and central boards. Access the official 2024 Intermediate result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -112,4 +112,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

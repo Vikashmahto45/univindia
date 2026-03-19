@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Related Www Univindia Net MainPage PHP Univindia Net VCNT - Dashboard Access"; 
 $meta_description = "Access the Univindia Net VCNT main page for university services. Official guide to navigating the specialized VCNT dashboard on the exam portal online."; 
 $meta_keywords = "Related Www Univindia Net MainPage PHP Univindia Net VCNT - Dashboard Access"; 
@@ -50,4 +50,4 @@ $meta_keywords = "Related Www Univindia Net MainPage PHP Univindia Net VCNT - Da
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12th result 2022 odisha - Official CHSE Hub"; 
 $meta_description = "Check Odisha Board +2 (Class 12th) result 2022 on 12th result 2022 odisha. Access official CHSE 2022 archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

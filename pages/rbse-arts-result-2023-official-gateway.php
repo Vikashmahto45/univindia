@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rbse arts result 2023 - Official Rajasthan Board Hub"; 
 $meta_description = "Check Rajasthan Board 12th Arts result 2023 on rbse arts result 2023. Access official BSER 2023 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in"; 
 $meta_description = "Download DU SOL Admit Card 2024 for UG/PG Exams. Get direct link for Delhi University School of Open Learning Hall Ticket at sol.du.ac.in. Check exam dates and instructions."; 
 $meta_keywords = ""; 
@@ -134,4 +134,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

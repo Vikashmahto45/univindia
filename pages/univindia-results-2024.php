@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Results 2024 - Official University Marks Portal"; 
 $meta_description = "Check your MGSU, RRBMU, and MSBU results for 2024 on Univindia Results 2024 portal. Complete guide to 2024 university marksheets and scores online."; 
 $meta_keywords = "Univindia Results 2024 - Official University Marks Portal"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Results 2024 - Official University Marks Portal";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

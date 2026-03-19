@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2023 10th class - Official National Board Mirror"; 
 $meta_description = "Check indiaresults.com 2023 10th class online. Access the historical results for all Indian State Boards (Rajasthan, Punjab, HP, etc.) for the 2023 session."; 
 $meta_keywords = "indiaresults.com 2023 10th class, check class 10 result 2023 online, official board results link, indiaresults 2023 search portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresults.com 2023 10th class, check class 10 result 2023 o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

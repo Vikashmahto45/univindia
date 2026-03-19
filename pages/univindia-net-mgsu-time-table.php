@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule"; 
 $meta_description = "Check the official Univindia Net MGSU Time Table for Bikaner University exams. Complete guide to downloading UG/PG schedules and revised dates online."; 
 $meta_keywords = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule"; 
@@ -50,4 +50,4 @@ $meta_keywords = "Univindia Net MGSU Time Table - Bikaner University Exam Schedu
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "west bengal board madhyamik result - Official WBBSE Mirror Gateway"; 
 $meta_description = "Check west bengal board madhyamik result for Class 10th exams. Access the official West Bengal (WBBSE) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -115,4 +115,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

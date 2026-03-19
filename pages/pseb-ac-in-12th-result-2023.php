@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb.ac.in 12th Result 2023 - Official Punjab Board Portal"; 
 $meta_description = "Check pseb.ac.in 12th Result 2023 online. Access the historical Punjab School Education Board (PSEB) Senior Secondary results for the 2023 session."; 
 $meta_keywords = "pseb.ac.in 12th result 2023, check punjab board 12th result 2023 online, official 2023 pseb link, pseb.ac.in 2023 portal, indiaresults punjab 12th 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "pseb.ac.in 12th result 2023, check punjab board 12th result 20
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

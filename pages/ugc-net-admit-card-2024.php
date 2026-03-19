@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -186,4 +186,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

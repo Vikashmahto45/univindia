@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Tnresults Nic In - Official Tamil Nadu Board Result Hub"; 
 $meta_description = "Check Tnresults Nic In online. Access the Tamil Nadu Directorate of Government Examinations (DGE) SSCE, HSE Class 11th and 12th results. Official 2024 marksheets."; 
 $meta_keywords = "tnresults nic in, check tn board result 2024, dge.tn.gov.in results, tn ssce result 2024, tn hse 12th result 2024, official tamil nadu result portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "tnresults nic in, check tn board result 2024, dge.tn.gov.in re
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

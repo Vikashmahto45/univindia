@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "IBPS PO Admit Card 2022: Download Prelims/Mains Hall Ticket"; 
 $meta_description = "Download IBPS PO Admit Card 2022. Get direct link for CRP PO/MT XII Preliminary and Main Examination Hall Ticket. Check exam dates and banking exam instructions."; 
 $meta_keywords = ""; 
@@ -132,4 +132,4 @@ $meta_keywords = "";
 .table-navy-themed thead { background-color: #000080; }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

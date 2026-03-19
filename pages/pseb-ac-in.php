@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb ac in - Official Punjab Board Doorway"; 
 $meta_description = "Check pseb ac in online. Access the results for Punjab School Education Board (PSEB) Class 5, 8, 10, and 12 for the 2024 session."; 
 $meta_keywords = "pseb ac in, check punjab board results 2024 online, official pseb link, pseb ac in result portal, mohali board results"; 
@@ -65,4 +65,4 @@ $meta_keywords = "pseb ac in, check punjab board results 2024 online, official p
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

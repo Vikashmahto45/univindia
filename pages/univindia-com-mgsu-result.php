@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Com MGSU Result - Bikaner University Marks Online"; 
 $meta_description = "Check your MGSU Bikaner results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University marksheets and scores via the .com portal."; 
 $meta_keywords = "Univindia Com MGSU Result - Bikaner University Marks Online"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Com MGSU Result - Bikaner University Marks Online";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

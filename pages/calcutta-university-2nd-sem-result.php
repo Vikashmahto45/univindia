@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "calcutta university 2nd semester result - Official CU Result Portal"; 
 $meta_description = "Check calcutta university 2nd semester result for BA, BSc, and BCom. Access the official University of Calcutta (CU) 2nd sem result gateway on indiaresults."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

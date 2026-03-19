@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb 8th class result 2023 date - Official PSEB 8th Result Hub"; 
 $meta_description = "Find PSEB 8th class result 2023 date and updates on pseb 8th class result 2023 date. Access official Punjab Board Middle Result 2023 archives and links."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

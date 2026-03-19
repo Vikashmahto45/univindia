@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "ptet result 2025 - Official Rajasthan B.Ed Portal"; 
 $meta_description = "Check ptet result 2025 online. Access the Pre Teacher Education Test (PTET) results for Rajasthan B.Ed admission session 2025."; 
 $meta_keywords = "ptet result 2025, check ptet 2025 result online, official ptet raj link, rajasthan b.ed entrance result 2025 portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "ptet result 2025, check ptet 2025 result online, official ptet
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

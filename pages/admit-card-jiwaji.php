@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download Jiwaji Admit Card. Get the direct link for Jiwaji University Gwalior UG and PG semester examination hall tickets at jiwaji.edu."; 
 $meta_keywords = "jiwaji admit card download, jiwaji university hall ticket download, jiwaji.edu login admit card, gwalior university exam date 2024 download, university call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "jiwaji admit card download, jiwaji university hall ticket down
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Results 2023 - Official All-India Board Mirror Portal"; 
 $meta_description = "Check India Results 2023 online. Access the historical Rajasthan, Punjab, UP, and global state board results for the 2023 session. Unified 2023 national mirror."; 
 $meta_keywords = "india results 2023, check all india board results 2023 online, official india results 2023 link, national 2023 result hub, indiaresults.com state 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india results 2023, check all india board results 2023 online,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

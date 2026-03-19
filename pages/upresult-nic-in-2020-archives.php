@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "upresult nic in 2020 - Official Uttar Pradesh Board Archive"; 
 $meta_description = "Check upresult nic in 2020 for High School and Intermediate exams. Access the official 2020 UPMSP archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -115,4 +115,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

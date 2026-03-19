@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Results 2024 - Official National Examination Hub"; 
 $meta_description = "Check India Results 2024 online. Access the high-speed result search for all Indian boards (CBSE, RBSE, PSEB, BSEB) for 2024. Official result links and merit lists."; 
 $meta_keywords = "india results 2024, check board results 2024 online, official indiaresults portal 2024, state board 10th 12th results, national result hub 2024, click to check 2024 results"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india results 2024, check board results 2024 online, official 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

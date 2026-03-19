@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "NEET 2023 Admit Card Download - NTA Medical Entrance Release Link | Univindia.online"; 
 $meta_description = "Download NEET 2023 Admit Card. Get the direct link for NTA NEET (UG) 2023 examination hall tickets and release updates at exams.nta.ac.in."; 
 $meta_keywords = "neet 2023 admit card release, nta neet hall ticket 2023 download, neet.nta.nic.in login 2023, neet ug exam date 2023 download, medical entrance call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "neet 2023 admit card release, nta neet hall ticket 2023 downlo
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

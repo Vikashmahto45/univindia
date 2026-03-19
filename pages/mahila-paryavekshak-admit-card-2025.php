@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket"; 
 $meta_description = "Download Mahila Paryavekshak (Female Supervisor) Admit Card 2025. Get direct link for integrated recruitment hall ticket. Check exam dates and lady supervisor exam instructions."; 
 $meta_keywords = ""; 
@@ -148,4 +148,4 @@ $meta_keywords = "";
 .underline-purple { border-bottom: 3px solid #6f42c1; display: inline-block; padding-bottom: 2px; }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

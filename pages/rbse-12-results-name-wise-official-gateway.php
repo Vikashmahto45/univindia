@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rbse 12 results name wise - Official Rajasthan Board Hub"; 
 $meta_description = "Check Rajasthan Board 12th result by name on rbse 12 results name wise. Access official BSER Ajmer 2023 & 2022 archival name-wise scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

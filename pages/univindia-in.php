@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia In - Official Rajasthan University Portal Hub"; 
 $meta_description = "Univindia In is the primary gateway for university results and exam forms in Rajasthan. Discover the features and services of the Univindia.in digital network."; 
 $meta_keywords = "univindia in"; 
@@ -54,4 +54,4 @@ $meta_keywords = "univindia in";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

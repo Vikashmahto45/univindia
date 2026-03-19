@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajasthan 10th class result - Official RBSE Mirror"; 
 $meta_description = "Check rajasthan 10th class result online. Access the high-speed results for Board of Secondary Education Rajasthan (BSER) Class 10 for the 2024 session."; 
 $meta_keywords = "rajasthan 10th class result, check rbse 10th result 2024 online, official rajasthan board link, rajresults nic in index portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rajasthan 10th class result, check rbse 10th result 2024 onlin
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

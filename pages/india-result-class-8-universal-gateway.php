@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result class 8 - Official Class 8th National Gateway Hub"; 
 $meta_description = "Check india result class 8 for all state and central boards. Access the official Class 8 (Middle School) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

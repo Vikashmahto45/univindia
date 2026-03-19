@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CGL Admit Card Download - SSC Combined Graduate Level Tier 1 Region Wise | Univindia.online"; 
 $meta_description = "Download CGL Admit Card. Get the direct link for SSC Combined Graduate Level (CGL) Tier 1 and Tier 2 examination regional hall tickets at ssc.gov.in."; 
 $meta_keywords = "cgl admit card download, ssc cgl tier 1 hall ticket download, ssc.gov.in login admit card, combined graduate level exam date 2024 download, ssc nr er wr call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "cgl admit card download, ssc cgl tier 1 hall ticket download, 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

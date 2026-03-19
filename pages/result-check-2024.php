@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Result Check 2024 - Official Multi-Board Result Verification Gateway"; 
 $meta_description = "Check Result Check 2024 online. Access the results for all national (CBSE, ICSE) and state boards (UP, Rajasthan, Bihar, MP) for the 2024 session with instant links."; 
 $meta_keywords = "result check 2024, check board results 2024, click to check result 2024, results.nic.in 2024, official result gateway 2024, all india 10th 12th results 2024"; 
@@ -65,4 +65,4 @@ $meta_keywords = "result check 2024, check board results 2024, click to check re
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

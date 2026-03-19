@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "5th class result - Official Primary School Hub"; 
 $meta_description = "Check Primary School 5th class result on 5th class result. Access official Board Class 5th (Primary) scorecards and selection lists on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

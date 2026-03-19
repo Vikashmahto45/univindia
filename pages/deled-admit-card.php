@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "DElEd Admit Card 2024 Download - State Wise D.El.Ed Entrance & Semester Hall Ticket | Univindia.online"; 
 $meta_description = "Download DElEd Admit Card 2024 for Bihar, UP, MP, Rajasthan, Haryana, and other states. Get direct links for DElEd Joint Entrance Test (JET) and Semester Exam call letters."; 
 $meta_keywords = "deled admit card 2024, d.el.ed hall ticket download, btc admit card, deled entrance exam admit card, deled semester exam hall ticket link"; 
@@ -108,4 +108,4 @@ $meta_keywords = "deled admit card 2024, d.el.ed hall ticket download, btc admit
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

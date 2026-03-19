@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia RRBMU - Raj Rishi Bhartrihari Matsya University Result portal"; 
 $meta_description = "Univindia RRBMU is the primary portal for Matsya University Alwar exams and results. Complete guide to the Univindia RRBMU digital interface."; 
 $meta_keywords = "univindia rrbmu"; 
@@ -46,4 +46,4 @@ $meta_keywords = "univindia rrbmu";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

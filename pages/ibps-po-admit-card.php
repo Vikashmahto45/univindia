@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "IBPS PO Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online"; 
 $meta_description = "Download IBPS PO Admit Card. Get the direct link for IBPS Probationary Officers (PO/MT) Prelims & Mains examination hall tickets at ibps.in."; 
 $meta_keywords = "ibps po admit card download, ibps.in po hall ticket download, ibps po prelims admit card login, ibps po mains exam date 2024 download, banking po call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "ibps po admit card download, ibps.in po hall ticket download, 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

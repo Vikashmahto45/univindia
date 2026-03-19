@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "class 10 rbse result 2021 - Official Rajasthan 10th Hub"; 
 $meta_description = "Check Rajasthan Board 10th result 2021 on class 10 rbse result 2021. Access official RBSE Secondary 2021 archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

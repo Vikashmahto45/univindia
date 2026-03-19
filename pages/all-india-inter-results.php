@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "all india inter results - Official National Board Mirror"; 
 $meta_description = "Check all india inter results online. Access the results for all State Boards (AP, TS, Bihar, etc.) for the 2024 Intermediate session."; 
 $meta_keywords = "all india inter results, check inter results 2024 online, official state board inter link, national inter results portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "all india inter results, check inter results 2024 online, offi
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

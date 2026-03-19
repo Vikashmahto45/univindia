@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result jkbose - Official Jammu & Kashmir Board Hub"; 
 $meta_description = "Check india result jkbose for Class 10th (Secondary) and 12th (Senior Secondary) results. Access the official JKBOSE result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -115,4 +115,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Results - Check University Exam Scores & Marksheets"; 
 $meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Results portal. Complete guide to downloading marksheets and checking revaluation results online."; 
 $meta_keywords = "Univindia Results - Check University Exam Scores & Marksheets"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Results - Check University Exam Scores & Marksheets"
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

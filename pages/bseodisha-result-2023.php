@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bseodisha result 2023 - Official Odisha Board Mirror"; 
 $meta_description = "Check bseodisha result 2023 online. Access the results for Board of Secondary Education (BSE) Odisha Class 10 (Matric) for the 2023 session."; 
 $meta_keywords = "bseodisha result 2023, check bse odisha 10th result 2023 online, official odisha results link, orissaresults nic in search 2023"; 
@@ -65,4 +65,4 @@ $meta_keywords = "bseodisha result 2023, check bse odisha 10th result 2023 onlin
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

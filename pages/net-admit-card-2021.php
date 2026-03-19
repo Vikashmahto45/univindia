@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "NET Admit Card 2021 Download - NTA UGC NET Archive | Univindia.online"; 
 $meta_description = "Download NET Admit Card 2021. Get the direct link for NTA UGC NET (December 2020 and June 2021 cycles) hall tickets at ugcnet.nta.nic.in."; 
 $meta_keywords = "net admit card 2021 download, nta ugc net hall ticket 2021 download, ugcnet.nta.nic.in login 2021, ugc net exam date 2021 download, academic research call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "net admit card 2021 download, nta ugc net hall ticket 2021 dow
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

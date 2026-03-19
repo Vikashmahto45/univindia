@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "all india result hptu - Official National Technical Hub"; 
 $meta_description = "Check all india result hptu for B.Tech, MBA, MCA and other courses. Access official national HPTU result portals and university mirrors on indiaresults."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

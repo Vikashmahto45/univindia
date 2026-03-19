@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india results 2024 - Official National 2024 Portal Hub"; 
 $meta_description = "Check india results 2024 for all academic exams. Access the official 2024 national result gateway, live board updates, and university scores on indiaresults."; 
 $meta_keywords = ""; 
@@ -120,4 +120,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

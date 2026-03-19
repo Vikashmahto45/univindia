@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result Rajasthan 2021 - Historical RBSE Result archive"; 
 $meta_description = "Check India Result Rajasthan 2021 online. Access the historical Rajasthan Board (BSER) 10th and 12th results for the 2021 session. Official merit lists."; 
 $meta_keywords = "india result rajasthan 2021, check rbse result 2021 online, rajasthan 10th 12th result 2021, official 2021 rbse link, indiaresult rajasthan mirror 2021"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result rajasthan 2021, check rbse result 2021 online, ra
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

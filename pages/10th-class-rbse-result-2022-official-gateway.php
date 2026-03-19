@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th class rbse result 2022 - Official Rajasthan Board Hub"; 
 $meta_description = "Check Rajasthan Board 10th result 2022 on 10th class rbse result 2022. Access official BSER Ajmer Class 10th 2022 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

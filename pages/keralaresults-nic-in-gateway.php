@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "keralaresults nic in - Official Kerala Result Portal Gateway"; 
 $meta_description = "Check keralaresults nic in for SSLC, Plus Two, and DHSE results. Access the official Kerala result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

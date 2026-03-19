@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSCNR Admit Card Download - SSC Northern Region Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download SSCNR Admit Card. Get the direct link for SSC Northern Region (Delhi, Rajasthan, Uttarakhand) examination hall tickets at sscnr.nic.in."; 
 $meta_keywords = "sscnr admit card download, ssc northern region hall ticket download, sscnr.nic.in login admit card, ssc delhi exam date 2024 download, staff recruitment call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "sscnr admit card download, ssc northern region hall ticket dow
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

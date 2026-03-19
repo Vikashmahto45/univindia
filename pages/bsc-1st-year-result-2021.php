@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BSc 1st Year Result 2021 - Official University Result Archive"; 
 $meta_description = "Check BSc 1st Year Result 2021 online. Access the historical Bachelor of Science (B.Sc) Part 1 results for all major Indian universities. Official mirror."; 
 $meta_keywords = "bsc 1st year result 2021, check bsc part 1 result 2021 online, university bsc 1st year result 2021 indiaresults, official 2021 bsc link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "bsc 1st year result 2021, check bsc part 1 result 2021 online,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

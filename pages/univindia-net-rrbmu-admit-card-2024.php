@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net RRBMU Admit Card 2024 - Matsya University Alwar 2024 Hall Ticket"; 
 $meta_description = "Download your RRBMU Alwar 2024 admit card at Univindia Net. Official guide to retrieving Matsya University 2024 hall tickets online."; 
 $meta_keywords = "Univindia Net RRBMU Admit Card 2024 - Matsya University Alwar 2024 Hall Ticket"; 
@@ -57,4 +57,4 @@ $meta_keywords = "Univindia Net RRBMU Admit Card 2024 - Matsya University Alwar 
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

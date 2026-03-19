@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter 2nd year result 2022 ts - Official Telangana 12th 2022 Archive"; 
 $meta_description = "Check inter 2nd year result 2022 ts for TSBIE exams. Access the official 2022 Telangana Intermediate result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

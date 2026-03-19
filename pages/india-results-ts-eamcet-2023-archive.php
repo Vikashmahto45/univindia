@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india results ts eamcet 2023 - Official Telangana Entrance Archive Portal"; 
 $meta_description = "Check india results ts eamcet 2023 for Engineering, Agriculture, and Medical streams. Access the official 2023 TS EAMCET result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

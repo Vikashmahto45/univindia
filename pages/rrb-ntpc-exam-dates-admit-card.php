@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online"; 
 $meta_description = "Check RRB NTPC Exam Dates and Download Admit Card. Get the direct link for Railway NTPC phase-wise examination schedules and hall tickets at rrbapply.gov.in."; 
 $meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule 2024 download, rrbapply.gov.in ntpc login 2024, railway recruitment exam date download, ntpc call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

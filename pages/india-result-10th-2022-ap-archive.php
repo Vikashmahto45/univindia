@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 10th 2022 ap - Official Andhra Pradesh SSC Archive Portal"; 
 $meta_description = "Check india result 10th 2022 ap for Secondary (SSC) examinations. Access the official 2022 Andhra Pradesh (BSEAP) result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -113,4 +113,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

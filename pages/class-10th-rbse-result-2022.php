@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "class 10th rbse result 2022 - Official Rajasthan Board Mirror"; 
 $meta_description = "Check class 10th rbse result 2022 online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 10 (Secondary) for the 2022 session."; 
 $meta_keywords = "class 10th rbse result 2022, check rbse class 10 result 2022 online, official rajasthan board link, rajresults nic in index 2022 secondary"; 
@@ -65,4 +65,4 @@ $meta_keywords = "class 10th rbse result 2022, check rbse class 10 result 2022 o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

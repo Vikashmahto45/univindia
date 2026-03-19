@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2021 ts - Official Telangana Result Archive"; 
 $meta_description = "Check indiaresults.com 2021 ts for Telangana board and university results. Access the official 2021 TS result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -109,4 +109,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CCC Admit Card 2024 Download - NIELIT Course on Computer Concepts Hall Ticket | Univindia.online"; 
 $meta_description = "Download CCC Admit Card 2024. Get the direct link for NIELIT (formerly DOEACC) Course on Computer Concepts (CCC) monthly examination hall tickets at student.nielit.gov.in."; 
 $meta_keywords = "ccc admit card 2024, nielit ccc admit card download, ccc exam hall ticket link, student.nielit.gov.in admit card login, course on computer concepts hall ticket"; 
@@ -93,4 +93,4 @@ $meta_keywords = "ccc admit card 2024, nielit ccc admit card download, ccc exam 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

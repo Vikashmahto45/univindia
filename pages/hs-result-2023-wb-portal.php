@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "hs result 2023 west bengal - Official WBCHSE Portal Hub"; 
 $meta_description = "Check hs result 2023 west bengal for the Class 12th examinations. Access the official 2023 West Bengal (WBCHSE) HS result gateway on indiaresults."; 
 $meta_keywords = ""; 
@@ -112,4 +112,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha india result 2023 - Official Odisha Academic 2023 Archive"; 
 $meta_description = "Check odisha india result 2023 for BSE and CHSE exams. Access the official 2023 Odisha academic result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

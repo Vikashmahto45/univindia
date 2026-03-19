@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "otet results 2023 - Official Odisha Teacher Hub"; 
 $meta_description = "Check Odisha Teacher Eligibility Test (OTET) result 2023 on otet results 2023. Access official OTET 2023 archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

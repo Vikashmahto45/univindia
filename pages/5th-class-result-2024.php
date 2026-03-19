@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "5th class result 2024 - Official State Board Primary Portal"; 
 $meta_description = "Check 5th class result 2024 online. Access the Rajasthan (RBSE), Punjab (PSEB), and Bihar (BSEB) Class 5 primary examination results for the 2024 session."; 
 $meta_keywords = "5th class result 2024, check primary result 2024 online, rbse 5th result 2024, pseb 5th result 2024 link, official 2024 5th result portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "5th class result 2024, check primary result 2024 online, rbse 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

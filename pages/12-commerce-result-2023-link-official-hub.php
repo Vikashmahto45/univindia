@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12 commerce result 2023 link - Official Class 12 Commerce 2023 Archive"; 
 $meta_description = "Check 12 commerce result 2023 link for all state board exams. Access the official 2023 Class 12th (Higher Secondary) Commerce result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "ap 10th results 2021 - Official Andhra Pradesh 2021 Archive"; 
 $meta_description = "Check ap 10th results 2021 for SSC exams. Access the official 2021 Andhra Pradesh Board (BSEAP) archival result gateway on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

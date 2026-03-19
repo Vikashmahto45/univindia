@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bse odisha result 2022 date - Official Board Archive & Timeline"; 
 $meta_description = "Check bse odisha result 2022 date and timeline. Access the official 2022 High School Certificate (HSC) result archive for Odisha on indiaresults."; 
 $meta_keywords = ""; 
@@ -108,4 +108,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

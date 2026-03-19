@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result 8th Class - Official National Mirror"; 
 $meta_description = "Check India Result 8th Class online. Access the primary 8th Board results for Rajasthan, Punjab, and other states. Official IndiaResults mirror link."; 
 $meta_keywords = "india result 8th class, check 8th board result online, 8th class result link, official 8th result mirror, indiaresults 8th class"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 8th class, check 8th board result online, 8th cla
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

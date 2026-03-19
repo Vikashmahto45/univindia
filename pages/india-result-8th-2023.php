@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 8th class 2023 - Official Middle School Result Mirror"; 
 $meta_description = "Check india result 8th class 2023 for all boards. Access the official 8th class result portal on indiaresults.com for fast result checking and name-wise search."; 
 $meta_keywords = ""; 
@@ -107,4 +107,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

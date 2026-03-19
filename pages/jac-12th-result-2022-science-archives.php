@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jac 12th result 2022 science - Official JAC Inter Science 2022 Archive"; 
 $meta_description = "Check jac 12th result 2022 science for JAC Board exams. Access the official 2022 Jharkhand Academic Council (JAC) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online"; 
 $meta_description = "Download MSU Admit Card. Get the direct link for Maharaja Sayajirao University (MSU Baroda) UG and PG semester examination hall tickets at msubaroda.ac.in."; 
 $meta_keywords = "msu admit card download, maharaja sayajirao university hall ticket download, msubaroda.ac.in login admit card, msu baroda exam date 2024 download, university entrance call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "msu admit card download, maharaja sayajirao university hall ti
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

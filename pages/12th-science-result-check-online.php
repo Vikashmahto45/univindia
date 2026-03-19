@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12th Science Result Check Online - Official National Mirror"; 
 $meta_description = "Check 12th Science Result 2023 & 2024 online. Access the Rajasthan, Punjab, and other state Senior Secondary Science results. Official high-speed check online links."; 
 $meta_keywords = "12th science result check online, check rajasthan 12th science result online, bser science 12th 2024 check, official science result portal, rajresults.nic.in science"; 
@@ -65,4 +65,4 @@ $meta_keywords = "12th science result check online, check rajasthan 12th science
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

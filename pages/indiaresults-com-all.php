@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "IndiaResults Com - High-Speed All State Board Mirror"; 
 $meta_description = "Check IndiaResults Com online. Access the primary results for Rajasthan, Punjab, Bihar, and all other Indian states. Official IndiaResults high-speed mirror link."; 
 $meta_keywords = "indiaresults com, check state board results online, indiaresults all states link, primary board result mirror, indiaresults class 10 12"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresults com, check state board results online, indiaresul
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

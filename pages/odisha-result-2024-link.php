@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha result 2024 - Official State Board Mirror"; 
 $meta_description = "Check odisha result 2024 online. Access the latest results for Board of Secondary Education (BSE) and Council of Higher Secondary Education (CHSE) Odisha for the 2024 session."; 
 $meta_keywords = "odisha result 2024, check odisha board 10th/12th result 2024 online, official odisha results link, orissaresults nic in search 2024"; 
@@ -65,4 +65,4 @@ $meta_keywords = "odisha result 2024, check odisha board 10th/12th result 2024 o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

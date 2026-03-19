@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rbse 12th result 2023 science roll number - Official Rajasthan Hub"; 
 $meta_description = "Check Rajasthan Board 12th Science result 2023 on rbse 12th result 2023 science roll number. Access official BSER 2023 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

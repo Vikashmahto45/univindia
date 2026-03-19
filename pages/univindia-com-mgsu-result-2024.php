@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard"; 
 $meta_description = "Check your MGSU Bikaner 2024 results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University 2024 marksheets and results online."; 
 $meta_keywords = "Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard"; 
@@ -60,4 +60,4 @@ $meta_keywords = "Univindia Com MGSU Result 2024 - Bikaner University Scores Das
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

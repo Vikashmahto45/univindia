@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india results.com 2023 - Official National Result Portal Hub"; 
 $meta_description = "Check india results.com 2023 for all board and university results. Access the official 2023 results portal on indiaresults for the latest updates across India."; 
 $meta_keywords = ""; 
@@ -109,4 +109,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard"; 
 $meta_description = "Access the Www Univindia Net Main Page for MGSU Bikaner. Official guide to navigating university examination forms, results, and student panels online."; 
 $meta_keywords = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard"; 
@@ -51,4 +51,4 @@ $meta_keywords = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

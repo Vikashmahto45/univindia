@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores"; 
 $meta_description = "Check your MGSU Bikaner revaluation and scrutiny results on Univindia Net. Official guide to downloading revised marksheets from Maharaja Ganga Singh University."; 
 $meta_keywords = "Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores"; 
@@ -53,4 +53,4 @@ $meta_keywords = "Univindia Net MGSU Revaluation Result - Bikaner University Re-
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

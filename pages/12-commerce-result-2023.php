@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12 commerce result 2023 - Official National Board Mirror"; 
 $meta_description = "Check 12 commerce result 2023 online. Access the historical Class 12th (Senior Secondary) Commerce results for all Indian State Boards for 2023."; 
 $meta_keywords = "12 commerce result 2023, check 12th commerce result 2023 online, official commerce 2023 link, 12th board result 2023 commerce portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "12 commerce result 2023, check 12th commerce result 2023 onlin
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

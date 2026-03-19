@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SOL Admit Card Download - DU School of Open Learning Hall Ticket | Univindia.online"; 
 $meta_description = "Download SOL Admit Card. Get the direct link for Delhi University (DU SOL) UG and PG semester examination hall tickets at sol.du.ac.in."; 
 $meta_keywords = "sol admit card download, du sol hall ticket download, sol.du.ac.in login admit card, du sol exam date 2024 download, university assignment call letter"; 
@@ -91,4 +91,4 @@ $meta_keywords = "sol admit card download, du sol hall ticket download, sol.du.a
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

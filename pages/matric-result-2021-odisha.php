@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Matric Result 2021 Odisha - Official BSE Odisha Archive"; 
 $meta_description = "Check Matric Result 2021 Odisha online. Access the historical Board of Secondary Education (BSE) Odisha High School results for the 2021 session. Official mirror."; 
 $meta_keywords = "matric result 2021 odisha, check bse odisha 10th result 2021 online, bse odisha matric result 2021 indiaresults, official 2021 odisha link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "matric result 2021 odisha, check bse odisha 10th result 2021 o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

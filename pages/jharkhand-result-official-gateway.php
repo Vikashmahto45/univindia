@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jharkhand result - Official Jharkhand Academic Council Gateway"; 
 $meta_description = "Check jharkhand result for 10th and 12th board exams. Access the official JAC result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -112,4 +112,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

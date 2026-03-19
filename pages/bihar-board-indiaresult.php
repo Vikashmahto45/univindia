@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Bihar Board Indiaresult - Official Matric & Inter Portal"; 
 $meta_description = "Check Bihar Board Indiaresult online. Access the high-speed link for BSEB Matric (10th) and Intermediate (12th) results. Official IndiaResults mirror."; 
 $meta_keywords = "bihar board indiaresult, check bseb result online, indiaresults bihar board, bihar board matric result link, bihar board inter result link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "bihar board indiaresult, check bseb result online, indiaresult
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

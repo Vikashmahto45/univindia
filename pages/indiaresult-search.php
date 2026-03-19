@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "IndiaResult - Official National secondary Board Mirror"; 
 $meta_description = "Check IndiaResult online. Access the Rajasthan, Punjab, and All-India state board results for the current and historical sessions via the official IndiaResults portal."; 
 $meta_keywords = "indiaresult, check india results online, official indiaresults portal, national board results mirror, indiaresults.com link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresult, check india results online, official indiaresults
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

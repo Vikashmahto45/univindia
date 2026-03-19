@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -15,4 +15,4 @@ foreach ($counts as $key => $count) {
     }
 }
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odisha.indiaresults.com 2021 - Official BSE/CHSE Archive"; 
 $meta_description = "Check odisha.indiaresults.com 2021 for the High School and Senior Secondary examinations. Access the official 2021 Odisha result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -110,4 +110,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

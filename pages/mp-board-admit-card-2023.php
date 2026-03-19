@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MP Board Admit Card 2023 Download - MPBSE 10th & 12th Exam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download MP Board Admit Card 2023. Get the direct link for MPBSE Class 10th and 12th board examination hall tickets at mpbse.mponline.gov.in."; 
 $meta_keywords = "mp board admit card 2023, mpbse 10th admit card download, mpbse 12th admit card login, mp board hall ticket 2023, mpbse.mponline.gov.in admit card"; 
@@ -91,4 +91,4 @@ $meta_keywords = "mp board admit card 2023, mpbse 10th admit card download, mpbs
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

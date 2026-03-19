@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BSSC Admit Card 2024 Download - Bihar SSC Inter Level & CGL Hall Ticket | Univindia.online"; 
 $meta_description = "Download BSSC Admit Card 2024. Get the direct link for Bihar Staff Selection Commission 2nd Inter Level and 3rd CGL recruitment exam hall tickets at bssc.bihar.gov.in."; 
 $meta_keywords = "bssc admit card 2024, bihar ssc hall ticket download, bssc inter level admit card link, bssc.bihar.gov.in admit card login, bssc cgl admit card download"; 
@@ -90,4 +90,4 @@ $meta_keywords = "bssc admit card 2024, bihar ssc hall ticket download, bssc int
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

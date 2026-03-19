@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CCS University Admit Card 2025: CCSU Meerut Exam Form & Call Letter @ ccsuniversity.ac.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -186,4 +186,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

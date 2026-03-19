@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "hs result 2021 west bengal - Official WBCHSE 2021 Archive"; 
 $meta_description = "Check hs result 2021 west bengal for Higher Secondary exams. Access the official 2021 West Bengal Council of Higher Secondary Education (WBCHSE) archival portal."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result 2024 Link - Official Multi-Board Examination Gateway"; 
 $meta_description = "Check India Result 2024 Link online. Access the direct result links for CBSE, ICSE, and all Indian state boards for the 10th and 12th sessions in 2024."; 
 $meta_keywords = "india result 2024 link, check india results 2024 link, all board results 2024 link, results.gov.in 2024, check secondary result link 2024, official india result gateway"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 2024 link, check india results 2024 link, all boa
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

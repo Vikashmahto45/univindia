@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajresults.nic.in 2021 10th - Official Rajasthan Secondary 2021 Archive"; 
 $meta_description = "Check rajresults.nic.in 2021 10th for BSER Class 10 exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -119,4 +119,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

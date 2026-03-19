@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "NVS Admit Card Download - Navodaya Vidyalaya Samiti Hall Ticket"; 
 $meta_description = "Download NVS Admit Card for TGT, PGT, and Principal recruitment. Get the direct hall ticket link from the official NVS portal."; 
 $meta_keywords = "nvs admit card, navodaya vidayalaya admit card download, nvs teacher hall ticket, nvs recruitment 2024"; 
@@ -59,4 +59,4 @@ $meta_keywords = "nvs admit card, navodaya vidayalaya admit card download, nvs t
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "orissaresults.nic.in 2022 - Official Odisha Board Result Archive"; 
 $meta_description = "Check orissaresults.nic.in 2022 online. Access the historical Odisha +2 and 10th results for the 2022 session. Official NIC marks link."; 
 $meta_keywords = "orissaresults.nic.in 2022, check odisha board results online 2022, bse odisha 10th result 2022, chse odisha +2 result 2022, official 2022 odisha link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "orissaresults.nic.in 2022, check odisha board results online 2
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

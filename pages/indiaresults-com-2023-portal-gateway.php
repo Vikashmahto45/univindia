@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2023 - Official National 2023 Hub"; 
 $meta_description = "Check all board results on indiaresults.com 2023. Access the official indiaresults gateway for 10th & 12th scorecards of the 2023 academic session."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

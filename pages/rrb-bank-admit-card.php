@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB Bank Admit Card Download - IBPS RRB Officer & Assistant Hall Ticket"; 
 $meta_description = "Download RRB Bank Admit Card (IBPS RRB). Get direct links for Office Assistant and Officer Scale I, II, III prelims and mains hall tickets."; 
 $meta_keywords = "rrb bank admit card, ibps rrb admit card download, rrb office assistant hall ticket, rrb officer scale 1 admit card"; 
@@ -60,4 +60,4 @@ $meta_keywords = "rrb bank admit card, ibps rrb admit card download, rrb office 
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

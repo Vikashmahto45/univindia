@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Bengal Result 2024 - WBBSE & WBCHSE West Bengal State Results"; 
 $meta_description = "Check Bengal Result 2024 for Madhyamik (10th) and Higher Secondary (12th). Access the latest updates from West Bengal state boards with direct official links."; 
 $meta_keywords = "bengal result, west bengal result 2024, wbbse results, wbchse results, wbresults nic in 2024"; 
@@ -64,4 +64,4 @@ $meta_keywords = "bengal result, west bengal result 2024, wbbse results, wbchse 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "JNVU Admit Card 2024 Download - Jai Narain Vyas University Exam Hall Ticket | Univindia.online"; 
 $meta_description = "Download JNVU Admit Card 2024. Get the direct link for Jai Narain Vyas University (JNVU Jodhpur) UG and PG examination hall tickets at jnvuexam.in."; 
 $meta_keywords = "jnvu admit card 2024, jnvu jodhpur hall ticket download, jnvuexam.in admit card login, jnvu result 2024, jnvu exam date 2024"; 
@@ -89,4 +89,4 @@ $meta_keywords = "jnvu admit card 2024, jnvu jodhpur hall ticket download, jnvue
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

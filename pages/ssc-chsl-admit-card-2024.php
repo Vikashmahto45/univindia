@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC CHSL Tier 1 Admit Card 2024 - Download Exam Date & Status | Univindia.online"; 
 $meta_description = "SSC CHSL Admit Card 2024 for Tier 1 released. Check your SSC CHSL application status, exam date, city intimation and download hall ticket from regional websites."; 
 $meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 hall ticket, ssc chsl status 2024, ssc chsl exam date, ssc.gov.in chsl admit card"; 
@@ -107,4 +107,4 @@ $meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 hall ticket, ssc chs
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

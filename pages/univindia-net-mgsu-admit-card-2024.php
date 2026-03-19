@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Net MGSU Admit Card 2024 - Bikaner University Hall Ticket"; 
 $meta_description = "Download your MGSU Bikaner admit card for the academic year 2024 at Univindia Net. Official guide to retrieving 2024 hall tickets online."; 
 $meta_keywords = "Univindia Net MGSU Admit Card 2024 - Bikaner University Hall Ticket"; 
@@ -57,4 +57,4 @@ $meta_keywords = "Univindia Net MGSU Admit Card 2024 - Bikaner University Hall T
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

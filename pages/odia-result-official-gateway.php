@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "odia result - Official Odisha Board Result Gateway"; 
 $meta_description = "Check Odisha Board 10th & 12th results on odia result. Access official BSE/CHSE Odisha archival scorecards and direct links on indiaresults."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

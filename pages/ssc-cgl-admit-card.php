@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC CGL Admit Card Download - Combined Graduate Level Hall Ticket"; 
 $meta_description = "Download SSC CGL Admit Card. Get the direct regional links to access your CGL Tier 1 and Tier 2 examination admit cards easily."; 
 $meta_keywords = "ssc cgl admit card, ssc cgl exam hall ticket, ssc admit card download, cgl hall ticket 2024 link"; 
@@ -60,4 +60,4 @@ $meta_keywords = "ssc cgl admit card, ssc cgl exam hall ticket, ssc admit card d
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

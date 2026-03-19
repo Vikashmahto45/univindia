@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "chse.nic.in 2022 result - Official Odisha +2 Hub"; 
 $meta_description = "Check Odisha Board +2 result 2022 on chse.nic.in 2022 result. Access official CHSE Odisha Plus Two 2022 archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

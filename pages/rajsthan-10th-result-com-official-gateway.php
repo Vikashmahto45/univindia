@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "rajsthan 10th result com - Official Rajasthan 10th Gateway"; 
 $meta_description = "Access rajsthan 10th result com for official RBSE Secondary result updates. Unified portal for Rajasthan Board 10th scores and direct links on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "reet result - Official Rajasthan REET Eligibility Gateway"; 
 $meta_description = "Check reet result for Rajasthan Eligibility Examination for Teachers. Access the official REET (BSER) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

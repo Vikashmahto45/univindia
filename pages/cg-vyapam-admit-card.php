@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online"; 
 $meta_description = "Download CG Vyapam Admit Card. Get the direct link for Chhattisgarh (CG) Vyapam recruitment and entrance examination hall tickets at vyapam.cgstate.gov.in."; 
 $meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket download, vyapam.cgstate.gov.in login admit card, cg exam date 2024 download, recruitment call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

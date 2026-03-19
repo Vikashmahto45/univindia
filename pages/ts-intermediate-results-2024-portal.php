@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "ts intermediate results 2024 - Official Telangana State Inter Gateway"; 
 $meta_description = "Check ts intermediate results 2024 for TSBIE Inter 1st and 2nd year exams. Access the official 2024 Telangana State archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Univindia Exam Form - Online University Registration Portal"; 
 $meta_description = "Fill your MGSU, RRBMU, and MSBU exam forms on the Univindia Exam Form portal. Complete guide to online registration, fee payment, and form status."; 
 $meta_keywords = "Univindia Exam Form - Online University Registration Portal"; 
@@ -52,4 +52,4 @@ $meta_keywords = "Univindia Exam Form - Online University Registration Portal";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Rajasthan Police Admit Card 2022 Download - Constable Exam Hall Ticket | Univindia.online"; 
 $meta_description = "Download Rajasthan Police Admit Card 2022. Get the direct link for Rajasthan Police Constable recruitment examination hall tickets at recruitment2.rajasthan.gov.in."; 
 $meta_keywords = "rajasthan police admit card 2022 download, raj police constable hall ticket 2022 download, sso id login rajasthan police, rajasthan police exam date 2022 download, constable recruitment call letter"; 
@@ -90,4 +90,4 @@ $meta_keywords = "rajasthan police admit card 2022 download, raj police constabl
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

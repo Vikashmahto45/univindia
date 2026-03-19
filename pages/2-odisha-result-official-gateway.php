@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "2 odisha result - Official Odisha Plus Two Hub"; 
 $meta_description = "Check Odisha Board +2 (Higher Secondary) result on 2 odisha result. Access official CHSE Odisha Plus Two scorecards and archival results on indiaresults."; 
 $meta_keywords = ""; 
@@ -88,4 +88,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

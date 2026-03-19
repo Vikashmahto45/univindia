@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CET Admit Card Download - Common Entrance Test Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download CET Admit Card. Get the direct link for Rajasthan CET, Maharashtra CET, and Haryana CET examination hall tickets at the respective official portals."; 
 $meta_keywords = "cet admit card, common entrance test hall ticket download, rajasthan cet admit card login, haryana cet hall ticket link, cet exam date 2024 download"; 
@@ -92,4 +92,4 @@ $meta_keywords = "cet admit card, common entrance test hall ticket download, raj
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

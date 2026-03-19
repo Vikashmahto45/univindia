@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10 class result 2024 - Official National Secondary Hub"; 
 $meta_description = "Check 10 class result 2024 for all state boards and CBSE. Access the official 2024 secondary (Class 10) result portal and live updates on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

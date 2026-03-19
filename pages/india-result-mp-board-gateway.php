@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result mp - Official Madhya Pradesh Board Gateway Hub"; 
 $meta_description = "Check india result mp for Class 10th and 12th board results. Access the official Madhya Pradesh (MPBSE) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

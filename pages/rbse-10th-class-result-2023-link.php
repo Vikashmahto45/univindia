@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RBSE 10th Class Result 2023 Link - Check Rajasthan Board 10th Result"; 
 $meta_description = "Looking for RBSE 10th Class Result 2023 Link? Access the direct link for Rajasthan Board Class 10th Result 2023. Check your marksheet, percentage, and division here."; 
 $meta_keywords = ""; 
@@ -38,4 +38,4 @@ $meta_keywords = "";
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

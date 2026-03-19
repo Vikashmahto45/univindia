@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result Jammu - Official JKBOSE Jammu Division Result Hub"; 
 $meta_description = "Check India Result Jammu online. Access the J&K Board (JKBOSE) Jammu Division 10th and 12th results. Official search-by-name links for Jammu division exams 2024."; 
 $meta_keywords = "india result jammu, check jkbose jammu result 2024, jammu division board result link, jkbose.nic.in jammu results, official jkbose jammu portal, jkbose search by name jammu"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result jammu, check jkbose jammu result 2024, jammu divi
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

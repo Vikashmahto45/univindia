@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "hslc result link - Official High School Result Hub"; 
 $meta_description = "Check all state HSLC results on hslc result link. Access official indiaresults gateway for High School Leaving Certificate 10th scores and rank lists."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

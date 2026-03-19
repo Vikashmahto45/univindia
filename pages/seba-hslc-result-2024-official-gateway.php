@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "seba hslc result 2024 - Official Assam Secondary Hub"; 
 $meta_description = "Check seba hslc result 2024 for MSBSHSE exams. Access the official Assam Board High School Leaving Certificate (HSLC) result gateway on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

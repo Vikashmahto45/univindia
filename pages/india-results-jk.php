@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india results jk - Official JKBOSE Board Mirror"; 
 $meta_description = "Check india results jk online. Access the results for JKBOSE Class 10 and Class 12 for the Jammu and Kashmir board for the 2024 session."; 
 $meta_keywords = "india results jk, check jkbose results 2024 online, official jk board link, jkbose nic in results index portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india results jk, check jkbose results 2024 online, official j
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

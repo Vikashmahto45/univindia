@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "ts 10th results 2023 - Official Telangana State Secondary 2023 Archive"; 
 $meta_description = "Check ts 10th results 2023 for TSBIE Class 10 exams. Access the official 2023 Telangana State Secondary (SSC) archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -117,4 +117,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

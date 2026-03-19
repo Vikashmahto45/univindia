@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb result - Official Punjab Board Mirror"; 
 $meta_description = "Check pseb result online. Access the results for Punjab School Education Board (PSEB) Class 5, 8, 10, and 12 for all sessions."; 
 $meta_keywords = "pseb result, check punjab board results online, official pseb links, punjab indiaresults com pseb portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "pseb result, check punjab board results online, official pseb 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

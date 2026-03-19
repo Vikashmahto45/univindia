@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "EMRS Admit Card 2024 Download - Teaching & Non-Teaching Eklavya ESSSC Link | Univindia.online"; 
 $meta_description = "Download EMRS Admit Card 2024 for TGT, PGT, Hostel Warden, and JSA. Get direct link for Eklavya Model Residential School recruitment hall tickets at emrs.tribal.gov.in."; 
 $meta_keywords = "emrs admit card 2024, eklavya school admit card download, emrs recruitment 2024 hall ticket, emrs.tribal.gov.in admit card login, emrs exam date"; 
@@ -91,4 +91,4 @@ $meta_keywords = "emrs admit card 2024, eklavya school admit card download, emrs
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

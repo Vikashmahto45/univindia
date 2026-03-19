@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -180,4 +180,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

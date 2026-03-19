@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Patwari Admit Card 2021 Download - Rajasthan RSMSSB Patwar Exam Hall Ticket | Univindia.online"; 
 $meta_description = "Download Patwari Admit Card 2021. Get the direct link for Rajasthan RSMSSB Patwar recruitment examination hall tickets at rsmssb.rajasthan.gov.in and SSO portal."; 
 $meta_keywords = "patwari admit card 2021, rajasthan patwar hall ticket download, rsmssb patwari admit card 2021 link, sso rajasthan patwari admit card, raj patwari exam hall ticket"; 
@@ -92,4 +92,4 @@ $meta_keywords = "patwari admit card 2021, rajasthan patwar hall ticket download
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

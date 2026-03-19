@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indiaresults.com Punjab 2022 - Official State Result Archive"; 
 $meta_description = "Check Indiaresults.com Punjab 2022 for PSEB Class 10th and 12th board results. Access the Punjab State 2022 merit lists, roll number search, and school wise results."; 
 $meta_keywords = "indiaresults.com punjab 2022, pseb result 2022, indiaresults punjab board 2022, check punjab 10th result 2022, pseb 12th result date 2022, india results punjab portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indiaresults.com punjab 2022, pseb result 2022, indiaresults p
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

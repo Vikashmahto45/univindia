@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive"; 
 $meta_description = "Check Andhra Pradesh (AP) Board 10th & 12th result 2022 on indiaresults.com 2022 ap. Access official BSEAP/BIEAP 2022 archival results on indiaresults."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12th science result 2023 - Official Senior Secondary Academic Gateway"; 
 $meta_description = "Check 12th science result 2023 for all state and central board exams. Access the official 2023 Class 12 Science result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -118,4 +118,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

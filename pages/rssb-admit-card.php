@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RSSB Admit Card 2024 Download - Rajasthan Staff Selection Board RSMSSB Link | Univindia.online"; 
 $meta_description = "Download RSSB Admit Card 2024. Get the direct link for RSMSSB Junior Assistant, Clerk, Patwari, and various recruitment hall tickets at rsmssb.rajasthan.gov.in."; 
 $meta_keywords = "rssb admit card 2024, rsmssb admit card download, rajasthan staff selection board hall ticket, rssb board admit card link, rssb recruitment 2024 hall ticket"; 
@@ -93,4 +93,4 @@ $meta_keywords = "rssb admit card 2024, rsmssb admit card download, rajasthan st
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

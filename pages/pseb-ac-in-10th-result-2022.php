@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb.ac.in 10th result 2022 - Official Punjab Board matric Archive"; 
 $meta_description = "Check pseb.ac.in 10th result 2022 online. Access the historical Punjab School Education Board (PSEB) Mohali Matriculation results for the 2022 session. Official Link."; 
 $meta_keywords = "pseb.ac.in 10th result 2022, check punjab board 10th result 2022 online, pseb matric result 2022, official 2022 punjab link, punjab 10th result name wise 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "pseb.ac.in 10th result 2022, check punjab board 10th result 20
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

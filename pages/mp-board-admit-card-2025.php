@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MP Board Admit Card 2025 Download - MPBSE 10th & 12th Board Hall Ticket | Univindia.online"; 
 $meta_description = "Download MP Board Admit Card 2025. Get the direct link for Madhya Pradesh Board (MPBSE) Class 10 and Class 12 board examination hall tickets at mpbse.nic.in."; 
 $meta_keywords = "mp board admit card 2025, mpbse 10th admit card download, mpbse 12th hall ticket login, mpbse.nic.in admit card 2025 link, mp board exam date 2025 download"; 
@@ -90,4 +90,4 @@ $meta_keywords = "mp board admit card 2025, mpbse 10th admit card download, mpbs
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

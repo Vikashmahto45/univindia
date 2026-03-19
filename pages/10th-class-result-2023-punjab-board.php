@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th Class Result 2023 Punjab Board - Official PSEB Portal"; 
 $meta_description = "Check 10th Class Result 2023 Punjab Board online. Access the primary Punjab School Education Board (PSEB) Matric results for the 2023 session. Official marks link."; 
 $meta_keywords = "10th class result 2023 punjab board, check pseb 10th result 2023 online, punjab board matric result 2023 indiaresults, official 2023 punjab 10th link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "10th class result 2023 punjab board, check pseb 10th result 20
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

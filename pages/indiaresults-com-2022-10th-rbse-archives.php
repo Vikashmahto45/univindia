@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2022 10th rbse - Official Rajasthan Secondary 2022 Archive"; 
 $meta_description = "Check indiaresults.com 2022 10th rbse for Matric exams. Access the official 2022 Board of Secondary Education Rajasthan (BSER) archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

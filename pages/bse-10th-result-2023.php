@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bse 10th result 2023 - Official Secondary Education Result Portal"; 
 $meta_description = "Check bse 10th result 2023 for all boards including BSE Odisha, BSE Telangana, and more. Access the official 2023 secondary results on indiaresults for fast checking."; 
 $meta_keywords = ""; 
@@ -109,4 +109,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

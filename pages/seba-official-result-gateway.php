@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "seba - Official Assam Secondary Education Results Gateway"; 
 $meta_description = "Check seba HSLC results for Assam Class 10th exams. Access the official SEBA result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

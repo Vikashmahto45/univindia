@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 2025 link - Official Future Board Portal"; 
 $meta_description = "Check india result 2025 link online. Access the upcoming 2025 Class 10th and 12th results for all Indian State Boards via the official national mirror."; 
 $meta_keywords = "india result 2025 link, check board results 2025 online, official india results 2025 portal, state board 2025 result link, 10th 12th results 2025 search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 2025 link, check board results 2025 online, offic
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

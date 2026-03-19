@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online"; 
 $meta_description = "Download SBI Clerk Prelims Admit Card 2025. Get the direct link for State Bank of India (SBI) Junior Associate examination hall tickets at sbi.co.in."; 
 $meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associate hall ticket 2025 download, sbi.co.in login 2025, bank exam date 2025 download, sbi recruitment call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associa
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

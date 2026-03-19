@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -52,4 +52,4 @@ if (file_put_contents('sitemap.xml', $xml)) {
     echo "Failed to generate sitemap.";
 }
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

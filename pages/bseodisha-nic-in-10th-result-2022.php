@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "bseodisha.nic.in 10th Result 2022 - Official Matric Archive"; 
 $meta_description = "Check bseodisha.nic.in 10th Result 2022 online. Access the historical Board of Secondary Education Odisha Class 10th results. Official state link."; 
 $meta_keywords = "bseodisha.nic.in 10th result 2022, check bse odisha matric result 2022, odisha 10th result 2022 link, orissaresults nic in 10th result, official matric result odisha"; 
@@ -65,4 +65,4 @@ $meta_keywords = "bseodisha.nic.in 10th result 2022, check bse odisha matric res
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

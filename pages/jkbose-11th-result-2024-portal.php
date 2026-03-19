@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway"; 
 $meta_description = "Check jkbose 11th result 2024 for Class 11 exams. Access the official JKBOSE divisional result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
@@ -114,4 +114,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

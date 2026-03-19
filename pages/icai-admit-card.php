@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "ICAI Admit Card Download - CA Foundation, Inter, Final Hall Ticket | Univindia.online"; 
 $meta_description = "Download ICAI Admit Card. Get the direct link for CA Foundation, Intermediate, and Final examination hall tickets at eservices.icai.org."; 
 $meta_keywords = "icai admit card download, download ca admit card foundation inter final, eservices.icai.org login admit card, icai exam date 2024 download, chartered accountant call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "icai admit card download, download ca admit card foundation in
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

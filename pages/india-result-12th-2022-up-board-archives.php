@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result 12th 2022 up board - Official Uttar Pradesh 12th 2022 Archive"; 
 $meta_description = "Check india result 12th 2022 up board for Intermediate exams. Access the official 2022 Uttar Pradesh Board (UPMSP) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -124,4 +124,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

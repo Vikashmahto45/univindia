@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "uk board result 2022 class 12 - Official Uttarakhand Board Archive"; 
 $meta_description = "Check uk board result 2022 class 12 for Intermediate exams. Access the official 2022 Uttarakhand (UBSE) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -115,4 +115,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

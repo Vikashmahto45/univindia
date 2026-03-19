@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indianresults.com 2023 - Official National Academic Hub"; 
 $meta_description = "Access indianresults.com 2023 for all state boards and university exams. Unified portal for official examination result updates and direct links for the 2023 session."; 
 $meta_keywords = ""; 
@@ -119,4 +119,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

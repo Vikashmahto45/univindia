@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "BSE Odisha Result 2024 Class 10 - Official matric Examination Hub"; 
 $meta_description = "Check BSE Odisha Result 2024 Class 10 online. Access the Board of Secondary Education (BSE) Odisha matric results, marksheets, and school-wise stats for 2024."; 
 $meta_keywords = "bse odisha result 2024 class 10, check odisha 10th result 2024, bseodisha.ac.in 2024 matric result, odisha high school result 2024 date, bse odisha results link, official odisha matric portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "bse odisha result 2024 class 10, check odisha 10th result 2024
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

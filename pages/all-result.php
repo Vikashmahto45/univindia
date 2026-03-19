@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "all result - Official National Board Mirror"; 
 $meta_description = "Check all result online. Access the master directory for all Indian board and university results across all states and sessions."; 
 $meta_keywords = "all result, check all board results online, official national results link, search results for all exams portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "all result, check all board results online, official national 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

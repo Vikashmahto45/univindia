@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2020 10th - Official 2020 National Matric Archive"; 
 $meta_description = "Check indiaresults.com 2020 10th for all state and central board exams. Access the official 2020 Secondary archival result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -112,4 +112,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

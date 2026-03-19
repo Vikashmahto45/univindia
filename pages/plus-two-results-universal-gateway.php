@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "+2 results - Official National Higher Secondary Gateways"; 
 $meta_description = "Check +2 results for all state and central board Class 12th exams. Access the official Higher Secondary result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -114,4 +114,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

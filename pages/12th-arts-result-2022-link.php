@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "12th Arts Result 2022 - Official Rajasthan Board Mirror"; 
 $meta_description = "Check 12th Arts Result 2022 online. Access the historical Rajasthan Board (BSER) Senior Secondary Arts results for the 2022 session. Official 2022 BSER mirror link."; 
 $meta_keywords = "12th arts result 2022, check rajasthan board 12th arts result 2022 online, rbse 12th arts 2022 link, official 2022 bser arts portal, rajresults.nic.in 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "12th arts result 2022, check rajasthan board 12th arts result 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

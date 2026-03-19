@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "name wise result rbse - Official Rajasthan Board Search Hub"; 
 $meta_description = "Check name wise result rbse for 10th and 12th board exams. Access the official Rajasthan (RBSE) name-based result portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -111,4 +111,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

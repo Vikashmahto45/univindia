@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Odisha 10th Result - Official BSE Odisha Matric Result Portal"; 
 $meta_description = "Check Odisha 10th Result online. Access the Board of Secondary Education (BSE) Odisha Matriculation results, marksheets, and merit list for the current session."; 
 $meta_keywords = "odisha 10th result, bse odisha matric result, check 10th result odisha, odisha board result 2024, matric result secondary education odisha, official bse odisha portal"; 
@@ -65,4 +65,4 @@ $meta_keywords = "odisha 10th result, bse odisha matric result, check 10th resul
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

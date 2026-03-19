@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result Jammu and Kashmir - Official J&K Board Result Portal"; 
 $meta_description = "Check India Result Jammu and Kashmir online. Access the J&K Board (JKBOSE) 10th and 12th results for Jammu and Kashmir divisions. Official search-by-name links 2024."; 
 $meta_keywords = "india result jammu and kashmir, check jkbose result 2024, jammu and kashmir board result link, jkbose.nic.in 20th 12th results, official jkbose portal, jkbose search by name"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result jammu and kashmir, check jkbose result 2024, jamm
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

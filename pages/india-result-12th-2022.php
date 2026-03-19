@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "India Result 12th 2022 - Official National Education Archive"; 
 $meta_description = "Check India Result 12th 2022 for all states and boards. Access the 2022 Class 12th board results, merit lists, and official marksheets online."; 
 $meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12 result india, official 12th marksheet online, cbse 12th result 2022, state board results 2022"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

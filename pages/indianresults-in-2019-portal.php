@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indianresults in 2019 - Official National Board Mirror"; 
 $meta_description = "Check indianresults in 2019 online. Access the historical results for all Indian State Boards and Universities for the 2019 session."; 
 $meta_keywords = "indianresults in 2019, check class 10/12 result 2019 online, official board marksheet link, indiaresults 2019 portal search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "indianresults in 2019, check class 10/12 result 2019 online, o
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result mp 10th - Official MPBSE Result Portal"; 
 $meta_description = "Check india result mp 10th for Class 10 High School. Access the official Madhya Pradesh Board result mirror on indiaresults.com for fast result checking."; 
 $meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th result 2024, MP board 10th result indiaresults, check mp result 10th"; 
@@ -122,4 +122,4 @@ $meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th r
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

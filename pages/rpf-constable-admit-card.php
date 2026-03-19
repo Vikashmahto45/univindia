@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -196,4 +196,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

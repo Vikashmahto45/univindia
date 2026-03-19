@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th result 2023 jac board jharkhand - Official JAC Secondary 2023 Archive"; 
 $meta_description = "Check 10th result 2023 jac board jharkhand for JAC Board exams. Access the official 2023 Jharkhand Academic Council (JAC) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -121,4 +121,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

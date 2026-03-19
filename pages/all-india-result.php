@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "All India Result - Official National Result verification Portal"; 
 $meta_description = "Check All India Result online. Access the high-speed national and state board result verification framework. Official 10th, 12th, and Degree marks link cluster."; 
 $meta_keywords = "all india result, check board results online all india, high speed result portal india, official all india result link, board and university results 2024"; 
@@ -65,4 +65,4 @@ $meta_keywords = "all india result, check board results online all india, high s
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

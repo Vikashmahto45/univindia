@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Rajasthan Board 12th Arts Result 2022 - Official RBSE Archive"; 
 $meta_description = "Check Rajasthan Board 12th Arts Result 2022 online. Access the historical RBSE Senior Secondary (12th) Arts results for the 2022 session. Official marks."; 
 $meta_keywords = "rajasthan board 12th arts result 2022, check rbse 12th arts result 2022 online, rbse 12 arts result 2022 indiaresults, official 2022 rbse arts link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "rajasthan board 12th arts result 2022, check rbse 12th arts re
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

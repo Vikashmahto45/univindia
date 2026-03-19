@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "MJPRU Result 2024 - Official Rohilkhand University Results Hub"; 
 $meta_description = "Check MJPRU Result 2024 online. Access the Mahatma Jyotiba Phule Rohilkhand University (Bareilly) UG/PG results. Official semester marks and merit list link."; 
 $meta_keywords = "mjpru result 2024, check rohilkhand university result 2024, mjpru bareilly ug pg result online, mjpru semester result 2024, official mjpru exam result link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "mjpru result 2024, check rohilkhand university result 2024, mj
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online"; 
 $meta_description = "Download SSCER Stenographer Grade C & D Admit Card 2024 for Eastern Region. Check application status, exam date, and skill test hall ticket at sscer.org."; 
 $meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer hall ticket, sscer.org steno status, ssc steno grade c d admit card download"; 
@@ -97,4 +97,4 @@ $meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer h
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

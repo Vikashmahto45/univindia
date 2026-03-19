@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "OTET Admit Card 2021 Download - Odisha Teacher Eligibility Test Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download OTET Admit Card 2021. Get the direct link for Odisha Teacher Eligibility Test (OTET) examination hall tickets at bseodisha.ac.in."; 
 $meta_keywords = "otet admit card 2021, bse odisha teacher hall ticket download, otet.nic.in admit card link, odisha tet 2021 hall ticket download, teacher eligibility test odisha"; 
@@ -92,4 +92,4 @@ $meta_keywords = "otet admit card 2021, bse odisha teacher hall ticket download,
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "10th class result telangana - Official TS Secondary Result Archive"; 
 $meta_description = "Check 10th class result telangana for SSC (Class 10) exams. Access the official Telangana State Secondary (BSE) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

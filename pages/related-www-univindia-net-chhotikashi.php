@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Related Www Univindia Net Chhotikashi - MGSU Bikaner News Portal"; 
 $meta_description = "Access MGSU Bikaner news and results via the Chhotikashi entry points on Univindia Net. Official guide to regional university updates online."; 
 $meta_keywords = "related www.univindia.net chhotikashi"; 
@@ -52,4 +52,4 @@ $meta_keywords = "related www.univindia.net chhotikashi";
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

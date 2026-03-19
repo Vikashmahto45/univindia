@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "indiaresults.com 2022 10th rbse - Official Rajasthan Result Archive"; 
 $meta_description = "Check indiaresults.com 2022 10th rbse for Class 10th Secondary examinations. Access the official 2022 Rajasthan (BSER) result archive on indiaresults."; 
 $meta_keywords = ""; 
@@ -112,4 +112,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
@@ -182,4 +182,4 @@ $meta_keywords = "";
 }
 </style>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

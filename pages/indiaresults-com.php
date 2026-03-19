@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indiaresults com - official National Results Portal and Mirror Site Hub"; 
 $meta_description = "Check Indiaresults com for official board and university results across India. Access the latest 10th, 12th, and degree result links, merit lists, and name-wise search."; 
 $meta_keywords = "indiaresults com, india results com, indiaresults.com 2024, indiaresults name wise search, national results portal indiaresults, india results board 10th 12th"; 
@@ -64,4 +64,4 @@ $meta_keywords = "indiaresults com, india results com, indiaresults.com 2024, in
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

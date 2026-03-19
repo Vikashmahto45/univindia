@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "hs result 2021 assam seba board - Official Assam 2021 Archive"; 
 $meta_description = "Check Assam Board (SEBA) HS result 2021 on hs result 2021 assam seba board. Access the official Assam Class 12 archival results on indiaresults."; 
 $meta_keywords = ""; 
@@ -122,4 +122,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

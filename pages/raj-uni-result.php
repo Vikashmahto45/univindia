@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "raj uni result - Official Rajasthan University Result Portal"; 
 $meta_description = "Check raj uni result for BA, BSc, BCom, MA, MSc, and MCom examinations. Access the official Rajasthan University (Uniraj) result gateway on indiaresults for the latest updates."; 
 $meta_keywords = ""; 
@@ -109,4 +109,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

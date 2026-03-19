@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "Indiaresults.com 2023 Link - Official Board Result Archive Gateway"; 
 $meta_description = "Check Indiaresults.com 2023 Link online. Access the direct high-speed result links for all Indian state boards for the 2023 session. Search by name or roll number."; 
 $meta_keywords = "indiaresults.com 2023 link, click to check indiaresult 2023, direct indiaresults 2023 portal, state board result 2023 mirror, official indiaresult 2023 backup"; 
@@ -66,4 +66,4 @@ $meta_keywords = "indiaresults.com 2023 link, click to check indiaresult 2023, d
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

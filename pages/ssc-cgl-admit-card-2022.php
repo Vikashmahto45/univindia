@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download SSC CGL Admit Card 2022. Get the direct link for Staff Selection Commission Combined Graduate Level examination hall tickets at ssc.nic.in."; 
 $meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, ssc.nic.in admit card login, ssc cgl exam date 2022, ssc cgl tier 2 call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, 
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

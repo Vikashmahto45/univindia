@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "inter results 2024 - Official National Gateway"; 
 $meta_description = "Check inter results 2024 online. Access the results for all major state intermediate and senior secondary boards for the 2024 session."; 
 $meta_keywords = "inter results 2024, check intermediate result 2024 online, official national inter hub, 12th board result 2024 search"; 
@@ -65,4 +65,4 @@ $meta_keywords = "inter results 2024, check intermediate result 2024 online, off
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

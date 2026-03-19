@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "pseb. ac. in result 10th 2022 - Official Punjab Secondary 2022 Archive"; 
 $meta_description = "Check pseb. ac. in result 10th 2022 for Matric exams. Access the official 2022 Punjab School Education Board (PSEB) archival portal on indiaresults."; 
 $meta_keywords = ""; 
@@ -123,4 +123,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

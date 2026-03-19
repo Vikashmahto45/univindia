@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "8 class result 2022 - Official National Mirror Archives"; 
 $meta_description = "Check 8 class result 2022 online. Access the historical results for Class 8 from Punjab (PSEB), Rajasthan (RBSE), and other major boards for the 2022 session."; 
 $meta_keywords = "8 class result 2022, check 8th result 2022 online, official class 8 mirror link, pseb 8th 2022, rbse 8th 2022 results"; 
@@ -65,4 +65,4 @@ $meta_keywords = "8 class result 2022, check 8th result 2022 online, official cl
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

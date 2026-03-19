@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub"; 
 $meta_description = "Check jac board 12th result 2024 for Intermediate exams. Access the official Jharkhand Academic Council (JAC) result portal mirror on indiaresults."; 
 $meta_keywords = ""; 
@@ -125,4 +125,4 @@ $meta_keywords = "";
     </section>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "india result com 2022 - Official National Board result Archive"; 
 $meta_description = "Check india result com 2022 online. Access the historical national and state board results for the 2022 session. Official mirror marks link cluster."; 
 $meta_keywords = "india result com 2022, check board results online 2022, indiaresults com 10th 2022, indiaresults com 12th 2022, official 2022 mirror link"; 
@@ -65,4 +65,4 @@ $meta_keywords = "india result com 2022, check board results online 2022, indiar
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

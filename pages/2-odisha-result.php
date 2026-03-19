@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "2 Odisha Result - Official Odisha +2 Result Hub"; 
 $meta_description = "Check 2 Odisha Result online. Access the high-speed CHSE Odisha +2 Science, Commerce, and Arts results. Official 12th marks link cluster."; 
 $meta_keywords = "2 odisha result, check chse odisha +2 results online, orissaresults.nic.in +2, official odisha 12th result link, chse odisha 2024 results"; 
@@ -65,4 +65,4 @@ $meta_keywords = "2 odisha result, check chse odisha +2 results online, orissare
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

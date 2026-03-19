@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "board result 2023 - Official National Board Hub"; 
 $meta_description = "Check board result 2023 for CBSE, ICSE, UP Board, Bihar Board, and all state boards. Access the official 10th and 12th board result 2023 portal."; 
 $meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2023, check board result online, all state board results 2023"; 
@@ -119,4 +119,4 @@ $meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

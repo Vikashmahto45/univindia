@@ -1,5 +1,5 @@
 <?php 
-include '../header.php'; 
+include '../includes/header.php'; 
 $page_title = "CUET Admit Card 2023 Download - NTA Common University Entrance Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download CUET Admit Card 2023. Get the direct link for NTA CUET UG/PG entrance examination hall tickets at cuet.samarth.ac.in."; 
 $meta_keywords = "cuet admit card 2023, nta cuet hall ticket download, cuet.samarth.ac.in admit card login, cuet pg admit card 2023, common university entrance test call letter"; 
@@ -92,4 +92,4 @@ $meta_keywords = "cuet admit card 2023, nta cuet hall ticket download, cuet.sama
     </div>
 </div>
 
-<?php include '../footer.php'; ?>
+<?php include '../includes/footer.php'; ?>
