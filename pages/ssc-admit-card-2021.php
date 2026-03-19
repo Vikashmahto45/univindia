@@ -1,0 +1,98 @@
+<?php
+require_once 'includes/config.php';
+$page_title = "SSC Admit Card 2021 Download - Staff Selection Commission Hall Ticket | Univindia.online";
+$meta_description = "Download SSC Admit Card 2021. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD 2021 exam hall tickets at ssc.nic.in.";
+$meta_keywords = "ssc admit card 2021, ssc.nic.in admit card download, ssc cgl 2021 hall ticket download, ssc gd 2021 admit card link, ssc chsl 2021 call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
+    <div class="content-card">
+        <h2 class="gold-text">SSC Admit Card 2021: Download Staff Selection Commission Hall Ticket</h2>
+        
+        <div class="post-meta">
+            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
+        </div>
+
+        <div class="alert-box">
+            <strong>SSC 2021 Archive:</strong> The Staff Selection Commission (SSC) conducted various national-level recruitment exams in 2021 including CGL, CHSL, MTS, and GD Constable. Candidates looking for old hall tickets or recruitment records for the 2021 session can access the official regional SSC portals.
+        </div>
+
+        <p>The <strong>SSC Admit Card 2021</strong> is a historic and vital document for millions of government job aspirants in India who participated in various recruitment drives under the Staff Selection Commission. Known for conducting the country's largest competitive exams, the SSC covered positions from Group B (Gazetted) to Group C (Technical and Non-Technical) in 2021. Obtaining your <strong>SSC Regional Hall Ticket 2021</strong> was the mandatory verification step for appearing in the high-security Computer Based Test (CBT) centers across India. This page serves as a centralized gateway for <strong>Staff Selection 2021 Call Letter</strong> links and detailed session-wise archival information for all 9 regions.</p>
+
+        <h3 class="gold-text">SSC 2021 Recruitment Cycle Overview</h3>
+        <table class="data-table">
+            <tr>
+                <th>Conducting Body</th>
+                <td>Staff Selection Commission (SSC)</td>
+            </tr>
+            <tr>
+                <th>Reporting HQ</th>
+                <td>Lok Nayak Bhawan, New Delhi</td>
+            </tr>
+            <tr>
+                <th>Key Exams 2021</th>
+                <td>CGL, CHSL, MTS, GD, JE, Stenographer</td>
+            </tr>
+            <tr>
+                <th>Admit Card Access</th>
+                <td>Registration ID / Roll No based login</td>
+            </tr>
+            <tr>
+                <th>Official Website</th>
+                <td>ssc.nic.in (Main) | ssc.gov.in (New)</td>
+            </tr>
+        </table>
+
+        <h3 class="gold-text">Significance of the Staff Selection Call Letter 2021</h3>
+        <p>The <strong>Staff Selection Call Letter 2021</strong> is far more than a simple permit; it is a legally verified identity document issued by the commission that confirms your specific examination slot in a nation-wide CBT environment. Since the SSC exams are conducted in multiple shifts over several weeks, your admit card strictly mentions your <strong>Unique Roll Number</strong>, <strong>Assigned Shift (Morning, Afternoon, Evening)</strong>, and the <strong>Exact Venue Center Address</strong>. More importantly, it features the <strong>Shift-wise Instructions</strong> and the mandatory health undertaking that was part of the 2021 protocol. Verifying your venue details on the official hall ticket was a mandatory step for every aspirant to ensure they reached the correct destination on time as per the timeframe mentioned on the <strong>SSC Admit Card</strong>.</p>
+
+        <h3 class="gold-text">Steps to Download SSC Admit Card 2021</h3>
+        <p>While the 2021 session is concluded, candidates can follow these steps on the regional portals to retrieve their document:</p>
+        <ol>
+            <li>Visit the main portal: <strong>ssc.nic.in</strong>.</li>
+            <li>Click on the "Admit Card" tab displayed on the top navigation bar.</li>
+            <li>A list of 9 regional URLs (NR, WR, SR, etc.) will appear. Click on your regional link.</li>
+            <li>On the regional homepage, navigate to the "Latest News" or "Archive" marquee.</li>
+            <li>Look for the link: "Download e-Admit Card for [Specific Exam] - 2021".</li>
+            <li>A secure login interface provided by the Commission will appear.</li>
+            <li>Enter your 11-digit <strong>Registration ID</strong> (received during registration).</li>
+            <li>Alternatively, use your 10-digit <strong>Roll Number</strong> if you have it.</li>
+            <li>Input your <strong>Date of Birth</strong> (DD-MM-YYYY) correctly.</li>
+            <li>Solve the numerical security captcha shown on the page.</li>
+            <li>Click on 'Search' or 'Download' to view your <strong>SSC 2021 Admit Card PDF</strong>.</li>
+        </ol>
+
+        <h3 class="gold-text">SSC Exam Pattern and Marking Logic 2021</h3>
+        <p>Aspirants can learn from the 2021 pattern printed on the <strong>Staff Selection Hall Ticket</strong> instructions:</p>
+        <ul>
+            <li><strong>TIER-1 Phase:</strong> Math, Reasoning, English, and GK (200 Marks).</li>
+            <li><strong>Negative Marking:</strong> 0.50 marks deduction for each wrong answer in CGL/CHSL.</li>
+            <li><strong>Duration:</strong> 60 Minutes (CBT mode) for objective papers.</li>
+            <li><strong>Identity Verification:</strong> Biometric and photo verification at the center.</li>
+        </ul>
+        <p>Note that for the 2021 session, the commission enforced strict rules regarding the reporting time and behavioral conduct. Candidates were advised to read the "Exam Instructions" page on the admit card carefully regarding the prohibition of electronic devices and the use of the mask as part of safe conduct.</p>
+
+        <h3 class="gold-text">Mandatory Documents on Commission Exam Day</h3>
+        <p>Staff Selection Commission venues follow high-standard verification and security protocols. Ensure you carry:</p>
+        <ol>
+            <li><strong>Printed Admit Card:</strong> A clear physical copy (with parent/candidate signatures).</li>
+            <li><strong>Original Identity Proof:</strong> Aadhar Card, Voter ID, or DL (Matching ID in application).</li>
+            <li><strong>Photographs:</strong> Two recent passport-size photos for the attendance tracker.</li>
+            <li><strong>Self-Declaration:</strong> In 2021, a mandatory health self-declaration regarding COVID was part of the hall ticket.</li>
+        </ol>
+
+        <h3 class="gold-text">Troubleshooting Registration ID and Regional Login issues</h3>
+        <p>If you face a "Data Not Found" error on your <strong>Regional SSC Website</strong>, verify the registration number from the confirmation email or search for 'SSC' in your mobile's SMS inbox. If you have misplaced your ID, use the 'Forgot Registration Number' utility on the recruit portal by providing your name and father's name for retrieval through OTP. During initial hours of release, the regional servers might experience heavy load; try downloading your <strong>Staff Selection 2021 Recruitment Hall Ticket</strong> during late-night windows. For persistent discrepancies like your name misspelled or photo missing on the admit card, candidates usually had to visit the Regional SSC office in their district for a manual correction before the exam session began.</p>
+        
+        <p>Securing a post in the central government via SSC is a journey of profoundly pride and stable commitment. Your journey towards becoming a public servant starts with precise documentation and a resolute heart. Univindia.online serves as your digital companion by providing you with archived and current links for all SSC updates. We value the journey of every aspirant in the country. Lead the future of India!</p>
+
+        <div class="cta-section">
+            <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
+            <a href="latest-jobs.php" class="hot-btn bg-gold">Search SSC Jobs</a>
+        </div>
+    </div>
+</div>
+
+<?php include '../includes/footer.php'; ?>
+

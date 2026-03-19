@@ -1,0 +1,37 @@
+<?php
+$page_title = "BSc 1st Year Result 2023 - Download University BSc Part 1 Marksheet";
+$keyword = "bsc 1st year result 2023";
+$description = "Check BSc 1st Year Result 2023 online. Access University BSc Part 1 exam results, marksheet download, and pass percentage for all major universities in India.";
+include '../header.php';
+?>
+
+<div class="result-container">
+    <h1>BSc 1st Year Result 2023</h1>
+    
+    <div class="info-box">
+        <p>The <strong>BSc 1st Year Result 2023</strong> has been announced by various universities across India. Students who appeared for the Bachelor of Science Part 1 examination can now check their results and download their marksheet using their roll number and name.</p>
+    </div>
+
+    <div class="action-section">
+        <a href="https://www.univindia.org/" class="btn-primary">Check BSc 1st Year Result 2023</a>
+    </div>
+
+    <div class="content-section">
+        <h2>How to Check BSc Part 1 Result 2023?</h2>
+        <p>Follow these simple steps to access your result:</p>
+        <ul>
+            <li>Visit the official website of your respective university.</li>
+            <li>Navigate to the 'Results' or 'Examination' portal.</li>
+            <li>Select the link for 'BSc 1st Year/Part 1 Result 2023'.</li>
+            <li>Enter your Roll Number or Name as required.</li>
+            <li>Click on 'Submit' to view your marksheet.</li>
+            <li>Download and take a printout for future reference.</li>
+        </ul>
+
+        <h2>University-wise BSc 1st Year Results</h2>
+        <p>Most universities like RU, MGSU, MDSU, MLSU, and others have updated their portals with the latest BSc results. Ensure you have your admit card ready to verify the details.</p>
+    </div>
+</div>
+
+<?php include '../footer.php'; ?>
+

@@ -1,0 +1,96 @@
+<?php
+require_once 'includes/config.php';
+$page_title = "MP Patwari Admit Card 2023 Download - MPESB Group 2 Sub Group 4 Hall Ticket | Univindia.online";
+$meta_description = "Download MP Patwari Admit Card 2023. Get the direct link for Madhya Pradesh Patwari (Group 2 Sub Group 4) recruitment examination hall tickets at esb.mp.gov.in.";
+$meta_keywords = "mp patwari admit card 2023 download, mp esb patwari hall ticket download, esb.mp.gov.in patwari login 2023, mp patwari exam date 2023 download, revenue officer call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
+    <div class="content-card">
+        <h2 class="gold-text">MP Patwari Admit Card 2023: Download Madhya Pradesh Revenue Recruitment Hall Ticket</h2>
+        
+        <div class="post-meta">
+            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
+        </div>
+
+        <div class="alert-box">
+            <strong>MP Patwari 2023 Archive:</strong> The Madhya Pradesh Employees Selection Board (MPESB) conducted the massive Patwari and Group 2 Sub Group 4 recruitment exam in 2023. Candidates looking for old hall tickets or merit records for the 2023 session can access the official portal archive at esb.mp.gov.in.
+        </div>
+
+        <p>The <strong>MP Patwari admit card 2023</strong> is a historic and vital document for millions of job seekers in Madhya Pradesh who participated in one of the state's largest recruitment drives for the Revenue Department. Conducted by the MP Employees Selection Board (MPESB), formerly known as PEB, the Patwari 2023 recruitment was the definitive gateway for administrative roles at the village level across Madhya Pradesh. Obtaining your <strong>Madhya Pradesh Patwari 2023 Hall Ticket</strong> was the mandatory verification step for appearing in the high-security Computer Based Test (CBT) centers. This page serves as a centralized gateway for <strong>MP Revenue Recruitment Call Letter 2023</strong> links and detailed session-wise archival information for the various recruitment stages.</p>
+
+        <h3 class="gold-text">MP Patwari (Group 2 Sub Group 4) 2023 Highlights</h3>
+        <table class="data-table">
+            <tr>
+                <th>Conducting Body</th>
+                <td>MP Employees Selection Board (MPESB)</td>
+            </tr>
+            <tr>
+                <th>Recruitment Name</th>
+                <td>Patwari & Group 2 Sub Group 4 Direct Recruitment</td>
+            </tr>
+            <tr>
+                <th>Total Posts</th>
+                <td>9,000+ (Across Madhya Pradesh)</td>
+            </tr>
+            <tr>
+                <th>Admit Card Access</th>
+                <td>Application No & Date of Birth based login</td>
+            </tr>
+            <tr>
+                <th>Official Website</th>
+                <td>esb.mp.gov.in | peb.mp.gov.in</td>
+            </tr>
+        </table>
+
+        <h3 class="gold-text">Significance of the 2023 Patwari Recruitment Admit Card</h3>
+        <p>The <strong>2023 Patwari Recruitment Admit Card</strong> is far more than a simple permit; it is a legally verified identity document issued by the MPESB that confirmed your specific examination slot in a nation-wide competitive environment. Since the Patwari exam was conducted in multiple shifts over several weeks, your admit card strictly mentioned your <strong>Unique Roll Number</strong>, <strong>Assigned Shift (Morning/Evening)</strong>, and the <strong>Exact Venue Center Address</strong>. More importantly, it featured the <strong>Subject Specific Instructions</strong> and the mandatory behavioral guidelines for revenue cadres. Verifying your venue details on the official hall ticket was a mandatory step for every aspirant to ensure they reached the correct destination exactly as per the timeframe mentioned on the <strong>MP Patwari Admit Card 2023</strong>.</p>
+
+        <h3 class="gold-text">Steps to Download MP Patwari Admit Card 2023</h3>
+        <p>While the 2023 session is concluded, candidates can follow these steps on the MPESB portal to retrieve their document:</p>
+        <ol>
+            <li>Visit the official portal of MPESB: <strong>esb.mp.gov.in</strong>.</li>
+            <li>On the homepage, click on the "Admit Card" tab displayed on the top navigation bar.</li>
+            <li>Search for the link: "Group-2 (Sub Group-4) Sahayak Samparikshak, Patwari and other post-2023".</li>
+            <li>A secure login interface provided by the Board will appear.</li>
+            <li>Enter your 13-digit <strong>Application Number</strong> (received during registration).</li>
+            <li>Select your <strong>Date of Birth</strong> (DD-MM-YYYY) correctly.</li>
+            <li>Solve the numerical security captcha shown on the page.</li>
+            <li>Click on 'Search' to view your <strong>MP Patwari 2023 Admit Card PDF</strong>.</li>
+            <li>Download the document and print it on clear A4 size white paper for your records.</li>
+        </ol>
+
+        <h3 class="gold-text">MP Patwari Exam Pattern and Marking Scale 2023</h3>
+        <p>Aspirants can learn from the 2023 pattern printed on the <strong>MP Revenue Recruitment Hall Ticket</strong> instructions:</p>
+        <ul>
+            <li><strong>Structure:</strong> 200 Multiple Choice Questions (MCQs) in high-security CBT mode.</li>
+            <li><strong>Syllabus:</strong> GK, Lang (Hindi/Eng), Math, Science, Computer, and Management.</li>
+            <li><strong>Marking Logic:</strong> Each question carries 1 mark; No negative marking was applied.</li>
+            <li><strong>Duration:</strong> 180 Minutes (3 Hours) for a complete attempt.</li>
+        </ul>
+        <p>Note that for the 2023 session, the board enforced strict rules regarding the reporting time and behavioral conduct. Candidates were advised to read the "Advisory for Candidates" page on the admit card carefully regarding the prohibition of electronic devices and the use of the transparent blue pen.</p>
+
+        <h3 class="gold-text">Mandatory Documents on Revenue Exam Day 2023</h3>
+        <p>Madhya Pradesh examination venues follow high-standard verification and security protocols. Ensure you carry:</p>
+        <ol>
+            <li><strong>Printed Admit Card:</strong> A clear physical copy (with parent/candidate signature).</li>
+            <li><strong>Original Identity Proof:</strong> Aadhar Card or Voter ID (Matching ID in application).</li>
+            <li><strong>Photographs:</strong> One passport-size photo for the attendance tracker folder.</li>
+            <li><strong>Stationery:</strong> Carry your own transparent blue ballpoint pen for signing formalities.</li>
+        </ol>
+
+        <h3 class="gold-text">Troubleshooting Registration ID and Regional Login issues</h3>
+        <p>If you face a "Data Not Found" error on <strong>esb.mp.gov.in</strong>, verify the application number from the confirmation page of the Patwari form. If you have misplaced your number, use the 'Forgot Application Number' utility on the recruit portal by providing your name and registered mobile number for retrieval. During peak hours (just after release), the state servers might experience heavy load; try downloading your <strong>Madhya Pradesh National Hall Ticket</strong> during late-night windows. For persistent discrepancies like your name misspelled or photo missing on the admit card, candidates usually had to visit the board offices in Bhopal for a manual correction before the exam date began.</p>
+        
+        <p>Joining the Revenue Department in Madhya Pradesh via Patwari is a journey of profoundly pride and professional commitment. Your journey towards village-level administration starts with precise documentation and a resolute heart. Univindia.online serves as your digital companion by providing you with archived and current links for all MP Patwari updates. We value the journey of every revenue worker in the state. Serve the nation with dedication!</p>
+
+        <div class="cta-section">
+            <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
+            <a href="results.php" class="hot-btn bg-gold">Search Revenue Jobs</a>
+        </div>
+    </div>
+</div>
+
+<?php include '../includes/footer.php'; ?>
+
