@@ -7,9 +7,27 @@ $meta_keywords = "10th result search by name 2024, check 10th result name wise 2
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Result Search By Name 2024 - Official Name-Wise Matric Gateway</div>
-    <h2 class='sr-title'>10th Result Search By Name 2024: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), Secondary School Certificate (SSC), and Madhyamik (High School) Name-Wise Result Gateways (Board of Secondary Education Rajasthan, Punjab School Education Board, and Various State Board Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>10th Result Search By Name 2024 - Official Name-Wise Matric Gateway</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th Result Search By Name 2024 - Official Name-Wise Matric Gateway"; 
+$meta_description = "Check 10th Result Search By Name 2024 online. Access the name-wise search for Rajasthan, Punjab, and other state boards for the 20th matriculation session."; 
+$meta_keywords = "10th result search by name 2024, check 10th result name wise 2024, board result name search 2024, click to check 10th result by name, official name wise result portal, check matric result by name"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th Result Search By Name 2024 - Official Name-Wise Matric Gateway";
+$meta_description = "Check 10th Result Search By Name 2024 online. Access the name-wise search for Rajasthan, Punjab, and other state boards for the 20th matriculation session.";
+$meta_keywords = "10th result search by name 2024, check 10th result name wise 2024, board result name search 2024, click to check 10th result by name, official name wise result portal, check matric result by name";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "10th result search by name 2024, check 10th result name wise 2
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Download Digital Marksheet</a>
                 <a href="https://pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="PSEB Results Hub" target="_blank">Visit PSEB Name Search</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via 10th Result Search By Name 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your respective board via Name, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "10th result search by name 2024, check 10th result name wise 2
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 10th Result Search By Name 2024, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th Result Search By Name 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "10th result search by name 2024, check 10th result name wise 2
         <br>
         <strong>3. Is the result from 10th Result Search By Name 2024 valid for global use?</strong>
         <p>Yes, your board results (verified via the official "10th Result Search By Name 2024" portal or DigiLocker) are the accepted records for applying to international schools or job visas in 2024-25.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

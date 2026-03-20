@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2024 - Official Secondary Board Result Gateway</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>india result 10th 2024 - Official Secondary Board Result Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 10th 2024 - Official Secondary Board Result Gateway"; 
+$meta_description = "Check india result 10th 2024 for all state and central boards. Access the latest 2024 secondary board exam results on indiaresults for fast checking and name-wise search."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -18,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -37,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Find 20th 2024 results using student names.</p>
                     <a href="https://indiaresults.com" class="gateway-link">View Result</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -75,8 +84,7 @@ $meta_keywords = "";
                     <strong>indiaresults.com</strong>, the 2024 batch can expect near-instantaneous result retrieval,
                     including provisional certificates that are vital for the immediate selection of intermediate
                     streams and vocational courses.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,27 +97,26 @@ $meta_keywords = "";
                         <p>Declaration dates vary by board, but most <strong>india result 10th 2024</strong> updates are
                             expected between late April and early June. Stay tuned to our portal for board-specific
                             notifications.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2024 results using my name only?</button>
                     <div class="faq-answer">
                         <p>Yes, many boards supported on <strong>india result 10th 2024</strong> provide a name-wise
                             search feature, which is particularly helpful if you don't have your roll number handy.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online 2024 result sufficient for admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>india result 10th 2024</strong> online marksheet is provisional. It is generally
                             accepted for initial college applications, but you must submit the original certificate
                             later for final verification.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

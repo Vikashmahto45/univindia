@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in</div>
-    <h2 class='sr-title'>CUET Admit Card 2024 Download: UG Hall Ticket & Exam Schedule</h2>
+    <h2 class='sr-title'>CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in";
+$page_description = "Download CUET Admit Card 2024 for UG courses. Get direct link for NTA CUET Hall Ticket, Exam Schedule, and subject-wise exam dates. 800+ words of detailed info.";
+$page_keywords = "CUET Admit Card 2024, CUET UG Hall Ticket Download, NTA CUET 2024 Admit Card, CUET Exam Date 2024, cuet.samarth.ac.in admit card";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -101,8 +120,7 @@ $meta_keywords = "";
                     <div class="card-body p-1">
                         <p class="text-light-gray small mb-2"><strong>Dress Code:</strong> Wear light clothes with half-sleeves. Footwear should be slippers or sandals with low heels. Shoes are generally not permitted.</p>
                         <p class="text-light-gray small mb-0"><strong>Time Management:</strong> Reach the center at least 90 minutes before the session starts. GATE CLOSES strictly 30 minutes before the start of the paper.</p>
-                    </div>
-                </div>
+                    
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Common FAQs about CUET Admit Card 2024</h2>
                 <div class="accordion accordion-flush shadow-sm" id="cuetFaq">
@@ -115,8 +133,7 @@ $meta_keywords = "";
                         <div id="cuetQ1" class="accordion-collapse collapse" data-bs-parent="#cuetFaq">
                             <div class="accordion-body text-light-gray">
                                 Don't panic. NTA releases admit cards in phases. If your remaining subjects are scheduled for a later date, the hall ticket for those will be released a few days before their specific shift.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -127,8 +144,7 @@ $meta_keywords = "";
                         <div id="cuetQ2" class="accordion-collapse collapse" data-bs-parent="#cuetFaq">
                             <div class="accordion-body text-light-gray">
                                 No center changes are entertained by NTA once the admit card is printed. The decision on the venue is final.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -139,10 +155,8 @@ $meta_keywords = "";
                         <div id="cuetQ3" class="accordion-collapse collapse" data-bs-parent="#cuetFaq">
                             <div class="accordion-body text-light-gray">
                                 For any tech support, contact 011-40759000 or write to cuet-ug@nta.ac.in with your application number.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Quick Links</h5>
@@ -150,14 +164,14 @@ $meta_keywords = "";
                         <a href="neet-admit-card-2024.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">NEET Admit Card</a>
                         <a href="ssc-gd-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">SSC GD Admit Card</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> University Admit Cards</h3>
                 <div class="row g-3">
+                    <?php
                     $uni = [
                         'mjpru-admit-card.php' => 'MJPRU Exam Admit Card',
                         'ccs-university-admit-card.php' => 'CCSU Hall Ticket',
@@ -171,11 +185,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -203,6 +216,12 @@ $meta_keywords = "";
     transform: translateY(-5px);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

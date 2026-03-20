@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result 2023 odisha date - Official Odisha Secondary 2023 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th result 2023 odisha date - Official Odisha Secondary 2023 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th result 2023 odisha date - Official Odisha Secondary 2023 Archive"; 
+$meta_description = "Check 10th result 2023 odisha date and notification. Access the official 2023 Odisha academic result portal, declaration dates, and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Odisha Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify the official 2023 Odisha board result declaration timeline and student performance
                         statistics on indiaresults.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -93,8 +100,7 @@ $meta_keywords = "";
                     archive hub is essential for students to complete their academic verification and proof of
                     performance during school-level transition and registration processes even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -106,28 +112,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The official <strong>10th result 2023 odisha date</strong> was in the third week of May 2023,
                             marking the successful completion of the HSC session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 Odisha 10th result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th result 2023 odisha date</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated name-wise search for candidates of the
                             2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for HS (+2) admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10th result 2023 odisha date</strong>
                             archive is a valid provisional document accepted for initial school or college registration
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

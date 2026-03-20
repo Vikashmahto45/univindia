@@ -7,9 +7,27 @@ $meta_keywords = "india results ts inter 2022, ts inter results 2022 indiaresult
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Results TS Inter 2022 - Official Telangana 1st and 2nd Year Results Hub</div>
-    <h2 class='sr-title'>India Results TS Inter 2022: Reclaiming the Academic Successes of the Telangana Senior Secondary Class</h2>
+    <h2 class='sr-title'>India Results TS Inter 2022 - Official Telangana 1st and 2nd Year Results Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Results TS Inter 2022 - Official Telangana 1st and 2nd Year Results Hub"; 
+$meta_description = "Check India Results TS Inter 2022 for official Telangana Board for Intermediate Education (TSBIE) scores. Access the 2022 archival results, merit lists, and marksheet downloads."; 
+$meta_keywords = "india results ts inter 2022, ts inter results 2022 indiaresults, tsbie result 2022, telangana intermediate result 2022 archive, ts inter 1st 2nd year results 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Results TS Inter 2022 - Official Telangana 1st and 2nd Year Results Hub";
+$meta_description = "Check India Results TS Inter 2022 for official Telangana Board for Intermediate Education (TSBIE) scores. Access the 2022 archival results, merit lists, and marksheet downloads.";
+$meta_keywords = "india results ts inter 2022, ts inter results 2022 indiaresults, tsbie result 2022, telangana intermediate result 2022 archive, ts inter 1st 2nd year results 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "india results ts inter 2022, ts inter results 2022 indiaresult
                 <a href="http://telangana.indiaresults.com" class="btn" title="TS Inter Result Name Wise search" target="_blank">IndiaResults Telangana</a>
                 <a href="http://results.cgg.gov.in" class="btn" title="TS Government Results Gateway" target="_blank">TS Results Official Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Results TS Inter 2022</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "india results ts inter 2022, ts inter results 2022 indiaresult
         <br>
         <strong>3. Is the online provisional TS Inter marks memo valid for Degree/B.Tech admission?</strong>
         <p>Yes, for the initial rounds of online counseling and seat allocation across India, the computer-generated "India Results TS Inter 2022" scorecard is fully accepted as proof of your intermediate qualification until the original Marks Memo is provided.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

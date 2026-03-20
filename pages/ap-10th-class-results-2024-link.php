@@ -7,11 +7,27 @@ $meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap 10th class results 2024 - Official BSEAP SSC Portal</div>
-    <h2 class='sr-title'>ap 10th class results 2024: Your Comprehensive Navigator to Board of Secondary Education Andhra Pradesh
-            (BSEAP), SSC Public Examinations, and National Informatics Centre (NIC) Result Gateways Across Andhra
-            Pradesh</h2>
+    <h2 class='sr-title'>ap 10th class results 2024 - Official BSEAP SSC Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "ap 10th class results 2024 - Official BSEAP SSC Portal"; 
+$meta_description = "Check ap 10th class results 2024 online. Access the official Board of Secondary Education Andhra Pradesh SSC result portal and marksheet download."; 
+$meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th result online, BSEAP results 2024, Andhra Pradesh 10th result"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "ap 10th class results 2024 - Official BSEAP SSC Portal";
+$meta_description = "Check ap 10th class results 2024 online. Access the official Board of Secondary Education Andhra Pradesh SSC result portal and marksheet download.";
+$meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th result online, BSEAP results 2024, Andhra Pradesh 10th result";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -69,8 +85,7 @@ $meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th
                 <a href="https://results.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="National Portal" target="_blank">National Result Gateway</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official ap 10th class results 2024 Online</h2>
         <p>To ensure a successful result search in the AP SSC records, follow these technical steps:</p>
@@ -108,7 +123,7 @@ $meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th
                 and final database changes related to ap 10th class results 2024 data, please visit the BSEAP
                 headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About AP SSC Result</h2>
@@ -124,8 +139,13 @@ $meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th
         <strong>3. Is the result from results.bse.ap.gov.in official?</strong>
         <p>Yes, the "ap 10th class results 2024" served via `results.bse.ap.gov.in` is the only official and primary
             digital output authorized by the Board of Secondary Education Andhra Pradesh.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

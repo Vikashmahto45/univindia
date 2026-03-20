@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC Phase 12 Admit Card 2024: Selection Posts Phase XII Hall Ticket Download @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Phase 12 Admit Card 2024: Selection Posts Phase XII Hall Ticket Download @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC Phase 12 Admit Card 2024: Selection Posts Phase XII Hall Ticket Download @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC Phase 12 Admit Card 2024: Selection Posts Phase XII Hall Ticket Download @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC Phase 12 Admit Card 2024: Selection Posts Phase XII Hall Ticket Download @ ssc.gov.in";
+$page_description = "Download SSC Phase 12 Admit Card 2024 for Selection Posts (Matric, HS, and Graduate Level). Get direct link for SSC Phase XII Hall Ticket, Exam Date, and Status. 800+ words guide.";
+$page_keywords = "SSC Phase 12 Admit Card 2024, SSC Selection Post Phase XII Hall Ticket, ssc.gov.in phase 12 link, SSC Phase 12 Exam Date, SSC Phase 12 Region Wise Status";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSC Phase 12 Admit Card 2024: Selection Posts Phase XII Hall Ticket</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-list-check me-2"></i> <strong>Official Update:</strong> The Staff Selection Commission (SSC) has activated the portal for <strong>Selection Posts Phase XII (2024)</strong>. Candidates can now check their application status and download the <strong>Phase 12 Admit Card</strong> for Matriculation, Higher Secondary, and Graduate Level posts.
@@ -85,14 +108,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-print me-2"></i> Level-Specific Hall Tickets</h5>
                             <p class="small text-light-gray mb-0">If you are appearing for two levels (e.g., Matric and Graduate), you MUST carry both <strong>SSC Phase 12 Admit Cards</strong> as they will have different roll numbers.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-id-card-alt me-2"></i> Original ID with Full DOB</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar, Voter ID, or PAN card where the Date of Birth is printed in Day-Month-Year format. Ration card is not valid for entry.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">SSC Phase 12 Admit Card FAQ: Frequently Asked Questions</h2>
@@ -106,8 +127,7 @@ $meta_keywords = "";
                         <div id="phQ1" class="accordion-collapse collapse" data-bs-parent="#sscPhase12Faq">
                             <div class="accordion-body text-light-gray">
                                 You will receive <strong>one admit card per level</strong>. If you applied for 5 different Graduate posts, you will have one exam and one <strong>SSC Phase 12 Hall Ticket</strong> for all of them.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -118,10 +138,8 @@ $meta_keywords = "";
                         <div id="phQ2" class="accordion-collapse collapse" data-bs-parent="#sscPhase12Faq">
                             <div class="accordion-body text-light-gray">
                                 No, once the <strong>SSC Phase 12 Status</strong> is finalized, no modifications are allowed. SSC provides a correction window only once during the application phase.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Selection Post Links</h5>
@@ -129,14 +147,14 @@ $meta_keywords = "";
                         <a href="ssc-phase-11-admit-card.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">Phase 11 Archive</a>
                         <a href="ssc-selection-post-result.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">Phase 12 Merit List</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-search-location me-2"></i> Region Wise Selection Details</h3>
                 <div class="row g-3">
+                    <?php
                     $selection_links = [
                         'sscsr.gov.in-selection-post.php' => 'Southern Reg Phase 12',
                         'ssckkr.kar.nic.in-selection-post.php' => 'KKR Reg Phase 12 Status',
@@ -150,11 +168,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -184,3 +201,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

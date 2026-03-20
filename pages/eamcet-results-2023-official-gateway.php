@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; eamcet results 2023 - Official AP & Telangana Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>eamcet results 2023 - Official AP & Telangana Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "eamcet results 2023 - Official AP & Telangana Hub"; 
+$meta_description = "Check EAMCET (EAPCET) result 2023 on eamcet results 2023. Access official AP & Telangana 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 EAMCET Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>TS EAMCET Server 2023</h3>
                     <p>Primary server for accessing Telangana Engineering, Agriculture and Medical Common Entrance Test (TS EAMCET) examination result data for the 2023 academic session archive.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2023 EAMCET Entrance Gateways</h3>
                 <p>The <strong>eamcet results 2023</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking professional degree admission registrations, scholarship applications, or career verification. The system provides a detailed subject-wise breakdown for the 2023 batch of student examinees across all professional courses. Having a verified digital result from the <strong>eamcet results 2023</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their entrance pariksha.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2023 EAMCET rank card links permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>eamcet results 2023</strong> are permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 EAMCET results by name on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>eamcet results 2023</strong> portal is fully mobile-responsive and includes a dedicated results search for student examinees in AP and Telangana.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 EAMCET marksheet valid for counseling?</button>
                     <div class="faq-answer">
                         <p>The digital rank card retrieved from the <strong>eamcet results 2023</strong> gateway is a valid provisional document accepted for initial institutional counseling registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

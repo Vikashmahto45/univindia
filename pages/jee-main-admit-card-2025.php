@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online"; 
 $meta_description = "Download JEE Main Admit Card 2025. Get the direct link for NTA JEE Main Session 1 and Session 2 examination hall tickets at jeemain.nta.ac.in."; 
 $meta_keywords = "jee main admit card 2025 download, nta jee main hall ticket 2025 download, jeemain.nta.ac.in login 2025, jee main exam date 2025 download, engineering entrance call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online"; 
+$meta_description = "Download JEE Main Admit Card 2025. Get the direct link for NTA JEE Main Session 1 and Session 2 examination hall tickets at jeemain.nta.ac.in."; 
+$meta_keywords = "jee main admit card 2025 download, nta jee main hall ticket 2025 download, jeemain.nta.ac.in login 2025, jee main exam date 2025 download, engineering entrance call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online";
+$meta_description = "Download JEE Main Admit Card 2025. Get the direct link for NTA JEE Main Session 1 and Session 2 examination hall tickets at jeemain.nta.ac.in.";
+$meta_keywords = "jee main admit card 2025 download, nta jee main hall ticket 2025 download, jeemain.nta.ac.in login 2025, jee main exam date 2025 download, engineering entrance call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "jee main admit card 2025 download, nta jee main hall ticket 20
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Tech Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

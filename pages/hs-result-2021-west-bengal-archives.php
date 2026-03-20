@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hs result 2021 west bengal - Official WBCHSE 2021 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>hs result 2021 west bengal - Official WBCHSE 2021 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "hs result 2021 west bengal - Official WBCHSE 2021 Archive"; 
+$meta_description = "Check hs result 2021 west bengal for Higher Secondary exams. Access the official 2021 West Bengal Council of Higher Secondary Education (WBCHSE) archival portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 HS Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify West Bengal (WB) HS results 2021 by student name alternative criteria for the 2021
                         academic examination batch.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -93,8 +100,7 @@ $meta_keywords = "";
                     result from the <strong>hs result 2021 west bengal</strong> archive hub is essential for students to
                     complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -106,27 +112,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all results under <strong>hs result 2021 west bengal</strong> are permanently archived
                             on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2021 WB HS results by name search only?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>hs result 2021 west bengal</strong> portal includes a dedicated
                             name-wise search for student examinees in West Bengal for the 2021 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 WB marksheet valid for graduation college?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>hs result 2021 west bengal</strong> archive
                             is a valid provisional document accepted for initial university registration and
                             verification across West Bengal.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "mjpru result 2020-21 - Official Rohilkhand University Archive Portal"; 
 $meta_description = "Check mjpru result 2020-21 for BA, BSc, BCom, and Semester examinations. Access the official MJPRU 2020-21 result archive on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; mjpru result 2020-21 - Official Rohilkhand University Archive Portal</div>
+    <h2 class='sr-title'>mjpru result 2020-21 - Official Rohilkhand University Archive Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "mjpru result 2020-21 - Official Rohilkhand University Archive Portal"; 
+$meta_description = "Check mjpru result 2020-21 for BA, BSc, BCom, and Semester examinations. Access the official MJPRU 2020-21 result archive on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2020-21 academic session results for Mahatma Jyotiba Phule
                 Rohilkhand University. Official MJPRU mirrors and archival links updated for all courses.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2020-21 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify MJPRU 2020-21 results by student name alternative.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +88,7 @@ $meta_keywords = "";
                     from the <strong>mjpru result 2020-21</strong> hub is essential for students to complete their
                     certificate verification and academic proof during employment and further education registration
                     processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,27 +100,29 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>mjpru result 2020-21</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for archival access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check MJPRU 2020-21 results by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>mjpru result 2020-21</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for major undergraduate degree examinations of
                             that batch.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2020-21 marksheet valid for further studies?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>mjpru result 2020-21</strong> archive is a valid
                             provisional document accepted for initial postgraduate and career verification nationwide.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

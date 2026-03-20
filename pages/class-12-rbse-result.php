@@ -7,9 +7,27 @@ $meta_keywords = "class 12 rbse result, check rbse 12th result online, rbse seni
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Class 12 RBSE Result - Official Rajasthan Board 12th Portal</div>
-    <h2 class='sr-title'>Class 12 RBSE Result: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Senior Secondary (Class 12), Science, Commerce, Arts Streams, and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>Class 12 RBSE Result - Official Rajasthan Board 12th Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Class 12 RBSE Result - Official Rajasthan Board 12th Portal"; 
+$meta_description = "Check Class 12 RBSE Result online. Access the high-speed Rajasthan Board (RBSE) Senior Secondary results for Science, Commerce, and Arts. Official marks."; 
+$meta_keywords = "class 12 rbse result, check rbse 12th result online, rbse senior secondary results 2024, official rbse 12th result link, rajresults nic in 12th"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Class 12 RBSE Result - Official Rajasthan Board 12th Portal";
+$meta_description = "Check Class 12 RBSE Result online. Access the high-speed Rajasthan Board (RBSE) Senior Secondary results for Science, Commerce, and Arts. Official marks.";
+$meta_keywords = "class 12 rbse result, check rbse 12th result online, rbse senior secondary results 2024, official rbse 12th result link, rajresults nic in 12th";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "class 12 rbse result, check rbse 12th result online, rbse seni
                 <a href="https://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official RBSE Portal" target="_blank">Visit Board Home</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults Raj Portal" target="_blank">Access 12th Mirrors</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Class 12 RBSE Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via the national system, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "class 12 rbse result, check rbse 12th result online, rbse seni
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Class 12 RBSE Result data, please visit the RBSE headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Class 12 RBSE Result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "class 12 rbse result, check rbse 12th result online, rbse seni
         <br>
         <strong>3. Is the result from Class 12 RBSE Result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Class 12 RBSE Result" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

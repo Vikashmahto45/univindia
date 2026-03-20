@@ -7,9 +7,27 @@ $meta_keywords = "10th rbse result 2023, rajasthan board 10th result 2023, check
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th RBSE Result 2023 - Official Rajasthan Board Matric Archive</div>
-    <h2 class='sr-title'>10th RBSE Result 2023: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER/RBSE) Secondary (Class 10), Praveshika, and Vocational Result Gateways (Government of Rajasthan, Rajasthan Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals Across Rajasthan</h2>
+    <h2 class='sr-title'>10th RBSE Result 2023 - Official Rajasthan Board Matric Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th RBSE Result 2023 - Official Rajasthan Board Matric Archive"; 
+$meta_description = "Check 10th RBSE Result 2023 for Secondary examinations. Access the 2023 Rajasthan board results, merit list, and official certificates online by roll number."; 
+$meta_keywords = "10th rbse result 2023, rajasthan board 10th result 2023, check rbse secondary result 2023, rajresults.nic.in 2023 10th, matric result rajasthan 2023, official rbse portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th RBSE Result 2023 - Official Rajasthan Board Matric Archive";
+$meta_description = "Check 10th RBSE Result 2023 for Secondary examinations. Access the 2023 Rajasthan board results, merit list, and official certificates online by roll number.";
+$meta_keywords = "10th rbse result 2023, rajasthan board 10th result 2023, check rbse secondary result 2023, rajresults.nic.in 2023 10th, matric result rajasthan 2023, official rbse portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "10th rbse result 2023, rajasthan board 10th result 2023, check
                 <a href="https://results.gov.in" class="btn" title="Main Government Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Records</a>
                 <a href="https://education.rajasthan.gov.in" class="btn" title="Edu Dept Status" target="_blank">Rajasthan Education Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th RBSE Result 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "10th rbse result 2023, rajasthan board 10th result 2023, check
         <br>
         <strong>3. Is the result from 10th RBSE Result 2023 valid for Jobs?</strong>
         <p>Yes, your secondary results (verified via the official "10th RBSE Result 2023" portal) are the accepted records for applying to state government roles like LDC or Police Constable.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "india result rajasthan 2022, rbse result 2022, rajasthan 10th 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Rajasthan 2022 - RBSE & University Results Archive</div>
-    <h2 class='sr-title'>India Result Rajasthan 2022: Reclaiming the Academic History of the Desert State</h2>
+    <h2 class='sr-title'>India Result Rajasthan 2022 - RBSE & University Results Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result Rajasthan 2022 - RBSE & University Results Archive"; 
+$meta_description = "Retrieve your India Result Rajasthan 2022 online. Access the archive for Rajasthan Board (RBSE) 10th/12th and University scores from the 2022 session."; 
+$meta_keywords = "india result rajasthan 2022, rbse result 2022, rajasthan 10th result 2022, rajasthan 12th result 2022, rajresults archive 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result Rajasthan 2022 - RBSE & University Results Archive";
+$meta_description = "Retrieve your India Result Rajasthan 2022 online. Access the archive for Rajasthan Board (RBSE) 10th/12th and University scores from the 2022 session.";
+$meta_keywords = "india result rajasthan 2022, rbse result 2022, rajasthan 10th result 2022, rajasthan 12th result 2022, rajresults archive 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "india result rajasthan 2022, rbse result 2022, rajasthan 10th 
                 <a href="https://rajasthan.indiaresults.com" class="btn" title="Rajasthan Result Name Wise Search" target="_blank">IndiaResults Rajasthan</a>
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" title="RBSE Ajmer Official Board Website" target="_blank">RBSE Ajmer Site</a>
                 <a href="https://uniraj.ac.in" class="btn" title="University of Rajasthan Results" target="_blank">RU Jaipur Results</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Rajasthan 2022</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "india result rajasthan 2022, rbse result 2022, rajasthan 10th 
         <br>
         <strong>3. Is the India Result Rajasthan 2022 marksheet valid for job verification?</strong>
         <p>The online printout serves as provisional proof. For final verification, most employers will require the original 2022 certificate or a verified copy from the DigiLocker platform, where RBSE has uploaded many 2022 records.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

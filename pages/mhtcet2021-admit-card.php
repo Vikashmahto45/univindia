@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online"; 
 $meta_description = "Download MHCET 2021 Admit Card. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) 2021 hall tickets at mhtcet2021.mahacet.org."; 
 $meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticket 2021 download, mahacet.org login 2021, mht cet exam date 2021 download, engineering entrance call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online</div>
+    <h2 class='sr-title'>MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online"; 
+$meta_description = "Download MHCET 2021 Admit Card. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) 2021 hall tickets at mhtcet2021.mahacet.org."; 
+$meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticket 2021 download, mahacet.org login 2021, mht cet exam date 2021 download, engineering entrance call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online";
+$meta_description = "Download MHCET 2021 Admit Card. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) 2021 hall tickets at mhtcet2021.mahacet.org.";
+$meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticket 2021 download, mahacet.org login 2021, mht cet exam date 2021 download, engineering entrance call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -86,8 +109,16 @@ $meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticke
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Tech Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

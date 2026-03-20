@@ -7,9 +7,27 @@ $meta_keywords = "10th result date 2024, class 10 result date 2024, board result
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Result Date 2024 - All India Board Result Calendar</div>
-    <h2 class='sr-title'>10th Result Date 2024: Your Definitive National Calendar for Secondary School Results</h2>
+    <h2 class='sr-title'>10th Result Date 2024 - All India Board Result Calendar</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th Result Date 2024 - All India Board Result Calendar"; 
+$meta_description = "Check the official 10th Result Date 2024 for all state and central boards. Stay updated with the latest news on CBSE, UP Board, RBSE, and BSE Odisha matric result announcements."; 
+$meta_keywords = "10th result date 2024, class 10 result date 2024, board result 2024 date, 10th results 2024 release date, matric result 2024 kab aayega"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th Result Date 2024 - All India Board Result Calendar";
+$meta_description = "Check the official 10th Result Date 2024 for all state and central boards. Stay updated with the latest news on CBSE, UP Board, RBSE, and BSE Odisha matric result announcements.";
+$meta_keywords = "10th result date 2024, class 10 result date 2024, board result 2024 date, 10th results 2024 release date, matric result 2024 kab aayega";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -63,10 +81,9 @@ $meta_keywords = "10th result date 2024, class 10 result date 2024, board result
                 <a href="https://cbse.gov.in" class="btn" title="CBSE Board Official Updates" target="_blank">CBSE Board Portal</a>
                 <a href="https://upmsp.edu.in" class="btn" title="UPMSP Official News Section" target="_blank">UP Board Updates</a>
                 <a href="https://www.indiaresults.com" class="btn" title="National Results Mirror News" target="_blank">IndiaResults Tracking</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th Result Date 2024</h2>
@@ -79,8 +96,13 @@ $meta_keywords = "10th result date 2024, class 10 result date 2024, board result
         <br>
         <strong>3. Will the 10th 2024 results for Science and Arts be on the same date?</strong>
         <p>For most secondary school boards (10th grade), all subjects and streams are released on the same "10th Result Date 2024". Separation of streams (Science/Commerce/Arts) usually happens only at the 12th (Intermediate) level.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

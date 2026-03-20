@@ -7,9 +7,27 @@ $meta_keywords = "indian result 2023, check india results 2023 online, official 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indian Result 2023 - Official National Secondary Mirror</div>
-    <h2 class='sr-title'>Indian Result 2023: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and All-India State Board Result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>Indian Result 2023 - Official National Secondary Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Indian Result 2023 - Official National Secondary Mirror"; 
+$meta_description = "Check Indian Result 2023 online. Access the historical CBSE, ICSE, and All-India State Board Secondary (10th) and Senior Secondary (12th) results for the 2023 session."; 
+$meta_keywords = "indian result 2023, check india results 2023 online, official 2023 board results hub, national 2023 mirror, indiaresults portal 2023"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Indian Result 2023 - Official National Secondary Mirror";
+$meta_description = "Check Indian Result 2023 online. Access the historical CBSE, ICSE, and All-India State Board Secondary (10th) and Senior Secondary (12th) results for the 2023 session.";
+$meta_keywords = "indian result 2023, check india results 2023 online, official 2023 board results hub, national 2023 mirror, indiaresults portal 2023";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "indian result 2023, check india results 2023 online, official 
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults" target="_blank">Access State Mirrors</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Government Results Portal" target="_blank">All-India Gateway</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Indian Result 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "indian result 2023, check india results 2023 online, official 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Indian Result 2023 data, please visit the respective Board headquarters or your school Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Indian Result 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "indian result 2023, check india results 2023 online, official 
         <br>
         <strong>3. Is the result from Indian Result 2023 valid for government jobs?</strong>
         <p>Yes, your board results (verified via the official "Indian Result 2023" portal) are recorded in the state/central database and serve as primary data for background verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

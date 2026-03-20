@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www.jac.jharkhand.gov.in 2023 class 10 - Official Jharkhand Board 2023 Archive"; 
 $meta_description = "Check www.jac.jharkhand.gov.in 2023 class 10 for JAC Matric exams. Access the official 2023 Jharkhand Academic Council (JAC) archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.jac.jharkhand.gov.in 2023 class 10 - Official Jharkhand Board 2023 Archive</div>
+    <h2 class='sr-title'>www.jac.jharkhand.gov.in 2023 class 10 - Official Jharkhand Board 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www.jac.jharkhand.gov.in 2023 class 10 - Official Jharkhand Board 2023 Archive"; 
+$meta_description = "Check www.jac.jharkhand.gov.in 2023 class 10 for JAC Matric exams. Access the official 2023 Jharkhand Academic Council (JAC) archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Jharkhand Class 10th
                 (Matric). Official JAC Ranchi mirrors and archival links updated for the 2023 batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2023 Jharkhand board results by student name alternative criteria for Matric.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +92,7 @@ $meta_keywords = "";
                     <strong>www.jac.jharkhand.gov.in 2023 class 10</strong> archive hub is essential for students to
                     complete their academic verification and proof of performance during school-level transition and
                     registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -96,26 +106,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>www.jac.jharkhand.gov.in 2023 class 10</strong> are
                             permanently archived on verified platforms like <strong>indiaresults.com</strong> for
                             archival and academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 Jharkhand 10th result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>www.jac.jharkhand.gov.in 2023 class 10</strong> portal includes a
                             dedicated name-wise search for the JAC Matric examinees of the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for Inter admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>www.jac.jharkhand.gov.in 2023 class
                                 10</strong> archive is a valid provisional document accepted for initial secondary
                             school registration and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

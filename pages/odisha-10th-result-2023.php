@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Odisha 10th Result 2023 - Official BSE Odisha HSC Archive"; 
 $meta_description = "Check Odisha 10th Result 2023 for official BSE Odisha HSC scores. Access the 2023 archival results, merit lists, and marksheet download links."; 
 $meta_keywords = "odisha 10th result 2023, bse odisha 10th result 2023, orissaresults.nic.in 2023, odisha hsc result 2023, bseodisha.ac.in result 2023 archive"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Odisha 10th Result 2023 - Official BSE Odisha HSC Archive</div>
+    <h2 class='sr-title'>Odisha 10th Result 2023 - Official BSE Odisha HSC Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Odisha 10th Result 2023 - Official BSE Odisha HSC Archive"; 
+$meta_description = "Check Odisha 10th Result 2023 for official BSE Odisha HSC scores. Access the 2023 archival results, merit lists, and marksheet download links."; 
+$meta_keywords = "odisha 10th result 2023, bse odisha 10th result 2023, orissaresults.nic.in 2023, odisha hsc result 2023, bseodisha.ac.in result 2023 archive"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Odisha 10th Result 2023 - Official BSE Odisha HSC Archive";
+$meta_description = "Check Odisha 10th Result 2023 for official BSE Odisha HSC scores. Access the 2023 archival results, merit lists, and marksheet download links.";
+$meta_keywords = "odisha 10th result 2023, bse odisha 10th result 2023, orissaresults.nic.in 2023, odisha hsc result 2023, bseodisha.ac.in result 2023 archive";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Odisha 10th Result 2023: Reclaiming the Academic Successes of the Class of 2023</h1>
+        
         
         <p>The "Odisha 10th Result 2023" is a monumental academic milestone for hundreds of thousands of students across the educationally focused state of Odisha. Managed by the Board of Secondary Education (BSE), Odisha, the High School Certificate (HSC) or matriculation examination is the primary gateway to senior secondary education and specialized career paths. For the 2023 academic cycle, which marked a full return to traditional classroom learning and formalized state-level assessments, the "Odisha 10th Result 2023" search represents the official culmination of a decade of hard work. In the culturally rich landscape of Odisha, where education is the primary driver of social mobility, the results declared on the official state portals are the formal recognition of a student’s intellectual growth. At Univindia.online, we recognize the life-changing nature of these archival scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies the search for your "Odisha 10th Result 2023," ensuring that every student from Cuttack to Koraput can celebrate their victory through the digital archives with absolute ease.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "odisha 10th result 2023, bse odisha 10th result 2023, orissare
                 <a href="http://bseodisha.ac.in" class="btn" title="BSE Odisha Official Board Site" target="_blank">BSE Odisha Main</a>
                 <a href="http://odisha.indiaresults.com" class="btn" title="Odisha Result Name Wise search" target="_blank">IndiaResults Odisha</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified HSC Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Odisha 10th Result 2023</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "odisha 10th result 2023, bse odisha 10th result 2023, orissare
         <br>
         <strong>3. Is the online copy of Odisha 10th Result 2023 valid for Inter admission?</strong>
         <p>Yes, the computer-generated "Odisha 10th Result 2023" scorecard is accepted for initial online counseling and document verification on the SAMS Odisha portal until the original physical marksheet is provided by the board office.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

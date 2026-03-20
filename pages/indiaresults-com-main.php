@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Indiaresults Com - Official National Result Search Portal"; 
 $meta_description = "Check Indiaresults Com online. Access the leading private result mirror for all Indian state boards (CBSE, ICSE, RBSE, PSEB). Search by name or roll number."; 
 $meta_keywords = "indiaresults com, check indiaresults online, search board results by name, official indiaresults portal, indiaresult state list, national result mirror"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indiaresults Com - Official National Result Search Portal</div>
+    <h2 class='sr-title'>Indiaresults Com - Official National Result Search Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Indiaresults Com - Official National Result Search Portal"; 
+$meta_description = "Check Indiaresults Com online. Access the leading private result mirror for all Indian state boards (CBSE, ICSE, RBSE, PSEB). Search by name or roll number."; 
+$meta_keywords = "indiaresults com, check indiaresults online, search board results by name, official indiaresults portal, indiaresult state list, national result mirror"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Indiaresults Com - Official National Result Search Portal";
+$meta_description = "Check Indiaresults Com online. Access the leading private result mirror for all Indian state boards (CBSE, ICSE, RBSE, PSEB). Search by name or roll number.";
+$meta_keywords = "indiaresults com, check indiaresults online, search board results by name, official indiaresults portal, indiaresult state list, national result mirror";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Indiaresults Com: Your Comprehensive Navigator to National Board Class 10 (Secondary), Class 12 (Higher Secondary), and university Result Gateways (Educational State Boards, National Informatics Centre (NIC) Hubs, and Private Technical Partners) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Indiaresults Com" (representing the premier digital result-hosting partnership utilized by millions of candidates for the annual board and university examinations conducted across various academic sessions) represents the single most significant non-governmental digital milestone for over 25 million students residing in the diverse and technological landscape of India. As the primary authorized private gateway to the nation's educational infrastructure (spanning states like Rajasthan, Punjab, Himachal Pradesh, and Odisha), and the traditional school education infrastructure of the nation, the "Indiaresults Com" serves as the formal 'Search-by-Name' master directory that allows candidates to access their scores, marks, and final graduation status via dedicated high-speed server endpoints. For the current academic cycle, where immediate result access and robust technical evaluation are national priorities, the "Indiaresults Com" search is the digital gateway through which candidates verify their professional transition with maximum speed and transparency. The technical councils at IndiaResults have implemented state-of-the-art 'Search-by-Name Identity Mapping,' ensuring that candidates without roll numbers can still retrieve their scores (including subject-wise totals, final grades, and division status) with maximum integrity and reliability. At Univindia.online, we recognize the critical role and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Indiaresults Com," ensuring that every aspiring student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "indiaresults com, check indiaresults online, search board resu
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
                 <a href="http://hpresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="State NIC Portal" target="_blank">Official State Portals</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Indiaresults Com Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via IndiaResults, follow these technical steps:</p>
@@ -50,7 +71,7 @@ $meta_keywords = "indiaresults com, check indiaresults online, search board resu
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Indiaresults Com portal info, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Indiaresults Com Portal</h2>
@@ -63,7 +84,15 @@ $meta_keywords = "indiaresults com, check indiaresults online, search board resu
         <br>
         <strong>3. Is the result from Indiaresults Com valid for college admission?</strong>
         <p>The "Indiaresults Com" score is valid for 'Provisional Admission'. However, for final 'Eligibility' verification, the official Board marksheet or an NIC-verified result is required by most universities.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

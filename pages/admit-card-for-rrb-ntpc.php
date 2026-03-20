@@ -9,7 +9,26 @@ $meta_keywords = "admit card for rrb ntpc 2025, rrb ntpc admit card download, ra
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Card for RRB NTPC 2025 Download - Non-Technical Popular Categories Link | Univindia.online</div>
     <h2 class='sr-title'>Admit Card for RRB NTPC 2025 Download - Non-Technical Popular Categories Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "Admit Card for RRB NTPC 2025 Download - Non-Technical Popular Categories Link | Univindia.online"; 
+$meta_description = "Download Admit Card for RRB NTPC 2025. Get the direct link for Railway Recruitment Board Non-Technical Popular Categories graduate and undergraduate hall tickets at indianrailways.gov.in."; 
+$meta_keywords = "admit card for rrb ntpc 2025, rrb ntpc admit card download, railway ntpc hall ticket link, rrbntpc.gov.in admit card, rrb ntpc exam date status"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Admit Card for RRB NTPC 2025 Download - Non-Technical Popular Categories Link | Univindia.online";
+$meta_description = "Download Admit Card for RRB NTPC 2025. Get the direct link for Railway Recruitment Board Non-Technical Popular Categories graduate and undergraduate hall tickets at indianrailways.gov.in.";
+$meta_keywords = "admit card for rrb ntpc 2025, rrb ntpc admit card download, railway ntpc hall ticket link, rrbntpc.gov.in admit card, rrb ntpc exam date status";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Admit Card for RRB NTPC 2025: Download Railway Graduate & Undergraduate Hall Ticket</h2>
         
@@ -90,9 +109,14 @@ $meta_keywords = "admit card for rrb ntpc 2025, rrb ntpc admit card download, ra
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest RRB Results</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

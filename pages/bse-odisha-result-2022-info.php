@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse odisha result 2022 date - Official Board Archive & Timeline</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>bse odisha result 2022 date - Official Board Archive & Timeline</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "bse odisha result 2022 date - Official Board Archive & Timeline"; 
+$meta_description = "Check bse odisha result 2022 date and timeline. Access the official 2022 High School Certificate (HSC) result archive for Odisha on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Information Hub</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify BSE Odisha 2022 results by Name.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server B</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +84,7 @@ $meta_keywords = "";
                     examination centers. Through <strong>indiaresults.com</strong>, students from Balasore, Berhampur,
                     Sambalpur, and other regions can expect 100% accurate data retrieval, including the breakdown of
                     internal assessment marks which were introduced in the 2022 academic cycle.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,27 +96,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The official <strong>bse odisha result 2022 date</strong> was July 6, 2022. All result
                             declarations were completed by the morning of that day.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I get my 2022 marksheet if I lost my roll number?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>bse odisha result 2022 date</strong> portal on <strong>indiaresults</strong>
                             includes a name-wise search for all 2022 candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result from 2022 valid for SAMS Odisha?</button>
                     <div class="faq-answer">
                         <p>Yes, the digital copy from the <strong>bse odisha result 2022 date</strong> archive was the
                             primary document used for the 2022 SAMS Odisha (+2) admission cycle and remains a valid
                             proof of marks.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

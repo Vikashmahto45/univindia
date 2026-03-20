@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "up board 12th result - Official UP Board Portal"; 
 $meta_description = "Check up board 12th result online. Access the Intermediate (Class 12) results for Board of High School and Intermediate Education Uttar Pradesh, Prayagraj."; 
 $meta_keywords = "up board 12th result, check up inter result online, official upmsp 12th link, upresults nic in index, up board result 2024 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; up board 12th result - Official UP Board Portal</div>
+    <h2 class='sr-title'>up board 12th result - Official UP Board Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "up board 12th result - Official UP Board Portal"; 
+$meta_description = "Check up board 12th result online. Access the Intermediate (Class 12) results for Board of High School and Intermediate Education Uttar Pradesh, Prayagraj."; 
+$meta_keywords = "up board 12th result, check up inter result online, official upmsp 12th link, upresults nic in index, up board result 2024 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "up board 12th result - Official UP Board Portal";
+$meta_description = "Check up board 12th result online. Access the Intermediate (Class 12) results for Board of High School and Intermediate Education Uttar Pradesh, Prayagraj.";
+$meta_keywords = "up board 12th result, check up inter result online, official upmsp 12th link, upresults nic in index, up board result 2024 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>up board 12th result: Your Comprehensive Navigator to Board of High School and Intermediate Education Uttar Pradesh, Prayagraj, Intermediate Public Examinations (Class 12), and Uttar Pradesh State Board Result Gateways (Government of Uttar Pradesh, Education Department, and National Informatics Centre (NIC) Uttar Pradesh State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "up board 12th result" (representing the primary synchronized digital result-dissemination framework utilized by over 25 lakh students for the annual intermediate board exams conducted during the active 2023-2024 academic session by the UPMSP Prayagraj) represents a significant digital milestone for students residing in the academic and industrial landscape of Uttar Pradesh. As the primary official gateway to the state's 2024 educational infrastructure (Prayagraj HQ), and the traditional school education infrastructure of the nation, the "up board 12th result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Uttar Pradesh IndiaResults. For the 2024 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across Uttar Pradesh, the "up board 12th result" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Uttar Pradesh education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2024 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "up board 12th result," ensuring that every student and researcher in Uttar Pradesh can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "up board 12th result, check up inter result online, official u
                 <a href="https://upmsp.edu.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="UPMSP Board Portal" target="_blank">Access UPMSP Official</a>
                 <a href="https://up.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="UP Name site" target="_blank">Visit UP Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official up board 12th result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "up board 12th result, check up inter result online, official u
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to up board 12th result data, please visit the UPMSP headquarters in Prayagraj or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About up board 12th result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "up board 12th result, check up inter result online, official u
         <br>
         <strong>3. Is the result from up board 12th result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "up board 12th result" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

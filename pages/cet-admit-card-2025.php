@@ -9,7 +9,26 @@ $meta_keywords = "cet admit card 2025, common entrance test hall ticket, cet 202
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CET Admit Card 2025 Download - Common Entrance Test Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>CET Admit Card 2025 Download - Common Entrance Test Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CET Admit Card 2025 Download - Common Entrance Test Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download CET Admit Card 2025. Get the direct link for Common Entrance Test (CET) for various state and national level examinations hall tickets at official portal logins."; 
+$meta_keywords = "cet admit card 2025, common entrance test hall ticket, cet 2025 admit card download, state cet admit card link, cet exam hall ticket login"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CET Admit Card 2025 Download - Common Entrance Test Hall Ticket Link | Univindia.online";
+$meta_description = "Download CET Admit Card 2025. Get the direct link for Common Entrance Test (CET) for various state and national level examinations hall tickets at official portal logins.";
+$meta_keywords = "cet admit card 2025, common entrance test hall ticket, cet 2025 admit card download, state cet admit card link, cet exam hall ticket login";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CET Admit Card 2025: Download Common Entrance Test Hall Ticket</h2>
         
@@ -91,9 +110,14 @@ $meta_keywords = "cet admit card 2025, common entrance test hall ticket, cet 202
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

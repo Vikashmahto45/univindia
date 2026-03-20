@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC Multi Tasking Admit Card Download - SSC MTS Hall Ticket Release | Univindia.online"; 
 $meta_description = "Download SSC Multi Tasking Admit Card. Get the direct link for SSC MTS (Non-Technical) and Havaldar examination hall tickets at ssc.gov.in."; 
 $meta_keywords = "ssc multi tasking admit card download, ssc mts hall ticket download, ssc.gov.in login admit card, ssc exam date 2024 download, mts recruitment call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Multi Tasking Admit Card Download - SSC MTS Hall Ticket Release | Univindia.online</div>
+    <h2 class='sr-title'>SSC Multi Tasking Admit Card Download - SSC MTS Hall Ticket Release | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC Multi Tasking Admit Card Download - SSC MTS Hall Ticket Release | Univindia.online"; 
+$meta_description = "Download SSC Multi Tasking Admit Card. Get the direct link for SSC MTS (Non-Technical) and Havaldar examination hall tickets at ssc.gov.in."; 
+$meta_keywords = "ssc multi tasking admit card download, ssc mts hall ticket download, ssc.gov.in login admit card, ssc exam date 2024 download, mts recruitment call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC Multi Tasking Admit Card Download - SSC MTS Hall Ticket Release | Univindia.online";
+$meta_description = "Download SSC Multi Tasking Admit Card. Get the direct link for SSC MTS (Non-Technical) and Havaldar examination hall tickets at ssc.gov.in.";
+$meta_keywords = "ssc multi tasking admit card download, ssc mts hall ticket download, ssc.gov.in login admit card, ssc exam date 2024 download, mts recruitment call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "ssc multi tasking admit card download, ssc mts hall ticket dow
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Staff Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

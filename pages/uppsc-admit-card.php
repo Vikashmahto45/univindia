@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UPPSC Admit Card Download - Uttar Pradesh Public Service Commission Hall Ticket | Univindia.online"; 
 $meta_description = "Download UPPSC Admit Card. Get the direct link for UPPSC RO/ARO, PCS, and other Uttar Pradesh state recruitment examination hall tickets at uppsc.up.nic.in."; 
 $meta_keywords = "uppsc admit card download, uttar pradesh public service commission hall ticket download, uppsc.up.nic.in login admit card, uppsc exam date 2024 download, public service call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UPPSC Admit Card Download - Uttar Pradesh Public Service Commission Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>UPPSC Admit Card Download - Uttar Pradesh Public Service Commission Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UPPSC Admit Card Download - Uttar Pradesh Public Service Commission Hall Ticket | Univindia.online"; 
+$meta_description = "Download UPPSC Admit Card. Get the direct link for UPPSC RO/ARO, PCS, and other Uttar Pradesh state recruitment examination hall tickets at uppsc.up.nic.in."; 
+$meta_keywords = "uppsc admit card download, uttar pradesh public service commission hall ticket download, uppsc.up.nic.in login admit card, uppsc exam date 2024 download, public service call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "UPPSC Admit Card Download - Uttar Pradesh Public Service Commission Hall Ticket | Univindia.online";
+$meta_description = "Download UPPSC Admit Card. Get the direct link for UPPSC RO/ARO, PCS, and other Uttar Pradesh state recruitment examination hall tickets at uppsc.up.nic.in.";
+$meta_keywords = "uppsc admit card download, uttar pradesh public service commission hall ticket download, uppsc.up.nic.in login admit card, uppsc exam date 2024 download, public service call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "uppsc admit card download, uttar pradesh public service commis
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest UPPSC News</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

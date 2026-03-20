@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard"; 
 $meta_description = "Manage your MGSU Bikaner results via Univindia Net MGSURES Index. Official guide to accessing Maharaja Ganga Singh University score reports online."; 
 $meta_keywords = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard</div>
+    <h2 class='sr-title'>Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard"; 
+$meta_description = "Manage your MGSU Bikaner results via Univindia Net MGSURES Index. Official guide to accessing Maharaja Ganga Singh University score reports online."; 
+$meta_keywords = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard";
+$meta_description = "Manage your MGSU Bikaner results via Univindia Net MGSURES Index. Official guide to accessing Maharaja Ganga Singh University score reports online.";
+$meta_keywords = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSURES Index: Your Gateway to Bikaner University Results</h1>
+        
         
         <p>The term "Univindia Net MGSURES Index" refers to the core landing page for the examination result sub-system of Maharaja Ganga Singh University (MGSU), Bikaner. For thousands of students across Northern Rajasthan, this specific digital hub (typically hosted at `mgsures/index.html` or similar directories on the `univindia.net` network) is the starting point for academic verification. Whether you are a student of BA, B.Sc, B.Com, or any postgraduate course, the MGSURES index is the organized dashboard that categorizes and presents all available score reports. In this comprehensive guide, we will explore the technical structure of the MGSU result index, provide a detailed walkthrough of how to navigate the portal for various classes, and offer expert advice on troubleshooting common access issues encountered during high-traffic result seasons.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "Univindia Net MGSURES Index - MGSU Bikaner Results Dashboard";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

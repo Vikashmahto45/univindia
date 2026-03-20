@@ -7,9 +7,27 @@ $meta_keywords = "apsu result 2024, check apsu rewa results online, official aps
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; apsu result 2024 - Official University Portal</div>
-    <h2 class='sr-title'>apsu result 2024: Your Comprehensive Navigator to Awadhesh Pratap Singh University (APSU), Rewa, Undergraduate & Postgraduate Public Examinations (BA, BSc, BCom, MA, MSc), and Madhya Pradesh State University Result Gateways (Government of Madhya Pradesh, Higher Education Department, and National Informatics Centre (NIC) MP State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>apsu result 2024 - Official University Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "apsu result 2024 - Official University Portal"; 
+$meta_description = "Check apsu result 2024 online. Access the semester and annual results for Awadhesh Pratap Singh University (APSU) Rewa for the 2024 session."; 
+$meta_keywords = "apsu result 2024, check apsu rewa results online, official apsu mp link, apsu semester result 2024 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "apsu result 2024 - Official University Portal";
+$meta_description = "Check apsu result 2024 online. Access the semester and annual results for Awadhesh Pratap Singh University (APSU) Rewa for the 2024 session.";
+$meta_keywords = "apsu result 2024, check apsu rewa results online, official apsu mp link, apsu semester result 2024 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "apsu result 2024, check apsu rewa results online, official aps
                 <a href="https://apsu.mponline.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="APSU MPOnline Results" target="_blank">Access APSU HUB</a>
                 <a href="https://madhya-pradesh.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="MP Name site" target="_blank">Visit 2024 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official apsu result 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your university, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "apsu result 2024, check apsu rewa results online, official aps
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to apsu result 2024 data, please visit the APSU headquarters in Rewa or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About apsu result 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "apsu result 2024, check apsu rewa results online, official aps
         <br>
         <strong>3. Is the result from apsu result 2024 valid for degree award?</strong>
         <p>Yes, your university results (verified via the official "apsu result 2024" portal) are recorded in the state database and serve as primary data for final degree issuance.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 arts result 2022 - Official National Archive Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>class 12 arts result 2022 - Official National Archive Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "class 12 arts result 2022 - Official National Archive Gateway"; 
+$meta_description = "Check class 12 arts result 2022 for all major boards including RBSE, UP, and more. Access the official 2022 Senior Secondary Arts result hub on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse 2022 Arts Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Name-wise result retrieval for all 2022 arts exams.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +86,7 @@ $meta_keywords = "";
                     <strong>class 12 arts result 2022</strong> hub is essential for students to complete their
                     university registration and scholarship applications efficiently. This digital scorecard acts as a
                     valid provisional certificate for all academic purposes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,26 +99,25 @@ $meta_keywords = "";
                         <p>Yes, the <strong>class 12 arts result 2022</strong> portal on <strong>indiaresults</strong>
                             includes full name-wise search support for all 12th-grade Arts candidates of various boards.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2022 academic results official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. All major board results covered under <strong>class 12 arts result 2022</strong>
                             are mirrored from official databases, making them 100% authentic for provisional use.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for BA admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>class 12 arts result 2022</strong> is a valid provisional
                             document accepted for initial college and university registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

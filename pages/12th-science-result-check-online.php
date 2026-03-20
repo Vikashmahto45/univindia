@@ -7,9 +7,27 @@ $meta_keywords = "12th science result check online, check rajasthan 12th science
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Science Result Check Online - Official National Mirror</div>
-    <h2 class='sr-title'>12th Science Result Check Online: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Senior Secondary School Examination (Class 12), Science Stream, and All-India State Board Result Gateways (Government of Rajasthan, Punjab, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>12th Science Result Check Online - Official National Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "12th Science Result Check Online - Official National Mirror"; 
+$meta_description = "Check 12th Science Result 2023 & 2024 online. Access the Rajasthan, Punjab, and other state Senior Secondary Science results. Official high-speed check online links."; 
+$meta_keywords = "12th science result check online, check rajasthan 12th science result online, bser science 12th 2024 check, official science result portal, rajresults.nic.in science"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "12th Science Result Check Online - Official National Mirror";
+$meta_description = "Check 12th Science Result 2023 & 2024 online. Access the Rajasthan, Punjab, and other state Senior Secondary Science results. Official high-speed check online links.";
+$meta_keywords = "12th science result check online, check rajasthan 12th science result online, bser science 12th 2024 check, official science result portal, rajresults.nic.in science";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "12th science result check online, check rajasthan 12th science
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults" target="_blank">Visit Official Mirror</a>
                 <a href="http://pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Punjab Board Link" target="_blank">Access Punjab Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Check 12th Science Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "12th science result check online, check rajasthan 12th science
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 12th Science Result Check Online data, please visit the respective Board headquarters or your school Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 12th Science Result Check Online Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "12th science result check online, check rajasthan 12th science
         <br>
         <strong>3. Is the result from 12th Science Result Check Online valid for JEE/NEET?</strong>
         <p>Yes, your board results (verified via the official "12th Science Result Check Online" portal) are recorded in the state database and serve as secondary verification for entrance exam eligibility.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

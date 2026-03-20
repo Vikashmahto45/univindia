@@ -7,9 +7,27 @@ $meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, oris
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub</div>
-    <h2 class='sr-title'>CHSE Odisha Result 2023 Arts: Reclaiming the Academic Successes of the Creative Class</h2>
+    <h2 class='sr-title'>CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub"; 
+$meta_description = "Check CHSE Odisha Result 2023 Arts for official +2 board examinations. Access the 2023 archival results, stream-wise merit lists, and marksheet download links."; 
+$meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, orissaresults.nic.in arts 2023, chse odisha +2 arts result archive, bseodisha.ac.in inter arts result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub";
+$meta_description = "Check CHSE Odisha Result 2023 Arts for official +2 board examinations. Access the 2023 archival results, stream-wise merit lists, and marksheet download links.";
+$meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, orissaresults.nic.in arts 2023, chse odisha +2 arts result archive, bseodisha.ac.in inter arts result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, oris
                 <a href="http://chseodisha.nic.in" class="btn" title="CHSE Odisha Official Council Site" target="_blank">CHSE Odisha Main</a>
                 <a href="http://odisha.indiaresults.com" class="btn" title="Odisha Result Name Wise search" target="_blank">IndiaResults Odisha</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CHSE Odisha Result 2023 Arts</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, oris
         <br>
         <strong>3. Is the online copy of CHSE Arts Result 2023 valid for Degree admission?</strong>
         <p>Yes, the computer-generated "CHSE Odisha Result 2023 Arts" scorecard is accepted for initial admission and document verification in colleges across Odisha until the physical marksheet is provided by the board office.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

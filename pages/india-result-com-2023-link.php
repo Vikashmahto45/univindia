@@ -7,11 +7,27 @@ $meta_keywords = "india result com 2023, indiaresults 2023, check board result 2
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result com 2023 - Official IndiaResults Archive</div>
-    <h2 class='sr-title'>india result com 2023: Your Unrivaled Navigator to National Mirror Hubs, State Board Archives, and All-India
-            University Result Gateways (IndiaResults, National Informatics Centre (NIC), and State Portals) Result
-            Gateways and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india result com 2023 - Official IndiaResults Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result com 2023 - Official IndiaResults Archive"; 
+$meta_description = "Check india result com 2023 for all boards and universities. Access the 2023 result archive on indiaresults.com for 10th, 12th, and degree exams."; 
+$meta_keywords = "india result com 2023, indiaresults 2023, check board result 2023, indiaresults university result 2023, 2023 result mirror"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result com 2023 - Official IndiaResults Archive";
+$meta_description = "Check india result com 2023 for all boards and universities. Access the 2023 result archive on indiaresults.com for 10th, 12th, and degree exams.";
+$meta_keywords = "india result com 2023, indiaresults 2023, check board result 2023, indiaresults university result 2023, 2023 result mirror";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -67,8 +83,7 @@ $meta_keywords = "india result com 2023, indiaresults 2023, check board result 2
                 <a href="https://results.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="Govt Results 2023" target="_blank">National Result Gateway</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result com 2023 Online</h2>
         <p>To ensure a successful result search in the 2023 records, follow these technical steps:</p>
@@ -104,7 +119,7 @@ $meta_keywords = "india result com 2023, indiaresults 2023, check board result 2
                 related to india result com 2023 data, please visit the respective Board or University headquarters or
                 your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Com 2023</h2>
@@ -120,8 +135,13 @@ $meta_keywords = "india result com 2023, indiaresults 2023, check board result 2
         <strong>3. Can I get the 2023 degree result on this portal?</strong>
         <p>Yes, the "india result com 2023" includes results for all major Undergraduate (UG) and Postgraduate (PG)
             courses conducted in 2023 across Indian universities.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

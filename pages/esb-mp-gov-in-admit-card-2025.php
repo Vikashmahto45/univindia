@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in</div>
-    <h2 class='sr-title'>ESB MP Gov In Admit Card 2025: MP Selection Board Hall Ticket</h2>
+    <h2 class='sr-title'>ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in";
+$page_description = "Download ESB MP Gov In Admit Card 2025 for MP Police, Patwari, Teacher, and other exams. Get direct link for MPPEB Hall Ticket and Exam Schedule. 800+ words of detailed guide.";
+$page_keywords = "esb mp gov in admit card 2025, MP ESB Admit Card Download, MPPEB Vyapam Hall Ticket, MP Police Admit Card, MP Patwari Admit Card 2025";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -94,22 +113,19 @@ $meta_keywords = "";
                             <i class="fas fa-print fa-2x text-danger mb-2"></i>
                             <h6 class="text-white">Colored Admit Card</h6>
                             <p class="small text-light-gray">Print both parts of the call letter.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 text-center h-100 shadow">
                             <i class="fas fa-id-badge fa-2x text-danger mb-2"></i>
                             <h6 class="text-white">Original Aadhar</h6>
                             <p class="small text-light-gray">E-Aadhar or Aadhar card is accepted.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 text-center h-100 shadow">
                             <i class="fas fa-camera fa-2x text-danger mb-2"></i>
                             <h6 class="text-white">Passport Photo</h6>
                             <p class="small text-light-gray">Same photo as used in MP ESB form.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">MP ESB FAQ - Candidates' Queries</h2>
@@ -123,8 +139,7 @@ $meta_keywords = "";
                         <div id="esbQ1" class="accordion-collapse collapse" data-bs-parent="#esbFaq">
                             <div class="accordion-body text-light-gray">
                                 The TAC Code is printed on your MP ESB Application Form. It is a 4-digit code located on the top-right corner, required for accessing the final hall ticket.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -135,10 +150,8 @@ $meta_keywords = "";
                         <div id="esbQ2" class="accordion-collapse collapse" data-bs-parent="#esbFaq">
                             <div class="accordion-body text-light-gray">
                                 You must carry two original passport-sized photos and contact the MP ESB helpline or the center observer immediately upon arrival at the test venue.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark shadow">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> MP Education Links</h5>
@@ -146,14 +159,14 @@ $meta_keywords = "";
                         <a href="mp-board-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">MP Board 10/12 Admit Card</a>
                         <a href="mpbse-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">MPBSE Call Letter</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marker-alt me-2"></i> Madhya Pradesh Universities</h3>
                 <div class="row g-3">
+                    <?php
                     $mp_univ = [
                         'davv-admit-card.php' => 'DAVV Indore Admit Card',
                         'jiwaji-admit-card.php' => 'Jiwaji Gwalior Hall Ticket',
@@ -167,11 +180,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -199,6 +211,12 @@ $meta_keywords = "";
     transform: scale(1.05);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

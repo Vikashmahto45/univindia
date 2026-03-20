@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "inter 1st year supplementary results 2023 - Official National Inter Hub"; 
 $meta_description = "Check Intermediate 1st year supplementary result 2023 on inter 1st year supplementary results 2023. Access official indiaresults gateway for Inter Supply scorecards."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter 1st year supplementary results 2023 - Official National Inter Hub</div>
+    <h2 class='sr-title'>inter 1st year supplementary results 2023 - Official National Inter Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "inter 1st year supplementary results 2023 - Official National Inter Hub"; 
+$meta_description = "Check Intermediate 1st year supplementary result 2023 on inter 1st year supplementary results 2023. Access official indiaresults gateway for Inter Supply scorecards."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all 2023 academic session Intermediate (1st
                 Year) Supplementary/Improvement examination results across India. Access official board mirrors and
                 direct result links for all participating state boards.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Supply Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify board results (Inter 1st Year Supply) 2023 by student roll number or hall ticket
                         alternative criteria for the 2023 examination batch.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +100,7 @@ $meta_keywords = "";
                     <strong>inter 1st year supplementary results 2023</strong> archive hub is essential for students to
                     complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,16 +112,14 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>inter 1st year supplementary results 2023</strong> are
                             permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Inter Supplementary results by name on
                         android?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>inter 1st year supplementary results 2023</strong> portal includes a
                             dedicated name-wise search for student examinees for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 Inter Supply marksheet valid for 2nd year
                         admission?</button>
@@ -119,11 +127,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>inter 1st year supplementary results
                                 2023</strong> gateway is a valid provisional document accepted for continuing school
                             registration and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

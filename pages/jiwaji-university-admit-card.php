@@ -1,11 +1,26 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket"; 
 $meta_description = "Download Jiwaji University Gwalior Admit Card for Semester and Annual Examinations. Get direct links for UG/PG Private and Regular Student Hall Tickets at jiwaji.edu."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket</div>
+    <h2 class='sr-title'>Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket"; 
+$meta_description = "Download Jiwaji University Gwalior Admit Card for Semester and Annual Examinations. Get direct links for UG/PG Private and Regular Student Hall Tickets at jiwaji.edu."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +32,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4 rounded-5 overflow-hidden">
                 <div class="card-body p-5">
-                    <h1 class="display-5 fw-bold text-dark border-bottom pb-3 mb-4">Jiwaji University Admit Card Gwalior</h1>
+                    
                     <p class="lead">Jiwaji University Gwalior is the premier educational institution for students in the Gwalior and Chambal regions. The university conducts examinations for a vast array of courses including B.A, B.Sc, B.Com, B.Lib, M.A, M.Sc, M.Com, and many more. The Jiwaji University Admit Card is the most crucial document for all students appearing in these exams.</p>
                     
                     <div class="row align-items-center bg-light p-4 rounded-5 my-5 border">
@@ -27,8 +42,7 @@ $meta_keywords = "";
                         <div class="col-md-10">
                             <h4 class="fw-bold">Admit Card Availability</h4>
                             <p class="mb-0">The hall tickets for Jiwaji University examinations are typically made available online 7 to 10 days before the commencement of each semester's papers. Students belonging to both Regular and Private categories must download their specific admit cards from the MP Online portal of the university.</p>
-                        </div>
-                    </div>
+                        
 
                     <h2 class="mt-5 fw-bold text-dark pe-border-left border-primary border-5 ps-3 py-1">Importance of Jiwaji University Hall Ticket</h2>
                     <p>The admit card serves as a verification tool for the university and the examination center. It confirms that the student is officially registered for the current session and has paid the necessary examination fees. On the day of the exam, the invigilator checks the hall ticket to verify the student's identification through the photograph and signature provided. Furthermore, it details the exact subjects for which the student is authorized to write the exam.</p>
@@ -45,8 +59,7 @@ $meta_keywords = "";
                         <div class="list-group-item p-3">Select the <strong>Exam Session</strong> (e.g., Dec 2023 or June 2024).</div>
                         <div class="list-group-item p-3">Choose the <strong>Semester/Year</strong> you are appearing for.</div>
                         <div class="list-group-item p-3">Select <strong>Regular, Private, or ATKT/Ex-Student</strong> status.</div>
-                        <div class="list-group-item p-3">Click on <strong>'Search'</strong> and your admit card will load. Save it as a PDF or Print it.</div>
-                    </div>
+                        <div class="list-group-item p-3">Click on <strong>'Search'</strong> and your admit card will load. Save it as a PDF or Print it.
 
                     <h2 class="mt-5 fw-bold text-dark">Required Items for Jiwaji University Examination</h2>
                     <div class="table-responsive mt-3">
@@ -89,8 +102,7 @@ $meta_keywords = "";
                             <div class="col-md-6">
                                 <h6 class="fw-bold"><i class="bi bi-telephone-fill me-2"></i>Official Support</h6>
                                 <p class="small mb-0">Phone: 0751-2441113<br>Website: www.jiwaji.edu</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <div class="mt-5 py-4 bg-light rounded-4 px-4 text-center border">
@@ -99,10 +111,15 @@ $meta_keywords = "";
                     </div>
 
                     <p class="mt-5 text-center text-muted fst-italic">This site is an educational resource. For official portal access, kindly visit <strong>jiwaji.edu</strong> or <strong>jiwaji.mponline.gov.in</strong>.</p>
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

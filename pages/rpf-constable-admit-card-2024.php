@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in</div>
+    <h2 class='sr-title'>RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in";
+$page_description = "RPF Constable Admit Card 2024 Download Link. Get hall ticket for Railway Protection Force Constable CBT Exam. Physical test date, exam city, and instructions.";
+$page_keywords = "RPF Constable Admit Card 2024, Railway RPF Hall Ticket, RPF Constable Exam Date 2024, Download RPF Call Letter, rrbapply.gov.in admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">RPF Constable <span class="text-warning">Admit Card 2024</span></h1>
+            
             
             <div class="alert alert-info border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">CBT Examination Update:</h4>
                         <p class="mb-0">The Railway Recruitment Board (RRB) is preparing the <strong>RPF Constable Admit Card 2024</strong> for the upcoming Computer Based Test. Candidates will be able to check their exam city intimation 10 days before the scheduled date.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -104,22 +126,19 @@ $meta_keywords = "";
                                     <i class="fas fa-id-card-alt fa-2x text-warning mb-2"></i>
                                     <p class="small m-0 text-white fw-bold">Original Photo ID</p>
                                     <span class="x-small text-white-50">(Aadhar/Voter/PAN)</span>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary border border-secondary rounded-4 h-100 shadow-sm d-flex flex-column justify-content-center align-items-center">
                                     <i class="fas fa-portrait fa-2x text-warning mb-2"></i>
                                     <p class="small m-0 text-white fw-bold">Recent Passport Photo</p>
                                     <span class="x-small text-white-50">(Two Copies)</span>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary border border-secondary rounded-4 h-100 shadow-sm d-flex flex-column justify-content-center align-items-center">
                                     <i class="fas fa-print fa-2x text-warning mb-2"></i>
                                     <p class="small m-0 text-white fw-bold">Printed Admit Card</p>
                                     <span class="x-small text-white-50">(Two clear copies)</span>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">RPF Constable Selection Process 2024</h2>
@@ -142,8 +161,7 @@ $meta_keywords = "";
                                 <div id="rf1" class="accordion-collapse collapse" data-bs-parent="#rpfConstableFaq">
                                     <div class="accordion-body text-white-50">
                                         The e-call letter is usually released 4 days before the exam date. However, candidates can check their exam city and date 10 days in advance.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white">
                                 <h3 class="accordion-header">
@@ -154,14 +172,11 @@ $meta_keywords = "";
                                 <div id="rf2" class="accordion-collapse collapse" data-bs-parent="#rpfConstableFaq">
                                     <div class="accordion-body text-white-50">
                                         No, RPF/RRB will not send any physical admit cards to the mailing address. It must be downloaded online from rrbapply.gov.in.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- Interlinking Table -->
             <div class="bg-dark p-5 rounded-4 border border-secondary shadow-lg mt-5">
@@ -178,12 +193,10 @@ $meta_keywords = "";
                     </div>
                     <div class="col-md-3">
                         <a href="../index.php" class="d-block p-3 bg-primary border-0 rounded-4 text-white text-decoration-none text-center shadow-sm hover-lift fw-bold">Home Portal</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </div>
-</main>
+
 
 <style>
 .text-warning {
@@ -206,3 +219,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

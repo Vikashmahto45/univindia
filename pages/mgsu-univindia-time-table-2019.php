@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MGSU Univindia Time Table 2019 - Bikaner University Exam Schedule Archive"; 
 $meta_description = "Check the MGSU Bikaner 2019 time table via Univindia. Official guide to the historical 2019 Maharaja Ganga Singh University examination schedules."; 
 $meta_keywords = "mgsu univindia time table 2019"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MGSU Univindia Time Table 2019 - Bikaner University Exam Schedule Archive</div>
+    <h2 class='sr-title'>MGSU Univindia Time Table 2019 - Bikaner University Exam Schedule Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MGSU Univindia Time Table 2019 - Bikaner University Exam Schedule Archive"; 
+$meta_description = "Check the MGSU Bikaner 2019 time table via Univindia. Official guide to the historical 2019 Maharaja Ganga Singh University examination schedules."; 
+$meta_keywords = "mgsu univindia time table 2019"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MGSU Univindia Time Table 2019 - Bikaner University Exam Schedule Archive";
+$meta_description = "Check the MGSU Bikaner 2019 time table via Univindia. Official guide to the historical 2019 Maharaja Ganga Singh University examination schedules.";
+$meta_keywords = "mgsu univindia time table 2019";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MGSU Univindia Time Table 2019: Exploring the Historical Bikaner Exam Schedule</h1>
+        
         
         <p>The term "MGSU Univindia Time Table 2019" refers to the definitive examination schedules published by Maharaja Ganga Singh University (MGSU), Bikaner, for the 2019 academic session. For researchers, alumni, and administrative staff analyzing the university's academic history, this specific archive on the `univindia.net` network provides a clear snapshot of the examination logistics from the late 2010s. Whether you are verifying the exact dates of a particular 2019 subject exam or studying the university's scheduling patterns, the 2019 time table gateway is the digital bridge to those permanent records. In this comprehensive guide, we will provides a detailed exploration of the 2019 MGSU time table infrastructure, explain its role in academic management, and offer expert advice on how to access and interpret legacy schedules from the Bikaner university system via the Univindia network.</p>
 
@@ -53,6 +75,15 @@ $meta_keywords = "mgsu univindia time table 2019";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized historical declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

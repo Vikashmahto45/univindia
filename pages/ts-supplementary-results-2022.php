@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "TS Supplementary Results 2022 - Official Telangana TSBIE Archive"; 
 $meta_description = "Check TS Supplementary Results 2022 online. Access the historical Telangana State Board of Intermediate Education (TSBIE) 1st & 2nd year IPASE results. Official Link."; 
 $meta_keywords = "ts supplementary results 2022, check telangana inter supply result 2022 online, tsbie.cgg.gov.in 2022 supply, official 2022 ts ipase link, indiaresult ts 2022"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; TS Supplementary Results 2022 - Official Telangana TSBIE Archive</div>
+    <h2 class='sr-title'>TS Supplementary Results 2022 - Official Telangana TSBIE Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "TS Supplementary Results 2022 - Official Telangana TSBIE Archive"; 
+$meta_description = "Check TS Supplementary Results 2022 online. Access the historical Telangana State Board of Intermediate Education (TSBIE) 1st & 2nd year IPASE results. Official Link."; 
+$meta_keywords = "ts supplementary results 2022, check telangana inter supply result 2022 online, tsbie.cgg.gov.in 2022 supply, official 2022 ts ipase link, indiaresult ts 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "TS Supplementary Results 2022 - Official Telangana TSBIE Archive";
+$meta_description = "Check TS Supplementary Results 2022 online. Access the historical Telangana State Board of Intermediate Education (TSBIE) 1st & 2nd year IPASE results. Official Link.";
+$meta_keywords = "ts supplementary results 2022, check telangana inter supply result 2022 online, tsbie.cgg.gov.in 2022 supply, official 2022 ts ipase link, indiaresult ts 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>TS Supplementary Results 2022: Your Comprehensive Navigator to Telangana State Board of Intermediate Education (TSBIE), Hyderabad, Intermediate Public Advanced Supplementary Examinations (IPASE), 1st Year, 2nd Year, and Telangana State Board Result Gateways (Government of Telangana, Education Department, and Centre for Good Governance (CGG)) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "TS Supplementary Results 2022" (applicable to the Intermediate Public Advanced Supplementary Examinations (IPASE) and specialized improvement evaluations conducted for the 2021-2022 academic session by the TSBIE Hyderabad) represents a significant digital milestone for over 3 lakh students residing in the academic and industrial landscape of Telangana. As the primary official gateway to the state's historical supplementary infrastructure (Hyderabad, TSBIE HQ), and the traditional higher education infrastructure of the nation, the "TS Supplementary Results 2022" serves as the formal academic master directory that allows candidates to access their theory scores, practical assessment marks, and final memo of marks via dedicated government server endpoints and authorized mirror archives. For the 2022 IPASE cycle, which marked a critical second chance for students to secure their academic future and improve their scores for university admissions, the "TS Supplementary Results 2022" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Telangana education councils implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the 2022 supply scores (including subject-wise marks, weighted averages, and qualifying status) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "TS Supplementary Results 2022," ensuring that every student and researcher in Telangana can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "ts supplementary results 2022, check telangana inter supply re
                 <a href="https://results.cgg.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CGG Result Cluster" target="_blank">Visit CGG Results</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official TS Supplementary Results 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your Telangana board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "ts supplementary results 2022, check telangana inter supply re
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to TS Supplementary Results 2022, please visit the TSBIE headquarters in Hyderabad or your respective Junior College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About TS Supplementary Results 2022 Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "ts supplementary results 2022, check telangana inter supply re
         <br>
         <strong>3. Is the result from TS Supplementary Results 2022 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "TS Supplementary Results 2022" portal) are digitized and available in the DigiLocker archive for official verification.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

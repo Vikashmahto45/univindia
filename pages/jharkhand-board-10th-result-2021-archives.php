@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jharkhand board 10th result 2021 - Official JAC Matric Hub"; 
 $meta_description = "Check Jharkhand Board 10th result 2021 on jharkhand board 10th result 2021. Access official JAC Matric 2021 archival scorecards on indiaresults portal."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jharkhand board 10th result 2021 - Official JAC Matric Hub</div>
+    <h2 class='sr-title'>jharkhand board 10th result 2021 - Official JAC Matric Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jharkhand board 10th result 2021 - Official JAC Matric Hub"; 
+$meta_description = "Check Jharkhand Board 10th result 2021 on jharkhand board 10th result 2021. Access official JAC Matric 2021 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Jharkhand
                 Academic Council (JAC) Class 10th (Secondary/Matric) examination. Official Jharkhand board mirrors and
                 2021 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Matric Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Jharkhand Board (jac.jharkhand.gov.in) 10th results 2021 by student name alternative
                         criteria for the 2021 Matric examination batch.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -88,8 +99,7 @@ $meta_keywords = "";
                     practical marks for all students. Having a verified digital result from the <strong>jharkhand board
                         10th result 2021</strong> archive hub is essential for students to complete their academic
                     verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,8 +112,7 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>jharkhand board 10th result 2021</strong> are permanently
                             archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2021 Jharkhand 10th results by name only on
                         mobile?</button>
@@ -111,8 +120,7 @@ $meta_keywords = "";
                         <p>Absolutely. The <strong>jharkhand board 10th result 2021</strong> portal is fully
                             mobile-responsive and includes a dedicated name-wise search for student examinees in
                             Jharkhand.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 JAC 10th marksheet valid for 11th
                         admission?</button>
@@ -120,11 +128,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>jharkhand board 10th result 2021</strong>
                             gateway is a valid provisional document accepted for initial institutional registration
                             across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

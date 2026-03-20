@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download RRB JE Admit Card. Get the direct link for Railway Recruitment Board (RRB) Junior Engineer (JE), DMS, and CMA hall tickets at rrbcdg.gov.in."; 
 $meta_keywords = "rrb je admit card, railway junior engineer hall ticket download, rrb je cbt 1 exam date 2024, rrbcdg.gov.in je admit card login, railway je call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download RRB JE Admit Card. Get the direct link for Railway Recruitment Board (RRB) Junior Engineer (JE), DMS, and CMA hall tickets at rrbcdg.gov.in."; 
+$meta_keywords = "rrb je admit card, railway junior engineer hall ticket download, rrb je cbt 1 exam date 2024, rrbcdg.gov.in je admit card login, railway je call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online";
+$meta_description = "Download RRB JE Admit Card. Get the direct link for Railway Recruitment Board (RRB) Junior Engineer (JE), DMS, and CMA hall tickets at rrbcdg.gov.in.";
+$meta_keywords = "rrb je admit card, railway junior engineer hall ticket download, rrb je cbt 1 exam date 2024, rrbcdg.gov.in je admit card login, railway je call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "rrb je admit card, railway junior engineer hall ticket downloa
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Engineering Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

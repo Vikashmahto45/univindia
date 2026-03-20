@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "uttrakhand board result - Official UBSE Result Portal Hub"; 
 $meta_description = "Check uttrakhand board result for Class 10th and 12th examinations. Access the official Uttarakhand (UBSE) result gateway on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; uttrakhand board result - Official UBSE Result Portal Hub</div>
+    <h2 class='sr-title'>uttrakhand board result - Official UBSE Result Portal Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "uttrakhand board result - Official UBSE Result Portal Hub"; 
+$meta_description = "Check uttrakhand board result for Class 10th and 12th examinations. Access the official Uttarakhand (UBSE) result gateway on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest High School and Intermediate results for Uttarakhand.
                 Official UBSE mirrors and portal links updated for the board examinations.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check UK Board Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify UK board results by student name alternative.</p>
                     <a href="https://uttarakhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +87,7 @@ $meta_keywords = "";
                     subject-wise breakdown of marks and overall percentages. Having a verified digital result from the
                     <strong>uttrakhand board result</strong> hub is essential for students to complete their certificate
                     verification and proof of academic secondary education.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,27 +100,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>uttrakhand board result</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for all participating High School and Inter
                             candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the online results official for college admission?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for various
                             state boards including UBSE, ensuring that all result data is mirrored directly from
                             official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for Higher Education?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>uttrakhand board result</strong> hub is a valid
                             provisional document accepted for initial college registration and document verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

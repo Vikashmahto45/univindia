@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access"; 
 $meta_description = "Access the Univindia Org AlwarUniv StudentPanel for RRBMU Alwar. Official guide to navigating your personalized university dashboard online."; 
 $meta_keywords = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access</div>
+    <h2 class='sr-title'>Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access"; 
+$meta_description = "Access the Univindia Org AlwarUniv StudentPanel for RRBMU Alwar. Official guide to navigating your personalized university dashboard online."; 
+$meta_keywords = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access";
+$meta_description = "Access the Univindia Org AlwarUniv StudentPanel for RRBMU Alwar. Official guide to navigating your personalized university dashboard online.";
+$meta_keywords = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard Access";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Org AlwarUniv StudentPanel: Your Personalized RRBMU Dashboard Guide</h1>
+        
         
         <p>The term "Univindia Org AlwarUniv StudentPanel" refers to the centralized digital nerve center for students of the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar. For thousands of undergraduate and postgraduate students in Eastern Rajasthan, this specific dashboard (typically hosted within the `/alwaruniv` directory on the `univindia.org` network) is the essential platform for managing their entire academic life. Whether you are checking your registration status, downloading your admit card, or awaiting your final result, the AlwarUniv StudentPanel is the organized, high-performance interface that orchestrates all student-facing services. In this comprehensive guide, we will provide a detailed walkthrough of the StudentPanel's structure, explain how to navigate its various functionally distinct sections, and offer expert advice on ensuring a seamless and secure digital experience at RRBMU Alwar.</p>
 
@@ -49,6 +71,15 @@ $meta_keywords = "Univindia Org AlwarUniv StudentPanel - RRBMU Alwar Dashboard A
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official RRBMU Alwar website at univindia.org.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

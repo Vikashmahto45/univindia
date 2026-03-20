@@ -7,9 +7,27 @@ $meta_keywords = "india results 2023, check all india board results 2023 online,
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Results 2023 - Official All-India Board Mirror Portal</div>
-    <h2 class='sr-title'>India Results 2023: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, UP, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Results 2023 - Official All-India Board Mirror Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Results 2023 - Official All-India Board Mirror Portal"; 
+$meta_description = "Check India Results 2023 online. Access the historical Rajasthan, Punjab, UP, and global state board results for the 2023 session. Unified 2023 national mirror."; 
+$meta_keywords = "india results 2023, check all india board results 2023 online, official india results 2023 link, national 2023 result hub, indiaresults.com state 2023"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Results 2023 - Official All-India Board Mirror Portal";
+$meta_description = "Check India Results 2023 online. Access the historical Rajasthan, Punjab, UP, and global state board results for the 2023 session. Unified 2023 national mirror.";
+$meta_keywords = "india results 2023, check all india board results 2023 online, official india results 2023 link, national 2023 result hub, indiaresults.com state 2023";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india results 2023, check all india board results 2023 online,
                 <a href="https://upmsp.edu.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official UP Board Portal" target="_blank">Access UPMSP 2023</a>
                 <a href="http://puniab.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Punjab Results Hub" target="_blank">Access Punjab HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Results 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india results 2023, check all india board results 2023 online,
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Results 2023 data, please visit the respective Board headquarters or your school Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Results 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india results 2023, check all india board results 2023 online,
         <br>
         <strong>3. Is the result from India Results 2023 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Results 2023" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

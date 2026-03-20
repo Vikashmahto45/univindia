@@ -9,7 +9,26 @@ $meta_keywords = "cbse admit card download, central board hall ticket download, 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online"; 
+$meta_description = "Download CBSE Admit Card. Get the direct link for CBSE Class 10th and 12th Board examination hall tickets at cbse.gov.in."; 
+$meta_keywords = "cbse admit card download, central board hall ticket download, cbse.gov.in login admit card, class 10 exam date 2024 download, class 12 board call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online";
+$meta_description = "Download CBSE Admit Card. Get the direct link for CBSE Class 10th and 12th Board examination hall tickets at cbse.gov.in.";
+$meta_keywords = "cbse admit card download, central board hall ticket download, cbse.gov.in login admit card, class 10 exam date 2024 download, class 12 board call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CBSE Admit Card: Download Central Board Class 10th & 12th Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "cbse admit card download, central board hall ticket download, 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Latest Results News</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

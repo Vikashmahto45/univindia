@@ -7,9 +7,27 @@ $meta_keywords = "bse odisha, check bse odisha results online, bseodisha.ac.in, 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha - Official Board of Secondary Education Matrix Hub</div>
-    <h2 class='sr-title'>BSE Odisha: Your Comprehensive Navigator to Board of Secondary Education (BSE), Odisha, Cuttack, Secondary School (Class 10), High School Certificate (HSC), Madhyama, and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>BSE Odisha - Official Board of Secondary Education Matrix Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "BSE Odisha - Official Board of Secondary Education Matrix Hub"; 
+$meta_description = "Check BSE Odisha results online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) and Madhyama results. Official Link."; 
+$meta_keywords = "bse odisha, check bse odisha results online, bseodisha.ac.in, official bse odisha portal, indiaresult bse odisha, odisha matric result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "BSE Odisha - Official Board of Secondary Education Matrix Hub";
+$meta_description = "Check BSE Odisha results online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) and Madhyama results. Official Link.";
+$meta_keywords = "bse odisha, check bse odisha results online, bseodisha.ac.in, official bse odisha portal, indiaresult bse odisha, odisha matric result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "bse odisha, check bse odisha results online, bseodisha.ac.in, 
                 <a href="https://orissaresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Odisha Result HUB" target="_blank">Visit Results Portal</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official BSE Odisha Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "bse odisha, check bse odisha results online, bseodisha.ac.in, 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to BSE Odisha data, please visit the BSE headquarters in Cuttack or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About BSE Odisha Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "bse odisha, check bse odisha results online, bseodisha.ac.in, 
         <br>
         <strong>3. Is the result from BSE Odisha valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "BSE Odisha" portal) are recorded in the state scholarship database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

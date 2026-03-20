@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online"; 
 $meta_description = "Download SSCER GD Admit Card 2024 for Eastern Region. Check SSC GD Constable application status, PET/PST date, and exam center list for West Bengal, Odisha, Jharkhand at sscer.org."; 
 $meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, sscer.org gd status, ssc gd admit card kolkata, ssc gd constable admit card eastern region"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online</div>
+    <h2 class='sr-title'>SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online"; 
+$meta_description = "Download SSCER GD Admit Card 2024 for Eastern Region. Check SSC GD Constable application status, PET/PST date, and exam center list for West Bengal, Odisha, Jharkhand at sscer.org."; 
+$meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, sscer.org gd status, ssc gd admit card kolkata, ssc gd constable admit card eastern region"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online";
+$meta_description = "Download SSCER GD Admit Card 2024 for Eastern Region. Check SSC GD Constable application status, PET/PST date, and exam center list for West Bengal, Odisha, Jharkhand at sscer.org.";
+$meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, sscer.org gd status, ssc gd admit card kolkata, ssc gd constable admit card eastern region";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -96,8 +119,16 @@ $meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, s
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Browse Call Letters</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

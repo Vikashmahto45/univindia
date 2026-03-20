@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "PEB MP Admit Card 2021 Download - Madhya Pradesh Vyapam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download PEB MP Admit Card 2021. Get the direct link for Madhya Pradesh Professional Examination Board (PEB) exam hall tickets at peb.mp.gov.in (MPPEB)."; 
 $meta_keywords = "peb.mp.gov.in admit card 2021, mp vyapam admit card 2021 download, mppeb hall ticket 2021 login, peb mp gov in admit card download, group 2 subgroup 4 admit card"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; PEB MP Admit Card 2021 Download - Madhya Pradesh Vyapam Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>PEB MP Admit Card 2021 Download - Madhya Pradesh Vyapam Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "PEB MP Admit Card 2021 Download - Madhya Pradesh Vyapam Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download PEB MP Admit Card 2021. Get the direct link for Madhya Pradesh Professional Examination Board (PEB) exam hall tickets at peb.mp.gov.in (MPPEB)."; 
+$meta_keywords = "peb.mp.gov.in admit card 2021, mp vyapam admit card 2021 download, mppeb hall ticket 2021 login, peb mp gov in admit card download, group 2 subgroup 4 admit card"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "PEB MP Admit Card 2021 Download - Madhya Pradesh Vyapam Hall Ticket Link | Univindia.online";
+$meta_description = "Download PEB MP Admit Card 2021. Get the direct link for Madhya Pradesh Professional Examination Board (PEB) exam hall tickets at peb.mp.gov.in (MPPEB).";
+$meta_keywords = "peb.mp.gov.in admit card 2021, mp vyapam admit card 2021 download, mppeb hall ticket 2021 login, peb mp gov in admit card download, group 2 subgroup 4 admit card";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "peb.mp.gov.in admit card 2021, mp vyapam admit card 2021 downl
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest MP Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

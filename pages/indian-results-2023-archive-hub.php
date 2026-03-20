@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian results 2023 - Official National Result Archive Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>indian results 2023 - Official National Result Archive Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indian results 2023 - Official National Result Archive Portal"; 
+$meta_description = "Check indian results 2023 for all state and central board results. Access the official 2023 India result archive on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify all 2023 India results by student name or roll number alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +88,7 @@ $meta_keywords = "";
                     digital result from the <strong>indian results 2023</strong> hub is essential for students to
                     complete their academic verification and proof of educational attainment during university
                     registration and document verification processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,28 +101,27 @@ $meta_keywords = "";
                         <p>Yes, all results under <strong>indian results 2023</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for archival and verification
                             access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check result by name for my 2023 exam?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indian results 2023</strong> portal includes a dedicated name-wise
                             search for most major board examinations across different Indian states for the 2023
                             session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>indian results 2023</strong> archive is a valid
                             provisional document accepted for initial college and university registration and document
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

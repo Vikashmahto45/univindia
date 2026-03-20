@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; apsu result 2023 2nd year - Official APSU Rewa 2023 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>apsu result 2023 2nd year - Official APSU Rewa 2023 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "apsu result 2023 2nd year - Official APSU Rewa 2023 Archive"; 
+$meta_description = "Check Awadhesh Pratap Singh University 2nd year result 2023 on apsu result 2023 2nd year. Access official APSU Rewa archival results on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 APSU Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify APSU degree results 2023 by student name alternative criteria for the 2023 academic
                         examination batch on <strong>apsu result 2023 2nd year</strong> mirrors.</p>
                     <a href="https://madhya-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -93,8 +100,7 @@ $meta_keywords = "";
                     practical marks for all students. Having a verified digital result from the <strong>apsu result 2023
                         2nd year</strong> archive hub is essential for students to complete their academic verification
                     and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -106,15 +112,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>apsu result 2023 2nd year</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 APSU degree results by name only online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>apsu result 2023 2nd year</strong> portal includes a dedicated
                             name-wise search for student examinees in Rewa for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 APSU marksheet valid for Final Year
                         registration?</button>
@@ -122,12 +126,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>apsu result 2023 2nd year</strong> gateway
                             is a valid provisional document accepted for initial university registration and
                             verification across Madhya Pradesh.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

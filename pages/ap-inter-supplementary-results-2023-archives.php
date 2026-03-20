@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap inter supplementary results 2023 - Official BIEAP 2023 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>ap inter supplementary results 2023 - Official BIEAP 2023 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ap inter supplementary results 2023 - Official BIEAP 2023 Archive"; 
+$meta_description = "Check ap inter supplementary results 2023 for IPASE exams. Access the official 2023 Andhra Pradesh Board of Intermediate Education (BIEAP) archival portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Supple Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify AP Inter Supplementary results 2023 by student name alternative criteria for the 2023
                         session batch verification.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -91,8 +98,7 @@ $meta_keywords = "";
                     digital result from the <strong>ap inter supplementary results 2023</strong> archive hub is
                     essential for students to complete their academic verification and proof of educational attainment
                     even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -104,15 +110,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>ap inter supplementary results 2023</strong> are permanently
                             archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 AP Supple results by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>ap inter supplementary results 2023</strong> portal includes a
                             dedicated name-wise search for student examinees in Andhra Pradesh for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 Supple marksheet official for degree
                         admission?</button>
@@ -120,12 +124,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>ap inter supplementary results 2023</strong>
                             archive is a valid provisional document accepted for initial university registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

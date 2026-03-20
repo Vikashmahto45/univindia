@@ -7,9 +7,27 @@ $meta_keywords = "hs result 2023, check higher secondary result 2023 online, 12t
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HS Result 2023 - Official National Mirror</div>
-    <h2 class='sr-title'>HS Result 2023: Your Comprehensive Navigator to West Bengal Council of Higher Secondary Education (WBCHSE), Assam Higher Secondary Education Council (AHSEC), Council of Higher Secondary Education, Odisha (CHSE), Senior Secondary (Class 12), and All-India State Board Result Gateways (Government of West Bengal, Assam, Odisha, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>HS Result 2023 - Official National Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "HS Result 2023 - Official National Mirror"; 
+$meta_description = "Check HS Result 2023 online. Access the historical Higher Secondary results for WB, Assam, and Odisha for the 2023 session. Official 2023 result mirror link."; 
+$meta_keywords = "hs result 2023, check higher secondary result 2023 online, 12th result 2023 link, official 2023 hs result gateway, indiaresults hs 2023"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "HS Result 2023 - Official National Mirror";
+$meta_description = "Check HS Result 2023 online. Access the historical Higher Secondary results for WB, Assam, and Odisha for the 2023 session. Official 2023 result mirror link.";
+$meta_keywords = "hs result 2023, check higher secondary result 2023 online, 12th result 2023 link, official 2023 hs result gateway, indiaresults hs 2023";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "hs result 2023, check higher secondary result 2023 online, 12t
                 <a href="https://ahsec.assam.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Assam Results" target="_blank">Access Assam HS 2023</a>
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults" target="_blank">Visit 2023 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official HS Result 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "hs result 2023, check higher secondary result 2023 online, 12t
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to HS Result 2023 data, please visit the respective Board/Council headquarters or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About HS Result 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "hs result 2023, check higher secondary result 2023 online, 12t
         <br>
         <strong>3. Is the result from HS Result 2023 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "HS Result 2023" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

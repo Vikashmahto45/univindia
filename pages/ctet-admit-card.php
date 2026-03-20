@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in</div>
-    <h2 class='sr-title'>CTET Admit Card 2025: Download CBSE CTET Hall Ticket Online</h2>
+    <h2 class='sr-title'>CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in";
+$page_description = "Download CTET Admit Card 2025 for Paper 1 & 2. Get direct link to download CBSE CTET Hall Ticket, Exam Schedule, and center details. 800+ words of in-depth guide.";
+$page_keywords = "CTET Admit Card 2025, CBSE CTET Hall Ticket Download, CTET Paper 1 Paper 2 Admit Card, ctet.nic.in admit card download, Central Teacher Eligibility Test Call Letter";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -91,14 +110,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-primary"><i class="fas fa-id-card me-2"></i> Identity Verification</h5>
                             <p class="small text-light-gray mb-0">Carry an original photo ID (Aadhar Card, Driving License, Voter ID, or PAN card). Photocopies are not accepted.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-primary"><i class="fas fa-pen-nib me-2"></i> Stationery Rules</h5>
                             <p class="small text-light-gray mb-0">Carry two ballpoint pens (Blue or Black color). Note that for CBT exams, pens are sometimes provided, but it's safe to carry your own (transparent).</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Common FAQs about CTET Admit Card</h2>
@@ -112,8 +129,7 @@ $meta_keywords = "";
                         <div id="ctetQ1" class="accordion-collapse collapse" data-bs-parent="#ctetFaq">
                             <div class="accordion-body text-light-gray">
                                 Double-check your registration details. If the error persists, use the 'Forgot Application Number' feature or contact the CBSE helpdesk at 011-22240112 immediately.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -124,10 +140,8 @@ $meta_keywords = "";
                         <div id="ctetQ2" class="accordion-collapse collapse" data-bs-parent="#ctetFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, candidates are allowed to carry a 500ml transparent water bottle. Opaque or branded bottles are not permitted.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Important Links</h5>
@@ -135,14 +149,14 @@ $meta_keywords = "";
                         <a href="reet-admit-card-2025.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">REET Admit Card</a>
                         <a href="ugc-net-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">UGC NET Call Letter</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard me-2"></i> Teaching Eligibility Exams</h3>
                 <div class="row g-3">
+                    <?php
                     $teaching = [
                         'mptet-admit-card.php' => 'MP TET Hall Ticket',
                         'uptet-admit-card.php' => 'UP TET Admit Card',
@@ -156,11 +170,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -188,6 +201,12 @@ $meta_keywords = "";
     transform: translateY(-5px);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

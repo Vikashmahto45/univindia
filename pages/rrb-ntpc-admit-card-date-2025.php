@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in</div>
+    <h2 class='sr-title'>RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in";
+$page_description = "Check RRB NTPC Admit Card Date 2025. Get the latest release schedule for Railway NTPC Hall Ticket, CBT 1 Exam Date, and center city intimation. 800+ words of detailed analysis.";
+$page_keywords = "RRB NTPC Admit Card Date 2025, Railway NTPC Hall Ticket Release Date, RRB NTPC Level 2 3 5 6 Admit Card, rrb ntpc cbt 1 exam date 2025, rrbcdg.gov.in ntpc hall ticket";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">RRB NTPC Admit Card Date 2025: Railway Exam Schedule Revealed</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-calendar-alt me-2"></i> <strong>Latest Notification:</strong> The Railway Recruitment Board (RRB) has initiated the process for CEN 03/2024 (NTPC Graduate and Undergraduate posts). The <strong>NTPC Admit Card link</strong> is typically activated 4 days prior to each candidate's specific exam date.
@@ -81,14 +104,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-print me-2"></i> Printed Hall Ticket</h5>
                             <p class="small text-light-gray">Ensure the barcode and your photograph are clearly printed. A laser printout is preferred.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-id-card me-2"></i> Original ID (Aadhar)</h5>
                             <p class="small text-light-gray">Original Aadhar Card is mandatory for most RRB centers as it facilitates real-time biometric matching.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Common FAQs on NTPC Admit Card Download</h2>
@@ -102,8 +123,7 @@ $meta_keywords = "";
                         <div id="ntpQ1" class="accordion-collapse collapse" data-bs-parent="#ntpcDateFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes. While each region has its site, the centralized login portal for downloading hall tickets is typically shared across all RRB websites.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -114,10 +134,8 @@ $meta_keywords = "";
                         <div id="ntpQ2" class="accordion-collapse collapse" data-bs-parent="#ntpcDateFaq">
                             <div class="accordion-body text-light-gray">
                                 The photograph is required for the attendance record (Part B of the hall ticket). Candidates without a photo may be denied entry as it is a specific instruction on the <strong>NTPC Call Letter</strong>.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Railway Useful Links</h5>
@@ -125,14 +143,14 @@ $meta_keywords = "";
                         <a href="rrb-ntpc-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">Primary NTPC Page</a>
                         <a href="rrb-group-d-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">Group D Hall Ticket</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marker-alt me-2"></i> Regional RRB Portals</h3>
                 <div class="row g-3">
+                    <?php
                     $regions = [
                         'rrb-patna-admit-card.php' => 'RRB Patna Admit Card',
                         'rrb-allahabad-admit-card.php' => 'RRB Allahabad Call Letter',
@@ -146,11 +164,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -180,3 +197,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

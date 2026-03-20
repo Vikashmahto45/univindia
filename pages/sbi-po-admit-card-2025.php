@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online"; 
 $meta_description = "Download SBI PO Admit Card 2025. Get the direct link for State Bank of India (SBI) Probationary Officer (PO) Prelims and Mains exam hall tickets at sbi.co.in/careers."; 
 $meta_keywords = "sbi po admit card 2025 download, sbi po hall ticket 2025 download, sbi.co.in careers po login, sbi po exam date 2025 download, banking po call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online"; 
+$meta_description = "Download SBI PO Admit Card 2025. Get the direct link for State Bank of India (SBI) Probationary Officer (PO) Prelims and Mains exam hall tickets at sbi.co.in/careers."; 
+$meta_keywords = "sbi po admit card 2025 download, sbi po hall ticket 2025 download, sbi.co.in careers po login, sbi po exam date 2025 download, banking po call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online";
+$meta_description = "Download SBI PO Admit Card 2025. Get the direct link for State Bank of India (SBI) Probationary Officer (PO) Prelims and Mains exam hall tickets at sbi.co.in/careers.";
+$meta_keywords = "sbi po admit card 2025 download, sbi po hall ticket 2025 download, sbi.co.in careers po login, sbi po exam date 2025 download, banking po call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -90,8 +113,16 @@ $meta_keywords = "sbi po admit card 2025 download, sbi po hall ticket 2025 downl
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Bank Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

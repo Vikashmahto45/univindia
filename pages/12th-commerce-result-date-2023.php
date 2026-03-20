@@ -7,9 +7,27 @@ $meta_keywords = "12th commerce result date 2023, check board commerce result da
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Commerce Result Date 2023 - Official National Board schedule</div>
-    <h2 class='sr-title'>12th Commerce Result Date 2023: Your Comprehensive Navigator to National Board Result Gateways, State Board Examination Councils, Senior Secondary (Class 12), Commerce Stream, Accountancy, Economics, Business Studies, and National informatics Centre (NIC) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>12th Commerce Result Date 2023 - Official National Board schedule</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "12th Commerce Result Date 2023 - Official National Board schedule"; 
+$meta_description = "Check 12th Commerce Result Date 2023 online. Access the historical results schedule for CBSE, RBSE, HBSE, and more. Official 2023 release link."; 
+$meta_keywords = "12th commerce result date 2023, check board commerce result date 2023 online, cbse commerce 2023 date, rbse commerce 2023 date, official 2023 commerce link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "12th Commerce Result Date 2023 - Official National Board schedule";
+$meta_description = "Check 12th Commerce Result Date 2023 online. Access the historical results schedule for CBSE, RBSE, HBSE, and more. Official 2023 release link.";
+$meta_keywords = "12th commerce result date 2023, check board commerce result date 2023 online, cbse commerce 2023 date, rbse commerce 2023 date, official 2023 commerce link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "12th commerce result date 2023, check board commerce result da
                 <a href="https://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official RBSE Result HUB" target="_blank">Access RBSE Commerce</a>
                 <a href="https://indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults Portal" target="_blank">Access All Board Mirrors</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 12th Commerce Result Date 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the historical 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "12th commerce result date 2023, check board commerce result da
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 12th Commerce Result Date 2023 data, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 12th Commerce Result Date 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "12th commerce result date 2023, check board commerce result da
         <br>
         <strong>3. Is the result from 12th Commerce Result Date 2023 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "12th Commerce Result Date 2023" portals) are recorded in the national database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

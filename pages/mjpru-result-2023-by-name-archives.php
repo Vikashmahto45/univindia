@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "mjpru result 2023 by name - Official Rohilkhand University 2023 Archive"; 
 $meta_description = "Check mjpru result 2023 by name for UG and PG exams. Access the official 2023 Mahatma Jyotiba Phule Rohilkhand University (MJPRU) archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; mjpru result 2023 by name - Official Rohilkhand University 2023 Archive</div>
+    <h2 class='sr-title'>mjpru result 2023 by name - Official Rohilkhand University 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "mjpru result 2023 by name - Official Rohilkhand University 2023 Archive"; 
+$meta_description = "Check mjpru result 2023 by name for UG and PG exams. Access the official 2023 Mahatma Jyotiba Phule Rohilkhand University (MJPRU) archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Mahatma Jyotiba Phule
                 Rohilkhand University (MJPRU Bareilly). Official university mirrors and name-wise archival links updated
                 for the 2023 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify MJPRU UG/PG results 2023 by student name alternative criteria for the 2023 session.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -83,8 +94,7 @@ $meta_keywords = "";
                         2023 by name</strong> archive hub is essential for students to complete their academic
                     verification and proof of educational attainment during university graduation and registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -97,26 +107,28 @@ $meta_keywords = "";
                         <p>Yes, by using the <strong>mjpru result 2023 by name</strong> portal on
                             <strong>indiaresults</strong>, you can access your result data using just your registered
                             name and father's name.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2023 results on this portal recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for MJPRU
                             Bareilly, ensuring result data is mirrored directly from official university servers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for PG admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>mjpru result 2023 by name</strong> archive
                             is a valid provisional document accepted for initial university registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

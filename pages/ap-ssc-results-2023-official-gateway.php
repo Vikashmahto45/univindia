@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap ssc results 2023 - Official Andhra Pradesh 10th Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>ap ssc results 2023 - Official Andhra Pradesh 10th Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ap ssc results 2023 - Official Andhra Pradesh 10th Hub"; 
+$meta_description = "Check Andhra Pradesh Board SSC (Class 10th) result 2023 on ap ssc results 2023. Access official AP SSC 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 AP SSC Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>AP SSC Directory 2023</h3>
                     <p>Verify AP Board results (bse.ap.gov.in) SSC 2023 by student roll number or name alternative criteria for the 2023 academic batch on official mirrors.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2023 Andhra Pradesh (AP SSC) Board Gateways</h3>
                 <p>The <strong>ap ssc results 2023</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in AP. The system provides a detailed subject-wise breakdown for the 2023 batch of student examinees across all districts in Andhra Pradesh. Having a verified digital result from the <strong>ap ssc results 2023</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2023 AP SSC result links on bse.ap.gov.in active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>ap ssc results 2023</strong> are permanently archived on verified platforms for lifelong academic verification access in Andhra Pradesh.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 AP SSC results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>ap ssc results 2023</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in Andhra Pradesh.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 AP SSC marksheet valid for polytechnic admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>ap ssc results 2023</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

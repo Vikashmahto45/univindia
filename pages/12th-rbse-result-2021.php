@@ -7,9 +7,27 @@ $meta_keywords = "12th rbse result 2021, check rajasthan board 12th result 2021 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th RBSE Result 2021 - Historical Rajasthan board archive</div>
-    <h2 class='sr-title'>12th RBSE Result 2021: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Senior Secondary (Class 12), Science, Commerce, Arts Streams, and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>12th RBSE Result 2021 - Historical Rajasthan board archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "12th RBSE Result 2021 - Historical Rajasthan board archive"; 
+$meta_description = "Check 12th RBSE Result 2021 online. Access the historical Rajasthan Board (BSER) Senior Secondary results for the 2021 session. Official marks link."; 
+$meta_keywords = "12th rbse result 2021, check rajasthan board 12th result 2021 online, bser inter result 2021, official 2021 rbse link, rajresults.nic.in 2021"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "12th RBSE Result 2021 - Historical Rajasthan board archive";
+$meta_description = "Check 12th RBSE Result 2021 online. Access the historical Rajasthan Board (BSER) Senior Secondary results for the 2021 session. Official marks link.";
+$meta_keywords = "12th rbse result 2021, check rajasthan board 12th result 2021 online, bser inter result 2021, official 2021 rbse link, rajresults.nic.in 2021";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "12th rbse result 2021, check rajasthan board 12th result 2021 
                 <a href="https://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 12th RBSE Result 2021 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2021 records of your Rajasthan board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "12th rbse result 2021, check rajasthan board 12th result 2021 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 12th RBSE Result 2021, please visit the BSER headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 12th RBSE Result 2021 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "12th rbse result 2021, check rajasthan board 12th result 2021 
         <br>
         <strong>3. Is the result from 12th RBSE Result 2021 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "12th RBSE Result 2021" portal) are digitized and available in the DigiLocker archive for official verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

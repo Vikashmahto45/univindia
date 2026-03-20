@@ -7,9 +7,27 @@ $meta_keywords = "Http Www Univindia Net Index - University Portal Homepage Guid
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Http Www Univindia Net Index - University Portal Homepage Guide</div>
-    <h2 class='sr-title'>Http Www Univindia Net Index: Navigating the Bikaner University Portal Homepage</h2>
+    <h2 class='sr-title'>Http Www Univindia Net Index - University Portal Homepage Guide</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Http Www Univindia Net Index - University Portal Homepage Guide"; 
+$meta_description = "Access the official Http Www Univindia Net Index page for MGSU Bikaner. Complete guide to the university portal homepage for exams, results, and forms."; 
+$meta_keywords = "Http Www Univindia Net Index - University Portal Homepage Guide"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Http Www Univindia Net Index - University Portal Homepage Guide";
+$meta_description = "Access the official Http Www Univindia Net Index page for MGSU Bikaner. Complete guide to the university portal homepage for exams, results, and forms.";
+$meta_keywords = "Http Www Univindia Net Index - University Portal Homepage Guide";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -52,7 +70,13 @@ $meta_keywords = "Http Www Univindia Net Index - University Portal Homepage Guid
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner websites.</i></p>
     </div>
-</main>
+
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

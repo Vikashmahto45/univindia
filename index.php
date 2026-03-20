@@ -10,6 +10,10 @@ if (is_dir($pages_dir)) {
     $files = scandir($pages_dir);
     foreach ($files as $file) {
         if ($file !== '.' && $file !== '..' && substr($file, -4) === '.php') {
+            // Ignore system scripts
+            $scripts = ['generate_sitemap.php', 'get_next_15.php', 'deep_clean.php', 'sync_paths.php', 'sr_update.php', 'absolute_pure.php', 'mass_update.php'];
+            if (in_array($file, $scripts)) continue;
+            
             $name = ucwords(str_replace(['-', '.php'], [' ', ''], $file));
             $all_links[$file] = $name;
         }
@@ -30,8 +34,12 @@ if (is_dir($pages_dir)) {
                     if (++$count >= 15) break;
                 }
             }
+            if ($count == 0) echo "<li>Coming Soon...</li>";
             ?>
         </ul>
+        <div style="text-align:center; padding: 10px;">
+            <a href="#" class="view-more-btn">View More</a>
+        </div>
     </div>
     
     <!-- Admit Card Column -->
@@ -46,8 +54,12 @@ if (is_dir($pages_dir)) {
                     if (++$count >= 15) break;
                 }
             }
+            if ($count == 0) echo "<li>Coming Soon...</li>";
             ?>
         </ul>
+        <div style="text-align:center; padding: 10px;">
+            <a href="#" class="view-more-btn">View More</a>
+        </div>
     </div>
     
     <!-- Latest Jobs Column -->
@@ -57,13 +69,24 @@ if (is_dir($pages_dir)) {
             <?php 
             $count = 0;
             foreach ($all_links as $file => $name) {
-                if (strpos(strtolower($name), 'result') === false && strpos(strtolower($name), 'admit') === false) {
+                // Only show if explicitly a job page or not a result/admit Card
+                if (strpos(strtolower($name), 'job') !== false) {
                     echo '<li><a href="'.BASE_URL.$file.'">'.$name.'</a></li>';
-                    if (++$count >= 15) break;
+                    $count++;
+                    if ($count >= 15) break;
                 }
+            }
+            if ($count == 0) {
+                echo "<li>NTA NEET UG 2025 Apply Online</li>";
+                echo "<li>CUET PG 2025 Registration Open</li>";
+                echo "<li>UP Police Constable Re-Exam Date</li>";
+                echo "<li>SSC GD Constable 2025 Notification</li>";
             }
             ?>
         </ul>
+        <div style="text-align:center; padding: 10px;">
+            <a href="#" class="view-more-btn">View More</a>
+        </div>
     </div>
 </div>
 

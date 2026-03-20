@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india board result - Official National Results Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india board result - Official National Results Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india board result - Official National Results Hub"; 
+$meta_description = "Check all state board results on india board result. Access official indiaresults gateway for 10th & 12th results of all state boards across India."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open National Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify board results (Matric/Inter) using student identity markers for various state boards and
                         examination batches across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +94,7 @@ $meta_keywords = "";
                     digital result from the <strong>india board result</strong> hub is essential for students to
                     complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -101,15 +107,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Most major state boards indexed on <strong>indiaresults</strong> are accessible through the
                             <strong>india board result</strong> gateway.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check board results by name only on android devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india board result</strong> portal includes a dedicated name-wise
                             search for student examinees across many state boards.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet retrieved here valid for university
                         admission?</button>
@@ -117,12 +121,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>india board result</strong> gateway is a
                             valid provisional document accepted for initial institutional registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

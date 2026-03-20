@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MGSU Univindia - Maharaja Ganga Singh University Bikaner Portal"; 
 $meta_description = "MGSU Univindia is the leading destination for Bikaner University students to check results and download admit cards. A complete guide on MGSU Univindia features."; 
 $meta_keywords = "mgsu univindia"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MGSU Univindia - Maharaja Ganga Singh University Bikaner Portal</div>
+    <h2 class='sr-title'>MGSU Univindia - Maharaja Ganga Singh University Bikaner Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MGSU Univindia - Maharaja Ganga Singh University Bikaner Portal"; 
+$meta_description = "MGSU Univindia is the leading destination for Bikaner University students to check results and download admit cards. A complete guide on MGSU Univindia features."; 
+$meta_keywords = "mgsu univindia"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MGSU Univindia - Maharaja Ganga Singh University Bikaner Portal";
+$meta_description = "MGSU Univindia is the leading destination for Bikaner University students to check results and download admit cards. A complete guide on MGSU Univindia features.";
+$meta_keywords = "mgsu univindia";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MGSU Univindia: Your Essential Portal for Bikaner University Updates</h1>
+        
         
         <p>MGSU Univindia is a keyword that carries immense significance for the academic community of Maharaja Ganga Singh University (MGSU), Bikaner. This digital portal, hosted under the Univindia banner, is the backbone of the university's examination and administrative operations. Whether you are a first-year undergraduate student or a final-year postgraduate aspirant, MGSU Univindia is the platform where you will spend a considerable amount of time managing your academic life. In this comprehensive guide, we will explore why this portal is so vital and how you can use its various features—from checking results to downloading admit cards—with absolute ease.</p>
 
@@ -40,6 +62,15 @@ $meta_keywords = "mgsu univindia";
 
         <p><i>Disclaimer: Univindia.online is an independent educational guide and is not affiliated with the official MGSU Bikaner or Univindia.net. For authorized updates, always rely on the official university portal.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

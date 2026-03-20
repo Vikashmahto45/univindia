@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresultinfo.com 2022 - Official 2022 Academic Information Archive"; 
 $meta_description = "Check indiaresultinfo.com 2022 for board and university exams. Access the official 2022 academic result information and portal links on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresultinfo.com 2022 - Official 2022 Academic Information Archive</div>
+    <h2 class='sr-title'>indiaresultinfo.com 2022 - Official 2022 Academic Information Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresultinfo.com 2022 - Official 2022 Academic Information Archive"; 
+$meta_description = "Check indiaresultinfo.com 2022 for board and university exams. Access the official 2022 academic result information and portal links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized information hub for the 2022 academic session results
                 across all Indian boards and universities. Official status updates and archival links updated for the
                 2022 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Info Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Detailed examination news and result information for UG, PG, and Semester exams across India for
                         2022.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     hub is essential for students to complete their academic verification and proof of educational
                     achievement during university graduation and registration processes even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,26 +109,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>indiaresultinfo.com 2022</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for archival and academic
                             verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 results by name search on this hub?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresultinfo.com 2022</strong> portal includes a dedicated
                             name-wise search for major state boards and universities for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for job verification?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>indiaresultinfo.com 2022</strong> archive is
                             a valid provisional document accepted for initial university registration and background
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

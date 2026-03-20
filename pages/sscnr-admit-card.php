@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCNR Admit Card Download - SSC Northern Region Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download SSCNR Admit Card. Get the direct link for SSC Northern Region (Delhi, Rajasthan, Uttarakhand) examination hall tickets at sscnr.nic.in."; 
 $meta_keywords = "sscnr admit card download, ssc northern region hall ticket download, sscnr.nic.in login admit card, ssc delhi exam date 2024 download, staff recruitment call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCNR Admit Card Download - SSC Northern Region Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>SSCNR Admit Card Download - SSC Northern Region Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCNR Admit Card Download - SSC Northern Region Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download SSCNR Admit Card. Get the direct link for SSC Northern Region (Delhi, Rajasthan, Uttarakhand) examination hall tickets at sscnr.nic.in."; 
+$meta_keywords = "sscnr admit card download, ssc northern region hall ticket download, sscnr.nic.in login admit card, ssc delhi exam date 2024 download, staff recruitment call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSCNR Admit Card Download - SSC Northern Region Hall Ticket Link | Univindia.online";
+$meta_description = "Download SSCNR Admit Card. Get the direct link for SSC Northern Region (Delhi, Rajasthan, Uttarakhand) examination hall tickets at sscnr.nic.in.";
+$meta_keywords = "sscnr admit card download, ssc northern region hall ticket download, sscnr.nic.in login admit card, ssc delhi exam date 2024 download, staff recruitment call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "sscnr admit card download, ssc northern region hall ticket dow
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Delhi Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

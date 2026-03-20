@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard"; 
 $meta_description = "Check your RRBMU Alwar results via the Univindia Org Result Portal. Official guide to downloading Matsya University marksheets and score reports online."; 
 $meta_keywords = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard</div>
+    <h2 class='sr-title'>Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard"; 
+$meta_description = "Check your RRBMU Alwar results via the Univindia Org Result Portal. Official guide to downloading Matsya University marksheets and score reports online."; 
+$meta_keywords = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard";
+$meta_description = "Check your RRBMU Alwar results via the Univindia Org Result Portal. Official guide to downloading Matsya University marksheets and score reports online.";
+$meta_keywords = "Univindia Org Result Portal - Matsya University Alwar Achievement Dashboard";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Org Result Portal: Your Guide to Matsya University Alwar Achievement</h1>
+        
         
         <p>The term "Univindia Org Result Portal" refers to the dedicated digital environment used by the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar, to publish and manage student examination scores. For thousands of undergraduate and postgraduate students across Eastern Rajasthan, the result portal on `univindia.org` is the single most important digital destination in their academic calendar. Whether you are concluding your degree in Arts, Science, Commerce, or Education, this centralized hub provides instantaneous, authoritative access to your marksheet. In this comprehensive guide, we will explore the technical structure of the Univindia Org Result Portal, provide a detailed walkthrough of how to check your scores for various classes, and offer expert advice on interpreting your digital marksheet and troubleshooting common access issues encounter during high-traffic result seasons in Alwar.</p>
 
@@ -54,6 +76,15 @@ $meta_keywords = "Univindia Org Result Portal - Matsya University Alwar Achievem
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official RRBMU Alwar website at univindia.org.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "PSEB Result - Official Punjab School Education Board Hub"; 
 $meta_description = "Check PSEB Result online. Access the Punjab Board (PSEB) 8th, 10th, and 12th results. Official 2024 marksheets and board stats available for download."; 
 $meta_keywords = "pseb result, check punjab board result 2024, pseb.ac.in results, punjab 10th 12th result link, official pseb portal, pseb search by name"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; PSEB Result - Official Punjab School Education Board Hub</div>
+    <h2 class='sr-title'>PSEB Result - Official Punjab School Education Board Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "PSEB Result - Official Punjab School Education Board Hub"; 
+$meta_description = "Check PSEB Result online. Access the Punjab Board (PSEB) 8th, 10th, and 12th results. Official 2024 marksheets and board stats available for download."; 
+$meta_keywords = "pseb result, check punjab board result 2024, pseb.ac.in results, punjab 10th 12th result link, official pseb portal, pseb search by name"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "PSEB Result - Official Punjab School Education Board Hub";
+$meta_description = "Check PSEB Result online. Access the Punjab Board (PSEB) 8th, 10th, and 12th results. Official 2024 marksheets and board stats available for download.";
+$meta_keywords = "pseb result, check punjab board result 2024, pseb.ac.in results, punjab 10th 12th result link, official pseb portal, pseb search by name";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>PSEB Result: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Secondary School (Class 10), Senior Secondary (Class 12), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "PSEB Result" (applicable to the annual board examinations and continuous evaluation conducted for the academic session by the Punjab School Education Board, Mohali) represents the single most significant digital milestone for over 10 lakh students residing in the agricultural and academic heartland of Punjab. As the primary official gateway to the state's educational infrastructure (Mohali, PSEB HQ), and the traditional school education infrastructure of the nation, the "PSEB Result" serves as the formal secondary and senior secondary master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificate via dedicated government server endpoints and authorized mirror archives. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "PSEB Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Punjab education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "PSEB Result," ensuring that every aspiring student and researcher in Punjab can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "pseb result, check punjab board result 2024, pseb.ac.in result
                 <a href="http://punjab.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="PSEB Search By Name" target="_blank">Search By Name (Punjab)</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official PSEB Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your Punjab board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "pseb result, check punjab board result 2024, pseb.ac.in result
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to PSEB Result, please visit the PSEB headquarters in Mohali or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About PSEB Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "pseb result, check punjab board result 2024, pseb.ac.in result
         <br>
         <strong>3. Is the result from PSEB Result valid for government jobs?</strong>
         <p>Yes, your board results (verified via the official "PSEB Result" portal) are the primary records for applying to the 'Punjab Police' and other state government services in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

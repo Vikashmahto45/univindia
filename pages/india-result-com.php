@@ -7,9 +7,27 @@ $meta_keywords = "india result com, check board result online, indiaresults 10th
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Com - Official National Examination Result Hub</div>
-    <h2 class='sr-title'>India Result Com: Your Comprehensive Navigator to National Board Class 10 (Secondary), Class 12 (Higher Secondary), and Senior Secondary Result Gateways (Government of Rajasthan, Punjab, Himachal Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result Com - Official National Examination Result Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result Com - Official National Examination Result Hub"; 
+$meta_description = "Check India Result Com online. Access the high-speed results for all Indian states and boards. Official 2024 marksheets, merit lists, and name-wise search."; 
+$meta_keywords = "india result com, check board result online, indiaresults 10th 12th results, state board result link, official indiaresult portal, name wise result search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result Com - Official National Examination Result Hub";
+$meta_description = "Check India Result Com online. Access the high-speed results for all Indian states and boards. Official 2024 marksheets, merit lists, and name-wise search.";
+$meta_keywords = "india result com, check board result online, indiaresults 10th 12th results, state board result link, official indiaresult portal, name wise result search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result com, check board result online, indiaresults 10th
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
                 <a href="https://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="State NIC Portal" target="_blank">Official State Portals</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result Com Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via the IndiaResult system, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result com, check board result online, indiaresults 10th
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result Com data, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Com Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result com, check board result online, indiaresults 10th
         <br>
         <strong>3. Is the result from India Result Com valid for scholarships?</strong>
         <p>The "India Result Com" data is used for 'Provisional Verification'. For final 'Scholarship Disbursement,' the board-issued physical marksheet or DigiLocker records are required.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

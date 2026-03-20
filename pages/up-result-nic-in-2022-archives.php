@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "up result nic in 2022 - Official Uttar Pradesh Board Archive"; 
 $meta_description = "Check up result nic in 2022 for High School and Intermediate exams. Access the official 2022 UPMSP archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; up result nic in 2022 - Official Uttar Pradesh Board Archive</div>
+    <h2 class='sr-title'>up result nic in 2022 - Official Uttar Pradesh Board Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "up result nic in 2022 - Official Uttar Pradesh Board Archive"; 
+$meta_description = "Check up result nic in 2022 for High School and Intermediate exams. Access the official 2022 UPMSP archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 High School and Intermediate academic results for Uttar
                 Pradesh. Official UPMSP mirrors and archival links updated for the 2022 session batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2022 Uttar Pradesh results by student name alternative.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +90,7 @@ $meta_keywords = "";
                     processes. Having a verified digital result from the <strong>up result nic in 2022</strong> archive
                     hub is essential for students to complete their academic verification and proof of performance
                     during university registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,26 +103,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>up result nic in 2022</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for archival and academic
                             verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2022 UP result via name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>up result nic in 2022</strong> portal includes a dedicated name-wise
                             search for the UP Board High School and Intermediate examinees of the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>up result nic in 2022</strong> archive is a
                             valid provisional document accepted for initial college registration and document
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

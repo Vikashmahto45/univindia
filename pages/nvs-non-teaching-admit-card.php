@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online"; 
 $meta_description = "Download NVS Non-Teaching Admit Card 2024. Get direct link for NVS Recruitment Examination hall ticket, exam dates, city intimation for 1377+ posts at navodaya.gov.in."; 
 $meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download, nvs lab attendant hall ticket, nvs recruitment 2024 admit card link, navodaya.gov.in recruitment login"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online</div>
+    <h2 class='sr-title'>NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online"; 
+$meta_description = "Download NVS Non-Teaching Admit Card 2024. Get direct link for NVS Recruitment Examination hall ticket, exam dates, city intimation for 1377+ posts at navodaya.gov.in."; 
+$meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download, nvs lab attendant hall ticket, nvs recruitment 2024 admit card link, navodaya.gov.in recruitment login"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online";
+$meta_description = "Download NVS Non-Teaching Admit Card 2024. Get direct link for NVS Recruitment Examination hall ticket, exam dates, city intimation for 1377+ posts at navodaya.gov.in.";
+$meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download, nvs lab attendant hall ticket, nvs recruitment 2024 admit card link, navodaya.gov.in recruitment login";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -86,8 +109,16 @@ $meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download,
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

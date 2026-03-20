@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU BSc Result - Bikaner University Science Scores"; 
 $meta_description = "Check your MGSU Bikaner BSc results on Univindia Net. Official guide to downloading Bachelor of Science marksheets for Part 1, 2, and 3 online."; 
 $meta_keywords = "Univindia Net MGSU BSc Result - Bikaner University Science Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU BSc Result - Bikaner University Science Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU BSc Result - Bikaner University Science Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU BSc Result - Bikaner University Science Scores"; 
+$meta_description = "Check your MGSU Bikaner BSc results on Univindia Net. Official guide to downloading Bachelor of Science marksheets for Part 1, 2, and 3 online."; 
+$meta_keywords = "Univindia Net MGSU BSc Result - Bikaner University Science Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU BSc Result - Bikaner University Science Scores";
+$meta_description = "Check your MGSU Bikaner BSc results on Univindia Net. Official guide to downloading Bachelor of Science marksheets for Part 1, 2, and 3 online.";
+$meta_keywords = "Univindia Net MGSU BSc Result - Bikaner University Science Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU BSc Result: Your Comprehensive Guide to Bikaner University Science Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU BSc Result" is the most anticipated phrase for thousands of science students enrolled at Maharaja Ganga Singh University (MGSU), Bikaner. As science education demands rigorous practical and theoretical evaluation, the declaration of the BSc result is a significant milestone that determines a student's eligibility for higher laboratory research, postgraduate studies, or professional careers. The `univindia.net` portal is the official, authoritative platform for all BSc scores. In this extensive guide, we will provide a complete walkthrough of how to check your MGSU BSc results for Part I, II, and III, how to interpret your science marksheet correctly, and what steps to take if you encounter technical or academic hurdles during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Net MGSU BSc Result - Bikaner University Science Sco
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized BSc result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

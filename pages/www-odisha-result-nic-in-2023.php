@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www.odisha result.nic.in 2023 - Official Odisha Board Result Gateway"; 
 $meta_description = "Check www.odisha result.nic.in 2023 for official BSE 10th and CHSE 12th results. Access the primary official results gateway for Odisha student success during the 2023 session."; 
 $meta_keywords = "www.odisha result.nic.in 2023, orissaresults.nic.in 2023, odisha 10th result 2023, hsc result 2023 odisha, chse odisha result 2023"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.odisha result.nic.in 2023 - Official Odisha Board Result Gateway</div>
+    <h2 class='sr-title'>www.odisha result.nic.in 2023 - Official Odisha Board Result Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www.odisha result.nic.in 2023 - Official Odisha Board Result Gateway"; 
+$meta_description = "Check www.odisha result.nic.in 2023 for official BSE 10th and CHSE 12th results. Access the primary official results gateway for Odisha student success during the 2023 session."; 
+$meta_keywords = "www.odisha result.nic.in 2023, orissaresults.nic.in 2023, odisha 10th result 2023, hsc result 2023 odisha, chse odisha result 2023"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "www.odisha result.nic.in 2023 - Official Odisha Board Result Gateway";
+$meta_description = "Check www.odisha result.nic.in 2023 for official BSE 10th and CHSE 12th results. Access the primary official results gateway for Odisha student success during the 2023 session.";
+$meta_keywords = "www.odisha result.nic.in 2023, orissaresults.nic.in 2023, odisha 10th result 2023, hsc result 2023 odisha, chse odisha result 2023";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>www.odisha result.nic.in 2023: The Definitive Digital Archive for Odisha’s Academic Success</h1>
+        
         
         <p>In the intellectually vibrant and educationally progressive state of Odisha, the web domain "www.odisha result.nic.in 2023" (representing the official `orissaresults.nic.in` portal) stands as the single most important digital landmark for millions of students. Serving as the primary and authorized gateway for both the Board of Secondary Education (BSE) and the Council of Higher Secondary Education (CHSE), Odisha, this portal is the definitive source of truth for the High School Certificate (HSC) and the Higher Secondary (+2) examinations. For the 2023 academic cycle, "www.odisha result.nic.in 2023" represents the official culmination of a decade of hard work and the ticket to higher learning. In the culturally rich landscape of Odisha, the declaration of results on this portal is a major state event. At Univindia.online, we recognize the paramount importance of this official source. We are dedicated to providing you with a high-quality, SEO-optimized technical guide that ensures you can navigate the "www.odisha result.nic.in 2023" infrastructure with absolute efficiency, securing your scores from the digital archives whenever you need them for further studies or career verification.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "www.odisha result.nic.in 2023, orissaresults.nic.in 2023, odis
                 <a href="http://bseodisha.ac.in" class="btn" title="BSE Odisha Official Board Site" target="_blank">BSE Odisha Main</a>
                 <a href="http://chseodisha.nic.in" class="btn" title="CHSE Odisha Official Council Site" target="_blank">CHSE Odisha Main</a>
                 <a href="http://odisha.indiaresults.com" class="btn" title="Odisha Result Name Wise search" target="_blank">IndiaResults Odisha</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About www.odisha result.nic.in 2023</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "www.odisha result.nic.in 2023, orissaresults.nic.in 2023, odis
         <br>
         <strong>3. Is the online result from www.odisha result.nic.in 2023 final?</strong>
         <p>The result on "www.odisha result.nic.in 2023" is official but provisional. For all final legal purposes and job enrollments, you must collect the hardcopy marksheet and certificate from your school as issued by the board in Cuttack or Bhubaneswar.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

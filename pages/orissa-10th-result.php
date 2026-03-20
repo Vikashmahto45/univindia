@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Orissa 10th Result - Official BSE Odisha Matric Result Portal"; 
 $meta_description = "Check Orissa 10th Result online. Access the Board of Secondary Education (BSE) Odisha Matric examination results, subject-wise marks, and official school certificates."; 
 $meta_keywords = "orissa 10th result, bse odisha matric result, check orissa board 10th marks, bseodisha.ac.in result, orissa school result hub, official bse orissa portal, 10th result search"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Orissa 10th Result - Official BSE Odisha Matric Result Portal</div>
+    <h2 class='sr-title'>Orissa 10th Result - Official BSE Odisha Matric Result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Orissa 10th Result - Official BSE Odisha Matric Result Portal"; 
+$meta_description = "Check Orissa 10th Result online. Access the Board of Secondary Education (BSE) Odisha Matric examination results, subject-wise marks, and official school certificates."; 
+$meta_keywords = "orissa 10th result, bse odisha matric result, check orissa board 10th marks, bseodisha.ac.in result, orissa school result hub, official bse orissa portal, 10th result search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Orissa 10th Result - Official BSE Odisha Matric Result Portal";
+$meta_description = "Check Orissa 10th Result online. Access the Board of Secondary Education (BSE) Odisha Matric examination results, subject-wise marks, and official school certificates.";
+$meta_keywords = "orissa 10th result, bse odisha matric result, check orissa board 10th marks, bseodisha.ac.in result, orissa school result hub, official bse orissa portal, 10th result search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Orissa 10th Result: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha Madhyamik (Class 10), High School Certificate (HSC) Examination, and State Open School Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Orissa</h1>
+        
         
         <p>The "Orissa 10th Result" (applicable to the annual board examinations and continuous evaluation conducted for the current academic session by the Board of Secondary Education, Odisha—historically known as the Orissa Board) represents the single most significant digital milestone for over 5 lakh students residing in the educationally advanced landscape of Odisha. As the primary official gateway to the state's education infrastructure (Bhubaneswar, BSE Odisha HQ), and the traditional school education infrastructure of the nation, the "Orissa 10th Result" serves as the formal master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificate via dedicated government server endpoints. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "Orissa 10th Result" search is the digital gateway through which candidates verify their professional transition from secondary to senior secondary education with maximum transparency and integrity. The Odisha education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Orissa 10th Result," ensuring that every aspiring student and researcher in Orissa can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "orissa 10th result, bse odisha matric result, check orissa boa
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 250px; text-align: center; font-weight: bold; padding: 15px 30px;" title="BSE Odisha Portal" target="_blank">Visit BSE Odisha Website</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 250px; text-align: center; font-weight: bold; padding: 15px 30px;" title="National Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 250px; text-align: center; font-weight: bold; padding: 15px 30px;" title="Download Verified Marksheet" target="_blank">Get Digital Marksheet</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Orissa 10th Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your Orissa board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "orissa 10th result, bse odisha matric result, check orissa boa
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Orissa 10th Result, please visit the BSE headquarters at Cuttack or your respective District Education Office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Orissa 10th Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "orissa 10th result, bse odisha matric result, check orissa boa
         <br>
         <strong>3. Is the result from Orissa 10th Result valid for global use?</strong>
         <p>Yes, your board results (verified via the official "Orissa 10th Result" portal or DigiLocker) are the accepted records for applying to international colleges or job visas in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

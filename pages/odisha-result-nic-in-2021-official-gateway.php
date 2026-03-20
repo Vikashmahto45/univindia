@@ -1,20 +1,34 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha result.nic.in 2021 - Official Odisha Board Hub"; 
 $meta_description = "Check Odisha Board result 2021 on odisha result.nic.in 2021. Access official BSE Odisha 2021 archival scorecards and 2021 result links on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha result.nic.in 2021 - Official Odisha Board Hub</div>
+    <h2 class='sr-title'>odisha result.nic.in 2021 - Official Odisha Board Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha result.nic.in 2021 - Official Odisha Board Hub"; 
+$meta_description = "Check Odisha Board result 2021 on odisha result.nic.in 2021. Access official BSE Odisha 2021 archival scorecards and 2021 result links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Odisha Board examination results for the 2021 academic session via the official odisha result.nic.in 2021 portal infrastructure. Access official Odisha board mirrors and 2021 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Odisha Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -32,8 +46,7 @@ $meta_keywords = "";
                     <h3>Odisha Results Directory 2021</h3>
                     <p>Verify Odisha Board results 2021 by student roll number or name alternative criteria for the 2021 academic batch on official mirrors.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -57,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2021 Odisha Board Gateways</h3>
                 <p>The <strong>odisha result.nic.in 2021</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in Odisha. The system provides a detailed subject-wise breakdown for the 2021 batch including internal marks for all students. Having a verified digital result from the <strong>odisha result.nic.in 2021</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -69,23 +81,25 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2021 Odisha result links on nic.in still active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>odisha result.nic.in 2021</strong> are permanently archived on verified platforms for lifelong academic verification access in Odisha.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2021 Odisha result by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>odisha result.nic.in 2021</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in Odisha for the 2021 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 Odisha marksheet valid for regular admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>odisha result.nic.in 2021</strong> gateway is a valid provisional document accepted for initial institutional registration and verification across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

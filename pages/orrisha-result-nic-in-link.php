@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "orrisha result nic.in - Official Odisha State Mirror"; 
 $meta_description = "Check orrisha result nic.in online. Access the results for Board of Secondary Education (BSE) and CHSE Odisha for all sessions."; 
 $meta_keywords = "orrisha result nic.in, check odisha board results online, official orissaresults nic in portal, bse odisha matric search"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; orrisha result nic.in - Official Odisha State Mirror</div>
+    <h2 class='sr-title'>orrisha result nic.in - Official Odisha State Mirror</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "orrisha result nic.in - Official Odisha State Mirror"; 
+$meta_description = "Check orrisha result nic.in online. Access the results for Board of Secondary Education (BSE) and CHSE Odisha for all sessions."; 
+$meta_keywords = "orrisha result nic.in, check odisha board results online, official orissaresults nic in portal, bse odisha matric search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "orrisha result nic.in - Official Odisha State Mirror";
+$meta_description = "Check orrisha result nic.in online. Access the results for Board of Secondary Education (BSE) and CHSE Odisha for all sessions.";
+$meta_keywords = "orrisha result nic.in, check odisha board results online, official orissaresults nic in portal, bse odisha matric search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>orrisha result nic.in: Your Comprehensive Navigator to Board of Secondary Education (BSE), Council of Higher Secondary Education (CHSE), Odisha, and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "orrisha result nic.in" (representing the primary synchronized digital result-dissemination framework utilized by over 10 lakh students for the annual school board exams conducted in Odisha) represents a significant digital milestone for students residing in the academic and industrial landscape of the state. As the primary official gateway to the state's educational infrastructure (Bhubaneswar and Cuttack HQ), and the traditional school education infrastructure of the nation, the "orrisha result nic.in" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Odisha IndiaResults. For the current academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across Odisha, the "orrisha result nic.in" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "orrisha result nic.in," ensuring that every student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "orrisha result nic.in, check odisha board results online, offi
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official BSE Odisha" target="_blank">Access BSE Official</a>
                 <a href="https://odisha.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Odisha Mirror" target="_blank">Access Odisha Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official orrisha result nic.in Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "orrisha result nic.in, check odisha board results online, offi
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to orrisha result nic.in data, please visit the respective board headquarters in Bhubaneswar/Cuttack or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Odisha Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "orrisha result nic.in, check odisha board results online, offi
         <br>
         <strong>3. Is the result from official Odisha Board sites valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "orrisha result nic.in" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

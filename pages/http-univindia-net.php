@@ -7,9 +7,27 @@ $meta_keywords = "http univindia net";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Http Univindia Net - Main MGSU University Student Portal</div>
-    <h2 class='sr-title'>Http Univindia Net: Your Portal for Maharaja Ganga Singh University Success</h2>
+    <h2 class='sr-title'>Http Univindia Net - Main MGSU University Student Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Http Univindia Net - Main MGSU University Student Portal"; 
+$meta_description = "Http Univindia Net is the primary digital gateway for MGSU Bikaner. Complete guide to accessing results, admit cards, and examination forms at http://univindia.net."; 
+$meta_keywords = "http univindia net"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Http Univindia Net - Main MGSU University Student Portal";
+$meta_description = "Http Univindia Net is the primary digital gateway for MGSU Bikaner. Complete guide to accessing results, admit cards, and examination forms at http://univindia.net.";
+$meta_keywords = "http univindia net";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -44,7 +62,13 @@ $meta_keywords = "http univindia net";
 
         <p><i>Note: Univindia.online is an independent educational portal and is not the official Maharaja Ganga Singh University or Univindia.net website. For official updates, please always refer to the university's authorized portal.</i></p>
     </div>
-</main>
+
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

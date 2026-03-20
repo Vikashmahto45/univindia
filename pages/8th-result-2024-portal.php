@@ -7,9 +7,27 @@ $meta_keywords = "8th result 2024, check class 8 result, 8th class board result,
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th result 2024 - Official Class 8 Board Portal</div>
-    <h2 class='sr-title'>8th result 2024: Your Comprehensive Navigator to Class 8 Board Examinations, State Education Departments, and National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <h2 class='sr-title'>8th result 2024 - Official Class 8 Board Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "8th result 2024 - Official Class 8 Board Portal"; 
+$meta_description = "Check 8th result 2024 online for Punjab, Rajasthan, and other state boards. Access the official class 8 board result portal."; 
+$meta_keywords = "8th result 2024, check class 8 result, 8th class board result, rajresults nic in 8th, pseb 8th result 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "8th result 2024 - Official Class 8 Board Portal";
+$meta_description = "Check 8th result 2024 online for Punjab, Rajasthan, and other state boards. Access the official class 8 board result portal.";
+$meta_keywords = "8th result 2024, check class 8 result, 8th class board result, rajresults nic in 8th, pseb 8th result 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "8th result 2024, check class 8 result, 8th class board result,
                 <a href="https://www.pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Punjab Board Official" target="_blank">Punjab 8th HUB</a>
                 <a href="https://jacresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Jharkhand Board Result" target="_blank">Jharkhand 8th Portal</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Result Portal" target="_blank">Access National HUB</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 8th result 2024 Online</h2>
         <p>To ensure a successful result search in the 8th Board records, follow these technical steps:</p>
@@ -50,7 +67,7 @@ $meta_keywords = "8th result 2024, check class 8 result, 8th class board result,
 
         <p><i>Note: Univindia.online is an educational news portal. For original marksheets, promotion certificates, and final database changes related to 8th result 2024 data, please visit the respective State Board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 8th Result 2024</h2>
@@ -63,8 +80,13 @@ $meta_keywords = "8th result 2024, check class 8 result, 8th class board result,
         <br>
         <strong>3. Is the online result from the official portal final?</strong>
         <p>The online "8th result 2024" is provisional. Final recognition is based on the hardcopy certificate issued by the board through the school.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

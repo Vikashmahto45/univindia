@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online"; 
 $meta_description = "Download UP Police Constable Admit Card 2024. Get the latest update on UP Police exam dates, city intimation link, and steps to download hall ticket at uppbpb.gov.in."; 
 $meta_keywords = "up police admit card 2024 date, up police constable hall ticket, uppbpb gov in admit card, up police exam city link, download up police call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online"; 
+$meta_description = "Download UP Police Constable Admit Card 2024. Get the latest update on UP Police exam dates, city intimation link, and steps to download hall ticket at uppbpb.gov.in."; 
+$meta_keywords = "up police admit card 2024 date, up police constable hall ticket, uppbpb gov in admit card, up police exam city link, download up police call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online";
+$meta_description = "Download UP Police Constable Admit Card 2024. Get the latest update on UP Police exam dates, city intimation link, and steps to download hall ticket at uppbpb.gov.in.";
+$meta_keywords = "up police admit card 2024 date, up police constable hall ticket, uppbpb gov in admit card, up police exam city link, download up police call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -93,8 +116,16 @@ $meta_keywords = "up police admit card 2024 date, up police constable hall ticke
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

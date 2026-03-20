@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10 th result date 2022 rajasthan board - Official BSER Details</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>10 th result date 2022 rajasthan board - Official BSER Details</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10 th result date 2022 rajasthan board - Official BSER Details"; 
+$meta_description = "Check Rajasthan Board 10th result date 2022 on 10 th result date 2022 rajasthan board. Access official BSER Ajmer 2022 archival news and results."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 RBSE Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>2022 Rajasthan Archive</h3>
                     <p>Verify RBSE results (rajresults.nic.in) 10th 2022 by student roll number or name alternative criteria for the 2022 academic batch.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2022 Rajasthan (BSER) Board Gateways</h3>
                 <p>The <strong>10 th result date 2022 rajasthan board</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in Rajasthan. The system provides a detailed subject-wise breakdown for the 2022 batch of student examinees across all districts in Rajasthan. Having a verified digital result from the <strong>10 th result date 2022 rajasthan board</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">What was the final 10 th result date 2022 rajasthan board?</button>
                     <div class="faq-answer">
                         <p>The 2022 results were declared in June 2022, and all records under <strong>10 th result date 2022 rajasthan board</strong> are permanently archived on verified platforms.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 RBSE results by name on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10 th result date 2022 rajasthan board</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in Rajasthan.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 RBSE marksheet valid for regular admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10 th result date 2022 rajasthan board</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "class 8 result 2024, check 8th board result 2024 online, class
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Class 8 Result 2024 - Official National Portal</div>
-    <h2 class='sr-title'>Class 8 Result 2024: Your Comprehensive Navigator to National Board of Secondary Education, State Boards of Secondary Education, Middle School (Class 8), Senior Secondary, and All-India State Board Result Gateways (Government of Rajasthan, Punjab, Himachal Pradesh, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>Class 8 Result 2024 - Official National Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Class 8 Result 2024 - Official National Portal"; 
+$meta_description = "Check Class 8 Result 2024 online. Access the high-speed links for Rajasthan, Punjab, and other state 8th board results. Official 2024 result mirror link."; 
+$meta_keywords = "class 8 result 2024, check 8th board result 2024 online, class 8th result link, official 2024 8th result gateway, indiaresults 8th 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Class 8 Result 2024 - Official National Portal";
+$meta_description = "Check Class 8 Result 2024 online. Access the high-speed links for Rajasthan, Punjab, and other state 8th board results. Official 2024 result mirror link.";
+$meta_keywords = "class 8 result 2024, check 8th board result 2024 online, class 8th result link, official 2024 8th result gateway, indiaresults 8th 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "class 8 result 2024, check 8th board result 2024 online, class
                 <a href="https://www.pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Punjab Portal" target="_blank">Access Punjab 8th 2024</a>
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults" target="_blank">Visit 2024 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Class 8 Result 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "class 8 result 2024, check 8th board result 2024 online, class
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Class 8 Result 2024 data, please visit the respectve Board or DIET headquarters or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Class 8 Result 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "class 8 result 2024, check 8th board result 2024 online, class
         <br>
         <strong>3. Is the result from Class 8 Result 2024 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Class 8 Result 2024" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

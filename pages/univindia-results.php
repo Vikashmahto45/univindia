@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Results - Check University Exam Scores & Marksheets"; 
 $meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Results portal. Complete guide to downloading marksheets and checking revaluation results online."; 
 $meta_keywords = "Univindia Results - Check University Exam Scores & Marksheets"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Results - Check University Exam Scores & Marksheets</div>
+    <h2 class='sr-title'>Univindia Results - Check University Exam Scores & Marksheets</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Results - Check University Exam Scores & Marksheets"; 
+$meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Results portal. Complete guide to downloading marksheets and checking revaluation results online."; 
+$meta_keywords = "Univindia Results - Check University Exam Scores & Marksheets"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Results - Check University Exam Scores & Marksheets";
+$meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Results portal. Complete guide to downloading marksheets and checking revaluation results online.";
+$meta_keywords = "Univindia Results - Check University Exam Scores & Marksheets";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Results: Your Comprehensive Guide to Checking University Scores</h1>
+        
         
         <p>For thousands of students across Rajasthan, the term "Univindia Results" signifies the most anticipated moment of the academic year. Whether you are enrolled at Maharaja Ganga Singh University (MGSU) in Bikaner, Raj Rishi Bhartrihari Matsya University (RRBMU) in Alwar, or Maharaja Surajmal Brij University (MSBU) in Bharatpur, the Univindia portal network is your primary destination for academic verification. As the digital transformation of higher education accelerates, having a centralized and transparent platform for result declaration is essential. In this detailed guide, we will provide a complete walkthrough of how to check your scores on the Univindia Results portal, how to interpret your marksheet, and what steps to take if you encounter technical or academic issues.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Results - Check University Exam Scores & Marksheets"
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

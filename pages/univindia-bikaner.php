@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Bikaner - Maharaja Ganga Singh University Result Portal"; 
 $meta_description = "Univindia Bikaner is the primary source for MGSU Bikaner results, admit cards, and exam forms. Complete guide to the Bikaner University digital portal."; 
 $meta_keywords = "univindia bikaner"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Bikaner - Maharaja Ganga Singh University Result Portal</div>
+    <h2 class='sr-title'>Univindia Bikaner - Maharaja Ganga Singh University Result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Bikaner - Maharaja Ganga Singh University Result Portal"; 
+$meta_description = "Univindia Bikaner is the primary source for MGSU Bikaner results, admit cards, and exam forms. Complete guide to the Bikaner University digital portal."; 
+$meta_keywords = "univindia bikaner"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Bikaner - Maharaja Ganga Singh University Result Portal";
+$meta_description = "Univindia Bikaner is the primary source for MGSU Bikaner results, admit cards, and exam forms. Complete guide to the Bikaner University digital portal.";
+$meta_keywords = "univindia bikaner";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Bikaner: Your Comprehensive Hub for MGSU Academic Services</h1>
+        
         
         <p>Univindia Bikaner is a term that holds immense importance for thousands of students who are pursuing their higher education in the heritage-rich city of Bikaner and its surrounding districts. As the official digital platform for the Maharaja Ganga Singh University (MGSU), Univindia Bikaner serves as the primary technical interface for all examination and administrative tasks. Whether you are a regular undergraduate student or a final-year postgraduate aspirant, this portal is where you manage your academic record, from initial registration to the final retrieval of your degree results. In this detailed guide, we will explore the various features of Univindia Bikaner and provide expert tips on how to navigate it for your scholarly success.</p>
 
@@ -44,6 +66,15 @@ $meta_keywords = "univindia bikaner";
 
         <p><i>Note: Univindia.online is an independent educational site and is not affiliated with the official MGSU Bikaner or Univindia.net. For authorized result declarations and official university news, please always rely on the official Maharaja Ganga Singh University websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

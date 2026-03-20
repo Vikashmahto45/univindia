@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "uk board 10th result - Official Uttarakhand Secondary Hub"; 
 $meta_description = "Check uk board 10th result for UBSE exams. Access the official Uttarakhand Board of School Education (UBSE) result gateway and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; uk board 10th result - Official Uttarakhand Secondary Hub</div>
+    <h2 class='sr-title'>uk board 10th result - Official Uttarakhand Secondary Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "uk board 10th result - Official Uttarakhand Secondary Hub"; 
+$meta_description = "Check uk board 10th result for UBSE exams. Access the official Uttarakhand Board of School Education (UBSE) result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Uttarakhand Class
                 10th (High School). Official UBSE Ramnagar mirrors and board result links updated for the current
                 academic batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 10th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Uttarakhand board 10th results by student name alternative criteria for the latest high
                         school session.</p>
                     <a href="https://uttarakhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                     a verified digital result from the <strong>uk board 10th result</strong> hub is essential for
                     students to complete their academic verification and proof of educational achievement during
                     school-level transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,26 +110,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>uk board 10th result</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in the UBSE
                             Uttarakhand secondary exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub officially official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including UBSE Ramnagar, ensuring result data is mirrored directly from official
                             board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for UBSE UK Board 10th result access?</button>
                     <div class="faq-answer">
                         <p>You primarily need your Board Roll Number. Some versions may also require your Date of Birth
                             or School Code for <strong>uk board 10th result</strong> access sessions.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

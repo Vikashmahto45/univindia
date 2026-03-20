@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online"; 
 $meta_description = "Download RPF Constable Admit Card 2025. Get the direct link for Railway Protection Force (RPF) Constable recruitment examination hall tickets at rpf.indianrailways.gov.in."; 
 $meta_keywords = "rpf constable admit card 2025 download, rpf hall ticket 2025 download, rpf.indianrailways.gov.in login 2025, railway police exam date 2025 download, constable recruitment call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online"; 
+$meta_description = "Download RPF Constable Admit Card 2025. Get the direct link for Railway Protection Force (RPF) Constable recruitment examination hall tickets at rpf.indianrailways.gov.in."; 
+$meta_keywords = "rpf constable admit card 2025 download, rpf hall ticket 2025 download, rpf.indianrailways.gov.in login 2025, railway police exam date 2025 download, constable recruitment call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online";
+$meta_description = "Download RPF Constable Admit Card 2025. Get the direct link for Railway Protection Force (RPF) Constable recruitment examination hall tickets at rpf.indianrailways.gov.in.";
+$meta_keywords = "rpf constable admit card 2025 download, rpf hall ticket 2025 download, rpf.indianrailways.gov.in login 2025, railway police exam date 2025 download, constable recruitment call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "rpf constable admit card 2025 download, rpf hall ticket 2025 d
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Railway Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Rajasthan University Result - Official Uniraj Examination Portal"; 
 $meta_description = "Check Rajasthan University Result online. Access the University of Rajasthan (Uniraj) UG and PG results for BA, BSc, BCom, MA, MSc. Download your Uniraj marksheets instantly."; 
 $meta_keywords = "rajasthan university result, check uniraj result online, university of rajasthan result link, uniraj ba bsc bcom result, official uor result portal, uniraj merit list"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rajasthan University Result - Official Uniraj Examination Portal</div>
+    <h2 class='sr-title'>Rajasthan University Result - Official Uniraj Examination Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Rajasthan University Result - Official Uniraj Examination Portal"; 
+$meta_description = "Check Rajasthan University Result online. Access the University of Rajasthan (Uniraj) UG and PG results for BA, BSc, BCom, MA, MSc. Download your Uniraj marksheets instantly."; 
+$meta_keywords = "rajasthan university result, check uniraj result online, university of rajasthan result link, uniraj ba bsc bcom result, official uor result portal, uniraj merit list"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Rajasthan University Result - Official Uniraj Examination Portal";
+$meta_description = "Check Rajasthan University Result online. Access the University of Rajasthan (Uniraj) UG and PG results for BA, BSc, BCom, MA, MSc. Download your Uniraj marksheets instantly.";
+$meta_keywords = "rajasthan university result, check uniraj result online, university of rajasthan result link, uniraj ba bsc bcom result, official uor result portal, uniraj merit list";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Rajasthan University Result: Your Comprehensive Navigator to University of Rajasthan (Uniraj), UOR Jaipur, and Rajasthan State University Result Gateways (Government of Rajasthan, Higher Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and Official Archives Across India</h1>
+        
         
         <p>The "Rajasthan University Result" (applicable to the annual and semester examinations and research evaluations conducted for various academic sessions by the University of Rajasthan, Jaipur) represents the single most significant digital milestone for over 5 lakh undergraduate and postgraduate students residing in the academic hub of Rajasthan. As the primary official gateway to the state's largest university infrastructure (Jaipur, Uniraj HQ), and the traditional higher education infrastructure of the nation, the "Rajasthan University Result" serves as the formal academic master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation degree via dedicated university server endpoints. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "Rajasthan University Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Uniraj education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Rajasthan University Result," ensuring that every aspiring student and researcher in Jaipur can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "rajasthan university result, check uniraj result online, unive
                 <a href="https://uniraj.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Uniraj Official Portal" target="_blank">Visit University Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Digital Degree" target="_blank">Get Digital Degree</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Rajasthan University Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your university, follow these technical steps:</p>
@@ -50,7 +71,7 @@ $meta_keywords = "rajasthan university result, check uniraj result online, unive
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Rajasthan University Result, please visit the UOR headquarters at Jaipur or your respective College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Rajasthan University Result Portal</h2>
@@ -63,7 +84,15 @@ $meta_keywords = "rajasthan university result, check uniraj result online, unive
         <br>
         <strong>3. Is the result from Rajasthan University Result valid for Govt Jobs?</strong>
         <p>Yes, your university results (verified via the official "Rajasthan University Result" portal or DigiLocker) are the accepted records for applying to RPSC, UPSC, and other government commissions.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

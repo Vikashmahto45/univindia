@@ -9,7 +9,26 @@ $meta_keywords = "bihar police admit card 2023 download, csbc bihar hall ticket 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bihar Police Admit Card 2023 Download - Constable Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>Bihar Police Admit Card 2023 Download - Constable Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "Bihar Police Admit Card 2023 Download - Constable Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Bihar Police Admit Card 2023. Get the direct link for Central Selection Board of Constable (CSBC) recruitment examination hall tickets at csbc.bih.nic.in."; 
+$meta_keywords = "bihar police admit card 2023 download, csbc bihar hall ticket 2023 download, csbc.bih.nic.in login 2023, bihar police exam date 2023 download, constable recruitment call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Bihar Police Admit Card 2023 Download - Constable Hall Ticket Link | Univindia.online";
+$meta_description = "Download Bihar Police Admit Card 2023. Get the direct link for Central Selection Board of Constable (CSBC) recruitment examination hall tickets at csbc.bih.nic.in.";
+$meta_keywords = "bihar police admit card 2023 download, csbc bihar hall ticket 2023 download, csbc.bih.nic.in login 2023, bihar police exam date 2023 download, constable recruitment call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Bihar Police Admit Card 2023: Download CSBC Constable Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "bihar police admit card 2023 download, csbc bihar hall ticket 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Bihar Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

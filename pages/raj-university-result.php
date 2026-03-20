@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Raj University Result - Official University of Rajasthan (Uniraj) Hub"; 
 $meta_description = "Check Raj University Result online. Access University of Rajasthan (Uniraj) BA, BSc, BCom, MA, MSc Semester and Private results. Official marksheet portal."; 
 $meta_keywords = "raj university result, check uniraj result online, university of rajasthan result link, uniraj.ac.in results, rajasthan university private result, uniraj admit card and result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Raj University Result - Official University of Rajasthan (Uniraj) Hub</div>
+    <h2 class='sr-title'>Raj University Result - Official University of Rajasthan (Uniraj) Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Raj University Result - Official University of Rajasthan (Uniraj) Hub"; 
+$meta_description = "Check Raj University Result online. Access University of Rajasthan (Uniraj) BA, BSc, BCom, MA, MSc Semester and Private results. Official marksheet portal."; 
+$meta_keywords = "raj university result, check uniraj result online, university of rajasthan result link, uniraj.ac.in results, rajasthan university private result, uniraj admit card and result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Raj University Result - Official University of Rajasthan (Uniraj) Hub";
+$meta_description = "Check Raj University Result online. Access University of Rajasthan (Uniraj) BA, BSc, BCom, MA, MSc Semester and Private results. Official marksheet portal.";
+$meta_keywords = "raj university result, check uniraj result online, university of rajasthan result link, uniraj.ac.in results, rajasthan university private result, uniraj admit card and result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Raj University Result: Your Comprehensive Navigator to University of Rajasthan (Uniraj), Jaipur, Undergraduate (BA, BSc, BCom), Postgraduate (MA, MSc, MCom), and State University Result Gateways (Department of Higher Education Rajasthan, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Raj University Result" (applicable to the annual, semester, and supplementary examinations conducted for the various academic programs by the University of Rajasthan, Jaipur) represents the single most significant digital milestone for over 7 lakh students residing in the academic and cultural heartland of Rajasthan. As the primary official gateway to the state's largest higher education infrastructure (Jaipur, Uniraj HQ), and the traditional university academic infrastructure of the nation, the "Raj University Result" serves as the formal UG/PG master directory that allows candidates to access their theory scores, internal assessment marks, and final degree certificate via dedicated university server endpoints and authorized result mirrors. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are academic priorities, the "Raj University Result" search is the digital gateway through which candidates verify their professional transition and legal merit with maximum transparency and integrity. The Rajasthan university councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the scores (including subject-wise credits, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Raj University Result," ensuring that every aspiring student and researcher in Jaipur and beyond can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "raj university result, check uniraj result online, university 
                 <a href="https://www.uniraj.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Uniraj Official Portal" target="_blank">Visit University Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Raj University Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via Uniraj, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "raj university result, check uniraj result online, university 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Raj University Result, please visit the Uniraj headquarters in Jaipur or your respective College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Raj University Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "raj university result, check uniraj result online, university 
         <br>
         <strong>3. Is the result from Raj University Result valid for scholarships?</strong>
         <p>Yes, your board and university results (verified via the official "Raj University Result" portal) are digitized and available in the DigiLocker archive for official verification.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

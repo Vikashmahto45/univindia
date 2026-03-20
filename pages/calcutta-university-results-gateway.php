@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; calcutta university results - Official WB UG/PG Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>calcutta university results - Official WB UG/PG Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "calcutta university results - Official WB UG/PG Archive"; 
+$meta_description = "Check calcutta university results for BA, BSc, BCom, and Semester examinations. Access the official CU result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check CU Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify CU regular and private results by student name alternative.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -82,8 +89,7 @@ $meta_keywords = "";
                     semester. Having a verified digital result from the <strong>calcutta university results</strong> hub
                     is essential for students to complete their academic verification and proof of degree completion.
                 </p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,28 +101,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>calcutta university results</strong> portal on <strong>indiaresults</strong>
                             often provides a "Search by Name" feature for major undergraduate degree examinations.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the online results official for PG admission?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major
                             universities, ensuring that all <strong>calcutta university results</strong> data is
                             mirrored directly from official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet valid for document verification?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>calcutta university results</strong> portal is a valid
                             provisional document accepted for initial postgraduate registration and temporary document
                             verification processes.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

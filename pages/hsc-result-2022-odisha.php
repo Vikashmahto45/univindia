@@ -7,9 +7,27 @@ $meta_keywords = "hsc result 2022 odisha, check odisha 12th result 2022 online, 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hsc result 2022 odisha - Official Board Mirror</div>
-    <h2 class='sr-title'>hsc result 2022 odisha: Your Comprehensive Navigator to Council of Higher Secondary Education (CHSE) Odisha, Bhubaneswar, Higher Secondary Public Examinations (Class 12), and Odisha State Board Result Gateways (Government of Odisha, School Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>hsc result 2022 odisha - Official Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "hsc result 2022 odisha - Official Board Mirror"; 
+$meta_description = "Check hsc result 2022 odisha online. Access the historical Class 12th (Senior Secondary) results for Council of Higher Secondary Education (CHSE) Odisha."; 
+$meta_keywords = "hsc result 2022 odisha, check odisha 12th result 2022 online, official chse odisha 2022 link, odisha hsc results portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "hsc result 2022 odisha - Official Board Mirror";
+$meta_description = "Check hsc result 2022 odisha online. Access the historical Class 12th (Senior Secondary) results for Council of Higher Secondary Education (CHSE) Odisha.";
+$meta_keywords = "hsc result 2022 odisha, check odisha 12th result 2022 online, official chse odisha 2022 link, odisha hsc results portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "hsc result 2022 odisha, check odisha 12th result 2022 online, 
                 <a href="http://chseodisha.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CHSE Odisha Portal" target="_blank">Access CHSE Official</a>
                 <a href="https://odisha.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Odisha Name site" target="_blank">Visit 2022 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official hsc result 2022 odisha Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "hsc result 2022 odisha, check odisha 12th result 2022 online, 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to hsc result 2022 odisha data, please visit the CHSE headquarters in Bhubaneswar or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About hsc result 2022 odisha Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "hsc result 2022 odisha, check odisha 12th result 2022 online, 
         <br>
         <strong>3. Is the result from hsc result 2022 odisha valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "hsc result 2022 odisha" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

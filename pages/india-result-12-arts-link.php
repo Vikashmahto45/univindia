@@ -7,10 +7,27 @@ $meta_keywords = "india result 12 arts, 12th arts board result, check 12th arts 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12 arts - Official Senior Secondary Arts Archive</div>
-    <h2 class='sr-title'>india result 12 arts: Your Authoritative Navigator to State Senior Secondary Boards, Arts Stream Councils,
-            and National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <h2 class='sr-title'>india result 12 arts - Official Senior Secondary Arts Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 12 arts - Official Senior Secondary Arts Archive"; 
+$meta_description = "Check india result 12 arts for CBSE, RBSE, UP Board, and all state boards. Access the official 12th Arts stream result gateway and name-wise search portal."; 
+$meta_keywords = "india result 12 arts, 12th arts board result, check 12th arts result online, indiaresults 12th arts, RBSE 12th arts result"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result 12 arts - Official Senior Secondary Arts Archive";
+$meta_description = "Check india result 12 arts for CBSE, RBSE, UP Board, and all state boards. Access the official 12th Arts stream result gateway and name-wise search portal.";
+$meta_keywords = "india result 12 arts, 12th arts board result, check 12th arts result online, indiaresults 12th arts, RBSE 12th arts result";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -67,8 +84,7 @@ $meta_keywords = "india result 12 arts, 12th arts board result, check 12th arts 
                 <a href="https://results.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="National Portal" target="_blank">National Result Gateway</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 12 arts Online</h2>
         <p>To ensure a successful result search in the 12th Arts records, follow these technical steps:</p>
@@ -105,7 +121,7 @@ $meta_keywords = "india result 12 arts, 12th arts board result, check 12th arts 
                 database changes related to india result 12 arts data, please visit the respective Board headquarters or
                 your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 12 Arts</h2>
@@ -121,8 +137,13 @@ $meta_keywords = "india result 12 arts, 12th arts board result, check 12th arts 
         <strong>3. Is the online result enough for BA admission?</strong>
         <p>The online "india result 12 arts" is accepted for provisional admission; however, the original marksheet is
             required for the final confirmation of eligibility.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

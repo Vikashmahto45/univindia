@@ -7,9 +7,27 @@ $meta_keywords = "chse result 2024, chse odisha result, chse plus two result 202
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE Result 2024 - Odisha Higher Secondary (+2) Examination Hub</div>
-    <h2 class='sr-title'>CHSE Result 2024: Your Comprehensive Guide to Odisha’s Higher Secondary Success</h2>
+    <h2 class='sr-title'>CHSE Result 2024 - Odisha Higher Secondary (+2) Examination Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "CHSE Result 2024 - Odisha Higher Secondary (+2) Examination Hub"; 
+$meta_description = "Check CHSE Result 2024 for Odisha +2 Science, Commerce, and Arts. Access the official Council of Higher Secondary Education gateway for results and merit lists."; 
+$meta_keywords = "chse result 2024, chse odisha result, chse plus two result 2024, orissaresults.nic.in 2024, chse result date 2024 science commerce arts"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "CHSE Result 2024 - Odisha Higher Secondary (+2) Examination Hub";
+$meta_description = "Check CHSE Result 2024 for Odisha +2 Science, Commerce, and Arts. Access the official Council of Higher Secondary Education gateway for results and merit lists.";
+$meta_keywords = "chse result 2024, chse odisha result, chse plus two result 2024, orissaresults.nic.in 2024, chse result date 2024 science commerce arts";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "chse result 2024, chse odisha result, chse plus two result 202
                 <a href="http://chseodisha.nic.in" class="btn" title="CHSE Odisha Official Council Site" target="_blank">CHSE Odisha Main</a>
                 <a href="http://odisha.indiaresults.com" class="btn" title="CHSE Result Name Wise Search" target="_blank">IndiaResults Odisha</a>
                 <a href="https://samsodisha.gov.in" class="btn" title="SAMS Odisha Admission Portal" target="_blank">SAMS Admission Link</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CHSE Result 2024</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "chse result 2024, chse odisha result, chse plus two result 202
         <br>
         <strong>3. Is the online +2 result card valid for degree admission in SAMS?</strong>
         <p>Yes, the computer-generated "CHSE Result 2024" scorecard is accepted for the initial online application on the SAMS Odisha portal until the original certificate is provided by the council.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

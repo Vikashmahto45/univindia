@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in";
+$page_description = "Download SSC Stenographer Admit Card 2024-25 for Grade C and D positions. Get direct link for SSC Steno Hall Ticket, Skill Test Date, and Region Status. 800+ words guide.";
+$page_keywords = "SSC Stenographer Admit Card 2024, SSC Steno Grade C D Hall Ticket, ssc.gov.in steno admit card, SSC Stenographer Skill Test Date, SSC Steno Region Status";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSC Stenographer Admit Card 2024-25: Grade 'C' & 'D' Hall Ticket</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-keyboard me-2"></i> <strong>Recruitment Update:</strong> The Staff Selection Commission (SSC) has released the <strong>Stenographer 2024 CBE Admit Card</strong> status. Candidates can check their exam date and city at <strong>ssc.gov.in</strong>. Skill Test hall tickets will be issued separately for qualified candidates.
@@ -89,14 +112,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-warning">
                             <h5 class="text-warning"><i class="fas fa-print me-2"></i> Clear Printed Admit Card</h5>
                             <p class="small text-light-gray mb-0">Ensure the barcode on the <strong>SSC Stenographer Admit Card</strong> is not folded or damaged. Print all pages including instructions.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-warning">
                             <h5 class="text-warning"><i class="fas fa-id-card-alt me-2"></i> Matching Photo ID Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar/Voter ID. The <strong>Full Date of Birth</strong> on the ID must be identical to the one on the <strong>SSC Steno Hall Ticket</strong>.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">SSC Stenographer Admit Card FAQ: Frequent Questions</h2>
@@ -110,8 +131,7 @@ $meta_keywords = "";
                         <div id="stQ1" class="accordion-collapse collapse" data-bs-parent="#sscStenographerFaq">
                             <div class="accordion-body text-light-gray">
                                 No, you can only appear for the grades you opted for in the application form. Your <strong>SSC Stenographer Hall Ticket</strong> will clearly state the Grade(s) for which you are eligible.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -122,10 +142,8 @@ $meta_keywords = "";
                         <div id="stQ2" class="accordion-collapse collapse" data-bs-parent="#sscStenographerFaq">
                             <div class="accordion-body text-light-gray">
                                 The exam pattern remains 200 marks (100 English, 50 Reasoning, 50 GA). Specific instructions for the 2024 pattern are printed on the <strong>SSC Steno Admit Card</strong> reverse page.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Important SSC Links</h5>
@@ -133,14 +151,14 @@ $meta_keywords = "";
                         <a href="ssc-cgl-admit-card-2024.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">SSC CGL Hall Ticket</a>
                         <a href="ssc-chsl-admit-card-2024.php" class="btn btn-outline-warning rounded-pill px-4 btn-sm">SSC CHSL Call Letter</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-keyboard me-2"></i> Shorthand & Skill Test Links</h3>
                 <div class="row g-3">
+                    <?php
                     $steno_links = [
                         'ssc-steno-skill-test-pattern.php' => 'Steno Typing Speed Logic',
                         'ssc-steno-previous-year-result.php' => 'Steno Grade C/D Cutoff',
@@ -154,11 +172,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -188,3 +205,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

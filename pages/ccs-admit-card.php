@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in</div>
-    <h2 class='sr-title'>CCS Admit Card 2025: Download CCSU Meerut Hall Ticket</h2>
+    <h2 class='sr-title'>CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in";
+$page_description = "Download CCS Admit Card 2025 for Private & Regular exams. Get direct link for CCSU Meerut Hall Ticket, Exam Schedule, and center list. 800+ words of in-depth updates.";
+$page_keywords = "CCS Admit Card 2025, CCSU Meerut Hall Ticket Download, CCS University Admit Card Private, CCSU Exam Schedule 2025, ccsuniversity.ac.in admit card link";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -94,14 +113,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-print me-2"></i> Printed Hall Ticket</h5>
                             <p class="small text-light-gray mb-0">Carry a clear printout. Digital versions on tablets or smartphones will not be accepted by external examiners.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-id-card me-2"></i> College ID Card</h5>
                             <p class="small text-light-gray mb-0">Regular students must carry their college ID, while private students must carry an original Govt. ID (Aadhar/Voter ID).</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">CCS University FAQ for Students</h2>
@@ -115,8 +132,7 @@ $meta_keywords = "";
                         <div id="ccQ1" class="accordion-collapse collapse" data-bs-parent="#ccsFaq">
                             <div class="accordion-body text-light-gray">
                                 You must visit the 'Confidential' or 'Examination' department at the CCSU campus in Meerut immediately with your fee receipt for correction.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -127,10 +143,8 @@ $meta_keywords = "";
                         <div id="ccQ2" class="accordion-collapse collapse" data-bs-parent="#ccsFaq">
                             <div class="accordion-body text-light-gray">
                                 No, if the admit card has a clear digital signature and photograph, no separate attestation is required unless specified on the card.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark shadow-sm">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Important Links</h5>
@@ -138,14 +152,14 @@ $meta_keywords = "";
                         <a href="ccs-university-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">Main CCSU Page</a>
                         <a href="ccsu-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">CCSU Call Letter</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marked-alt me-2"></i> Other Universities in UP</h3>
                 <div class="row g-3">
+                    <?php
                     $up_univ = [
                         'mjpru-admit-card.php' => 'MJPRU Bareilly',
                         'msu-admit-card.php' => 'MSU Saharanpur',
@@ -159,11 +173,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -191,6 +204,12 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

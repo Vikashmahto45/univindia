@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 9th class result - Official Academic Result Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>9th class result - Official Academic Result Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "9th class result - Official Academic Result Portal"; 
+$meta_description = "Check 9th class result for school and state exams. Access the official Class 9th result portal and marksheet verification links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 9th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -41,8 +49,7 @@ $meta_keywords = "";
                     <p>Verify Class 9 results by student roll number or name for participating residential and
                         government schools.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +93,7 @@ $meta_keywords = "";
                     and theory marks. Having a verified digital result from the <strong>9th class result</strong> hub is
                     essential for students to complete their academic verification and proof of educational performance
                     during university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,26 +106,25 @@ $meta_keywords = "";
                         <p>Yes, the <strong>9th class result</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated "Search by Name" feature for candidates participating in various state and
                             school-level exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 9th grade results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             education departments, ensuring result data is mirrored directly from official servers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for Class 9 result verification?</button>
                     <div class="faq-answer">
                         <p>You primarily need your School Roll Number. Some portals like Shala Darpan may also require
                             your Student ID or registration number for <strong>9th class result</strong> access.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

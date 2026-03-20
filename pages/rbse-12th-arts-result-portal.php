@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rbse 12th arts result - Official Rajasthan Board Portal"; 
 $meta_description = "Check rbse 12th arts result for Class 12th Board examinations. Access the official Rajasthan Board (BSER) 12th Arts result gateway on indiaresults for fast checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 12th arts result - Official Rajasthan Board Portal</div>
+    <h2 class='sr-title'>rbse 12th arts result - Official Rajasthan Board Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rbse 12th arts result - Official Rajasthan Board Portal"; 
+$meta_description = "Check rbse 12th arts result for Class 12th Board examinations. Access the official Rajasthan Board (BSER) 12th Arts result gateway on indiaresults for fast checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the official 2024 Senior Secondary (Arts) results for the
                 Rajasthan Board of Secondary Education (RBSE).</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check RBSE Arts Result</a>
                 <a href="#faq" class="btn btn-secondary">Board Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Portal</h3>
                     <p>Find RBSE 12th arts results using student names.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -74,8 +85,7 @@ $meta_keywords = "";
                     admission to BA programs or integrated teacher training courses in Rajasthan, having a verified
                     digital scorecard from the <strong>rbse 12th arts result</strong> portal is an essential first step.
                 </p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -88,27 +98,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>rbse 12th arts result</strong> section on <strong>indiaresults</strong>
                             provides a convenient "Search by Name" feature, allowing you to find results even if your
                             roll number is missing.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result from rbse 12th arts result official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresults.com</strong> portal acts as an official hosting partner
                             for BSER Ajmer, ensuring the results displayed are official and trustworthy for provisional
                             use.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are included in the RBSE 12th arts marksheet?</button>
                     <div class="faq-answer">
                         <p>Your <strong>rbse 12th arts result</strong> will show marks for three elective subjects, two
                             compulsory subjects (Hindi & English), and the score in environmental studies or physical
                             education where applicable.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

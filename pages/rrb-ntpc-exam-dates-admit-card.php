@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online"; 
 $meta_description = "Check RRB NTPC Exam Dates and Download Admit Card. Get the direct link for Railway NTPC phase-wise examination schedules and hall tickets at rrbapply.gov.in."; 
 $meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule 2024 download, rrbapply.gov.in ntpc login 2024, railway recruitment exam date download, ntpc call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online</div>
+    <h2 class='sr-title'>RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online"; 
+$meta_description = "Check RRB NTPC Exam Dates and Download Admit Card. Get the direct link for Railway NTPC phase-wise examination schedules and hall tickets at rrbapply.gov.in."; 
+$meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule 2024 download, rrbapply.gov.in ntpc login 2024, railway recruitment exam date download, ntpc call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online";
+$meta_description = "Check RRB NTPC Exam Dates and Download Admit Card. Get the direct link for Railway NTPC phase-wise examination schedules and hall tickets at rrbapply.gov.in.";
+$meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule 2024 download, rrbapply.gov.in ntpc login 2024, railway recruitment exam date download, ntpc call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Railway Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

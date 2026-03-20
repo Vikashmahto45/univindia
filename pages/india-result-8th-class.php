@@ -7,9 +7,27 @@ $meta_keywords = "india result 8th class, check 8th board result online, 8th cla
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 8th Class - Official National Mirror</div>
-    <h2 class='sr-title'>India Result 8th Class: Your Comprehensive Navigator to National Board of Secondary Education, State Boards of Secondary Education, Middle School (Class 8), Senior Secondary, and All-India State Board Result Gateways (Government of Rajasthan, Punjab, Himachal, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 8th Class - Official National Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 8th Class - Official National Mirror"; 
+$meta_description = "Check India Result 8th Class online. Access the primary 8th Board results for Rajasthan, Punjab, and other states. Official IndiaResults mirror link."; 
+$meta_keywords = "india result 8th class, check 8th board result online, 8th class result link, official 8th result mirror, indiaresults 8th class"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 8th Class - Official National Mirror";
+$meta_description = "Check India Result 8th Class online. Access the primary 8th Board results for Rajasthan, Punjab, and other states. Official IndiaResults mirror link.";
+$meta_keywords = "india result 8th class, check 8th board result online, 8th class result link, official 8th result mirror, indiaresults 8th class";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 8th class, check 8th board result online, 8th cla
                 <a href="https://www.pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Punjab Portal" target="_blank">Access Punjab 8th Results</a>
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults" target="_blank">Visit Mirror Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 8th Class Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 8th class, check 8th board result online, 8th cla
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 8th Class data, please visit the respective Board/DIET headquarters or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 8th Class Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 8th class, check 8th board result online, 8th cla
         <br>
         <strong>3. Is the result from India Result 8th Class valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result 8th Class" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

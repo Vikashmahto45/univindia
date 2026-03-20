@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Admit Card Download Portal - Bikaner University Permit Gateway"; 
 $meta_description = "Download your MGSU Bikaner admit cards via the Univindia portal. Official guide to retrieving 2024 Maharaja Ganga Singh University hall tickets online."; 
 $meta_keywords = "Univindia Admit Card Download Portal - Bikaner University Permit Gateway"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Admit Card Download Portal - Bikaner University Permit Gateway</div>
+    <h2 class='sr-title'>Univindia Admit Card Download Portal - Bikaner University Permit Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Admit Card Download Portal - Bikaner University Permit Gateway"; 
+$meta_description = "Download your MGSU Bikaner admit cards via the Univindia portal. Official guide to retrieving 2024 Maharaja Ganga Singh University hall tickets online."; 
+$meta_keywords = "Univindia Admit Card Download Portal - Bikaner University Permit Gateway"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Admit Card Download Portal - Bikaner University Permit Gateway";
+$meta_description = "Download your MGSU Bikaner admit cards via the Univindia portal. Official guide to retrieving 2024 Maharaja Ganga Singh University hall tickets online.";
+$meta_keywords = "Univindia Admit Card Download Portal - Bikaner University Permit Gateway";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Admit Card Download Portal: Your Guide to Bikaner University Permits</h1>
+        
         
         <p>The term "Univindia Admit Card Download Portal" refers to the core digital infrastructure utilized by the Maharaja Ganga Singh University (MGSU), Bikaner, to disseminate official examination hall tickets to its students. For hundreds of thousands of undergraduate and postgraduate students across Northern Rajasthan—including the districts of Bikaner, Churu, Sriganganagar, and Hanumangarh—the `univindia.net` network is the definitive destination for all permit-related requirements. Whether you are appearing for your first-year exams or your final-year graduation papers, the Univindia Admit Card Download Portal provides the secure, organized platform required to access your official examination identity. In this comprehensive guide, we will provide a detailed walkthrough of the portal's structure, explain how to retrieve your hall tickets correctly, and offer expert advice on ensuring a seamless and secure digital experience at Bikaner's leading university.</p>
 
@@ -54,6 +76,15 @@ $meta_keywords = "Univindia Admit Card Download Portal - Bikaner University Perm
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

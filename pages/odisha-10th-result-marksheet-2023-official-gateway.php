@@ -1,20 +1,34 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha 10th result marksheet 2023 - Official BSE Odisha Hub"; 
 $meta_description = "Check Odisha Board 10th result 2023 on odisha 10th result marksheet 2023. Access official BSE Odisha 2023 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha 10th result marksheet 2023 - Official BSE Odisha Hub</div>
+    <h2 class='sr-title'>odisha 10th result marksheet 2023 - Official BSE Odisha Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha 10th result marksheet 2023 - Official BSE Odisha Hub"; 
+$meta_description = "Check Odisha Board 10th result 2023 on odisha 10th result marksheet 2023. Access official BSE Odisha 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education (BSE), Odisha HSC (Class 10th) examination results and marksheet downloads for the 2023 academic session. Access official Odisha board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Odisha 10th Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -32,8 +46,7 @@ $meta_keywords = "";
                     <h3>2023 Odisha HSC Directory</h3>
                     <p>Verify BSE Odisha results (bseodisha.nic.in) 10th 2023 by student roll number exactly as printed on the official hall ticket for the 2023 batch.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -57,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2023 Odisha (BSE) Board Gateways</h3>
                 <p>The <strong>odisha 10th result marksheet 2023</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in Odisha. The system provides a detailed subject-wise breakdown for the 2023 batch of student examinees across all districts in Odisha. Having a verified digital result from the <strong>odisha 10th result marksheet 2023</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -69,23 +81,25 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2023 Odisha 10th marksheet links permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>odisha 10th result marksheet 2023</strong> are permanently archived on verified platforms for lifelong academic verification access in Odisha.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Odisha 10th results by name on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>odisha 10th result marksheet 2023</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for HSC student examinees in Odisha.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 Odisha 10th marksheet valid for regular admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>odisha 10th result marksheet 2023</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

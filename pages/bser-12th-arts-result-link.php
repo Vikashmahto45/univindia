@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bser 12th art result - Official Rajasthan Board Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>bser 12th art result - Official Rajasthan Board Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "bser 12th art result - Official Rajasthan Board Portal"; 
+$meta_description = "Check bser 12th art result for Class 12th Board examinations. Access the official Board of Secondary Education Rajasthan (BSER) 12th Arts result link on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check BSER Arts Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Find BSER 12th arts results using student names.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +86,7 @@ $meta_keywords = "";
                     government job opportunities in Rajasthan, having a verified digital result from the <strong>bser
                         12th art result</strong> portal is an essential first step in their document verification
                     process.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,27 +99,26 @@ $meta_keywords = "";
                         <p>Yes, the <strong>bser 12th art result</strong> portal on <strong>indiaresults</strong>
                             provides a convenient name-wise search feature, which is perfect for students who might have
                             misplaced their roll number.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What is BSER in bser 12th art result?</button>
                     <div class="faq-answer">
                         <p>BSER stands for 'Board of Secondary Education, Rajasthan', located in Ajmer. It is the
                             official body that conducts the 12th Arts examinations covered by the <strong>bser 12th art
                                 result</strong> portal.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result from bser 12th art result official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresults.com</strong> portal acts as a formal hosting partner for
                             BSER Ajmer, ensuring all results displayed are official for provisional use.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

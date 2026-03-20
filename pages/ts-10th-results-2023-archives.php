@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ts 10th results 2023 - Official Telangana State Secondary 2023 Archive"; 
 $meta_description = "Check ts 10th results 2023 for TSBIE Class 10 exams. Access the official 2023 Telangana State Secondary (SSC) archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ts 10th results 2023 - Official Telangana State Secondary 2023 Archive</div>
+    <h2 class='sr-title'>ts 10th results 2023 - Official Telangana State Secondary 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ts 10th results 2023 - Official Telangana State Secondary 2023 Archive"; 
+$meta_description = "Check ts 10th results 2023 for TSBIE Class 10 exams. Access the official 2023 Telangana State Secondary (SSC) archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Telangana State Class 10th
                 (Secondary School Certificate). Official BSE Hyderabad mirrors and archival links updated for the 2023
                 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -37,8 +49,7 @@ $meta_keywords = "";
                     <p>Verify TS SSC results 2023 by student hall ticket number alternative criteria for the 2023
                         session.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +92,7 @@ $meta_keywords = "";
                     2023. Having a verified digital result from the <strong>ts 10th results 2023</strong> archive hub is
                     essential for students to complete their academic verification and proof of performance during
                     school-level transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,26 +105,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>ts 10th results 2023</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for archival and academic
                             verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 TS 10th result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>ts 10th results 2023</strong> portal includes a dedicated name-wise
                             search for the BSE Telangana examinees of the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for Inter admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>ts 10th results 2023</strong> archive is a
                             valid provisional document accepted for initial secondary school registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

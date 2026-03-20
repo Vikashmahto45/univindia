@@ -1,14 +1,25 @@
 <?php 
 include '../header.php'; 
-$page_title = ""; 
+$page_title = "Bteup Result Portal"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
 <div class='sr-page-wrapper'>
-    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
-    <h2 class='sr-title'>BTEUP Result 2024 - UP Polytechnic Diploma Semester Results Link</h2>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bteup Result Portal</div>
+    <h2 class='sr-title'>Bteup Result Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Bteup Result Portal"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div id="content-container">
     <div class="main-content">
         <section class="result-section">
@@ -99,13 +110,16 @@ $meta_keywords = "";
                 <div class="faq-item">
                     <p><strong>Q: What is the difference between BTEUP Scrutiny and Revaluation?</strong><br>
                     A: Scrutiny involves re-counting the marks already awarded, while Revaluation (Re-checking) is a thorough review of the entire answer script by a different examiner.</p>
-                </div>
-            </div>
+                
         </section>
     </div>
     
-    
+    <?php include 'sidebar.php'; ?>
+
 </div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

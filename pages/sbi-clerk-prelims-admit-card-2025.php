@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online"; 
 $meta_description = "Download SBI Clerk Prelims Admit Card 2025. Get the direct link for State Bank of India (SBI) Junior Associate examination hall tickets at sbi.co.in."; 
 $meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associate hall ticket 2025 download, sbi.co.in login 2025, bank exam date 2025 download, sbi recruitment call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online"; 
+$meta_description = "Download SBI Clerk Prelims Admit Card 2025. Get the direct link for State Bank of India (SBI) Junior Associate examination hall tickets at sbi.co.in."; 
+$meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associate hall ticket 2025 download, sbi.co.in login 2025, bank exam date 2025 download, sbi recruitment call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online";
+$meta_description = "Download SBI Clerk Prelims Admit Card 2025. Get the direct link for State Bank of India (SBI) Junior Associate examination hall tickets at sbi.co.in.";
+$meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associate hall ticket 2025 download, sbi.co.in login 2025, bank exam date 2025 download, sbi recruitment call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associa
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Bank News</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

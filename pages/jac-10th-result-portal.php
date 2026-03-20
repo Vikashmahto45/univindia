@@ -1,14 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jac 10th result - Official Jharkhand Academic Council Portal"; 
 $meta_description = "Check jac 10th result online. Access the official Jharkhand Board Matriculation result portal, marksheet download, and school-wise selection list."; 
 $meta_keywords = "jac 10th result, Jharkhand board 10th result, jac matric result, check jac 10th result online, Jharkhand Academic Council result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jac 10th result - Official Jharkhand Academic Council Portal</div>
+    <h2 class='sr-title'>jac 10th result - Official Jharkhand Academic Council Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jac 10th result - Official Jharkhand Academic Council Portal"; 
+$meta_description = "Check jac 10th result online. Access the official Jharkhand Board Matriculation result portal, marksheet download, and school-wise selection list."; 
+$meta_keywords = "jac 10th result, Jharkhand board 10th result, jac matric result, check jac 10th result online, Jharkhand Academic Council result"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "jac 10th result - Official Jharkhand Academic Council Portal";
+$meta_description = "Check jac 10th result online. Access the official Jharkhand Board Matriculation result portal, marksheet download, and school-wise selection list.";
+$meta_keywords = "jac 10th result, Jharkhand board 10th result, jac matric result, check jac 10th result online, Jharkhand Academic Council result";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
-        <h1>jac 10th result: Your Definitive Navigator to Jharkhand Academic Council (JAC) Ranchi, Secondary Board
-            Examinations, and National Informatics Centre (NIC) Result Gateways Across Jharkhand</h1>
+        
 
         <p>The "jac 10th result" (representing the primary synchronized digital result-distribution network utilized by
             lakhs of students for the annual matriculation examinations conducted by Jharkhand Academic Council, Ranchi)
@@ -63,8 +84,7 @@ $meta_keywords = "jac 10th result, Jharkhand board 10th result, jac matric resul
                 <a href="https://results.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="National Portal" target="_blank">National Result Gateway</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official jac 10th result Online</h2>
         <p>To ensure a successful result search in the JAC records, follow these technical steps:</p>
@@ -101,7 +121,7 @@ $meta_keywords = "jac 10th result, Jharkhand board 10th result, jac matric resul
                 and final database changes related to jac 10th result data, please visit the JAC Council headquarters in
                 Ranchi or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About JAC 10th Result</h2>
@@ -117,7 +137,15 @@ $meta_keywords = "jac 10th result, Jharkhand board 10th result, jac matric resul
         <strong>3. Is the result from the jacresults.com portal official?</strong>
         <p>Yes, the "jac 10th result" served via `jacresults.com` is the official and primary digital output of the
             Jharkhand Academic Council.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

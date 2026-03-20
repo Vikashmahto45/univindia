@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Admit - Download University Exam Hall Tickets Online"; 
 $meta_description = "Download your university admit card at Univindia. Official guide to retrieving hall tickets for MGSU, RRBMU, and MSBU examinations online."; 
 $meta_keywords = "univindia admit"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Admit - Download University Exam Hall Tickets Online</div>
+    <h2 class='sr-title'>Univindia Admit - Download University Exam Hall Tickets Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Admit - Download University Exam Hall Tickets Online"; 
+$meta_description = "Download your university admit card at Univindia. Official guide to retrieving hall tickets for MGSU, RRBMU, and MSBU examinations online."; 
+$meta_keywords = "univindia admit"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Admit - Download University Exam Hall Tickets Online";
+$meta_description = "Download your university admit card at Univindia. Official guide to retrieving hall tickets for MGSU, RRBMU, and MSBU examinations online.";
+$meta_keywords = "univindia admit";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Admit: Your Official Gateway to University Examination Hall Tickets</h1>
+        
         
         <p>The term "Univindia Admit" represents one of the most vital search queries for thousands of students enrolled in major regional universities across Rajasthan. As examination season approaches for institutions like Maharaja Ganga Singh University (MGSU), Raj Rishi Bhartrihari Matsya University (RRBMU), and Maharaja Surajmal Brij University (MSBU), the Univindia portal network becomes the central hub for academic activity, specifically for the retrieval of the official hall ticket. In this comprehensive guide, we will explore the critical significance of the Univindia Admit card, provide a detailed step-by-step walkthrough for its download, and offer expert advice on troubleshooting common issues that may arise during the high-pressure period leading up to exams.</p>
 
@@ -55,6 +77,15 @@ $meta_keywords = "univindia admit";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized admit card downloads and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

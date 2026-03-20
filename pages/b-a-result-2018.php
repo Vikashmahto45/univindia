@@ -7,9 +7,27 @@ $meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 201
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks</div>
-    <h2 class='sr-title'>B.A. Result 2018: Accessing Historical Bachelor of Arts Academic Records</h2>
+    <h2 class='sr-title'>B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks"; 
+$meta_description = "Check the B.A. Result 2018 archives. Access historical Bachelor of Arts scores from major Indian universities and understand the result retrieval process for the 2018 cycle."; 
+$meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 2018 university results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks";
+$meta_description = "Check the B.A. Result 2018 archives. Access historical Bachelor of Arts scores from major Indian universities and understand the result retrieval process for the 2018 cycle.";
+$meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 2018 university results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -56,10 +74,9 @@ $meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 201
                 <a href="http://www.univindia.net" class="btn" title="Visit MGSU Bikaner Archive" target="_blank">MGSU 2018 Archive</a>
                 <a href="http://www.rajresults.nic.in" class="btn" title="View Rajasthan Results 2018" target="_blank">RBSE 2018 Results</a>
                 <a href="https://www.uniraj.ac.in/index.php" class="btn" title="University of Rajasthan Result Gateway" target="_blank">Uniraj Result Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ)About B.A. Result 2018</h2>
@@ -72,8 +89,13 @@ $meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 201
         <br>
         <strong>3. Can I still apply for re-evaluation of my 2018 B.A. result?</strong>
         <p>No, the window for re-evaluation typically closes 15-30 days after the result declaration in 2018. It is not possible to challenge those marks now, several years later.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

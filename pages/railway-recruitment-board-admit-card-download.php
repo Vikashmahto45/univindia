@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download Railway Recruitment Board (RRB) Admit Card. Get the direct link for RRB NTPC, Group D, ALP, and JE hall tickets at rrbcdg.gov.in."; 
 $meta_keywords = "railway recruitment board admit card download, rrb hall ticket download, rrbcdg.gov.in admit card login, railway exam date 2024 download, rrb call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Railway Recruitment Board (RRB) Admit Card. Get the direct link for RRB NTPC, Group D, ALP, and JE hall tickets at rrbcdg.gov.in."; 
+$meta_keywords = "railway recruitment board admit card download, rrb hall ticket download, rrbcdg.gov.in admit card login, railway exam date 2024 download, rrb call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online";
+$meta_description = "Download Railway Recruitment Board (RRB) Admit Card. Get the direct link for RRB NTPC, Group D, ALP, and JE hall tickets at rrbcdg.gov.in.";
+$meta_keywords = "railway recruitment board admit card download, rrb hall ticket download, rrbcdg.gov.in admit card login, railway exam date 2024 download, rrb call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "railway recruitment board admit card download, rrb hall ticket
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest RRB Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bteup - Official Board of Technical Education Uttar Pradesh Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>bteup - Official Board of Technical Education Uttar Pradesh Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "bteup - Official Board of Technical Education Uttar Pradesh Gateway"; 
+$meta_description = "Check bteup for Polytechnic and Diploma exams. Access the official Board of Technical Education Uttar Pradesh (BTEUP) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check BTEUP Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify BTEUP diploma results by student enrollment number alternative criteria for all
                         specialized branches.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -88,8 +95,7 @@ $meta_keywords = "";
                     marks. Having a verified digital result from the <strong>bteup</strong> hub is essential for
                     students to complete their academic verification and proof of educational attainment during career
                     progression and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -101,28 +107,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, but the primary unique identifier for <strong>bteup</strong> results on most portals is
                             the official Enrollment Number provided by the board.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the BTEUP results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             technical boards including BTEUP Lucknow, ensuring result data is mirrored directly from
                             official servers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What to do if there is a discrepancy in BTEUP result?</button>
                     <div class="faq-answer">
                         <p>In case of any mismatch in your <strong>bteup</strong> scorecard, you must contact your
                             respective polytechnic institute or the Board office in Lucknow for official corrections.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

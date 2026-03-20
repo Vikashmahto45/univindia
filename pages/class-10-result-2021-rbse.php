@@ -7,9 +7,27 @@ $meta_keywords = "class 10 result 2021 rbse, check rajasthan board 10th result 2
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Class 10 Result 2021 RBSE - Official Rajasthan Archive</div>
-    <h2 class='sr-title'>Class 10 Result 2021 RBSE: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Ajmer, Secondary School Examination (Class 10), Praveshika, and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>Class 10 Result 2021 RBSE - Official Rajasthan Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Class 10 Result 2021 RBSE - Official Rajasthan Archive"; 
+$meta_description = "Check Class 10 Result 2021 RBSE online. Access the historical Rajasthan Board matric results for the 2021 session. Official 2021 BSER result mirror link."; 
+$meta_keywords = "class 10 result 2021 rbse, check rajasthan board 10th result 2021 online, bser ajmer 10th 2021 link, official 2021 rbse result portal, rajresults.nic.in 2021"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Class 10 Result 2021 RBSE - Official Rajasthan Archive";
+$meta_description = "Check Class 10 Result 2021 RBSE online. Access the historical Rajasthan Board matric results for the 2021 session. Official 2021 BSER result mirror link.";
+$meta_keywords = "class 10 result 2021 rbse, check rajasthan board 10th result 2021 online, bser ajmer 10th 2021 link, official 2021 rbse result portal, rajresults.nic.in 2021";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "class 10 result 2021 rbse, check rajasthan board 10th result 2
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official BSER Portal" target="_blank">Access RajEduBoard</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Rajasthan Name site" target="_blank">Visit 2021 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Class 10 Result 2021 RBSE Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2021 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "class 10 result 2021 rbse, check rajasthan board 10th result 2
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Class 10 Result 2021 RBSE data, please visit the BSER headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Class 10 Result 2021 RBSE Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "class 10 result 2021 rbse, check rajasthan board 10th result 2
         <br>
         <strong>3. Is the result from Class 10 Result 2021 RBSE valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Class 10 Result 2021 RBSE" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

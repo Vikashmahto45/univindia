@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "inter 2 year results - Official 2nd Year Intermediate Hub"; 
 $meta_description = "Check inter 2 year results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter 2 year results - Official 2nd Year Intermediate Hub</div>
+    <h2 class='sr-title'>inter 2 year results - Official 2nd Year Intermediate Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "inter 2 year results - Official 2nd Year Intermediate Hub"; 
+$meta_description = "Check inter 2 year results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Class 12th
                 (Intermediate 2nd Year) across all Indian state boards. Official board mirrors and direct result links
                 updated for the current academic session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2nd Year Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Inter 2nd year board results by student name alternative criteria for major participating
                         state boards.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     practical marks. Having a verified digital result from the <strong>inter 2 year results</strong> hub
                     is essential for students to complete their academic verification and proof of educational
                     achievement during transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,15 +109,13 @@ $meta_keywords = "";
                         <p>Dates vary by state board. The <strong>inter 2 year results</strong> portal on
                             <strong>indiaresults</strong> provides real-time notifications and direct links as soon as
                             official data is released by councils.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check inter 2 year results by name online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Most participating state boards on the <strong>inter 2 year results</strong> hub
                             support the name-wise results feature for candidates participating in the exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the digital 2nd year marksheets valid for degree
                         admission?</button>
@@ -115,11 +123,15 @@ $meta_keywords = "";
                         <p>The digital scores retrieved from the <strong>inter 2 year results</strong> gateway are valid
                             provisional documents accepted for initial university registration and verification across
                             India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

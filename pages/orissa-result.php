@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Orissa Result - Official Odisha Board examination Portal"; 
 $meta_description = "Check Orissa Result online. Access the high-speed BSE Odisha 10th and CHSE Odisha 12th results. Official Orissa marks link cluster."; 
 $meta_keywords = "orissa result, check bse odisha 10th result online, chse odisha results 2024, official orissa result link, orissaresults nic in 2024"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Orissa Result - Official Odisha Board examination Portal</div>
+    <h2 class='sr-title'>Orissa Result - Official Odisha Board examination Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Orissa Result - Official Odisha Board examination Portal"; 
+$meta_description = "Check Orissa Result online. Access the high-speed BSE Odisha 10th and CHSE Odisha 12th results. Official Orissa marks link cluster."; 
+$meta_keywords = "orissa result, check bse odisha 10th result online, chse odisha results 2024, official orissa result link, orissaresults nic in 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Orissa Result - Official Odisha Board examination Portal";
+$meta_description = "Check Orissa Result online. Access the high-speed BSE Odisha 10th and CHSE Odisha 12th results. Official Orissa marks link cluster.";
+$meta_keywords = "orissa result, check bse odisha 10th result online, chse odisha results 2024, official orissa result link, orissaresults nic in 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Orissa Result: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha, Council of Higher Secondary Education (CHSE) Odisha, Bhubaneswar, Secondary School (Class 10), Higher Secondary (Class 12), Science, Commerce, Arts Streams, and Odisha State Board Result Gateways (Government of Odisha, School Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Orissa Result" (representing the primary synchronized digital result-dissemination framework utilized by over 9 lakh students for the annual board exams conducted by the BSE and CHSE Odisha) represents the single most significant digital milestone for students residing in the academic and industrial landscape of Odisha. As the primary official gateway to the state's educational infrastructure (Bhubaneswar and Cuttack, board HQs), and the traditional school education infrastructure of the nation, the "Orissa Result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (High School and Plus Two) via dedicated government server endpoints and authorized mirror archives like Odisha IndiaResults. For the current academic cycle, where high-quality technical evaluation and fastest result retrieval are state priorities, the "Orissa Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Odisha education councils have implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Orissa Result," ensuring that every aspiring student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "orissa result, check bse odisha 10th result online, chse odish
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSE Odisha Official" target="_blank">Visit BSE Board</a>
                 <a href="https://odisha.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults Odisha" target="_blank">Access Odisha Mirrors</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Orissa Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "orissa result, check bse odisha 10th result online, chse odish
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Orissa Result data, please visit the BSE headquarters in Cuttack or CHSE in Bhubaneswar or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Orissa Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "orissa result, check bse odisha 10th result online, chse odish
         <br>
         <strong>3. Is the result from Orissa Result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Orissa Result" portal) are recorded in the state scholarship database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

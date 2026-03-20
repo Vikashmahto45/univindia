@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU Admit - Bikaner University Hall Ticket Portal"; 
 $meta_description = "Download your MGSU Bikaner admit card at Univindia Net MGSU Admit portal. Official guide to retrieving hall tickets for Maharaja Ganga Singh University exams."; 
 $meta_keywords = "Univindia Net MGSU Admit - Bikaner University Hall Ticket Portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU Admit - Bikaner University Hall Ticket Portal</div>
+    <h2 class='sr-title'>Univindia Net MGSU Admit - Bikaner University Hall Ticket Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Admit - Bikaner University Hall Ticket Portal"; 
+$meta_description = "Download your MGSU Bikaner admit card at Univindia Net MGSU Admit portal. Official guide to retrieving hall tickets for Maharaja Ganga Singh University exams."; 
+$meta_keywords = "Univindia Net MGSU Admit - Bikaner University Hall Ticket Portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU Admit - Bikaner University Hall Ticket Portal";
+$meta_description = "Download your MGSU Bikaner admit card at Univindia Net MGSU Admit portal. Official guide to retrieving hall tickets for Maharaja Ganga Singh University exams.";
+$meta_keywords = "Univindia Net MGSU Admit - Bikaner University Hall Ticket Portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU Admit: Your Ultimate Guide to Bikaner University Hall Tickets</h1>
+        
         
         <p>The term "Univindia Net MGSU Admit" is one of the most critical search queries for thousands of students enrolled at Maharaja Ganga Singh University (MGSU), Bikaner. As each examination season approaches, the `univindia.net` portal becomes the central hub for academic activity, specifically for the retrieval of the official hall ticket. In this comprehensive guide, we will explore the significance of the Univindia Net MGSU Admit card, provide a detailed step-by-step walkthrough for its download, and offer expert advice on troubleshooting common issues that may arise during the high-pressure period leading up to university examinations in Bikaner.</p>
 
@@ -55,6 +77,15 @@ $meta_keywords = "Univindia Net MGSU Admit - Bikaner University Hall Ticket Port
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized admit card downloads and official university news, please always rely on the official MGSU Bikaner website.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

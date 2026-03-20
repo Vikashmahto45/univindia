@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "TTP //www.univindia.net/mainpage.php - Univindia Net Gateway Guide"; 
 $meta_description = "Access the Univindia Net main page for university services. Official guide to navigating the mainpage.php gateway for exams and results online."; 
 $meta_keywords = "ttp //www.univindia.net/mainpage.php"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; TTP //www.univindia.net/mainpage.php - Univindia Net Gateway Guide</div>
+    <h2 class='sr-title'>TTP //www.univindia.net/mainpage.php - Univindia Net Gateway Guide</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "TTP //www.univindia.net/mainpage.php - Univindia Net Gateway Guide"; 
+$meta_description = "Access the Univindia Net main page for university services. Official guide to navigating the mainpage.php gateway for exams and results online."; 
+$meta_keywords = "ttp //www.univindia.net/mainpage.php"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "TTP //www.univindia.net/mainpage.php - Univindia Net Gateway Guide";
+$meta_description = "Access the Univindia Net main page for university services. Official guide to navigating the mainpage.php gateway for exams and results online.";
+$meta_keywords = "ttp //www.univindia.net/mainpage.php";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>TTP //www.univindia.net/mainpage.php: Navigating the Core Univindia Gateway</h1>
+        
         
         <p>The term "TTP //www.univindia.net/mainpage.php" refers to the primary technical entry point of the `univindia.net` network—a centralized digital infrastructure that handles the examination and administrative requirements of multiple prominent universities in Rajasthan, including Maharaja Ganga Singh University (MGSU) Bikaner, Raj Rishi Bhartrihari Matsya University (RRBMU) Alwar, and Maharaja Surajmal Brij University (MSBU) Bharatpur. Within this high-speed system, the `mainpage.php` script serves as the centralized mission control and traffic director for millions of undergraduate and postgraduate students. Whether you are looking for an enrollment form, a hall ticket, or a final graduation marksheet, this specific PHP gateway is the definitive landing zone for all your academic tasks. In this comprehensive guide, we will provide a detailed exploration of the `mainpage.php` infrastructure, explain how to navigate its various functionally distinct sections on the Univindia Net network, and offer expert advice on ensuring a seamless and secure digital experience at Bikaner or Alwar's leading digital academic hub.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "ttp //www.univindia.net/mainpage.php";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official Univindia websites at univindia.net and its associated university domains.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

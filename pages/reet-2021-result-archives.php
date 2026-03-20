@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "reet 2021 result - Official Rajasthan REET 2021 Archive"; 
 $meta_description = "Check reet 2021 result for Rajasthan Eligibility Examination for Teachers. Access the official 2021 REET archival portal and scorecard link on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; reet 2021 result - Official Rajasthan REET 2021 Archive</div>
+    <h2 class='sr-title'>reet 2021 result - Official Rajasthan REET 2021 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "reet 2021 result - Official Rajasthan REET 2021 Archive"; 
+$meta_description = "Check reet 2021 result for Rajasthan Eligibility Examination for Teachers. Access the official 2021 REET archival portal and scorecard link on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Rajasthan Eligibility
                 Examination for Teachers (REET). Official BSER Ajmer mirrors for the REET 2021 level 1 and level 2
                 results portal.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 REET Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify REET status 2021 by student roll number and date of birth for the 2021 eligibility session
                         archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     the <strong>reet 2021 result</strong> archive hub is essential for candidates to complete their
                     professional verification and proof of eligibility attainment during state-level employment
                     transition and registration processes even years after their examination.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,27 +108,29 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>reet 2021 result</strong> are permanently archived on verified
                             platforms for lifelong professional eligibility verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check REET 2021 results by name search?</button>
                     <div class="faq-answer">
                         <p>No, REET results usually require official roll details. However, the <strong>reet 2021
                                 result</strong> portal provides multiple server mirrors to prevent data retrieval
                             failures.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the 2021 REET digital scorecard official for recruitment?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>reet 2021 result</strong> archive is a valid
                             provisional document accepted for initial document verification and registration in
                             Rajasthan state recruitment.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

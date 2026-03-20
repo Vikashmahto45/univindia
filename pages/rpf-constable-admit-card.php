@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in</div>
+    <h2 class='sr-title'>RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in";
+$page_description = "Download RPF Constable Admit Card 2024-25. Get direct link for Railway Protection Force Hall Ticket, Exam Schedule, and CBT stage details. 800+ words of in-depth guide.";
+$page_keywords = "RPF Constable Admit Card 2024, RPF Constable Hall Ticket Download, Railway Protection Force Admit Card, RPF CBT 1 Admit Card, rpf.indianrailways.gov.in admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">RPF Constable Admit Card 2024-25: RPF Hall Ticket Download Link</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-shield-alt me-2"></i> <strong>Important:</strong> The Railway Protection Force (RPF) Constable recruitment (CEN 02/2024) involves a Computer Based Test (CBT), Physical Efficiency Test (PET), and Document Verification. The CBT admit card is mandatory for the first stage.
@@ -98,14 +121,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-danger">Electronics</h5>
                             <p class="small text-light-gray mb-0">Mobile phones, Bluetooth devices, smartwatches, and calculators are strictly forbidden.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-danger">Metallic Items</h5>
                             <p class="small text-light-gray mb-0">Jewelry, belts with large buckles, and metallic hair clips are not allowed inside the lab.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Frequently Asked Questions (FAQs)</h2>
@@ -119,8 +140,7 @@ $meta_keywords = "";
                         <div id="rpfQ1" class="accordion-collapse collapse" data-bs-parent="#rpfFaq">
                             <div class="accordion-body text-light-gray">
                                 You can use the 'Forgot Registration Number' link on the RRB login page. Provide your name, father's name, and date of birth to retrieve it via email or SMS.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -131,10 +151,8 @@ $meta_keywords = "";
                         <div id="rpfQ2" class="accordion-collapse collapse" data-bs-parent="#rpfFaq">
                             <div class="accordion-body text-light-gray">
                                 No, the RRB does not allow any changes to the allotted exam center or shift once the admit card is issued.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Quick Links</h5>
@@ -142,14 +160,14 @@ $meta_keywords = "";
                         <a href="rrb-ntpc-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">RRB NTPC Admit Card</a>
                         <a href="rrb-alp-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">RRB ALP Call Letter</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-train me-2"></i> Railway Recruitment Hall Tickets</h3>
                 <div class="row g-3">
+                    <?php
                     $railway = [
                         'rrb-group-d-admit-card.php' => 'RRB Group D Hall Ticket',
                         'rpf-si-admit-card.php' => 'RPF SI Admit Card',
@@ -163,11 +181,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -197,3 +214,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,11 +7,27 @@ $meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indi
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.india result.com odisha 2022 - Official Odisha Board Archive</div>
-    <h2 class='sr-title'>www.india result.com odisha 2022: Your Official Navigator to Board of Secondary Education (BSE) Odisha,
-            Council of Higher Secondary Education (CHSE), and National Informatics Centre (NIC) Result Gateways for the
-            2022 Archive</h2>
+    <h2 class='sr-title'>www.india result.com odisha 2022 - Official Odisha Board Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "www.india result.com odisha 2022 - Official Odisha Board Archive"; 
+$meta_description = "Check www.india result.com odisha 2022 for BSE Odisha 10th and CHSE 12th results. Access the official Odisha result mirror for the 2022 academic session."; 
+$meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indiaresults, CHSE odisha result 2022, bse odisha 2022 mirror"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "www.india result.com odisha 2022 - Official Odisha Board Archive";
+$meta_description = "Check www.india result.com odisha 2022 for BSE Odisha 10th and CHSE 12th results. Access the official Odisha result mirror for the 2022 academic session.";
+$meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indiaresults, CHSE odisha result 2022, bse odisha 2022 mirror";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -70,8 +86,7 @@ $meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indi
                 <a href="https://bseodisha.ac.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="BSE Odisha Portal" target="_blank">Search BSE-Odisha HUB</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official www.india result.com odisha 2022 Online</h2>
         <p>To ensure a successful result search in the Odisha records, follow these technical steps:</p>
@@ -108,7 +123,7 @@ $meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indi
                 final database changes related to www.india result.com odisha 2022 data, please visit the BSE Odisha
                 Headquarters in Cuttack or CHSE Odisha in Bhubaneswar.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Odisha 2022 Result</h2>
@@ -124,8 +139,13 @@ $meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indi
         <strong>3. Is the marksheet from 2022 still available?</strong>
         <p>Yes, "www.india result.com odisha 2022" archives remain online, but for a legally valid digital copy,
             students should use the Odyssey/DigiLocker portal of BSE Odisha.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

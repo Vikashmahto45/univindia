@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online"; 
 $meta_description = "Download SSCER CPO SI Admit Card 2024 for Eastern Region. Check application status, exam date, and center list for Sub-Inspector in Delhi Police and CAPFs at sscer.org."; 
 $meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall ticket, sscer.org cpo si status, ssc cpo admit card download kolkata, ssc si admit card eastern region"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online</div>
+    <h2 class='sr-title'>SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online"; 
+$meta_description = "Download SSCER CPO SI Admit Card 2024 for Eastern Region. Check application status, exam date, and center list for Sub-Inspector in Delhi Police and CAPFs at sscer.org."; 
+$meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall ticket, sscer.org cpo si status, ssc cpo admit card download kolkata, ssc si admit card eastern region"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online";
+$meta_description = "Download SSCER CPO SI Admit Card 2024 for Eastern Region. Check application status, exam date, and center list for Sub-Inspector in Delhi Police and CAPFs at sscer.org.";
+$meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall ticket, sscer.org cpo si status, ssc cpo admit card download kolkata, ssc si admit card eastern region";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -96,8 +119,16 @@ $meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall tick
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-red">Latest Result Updates</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

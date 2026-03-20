@@ -7,9 +7,27 @@ $meta_keywords = "ap inter results, check ap intermediate results online, offici
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap inter results - Official AP Board Portal</div>
-    <h2 class='sr-title'>ap inter results: Your Comprehensive Navigator to Board of Intermediate Education, Andhra Pradesh (BIEAP), Amaravati, Intermediate Public Examinations (1st & 2nd Year), and Andhra Pradesh State Board Result Gateways (Government of Andhra Pradesh, Education Department, and National Informatics Centre (NIC) Andhra Pradesh State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>ap inter results - Official AP Board Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "ap inter results - Official AP Board Portal"; 
+$meta_description = "Check ap inter results online. Access the Intermediate 1st and 2nd Year results for Board of Intermediate Education, Andhra Pradesh (BIEAP)."; 
+$meta_keywords = "ap inter results, check ap intermediate results online, official bieap inter link, ap results nic in index, ap inter 1st year results portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "ap inter results - Official AP Board Portal";
+$meta_description = "Check ap inter results online. Access the Intermediate 1st and 2nd Year results for Board of Intermediate Education, Andhra Pradesh (BIEAP).";
+$meta_keywords = "ap inter results, check ap intermediate results online, official bieap inter link, ap results nic in index, ap inter 1st year results portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "ap inter results, check ap intermediate results online, offici
                 <a href="http://apresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official AP Results" target="_blank">Access AP Results HUB</a>
                 <a href="https://andhra-pradesh.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="AP Name site" target="_blank">Visit AP Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official ap inter results Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "ap inter results, check ap intermediate results online, offici
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to ap inter results data, please visit the BIEAP headquarters in Amaravati or your Junior College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About ap inter results Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "ap inter results, check ap intermediate results online, offici
         <br>
         <strong>3. Is the result from ap inter results valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "ap inter results" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

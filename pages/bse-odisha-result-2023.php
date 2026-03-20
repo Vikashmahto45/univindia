@@ -7,9 +7,27 @@ $meta_keywords = "bse odisha result 2023, odisha 10th result 2023, check bse odi
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha Result 2023 - Official Class 10th Board Archive</div>
-    <h2 class='sr-title'>BSE Odisha Result 2023: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Madhyamik (Class 10), and State Open School Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h2>
+    <h2 class='sr-title'>BSE Odisha Result 2023 - Official Class 10th Board Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "BSE Odisha Result 2023 - Official Class 10th Board Archive"; 
+$meta_description = "Check BSE Odisha Result 2023 for Class 10th Matric examinations. Access the 2023 board results, school-wise stats, and official merit lists online."; 
+$meta_keywords = "bse odisha result 2023, odisha 10th result 2023, check bse odisha matric 2023, bseodisha.ac.in result 2023, matric result archive 2023, official odisha board portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "BSE Odisha Result 2023 - Official Class 10th Board Archive";
+$meta_description = "Check BSE Odisha Result 2023 for Class 10th Matric examinations. Access the 2023 board results, school-wise stats, and official merit lists online.";
+$meta_keywords = "bse odisha result 2023, odisha 10th result 2023, check bse odisha matric 2023, bseodisha.ac.in result 2023, matric result archive 2023, official odisha board portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "bse odisha result 2023, odisha 10th result 2023, check bse odi
                 <a href="https://results.gov.in" class="btn" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Records</a>
                 <a href="https://odisha.gov.in" class="btn" title="State Status" target="_blank">Odisha Government Website</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About BSE Odisha Result 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "bse odisha result 2023, odisha 10th result 2023, check bse odi
         <br>
         <strong>3. Is the result from BSE Odisha Result 2023 valid for Migration?</strong>
         <p>Yes, your secondary results (verified via the official "BSE Odisha Result 2023" portal) are the accepted records for applying to migration and higher secondary certificates in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

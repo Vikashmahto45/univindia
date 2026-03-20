@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in";
+$page_description = "Download SSC CPO Admit Card 2024 for Sub-Inspector (SI) recruitment. Get direct link for SSC CPO 2024 Hall Ticket, Physical Date, and Region Wise Status. 800+ words guide.";
+$page_keywords = "SSC CPO Admit Card 2024, SSC CPO SI 2024 Hall Ticket Download, ssc.gov.in cpo 2024 link, SSC CPO 2024 Exam Date, SSC CPO Region Status";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSC CPO Admit Card 2024: Sub-Inspector in Delhi Police & CAPFs</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-user-shield me-2"></i> <strong>Exam Alert:</strong> The Computer Based Examination (CBE) for <strong>SSC CPO 2024</strong> is scheduled across various centers. Candidates can download their regional <strong>CPO 2024 Admit Card</strong> using the official links below.
@@ -90,14 +113,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-file-pdf me-2"></i> High-Quality Call Letter</h5>
                             <p class="small text-light-gray mb-0">Ensure the <strong>SSC CPO 2024 Admit Card</strong> is printed on a clean page. Blurred text on the barcode area will cause gate denial.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-id-card-alt me-2"></i> Original Photo ID Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card with full Date of Birth. If the ID is without a photo, carry a secondary identification like a Passport or PAN card.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">SSC CPO 2024 Admit Card FAQ: Frequently Asked Questions</h2>
@@ -111,8 +132,7 @@ $meta_keywords = "";
                         <div id="cp24Q1" class="accordion-collapse collapse" data-bs-parent="#sscCpo24Faq">
                             <div class="accordion-body text-light-gray">
                                 Rejection usually happens due to poor photo/signature or non-payment. Once the <strong>SSC CPO 2024 Status</strong> is finalized, appeals are rarely entertained unless there is a major technical glitch on the board's side.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -123,10 +143,8 @@ $meta_keywords = "";
                         <div id="cp24Q2" class="accordion-collapse collapse" data-bs-parent="#sscCpo24Faq">
                             <div class="accordion-body text-light-gray">
                                 Yes, you can always choose the 'Save as PDF' option from the print menu on your regional site. It is recommended to save a copy in your Google Drive or Email for backup.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Specialized SSC Links</h5>
@@ -134,14 +152,14 @@ $meta_keywords = "";
                         <a href="ssc-cgl-admit-card-2024.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">SSC CGL 2024 Page</a>
                         <a href="ssc-mts-admit-card-2024.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">SSC MTS 2024 Status</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> SI Executive Resources</h3>
                 <div class="row g-3">
+                    <?php
                     $cpo24_links = [
                         'ssc-cpo-result-2024.php' => 'CPO Final Selection List',
                         'ssc-cpo-cut-off-2024.php' => 'CPO Region Wise Cut Off',
@@ -155,11 +173,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -189,3 +206,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

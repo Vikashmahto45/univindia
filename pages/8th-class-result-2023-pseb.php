@@ -7,9 +7,27 @@ $meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online,
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th class result 2023 pseb - Official Punjab Board 8th Portal</div>
-    <h2 class='sr-title'>8th class result 2023 pseb: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Middle School Public Examinations (Class 8), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>8th class result 2023 pseb - Official Punjab Board 8th Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "8th class result 2023 pseb - Official Punjab Board 8th Portal"; 
+$meta_description = "Check 8th class result 2023 pseb online. Access the historical Punjab School Education Board (PSEB), Mohali Class 8th (Middle School) 2023 results."; 
+$meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online, official pseb 8th result 2023 link, punjab school education board 8th 2023 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "8th class result 2023 pseb - Official Punjab Board 8th Portal";
+$meta_description = "Check 8th class result 2023 pseb online. Access the historical Punjab School Education Board (PSEB), Mohali Class 8th (Middle School) 2023 results.";
+$meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online, official pseb 8th result 2023 link, punjab school education board 8th 2023 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online,
                 <a href="https://punjab.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Punjab Name site" target="_blank">Access Punjab Mirror</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results" target="_blank">Visit National HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 8th class result 2023 pseb Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online,
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 8th class result 2023 pseb data, please visit the PSEB headquarters in Mohali or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 8th class result 2023 pseb Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online,
         <br>
         <strong>3. Is the result from 8th class result 2023 pseb valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "8th class result 2023 pseb" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

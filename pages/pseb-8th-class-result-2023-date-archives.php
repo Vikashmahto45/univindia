@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "pseb 8th class result 2023 date - Official PSEB 8th Result Hub"; 
 $meta_description = "Find PSEB 8th class result 2023 date and updates on pseb 8th class result 2023 date. Access official Punjab Board Middle Result 2023 archives and links."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; pseb 8th class result 2023 date - Official PSEB 8th Result Hub</div>
+    <h2 class='sr-title'>pseb 8th class result 2023 date - Official PSEB 8th Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "pseb 8th class result 2023 date - Official PSEB 8th Result Hub"; 
+$meta_description = "Find PSEB 8th class result 2023 date and updates on pseb 8th class result 2023 date. Access official Punjab Board Middle Result 2023 archives and links."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all Punjab School Education Board (PSEB) Class
                 8th (Middle School) examination result dates and scorecard releases for the 2023 session. Official PSEB
                 mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 8th Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Punjab Board (pseb.ac.in) result dates and notification 2023 by student name alternative
                         criteria for the 2023 8th examination batch.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                     for all students. Having a verified digital result from the <strong>pseb 8th class result 2023
                         date</strong> archive hub is essential for students to complete their academic verification and
                     proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,15 +110,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The <strong>pseb 8th class result 2023 date</strong> was released in early May 2023, and all
                             records are permanently archived on verified platforms for lifelong access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Punjab 8th results by name only on tablets?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>pseb 8th class result 2023 date</strong> portal includes a dedicated
                             name-wise search for student examinees in Punjab for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 PSEB 8th marksheet valid for 9th
                         admission?</button>
@@ -116,11 +124,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>pseb 8th class result 2023 date</strong>
                             gateway is a valid provisional document accepted for initial secondary school registration
                             and verification across Punjab.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

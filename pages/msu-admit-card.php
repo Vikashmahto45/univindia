@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online"; 
 $meta_description = "Download MSU Admit Card. Get the direct link for Maharaja Sayajirao University (MSU Baroda) UG and PG semester examination hall tickets at msubaroda.ac.in."; 
 $meta_keywords = "msu admit card download, maharaja sayajirao university hall ticket download, msubaroda.ac.in login admit card, msu baroda exam date 2024 download, university entrance call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online"; 
+$meta_description = "Download MSU Admit Card. Get the direct link for Maharaja Sayajirao University (MSU Baroda) UG and PG semester examination hall tickets at msubaroda.ac.in."; 
+$meta_keywords = "msu admit card download, maharaja sayajirao university hall ticket download, msubaroda.ac.in login admit card, msu baroda exam date 2024 download, university entrance call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online";
+$meta_description = "Download MSU Admit Card. Get the direct link for Maharaja Sayajirao University (MSU Baroda) UG and PG semester examination hall tickets at msubaroda.ac.in.";
+$meta_keywords = "msu admit card download, maharaja sayajirao university hall ticket download, msubaroda.ac.in login admit card, msu baroda exam date 2024 download, university entrance call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "msu admit card download, maharaja sayajirao university hall ti
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Tech Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

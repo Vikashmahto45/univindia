@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th ka result 2024 - Official Secondary Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>10th ka result 2024 - Official Secondary Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th ka result 2024 - Official Secondary Hub"; 
+$meta_description = "Check Class 10th result 2024 on 10th ka result 2024. Access official Board 10th (Matric) scorecards and results links on indiaresults updated for 2024."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 10th Result Hub 2024</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>10th Results Directory 2024</h3>
                     <p>Verify board 10th (Matric) results 2024 by student name or roll number alternative criteria for the 2024 academic batch nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2024 National 10th Board Gateways</h3>
                 <p>The <strong>10th ka result 2024</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Secondary admission registrations, scholarship applications, or career verification. The system provides a detailed subject-wise breakdown for the 2024 batch of student examinees across all schools. Having a verified digital result from the <strong>10th ka result 2024</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2024 board 10th result links active for all states?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>10th ka result 2024</strong> are permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2024 board 10th results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th ka result 2024</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees nationwide.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2024 10th marksheet valid for 11th admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10th ka result 2024</strong> gateway is a valid provisional document accepted for initial institutional registration and verification across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "maharesult nic in hsc result - Official Maharashtra Board Portal"; 
 $meta_description = "Check maharesult nic in hsc result for Class 12 exams. Access the official Maharashtra (MSBSHSE) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; maharesult nic in hsc result - Official Maharashtra Board Portal</div>
+    <h2 class='sr-title'>maharesult nic in hsc result - Official Maharashtra Board Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "maharesult nic in hsc result - Official Maharashtra Board Portal"; 
+$meta_description = "Check maharesult nic in hsc result for Class 12 exams. Access the official Maharashtra (MSBSHSE) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest Higher Secondary results for Maharashtra. Official
                 MSBSHSE mirrors and portal links updated for the current HSC session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check HSC Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify Maharashtra results by student name alternative.</p>
                     <a href="https://maharashtra.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +90,7 @@ $meta_keywords = "";
                     a subject-wise breakdown including practical and internal marks. Having a verified digital result
                     from the <strong>maharesult nic in hsc result</strong> hub is essential for students to complete
                     their academic verification and proof of performance during university registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,27 +103,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>maharesult nic in hsc result</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated "Search by Name" feature for candidates
                             participating in the state board examinations.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for various
                             state boards including MSBSHSE, ensuring all result data is mirrored directly from official
                             board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>maharesult nic in hsc result</strong> hub is a valid
                             provisional document accepted for initial college and university registration across
                             Maharashtra.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

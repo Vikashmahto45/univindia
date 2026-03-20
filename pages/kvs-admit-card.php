@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "KVS Admit Card 2024 Download - TGT, PGT, PRT & Non-Teaching KVS-HQ Link | Univindia.online"; 
 $meta_description = "Download KVS Admit Card 2024. Get direct link for Kendriya Vidyalaya Sangathan TGT, PGT, PRT, and Non-Teaching recruitment exam hall tickets at kvsangathan.nic.in."; 
 $meta_keywords = "kvs admit card 2024, kvsangathan.nic.in admit card, kvs prt admit card download, kvs tgt pgt hall ticket, kvs non teaching admit card link"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; KVS Admit Card 2024 Download - TGT, PGT, PRT & Non-Teaching KVS-HQ Link | Univindia.online</div>
+    <h2 class='sr-title'>KVS Admit Card 2024 Download - TGT, PGT, PRT & Non-Teaching KVS-HQ Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "KVS Admit Card 2024 Download - TGT, PGT, PRT & Non-Teaching KVS-HQ Link | Univindia.online"; 
+$meta_description = "Download KVS Admit Card 2024. Get direct link for Kendriya Vidyalaya Sangathan TGT, PGT, PRT, and Non-Teaching recruitment exam hall tickets at kvsangathan.nic.in."; 
+$meta_keywords = "kvs admit card 2024, kvsangathan.nic.in admit card, kvs prt admit card download, kvs tgt pgt hall ticket, kvs non teaching admit card link"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "KVS Admit Card 2024 Download - TGT, PGT, PRT & Non-Teaching KVS-HQ Link | Univindia.online";
+$meta_description = "Download KVS Admit Card 2024. Get direct link for Kendriya Vidyalaya Sangathan TGT, PGT, PRT, and Non-Teaching recruitment exam hall tickets at kvsangathan.nic.in.";
+$meta_keywords = "kvs admit card 2024, kvsangathan.nic.in admit card, kvs prt admit card download, kvs tgt pgt hall ticket, kvs non teaching admit card link";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -85,8 +108,16 @@ $meta_keywords = "kvs admit card 2024, kvsangathan.nic.in admit card, kvs prt ad
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

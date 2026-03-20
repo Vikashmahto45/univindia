@@ -7,9 +7,27 @@ $meta_keywords = "bseodisha result 2023, check bse odisha 10th result 2023 onlin
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bseodisha result 2023 - Official Odisha Board Mirror</div>
-    <h2 class='sr-title'>bseodisha result 2023: Your Comprehensive Navigator to Board of Secondary Education (BSE), Odisha, Cuttack, Senior Secondary Public Examinations (Class 10), and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>bseodisha result 2023 - Official Odisha Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "bseodisha result 2023 - Official Odisha Board Mirror"; 
+$meta_description = "Check bseodisha result 2023 online. Access the results for Board of Secondary Education (BSE) Odisha Class 10 (Matric) for the 2023 session."; 
+$meta_keywords = "bseodisha result 2023, check bse odisha 10th result 2023 online, official odisha results link, orissaresults nic in search 2023"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "bseodisha result 2023 - Official Odisha Board Mirror";
+$meta_description = "Check bseodisha result 2023 online. Access the results for Board of Secondary Education (BSE) Odisha Class 10 (Matric) for the 2023 session.";
+$meta_keywords = "bseodisha result 2023, check bse odisha 10th result 2023 online, official odisha results link, orissaresults nic in search 2023";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "bseodisha result 2023, check bse odisha 10th result 2023 onlin
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official BSE Odisha" target="_blank">Access BSE Official</a>
                 <a href="https://odisha.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Odisha Mirror" target="_blank">Access Odisha Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official bseodisha result 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "bseodisha result 2023, check bse odisha 10th result 2023 onlin
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to bseodisha result 2023 data, please visit the BSE headquarters in Cuttack or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Odisha 10th 2023 Result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "bseodisha result 2023, check bse odisha 10th result 2023 onlin
         <br>
         <strong>3. Is the result from Odisha 10th Board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "bseodisha result 2023" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

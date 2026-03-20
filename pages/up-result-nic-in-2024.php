@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UP Result NIC In 2024 - Official Uttar Pradesh Board Portal"; 
 $meta_description = "Check UP Result NIC In 2024 for Class 10th and 12th. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) results, marksheets, and merit list online."; 
 $meta_keywords = "up result nic in 2024, up board result 2024, upmsp nic in 2024 result, check up 10th result 2024, check up 12th result 2024, upmsp results link, official up board portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP Result NIC In 2024 - Official Uttar Pradesh Board Portal</div>
+    <h2 class='sr-title'>UP Result NIC In 2024 - Official Uttar Pradesh Board Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UP Result NIC In 2024 - Official Uttar Pradesh Board Portal"; 
+$meta_description = "Check UP Result NIC In 2024 for Class 10th and 12th. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) results, marksheets, and merit list online."; 
+$meta_keywords = "up result nic in 2024, up board result 2024, upmsp nic in 2024 result, check up 10th result 2024, check up 12th result 2024, upmsp results link, official up board portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "UP Result NIC In 2024 - Official Uttar Pradesh Board Portal";
+$meta_description = "Check UP Result NIC In 2024 for Class 10th and 12th. Access the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) results, marksheets, and merit list online.";
+$meta_keywords = "up result nic in 2024, up board result 2024, upmsp nic in 2024 result, check up 10th result 2024, check up 12th result 2024, upmsp results link, official up board portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>UP Result NIC In 2024: Your Comprehensive Navigator to Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) High School (Class 10), Intermediate (Class 12), and Vocational Result Gateways (Government of Uttar Pradesh, Secondary Education Department, and National Informatics Centre (NIC) UP State Centre) Result Portals Across Uttar Pradesh</h1>
+        
         
         <p>The "UP Result NIC In 2024" (applicable to the annual board examinations and continuous evaluation conducted for the 2023-2024 academic session by the Uttar Pradesh Madhyamik Shiksha Parishad, Prayagraj) represents the single most significant digital milestone for over 5.5 million students residing in the educationally advanced landscape of Uttar Pradesh. As the primary official gateway to the state's education infrastructure (Prayagraj, UPMSP HQ), and the traditional school education infrastructure of the nation, the "UP Result NIC In 2024" serves as the formal master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificate via dedicated government server endpoints. For the 2024 academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "UP Result NIC In 2024" search is the digital gateway through which candidates verify their professional transition from secondary to senior secondary and higher education with maximum transparency and integrity. The Uttar Pradesh education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "UP Result NIC In 2024," ensuring that every aspiring student and researcher in Uttar Pradesh can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "up result nic in 2024, up board result 2024, upmsp nic in 2024
                 <a href="https://upmsp.edu.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="UPMSP Official Portal" target="_blank">Visit UPMSP Prayagraj</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Download Digital Marksheet</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official UP Result NIC In 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your UP board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "up result nic in 2024, up board result 2024, upmsp nic in 2024
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to UP Result NIC In 2024, please visit the UPMSP regional office or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About UP Result NIC In 2024 Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "up result nic in 2024, up board result 2024, upmsp nic in 2024
         <br>
         <strong>3. Is the result from UP Result NIC In 2024 valid for Scholarship?</strong>
         <p>Yes, your board results (verified via the official "UP Result NIC In 2024" portal or DigiLocker) are the accepted records for applying to the 'UP Dashmottar Scholarship' in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

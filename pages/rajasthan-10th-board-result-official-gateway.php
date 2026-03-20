@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rajasthan 10th board result - Official Rajasthan Secondary Portal"; 
 $meta_description = "Check rajasthan 10th board result for RBSE exams. Access the official Board of Secondary Education Rajasthan (BSER) result gateway and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan 10th board result - Official Rajasthan Secondary Portal</div>
+    <h2 class='sr-title'>rajasthan 10th board result - Official Rajasthan Secondary Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rajasthan 10th board result - Official Rajasthan Secondary Portal"; 
+$meta_description = "Check rajasthan 10th board result for RBSE exams. Access the official Board of Secondary Education Rajasthan (BSER) result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Rajasthan Class
                 10th (Secondary). Official RBSE Ajmer mirrors and board result links updated for the latest academic
                 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 10th Board Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan board 10th results by student name alternative criteria for the latest secondary
                         session.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                         board result</strong> hub is essential for students to complete their academic verification and
                     proof of educational achievement during school-level transition and registration processes even
                     years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,26 +110,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>rajasthan 10th board result</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in the RBSE state
                             boarding exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including RBSE Ajmer, ensuring result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for RBSE Board Secondary result?</button>
                     <div class="faq-answer">
                         <p>You primarily need your Board Roll Number. Some versions may also require your Name or Date
                             of Birth for <strong>rajasthan 10th board result</strong> access sessions.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

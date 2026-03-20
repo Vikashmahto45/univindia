@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download Mahila Supervisor Admit Card. Get the direct link for RSMSSB, MPPEB, and various state female supervisor (Anganwadi) hall tickets at recruitment portals."; 
 $meta_keywords = "mahila supervisor admit card download, rsmssb mahila supervisor hall ticket download, mppeb mahila supervisor login admit card, mahila supervisor exam date 2024 download, female supervisor call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Mahila Supervisor Admit Card. Get the direct link for RSMSSB, MPPEB, and various state female supervisor (Anganwadi) hall tickets at recruitment portals."; 
+$meta_keywords = "mahila supervisor admit card download, rsmssb mahila supervisor hall ticket download, mppeb mahila supervisor login admit card, mahila supervisor exam date 2024 download, female supervisor call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online";
+$meta_description = "Download Mahila Supervisor Admit Card. Get the direct link for RSMSSB, MPPEB, and various state female supervisor (Anganwadi) hall tickets at recruitment portals.";
+$meta_keywords = "mahila supervisor admit card download, rsmssb mahila supervisor hall ticket download, mppeb mahila supervisor login admit card, mahila supervisor exam date 2024 download, female supervisor call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -92,8 +115,16 @@ $meta_keywords = "mahila supervisor admit card download, rsmssb mahila superviso
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Welfare Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

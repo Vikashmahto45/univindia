@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Com Result - Check University Exam Scores Online"; 
 $meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Com Result portal. Complete guide to downloading university marksheets and scores online."; 
 $meta_keywords = "Univindia Com Result - Check University Exam Scores Online"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Com Result - Check University Exam Scores Online</div>
+    <h2 class='sr-title'>Univindia Com Result - Check University Exam Scores Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Com Result - Check University Exam Scores Online"; 
+$meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Com Result portal. Complete guide to downloading university marksheets and scores online."; 
+$meta_keywords = "Univindia Com Result - Check University Exam Scores Online"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Com Result - Check University Exam Scores Online";
+$meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Com Result portal. Complete guide to downloading university marksheets and scores online.";
+$meta_keywords = "Univindia Com Result - Check University Exam Scores Online";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Com Result: Your Essential Guide to Checking University Scores</h1>
+        
         
         <p>The term "Univindia Com Result" represents the most critical academic milestone for thousands of higher education students in Rajasthan. As the digital arm of prominent institutions such as Maharaja Ganga Singh University (MGSU), Raj Rishi Bhartrihari Matsya University (RRBMU), and Maharaja Surajmal Brij University (MSBU), the Univindia portal network is essential for performance verification. Whether you are an undergraduate student (BA, BSc, BCom) or a postgraduate candidate (MA, MSc, MCom), the `univindia.com` portal serves as an official, authoritative hub for all examination scores. In this extensive guide, we will provide a complete walkthrough of how to check your results on the official Univindia Com portal, how to interpret your marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Com Result - Check University Exam Scores Online";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

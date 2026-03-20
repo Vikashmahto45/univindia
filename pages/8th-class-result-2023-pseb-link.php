@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th class result 2023 punjab board roll number link - Official PSEB Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>8th class result 2023 punjab board roll number link - Official PSEB Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "8th class result 2023 punjab board roll number link - Official PSEB Portal"; 
+$meta_description = "Check 8th class result 2023 punjab board roll number link. Access the official Punjab School Education Board (PSEB) Middle Exam results on indiaresults for fast checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 8th Result</a>
                 <a href="#faq" class="btn btn-secondary">Board Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Portal</h3>
                     <p>Find Punjab Middle results using student names.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     their streams, having a verified digital result from the <strong>8th class result 2023 punjab board
                         roll number link</strong> portal is an essential first step in their transition to high school.
                 </p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,28 +98,27 @@ $meta_keywords = "";
                         <p>Yes, the <strong>8th class result 2023 punjab board roll number link</strong> section on
                             <strong>indiaresults</strong> includes a convenient "Search by Name" feature for all
                             students.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for result retrieval?</button>
                     <div class="faq-answer">
                         <p>You only need your Roll Number to access the <strong>8th class result 2023 punjab board roll
                                 number link</strong>. Alternatively, you can use the Candidate Name and Father's Name.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online 8th marksheet valid for Class 9 admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>8th class result 2023 punjab board roll number link</strong> provides a
                             provisional scorecard that is accepted by most schools for initial Class 9 registration and
                             stream allocation.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

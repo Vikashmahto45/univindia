@@ -7,10 +7,27 @@ $meta_keywords = "india result 12th science, 12th science board result, check 12
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12th science - Official National Science Result Hub</div>
-    <h2 class='sr-title'>india result 12th science: Your Unified Navigator to Central Board of Secondary Education (CBSE), State
-            Senior Secondary Boards, and National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <h2 class='sr-title'>india result 12th science - Official National Science Result Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 12th science - Official National Science Result Hub"; 
+$meta_description = "Check india result 12th science for CBSE, ICSE, and all State Boards. Access the official 12th science stream result portal and marksheet download."; 
+$meta_keywords = "india result 12th science, 12th science board result, check 12th science result online, indiaresults 12th science, HSC science result"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result 12th science - Official National Science Result Hub";
+$meta_description = "Check india result 12th science for CBSE, ICSE, and all State Boards. Access the official 12th science stream result portal and marksheet download.";
+$meta_keywords = "india result 12th science, 12th science board result, check 12th science result online, indiaresults 12th science, HSC science result";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -68,8 +85,7 @@ $meta_keywords = "india result 12th science, 12th science board result, check 12
                 <a href="https://www.digilocker.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="Download Marksheet" target="_blank">National Marksheet Vault</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 12th science Online</h2>
         <p>To ensure a successful result search in the 12th Science records, follow these technical steps:</p>
@@ -106,7 +122,7 @@ $meta_keywords = "india result 12th science, 12th science board result, check 12
                 final database changes related to india result 12th science data, please visit the respective Board
                 headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 12th Science Result</h2>
@@ -122,8 +138,13 @@ $meta_keywords = "india result 12th science, 12th science board result, check 12
         <strong>3. Is the result from mirror portals official?</strong>
         <p>The "india result 12th science" data on authorized mirrors like `indiaresults.com` is official second-party
             data; however, for legal purposes, the board portal or DigiLocker is preferred.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 2nd puc result - Official Karnataka PUE Portal</div>
-    <h2 class='sr-title'>2nd puc result: Your Authoritative Navigator to Karnataka Pre-University Examination (PUE), Department of Pre-University Education (DPUE), and National Informatics Centre (NIC) Result Gateways</h2>
+    <h2 class='sr-title'>2nd puc result - Official Karnataka PUE Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "2nd puc result - Official Karnataka PUE Portal"; 
+$meta_description = "Check 2nd puc result online for Karnataka Class 12. Access the official KarResults portal for science, commerce, and arts results."; 
+$meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 2024, pue karnataka result, 2nd puc result link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "2nd puc result - Official Karnataka PUE Portal";
+$meta_description = "Check 2nd puc result online for Karnataka Class 12. Access the official KarResults portal for science, commerce, and arts results.";
+$meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 2024, pue karnataka result, 2nd puc result link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 
                 <a href="https://pue.karnataka.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="PUE Board Official" target="_blank">Visit PUE Board HUB</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Portal" target="_blank">Access National HUB</a>
                 <a href="https://digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="PUC Certificate" target="_blank">Get Digital Marks Card</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 2nd puc result Online</h2>
         <p>To ensure a successful result search in the Karnataka PUE records, follow these technical steps:</p>
@@ -50,7 +67,7 @@ $meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 
 
         <p><i>Note: Univindia.online is an educational news portal. For original PUC certificates, migration letters, and final database changes related to 2nd puc result data, please visit the PUE Bengaluru headquarters or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 2nd PUC Result</h2>
@@ -63,8 +80,13 @@ $meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 
         <br>
         <strong>3. Is the online result from karresults.nic.in official?</strong>
         <p>Yes, the "2nd puc result" served via the NIC portal is the official digital output of the Karnataka DPUE.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

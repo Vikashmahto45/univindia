@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket</div>
+    <h2 class='sr-title'>SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket";
+$page_description = "Download SSC CPO SI Admit Card 2024. Get region-wise call letters for SSC Sub-Inspector in Delhi Police, BSF, CISF, CRPF, ITBP & SSB. Exam date and PET/PST details.";
+$page_keywords = "SSC CPO SI Admit Card 2024, SSC Sub Inspector Hall Ticket, SSC CPO Paper 1 Admit Card, Delhi Police SI Call Letter, ssc.gov.in cpo si admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">SSC CPO <span class="text-warning">SI Admit Card 2024</span></h1>
+            
             
             <div class="alert alert-danger border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Recruitment Alert:</h4>
                         <p class="mb-0">The <strong>SSC CPO SI Admit Card 2024</strong> link is now active for all regions. This includes recruitment for Sub-Inspectors in Delhi Police and Central Armed Police Forces (CAPFs). Validate your application status and download the PDF call letter now.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -89,20 +111,17 @@ $meta_keywords = "";
                                 <div class="p-4 bg-secondary shadow rounded-4 text-center border border-secondary h-100">
                                     <h6 class="text-white">Western Region (WR)</h6>
                                     <a href="http://www.sscwr.net" class="btn btn-warning btn-sm fw-bold">Download WR</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary shadow rounded-4 text-center border border-secondary h-100">
                                     <h6 class="text-white">Central Region (CR)</h6>
                                     <a href="http://www.ssc-cr.org" class="btn btn-warning btn-sm fw-bold">Download CR</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary shadow rounded-4 text-center border border-secondary h-100">
                                     <h6 class="text-white">Southern Region (SR)</h6>
                                     <a href="http://www.sscsr.gov.in" class="btn btn-warning btn-sm fw-bold">Download SR</a>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Essential Details on CPO SI Call Letter</h2>
@@ -121,14 +140,12 @@ $meta_keywords = "";
                                 <div class="p-4 border border-secondary rounded-4 bg-gradient-dark h-100">
                                     <h5 class="text-info">Photo Identity Proof</h5>
                                     <p class="small m-0 text-white-50">One original government ID (Aadhar, Voter ID, PAN, Driving License, or Passport). The DOB must match exactly.</p>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-6">
                                 <div class="p-4 border border-secondary rounded-4 bg-gradient-dark h-100">
                                     <h5 class="text-info">Recent Photographs</h5>
                                     <p class="small m-0 text-white-50">Two latest passport-sized color photographs from the same slot as the original application.</p>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">SSC CPO Post-Exam Physical Test (PET/PST)</h2>
@@ -177,8 +194,7 @@ $meta_keywords = "";
                                 <div id="cs1" class="accordion-collapse collapse" data-bs-parent="#cpoSiFaq">
                                     <div class="accordion-body text-white-50">
                                         Yes, there is a penalty for wrong answers. Candidates must check the official notification for the exact fraction (usually 0.25 marks) deducted per incorrect response.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white overflow-hidden">
                                 <h3 class="accordion-header">
@@ -189,14 +205,11 @@ $meta_keywords = "";
                                 <div id="cs2" class="accordion-collapse collapse" data-bs-parent="#cpoSiFaq">
                                     <div class="accordion-body text-white-50">
                                         You can recover your details by visiting the region's search portal. Just enter your Name, Father's Name, and DOB to retrieve your Roll Number and download the admit card.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- Internal Links Section -->
             <div class="bg-dark border border-secondary rounded-4 shadow-lg p-5 mt-5">
@@ -213,12 +226,10 @@ $meta_keywords = "";
                     </div>
                     <div class="col-md-3">
                         <a href="ssc-gd-constable-admit-card-2025.php" class="d-block p-3 bg-secondary rounded-4 text-warning text-decoration-none text-center hover-scale">SSC GD Constable Admit</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </div>
-</main>
+
 
 <style>
 .bg-gradient-dark {
@@ -241,3 +252,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

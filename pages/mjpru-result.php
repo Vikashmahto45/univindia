@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MJPRU Result 2024 - Mahatma Jyotiba Phule Rohilkhand University Updates"; 
 $meta_description = "Check MJPRU Result 2024 for B.A, B.Sc, B.Com, and other UG/PG courses. Get direct official links to Rohilkhand University result portal at mjpru.ac.in."; 
 $meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba result, mjpru bsc result, mjpru pg result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MJPRU Result 2024 - Mahatma Jyotiba Phule Rohilkhand University Updates</div>
+    <h2 class='sr-title'>MJPRU Result 2024 - Mahatma Jyotiba Phule Rohilkhand University Updates</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MJPRU Result 2024 - Mahatma Jyotiba Phule Rohilkhand University Updates"; 
+$meta_description = "Check MJPRU Result 2024 for B.A, B.Sc, B.Com, and other UG/PG courses. Get direct official links to Rohilkhand University result portal at mjpru.ac.in."; 
+$meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba result, mjpru bsc result, mjpru pg result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MJPRU Result 2024 - Mahatma Jyotiba Phule Rohilkhand University Updates";
+$meta_description = "Check MJPRU Result 2024 for B.A, B.Sc, B.Com, and other UG/PG courses. Get direct official links to Rohilkhand University result portal at mjpru.ac.in.";
+$meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba result, mjpru bsc result, mjpru pg result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MJPRU Result 2024: Your Complete Navigator to Rohilkhand University Excellence</h1>
+        
         
         <p>The "MJPRU Result 2024" is the most anticipated academic milestone for thousands of students enrolled at the Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly. As a premier institution in Uttar Pradesh, MJPRU commands a vast network of affiliated colleges, making the declaration of the "MJPRU Result 2024" a significant event in the regional educational calendar. For the 2024 academic session, the university has implemented advanced digital evaluation systems to ensure that the results are released with maximum transparency and speed. Whether you are a student of Bachelor of Arts (B.A.), Bachelor of Science (B.Sc.), or pursuing professional postgraduate degrees, understanding the "MJPRU Result 2024" ecosystem is crucial for your next academic or professional step. At Univindia.online, we take pride in being your primary bridge to the official Rohilkhand University result servers, providing you with real-time updates and simplified access to your hard-earned scores.</p>
 
@@ -49,10 +71,9 @@ $meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba resu
                 <a href="https://mjpru.ac.in/Results.aspx" class="btn" title="Direct MJPRU Result Page" target="_blank">View Result 2024</a>
                 <a href="https://mjpru.ac.in/Examination.aspx" class="btn" title="MJPRU Exam Schedules" target="_blank">Exam Notifications</a>
                 <a href="https://mjpru.ac.in/Admission.aspx" class="btn" title="Admission Portal 2024" target="_blank">Admission News</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About MJPRU Result 2024</h2>
@@ -65,7 +86,15 @@ $meta_keywords = "mjpru result, rohilkhand university result 2024, mjpru ba resu
         <br>
         <strong>3. Can I search for my MJPRU Result 2024 by name?</strong>
         <p>While the official portal primarily uses Roll Numbers, some mirror sites like IndiaResults might allow a 'Name-wise' search for the 2024 cycle. However, for official purposes, always rely on the Roll Number search on mjpru.ac.in.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

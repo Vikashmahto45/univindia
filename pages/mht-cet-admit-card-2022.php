@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online"; 
 $meta_description = "Download MHT CET Admit Card 2022. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) hall tickets at cetcell.mahacet.org."; 
 $meta_keywords = "mht cet admit card 2022 download, download mht cet hall ticket 2022, cetcell.mahacet.org login 2022, mht cet exam date 2022 download, maharashtra entrance call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online</div>
+    <h2 class='sr-title'>MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online"; 
+$meta_description = "Download MHT CET Admit Card 2022. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) hall tickets at cetcell.mahacet.org."; 
+$meta_keywords = "mht cet admit card 2022 download, download mht cet hall ticket 2022, cetcell.mahacet.org login 2022, mht cet exam date 2022 download, maharashtra entrance call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online";
+$meta_description = "Download MHT CET Admit Card 2022. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) hall tickets at cetcell.mahacet.org.";
+$meta_keywords = "mht cet admit card 2022 download, download mht cet hall ticket 2022, cetcell.mahacet.org login 2022, mht cet exam date 2022 download, maharashtra entrance call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "mht cet admit card 2022 download, download mht cet hall ticket
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Engineering Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

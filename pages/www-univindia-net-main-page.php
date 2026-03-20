@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard"; 
 $meta_description = "Access the Www Univindia Net Main Page for MGSU Bikaner. Official guide to navigating university examination forms, results, and student panels online."; 
 $meta_keywords = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard</div>
+    <h2 class='sr-title'>Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard"; 
+$meta_description = "Access the Www Univindia Net Main Page for MGSU Bikaner. Official guide to navigating university examination forms, results, and student panels online."; 
+$meta_keywords = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard";
+$meta_description = "Access the Www Univindia Net Main Page for MGSU Bikaner. Official guide to navigating university examination forms, results, and student panels online.";
+$meta_keywords = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Www Univindia Net Main Page: Your Official Gateway to MGSU Bikaner Services</h1>
+        
         
         <p>The term "Www Univindia Net Main Page" refers to the core entry point for the comprehensive digital examination ecosystem of Maharaja Ganga Singh University (MGSU), Bikaner. For thousands of students across Northern Rajasthan, this specific dashboard (typically appearing in URLs as `main_page.php` on the `univindia.net` network) is the definitive starting zone for all administrative tasks. Whether you are a fresh enrollee in Bikaner, Churu, Sriganganagar, or Hanumangarh, the Www Univindia Net Main Page provides the organized interface required to manage your entire academic lifecycle—from initial registration to the final result printout. In this comprehensive guide, we will provide a detailed walkthrough of the Main Page's layout, explain how to navigate its various functionally distinct panels, and offer expert advice on ensuring a seamless and secure digital experience at MGSU Bikaner.</p>
 
@@ -49,6 +71,15 @@ $meta_keywords = "Www Univindia Net Main Page - MGSU Bikaner Entry Dashboard";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

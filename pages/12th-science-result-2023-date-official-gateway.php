@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th science result 2023 date - Official Board Notifications</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>12th science result 2023 date - Official Board Notifications</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th science result 2023 date - Official Board Notifications"; 
+$meta_description = "Check Rajasthan and all State Board 12th Science result date 2023 on 12th science result 2023 date. Access official 2023 archival schedule scorecards on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Science Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>2023 Science Directory</h3>
                     <p>Verify board results (Science Stream) 2023 by student roll number or name alternative criteria for the 2023 academic batch across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2023 (12th Science) Gateway Records</h3>
                 <p>The <strong>12th science result 2023 date</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification. The system provides a detailed subject-wise breakdown for the 2023 batch of student examinees across all faculties. Having a verified digital result from the <strong>12th science result 2023 date</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">What was the final 12th science result 2023 date?</button>
                     <div class="faq-answer">
                         <p>Most results were declared between May and June 2023, and all records under <strong>12th science result 2023 date</strong> are permanently archived on verified platforms.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Science results by name on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>12th science result 2023 date</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 Science marksheet valid for regular admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>12th science result 2023 date</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

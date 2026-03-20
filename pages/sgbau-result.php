@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "sgbau result - Official Sant Gadge Baba Amravati University Portal"; 
 $meta_description = "Check sgbau result for BA, BSc, BCom, MA, MSc, and Engineering exams. Access the official Sant Gadge Baba Amravati University (SGBAU) result gateway on indiaresults for the latest updates."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; sgbau result - Official Sant Gadge Baba Amravati University Portal</div>
+    <h2 class='sr-title'>sgbau result - Official Sant Gadge Baba Amravati University Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "sgbau result - Official Sant Gadge Baba Amravati University Portal"; 
+$meta_description = "Check sgbau result for BA, BSc, BCom, MA, MSc, and Engineering exams. Access the official Sant Gadge Baba Amravati University (SGBAU) result gateway on indiaresults for the latest updates."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the official semester and annual examination results for Sant
                 Gadge Baba Amravati University (SGBAU).</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check SGBAU Result</a>
                 <a href="#faq" class="btn btn-secondary">System Statistics</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Search by Name</h3>
                     <p>Find SGBAU degree and diploma results by Name.</p>
                     <a href="https://maharashtra.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -74,8 +85,7 @@ $meta_keywords = "";
                     MBA. The <strong>indiaresults.com</strong> database for SGBAU also includes results for vocational
                     students and those enrolled in distance learning programs, making it the most reliable secondary
                     source for Amravati University exam data.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -88,27 +98,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>sgbau result</strong> section on <strong>indiaresults</strong> provides a
                             robust name-wise search feature, allowing you to find results even if you misplace your roll
                             number.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What examinations does 'Winter' and 'Summer' refer to in sgbau
                         result?</button>
                     <div class="faq-answer">
                         <p>In the <strong>sgbau result</strong> portal, 'Summer' typically refers to the even semester
                             exams (March/April), while 'Winter' refers to the odd semester exams (October/November).</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">How to verify the SGBAU marksheet online?</button>
                     <div class="faq-answer">
                         <p>The <strong>sgbau result</strong> displayed on our portal is official data mirrored from the
                             university. For formal verification, you can use the QR codes provided on the modern SGBAU
                             digital marksheets.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

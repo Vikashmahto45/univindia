@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Result India Result 2020 - Historical National Result Archive"; 
 $meta_description = "Check Result India Result 2020 online. Access the historical 10th and 12th results for all state boards (RBSE, PSEB, BSEB) from the 2020 pandemic session."; 
 $meta_keywords = "result india result 2020, check 2020 board results, historical indiaresult 2020 archive, board results 2020 link, 10th 12th results 2020 search, official 2020 result portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Result India Result 2020 - Historical National Result Archive</div>
+    <h2 class='sr-title'>Result India Result 2020 - Historical National Result Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Result India Result 2020 - Historical National Result Archive"; 
+$meta_description = "Check Result India Result 2020 online. Access the historical 10th and 12th results for all state boards (RBSE, PSEB, BSEB) from the 2020 pandemic session."; 
+$meta_keywords = "result india result 2020, check 2020 board results, historical indiaresult 2020 archive, board results 2020 link, 10th 12th results 2020 search, official 2020 result portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Result India Result 2020 - Historical National Result Archive";
+$meta_description = "Check Result India Result 2020 online. Access the historical 10th and 12th results for all state boards (RBSE, PSEB, BSEB) from the 2020 pandemic session.";
+$meta_keywords = "result india result 2020, check 2020 board results, historical indiaresult 2020 archive, board results 2020 link, 10th 12th results 2020 search, official 2020 result portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Result India Result 2020: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), Class 12 (Higher Secondary), and historical Result Gateways (Government of Rajasthan, Punjab, Bihar, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Result India Result 2020" (applicable to the annual board examinations and continuous evaluation conducted for the 2019-2020 academic session by various state education boards) represents a unique and significant digital milestone for over 20 million students residing in the diverse academic landscape of India. As the primary official gateway to the state's historical education archives (Ajmer, Mohali, and Patna), and the traditional school education infrastructure of the nation, the "Result India Result 2020" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificates via dedicated government server endpoints. The 2020 academic cycle was particularly historic due to the global pandemic, making the "Result India Result 2020" search the digital gateway through which candidates verify their professional transition during one of the most challenging periods in educational history with maximum transparency and integrity. The national technical partners implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2020 scores (including subject-wise grades, total marks, and specialized pandemic evaluation metrics) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Result India Result 2020," ensuring that every student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "result india result 2020, check 2020 board results, historical
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital Marksheet</a>
                 <a href="https://biharboardonline.bihar.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Bihar Board Official" target="_blank">Bihar 2020 Portal</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Result India Result 2020 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2020 records of your respective board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "result india result 2020, check 2020 board results, historical
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Result India Result 2020, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Result India Result 2020 Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "result india result 2020, check 2020 board results, historical
         <br>
         <strong>3. Is the result from Result India Result 2020 valid for job verification?</strong>
         <p>Yes, your board results (verified via the official "Result India Result 2020" portal or DigiLocker) are the accepted records for applying to government and private jobs today.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

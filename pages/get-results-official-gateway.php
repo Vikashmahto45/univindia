@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; get results - Official National Academic Results Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>get results - Official National Academic Results Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "get results - Official National Academic Results Gateway"; 
+$meta_description = "Check get results for all board and university exams. Access the official national results portal, news updates, and archival scores on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Get Your Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway to get degree results for UG/PG courses, semester examinations, and archival
                         degree search.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -88,8 +95,7 @@ $meta_keywords = "";
                     Having a verified digital result from the <strong>get results</strong> hub is essential for students
                     to complete their academic verification and proof of educational attainment during university
                     graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,26 +108,25 @@ $meta_keywords = "";
                         <p>Simply navigate to the <strong>get results</strong> gateway on
                             <strong>indiaresults.com</strong>, select your state, and enter your credentials to view
                             your scorecard instantly.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I get results by name search for any board?</button>
                     <div class="faq-answer">
                         <p>Yes, many major boards on our <strong>get results</strong> portal support the "Search by
                             Name" feature for candidates without roll numbers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result official for university admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>get results</strong> gateway is a valid
                             provisional document accepted for initial admission and verification across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

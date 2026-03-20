@@ -7,9 +7,27 @@ $meta_keywords = "india results telangana intermediate, check tsbie intermediate
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Results Telangana Intermediate - Official State Mirror Portal</div>
-    <h2 class='sr-title'>India Results Telangana Intermediate: Your Comprehensive Navigator to Telangana State Board of Intermediate Education (TSBIE), Hyderabad, Intermediate First and Second Year Examinations, and Telangana State Board Result Gateways (Government of Telangana, Education Department, and National Informatics Centre (NIC) Telangana) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Results Telangana Intermediate - Official State Mirror Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Results Telangana Intermediate - Official State Mirror Portal"; 
+$meta_description = "Check India Results Telangana Intermediate online. Access the Telangana State Board of Intermediate Education (TSBIE) 1st and 2nd Year results via the official mirror."; 
+$meta_keywords = "india results telangana intermediate, check tsbie intermediate results online, ts 1st year result 2024, ts 2nd year result 2024 link, telangana indiaresults inter"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Results Telangana Intermediate - Official State Mirror Portal";
+$meta_description = "Check India Results Telangana Intermediate online. Access the Telangana State Board of Intermediate Education (TSBIE) 1st and 2nd Year results via the official mirror.";
+$meta_keywords = "india results telangana intermediate, check tsbie intermediate results online, ts 1st year result 2024, ts 2nd year result 2024 link, telangana indiaresults inter";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india results telangana intermediate, check tsbie intermediate
                 <a href="https://telangana.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Telangana Results Mirror" target="_blank">Access TS IndiaResults</a>
                 <a href="http://results.cgg.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CGG Results Hub" target="_blank">Visit TS CGG Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Results Telangana Intermediate Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india results telangana intermediate, check tsbie intermediate
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Results Telangana Intermediate data, please visit the TSBIE headquarters in Hyderabad or your respective Junior College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Results Telangana Intermediate Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india results telangana intermediate, check tsbie intermediate
         <br>
         <strong>3. Is the result from India Results Telangana Intermediate valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Results Telangana Intermediate" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

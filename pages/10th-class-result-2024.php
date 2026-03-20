@@ -7,9 +7,27 @@ $meta_keywords = "10th class result 2024, check matric results 2024 online, offi
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result 2024 - Official National Board Portal</div>
-    <h2 class='sr-title'>10th class result 2024: Your Comprehensive Navigator to Board of Secondary Education, Council of Secondary Education, and All-India State Board Result Gateways (Government of Rajasthan, Punjab, UP, Madhya Pradesh, Bihar, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>10th class result 2024 - Official National Board Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th class result 2024 - Official National Board Portal"; 
+$meta_description = "Check 10th class result 2024 online. Access the Class 10th (Matric) results for CBSE, ICSE, and all Indian State Boards including UP, Bihar, Punjab, Rajasthan."; 
+$meta_keywords = "10th class result 2024, check matric results 2024 online, official 10th result 2024 link, state board 10th result 2024 portal, board exam 10th results 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th class result 2024 - Official National Board Portal";
+$meta_description = "Check 10th class result 2024 online. Access the Class 10th (Matric) results for CBSE, ICSE, and all Indian State Boards including UP, Bihar, Punjab, Rajasthan.";
+$meta_keywords = "10th class result 2024, check matric results 2024 online, official 10th result 2024 link, state board 10th result 2024 portal, board exam 10th results 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "10th class result 2024, check matric results 2024 online, offi
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC National Results" target="_blank">Access State NIC HUB</a>
                 <a href="https://cbseresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE National Results" target="_blank">Visit CBSE Board 2024</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 10th class result 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "10th class result 2024, check matric results 2024 online, offi
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 10th class result 2024 data, please visit your respective board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th class result 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "10th class result 2024, check matric results 2024 online, offi
         <br>
         <strong>3. Is the result from 10th class result 2024 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "10th class result 2024" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

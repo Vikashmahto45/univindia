@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal"; 
 $meta_description = "Univindia MSBU is the official digital portal for Brij University Bharatpur. Complete guide to MSBU results, admit cards, and examination forms."; 
 $meta_keywords = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal</div>
+    <h2 class='sr-title'>Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal"; 
+$meta_description = "Univindia MSBU is the official digital portal for Brij University Bharatpur. Complete guide to MSBU results, admit cards, and examination forms."; 
+$meta_keywords = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal";
+$meta_description = "Univindia MSBU is the official digital portal for Brij University Bharatpur. Complete guide to MSBU results, admit cards, and examination forms.";
+$meta_keywords = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur Portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia MSBU: Your Comprehensive Digital Guide to Brij University Bharatpur</h1>
+        
         
         <p>Univindia MSBU is a terminal keyword for thousands of students pursuing higher education in the historic city of Bharatpur and the broader Brij region of Rajasthan. As the official digital arm of the Maharaja Surajmal Brij University (MSBU), the Univindia portal network serves as the centralized hub for all examination and administrative services. Whether you are a regular undergraduate student or a private candidate for postgraduate degrees, Univindia MSBU is where you manage your academic record, from initial registration to the final retrieval of your degree scores. In this comprehensive guide, we will explore the features of this portal, providing expert navigation tips to ensure a smooth and successful academic journey at Brij University Bharatpur.</p>
 
@@ -52,6 +74,15 @@ $meta_keywords = "Univindia MSBU - Maharaja Surajmal Brij University Bharatpur P
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official Maharaja Surajmal Brij University (MSBU) websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

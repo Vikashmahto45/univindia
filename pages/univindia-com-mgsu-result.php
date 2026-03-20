@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Com MGSU Result - Bikaner University Marks Online"; 
 $meta_description = "Check your MGSU Bikaner results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University marksheets and scores via the .com portal."; 
 $meta_keywords = "Univindia Com MGSU Result - Bikaner University Marks Online"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Com MGSU Result - Bikaner University Marks Online</div>
+    <h2 class='sr-title'>Univindia Com MGSU Result - Bikaner University Marks Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Com MGSU Result - Bikaner University Marks Online"; 
+$meta_description = "Check your MGSU Bikaner results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University marksheets and scores via the .com portal."; 
+$meta_keywords = "Univindia Com MGSU Result - Bikaner University Marks Online"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Com MGSU Result - Bikaner University Marks Online";
+$meta_description = "Check your MGSU Bikaner results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University marksheets and scores via the .com portal.";
+$meta_keywords = "Univindia Com MGSU Result - Bikaner University Marks Online";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Com MGSU Result: Your Complete Guide to Checking Bikaner University Scores</h1>
+        
         
         <p>For thousands of students enrolled at Maharaja Ganga Singh University (MGSU), Bikaner, the term "Univindia Com MGSU Result" is a critical phrase that marks the culmination of months of academic preparation. As the university continues to leverage digital infrastructure for administrative efficiency, the `univindia.com` portal (often acting as a secondary or mirror gateway for `univindia.net`) serves as an official destination for retrieval of examination scores. In this extensive guide, we will provide a complete walkthrough of how to check your MGSU results on the official Univindia Com portal, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Com MGSU Result - Bikaner University Marks Online";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official Maharaja Ganga Singh University (MGSU) websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

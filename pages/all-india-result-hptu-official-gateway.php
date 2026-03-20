@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india result hptu - Official National Technical Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>all india result hptu - Official National Technical Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "all india result hptu - Official National Technical Hub"; 
+$meta_description = "Check all india result hptu for B.Tech, MBA, MCA and other courses. Access official national HPTU result portals and university mirrors on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check HPTU National</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify HPTU results online by student name alternative criteria for major semester examinations
                         on the national result institutional mirrors.</p>
                     <a href="https://himachal-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -92,8 +99,7 @@ $meta_keywords = "";
                     practicals, and credit score tracking for technical courses. Having a verified digital result from
                     the <strong>all india result hptu</strong> hub is essential for students to complete their academic
                     verification and proof of educational attainment during professional registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -106,27 +112,26 @@ $meta_keywords = "";
                         <p>You can use the <strong>all india result hptu</strong> portal on
                             <strong>indiaresults</strong> by selecting your course and entering your university roll
                             number from anywhere in India.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check HPTU results by name search only?</button>
                     <div class="faq-answer">
                         <p>Yes, many semester examinations on the <strong>all india result hptu</strong> hub support a
                             dedicated name-wise search for student examinees.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital HPTU marksheet valid for job verification?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>all india result hptu</strong> gateway is a
                             valid provisional document accepted for initial professional verification and background
                             checks across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

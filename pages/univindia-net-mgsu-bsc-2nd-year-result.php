@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores"; 
 $meta_description = "Check your MGSU Bikaner BSc 2nd year results on Univindia Net. Official guide to downloading Bachelor of Science Part 2 marksheets and results online."; 
 $meta_keywords = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores"; 
+$meta_description = "Check your MGSU Bikaner BSc 2nd year results on Univindia Net. Official guide to downloading Bachelor of Science Part 2 marksheets and results online."; 
+$meta_keywords = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores";
+$meta_description = "Check your MGSU Bikaner BSc 2nd year results on Univindia Net. Official guide to downloading Bachelor of Science Part 2 marksheets and results online.";
+$meta_keywords = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Science Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU BSc 2nd Year Result: Your Guide to Bikaner University Science Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU BSc 2nd Year Result" is one of the most anticipated search queries for thousands of science students at Maharaja Ganga Singh University (MGSU), Bikaner. As students complete the middle phase of their three-year Bachelor of Science (BSc) degree, the declaration of the Part 2 result is a critical milestone. It determines their transition to the final year and significantly impacts their aggregate score for the entire degree. The `univindia.net` portal is the official, authoritative platform for all MGSU science faculty results. In this comprehensive guide, we will provide a detailed walkthrough of how to check your MGSU BSc 2nd Year results, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Net MGSU BSc 2nd Year Result - Bikaner University Sc
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -9,7 +9,26 @@ $meta_keywords = "cuet pg admit card 2023, nta cuet postgraduate hall ticket, cu
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET PG Admit Card 2023 Download - NTA Postgraduate Entrance Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>CUET PG Admit Card 2023 Download - NTA Postgraduate Entrance Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CUET PG Admit Card 2023 Download - NTA Postgraduate Entrance Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download CUET PG Admit Card 2023. Get the direct link for NTA Common University Entrance Test (CUET-PG) postgraduate examination hall tickets at cuet.nta.nic.in."; 
+$meta_keywords = "cuet pg admit card 2023, nta cuet postgraduate hall ticket, cuet.nta.nic.in 2023 admit card link, cuet pg exam hall ticket login, university entrance hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CUET PG Admit Card 2023 Download - NTA Postgraduate Entrance Hall Ticket Link | Univindia.online";
+$meta_description = "Download CUET PG Admit Card 2023. Get the direct link for NTA Common University Entrance Test (CUET-PG) postgraduate examination hall tickets at cuet.nta.nic.in.";
+$meta_keywords = "cuet pg admit card 2023, nta cuet postgraduate hall ticket, cuet.nta.nic.in 2023 admit card link, cuet pg exam hall ticket login, university entrance hall ticket";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CUET PG Admit Card 2023: Download NTA Postgraduate Entrance Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "cuet pg admit card 2023, nta cuet postgraduate hall ticket, cu
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Get CUET PG Score Card</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

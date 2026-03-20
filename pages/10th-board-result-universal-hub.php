@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th board result - Official National Matriculation Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th board result - Official National Matriculation Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th board result - Official National Matriculation Gateway"; 
+$meta_description = "Check 10th board result for all state and central board exams. Access the official Secondary result directory on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 10th Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify Class 10th (Matric) results by student name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +91,7 @@ $meta_keywords = "";
                     the <strong>10th board result</strong> hub is essential for students to complete their academic
                     verification and proof of educational attainment during document verification and school
                     registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -97,27 +103,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The <strong>10th board result</strong> hub covers all major state boards, central boards
                             (CBSE/ICSE), and open school systems offering Secondary certification in India.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards, ensuring all 10th result data is mirrored directly from official board databases.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 10-th board results by name?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>10th board result</strong> portal includes a dedicated name-wise search for
                             most major board examinations across different Indian states for the Secondary session.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

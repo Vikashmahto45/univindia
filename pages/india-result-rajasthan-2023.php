@@ -7,9 +7,27 @@ $meta_keywords = "india result rajasthan 2023, check rbse result 2023 online, ra
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Rajasthan 2023 - Official RBSE Mirror Portal</div>
-    <h2 class='sr-title'>India Result Rajasthan 2023: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Ajmer, Senior Secondary, Secondary, and Praveshika Examinations, and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result Rajasthan 2023 - Official RBSE Mirror Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result Rajasthan 2023 - Official RBSE Mirror Portal"; 
+$meta_description = "Check India Result Rajasthan 2023 online. Access the historical Board of Secondary Education Rajasthan (RBSE) 10th and 12th results for the 2023 session."; 
+$meta_keywords = "india result rajasthan 2023, check rbse result 2023 online, rajasthan 10th 12th result 2023 link, official indiaresults asb 2023, rajresults 2023 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result Rajasthan 2023 - Official RBSE Mirror Portal";
+$meta_description = "Check India Result Rajasthan 2023 online. Access the historical Board of Secondary Education Rajasthan (RBSE) 10th and 12th results for the 2023 session.";
+$meta_keywords = "india result rajasthan 2023, check rbse result 2023 online, rajasthan 10th 12th result 2023 link, official indiaresults asb 2023, rajresults 2023 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result rajasthan 2023, check rbse result 2023 online, ra
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Rajasthan Results Mirror" target="_blank">Access Raj IndiaResults</a>
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official RBSE Portal" target="_blank">Visit Ajmer Board HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result Rajasthan 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result rajasthan 2023, check rbse result 2023 online, ra
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result Rajasthan 2023 data, please visit the RBSE headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Rajasthan 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result rajasthan 2023, check rbse result 2023 online, ra
         <br>
         <strong>3. Is the result from India Result Rajasthan 2023 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result Rajasthan 2023" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

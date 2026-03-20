@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; calcutta university 2nd semester result - Official CU Result Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>calcutta university 2nd semester result - Official CU Result Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "calcutta university 2nd semester result - Official CU Result Portal"; 
+$meta_description = "Check calcutta university 2nd semester result for BA, BSc, and BCom. Access the official University of Calcutta (CU) 2nd sem result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2nd Sem Result</a>
                 <a href="#faq" class="btn btn-secondary">System Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify CU 2nd semester results by using student name.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -80,8 +87,7 @@ $meta_keywords = "";
                     having a verified digital result from the <strong>calcutta university 2nd semester result</strong>
                     hub is an essential first step. This digital scorecard acts as a valid provisional document for
                     academic and administrative use within the university system.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -94,28 +100,27 @@ $meta_keywords = "";
                         <p>Yes, the <strong>calcutta university 2nd semester result</strong> section on
                             <strong>indiaresults</strong> often provides a convenient name-wise search for all CU
                             undergraduate candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the online semester results official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for University
                             of Calcutta (CU), ensuring that all semester data is mirrored directly from official
                             university databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What to do if there is a mistake in my CU result?</button>
                     <div class="faq-answer">
                         <p>If you find any discrepancy in the <strong>calcutta university 2nd semester result</strong>
                             marksheet, you should immediately contact your college principal or the CU Controller of
                             Examinations for correction.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

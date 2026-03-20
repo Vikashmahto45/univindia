@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCER Selection Post Phase 12 Admit Card 2024 - Eastern Region Status | Univindia.online"; 
 $meta_description = "Download SSCER Selection Post Phase 12 Admit Card 2024 for Eastern Region. Check application status, exam date, and center list at sscer.org for ER candidates."; 
 $meta_keywords = "sscer selection post phase 12 admit card, ssc eastern region selection post hall ticket, sscer.org status phase 12, ssc er phase 12 admit card download"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER Selection Post Phase 12 Admit Card 2024 - Eastern Region Status | Univindia.online</div>
+    <h2 class='sr-title'>SSCER Selection Post Phase 12 Admit Card 2024 - Eastern Region Status | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCER Selection Post Phase 12 Admit Card 2024 - Eastern Region Status | Univindia.online"; 
+$meta_description = "Download SSCER Selection Post Phase 12 Admit Card 2024 for Eastern Region. Check application status, exam date, and center list at sscer.org for ER candidates."; 
+$meta_keywords = "sscer selection post phase 12 admit card, ssc eastern region selection post hall ticket, sscer.org status phase 12, ssc er phase 12 admit card download"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSCER Selection Post Phase 12 Admit Card 2024 - Eastern Region Status | Univindia.online";
+$meta_description = "Download SSCER Selection Post Phase 12 Admit Card 2024 for Eastern Region. Check application status, exam date, and center list at sscer.org for ER candidates.";
+$meta_keywords = "sscer selection post phase 12 admit card, ssc eastern region selection post hall ticket, sscer.org status phase 12, ssc er phase 12 admit card download";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "sscer selection post phase 12 admit card, ssc eastern region s
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-red">Latest Result Updates</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

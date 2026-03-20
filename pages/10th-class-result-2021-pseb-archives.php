@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result 2021 pseb - Official Punjab 2021 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th class result 2021 pseb - Official Punjab 2021 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th class result 2021 pseb - Official Punjab 2021 Archive"; 
+$meta_description = "Check 10th class result 2021 pseb for Matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival result gateway."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Punjab board 10th results 2021 by student name alternative criteria for the 2021 academic
                         batch verification.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -90,8 +97,7 @@ $meta_keywords = "";
                     including internal assessment and practical marks. Having a verified digital result from the
                     <strong>10th class result 2021 pseb</strong> archive hub is essential for students to complete their
                     academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,27 +109,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>10th class result 2021 pseb</strong> are permanently archived
                             on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2021 Punjab 10th results by name online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th class result 2021 pseb</strong> portal includes a dedicated
                             name-wise search for student examinees in Punjab for the 2021 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 PSEB marksheet official for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10th class result 2021 pseb</strong> archive
                             is a valid provisional document accepted for initial school registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

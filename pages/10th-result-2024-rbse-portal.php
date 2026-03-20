@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result 2024 rbse - Official Rajasthan Board Secondary Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th result 2024 rbse - Official Rajasthan Board Secondary Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th result 2024 rbse - Official Rajasthan Board Secondary Gateway"; 
+$meta_description = "Check 10th result 2024 rbse for BSER Secondary exams. Access the official 2024 Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -40,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify RBSE Class 10 results 2024 by student name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +93,7 @@ $meta_keywords = "";
                     result from the <strong>10th result 2024 rbse</strong> hub is essential for students to complete
                     their academic verification and proof of performance during school-level transition and registration
                     processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,27 +106,26 @@ $meta_keywords = "";
                         <p>The <strong>10th result 2024 rbse</strong> is typically declared in late May or early June.
                             Stay tuned to this hub for immediate notification and live result links for the 2024 batch.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2024 results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSER (Rajasthan), ensuring all 2024 result data is mirrored directly from
                             official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2024 result by name search on this hub?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>10th result 2024 rbse</strong> portal includes a dedicated name-wise search
                             for the BSER Secondary examinees of the 2024 session.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

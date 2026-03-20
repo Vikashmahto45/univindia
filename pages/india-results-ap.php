@@ -7,9 +7,27 @@ $meta_keywords = "india results ap, check andhra pradesh board result online, ap
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Results AP - Official Andhra Pradesh Board Result Hub</div>
-    <h2 class='sr-title'>India Results AP: Your Comprehensive Navigator to Board of Secondary Education Andhra Pradesh (BSEAP), Vijayawada, Secondary School Certificate (SSC), Board of Intermediate Education (BIEAP), +2 Inter, and Andhra Pradesh State Board Result Gateways (Government of Andhra Pradesh, School Education Department, and National Informatics Centre (NIC) AP Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Results AP - Official Andhra Pradesh Board Result Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Results AP - Official Andhra Pradesh Board Result Hub"; 
+$meta_description = "Check India Results AP online. Access the high-speed Andhra Pradesh (BSEAP, BIEAP) SSC and Inter results on IndiaResults mirror. 2024 merit lists link."; 
+$meta_keywords = "india results ap, check andhra pradesh board result online, ap ssc result indiaresults 2024, indiaresult ap inter 2nd year, bseap result mirror, name wise ap result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Results AP - Official Andhra Pradesh Board Result Hub";
+$meta_description = "Check India Results AP online. Access the high-speed Andhra Pradesh (BSEAP, BIEAP) SSC and Inter results on IndiaResults mirror. 2024 merit lists link.";
+$meta_keywords = "india results ap, check andhra pradesh board result online, ap ssc result indiaresults 2024, indiaresult ap inter 2nd year, bseap result mirror, name wise ap result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india results ap, check andhra pradesh board result online, ap
                 <a href="https://bse.ap.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSEAP Official Portal" target="_blank">Visit BSEAP Home</a>
                 <a href="https://results.apcfss.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Inter Result Gateway" target="_blank">AP Inter Result Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Results AP Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via the IndiaResult mirror, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india results ap, check andhra pradesh board result online, ap
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Results AP data, please visit the respective Board headquarters or your Junior College Office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Results AP Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india results ap, check andhra pradesh board result online, ap
         <br>
         <strong>3. Is the result from India Results AP valid for scholarships?</strong>
         <p>The "India Results AP" data is used for 'Provisional Verification'. For final 'Scholarship Disbursement,' the board-issued physical marksheet or DigiLocker records are required.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

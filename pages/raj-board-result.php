@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Raj Board Result - Official Rajasthan Board of Secondary Education Hub"; 
 $meta_description = "Check Raj Board Result online. Access the Rajasthan Board (BSER) 10th and 12th results. Official 2024 marksheets and result statistics portal."; 
 $meta_keywords = "raj board result, check rbse result online, rajeduboard.rajasthan.gov.in results, rajasthan 10th 12th result link, official rbse portal, bser result hub"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Raj Board Result - Official Rajasthan Board of Secondary Education Hub</div>
+    <h2 class='sr-title'>Raj Board Result - Official Rajasthan Board of Secondary Education Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Raj Board Result - Official Rajasthan Board of Secondary Education Hub"; 
+$meta_description = "Check Raj Board Result online. Access the Rajasthan Board (BSER) 10th and 12th results. Official 2024 marksheets and result statistics portal."; 
+$meta_keywords = "raj board result, check rbse result online, rajeduboard.rajasthan.gov.in results, rajasthan 10th 12th result link, official rbse portal, bser result hub"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Raj Board Result - Official Rajasthan Board of Secondary Education Hub";
+$meta_description = "Check Raj Board Result online. Access the Rajasthan Board (BSER) 10th and 12th results. Official 2024 marksheets and result statistics portal.";
+$meta_keywords = "raj board result, check rbse result online, rajeduboard.rajasthan.gov.in results, rajasthan 10th 12th result link, official rbse portal, bser result hub";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Raj Board Result: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary School (Class 10), Senior Secondary (Class 12), and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Raj Board Result" (applicable to the annual board examinations and continuous evaluations conducted for the academic session by the Board of Secondary Education, Rajasthan) represents the single most significant digital milestone for over 20 lakh students residing in the cultural and academic landscape of Rajasthan. As the primary official gateway to the state's educational infrastructure (Ajmer, BSER HQ), and the traditional school education infrastructure of the nation, the "Raj Board Result" serves as the formal secondary and senior secondary master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate via dedicated government server endpoints and authorized mirror archives. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "Raj Board Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Rajasthan education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Raj Board Result," ensuring that every aspiring student and researcher in Rajasthan can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "raj board result, check rbse result online, rajeduboard.rajast
                 <a href="https://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Official Portal" target="_blank">Visit RBSE Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Raj Board Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your Rajasthan board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "raj board result, check rbse result online, rajeduboard.rajast
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Raj Board Result, please visit the BSER headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Raj Board Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "raj board result, check rbse result online, rajeduboard.rajast
         <br>
         <strong>3. Is the result from Raj Board Result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Raj Board Result" portal) are the primary records for applying to the 'Vigyan Pratibha' and other state merit schemes in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

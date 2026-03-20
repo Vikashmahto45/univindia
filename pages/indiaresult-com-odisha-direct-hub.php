@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresult com odisha - Official Odisha Board Result Gateway"; 
 $meta_description = "Check indiaresult com odisha for Matric (10th) and +2 (12th) results. Access the official Odisha result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresult com odisha - Official Odisha Board Result Gateway</div>
+    <h2 class='sr-title'>indiaresult com odisha - Official Odisha Board Result Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresult com odisha - Official Odisha Board Result Gateway"; 
+$meta_description = "Check indiaresult com odisha for Matric (10th) and +2 (12th) results. Access the official Odisha result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest academic results for Odisha. Official BSE and CHSE
                 mirrors updated for High School Certificate and Higher Secondary examinations.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Odisha Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify Odisha results by student name alternative.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +87,7 @@ $meta_keywords = "";
                     subject-wise breakdown including practical and internal marks. Having a verified digital result from
                     the <strong>indiaresult com odisha</strong> hub is essential for students to complete their academic
                     verification and proof of performance during university registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,27 +100,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>indiaresult com odisha</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for all major board examinations in the state.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSE and CHSE Odisha, ensuring all result data is mirrored directly from
                             official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>indiaresult com odisha</strong> portal is a valid
                             provisional document accepted for initial college and university registration across Odisha.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

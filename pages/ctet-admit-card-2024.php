@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CTET Admit Card 2024: Download NTA CTET July/January Session Hall Ticket @ ctet.nic.in</div>
-    <h2 class='sr-title'>CTET Admit Card 2024: Download July & January Session Hall Ticket</h2>
+    <h2 class='sr-title'>CTET Admit Card 2024: Download NTA CTET July/January Session Hall Ticket @ ctet.nic.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "CTET Admit Card 2024: Download NTA CTET July/January Session Hall Ticket @ ctet.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "CTET Admit Card 2024: Download NTA CTET July/January Session Hall Ticket @ ctet.nic.in";
+$page_description = "Download CTET Admit Card 2024 for July and January sessions. Get direct link for Central Teacher Eligibility Test Hall Ticket, Exam Schedule, and Paper 1 & 2 details. 800+ words of latest updates.";
+$page_keywords = "CTET Admit Card 2024, CTET July Hall Ticket Download, CTET January Admit Card, CBSE CTET Paper 1 2 Call Letter, ctet.nic.in admit card link";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -87,20 +106,17 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-print me-2"></i> Printed Admit Card</h5>
                             <p class="small text-light-gray mb-0">Carry Paper 1 and Paper 2 cards separately if you are appearing for both shifts.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-pen me-2"></i> Blue/Black Ball Pen</h5>
                             <p class="small text-light-gray mb-0">Since the exam is OMR-based, only high-quality ballpoint pens are allowed. No gel pens.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-id-card me-2"></i> Photo ID Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card, PAN, or Passport is mandatory for manual desk verification.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">CTET FAQ: Frequently Asked Questions</h2>
@@ -114,8 +130,7 @@ $meta_keywords = "";
                         <div id="ctQ1" class="accordion-collapse collapse" data-bs-parent="#ctetFaq">
                             <div class="accordion-body text-light-gray">
                                 Log in to the portal and upload a fresh photograph immediately. If the link is closed, contact CBSE CTET Unit at 011-23351231 or email at ctet.cbse@nic.in.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -126,10 +141,8 @@ $meta_keywords = "";
                         <div id="ctQ2" class="accordion-collapse collapse" data-bs-parent="#ctetFaq">
                             <div class="accordion-body text-light-gray">
                                 No, CBSE does not entertain any requests for center changes. You must report to the school/college venue specified on your <strong>CTET Hall Ticket</strong>.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Quick Links</h5>
@@ -137,14 +150,14 @@ $meta_keywords = "";
                         <a href="ctet-admit-card.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">General CTET Page</a>
                         <a href="ugc-net-admit-card-2024.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">UGC NET 2024</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard me-2"></i> Teacher Recruitment Links</h3>
                 <div class="row g-3">
+                    <?php
                     $teachers = [
                         'kvs-admit-card.php' => 'KVS Teacher Admit Card',
                         'nvs-admit-card.php' => 'NVS Hall Ticket Link',
@@ -158,11 +171,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -190,6 +202,12 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

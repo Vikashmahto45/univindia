@@ -9,7 +9,26 @@ $meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food su
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online"; 
+$meta_description = "Download WB Food SI Admit Card 2024. Get the direct link for WBPSC Food Sub-Inspector examination status, exam dates, and hall ticket at psc.wb.gov.in."; 
+$meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food sub inspector admit card west bengal, psc wb gov in admit card, food si exam date 2024"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online";
+$meta_description = "Download WB Food SI Admit Card 2024. Get the direct link for WBPSC Food Sub-Inspector examination status, exam dates, and hall ticket at psc.wb.gov.in.";
+$meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food sub inspector admit card west bengal, psc wb gov in admit card, food si exam date 2024";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">WB Food SI Admit Card 2024: Download West Bengal Food Sub-Inspector Hall Ticket</h2>
         
@@ -88,9 +107,14 @@ $meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food su
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Browse Call Letters</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ts tenth results - Official Telangana Secondary Hub"; 
 $meta_description = "Check ts tenth results for SSC exams. Access the official Telangana Board of Secondary Education (BSE) result gateway and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ts tenth results - Official Telangana Secondary Hub</div>
+    <h2 class='sr-title'>ts tenth results - Official Telangana Secondary Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ts tenth results - Official Telangana Secondary Hub"; 
+$meta_description = "Check ts tenth results for SSC exams. Access the official Telangana Board of Secondary Education (BSE) result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Telangana Class
                 10th (SSC). Official BSE Hyderabad mirrors and board result links updated for the current academic
                 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check TS 10th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Telangana board tenth results (SSC) by student name alternative criteria for the latest
                         session on BSE mirrors.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                     a verified digital result from the <strong>ts tenth results</strong> hub is essential for students
                     to complete their academic verification and proof of educational achievement during school-level
                     transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,26 +109,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>ts tenth results</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated name-wise search for students participating in the BSE Telangana SSC exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub officially official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSE Hyderabad, ensuring result data is mirrored directly from official
                             board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for TS SSC Tenth result access?</button>
                     <div class="faq-answer">
                         <p>You primarily need your Board Hall Ticket Number. The system will display <strong>ts tenth
                                 results</strong> with detailed grades/marks for all core subjects.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

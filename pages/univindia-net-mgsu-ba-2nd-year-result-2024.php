@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores"; 
 $meta_description = "Check your MGSU Bikaner BA 2nd year results for 2024 on Univindia Net. Official guide to downloading Bachelor of Arts Part 2 results for the 2024 session."; 
 $meta_keywords = "Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores"; 
+$meta_description = "Check your MGSU Bikaner BA 2nd year results for 2024 on Univindia Net. Official guide to downloading Bachelor of Arts Part 2 results for the 2024 session."; 
+$meta_keywords = "Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores";
+$meta_description = "Check your MGSU Bikaner BA 2nd year results for 2024 on Univindia Net. Official guide to downloading Bachelor of Arts Part 2 results for the 2024 session.";
+$meta_keywords = "Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner University 2024 Arts Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU BA 2nd Year Result 2024: Your Guide to This Year's Bikaner Arts Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU BA 2nd Year Result 2024" is one of the most anticipated search queries for thousands of arts students at Maharaja Ganga Singh University (MGSU), Bikaner, during the current 2024 academic cycle. As students complete the middle phase of their three-year degree, the declaration of the BA Part 2 result for 2024 is a critical milestone. It determines their transition to the final year and impacts their aggregate score for the entire graduation. The `univindia.net` portal is the official, authoritative platform for all 2024 MGSU Arts results. In this comprehensive guide, we will provide a detailed walkthrough of how to check your 2024 MGSU BA 2nd Year results, how to interpret your 2024 digital marksheet correctly, and what steps to take if you encounter technical or academic issues during the 2024 result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Net MGSU BA 2nd Year Result 2024 - Bikaner Universit
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized 2024 result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

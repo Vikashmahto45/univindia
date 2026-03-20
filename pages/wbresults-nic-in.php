@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Wbresults.nic.in - Official West Bengal Board Results Portal Hub"; 
 $meta_description = "Check Wbresults.nic.in for official West Bengal (WBBSE/WBCHSE) results. access the primary results gateway for West Bengal students across all exam sessions."; 
 $meta_keywords = "wbresults nic in, wbresults.nic.in 2024, wbresults.nic.in 2025, west bengal board result portal, wbbse results nic in, wbchse results nic in"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Wbresults.nic.in - Official West Bengal Board Results Portal Hub</div>
+    <h2 class='sr-title'>Wbresults.nic.in - Official West Bengal Board Results Portal Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Wbresults.nic.in - Official West Bengal Board Results Portal Hub"; 
+$meta_description = "Check Wbresults.nic.in for official West Bengal (WBBSE/WBCHSE) results. access the primary results gateway for West Bengal students across all exam sessions."; 
+$meta_keywords = "wbresults nic in, wbresults.nic.in 2024, wbresults.nic.in 2025, west bengal board result portal, wbbse results nic in, wbchse results nic in"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Wbresults.nic.in - Official West Bengal Board Results Portal Hub";
+$meta_description = "Check Wbresults.nic.in for official West Bengal (WBBSE/WBCHSE) results. access the primary results gateway for West Bengal students across all exam sessions.";
+$meta_keywords = "wbresults nic in, wbresults.nic.in 2024, wbresults.nic.in 2025, west bengal board result portal, wbbse results nic in, wbchse results nic in";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Wbresults.nic.in: The Definitive Digital Gateway to West Bengal’s Academic Success</h1>
+        
         
         <p>In the educationally advanced and culturally vibrant state of West Bengal, the web domain "Wbresults.nic.in" stands as the single most important digital landmark for millions of students. Serving as the primary and official gateway for the West Bengal Board of Secondary Education (WBBSE) and the West Bengal Council of Higher Secondary Education (WBCHSE), this portal is the definitive source of truth for the Madhyamik (Class 10) and Higher Secondary (+2) examinations. "Wbresults.nic.in" is not just a website; it is the official record of a student’s academic transition into the world of professional higher learning. For every academic cycle, from the archives of 2021-2023 to the upcoming 2024 and 2025 sessions, the National Informatics Centre (NIC) maintains this portal to handle the immense aspirations of Bengal's scholars. At Univindia.online, we recognize the paramount importance of this official source. We are dedicated to providing a technical, SEO-friendly roadmap that ensures you can navigate the "Wbresults.nic.in" infrastructure with absolute efficiency, securing your official scores the second they are validated.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "wbresults nic in, wbresults.nic.in 2024, wbresults.nic.in 2025
                 <a href="https://wbbse.wb.gov.in" class="btn" title="WBBSE Board Official Website" target="_blank">WBBSE Board Official</a>
                 <a href="https://wbchse.wb.gov.in" class="btn" title="WBCHSE Council Official Website" target="_blank">WBCHSE Council Official</a>
                 <a href="https://www.exametc.com" class="btn" title="WB Result Mirror Portal" target="_blank">Exametc Media Mirror</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Wbresults.nic.in</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "wbresults nic in, wbresults.nic.in 2024, wbresults.nic.in 2025
         <br>
         <strong>3. Does Wbresults.nic.in provide the 'Toppers List' of West Bengal?</strong>
         <p>While the "Wbresults.nic.in" portal primarily displays individual scores, the merit list and general statistical analysis of the performance are usually released as a PDF file on the main WBBSE or WBCHSE council websites simultaneously.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

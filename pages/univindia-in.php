@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia In - Official Rajasthan University Portal Hub"; 
 $meta_description = "Univindia In is the primary gateway for university results and exam forms in Rajasthan. Discover the features and services of the Univindia.in digital network."; 
 $meta_keywords = "univindia in"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia In - Official Rajasthan University Portal Hub</div>
+    <h2 class='sr-title'>Univindia In - Official Rajasthan University Portal Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia In - Official Rajasthan University Portal Hub"; 
+$meta_description = "Univindia In is the primary gateway for university results and exam forms in Rajasthan. Discover the features and services of the Univindia.in digital network."; 
+$meta_keywords = "univindia in"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia In - Official Rajasthan University Portal Hub";
+$meta_description = "Univindia In is the primary gateway for university results and exam forms in Rajasthan. Discover the features and services of the Univindia.in digital network.";
+$meta_keywords = "univindia in";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia In: Navigating the Centralized University Infrastructure of Rajasthan</h1>
+        
         
         <p>Univindia In is a keyword that serves as an essential nexus for thousands of students across Rajasthan who are pursuing higher education. As the digital arm of several regional universities—most notably the Maharaja Ganga Singh University (MGSU) in Bikaner—the Univindia network, including the `univindia.in` variation, provides a centralized platform for examination management, result declaration, and student administrative services. In an era where digital efficiency is paramount, understanding how to navigate this extensive portal is critical for every student. In this detailed guide, we will explore the features of Univindia In, providing comprehensive instructions for checking results, downloading admit cards, and troubleshooting common portal issues.</p>
 
@@ -52,6 +74,15 @@ $meta_keywords = "univindia in";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

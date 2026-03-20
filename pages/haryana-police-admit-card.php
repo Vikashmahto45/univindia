@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in</div>
-    <h2 class='sr-title'>Haryana Police Admit Card 2025: HSSC Constable Hall Ticket</h2>
+    <h2 class='sr-title'>Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in";
+$page_description = "Download Haryana Police Admit Card 2025 for Constable 6000 vacancies. Get direct link for HSSC Haryana Police Hall Ticket, PST/PMT Schedule, and Exam Date. 800+ words guide.";
+$page_keywords = "Haryana Police Admit Card 2025, HSSC Constable Hall Ticket Download, hssc.gov.in admit card link, Haryana Police PST PMT Status, Haryana Police Exam Date";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -91,14 +110,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-warning">
                             <h5 class="text-warning"><i class="fas fa-id-badge me-2"></i> Two Signed Hall Tickets</h5>
                             <p class="small text-light-gray mb-0">Carry two copies of your <strong>Haryana Police Call Letter</strong>. One copy will be deposited after the running event.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-warning">
                             <h5 class="text-warning"><i class="fas fa-file-alt me-2"></i> Original CET Admit Card</h5>
                             <p class="small text-light-gray mb-0">Candidates are often asked to provide a copy of their original <strong>Haryana CET Result</strong> alongside the police hall ticket for verification.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Haryana Police Admit Card FAQ: Frequent Support</h2>
@@ -112,8 +129,7 @@ $meta_keywords = "";
                         <div id="hsQ1" class="accordion-collapse collapse" data-bs-parent="#hsscFaq">
                             <div class="accordion-body text-light-gray">
                                 HSSC releases the <strong>Haryana Police Admit Card</strong> in batches based on the CET Merit List. If your score is within the cut-off and you still don't see the link, contact the HSSC helpdesk at 0172-2566597.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -124,10 +140,8 @@ $meta_keywords = "";
                         <div id="hsQ2" class="accordion-collapse collapse" data-bs-parent="#hsscFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, candidates are required to affix a recent photo on the printed <strong>Haryana Police Hall Ticket</strong> and get it self-attested or attested as per the specific notice instructions.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Other Policing Links</h5>
@@ -135,14 +149,14 @@ $meta_keywords = "";
                         <a href="up-pbpb-gov-in-admit-card.php" class="btn btn-outline-warning rounded-pill px-4 btn-sm">UP Police Admit Card</a>
                         <a href="rpf-constable-admit-card.php" class="btn btn-outline-warning rounded-pill px-4 btn-sm">RPF Constable Link</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Haryana State Recruitment Links</h3>
                 <div class="row g-3">
+                    <?php
                     $hry_links = [
                         'hpsc-admit-card.php' => 'HPSC SDO/HCS Admit Card',
                         'hseb-admit-card.php' => 'HBSE Board Result 2025',
@@ -156,11 +170,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -188,6 +201,12 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

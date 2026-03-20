@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap intermediate 1st year results 2022 - Official BIEAP Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>ap intermediate 1st year results 2022 - Official BIEAP Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ap intermediate 1st year results 2022 - Official BIEAP Archive"; 
+$meta_description = "Check ap intermediate 1st year results 2022 for General and Vocational streams. Access the official Andhra Pradesh Inter 1st year result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">System Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Hall Ticket Search</h3>
                     <p>Verify AP 2022 inter results by Hall Ticket.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     <strong>indiaresults.com</strong> is essential for students who are now in their final year of
                     graduation and need to provide 1st-year inter-marks for PG entrance applications or credit
                     transfers.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,28 +97,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>ap intermediate 1st year results 2022</strong> are official
                             and remain valid for all academic and employment verification purposes.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 results with just my name?</button>
                     <div class="faq-answer">
                         <p>While Hall Ticket is preferred, the <strong>indiaresults</strong> portal for <strong>ap
                                 intermediate 1st year results 2022</strong> often supports name-wise search for easier
                             retrieval.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What to do if I lost my 2022 hall ticket?</button>
                     <div class="faq-answer">
                         <p>You can try using the 'Search by Name' feature on the <strong>ap intermediate 1st year
                                 results 2022</strong> gateway on <strong>indiaresults.com</strong> to find your number.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

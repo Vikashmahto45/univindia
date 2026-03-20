@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Result of B.Sc 2nd Year 2019 Univindia - Bikaner University BSc Part-II scores"; 
 $meta_description = "Access the MGSU Bikaner B.Sc 2nd Year 2019 result via Univindia. Official guide to retrieving historical BSc Part-II 2019 Maharaja Ganga Singh University marksheets."; 
 $meta_keywords = "result of b.sc 2nd year 2019 univindia"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Result of B.Sc 2nd Year 2019 Univindia - Bikaner University BSc Part-II scores</div>
+    <h2 class='sr-title'>Result of B.Sc 2nd Year 2019 Univindia - Bikaner University BSc Part-II scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Result of B.Sc 2nd Year 2019 Univindia - Bikaner University BSc Part-II scores"; 
+$meta_description = "Access the MGSU Bikaner B.Sc 2nd Year 2019 result via Univindia. Official guide to retrieving historical BSc Part-II 2019 Maharaja Ganga Singh University marksheets."; 
+$meta_keywords = "result of b.sc 2nd year 2019 univindia"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Result of B.Sc 2nd Year 2019 Univindia - Bikaner University BSc Part-II scores";
+$meta_description = "Access the MGSU Bikaner B.Sc 2nd Year 2019 result via Univindia. Official guide to retrieving historical BSc Part-II 2019 Maharaja Ganga Singh University marksheets.";
+$meta_keywords = "result of b.sc 2nd year 2019 univindia";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Result of B.Sc 2nd Year 2019 Univindia: Accessing Your Historical Science Scores</h1>
+        
         
         <p>The term "Result of B.Sc 2nd Year 2019 Univindia" refers to the specific, historical digital records of the Bachelor of Science (B.Sc) Part-II students at Maharaja Ganga Singh University (MGSU), Bikaner, for the 2019 academic session. For thousands of science students who were progressing through their three-year degree in 2019, the `univindia.net` portal is the definitive archival gateway for retrieving their official marksheet. Whether you are an alumnus verifying your academic progression for a job application, professional certification, or post-graduate admission, the B.Sc 2nd Year 2019 result gateway provides the authoritative achievement records you need from the late 2010s. In this comprehensive guide, we will provide a detailed exploration of the 2019 B.Sc Part-II result infrastructure, explain how to retrieve your legacy science marksheets, and offer expert advice on understanding your academic standing at MGSU Bikaner during that pivotal year.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "result of b.sc 2nd year 2019 univindia";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

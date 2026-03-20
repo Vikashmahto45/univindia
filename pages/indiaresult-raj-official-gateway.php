@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresult raj - Official Rajasthan Board Hub"; 
 $meta_description = "Check Rajasthan Board result on indiaresult raj. Access official Rajasthan 10th & 12th scorecards on indiaresults archival portal for RBSE exams."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresult raj - Official Rajasthan Board Hub</div>
+    <h2 class='sr-title'>indiaresult raj - Official Rajasthan Board Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresult raj - Official Rajasthan Board Hub"; 
+$meta_description = "Check Rajasthan Board result on indiaresult raj. Access official Rajasthan 10th & 12th scorecards on indiaresults archival portal for RBSE exams."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all Rajasthan examination results spanning
                 various academic sessions. Access official Rajasthan (RBSE) board mirrors and archival links updated for
                 batch verification and name-wise search.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Rajasthan Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan Board (rajresults.nic.in) results by student name alternative criteria for
                         various education batches spanning 2021-2024.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                     Commerce, Arts). Having a verified digital result from the <strong>indiaresult raj</strong> hub is
                     essential for students to complete their academic verification and proof of educational attainment
                     even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,27 +109,29 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>indiaresult raj</strong> are archived on verified platforms
                             for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Rajasthan 10th/12th results by name only on mobile
                         devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresult raj</strong> portal is fully mobile-responsive and
                             includes a dedicated name-wise search for student examinees in Rajasthan.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital RBSE marksheet valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>indiaresult raj</strong> gateway is a valid
                             provisional document accepted for initial institutional registration across Rajasthan and
                             India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rajsthan 10th result com - Official Rajasthan 10th Gateway"; 
 $meta_description = "Access rajsthan 10th result com for official RBSE Secondary result updates. Unified portal for Rajasthan Board 10th scores and direct links on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajsthan 10th result com - Official Rajasthan 10th Gateway</div>
+    <h2 class='sr-title'>rajsthan 10th result com - Official Rajasthan 10th Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rajsthan 10th result com - Official Rajasthan 10th Gateway"; 
+$meta_description = "Access rajsthan 10th result com for official RBSE Secondary result updates. Unified portal for Rajasthan Board 10th scores and direct links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all Rajasthan Board of Secondary Education
                 (RBSE) Class 10th (Secondary) examination results. Official RBSE mirrors and direct result links updated
                 for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 10th Result Portal</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan Board (rajeduboard.rajasthan.gov.in) 10th results by student name alternative
                         criteria for various examination batches.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                     all students. Having a verified digital result from the <strong>rajsthan 10th result com</strong>
                     hub is essential for students to complete their academic verification and proof of educational
                     attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,27 +109,29 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>rajsthan 10th result com</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Rajasthan 10th results by name only on mobile
                         devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>rajsthan 10th result com</strong> portal is mobile-optimized and
                             includes a dedicated name-wise search for student examinees in Rajasthan.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital RBSE marksheet valid for future admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>rajsthan 10th result com</strong> gateway is
                             a valid provisional document accepted for initial school registration and verification
                             across Rajasthan.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

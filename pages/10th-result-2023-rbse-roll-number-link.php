@@ -7,9 +7,27 @@ $meta_keywords = "10th class result 2023 rbse roll number, check rbse 10th resul
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result 2023 rbse roll number - Official Rajasthan Mirror</div>
-    <h2 class='sr-title'>10th class result 2023 rbse roll number: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary Public Examinations (Class 10), and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>10th class result 2023 rbse roll number - Official Rajasthan Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th class result 2023 rbse roll number - Official Rajasthan Mirror"; 
+$meta_description = "Check 10th class result 2023 rbse roll number online. Access the results for Board of Secondary Education Rajasthan (RBSE) Matric for the 2023 session."; 
+$meta_keywords = "10th class result 2023 rbse roll number, check rbse 10th result 2023 online, official rajasthan matric link, rbse 10th roll search 2023"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th class result 2023 rbse roll number - Official Rajasthan Mirror";
+$meta_description = "Check 10th class result 2023 rbse roll number online. Access the results for Board of Secondary Education Rajasthan (RBSE) Matric for the 2023 session.";
+$meta_keywords = "10th class result 2023 rbse roll number, check rbse 10th result 2023 online, official rajasthan matric link, rbse 10th roll search 2023";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "10th class result 2023 rbse roll number, check rbse 10th resul
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Rajasthan Mirror" target="_blank">Access Rajasthan Mirror</a>
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Board Portal" target="_blank">Visit RBSE Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 10th class result 2023 rbse roll number Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "10th class result 2023 rbse roll number, check rbse 10th resul
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 10th class result 2023 rbse roll number data, please visit the RBSE headquarters in Ajmer or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Rajasthan 10th 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "10th class result 2023 rbse roll number, check rbse 10th resul
         <br>
         <strong>3. Is the result from RBSE Board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "10th class result 2023 rbse roll number" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

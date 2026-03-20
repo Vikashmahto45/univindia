@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rbse 12th result 2021 name wise science - Official Rajasthan Board Archive"; 
 $meta_description = "Check rbse 12th result 2021 name wise science for BSER Senior Secondary exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 12th result 2021 name wise science - Official Rajasthan Board Archive</div>
+    <h2 class='sr-title'>rbse 12th result 2021 name wise science - Official Rajasthan Board Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rbse 12th result 2021 name wise science - Official Rajasthan Board Archive"; 
+$meta_description = "Check rbse 12th result 2021 name wise science for BSER Senior Secondary exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Class 12th (Science) for
                 Rajasthan via student name. Official BSER Ajmer mirrors and archival links updated for the 2021 batch.
             </p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2021 RBSE 12th Science results by student name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                         name wise science</strong> archive hub is essential for students to complete their academic
                     verification and proof of educational attainment during university graduation and registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,16 +110,14 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>rbse 12th result 2021 name wise science</strong> are
                             permanently archived on verified platforms like <strong>indiaresults.com</strong> for
                             archival and name-wise access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2021 Science results official on this hub?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for BSER
                             (Rajasthan), ensuring all 2021 result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 science marksheet valid for university
                         admission?</button>
@@ -117,11 +125,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>rbse 12th result 2021 name wise
                                 science</strong> archive is a valid provisional document accepted for initial university
                             registration and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

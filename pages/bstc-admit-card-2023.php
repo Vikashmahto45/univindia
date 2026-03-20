@@ -9,7 +9,26 @@ $meta_keywords = "bstc admit card 2023, rajasthan predeled hall ticket download,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSTC Admit Card 2023 Download - Pre D.El.Ed Rajasthan Exam Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>BSTC Admit Card 2023 Download - Pre D.El.Ed Rajasthan Exam Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "BSTC Admit Card 2023 Download - Pre D.El.Ed Rajasthan Exam Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download BSTC Admit Card 2023. Get the direct link for Rajasthan Pre D.El.Ed entrance examination hall tickets at panjiyakpredeled.in."; 
+$meta_keywords = "bstc admit card 2023, rajasthan predeled hall ticket download, bstc 2023 admit card login, panjiyakpredeled.in admit card download, bstc admit card name wise"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "BSTC Admit Card 2023 Download - Pre D.El.Ed Rajasthan Exam Hall Ticket Link | Univindia.online";
+$meta_description = "Download BSTC Admit Card 2023. Get the direct link for Rajasthan Pre D.El.Ed entrance examination hall tickets at panjiyakpredeled.in.";
+$meta_keywords = "bstc admit card 2023, rajasthan predeled hall ticket download, bstc 2023 admit card login, panjiyakpredeled.in admit card download, bstc admit card name wise";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">BSTC Admit Card 2023: Download Rajasthan Pre D.El.Ed Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "bstc admit card 2023, rajasthan predeled hall ticket download,
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check BSTC Results</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

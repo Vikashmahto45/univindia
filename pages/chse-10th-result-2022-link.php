@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; chse 10th result 2022 - Official Odisha Board Archive Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>chse 10th result 2022 - Official Odisha Board Archive Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "chse 10th result 2022 - Official Odisha Board Archive Portal"; 
+$meta_description = "Check chse 10th result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result portal on indiaresults for fast checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">System Info</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify Odisha 2022 matric results by student name.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     <strong>indiaresults.com</strong> is essential for students who are now applying for their Higher
                     Secondary certificates or need marks verification for job applications in the public and private
                     sectors.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,28 +97,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>chse 10th result 2022</strong> portal on <strong>indiaresults</strong>
                             provides a convenient name-wise search for all 2022 Matric candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What is BSE vs CHSE in Odisha?</button>
                     <div class="faq-answer">
                         <p>In Odisha, BSE (Board of Secondary Education) handles 10th class results, while CHSE (Council
                             of Higher Secondary Education) handles 12th class results. Both are available on the
                             <strong>indiaresults</strong> portal.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result valid for +2 admission verification?</button>
                     <div class="faq-answer">
                         <p>The <strong>chse 10th result 2022</strong> digital copy is a valid provisional document for
                             any academic verification where the original certificates are currently being processed or
                             unavailable.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

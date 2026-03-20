@@ -7,9 +7,27 @@ $meta_keywords = "10th board result 2024 rbse, rajresults.nic.in 2024 10th, chec
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Board Result 2024 RBSE - Official Rajasthan Secondary Portal</div>
-    <h2 class='sr-title'>10th Board Result 2024 RBSE: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER/RBSE) Secondary (Class 10), Praveshika, and High School Certificate (HSC) Examination Result Gateways (Government of Rajasthan, Rajasthan Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals Across Rajasthan</h2>
+    <h2 class='sr-title'>10th Board Result 2024 RBSE - Official Rajasthan Secondary Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th Board Result 2024 RBSE - Official Rajasthan Secondary Portal"; 
+$meta_description = "Check 10th Board Result 2024 RBSE online. Access the Board of Secondary Education Rajasthan (BSER) Class 10 results, merit list, and official marksheet for the 2024 session."; 
+$meta_keywords = "10th board result 2024 rbse, rajresults.nic.in 2024 10th, check rbse secondary result 2024, rajasthan board 10th result 2024 date, bser 10th results link, official rbse portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th Board Result 2024 RBSE - Official Rajasthan Secondary Portal";
+$meta_description = "Check 10th Board Result 2024 RBSE online. Access the Board of Secondary Education Rajasthan (BSER) Class 10 results, merit list, and official marksheet for the 2024 session.";
+$meta_keywords = "10th board result 2024 rbse, rajresults.nic.in 2024 10th, check rbse secondary result 2024, rajasthan board 10th result 2024 date, bser 10th results link, official rbse portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "10th board result 2024 rbse, rajresults.nic.in 2024 10th, chec
                 <a href="https://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Official Portal" target="_blank">Visit RBSE Ajmer Portal</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Download Digital Marksheet</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 10th Board Result 2024 RBSE Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your Rajasthan board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "10th board result 2024 rbse, rajresults.nic.in 2024 10th, chec
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 10th Board Result 2024 RBSE, please visit the RBSE headquarters at Ajmer or your respective District Education Office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th Board Result 2024 RBSE Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "10th board result 2024 rbse, rajresults.nic.in 2024 10th, chec
         <br>
         <strong>3. Is the result from 10th Board Result 2024 RBSE valid for global use?</strong>
         <p>Yes, your board results (verified via the official "10th Board Result 2024 RBSE" portal or DigiLocker) are the accepted records for applying to international colleges or job visas in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

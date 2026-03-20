@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UGC NET Admit Card 2021: Download December/June Exam Hall Ticket @ ugcnet.nta.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UGC NET Admit Card 2021: Download December/June Exam Hall Ticket @ ugcnet.nta.nic.in</div>
+    <h2 class='sr-title'>UGC NET Admit Card 2021: Download December/June Exam Hall Ticket @ ugcnet.nta.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UGC NET Admit Card 2021: Download December/June Exam Hall Ticket @ ugcnet.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "UGC NET Admit Card 2021: Download December/June Exam Hall Ticket @ ugcnet.nta.nic.in";
+$page_description = "Download UGC NET Admit Card 2021. Get direct link for NTA UGC NET December 2020 and June 2021 merged session hall tickets, exam schedule, and subject-wise dates. 800+ words.";
+$page_keywords = "UGC NET Admit Card 2021, UGC NET Hall Ticket Download, NTA UGC NET 2021 Admit Card, UGC NET Exam Date 2021, ugcnet.nta.nic.in admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">UGC NET Admit Card 2021: Download Merged Session Hall Ticket & Check Center</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-exclamation-triangle me-2"></i> <strong>Archive Update:</strong> The National Testing Agency (NTA) has conducted the merged December 2020 and June 2021 cycles. This page provides historical access to the download guidelines and exam archives.
@@ -87,22 +110,19 @@ $meta_keywords = "";
                             <i class="fas fa-mask fa-2x text-warning mb-2"></i>
                             <h6 class="text-white">Mask Policy</h6>
                             <p class="small text-light-gray mb-0">N95 masks were often provided at the center.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-sm-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 h-100 text-center">
                             <i class="fas fa-hands-bubbles fa-2x text-warning mb-2"></i>
                             <h6 class="text-white">Sanitization</h6>
                             <p class="small text-light-gray mb-0">Hand sanitizer (50ml) was permitted in transparent bottles.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-sm-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 h-100 text-center">
                             <i class="fas fa-arrows-alt-h fa-2x text-warning mb-2"></i>
                             <h6 class="text-white">Social Distancing</h6>
                             <p class="small text-light-gray mb-0">Staggered reporting times to avoid crowding.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">What Documents were Compulsory?</h2>
@@ -127,8 +147,7 @@ $meta_keywords = "";
                         <div id="ugcQ1" class="accordion-collapse collapse" data-bs-parent="#ugcNetFaq">
                             <div class="accordion-body text-light-gray">
                                 The merger was a strategic move by the NTA to normalize the examination cycles which were delayed due to the COVID-19 pandemic worldwide.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -139,8 +158,7 @@ $meta_keywords = "";
                         <div id="ugcQ2" class="accordion-collapse collapse" data-bs-parent="#ugcNetFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, NTA keeps a public archive of results. You can access it by logging into the result portal with your 2021 application details.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -151,10 +169,8 @@ $meta_keywords = "";
                         <div id="ugcQ3" class="accordion-collapse collapse" data-bs-parent="#ugcNetFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, Paper 1 (General Paper on Teaching and Research Aptitude) was mandatory and common for all aspirants, although the questions varied across different shifts.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Current Sessions</h5>
@@ -162,14 +178,14 @@ $meta_keywords = "";
                         <a href="ugc-net-admit-card-2024.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">UGC NET 2024 Admit Card</a>
                         <a href="cuet-admit-card-2024.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">CUET UG Call Letter</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard-teacher me-2"></i> Competitive Academic Exams</h3>
                 <div class="row g-3">
+                    <?php
                     $academic = [
                         'ignou-admit-card.php' => 'IGNOU Exam Hall Ticket',
                         'ctet-admit-card-2024.php' => 'CTET 2024 Call Letter',
@@ -183,11 +199,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -217,3 +232,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

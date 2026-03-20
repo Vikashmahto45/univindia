@@ -1,11 +1,26 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in"; 
 $meta_description = "Download MDU Rohtak Admit Card 2024 for B.A, B.Sc, B.Com, B.Tech and PG Exams. Get direct link for Maharshi Dayanand University Hall Ticket download at mdu.ac.in."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in</div>
+    <h2 class='sr-title'>MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in"; 
+$meta_description = "Download MDU Rohtak Admit Card 2024 for B.A, B.Sc, B.Com, B.Tech and PG Exams. Get direct link for Maharshi Dayanand University Hall Ticket download at mdu.ac.in."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +32,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
                 <div class="card-header bg-primary text-white p-4">
-                    <h1 class="h3 fw-bold mb-0 text-uppercase">MDU Rohtak Admit Card 2024</h1>
+                    
                 </div>
                 <div class="card-body p-4">
                     <p class="lead">Maharshi Dayanand University (MDU), Rohtak is ready to conduct its various semester and annual examinations for the 2024 academic session. Students appearing for UG/PG courses including B.A, B.Sc, B.Com, B.Tech, M.A, M.Sc, and other diplomas can now download their MDU Admit Card from the official university portal.</p>
@@ -53,8 +68,7 @@ $meta_keywords = "";
                                     <li>MDU Roll Number (Unique for Exam)</li>
                                     <li>Scanned Photograph & Signature</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6">
                             <div class="p-4 border rounded-4 bg-white shadow-sm h-100">
                                 <h5 class="fw-bold text-primary"><i class="bi bi-calendar-check me-2"></i>Exam Data</h5>
@@ -64,8 +78,7 @@ $meta_keywords = "";
                                     <li>Subject-wise Exam Dates & Shift</li>
                                     <li>Detailed Exam Day Instructions</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark">Instructions for MDU Examination Centers</h2>
@@ -120,15 +133,19 @@ $meta_keywords = "";
                             <div class="col-md-6">
                                 <h6 class="fw-bold text-info">4. What is the direct link for MDU Admit Card?</h6>
                                 <p class="small mb-0">The direct link is <strong>https://student.mdu.ac.in/</strong> where you can login to your student dashboard.</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <p class="mt-5 text-center text-muted small fst-italic">This is a public awareness portal. For official university updates, please always refer to <strong>www.mdu.ac.in</strong>.</p>
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

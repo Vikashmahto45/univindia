@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hsc 10th result 2022 - Official National 2022 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>hsc 10th result 2022 - Official National 2022 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "hsc 10th result 2022 - Official National 2022 Archive"; 
+$meta_description = "Check hsc 10th result 2022 for all state boards. Access the official national Class 10 (HSC) archival result portal and mirrors on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 HSC Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify HSC 10th board results 2022 by student name alternative criteria for major participating
                         boards across India for the 2022 batch.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +96,7 @@ $meta_keywords = "";
                     for all major boards. Having a verified digital result from the <strong>hsc 10th result
                         2022</strong> archive hub is essential for students to complete their academic verification and
                     proof of educational achievement even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,27 +108,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>hsc 10th result 2022</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 HSC results by name search online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Most participating state boards on the <strong>hsc 10th result 2022</strong> hub
                             support a dedicated name-wise results search for the 2022 examination session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for future admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>hsc 10th result 2022</strong> gateway is a
                             valid provisional document accepted for initial higher secondary school registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

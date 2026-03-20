@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in";
+$page_description = "SSC GD Constable Admit Card 2025 Download Link. Get region-wise call letters for SSC Constable GD Exam. Physical & Medical test details, exam date, and hall ticket status.";
+$page_keywords = "SSC GD Constable Admit Card 2025, SSC GD Hall Ticket 2025, SSC GD Constable Exam Date, SSC GD Call Letter download, ssc.gov.in admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">SSC GD Constable Admit Card 2025: <span class="text-warning">Download Here</span></h1>
+            
             
             <div class="alert alert-warning border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Latest Update:</h4>
                         <p class="mb-0">The Staff Selection Commission (SSC) is set to release the <strong>SSC GD Constable Admit Card 2025</strong> soon. Candidates can check their application status and download their hall tickets from the respective regional websites.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -94,20 +116,17 @@ $meta_keywords = "";
                                 <div class="p-3 bg-secondary rounded-3 text-center h-100 d-flex flex-column justify-content-center">
                                     <h5 class="text-white mb-2">Central Region (CR)</h5>
                                     <a href="http://www.ssc-cr.org" class="btn btn-warning btn-sm fw-bold">Visit Website</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-3 bg-secondary rounded-3 text-center h-100 d-flex flex-column justify-content-center">
                                     <h5 class="text-white mb-2">Northern Region (NR)</h5>
                                     <a href="https://sscnr.nic.in" class="btn btn-warning btn-sm fw-bold">Visit Website</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-3 bg-secondary rounded-3 text-center h-100 d-flex flex-column justify-content-center">
                                     <h5 class="text-white mb-2">Western Region (WR)</h5>
                                     <a href="http://www.sscwr.net" class="btn btn-warning btn-sm fw-bold">Visit Website</a>
-                                </div>
-                            </div>
+                                
                             <!-- Additional regions can be added here -->
                         </div>
 
@@ -153,8 +172,7 @@ $meta_keywords = "";
                                 <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#admitCardFaq">
                                     <div class="accordion-body text-white-50">
                                         The admit card is generally released 10-15 days before the commencement of the exam. Regional status is updated even earlier.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white border-secondary">
                                 <h3 class="accordion-header">
@@ -165,8 +183,7 @@ $meta_keywords = "";
                                 <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#admitCardFaq">
                                     <div class="accordion-body text-white-50">
                                         No, SSC does not send physical copies of admit cards via post. You must download it online from the regional portal.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white">
                                 <h3 class="accordion-header">
@@ -177,14 +194,11 @@ $meta_keywords = "";
                                 <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#admitCardFaq">
                                     <div class="accordion-body text-white-50">
                                         You can recover your registration ID by visiting the official portal and using the 'Forgot Password/Registration' option or searching via name and date of birth in the admit card section.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- Internal Links Section -->
             <div class="bg-dark p-5 rounded-4 border border-secondary shadow-lg">
@@ -201,15 +215,12 @@ $meta_keywords = "";
                     </div>
                     <div class="col-md-3">
                         <a href="rrb-ntpc-admit-card.php" class="d-block p-3 bg-secondary rounded-3 text-warning text-decoration-none text-center hover-lift">RRB NTPC Admit Card</a>
-                    </div>
-                </div>
+                    
                 <div class="text-center mt-5">
                     <a href="../index.php" class="btn btn-outline-warning px-5 rounded-pill btn-lg">Back to Home Portal</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                
+        
+
 
 <style>
 .hover-lift {
@@ -241,3 +252,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

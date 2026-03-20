@@ -7,9 +7,27 @@ $meta_keywords = "12th arts result 2022 rajasthan, check rbse 12th arts result 2
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Arts Result 2022 Rajasthan - Official RBSE Result archive</div>
-    <h2 class='sr-title'>12th Arts Result 2022 Rajasthan: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Senior Secondary (Class 12) Arts Stream, Humanities, and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>12th Arts Result 2022 Rajasthan - Official RBSE Result archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "12th Arts Result 2022 Rajasthan - Official RBSE Result archive"; 
+$meta_description = "Check 12th Arts Result 2022 Rajasthan online. Access the historical Rajasthan Board (BSER) Senior Secondary Arts results for the 2022 session. Official marks link."; 
+$meta_keywords = "12th arts result 2022 rajasthan, check rbse 12th arts result 2022 online, rajresults.nic.in 2022 arts, official 2022 rbse arts link, indiaresult rbse 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "12th Arts Result 2022 Rajasthan - Official RBSE Result archive";
+$meta_description = "Check 12th Arts Result 2022 Rajasthan online. Access the historical Rajasthan Board (BSER) Senior Secondary Arts results for the 2022 session. Official marks link.";
+$meta_keywords = "12th arts result 2022 rajasthan, check rbse 12th arts result 2022 online, rajresults.nic.in 2022 arts, official 2022 rbse arts link, indiaresult rbse 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "12th arts result 2022 rajasthan, check rbse 12th arts result 2
                 <a href="https://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 12th Arts Result 2022 Rajasthan Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your Rajasthan board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "12th arts result 2022 rajasthan, check rbse 12th arts result 2
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 12th Arts Result 2022 Rajasthan, please visit the BSER headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 12th Arts Result 2022 Rajasthan Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "12th arts result 2022 rajasthan, check rbse 12th arts result 2
         <br>
         <strong>3. Is the result from 12th Arts Result 2022 Rajasthan valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "12th Arts Result 2022 Rajasthan" portal) are digitized and available in the DigiLocker archive for official verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

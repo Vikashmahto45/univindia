@@ -9,7 +9,26 @@ $meta_keywords = "emrs admit card 2024, eklavya school admit card download, emrs
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; EMRS Admit Card 2024 Download - Teaching & Non-Teaching Eklavya ESSSC Link | Univindia.online</div>
     <h2 class='sr-title'>EMRS Admit Card 2024 Download - Teaching & Non-Teaching Eklavya ESSSC Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "EMRS Admit Card 2024 Download - Teaching & Non-Teaching Eklavya ESSSC Link | Univindia.online"; 
+$meta_description = "Download EMRS Admit Card 2024 for TGT, PGT, Hostel Warden, and JSA. Get direct link for Eklavya Model Residential School recruitment hall tickets at emrs.tribal.gov.in."; 
+$meta_keywords = "emrs admit card 2024, eklavya school admit card download, emrs recruitment 2024 hall ticket, emrs.tribal.gov.in admit card login, emrs exam date"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "EMRS Admit Card 2024 Download - Teaching & Non-Teaching Eklavya ESSSC Link | Univindia.online";
+$meta_description = "Download EMRS Admit Card 2024 for TGT, PGT, Hostel Warden, and JSA. Get direct link for Eklavya Model Residential School recruitment hall tickets at emrs.tribal.gov.in.";
+$meta_keywords = "emrs admit card 2024, eklavya school admit card download, emrs recruitment 2024 hall ticket, emrs.tribal.gov.in admit card login, emrs exam date";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">EMRS Admit Card 2024: Download Eklavya Model Residential School Hall Ticket</h2>
         
@@ -91,9 +110,14 @@ $meta_keywords = "emrs admit card 2024, eklavya school admit card download, emrs
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

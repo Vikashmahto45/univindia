@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse 10th result 2023 - Official Secondary Education Result Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>bse 10th result 2023 - Official Secondary Education Result Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "bse 10th result 2023 - Official Secondary Education Result Portal"; 
+$meta_description = "Check bse 10th result 2023 for all boards including BSE Odisha, BSE Telangana, and more. Access the official 2023 secondary results on indiaresults for fast checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2023 Result</a>
                 <a href="#faq" class="btn btn-secondary">System Info</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Portal</h3>
                     <p>Search bse 10th results 2023 by Name.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +83,7 @@ $meta_keywords = "";
                     marks for Languages, Mathematics, Science, and Social Sciences. Having a verified digital copy from
                     <strong>indiaresults.com</strong> is essential for initial college registrations and vocational
                     training applications.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,28 +96,27 @@ $meta_keywords = "";
                         <p>Our <strong>bse 10th result 2023</strong> portal covers all states that use the 'Board of
                             Secondary Education' nomenclature, including Odisha, Telangana, and Andhra Pradesh, among
                             others.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check bse 10th result 2023 by Name?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>indiaresults</strong> portal provides a name-wise search option for
                             <strong>bse 10th result 2023</strong>, allowing you to find results by entering the
                             student's name.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are required for 2023 BSE result check?</button>
                     <div class="faq-answer">
                         <p>Typically, you only need your Roll Number or Hall Ticket Number. However, for <strong>bse
                                 10th result 2023</strong>, name and date of birth can also be used on specific servers.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

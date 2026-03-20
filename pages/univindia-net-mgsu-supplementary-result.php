@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores"; 
 $meta_description = "Check your MGSU Bikaner supplementary and re-exam results on Univindia Net. Official guide to downloading back-paper marksheets for Bikaner university."; 
 $meta_keywords = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores"; 
+$meta_description = "Check your MGSU Bikaner supplementary and re-exam results on Univindia Net. Official guide to downloading back-paper marksheets for Bikaner university."; 
+$meta_keywords = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores";
+$meta_description = "Check your MGSU Bikaner supplementary and re-exam results on Univindia Net. Official guide to downloading back-paper marksheets for Bikaner university.";
+$meta_keywords = "Univindia Net MGSU Supplementary Result - Bikaner University Re-Exam Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU Supplementary Result: Your Guide to Bikaner University Re-Exam Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU Supplementary Result" is a critical search query for thousands of students at Maharaja Ganga Singh University (MGSU), Bikaner, who have appeared for their back-paper examinations. Maharaja Ganga Singh University provides this specialized "supplementary" chance to students who failed to pass in one or two subjects during their main annual examinations. The `univindia.net` portal is the official, authoritative platform where these critical re-exam scores are published. In this comprehensive guide, we will explore the significance of the MGSU Supplementary Result, provide a detailed walkthrough of how to check your revised marks, and explain the administrative importance of this second chance for students in Bikaner.</p>
 
@@ -56,6 +78,15 @@ $meta_keywords = "Univindia Net MGSU Supplementary Result - Bikaner University R
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For official MGSU supplementary results and authorized university news, please always rely on the official Maharaja Ganga Singh University websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

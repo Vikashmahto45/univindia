@@ -7,9 +7,27 @@ $meta_keywords = "india result 10th 2023 up board, check up board high school 20
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th 2023 UP Board - Official National Archive</div>
-    <h2 class='sr-title'>India Result 10th 2023 UP Board: Your Comprehensive Navigator to Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP), Prayagraj, High School (Class 10), Secondary School Certificate (SSC), and Uttar Pradesh State Board Result Gateways (Government of UP, Secondary Education Department, and National Informatics Centre (NIC) UP State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 10th 2023 UP Board - Official National Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 10th 2023 UP Board - Official National Archive"; 
+$meta_description = "Check India Result 10th 2023 UP Board online. Access the historical Uttar Pradesh High School results for the 2023 session. Official IndiaResults mirror link."; 
+$meta_keywords = "india result 10th 2023 up board, check up board high school 2023 online, upmsp 10th result 2023 link, official 2023 up board mirror, indiaresults up board 10th"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 10th 2023 UP Board - Official National Archive";
+$meta_description = "Check India Result 10th 2023 UP Board online. Access the historical Uttar Pradesh High School results for the 2023 session. Official IndiaResults mirror link.";
+$meta_keywords = "india result 10th 2023 up board, check up board high school 2023 online, upmsp 10th result 2023 link, official 2023 up board mirror, indiaresults up board 10th";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 10th 2023 up board, check up board high school 20
                 <a href="https://up.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official UP Mirror link" target="_blank">Access IndiaResults</a>
                 <a href="https://upresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official UP Results" target="_blank">Visit NIC Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 10th 2023 UP Board Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 10th 2023 up board, check up board high school 20
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 10th 2023 UP Board data, please visit the UPMSP headquarters in Prayagraj or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 10th 2023 UP Board Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 10th 2023 up board, check up board high school 20
         <br>
         <strong>3. Is the result from India Result 10th 2023 UP Board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result 10th 2023 UP Board" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

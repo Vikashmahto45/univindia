@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online"; 
 $meta_description = "Download SBI Admit Card. Get the direct link for SBI Junior Associate (Clerk) and Probationary Officer (PO) recruitment hall tickets at sbi.co.in/careers."; 
 $meta_keywords = "sbi admit card, state bank of india hall ticket download, sbi ja prelims admit card 2024, sbi po main admit card login, sbi.co.in careers call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online"; 
+$meta_description = "Download SBI Admit Card. Get the direct link for SBI Junior Associate (Clerk) and Probationary Officer (PO) recruitment hall tickets at sbi.co.in/careers."; 
+$meta_keywords = "sbi admit card, state bank of india hall ticket download, sbi ja prelims admit card 2024, sbi po main admit card login, sbi.co.in careers call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online";
+$meta_description = "Download SBI Admit Card. Get the direct link for SBI Junior Associate (Clerk) and Probationary Officer (PO) recruitment hall tickets at sbi.co.in/careers.";
+$meta_keywords = "sbi admit card, state bank of india hall ticket download, sbi ja prelims admit card 2024, sbi po main admit card login, sbi.co.in careers call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "sbi admit card, state bank of india hall ticket download, sbi 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Bank Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

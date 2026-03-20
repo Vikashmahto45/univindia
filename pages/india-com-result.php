@@ -7,9 +7,27 @@ $meta_keywords = "india com result, check board results online, official india.c
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india com result - Official National News & Result Portal</div>
-    <h2 class='sr-title'>india com result: Your Comprehensive Navigator to CBSE, ICSE, NIOS, and All-India State Board Result Gateways (Government of Rajasthan, Punjab, UP, Madhya Pradesh, Bihar, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india com result - Official National News & Result Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india com result - Official National News & Result Portal"; 
+$meta_description = "Check india com result online. Access the latest Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official news mirror."; 
+$meta_keywords = "india com result, check board results online, official india.com results link, 10th 12th result search portal, national news result mirror"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india com result - Official National News & Result Portal";
+$meta_description = "Check india com result online. Access the latest Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official news mirror.";
+$meta_keywords = "india com result, check board results online, official india.com results link, 10th 12th result search portal, national news result mirror";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india com result, check board results online, official india.c
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC National Results" target="_blank">Access National NIC HUB</a>
                 <a href="https://cbseresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Central Board Results" target="_blank">Visit CBSE Portal 2024</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india com result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india com result, check board results online, official india.c
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india com result data, please visit your respective board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About india com result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india com result, check board results online, official india.c
         <br>
         <strong>3. Is the result from india com result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "india com result" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 12th 2022 - Official National Education Archive</div>
-    <h2 class='sr-title'>India Result 12th 2022: Your Comprehensive Navigator to National and State Board Class 12th examination, Senior Secondary education, Intermediate Results, and Vocational Certification (Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), National Institute of Open Schooling (NIOS), and State Education Boards of Uttar Pradesh, Bihar, Rajasthan, Maharashtra, Punjab, Haryana, Tamil Nadu, Kerala, West Bengal, and Odisha) Result Gateways Across India</h2>
+    <h2 class='sr-title'>India Result 12th 2022 - Official National Education Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 12th 2022 - Official National Education Archive"; 
+$meta_description = "Check India Result 12th 2022 for all states and boards. Access the 2022 Class 12th board results, merit lists, and official marksheets online."; 
+$meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12 result india, official 12th marksheet online, cbse 12th result 2022, state board results 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 12th 2022 - Official National Education Archive";
+$meta_description = "Check India Result 12th 2022 for all states and boards. Access the 2022 Class 12th board results, merit lists, and official marksheets online.";
+$meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12 result india, official 12th marksheet online, cbse 12th result 2022, state board results 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12
                 <a href="http://biharboardonline.bihar.gov.in" class="btn" title="Bihar Board 2022" target="_blank">BSEB 12th Result 2022</a>
                 <a href="https://results.gov.in" class="btn" title="Main Government Hub" target="_blank">Results.nic.in Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download 2022 Marksheet" target="_blank">DigiLocker Marksheet 2022</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 12th 2022 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 12th 2022, 12th board result 2022, check class 12
         <br>
         <strong>3. Is the digital copy from India Result 12th 2022 valid for Jobs?</strong>
         <p>Yes, any digital copy verified via the official "India Result 12th 2022" portal or DigiLocker is an accepted record for initial document verification for government and private sector jobs in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

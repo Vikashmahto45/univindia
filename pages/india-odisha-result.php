@@ -7,9 +7,27 @@ $meta_keywords = "india odisha result, check odisha board results 2024 online, o
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india odisha result - Official Odisha Board Mirror</div>
-    <h2 class='sr-title'>india odisha result: Your Comprehensive Navigator to Board of Secondary Education (BSE), Council of Higher Secondary Education (CHSE), Odisha, Cuttack/Bhubaneswar, School Public Examinations (Class 10 & 12), and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india odisha result - Official Odisha Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india odisha result - Official Odisha Board Mirror"; 
+$meta_description = "Check india odisha result online. Access the results for BSE Odisha Class 10 and CHSE Odisha Class 12 for the 2024 session."; 
+$meta_keywords = "india odisha result, check odisha board results 2024 online, official bse odisha mirror link, odisharesults nic in index portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india odisha result - Official Odisha Board Mirror";
+$meta_description = "Check india odisha result online. Access the results for BSE Odisha Class 10 and CHSE Odisha Class 12 for the 2024 session.";
+$meta_keywords = "india odisha result, check odisha board results 2024 online, official bse odisha mirror link, odisharesults nic in index portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india odisha result, check odisha board results 2024 online, o
                 <a href="https://odisha.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Odisha Results Mirror" target="_blank">Access Odisha Mirror</a>
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSE Odisha Official" target="_blank">Visit BSE Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india odisha result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india odisha result, check odisha board results 2024 online, o
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india odisha result data, please visit the BSE/CHSE headquarters in Cuttack or Bhubaneswar or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Odisha IndiaResults Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india odisha result, check odisha board results 2024 online, o
         <br>
         <strong>3. Is the result from Odisha IndiaResults valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "india odisha result" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

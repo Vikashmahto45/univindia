@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RBSE - Board of Secondary Education Rajasthan Ajmer"; 
 $meta_description = "Check RBSE (Board of Secondary Education Rajasthan) official results for 10th and 12th. Access RBSE Ajmer portal, merit lists, and marksheet download links."; 
 $meta_keywords = "rbse, rbse ajmer, board of secondary education rajasthan, rbse 10th result, rbse 12th result, rajeduboard rajasthan gov in results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RBSE - Board of Secondary Education Rajasthan Ajmer</div>
+    <h2 class='sr-title'>RBSE - Board of Secondary Education Rajasthan Ajmer</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RBSE - Board of Secondary Education Rajasthan Ajmer"; 
+$meta_description = "Check RBSE (Board of Secondary Education Rajasthan) official results for 10th and 12th. Access RBSE Ajmer portal, merit lists, and marksheet download links."; 
+$meta_keywords = "rbse, rbse ajmer, board of secondary education rajasthan, rbse 10th result, rbse 12th result, rajeduboard rajasthan gov in results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "RBSE - Board of Secondary Education Rajasthan Ajmer";
+$meta_description = "Check RBSE (Board of Secondary Education Rajasthan) official results for 10th and 12th. Access RBSE Ajmer portal, merit lists, and marksheet download links.";
+$meta_keywords = "rbse, rbse ajmer, board of secondary education rajasthan, rbse 10th result, rbse 12th result, rajeduboard rajasthan gov in results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>RBSE: Your Definitive National Hub for Rajasthan Board Academic Success</h1>
+        
         
         <p>The academic term "RBSE" (Board of Secondary Education, Rajasthan) is the single most significant digital landmark for millions of students navigating the educationally progressive system of Rajasthan. Based in the historic city of Ajmer, RBSE is the primary architect for secondary and higher secondary education across the state. As the official home to over 20 lakh board examinees every year, the "RBSE" infrastructure is synonymous with academic achievement, regulatory transparency, and technical excellence. From the massive annual examinations of the 10th (Secondary) and 12th (Senior Secondary - Science, Commerce, Arts) streams to the specialized vocational and Praveshika scores, the phrase "RBSE" is the digital key that unlocks the professional aspirations of the nation's youth. For the 2024 and 2025 academic cycles, the Rajasthan Board has optimized its digital platforms to handle the complex results of its distributed network of government and private schools with maximum efficiency. At Univindia.online, we appreciate the paramount importance of these scores. We are dedicated to providing a high-quality, SEO-optimized national manual that simplifies your search for the "RBSE" updates, ensuring that every Rajasthan student can celebrate their academic victories without technical delay.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "rbse, rbse ajmer, board of secondary education rajasthan, rbse
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" title="RBSE Board Official Site" target="_blank">RBSE Ajmer Main</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" title="RBSE Result Name Wise search" target="_blank">IndiaResults Rajasthan</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified Marksheet" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About RBSE Board Results</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "rbse, rbse ajmer, board of secondary education rajasthan, rbse
         <br>
         <strong>3. Is the online provisional RBSE marksheet valid for college admission 2024?</strong>
         <p>Yes, the computer-generated "RBSE" result scorecard is accepted for initial online counseling and document verification across Indian colleges until the physical marksheet is provided by the Ajmer office.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

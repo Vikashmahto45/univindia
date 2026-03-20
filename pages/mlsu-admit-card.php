@@ -1,11 +1,26 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in"; 
 $meta_description = "Download MLSU Udaipur Admit Card 2024 for B.A, B.Sc, B.Com, B.Ed and PG Semester Exams. Get direct link for Mohanlal Sukhadia University Hall Ticket download."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in</div>
+    <h2 class='sr-title'>MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in"; 
+$meta_description = "Download MLSU Udaipur Admit Card 2024 for B.A, B.Sc, B.Com, B.Ed and PG Semester Exams. Get direct link for Mohanlal Sukhadia University Hall Ticket download."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +32,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
                 <div class="card-header bg-success text-white p-4">
-                    <h1 class="h3 fw-bold mb-0">MLSU Udaipur Admit Card 2024</h1>
+                    
                 </div>
                 <div class="card-body p-4">
                     <p class="lead">Mohanlal Sukhadia University (MLSU), Udaipur, is the primary higher education hub for the Mewar region of Rajasthan. The university conducts examination for thousands of students in Regular, Private, and Ex-student categories. The MLSU Admit Card is the crucial entry document for these semester and annual examinations.</p>
@@ -82,15 +97,13 @@ $meta_keywords = "";
                                 <i class="bi bi-file-earmark-pdf display-5 text-success mb-3"></i>
                                 <h6 class="fw-bold">MLSU Admit Card</h6>
                                 <p class="small mb-0">Original physical printout downloaded from MLSU portal.</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6">
                             <div class="p-3 border rounded-4 bg-success bg-opacity-10 text-center h-100 shadow-sm">
                                 <i class="bi bi-person-check-fill display-5 text-success mb-3"></i>
                                 <h6 class="fw-bold">Photo ID Proof</h6>
                                 <p class="small mb-0">Aadhar Card, Voter ID, or College Identity Card.</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark border-bottom pb-2">What to do in case of Mistakes?</h2>
@@ -109,14 +122,18 @@ $meta_keywords = "";
                         <div class="border-top border-secondary pt-2">
                             <h6 class="fw-bold">3. Is a B&W printout allowed?</h6>
                             <p class="small">Yes, a clear black and white printout is acceptable at all MLSU examination centers.</p>
-                        </div>
-                    </div>
+                        
 
                     <p class="mt-5 text-center text-muted small fst-italic">This website provides informational updates for Rajasthan students. For official Mohanlal Sukhadia University services, visit <strong>www.mlsu.ac.in</strong>.</p>
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

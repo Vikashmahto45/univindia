@@ -7,9 +7,27 @@ $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 b
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Class Result 2023 RBSE Name Wise - Official Rajasthan Board Archive</div>
-    <h2 class='sr-title'>10th Class Result 2023 RBSE Name Wise: Reclaiming Your Rajasthan Board Success</h2>
+    <h2 class='sr-title'>10th Class Result 2023 RBSE Name Wise - Official Rajasthan Board Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th Class Result 2023 RBSE Name Wise - Official Rajasthan Board Archive"; 
+$meta_description = "Check 10th Class Result 2023 RBSE Name Wise for official Rajasthan board secondary examinations. Access the 2023 archival results, merit lists, and name search links."; 
+$meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 by name, rajasthan board 10th result name wise 2023, rajresults.nic.in 10th 2023 name, indiaresults rbse 10th 2023"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th Class Result 2023 RBSE Name Wise - Official Rajasthan Board Archive";
+$meta_description = "Check 10th Class Result 2023 RBSE Name Wise for official Rajasthan board secondary examinations. Access the 2023 archival results, merit lists, and name search links.";
+$meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 by name, rajasthan board 10th result name wise 2023, rajresults.nic.in 10th 2023 name, indiaresults rbse 10th 2023";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 b
                 <a href="http://rajresults.nic.in" class="btn" title="Main Rajasthan Results NIC Site" target="_blank">Raj Results Official</a>
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" title="RBSE Board Official Site" target="_blank">RBSE Ajmer Main</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th Class Result 2023 RBSE Name Wise</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 b
         <br>
         <strong>3. Is the online provisional marksheet from the 2023 name-wise search valid for admission?</strong>
         <p>Yes, for the initial rounds of online school admission and counseling across Rajasthan, the computer-generated "10th Class Result 2023 RBSE Name Wise" scorecard is fully accepted as proof of your qualification until the original board certificate is provided by your school.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

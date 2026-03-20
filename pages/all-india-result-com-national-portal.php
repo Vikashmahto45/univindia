@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india result com - Official National Academic Portal Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>all india result com - Official National Academic Portal Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "all india result com - Official National Academic Portal Hub"; 
+$meta_description = "Check all india result com for all state and national boards. Access the official all India results gateway on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse All Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify all India board results by student name or roll number alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +88,7 @@ $meta_keywords = "";
                     the <strong>all india result com</strong> hub is essential for students to complete their
                     certificate verification and academic proof during university registration and document verification
                     processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -94,28 +100,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The <strong>all india result com</strong> hub includes results for almost every recognized
                             state board and national board (CBSE, ICSE, NIOS) across India.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are these results official for college admission?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             and central boards, ensuring all all-India result data is mirrored directly from official
                             board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I search for results by name for any state?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>all india result com</strong> portal includes a name-wise search for most
                             major boards and universities across different Indian states for various academic sessions.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

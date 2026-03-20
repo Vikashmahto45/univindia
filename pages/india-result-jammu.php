@@ -7,9 +7,27 @@ $meta_keywords = "india result jammu, check jkbose jammu result 2024, jammu divi
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Jammu - Official JKBOSE Jammu Division Result Hub</div>
-    <h2 class='sr-title'>India Result Jammu: Your Comprehensive Navigator to Jammu and Kashmir Board of School Education (JKBOSE) Jammu Division, Secondary School Certificate (Class 10), Higher Secondary Part II (Class 12), and Jammu State Board Result Gateways (Government of Jammu and Kashmir, School Education Department, and National Informatics Centre (NIC) J&K State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result Jammu - Official JKBOSE Jammu Division Result Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result Jammu - Official JKBOSE Jammu Division Result Hub"; 
+$meta_description = "Check India Result Jammu online. Access the J&K Board (JKBOSE) Jammu Division 10th and 12th results. Official search-by-name links for Jammu division exams 2024."; 
+$meta_keywords = "india result jammu, check jkbose jammu result 2024, jammu division board result link, jkbose.nic.in jammu results, official jkbose jammu portal, jkbose search by name jammu"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result Jammu - Official JKBOSE Jammu Division Result Hub";
+$meta_description = "Check India Result Jammu online. Access the J&K Board (JKBOSE) Jammu Division 10th and 12th results. Official search-by-name links for Jammu division exams 2024.";
+$meta_keywords = "india result jammu, check jkbose jammu result 2024, jammu division board result link, jkbose.nic.in jammu results, official jkbose jammu portal, jkbose search by name jammu";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result jammu, check jkbose jammu result 2024, jammu divi
                 <a href="http://jammu-kashmir.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults J&K Gateway" target="_blank">Search By Name (Jammu)</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result Jammu Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your Jammu board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result jammu, check jkbose jammu result 2024, jammu divi
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result Jammu, please visit the JKBOSE headquarters at Rehari Colony, Jammu or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Jammu Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result jammu, check jkbose jammu result 2024, jammu divi
         <br>
         <strong>3. Is the result from India Result Jammu valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result Jammu" portal) are the primary records for applying to the 'Post-Matric Scholarship' for students of the Jammu region.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

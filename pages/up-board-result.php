@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UP Board Result - Official Uttar Pradesh Board examination Hub"; 
 $meta_description = "Check UP Board Result online. Access the high-speed UP Board (UPMSP) 10th and 12th results. Official 2024 merit lists, subject marks, and grade cards."; 
 $meta_keywords = "up board result, check up board result online, upmsp 10th 12th result 2024, up board result nic in, official up board result link, upmsp news and results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP Board Result - Official Uttar Pradesh Board examination Hub</div>
+    <h2 class='sr-title'>UP Board Result - Official Uttar Pradesh Board examination Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UP Board Result - Official Uttar Pradesh Board examination Hub"; 
+$meta_description = "Check UP Board Result online. Access the high-speed UP Board (UPMSP) 10th and 12th results. Official 2024 merit lists, subject marks, and grade cards."; 
+$meta_keywords = "up board result, check up board result online, upmsp 10th 12th result 2024, up board result nic in, official up board result link, upmsp news and results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "UP Board Result - Official Uttar Pradesh Board examination Hub";
+$meta_description = "Check UP Board Result online. Access the high-speed UP Board (UPMSP) 10th and 12th results. Official 2024 merit lists, subject marks, and grade cards.";
+$meta_keywords = "up board result, check up board result online, upmsp 10th 12th result 2024, up board result nic in, official up board result link, upmsp news and results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>UP Board Result: Your Comprehensive Navigator to Board of High School and Intermediate Education Uttar Pradesh (UPMSP), Prayagraj, High School (Class 10), Intermediate (Class 12), and Uttar Pradesh State Board Result Gateways (Government of Uttar Pradesh, Secondary Education Department, and National Informatics Centre (NIC) UP State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "UP Board Result" (representing the single largest digital result-dissemination framework in the world, utilized by over 55 lakh students for the annual secondary and intermediate examinations conducted for the academic session by the UPMSP Prayagraj) represents the single most significant digital milestone for millions of students residing in the academic and industrial landscape of Uttar Pradesh. As the primary official gateway to the state's educational infrastructure (Prayagraj, UPMSP HQ), and the traditional school education infrastructure of the nation, the "UP Board Result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (High School and Inter) via dedicated government server endpoints and authorized mirror archives. For the current academic cycle, where high-quality digital governance and fastest evaluation are statewide priorities, the "UP Board Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Uttar Pradesh education councils have implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "UP Board Result," ensuring that every aspiring student and researcher in UP can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "up board result, check up board result online, upmsp 10th 12th
                 <a href="https://upmsp.edu.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="UPMSP Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official UP Board Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "up board result, check up board result online, upmsp 10th 12th
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to UP Board Result, please visit the UPMSP headquarters in Prayagraj or your respective school principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About UP Board Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "up board result, check up board result online, upmsp 10th 12th
         <br>
         <strong>3. Is the result from UP Board Result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "UP Board Result" portal) are the primary records for applying to the 'UP Scholarship' and other central schemes in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

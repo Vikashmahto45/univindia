@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www-pseb-ac-in 10th result 2023 - Official Punjab Secondary 2023 Archive"; 
 $meta_description = "Check www-pseb-ac-in 10th result 2023 for Matric exams. Access the official 2023 Punjab School Education Board (PSEB) archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www-pseb-ac-in 10th result 2023 - Official Punjab Secondary 2023 Archive</div>
+    <h2 class='sr-title'>www-pseb-ac-in 10th result 2023 - Official Punjab Secondary 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www-pseb-ac-in 10th result 2023 - Official Punjab Secondary 2023 Archive"; 
+$meta_description = "Check www-pseb-ac-in 10th result 2023 for Matric exams. Access the official 2023 Punjab School Education Board (PSEB) archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Punjab Class 10th
                 (Matriculation). Official PSEB Mohali mirrors for the official results portal updated for the 2023 batch
                 verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify PSEB Class 10 results 2023 by student name alternative criteria for the 2023 session
                         archive.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +98,7 @@ $meta_keywords = "";
                     <strong>www-pseb-ac-in 10th result 2023</strong> archive hub is essential for students to complete
                     their academic verification and proof of educational achievement during school-level transition and
                     registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,26 +112,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>www-pseb-ac-in 10th result 2023</strong> are permanently
                             archived on verified platforms like <strong>indiaresults.com</strong> for archival and
                             academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 Punjab 10th result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>www-pseb-ac-in 10th result 2023</strong> portal includes a dedicated
                             name-wise search for major state board examinees in Punjab for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet official for admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>www-pseb-ac-in 10th result 2023</strong>
                             archive is a valid provisional document accepted for initial school or college registration
                             and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

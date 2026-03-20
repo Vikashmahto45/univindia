@@ -1,14 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresults com punjab - Official PSEB Result Mirror Hub"; 
 $meta_description = "Check indiaresults com punjab for PSEB 10th and 12th results. Access the official Punjab board result mirror on indiaresults.com for fast result checking."; 
 $meta_keywords = "indiaresults com punjab, pseb 10th result indiaresults, pseb 12th result indiaresults, Punjab board result online, indiaresults punjab portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresults com punjab - Official PSEB Result Mirror Hub</div>
+    <h2 class='sr-title'>indiaresults com punjab - Official PSEB Result Mirror Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresults com punjab - Official PSEB Result Mirror Hub"; 
+$meta_description = "Check indiaresults com punjab for PSEB 10th and 12th results. Access the official Punjab board result mirror on indiaresults.com for fast result checking."; 
+$meta_keywords = "indiaresults com punjab, pseb 10th result indiaresults, pseb 12th result indiaresults, Punjab board result online, indiaresults punjab portal"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "indiaresults com punjab - Official PSEB Result Mirror Hub";
+$meta_description = "Check indiaresults com punjab for PSEB 10th and 12th results. Access the official Punjab board result mirror on indiaresults.com for fast result checking.";
+$meta_keywords = "indiaresults com punjab, pseb 10th result indiaresults, pseb 12th result indiaresults, Punjab board result online, indiaresults punjab portal";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
-        <h1>indiaresults com punjab: Your Authoritative Navigator to Punjab School Education Board (PSEB) Mohali, Middle
-            School Councils, and National Informatics Centre (NIC) Result Gateways Across Punjab</h1>
+        
 
         <p>The "indiaresults com punjab" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for the annual Punjab Board examinations conducted by PSEB) serves as the
@@ -62,8 +83,7 @@ $meta_keywords = "indiaresults com punjab, pseb 10th result indiaresults, pseb 1
                 <a href="https://indiaresults.com" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="All India Results" target="_blank">Search India-Wide HUB</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official indiaresults com punjab Online</h2>
         <p>To ensure a successful result search in the Punjab records, follow these technical steps:</p>
@@ -100,7 +120,7 @@ $meta_keywords = "indiaresults com punjab, pseb 10th result indiaresults, pseb 1
                 final database changes related to indiaresults com punjab data, please visit the PSEB Board headquarters
                 in Mohali or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About IndiaResults Com Punjab</h2>
@@ -116,7 +136,15 @@ $meta_keywords = "indiaresults com punjab, pseb 10th result indiaresults, pseb 1
         <strong>3. Is the result displayed here the final marksheet?</strong>
         <p>The information on "indiaresults com punjab" is an official digital output. However, for permanent use, you
             must collect the original marksheet from your school or use DigiLocker.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

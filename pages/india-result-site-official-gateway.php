@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result site - Official National Examination Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result site - Official National Examination Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result site - Official National Examination Hub"; 
+$meta_description = "Check india result site for all state boards and university exams. Access the official examination result portal and live updates on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Result Site</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -41,8 +49,7 @@ $meta_keywords = "";
                     <p>Verify national board results on the official india result site by student name alternative
                         criteria for major boards across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -88,8 +95,7 @@ $meta_keywords = "";
                     for all major boards. Having a verified digital result from the <strong>india result site</strong>
                     hub is essential for students to complete their academic verification and proof of educational
                     achievement during transition and registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,27 +108,26 @@ $meta_keywords = "";
                         <p>Dates vary by state board and university. The <strong>india result site</strong> portal on
                             <strong>indiaresults</strong> provides real-time notifications as soon as official data is
                             released.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results by name search only on this site?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Most participating state boards on the <strong>india result site</strong> hub
                             support a dedicated name-wise results search for students.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet official for admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>india result site</strong> gateway is a
                             valid provisional document accepted for initial school or college registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

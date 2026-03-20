@@ -7,9 +7,27 @@ $meta_keywords = "8 class result 2022, check 8th result 2022 online, official cl
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8 class result 2022 - Official National Mirror Archives</div>
-    <h2 class='sr-title'>8 class result 2022: Your Comprehensive Navigator to National Middle School Councils, State Education Boards (Punjab, Rajasthan, Haryana), and All India 8th Standard Result Gateways (Government of India, School Education Department, and National Informatics Centre (NIC) National Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>8 class result 2022 - Official National Mirror Archives</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "8 class result 2022 - Official National Mirror Archives"; 
+$meta_description = "Check 8 class result 2022 online. Access the historical results for Class 8 from Punjab (PSEB), Rajasthan (RBSE), and other major boards for the 2022 session."; 
+$meta_keywords = "8 class result 2022, check 8th result 2022 online, official class 8 mirror link, pseb 8th 2022, rbse 8th 2022 results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "8 class result 2022 - Official National Mirror Archives";
+$meta_description = "Check 8 class result 2022 online. Access the historical results for Class 8 from Punjab (PSEB), Rajasthan (RBSE), and other major boards for the 2022 session.";
+$meta_keywords = "8 class result 2022, check 8th result 2022 online, official class 8 mirror link, pseb 8th 2022, rbse 8th 2022 results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "8 class result 2022, check 8th result 2022 online, official cl
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Rajasthan 8th 2022" target="_blank">Rajasthan (RBSE) 8th Link</a>
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC National HUB" target="_blank">National Result HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 8 class result 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "8 class result 2022, check 8th result 2022 online, official cl
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 8 class result 2022 data, please visit the respective board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Class 8 2022 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "8 class result 2022, check 8th result 2022 online, official cl
         <br>
         <strong>3. Is the result from the 2022 portal valid for scholarships?</strong>
         <p>Yes, your results (verified via the official "8 class result 2022" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

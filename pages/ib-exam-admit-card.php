@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IB Exam Admit Card 2024: Intelligence Bureau ACIO & SA Hall Ticket</div>
-    <h2 class='sr-title'>IB Exam Admit Card 2024</h2>
+    <h2 class='sr-title'>IB Exam Admit Card 2024: Intelligence Bureau ACIO & SA Hall Ticket</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "IB Exam Admit Card 2024: Intelligence Bureau ACIO & SA Hall Ticket"; 
+$meta_description = "Download Intelligence Bureau (IB) Exam Admit Card for ACIO, Security Assistant, and MTS. Get direct link to MHA official portal for IB Hall Ticket download."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
@@ -32,15 +43,13 @@ $meta_keywords = "";
                                 <h3 class="fw-bold text-primary">IB ACIO Admit Card</h3>
                                 <p>Download hall tickets for Assistant Central Intelligence Officer Grade-II/ Executive posts.</p>
                                 <a href="#" class="btn btn-outline-primary px-4 rounded-pill">Download Link</a>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6">
                             <div class="h-100 p-4 bg-light border rounded-4 text-center">
                                 <h3 class="fw-bold text-primary">IB SA & MTS Admit Card</h3>
                                 <p>Get admit cards for Security Assistant and Multi-Tasking Staff examinations.</p>
                                 <a href="#" class="btn btn-outline-primary px-4 rounded-pill">Download Link</a>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark">Importance of the IB Hall Ticket</h2>
@@ -124,8 +133,7 @@ $meta_keywords = "";
                             </div>
                             <div class="col-md-4 text-center mt-3 mt-md-0">
                                 <i class="bi bi-shield-check text-success display-1"></i>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark">Intelligence Bureau Exam Center Guidelines</h2>
@@ -149,16 +157,17 @@ $meta_keywords = "";
                             <div class="col-md-6">
                                 <h6 class="fw-bold text-info">Q4: The MHA website is not opening. What to do?</h6>
                                 <p class="small mb-0">During admit card releases, traffic can be high. Try after a few hours or use a different browser/incognito mode.</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <p class="mt-5 text-muted fst-italic text-center"><strong>Note:</strong> We are not associated with the Ministry of Home Affairs or the Intelligence Bureau. Please visit mha.gov.in for official updates.</p>
-                </div>
-            </div>
-        </div>
-    </div>
+                
+        
+
 </div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

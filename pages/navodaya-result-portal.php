@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "navodaya result - Official JNVST Portal"; 
 $meta_description = "Check navodaya result online for JNVST Class 6 and Class 9. Access the official NVS portal for selection list, cutoff, and results."; 
 $meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 result, nvs selection list, navodaya class 9 results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; navodaya result - Official JNVST Portal</div>
+    <h2 class='sr-title'>navodaya result - Official JNVST Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "navodaya result - Official JNVST Portal"; 
+$meta_description = "Check navodaya result online for JNVST Class 6 and Class 9. Access the official NVS portal for selection list, cutoff, and results."; 
+$meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 result, nvs selection list, navodaya class 9 results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "navodaya result - Official JNVST Portal";
+$meta_description = "Check navodaya result online for JNVST Class 6 and Class 9. Access the official NVS portal for selection list, cutoff, and results.";
+$meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 result, nvs selection list, navodaya class 9 results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>navodaya result: Your Comprehensive Navigator to Jawahar Navodaya Vidyalaya Selection Test (JNVST), NVS Admission Portal (Class 6 & 9), and National Informatics Centre (NIC) Result Gateways Across India</h1>
+        
         
         <p>The "navodaya result" (representing the primary synchronized digital result-distribution network utilized by over 25 lakh students for the annual entrance examinations conducted by the Navodaya Vidyalaya Samiti (NVS) across India) serves as a critical gateway to premium residential education. As the primary official gateway to the nation's rural talent-oriented educational infrastructure (Noida HQ), the "navodaya result" provides the formal academic master directory that allows candidates to access their selection status, waitlist details, and final marks via dedicated high-concurrency server endpoints like `navodaya.gov.in` and `cbseitms.nic.in`. For the current admission cycle, which observed a massive digital transformation in secure selection processing and instant list publication across all states, the "navodaya result" search remains the definitive digital tool for verifying academic potential. The NVS education authorities implemented state-of-the-art 'Automatic Merit Indexing' systems to ensure that the selection lists (including region-wise stats, category-wise cutoff, and qualifying status for rural and urban seats) were served with maximum transparency. At Univindia.online, we prioritize specialized navigation for parents and students. We are dedicated to providing a premium, SEO-optimized national portal that centralizes the "navodaya result," ensuring that every aspirant from Kerala to Kashmir can access their results without technical delay.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 res
                 <a href="https://cbseitms.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="JNVST Result Link" target="_blank">Check Selection List</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Result Portal" target="_blank">Access National Portal</a>
                 <a href="https://www.nvsadmissionclasssix.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Class 6 Admission" target="_blank">Visit Class 6 Portal</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official navodaya result Online</h2>
         <p>To ensure a successful result search in the Navodaya selection records, follow these technical steps:</p>
@@ -46,7 +67,7 @@ $meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 res
 
         <p><i>Note: Univindia.online is an educational news portal. For original admission letters, migration documents, and final database changes related to navodaya result data, please visit the NVS headquarters or the Principal of the respective JNV.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Navodaya Results</h2>
@@ -59,7 +80,15 @@ $meta_keywords = "navodaya result, jnvst result 2024, check navodaya class 6 res
         <br>
         <strong>3. Is the result from the NVS portal final?</strong>
         <p>The online "navodaya result" is provisional. Selection is confirmed only after fulfilling the medical and document verification criteria at the school level.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

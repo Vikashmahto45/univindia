@@ -7,9 +7,27 @@ $meta_keywords = "ap 10th class results 2022, check andhra pradesh board ssc res
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; AP 10th Class Results 2022 - Official Andhra Pradesh Portal</div>
-    <h2 class='sr-title'>AP 10th Class Results 2022: Your Comprehensive Navigator to Board of Secondary Education, Andhra Pradesh (BSEAP), Vijayawada, Secondary School Certificate (SSC) Examination (Class 10), and Andhra Pradesh State Board Result Gateways (Government of Andhra Pradesh, School Education Department, and National Informatics Centre (NIC) AP State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>AP 10th Class Results 2022 - Official Andhra Pradesh Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "AP 10th Class Results 2022 - Official Andhra Pradesh Portal"; 
+$meta_description = "Check AP 10th Class Results 2022 online. Access the historical Andhra Pradesh Board (BSEAP) Secondary School Certificate (SSC) results for the 2022 session."; 
+$meta_keywords = "ap 10th class results 2022, check andhra pradesh board ssc result 2022 online, official bseap 10th 2022 link, bse.ap.gov.in 2022 portal, manabadi ap 10th 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "AP 10th Class Results 2022 - Official Andhra Pradesh Portal";
+$meta_description = "Check AP 10th Class Results 2022 online. Access the historical Andhra Pradesh Board (BSEAP) Secondary School Certificate (SSC) results for the 2022 session.";
+$meta_keywords = "ap 10th class results 2022, check andhra pradesh board ssc result 2022 online, official bseap 10th 2022 link, bse.ap.gov.in 2022 portal, manabadi ap 10th 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "ap 10th class results 2022, check andhra pradesh board ssc res
                 <a href="https://rtgs.ap.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="AP Results RTGS" target="_blank">Access AP Results Hub</a>
                 <a href="https://andhra-pradesh.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Andhra Pradesh Name site" target="_blank">Visit 2022 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official AP 10th Class Results 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "ap 10th class results 2022, check andhra pradesh board ssc res
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to AP 10th Class Results 2022 data, please visit the BSEAP headquarters in Vijayawada or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About AP 10th Class Results 2022 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "ap 10th class results 2022, check andhra pradesh board ssc res
         <br>
         <strong>3. Is the result from AP 10th Class Results 2022 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "AP 10th Class Results 2022" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

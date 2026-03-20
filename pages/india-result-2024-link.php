@@ -7,9 +7,27 @@ $meta_keywords = "india result 2024 link, check india results 2024 link, all boa
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 2024 Link - Official Multi-Board Examination Gateway</div>
-    <h2 class='sr-title'>India Result 2024 Link: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), Class 12 (Intermediate), and Higher Secondary Result Gateways (Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and National Informatics Centre (NIC) Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 2024 Link - Official Multi-Board Examination Gateway</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 2024 Link - Official Multi-Board Examination Gateway"; 
+$meta_description = "Check India Result 2024 Link online. Access the direct result links for CBSE, ICSE, and all Indian state boards for the 10th and 12th sessions in 2024."; 
+$meta_keywords = "india result 2024 link, check india results 2024 link, all board results 2024 link, results.gov.in 2024, check secondary result link 2024, official india result gateway"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 2024 Link - Official Multi-Board Examination Gateway";
+$meta_description = "Check India Result 2024 Link online. Access the direct result links for CBSE, ICSE, and all Indian state boards for the 10th and 12th sessions in 2024.";
+$meta_keywords = "india result 2024 link, check india results 2024 link, all board results 2024 link, results.gov.in 2024, check secondary result link 2024, official india result gateway";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 2024 link, check india results 2024 link, all boa
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC Result Hub" target="_blank">Official NIC Results</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Download Digital Marksheet</a>
                 <a href="http://indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="State Results Archive" target="_blank">State Board Archives</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 2024 Link Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your respective board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 2024 link, check india results 2024 link, all boa
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 2024 Link, please visit the respective Board's regional office or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 2024 Link Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 2024 link, check india results 2024 link, all boa
         <br>
         <strong>3. Is the result from India Result 2024 Link valid for Scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result 2024 Link" portal or DigiLocker) are the accepted records for applying to state and central merit-based scholarships in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

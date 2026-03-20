@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Related Www Univindia Net MainPage PHP MGSU - Bikaner University Entry"; 
 $meta_description = "Access the official MGSU Bikaner main page via Univindia Net. Guide to navigating mainpage.php on the Maharaja Ganga Singh University exam portal."; 
 $meta_keywords = "Related Www Univindia Net MainPage PHP MGSU - Bikaner University Entry"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Related Www Univindia Net MainPage PHP MGSU - Bikaner University Entry</div>
+    <h2 class='sr-title'>Related Www Univindia Net MainPage PHP MGSU - Bikaner University Entry</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Related Www Univindia Net MainPage PHP MGSU - Bikaner University Entry"; 
+$meta_description = "Access the official MGSU Bikaner main page via Univindia Net. Guide to navigating mainpage.php on the Maharaja Ganga Singh University exam portal."; 
+$meta_keywords = "Related Www Univindia Net MainPage PHP MGSU - Bikaner University Entry"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Related Www Univindia Net MainPage PHP MGSU - Bikaner University Entry";
+$meta_description = "Access the official MGSU Bikaner main page via Univindia Net. Guide to navigating mainpage.php on the Maharaja Ganga Singh University exam portal.";
+$meta_keywords = "Related Www Univindia Net MainPage PHP MGSU - Bikaner University Entry";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Related Www Univindia Net MainPage PHP MGSU: Accessing the Bikaner University Gateway</h1>
+        
         
         <p>The term "Related Www Univindia Net MainPage PHP MGSU" refers to the core entry point of the Maharaja Ganga Singh University (MGSU), Bikaner's specialized examination portal—`univindia.net`. Within this robust digital infrastructure, the `mainpage.php` script serves as the centralized mission control for hundreds of thousands of undergraduate and postgraduate students across Northern Rajasthan. Whether you are a student in Bikaner, Churu, Sriganganagar, or Hanumangarh, this specific technical gateway is the starting point for all administrative tasks, including examination form submissions, admit card retrievals, and final result checks. In this comprehensive guide, we will provide a detailed exploration of the `mainpage.php` infrastructure, explain how to navigate its various functionally distinct sections for MGSU students, and offer expert advice on ensuring a seamless and secure digital experience at Bikaner's leading academic institution.</p>
 
@@ -53,6 +75,15 @@ $meta_keywords = "Related Www Univindia Net MainPage PHP MGSU - Bikaner Universi
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

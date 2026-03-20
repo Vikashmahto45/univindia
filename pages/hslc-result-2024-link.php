@@ -7,9 +7,27 @@ $meta_keywords = "hslc result 2024, check hslc board result 2024 online, seba hs
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSLC Result 2024 - Official North East Board Gateway</div>
-    <h2 class='sr-title'>HSLC Result 2024: Your Comprehensive Navigator to Board of Secondary Education, Assam (SEBA), Board of Secondary Education, Manipur (BSEM), Nagaland Board of School Education (NBSE), High School Leaving Certificate (HSLC), Secondary (Class 10), and All-India State Board Result Gateways (Government of Assam, Manipur, Nagaland, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>HSLC Result 2024 - Official North East Board Gateway</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "HSLC Result 2024 - Official North East Board Gateway"; 
+$meta_description = "Check HSLC Result 2024 online. Access the high-speed links for SEBA Assam, Manipur, and Nagaland HSLC results. Official HSLC 2024 result mirror link."; 
+$meta_keywords = "hslc result 2024, check hslc board result 2024 online, seba hslc 2024 link, bsem manipur hslc 2024 link, official hslc result gateway"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "HSLC Result 2024 - Official North East Board Gateway";
+$meta_description = "Check HSLC Result 2024 online. Access the high-speed links for SEBA Assam, Manipur, and Nagaland HSLC results. Official HSLC 2024 result mirror link.";
+$meta_keywords = "hslc result 2024, check hslc board result 2024 online, seba hslc 2024 link, bsem manipur hslc 2024 link, official hslc result gateway";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "hslc result 2024, check hslc board result 2024 online, seba hs
                 <a href="http://manresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Manipur Portal" target="_blank">Access Manipur Hub</a>
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults" target="_blank">Visit Mirror Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official HSLC Result 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "hslc result 2024, check hslc board result 2024 online, seba hs
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to HSLC Result 2024 data, please visit the respective Board/NIC headquarters or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About HSLC Result 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "hslc result 2024, check hslc board result 2024 online, seba hs
         <br>
         <strong>3. Is the result from HSLC Result 2024 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "HSLC Result 2024" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

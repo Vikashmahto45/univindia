@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in";
+$page_description = "SSC GD Constable Admit Card 2024 Region-wise Download. Get direct links for NR, CR, WR, SR, ER, KKR, NER, MPR, and NWR. Physical test and Medical exam hall ticket status.";
+$page_keywords = "SSC GD Constable Admit Card 2024, SSC GD Region-wise Hall Ticket, Download SSC GD 2024 Admit Card CR NR WR, ssc.gov.in gd admit card 2024 region wise";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">SSC GD Constable Admit Card 2024: <span class="text-warning">Region-wise Links</span></h1>
+            
             
             <div class="alert alert-warning border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Region Update:</h4>
                         <p class="mb-0">The Staff Selection Commission has activated the <strong>SSC GD 2024 Admit Card</strong> links for all regions including Central (CR), Northern (NR), and Western (WR). Access your regional portal below for direct download.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -83,22 +105,19 @@ $meta_keywords = "";
                                     <h5 class="text-white mb-3">CR Region</h5>
                                     <p class="small text-white-50">Uttar Pradesh & Bihar candidates can download here.</p>
                                     <a href="http://www.ssc-cr.org" class="btn btn-warning btn-sm w-100 fw-bold">Download Admit Card</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-gradient-dark border border-secondary rounded-4 text-center hover-glow shadow-sm h-100">
                                     <h5 class="text-white mb-3">NR Region</h5>
                                     <p class="small text-white-50">Rajasthan, Delhi, Uttarakhand region portal.</p>
                                     <a href="https://sscnr.nic.in" class="btn btn-warning btn-sm w-100 fw-bold">Download Admit Card</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-gradient-dark border border-secondary rounded-4 text-center hover-glow shadow-sm h-100">
                                     <h5 class="text-white mb-3">WR Region</h5>
                                     <p class="small text-white-50">Maharashtra, Gujarat, Goa, Daman & Diu.</p>
                                     <a href="http://www.sscwr.net" class="btn btn-warning btn-sm w-100 fw-bold">Download Admit Card</a>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">How to Access Regional SSC GD Admit Card 2024?</h2>
@@ -131,14 +150,12 @@ $meta_keywords = "";
                                 <div class="p-4 bg-dark border border-secondary rounded-4 h-100">
                                     <h6 class="text-warning"><i class="fas fa-id-card-alt me-2"></i> Original ID Proof</h6>
                                     <p class="small m-0 text-white-50">Carry Aadhar Card, PAN Card, Voter ID, or Driving License. Make sure it has a clear photo and your real DOB.</p>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-6">
                                 <div class="p-4 bg-dark border border-secondary rounded-4 h-100">
                                     <h6 class="text-warning"><i class="fas fa-image me-2"></i> Passport Photographs</h6>
                                     <p class="small m-0 text-white-50">Bring at least two recent passport-sized color photos. Identical to application photos is preferred.</p>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Frequently Asked Questions (FAQs)</h2>
@@ -152,8 +169,7 @@ $meta_keywords = "";
                                 <div id="rg1" class="accordion-collapse collapse" data-bs-parent="#gdRegionFaq">
                                     <div class="accordion-body text-white-50">
                                         First, check if your application was accepted. If accepted, ensure you are checking the correct region based on your choice of examination centers.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white">
                                 <h3 class="accordion-header">
@@ -164,14 +180,11 @@ $meta_keywords = "";
                                 <div id="rg2" class="accordion-collapse collapse" data-bs-parent="#gdRegionFaq">
                                     <div class="accordion-body text-white-50">
                                         Yes, candidates who qualify for the Computer Based Exam will receive a separate admit card for the Physical Efficiency Test and Physical Standard Test.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- Interlinking Table -->
             <div class="bg-dark p-5 rounded-4 border border-secondary shadow-lg mt-5">
@@ -188,12 +201,10 @@ $meta_keywords = "";
                     </div>
                     <div class="col-md-3">
                         <a href="rpf-constable-admit-card-2024.php" class="d-block p-3 bg-secondary rounded-4 text-warning text-decoration-none text-center transform-hover">RPF Constable Card</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </div>
-</main>
+
 
 <style>
 .bg-gradient-dark {
@@ -220,3 +231,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,11 +7,27 @@ $meta_keywords = "india result 12th 2021 bihar board, bseb 12th result 2021, bih
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12th 2021 bihar board - Official BSEB Archive</div>
-    <h2 class='sr-title'>india result 12th 2021 bihar board: Your Authoritative Navigator to Bihar School Examination Board (BSEB)
-            Patna, Intermediate Senior Secondary Councils, and National Informatics Centre (NIC) Result Gateways for the
-            2021 Archive</h2>
+    <h2 class='sr-title'>india result 12th 2021 bihar board - Official BSEB Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 12th 2021 bihar board - Official BSEB Archive"; 
+$meta_description = "Check india result 12th 2021 bihar board for Intermediate Arts, Science, and Commerce. Access the official Bihar Board 2021 result mirror for the 12th batch."; 
+$meta_keywords = "india result 12th 2021 bihar board, bseb 12th result 2021, bihar board intermediate result 2021 indiaresults, 2021 bseb mirror"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result 12th 2021 bihar board - Official BSEB Archive";
+$meta_description = "Check india result 12th 2021 bihar board for Intermediate Arts, Science, and Commerce. Access the official Bihar Board 2021 result mirror for the 12th batch.";
+$meta_keywords = "india result 12th 2021 bihar board, bseb 12th result 2021, bihar board intermediate result 2021 indiaresults, 2021 bseb mirror";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -70,8 +86,7 @@ $meta_keywords = "india result 12th 2021 bihar board, bseb 12th result 2021, bih
                 <a href="https://indiaresults.com" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="All India Mirror" target="_blank">Search India-Wide HUB</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 12th 2021 bihar board Online</h2>
         <p>To ensure a successful result search in the Bihar records, follow these technical steps:</p>
@@ -108,7 +123,7 @@ $meta_keywords = "india result 12th 2021 bihar board, bseb 12th result 2021, bih
                 final database changes related to india result 12th 2021 bihar board data, please visit the BSEB
                 headquarters in Patna or your Intermediate College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Bihar 12th 2021 Result</h2>
@@ -124,8 +139,13 @@ $meta_keywords = "india result 12th 2021 bihar board, bseb 12th result 2021, bih
         <strong>3. Can I get a duplicate 2021 marksheet from the website?</strong>
         <p>The website provides an online copy for the "india result 12th 2021 bihar board". For a formal duplicate
             marksheet with a hologram, you must apply at the BSEB Regional Office or Main Office in Patna.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

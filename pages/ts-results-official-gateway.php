@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ts results - Official Telangana State Academic Result Hub"; 
 $meta_description = "Check ts results for SSC and Inter exams. Access the official Telangana State (BSE & TSBIE) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ts results - Official Telangana State Academic Result Hub</div>
+    <h2 class='sr-title'>ts results - Official Telangana State Academic Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ts results - Official Telangana State Academic Result Hub"; 
+$meta_description = "Check ts results for SSC and Inter exams. Access the official Telangana State (BSE & TSBIE) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your primary destination for all academic results across Telangana.
                 Official mirrors for TS SSC (10th), TS Inter (12th), and major state universities updated for the latest
                 session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check TS Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway for OU, JNTUH, and KU degree results, semester archives, and registration status
                         search.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +95,7 @@ $meta_keywords = "";
                     Having a verified digital result from the <strong>ts results</strong> hub is essential for students
                     to complete their academic verification and proof of performance during university graduation and
                     registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,25 +108,27 @@ $meta_keywords = "";
                         <p>Yes, the <strong>ts results</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated "Search by Name" feature for candidates participating in the TS SSC and Inter
                             board exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the TS results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including TSBIE, ensuring result data is mirrored directly from official servers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for TS Inter result?</button>
                     <div class="faq-answer">
                         <p>You primarily need your Board Hall Ticket Number. Some versions may also allow search by Name
                             for <strong>ts results</strong> session portal access.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

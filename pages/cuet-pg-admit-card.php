@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in</div>
-    <h2 class='sr-title'>CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket</h2>
+    <h2 class='sr-title'>CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in";
+$page_description = "Download CUET PG Admit Card 2025 for Postgraduate Entrance Exam. Get direct link for NTA CUET PG Hall Ticket, Exam Schedule, and City Intimation Slip. 800+ words guide.";
+$page_keywords = "CUET PG Admit Card 2025, NTA CUET PG Hall Ticket Download, CUET PG 2025 Call Letter Link, pgcuet.samarth.ac.in login, CUET PG Exam City Status";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -87,14 +106,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-print me-2"></i> High-Quality Printout</h5>
                             <p class="small text-light-gray mb-0">Carry a clear printout of the <strong>CUET PG Call Letter</strong>. If the photo is blurred, the NTA verification system may flag your entry.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-fingerprint me-2"></i> Original Photo ID Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card with a clear photo is the preferred ID. Alternatively, use a Passport or Voter ID. No photocopies or scans allowed.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">CUET PG FAQ: Candidate Solutions</h2>
@@ -108,8 +125,7 @@ $meta_keywords = "";
                         <div id="pqQ1" class="accordion-collapse collapse" data-bs-parent="#pgFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, the <strong>CUET PG 2025 Admit Card</strong> download link remains active on the Samarth portal until the day of your examination.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -120,10 +136,8 @@ $meta_keywords = "";
                         <div id="pqQ2" class="accordion-collapse collapse" data-bs-parent="#pgFaq">
                             <div class="accordion-body text-light-gray">
                                 Immediately email <strong>cuet-pg@nta.ac.in</strong> with your application number and the correct course details. NTA usually corrects such errors by issuing a revised <strong>CUET PG Hall Ticket</strong> within 48 hours.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> PG Academic Links</h5>
@@ -131,14 +145,14 @@ $meta_keywords = "";
                         <a href="cuet-admit-card.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">CUET UG Link</a>
                         <a href="ugc-net-admit-card-2024.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">UGC NET Card</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Top University PG Portals</h3>
                 <div class="row g-3">
+                    <?php
                     $pg_univ = [
                         'jnu-pg-admit-card.php' => 'JNU PG Admit Card',
                         'bhu-pg-admit-card.php' => 'BHU Postgrad Hall Ticket',
@@ -152,11 +166,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -184,6 +197,12 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

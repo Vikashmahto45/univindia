@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; board of secondary education odisha result 2023 - Official Odisha Secondary Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>board of secondary education odisha result 2023 - Official Odisha Secondary Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "board of secondary education odisha result 2023 - Official Odisha Secondary Archive"; 
+$meta_description = "Check board of secondary education odisha result 2023 for HSC examinations. Access the official 2023 Odisha (BSE) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2023 Odisha board results by student name alternative criteria.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +91,7 @@ $meta_keywords = "";
                         education odisha result 2023</strong> archive hub is essential for students to complete their
                     academic verification and proof of performance during school-level transition and registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,28 +105,27 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>board of secondary education odisha result 2023</strong> are
                             permanently archived on verified platforms like <strong>indiaresults.com</strong> for
                             archival and academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 Odisha result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>board of secondary education odisha result 2023</strong> portal
                             includes a dedicated name-wise search for the BSE Odisha HSC examinees of the 2023 session.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for HS (+2) admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>board of secondary education odisha result
                                 2023</strong> archive is a valid provisional document accepted for initial secondary
                             school registration and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

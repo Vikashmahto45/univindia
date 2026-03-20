@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UGC NET Admit Card 2023 Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download UGC NET Admit Card 2023. Get the direct link for NTA UGC National Eligibility Test (NET) June/December session hall tickets at ugcnet.nta.nic.in."; 
 $meta_keywords = "ugc net admit card 2023, nta net hall ticket download, ugcnet.nta.nic.in admit card login, net exam hall ticket 2023, ugc net june 2023 admit card"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UGC NET Admit Card 2023 Download - NTA National Eligibility Test Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>UGC NET Admit Card 2023 Download - NTA National Eligibility Test Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UGC NET Admit Card 2023 Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download UGC NET Admit Card 2023. Get the direct link for NTA UGC National Eligibility Test (NET) June/December session hall tickets at ugcnet.nta.nic.in."; 
+$meta_keywords = "ugc net admit card 2023, nta net hall ticket download, ugcnet.nta.nic.in admit card login, net exam hall ticket 2023, ugc net june 2023 admit card"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "UGC NET Admit Card 2023 Download - NTA National Eligibility Test Hall Ticket | Univindia.online";
+$meta_description = "Download UGC NET Admit Card 2023. Get the direct link for NTA UGC National Eligibility Test (NET) June/December session hall tickets at ugcnet.nta.nic.in.";
+$meta_keywords = "ugc net admit card 2023, nta net hall ticket download, ugcnet.nta.nic.in admit card login, net exam hall ticket 2023, ugc net june 2023 admit card";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "ugc net admit card 2023, nta net hall ticket download, ugcnet.
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia MGSU Practical Admit Card - Bikaner University Practical Hall Ticket"; 
 $meta_description = "Download your MGSU Bikaner practical exam admit card on Univindia. Complete guide to retrieving practical hall tickets and center details for MGSU students."; 
 $meta_keywords = "univindia mgsu practical admit card"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia MGSU Practical Admit Card - Bikaner University Practical Hall Ticket</div>
+    <h2 class='sr-title'>Univindia MGSU Practical Admit Card - Bikaner University Practical Hall Ticket</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia MGSU Practical Admit Card - Bikaner University Practical Hall Ticket"; 
+$meta_description = "Download your MGSU Bikaner practical exam admit card on Univindia. Complete guide to retrieving practical hall tickets and center details for MGSU students."; 
+$meta_keywords = "univindia mgsu practical admit card"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia MGSU Practical Admit Card - Bikaner University Practical Hall Ticket";
+$meta_description = "Download your MGSU Bikaner practical exam admit card on Univindia. Complete guide to retrieving practical hall tickets and center details for MGSU students.";
+$meta_keywords = "univindia mgsu practical admit card";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia MGSU Practical Admit Card: Your Guide to Science and Professional Exams</h1>
+        
         
         <p>The term "Univindia MGSU Practical Admit Card" refers to one of the most technical and critical documents for thousands of students enrolled at Maharaja Ganga Singh University (MGSU), Bikaner. Unlike theory examinations, practical exams require specific preparation, unique center assignments, and a separate identification process. The `univindia.net` portal serves as the official platform for retrieving these essential hall tickets. In this comprehensive guide, we will delve into the significance of the Univindia MGSU Practical Admit Card, provide a full step-by-step walkthrough for its download, and offer expert advice on how to verify your practical center and session timings for a successful examination experience.</p>
 
@@ -55,6 +77,15 @@ $meta_keywords = "univindia mgsu practical admit card";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized admit card downloads and official university news, please always rely on the official Maharaja Ganga Singh University websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

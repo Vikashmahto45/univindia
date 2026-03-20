@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class ka result - Official Class 10th Result Universal Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th class ka result - Official Class 10th Result Universal Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th class ka result - Official Class 10th Result Universal Hub"; 
+$meta_description = "Check 10th class ka result for all Indian boards. Access the official 10th result universal gateway on indiaresults for high-speed score checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 10th Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify 10th results using student name or roll number alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -80,8 +87,7 @@ $meta_keywords = "";
                     marks. Having a verified digital result from the <strong>10th class ka result</strong> hub is
                     essential for students to complete their academic proof during college registration and document
                     verification processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,27 +99,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The <strong>10th class ka result</strong> hub covers results for almost every state board
                             (Matric/Secondary) and national board (CBSE/NIOS) across India.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub official for verification?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for various
                             state boards, ensuring that all result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 10th class result by name?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>10th class ka result</strong> portal includes a name-wise search for most
                             major board results participating on the <strong>indiaresults</strong> network.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "indian result mp, check mp board 10th result online, mpbse res
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indian Result MP - Official Madhya Pradesh Board result Portal</div>
-    <h2 class='sr-title'>Indian Result MP: Your Comprehensive Navigator to Madhya Pradesh Board of Secondary Education (MPBSE), Bhopal, Secondary School (Class 10), Higher Secondary (Class 12), Science, Commerce, Arts Streams, and Madhya Pradesh State Board Result Gateways (Government of MP, School Education Department, and National Informatics Centre (NIC) MP State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>Indian Result MP - Official Madhya Pradesh Board result Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Indian Result MP - Official Madhya Pradesh Board result Portal"; 
+$meta_description = "Check Indian Result MP online. Access the high-speed MP Board (MPBSE) 10th and 12th results. Official Madhya Pradesh marks link cluster."; 
+$meta_keywords = "indian result mp, check mp board 10th result online, mpbse results 2024, official madhya pradesh result link, indiaresult mp board 12th"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Indian Result MP - Official Madhya Pradesh Board result Portal";
+$meta_description = "Check Indian Result MP online. Access the high-speed MP Board (MPBSE) 10th and 12th results. Official Madhya Pradesh marks link cluster.";
+$meta_keywords = "indian result mp, check mp board 10th result online, mpbse results 2024, official madhya pradesh result link, indiaresult mp board 12th";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "indian result mp, check mp board 10th result online, mpbse res
                 <a href="https://mpbse.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="MPBSE Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://madhya-pradesh.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults MP Portal" target="_blank">Access MP Mirrors</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Indian Result MP Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "indian result mp, check mp board 10th result online, mpbse res
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Indian Result MP data, please visit the MPBSE headquarters in Bhopal or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Indian Result MP Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "indian result mp, check mp board 10th result online, mpbse res
         <br>
         <strong>3. Is the result from Indian Result MP valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Indian Result MP" portal) are recorded in the state scholarship database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

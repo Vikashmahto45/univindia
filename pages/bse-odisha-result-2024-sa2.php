@@ -7,9 +7,27 @@ $meta_keywords = "bse odisha result 2024 sa2, check odisha 10th sa2 result 2024,
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha Result 2024 SA2 - Official Class 10 Summative Assessment Portal</div>
-    <h2 class='sr-title'>BSE Odisha Result 2024 SA2: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Summative Assessment 2 (SA2), and Madhyamik (Class 10) Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h2>
+    <h2 class='sr-title'>BSE Odisha Result 2024 SA2 - Official Class 10 Summative Assessment Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "BSE Odisha Result 2024 SA2 - Official Class 10 Summative Assessment Portal"; 
+$meta_description = "Check BSE Odisha Result 2024 SA2 online. Access the Summative Assessment 2 (SA2) results for Class 10th matric. Download your 2024 marksheet and qualification status."; 
+$meta_keywords = "bse odisha result 2024 sa2, check odisha 10th sa2 result 2024, bseodisha.ac.in sa2 result 2024, odisha matric sa2 result date, bse odisha results link, official sa2 result portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "BSE Odisha Result 2024 SA2 - Official Class 10 Summative Assessment Portal";
+$meta_description = "Check BSE Odisha Result 2024 SA2 online. Access the Summative Assessment 2 (SA2) results for Class 10th matric. Download your 2024 marksheet and qualification status.";
+$meta_keywords = "bse odisha result 2024 sa2, check odisha 10th sa2 result 2024, bseodisha.ac.in sa2 result 2024, odisha matric sa2 result date, bse odisha results link, official sa2 result portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "bse odisha result 2024 sa2, check odisha 10th sa2 result 2024,
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSE Odisha Main Hub" target="_blank">Visit BSE Odisha Portal</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital Marksheet</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official BSE Odisha Result 2024 SA2 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your Odisha board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "bse odisha result 2024 sa2, check odisha 10th sa2 result 2024,
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to BSE Odisha Result 2024 SA2, please visit the BSE headquarters at Cuttack or your respective District Education Office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About BSE Odisha Result 2024 SA2 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "bse odisha result 2024 sa2, check odisha 10th sa2 result 2024,
         <br>
         <strong>3. Is the result from BSE Odisha Result 2024 SA2 valid for Merit Scholarships?</strong>
         <p>Yes, your board results (verified via the official "BSE Odisha Result 2024 SA2" portal or DigiLocker) are the accepted records for applying to state merit-based scholarships in 2024-25.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

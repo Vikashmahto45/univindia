@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 5th 2022 - Official Primary School Result Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 5th 2022 - Official Primary School Result Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 5th 2022 - Official Primary School Result Gateway"; 
+$meta_description = "Check india result 5th 2022 for all states. Access the official 5th class result portal on indiaresults.com for the 2022 academic year. Fast result checking by name or roll number."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Download 2022 Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Search 2022 primary results by name or school code.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Gateway 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -75,8 +82,7 @@ $meta_keywords = "";
                     student experiences a centralized assessment system. Access to the official <strong>india result 5th
                         2022</strong> portal ensures that these early academic achievements are preserved and easily
                     accessible for official purposes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,27 +95,26 @@ $meta_keywords = "";
                         <p>Absolutely. The <strong>india result 5th 2022</strong> portal is designed to be
                             parent-friendly, allowing easy result checking using just the child's name or roll number
                             from any smartphone or computer.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What boards conduct 5th class exams?</button>
                     <div class="faq-answer">
                         <p>Boards like the Punjab School Education Board (PSEB) and Rajasthan Board of Secondary
                             Education (RBSE) are known for conducting centralized 5th-grade exams covered by
                             <strong>india result 5th 2022</strong>.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the search by name feature available for 2022?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>indiaresults</strong> database for 2022 includes full name-wise search
                             support for most primary board examinations.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

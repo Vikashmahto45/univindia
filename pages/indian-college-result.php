@@ -7,9 +7,27 @@ $meta_keywords = "indian college result, college result 2024, university result 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indian College Result - National University and Degree College Hub</div>
-    <h2 class='sr-title'>Indian College Result: Your Definitive National Hub for University and Higher Education Success</h2>
+    <h2 class='sr-title'>Indian College Result - National University and Degree College Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Indian College Result - National University and Degree College Hub"; 
+$meta_description = "Check Indian College Result for all major universities and colleges in India. Access official UG and PG semester results, merit lists, and marksheet download links."; 
+$meta_keywords = "indian college result, college result 2024, university result 2024, bsc result 2024 college, ba result college india, pg college results directory"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Indian College Result - National University and Degree College Hub";
+$meta_description = "Check Indian College Result for all major universities and colleges in India. Access official UG and PG semester results, merit lists, and marksheet download links.";
+$meta_keywords = "indian college result, college result 2024, university result 2024, bsc result 2024 college, ba result college india, pg college results directory";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "indian college result, college result 2024, university result 
                 <a href="http://www.indiaresults.com" class="btn" title="National Results Mirror Portal" target="_blank">IndiaResults National</a>
                 <a href="http://ugc.ac.in" class="btn" title="University Grants Commission Portal" target="_blank">UGC Official Site</a>
                 <a href="https://digilocker.gov.in" class="btn" title="Download Verified Degree" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Indian College Result</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "indian college result, college result 2024, university result 
         <br>
         <strong>3. Is the online college scorecard valid for a passport application?</strong>
         <p>The computer-generated "Indian College Result" is generally not accepted for legal identity or passport purposes. For such legal needs, you must provide the final Degree or the original marksheet issued by the University Registrar.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

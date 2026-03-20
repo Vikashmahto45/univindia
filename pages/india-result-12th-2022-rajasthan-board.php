@@ -7,9 +7,27 @@ $meta_keywords = "india result 12th 2022 rajasthan board, check rbse 12th result
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12th 2022 rajasthan board - Official RBSE Mirror</div>
-    <h2 class='sr-title'>india result 12th 2022 rajasthan board: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Senior Secondary Public Examinations (Class 12), and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india result 12th 2022 rajasthan board - Official RBSE Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 12th 2022 rajasthan board - Official RBSE Mirror"; 
+$meta_description = "Check india result 12th 2022 rajasthan board online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 12 for the 2022 session."; 
+$meta_keywords = "india result 12th 2022 rajasthan board, check rbse 12th result 2022 online, official rajasthan board link 2022, indiaresults raj 12th portal 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india result 12th 2022 rajasthan board - Official RBSE Mirror";
+$meta_description = "Check india result 12th 2022 rajasthan board online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 12 for the 2022 session.";
+$meta_keywords = "india result 12th 2022 rajasthan board, check rbse 12th result 2022 online, official rajasthan board link 2022, indiaresults raj 12th portal 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 12th 2022 rajasthan board, check rbse 12th result
                 <a href="http://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official RajResults" target="_blank">Access RajResults HUB</a>
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Board Portal" target="_blank">Visit RBSE Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 12th 2022 rajasthan board Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 12th 2022 rajasthan board, check rbse 12th result
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india result 12th 2022 rajasthan board data, please visit the RBSE headquarters in Ajmer or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About india result 12th 2022 rajasthan board Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 12th 2022 rajasthan board, check rbse 12th result
         <br>
         <strong>3. Is the result from india result 12th 2022 rajasthan board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "india result 12th 2022 rajasthan board" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in";
+$page_description = "Download SSC Selection Post Phase 12 Admit Card 2024. Get direct links for Matric, Higher Secondary, and Graduate level Selection Post Phase XII exams. 800+ word guide.";
+$page_keywords = "SSC Selection Post Phase 12 Admit Card 2024, Phase XII Hall Ticket Download, SSC Selection Post Exam Date, ssc.gov.in selection post admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">SSC Selection Post Phase 12 <span class="text-warning">Admit Card 2024</span></h1>
+            
             
             <div class="alert alert-success border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Status Update:</h4>
                         <p class="mb-0">The Staff Selection Commission (SSC) has activated the regional links for the <strong>Selection Post Phase 12 Admit Card 2024</strong>. Candidates across various regions (NR, CR, WR, ER, etc.) can now verify their application status and download call letters.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -95,22 +117,19 @@ $meta_keywords = "";
                                     <h6 class="text-white">Central Region (CR)</h6>
                                     <p class="small text-white-50">UP & Bihar</p>
                                     <a href="http://www.ssc-cr.org" class="btn btn-warning btn-sm fw-bold">Download CR</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-3 bg-secondary rounded-4 border border-secondary text-center h-100">
                                     <h6 class="text-white">Northern Region (NR)</h6>
                                     <p class="small text-white-50">Delhi, Raj, UK</p>
                                     <a href="https://sscnr.nic.in" class="btn btn-warning btn-sm fw-bold">Download NR</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-3 bg-secondary rounded-4 border border-secondary text-center h-100">
                                     <h6 class="text-white">Eastern Region (ER)</h6>
                                     <p class="small text-white-50">WB, Odisha, AR</p>
                                     <a href="http://www.sscer.org" class="btn btn-warning btn-sm fw-bold">Download ER</a>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Critical Information on the Hall Ticket</h2>
@@ -129,14 +148,12 @@ $meta_keywords = "";
                                 <div class="p-4 bg-dark border border-secondary rounded-4 h-100">
                                     <h5 class="text-warning">Photo Identification</h5>
                                     <p class="small">Carry an original ID proof (Aadhar Card, PAN Card, Driving License). Ensure the Date of Birth on the ID matches exactly with the admit card.</p>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-6">
                                 <div class="p-4 bg-dark border border-secondary rounded-4 h-100">
                                     <h5 class="text-warning">Photography Requirements</h5>
                                     <p class="small">Two passport-sized color photographs are mandatory. It's recommended to carry the same photos used during the online application.</p>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Frequently Asked Questions (FAQs)</h2>
@@ -150,8 +167,7 @@ $meta_keywords = "";
                                 <div id="sp1" class="accordion-collapse collapse" data-bs-parent="#selectionPostFaq">
                                     <div class="accordion-body text-white-50">
                                         You can access the links from the central portal, but the actual PDF is hosted on the regional websites (e.g., ssc-cr, sscnr).
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white border-secondary">
                                 <h3 class="accordion-header">
@@ -162,13 +178,10 @@ $meta_keywords = "";
                                 <div id="sp2" class="accordion-collapse collapse" data-bs-parent="#selectionPostFaq">
                                     <div class="accordion-body text-white-50">
                                         No, you will have separate admit cards for each level of exam (Matric, HS, Graduate). However, for multiple posts within the same level, you will usually appear in a single common exam for that level.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
                     </article>
-                </div>
-            </div>
+                
 
             <!-- More Links -->
             <div class="p-5 bg-dark rounded-4 border border-secondary mt-5 shadow">
@@ -185,12 +198,10 @@ $meta_keywords = "";
                     </div>
                     <div class="col-md-3">
                         <a href="ssc-mts-admit-card-2024.php" class="btn btn-outline-warning w-100 rounded-pill py-2">SSC MTS Admit Card</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </div>
-</main>
+
 
 <style>
 .text-warning {
@@ -208,3 +219,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

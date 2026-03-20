@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in</div>
-    <h2 class='sr-title'>CISF Admit Card 2025: Constable, ASI & Head Constable Hall Ticket</h2>
+    <h2 class='sr-title'>CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in";
+$page_description = "Download CISF Admit Card 2025 for Constable Fireman, ASI, and HC recruitment. Get direct link for CISF Physical (PET/PST) and CBT Hall Ticket. 800+ words of latest updates.";
+$page_keywords = "CISF Admit Card 2025, CISF Constable Fireman Hall Ticket, CISF ASI Steno Call Letter, CISF Head Constable Admit Card, cisfrectt.cisf.gov.in admit card download";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -94,14 +113,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-success">
                             <h5 class="text-success"><i class="fas fa-portrait me-2"></i> Four Recent Photos</h5>
                             <p class="small text-light-gray mb-0">The same photo uploaded in the application is preferred. These are needed for the physical performance sheet and biometric record.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-success">
                             <h5 class="text-success"><i class="fas fa-id-card me-2"></i> Valid Identification</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card is mandatory for biometric scanning. In cases of mismatch, Voter ID or Passport must be provided.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">CISF FAQ: Candidate Support</h2>
@@ -115,8 +132,7 @@ $meta_keywords = "";
                         <div id="ciQ1" class="accordion-collapse collapse" data-bs-parent="#cisfFaq">
                             <div class="accordion-body text-light-gray">
                                 Click on 'Forgot Registration ID & Password' on the login page. Provide your Name, Father's Name, and Date of Birth to receive credentials on your registered email.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -127,10 +143,8 @@ $meta_keywords = "";
                         <div id="ciQ2" class="accordion-collapse collapse" data-bs-parent="#cisfFaq">
                             <div class="accordion-body text-light-gray">
                                 No, CISF does not entertain requests for center changes. You must report to the venue specified on your <strong>CISF Hall Ticket</strong>.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Other Force Admit Cards</h5>
@@ -138,14 +152,14 @@ $meta_keywords = "";
                         <a href="ssc-gd-admit-card.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">SSC GD Call Letter</a>
                         <a href="bsf-admit-card.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">BSF Result & Hall Ticket</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-user-shield me-2"></i> Paramilitary & Defense Links</h3>
                 <div class="row g-3">
+                    <?php
                     $forces = [
                         'crpf-admit-card.php' => 'CRPF Constable Admit Card',
                         'itbp-admit-card.php' => 'ITBP Recruitment Hall Ticket',
@@ -159,11 +173,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -191,6 +204,12 @@ $meta_keywords = "";
     transform: translateY(-5px);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

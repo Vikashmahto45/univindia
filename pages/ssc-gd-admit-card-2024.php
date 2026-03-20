@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in";
+$page_description = "Download SSC GD Admit Card 2024-25 for Constable GD in BSF, CRPF, SSB, and CISF. Get direct link for SSC GD Hall Ticket, Exam Schedule, and Region Wise Status. 800+ words.";
+$page_keywords = "SSC GD Admit Card 2024, SSC GD Hall Ticket Download, ssc.gov.in gd admit card link, SSC GD Exam Date 2025, SSC GD Constable Exam Status";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSC GD Admit Card 2024-25: Constable GD Hall Ticket</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-shield-alt me-2"></i> <strong>Recruitment Alert:</strong> The Staff Selection Commission (SSC) has announced the revision in vacancies for Constable GD to <strong>46,617 posts</strong>. The <strong>SSC GD 2024 Admit Card</strong> status for Tier 1 is now live across regional websites.
@@ -89,14 +112,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-warning h-100">
                             <h5 class="text-warning"><i class="fas fa-print me-2"></i> Printed Hall Ticket</h5>
                             <p class="small text-light-gray mb-0">Carry the <strong>SSC GD Admit Card</strong> along with the 'Undertaking' for health safety. Thumb impressions are done at the desk.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-warning h-100">
                             <h5 class="text-warning"><i class="fas fa-id-card-alt me-2"></i> Photo ID Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card with a visible photo. Digital Aadhar is acceptable ONLY if the original physical card is present at the gate for scanning.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">SSC GD Admit Card FAQ: Frequently Asked Questions</h2>
@@ -110,8 +131,7 @@ $meta_keywords = "";
                         <div id="gdQ1" class="accordion-collapse collapse" data-bs-parent="#sscGdFaq">
                             <div class="accordion-body text-light-gray">
                                 You can check your <strong>SSC GD 2024 Status</strong> by entering your Name, Father's Name, and Date of Birth on most regional portals like SSC NR or SSC ER.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -122,10 +142,8 @@ $meta_keywords = "";
                         <div id="gdQ2" class="accordion-collapse collapse" data-bs-parent="#sscGdFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, only candidates who pass the PET/PST stage will be issued a separate <strong>DME (Detailed Medical Examination) Hall Ticket</strong> by the CRPF or SSC.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Related SSC Links</h5>
@@ -133,14 +151,14 @@ $meta_keywords = "";
                         <a href="ssc-mts-admit-card-2024.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">SSC MTS 2024 Card</a>
                         <a href="ssc-cpo-admit-card.php" class="btn btn-outline-warning rounded-pill px-4 btn-sm">SSC CPO Hall Ticket</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> CAPF Selection Links</h3>
                 <div class="row g-3">
+                    <?php
                     $capf_links = [
                         'bsf-admit-card.php' => 'BSF Constable GD Status',
                         'crpf-admit-card.php' => 'CRPF Tradesman Call Letter',
@@ -154,11 +172,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -188,3 +205,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

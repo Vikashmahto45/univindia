@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "results 2022 - Official National Archive Gateway Hub"; 
 $meta_description = "Check results 2022 for all board and university exams. Access the official 2022 result portal mirrors on indiaresults for the latest updates across India."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; results 2022 - Official National Archive Gateway Hub</div>
+    <h2 class='sr-title'>results 2022 - Official National Archive Gateway Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "results 2022 - Official National Archive Gateway Hub"; 
+$meta_description = "Check results 2022 for all board and university exams. Access the official 2022 result portal mirrors on indiaresults for the latest updates across India."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic result archives for every state and central
                 board in India. Verified links and mirrors updated.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Name-wise result retrieval for 2022 exams.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -74,8 +85,7 @@ $meta_keywords = "";
                     dedicated servers for this year. Having a verified digital result from the <strong>results
                         2022</strong> hub ensures that your academic history is preserved and easily accessible for
                     official purposes across India.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -88,26 +98,28 @@ $meta_keywords = "";
                         <p>Yes, all major results under <strong>results 2022</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results 2022 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>results 2022</strong> portal maintains full name-wise search support
                             for most board and university examinations of that year.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 scorecard valid for admissions?</button>
                     <div class="faq-answer">
                         <p>The <strong>results 2022</strong> digital marksheet is a valid provisional document. For
                             final university registration, you will need the physical certificates issued by the board
                             office.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

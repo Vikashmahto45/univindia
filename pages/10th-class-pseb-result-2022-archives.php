@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class pseb result 2022 - Official Punjab Board Secondary Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th class pseb result 2022 - Official Punjab Board Secondary Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th class pseb result 2022 - Official Punjab Board Secondary Archive"; 
+$meta_description = "Check 10th class pseb result 2022 for PSEB Matric exams. Access the official 2022 Punjab Board archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -40,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2022 Punjab Matric results by student name alternative.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +93,7 @@ $meta_keywords = "";
                     <strong>10th class pseb result 2022</strong> archive hub is essential for students to complete their
                     academic verification and proof of educational attainment during school-level transition and
                     registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,27 +106,26 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>10th class pseb result 2022</strong> are permanently archived
                             on verified platforms like <strong>indiaresults.com</strong> for archival and academic
                             verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2022 PSEB 10th result by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th class pseb result 2022</strong> portal includes a dedicated
                             name-wise search for the PSEB Matric examinees of the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for HS (+2) admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10th class pseb result 2022</strong> archive
                             is a valid provisional document accepted for initial secondary school registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

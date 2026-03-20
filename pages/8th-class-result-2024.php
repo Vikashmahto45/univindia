@@ -7,9 +7,27 @@ $meta_keywords = "8th class result 2024, check middle school result 2024, 8th bo
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th Class Result 2024 - Official Middle School Examination Hub</div>
-    <h2 class='sr-title'>8th Class Result 2024: Your Comprehensive Navigator to National and State Board Class 8 (Middle School), Elementary Education Completion Certificate (EECC), and Junior High School Result Gateways (Board of Secondary Education Rajasthan, Punjab School Education Board, and Various State Board Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>8th Class Result 2024 - Official Middle School Examination Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "8th Class Result 2024 - Official Middle School Examination Hub"; 
+$meta_description = "Check 8th Class Result 2024 online. Access the middle school results for Rajasthan (RBSE), Punjab (PSEB), HP, and all state boards. Download your 2024 marksheets instantly."; 
+$meta_keywords = "8th class result 2024, check middle school result 2024, 8th board result 2024 link, class 8 result 2024 date, official 8th merit list 2024, click to check 8th result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "8th Class Result 2024 - Official Middle School Examination Hub";
+$meta_description = "Check 8th Class Result 2024 online. Access the middle school results for Rajasthan (RBSE), Punjab (PSEB), HP, and all state boards. Download your 2024 marksheets instantly.";
+$meta_keywords = "8th class result 2024, check middle school result 2024, 8th board result 2024 link, class 8 result 2024 date, official 8th merit list 2024, click to check 8th result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "8th class result 2024, check middle school result 2024, 8th bo
                 <a href="http://indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults HUB" target="_blank">Search Result By Name</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital Marksheet</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via 8th Class Result 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your respective board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "8th class result 2024, check middle school result 2024, 8th bo
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 8th Class Result 2024, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 8th Class Result 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "8th class result 2024, check middle school result 2024, 8th bo
         <br>
         <strong>3. Is the result from 8th Class Result 2024 valid for Scholarships?</strong>
         <p>Yes, your board results (verified via the official "8th Class Result 2024" portal or DigiLocker) are the accepted records for applying to state merit-based scholarships in 2024-25.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

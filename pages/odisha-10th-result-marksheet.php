@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Odisha 10th Result Marksheet - Official BSE Odisha Portal"; 
 $meta_description = "Check Odisha 10th Result Marksheet online. Access the high-speed download link for Board of Secondary Education (BSE) Odisha Matric marksheet. Official portal."; 
 $meta_keywords = "odisha 10th result marksheet, check bse odisha 10th marksheet online, download odisha matric marksheet 2024, official odisha 10th result link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Odisha 10th Result Marksheet - Official BSE Odisha Portal</div>
+    <h2 class='sr-title'>Odisha 10th Result Marksheet - Official BSE Odisha Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Odisha 10th Result Marksheet - Official BSE Odisha Portal"; 
+$meta_description = "Check Odisha 10th Result Marksheet online. Access the high-speed download link for Board of Secondary Education (BSE) Odisha Matric marksheet. Official portal."; 
+$meta_keywords = "odisha 10th result marksheet, check bse odisha 10th marksheet online, download odisha matric marksheet 2024, official odisha 10th result link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Odisha 10th Result Marksheet - Official BSE Odisha Portal";
+$meta_description = "Check Odisha 10th Result Marksheet online. Access the high-speed download link for Board of Secondary Education (BSE) Odisha Matric marksheet. Official portal.";
+$meta_keywords = "odisha 10th result marksheet, check bse odisha 10th marksheet online, download odisha matric marksheet 2024, official odisha 10th result link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Odisha 10th Result Marksheet: Your Comprehensive Navigator to Board of Secondary Education (BSE), Odisha, Cuttack, High Secondary School (Class 10), Matriculation, and Odisha State Board Result Gateways (Government of Odisha, School and Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Odisha 10th Result Marksheet" (representing the primary synchronized digital result-dissemination framework utilized by over 5.5 lakh students for the annual matric board exams conducted in coordination with the Odisha School and Mass Education Department) represents a significant digital milestone for students residing in the academic and industrial landscape of Odisha. As the primary official gateway to the state's school-level educational infrastructure (Cuttack, BSE HQ), and the traditional school education infrastructure of the nation, the "Odisha 10th Result Marksheet" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (Class 10) via dedicated high-concurrency server endpoints. For the current academic cycle, where high-transparency evaluation and decentralized result retrieval are state priorities, the "Odisha 10th Result Marksheet" search is the digital gateway through which candidates verify their fundamental professional achievement with maximum speed, integrity, and legal validity. The Odisha education department has implemented state-of-the-art 'Electronic Result Delivery' systems within the BSE ecosystem, ensuring that the 10th scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Odisha 10th Result Marksheet," ensuring that every aspiring student and researcher in Odisha can approach their school records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "odisha 10th result marksheet, check bse odisha 10th marksheet 
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official BSE Odisha" target="_blank">Visit Board Home</a>
                 <a href="https://odisha.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults Odisha" target="_blank">Access Odisha Mirrors</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Odisha 10th Result Marksheet Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official school records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "odisha 10th result marksheet, check bse odisha 10th marksheet 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized school-leaving certificates, migration letters, and final database changes related to Odisha 10th Result Marksheet data, please visit the BSE headquarters in Cuttack or your respective school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Odisha 10th Result Marksheet Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "odisha 10th result marksheet, check bse odisha 10th marksheet 
         <br>
         <strong>3. Is the result from Odisha 10th Result Marksheet valid for school admission?</strong>
         <p>Yes, your school-level results (verified via the official "Odisha 10th Result Marksheet" portal) are recorded in the state educational database and serve as primary data for admission.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

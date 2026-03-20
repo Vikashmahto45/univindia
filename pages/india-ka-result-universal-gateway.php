@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india ka result - Official National Examination Result Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india ka result - Official National Examination Result Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india ka result - Official National Examination Result Hub"; 
+$meta_description = "Check india ka result for all major board, university, and competitive exams. Access the official all India result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check All India Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify national and state-level results by student name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +91,7 @@ $meta_keywords = "";
                     verified digital result from the <strong>india ka result</strong> hub is essential for students to
                     complete their academic verification and proof of educational attainment during the university
                     admission cycle and professional document verification processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,27 +104,26 @@ $meta_keywords = "";
                         <p>The <strong>india ka result</strong> hub covers all major state board results (10th/12th),
                             central boards (CBSE/ICSE), and university semester scores from almost every Indian state.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             and national boards, ensuring all result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check result by name search on this hub?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>india ka result</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated name-wise search for most board and university examinations across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

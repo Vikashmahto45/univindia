@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india results 2022 intermediate ts - Official Telangana Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>all india results 2022 intermediate ts - Official Telangana Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "all india results 2022 intermediate ts - Official Telangana Archive"; 
+$meta_description = "Check all india results 2022 intermediate ts for 1st and 2nd year examinations. Access the official Telangana State Board (TSBIE) portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Hall Ticket Search</h3>
                     <p>Verify TS 2022 inter results by Hall Ticket.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +86,7 @@ $meta_keywords = "";
                     entering the workforce. Through <strong>indiaresults.com</strong>, the 2022 batch in Telangana gains
                     a verified record of their performance in various streams including MPC, BiPC, CEC, and MEC. Having
                     a verified digital result is a mandatory document for any subsequent academic registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,16 +98,14 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all results under <strong>all india results 2022 intermediate ts</strong> are
                             permanently archived on verified servers like <strong>indiaresults.com</strong>.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check TS 2022 results with just my name?</button>
                     <div class="faq-answer">
                         <p>While Hall Ticket is preferred, the <strong>indiaresults</strong> portal for <strong>all
                                 india results 2022 intermediate ts</strong> often maintains a name-wise search for
                             easier result retrieval.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for TS EAMCET
                         verification?</button>
@@ -109,12 +113,13 @@ $meta_keywords = "";
                         <p>The <strong>all india results 2022 intermediate ts</strong> online marksheet is a valid
                             provisional document. For final university verification, the original certificates issued by
                             TSBIE are usually required.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

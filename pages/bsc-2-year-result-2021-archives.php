@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bsc 2 year result 2021 - Official National 2021 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>bsc 2 year result 2021 - Official National 2021 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "bsc 2 year result 2021 - Official National 2021 Archive"; 
+$meta_description = "Check bsc 2 year result 2021 for all state universities. Access the official national B.Sc 2nd year archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 B.Sc Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify B.Sc degree results 2021 by student name alternative criteria for major participating
                         universities across India for the 2021 batch.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -93,8 +100,7 @@ $meta_keywords = "";
                     result from the <strong>bsc 2 year result 2021</strong> archive hub is essential for students to
                     complete their academic verification and proof of educational achievement even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -106,28 +112,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>bsc 2 year result 2021</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2021 B.Sc results by name search online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Most participating state universities on the <strong>bsc 2 year result
                                 2021</strong> hub support a dedicated name-wise results search for the 2021 examination
                             session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 marksheet valid for Final Year admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>bsc 2 year result 2021</strong> gateway is a
                             valid provisional document accepted for initial graduation registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

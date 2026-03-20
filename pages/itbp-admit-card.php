@@ -1,11 +1,26 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download"; 
 $meta_description = "Download ITBP Admit Card 2024 for Constable, Head Constable, ASI, and SI. Get direct link for Indo-Tibetan Border Police Recruitment PET/PST and Written Exam Hall Ticket."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download</div>
+    <h2 class='sr-title'>ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download"; 
+$meta_description = "Download ITBP Admit Card 2024 for Constable, Head Constable, ASI, and SI. Get direct link for Indo-Tibetan Border Police Recruitment PET/PST and Written Exam Hall Ticket."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +32,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-primary border-0 rounded-4 mb-4">
                 <div class="card-body p-5">
-                    <h1 class="display-5 fw-bold text-primary mb-3"><i class="bi bi-shield-shaded me-2"></i>ITBP Admit Card 2024</h1>
+                    
                     <p class="lead">The Indo-Tibetan Border Police (ITBP) Force is releasing admit cards for various recruitment posts including Constable (Tradesman), Head Constable, Sub-Inspector (SI), and Assistant Sub-Inspector (ASI). Candidates who have applied for these vacancies must download their PET/PST and Written Exam Admit Cards from the official recruitment portal.</p>
                     
                     <div class="bg-primary text-white p-4 rounded-4 my-5 shadow">
@@ -56,8 +71,7 @@ $meta_keywords = "";
                                     <li>Post Applied For</li>
                                     <li>Photograph & Scanned Signature</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6 mb-3">
                             <div class="card h-100 border rounded-4 p-3 shadow-sm">
                                 <h5 class="fw-bold text-primary"><i class="bi bi-calendar3 me-2"></i>Test Site Data</h5>
@@ -68,8 +82,7 @@ $meta_keywords = "";
                                     <li>Post Stage (PET, PST, or Written)</li>
                                     <li>Important Exam Instructions</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark">Required Documents for ITBP Physical (PET/PST)</h2>
@@ -121,14 +134,18 @@ $meta_keywords = "";
                         <div class="text-dark border-top pt-3">
                             <h6 class="fw-bold text-primary">3. Is a colored printout mandatory for ITBP?</h6>
                             <p>While B&W is often accepted, a colored printout is highly recommended to ensure your identity can be easily verified at the gate.</p>
-                        </div>
-                    </div>
+                        
 
                     <p class="mt-5 text-muted small text-center"><strong>Disclaimer:</strong> This is a public news and information portal. For official recruiting information, please visit <strong>recruitment.itbpolice.nic.in</strong>.</p>
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

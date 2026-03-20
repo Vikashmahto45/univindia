@@ -7,9 +7,27 @@ $meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 20
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSLC Result 2024 - SEBA Assam 10th Class Board Results</div>
-    <h2 class='sr-title'>HSLC Result 2024: A Definitive Guide to Assam’s Secondary Success</h2>
+    <h2 class='sr-title'>HSLC Result 2024 - SEBA Assam 10th Class Board Results</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "HSLC Result 2024 - SEBA Assam 10th Class Board Results"; 
+$meta_description = "Check SEBA HSLC Result 2024 online. Access Assam 10th class scores, merit lists, and official high school result updates at sebaonline.org."; 
+$meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 2024 result date, sebaonline hslc archive"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "HSLC Result 2024 - SEBA Assam 10th Class Board Results";
+$meta_description = "Check SEBA HSLC Result 2024 online. Access Assam 10th class scores, merit lists, and official high school result updates at sebaonline.org.";
+$meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 2024 result date, sebaonline hslc archive";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 20
                 <a href="https://resultsassam.nic.in" class="btn" title="Direct Assam Result Gateway" target="_blank">Assam Results 2024</a>
                 <a href="https://sebaonline.org/result_archive.php" class="btn" title="View SEBA Result Archives" target="_blank">HSLC Result Archive</a>
                 <a href="https://assam.indiaresults.com" class="btn" title="Assam HSLC Result Name Wise" target="_blank">Name Wise Search (Mirror)</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About HSLC Result 2024</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 20
         <br>
         <strong>3. Is the 'HSLC Board Top 10' list for 2024 available on this portal?</strong>
         <p>We provide links to the official SEBA merit list notifications the moment they are released. You can check the 2024 toppers on the official resultsassam.nic.in gateway.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

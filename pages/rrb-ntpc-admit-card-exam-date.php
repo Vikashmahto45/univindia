@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in</div>
+    <h2 class='sr-title'>RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in";
+$page_description = "Check RRB NTPC Admit Card and Exam Date 2024-25. Get detailed schedule for CBT 1, shift timings, and download link for Railway NTPC Call Letter. 800+ words of latest updates.";
+$page_keywords = "RRB NTPC Admit Card Exam Date, RRB NTPC 2024 Exam Date, Railway NTPC CBT 1 Schedule, Download RRB NTPC Call Letter, rrbcdg.gov.in ntpc admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">RRB NTPC Admit Card & Exam Date 2024-25: CBT 1 Schedule Details</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-train me-2"></i> <strong>Railway Update:</strong> The Railway Recruitment Board (RRB) has initiated the process for CEN 01/2024 (NTPC Graduate and Under Graduate posts). The CBT 1 exam dates will be announced region-wise.
@@ -109,8 +132,7 @@ $meta_keywords = "";
                         <div id="rrbQ1" class="accordion-collapse collapse" data-bs-parent="#rrbFaq">
                             <div class="accordion-body text-light-gray">
                                 Use the 'Forgot Registration Number' link on the RRB portal. You will need to provide your registered email ID and Date of Birth to receive it.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +143,8 @@ $meta_keywords = "";
                         <div id="rrbQ2" class="accordion-collapse collapse" data-bs-parent="#rrbFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes. SC/ST candidates who have uploaded their certificates during registration can download their free Sleeper Class Railway Pass along with the City Intimation slip.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Railway Portals</h5>
@@ -132,14 +152,14 @@ $meta_keywords = "";
                         <a href="rrb-ntpc-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">Primary NTPC Page</a>
                         <a href="rrb-alp-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">RRB ALP Admit Card</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-train me-2"></i> RRB Regional Sites</h3>
                 <div class="row g-3">
+                    <?php
                     $rrbs = [
                         'rrb-chandigarh-admit-card.php' => 'RRB Chandigarh Hall Ticket',
                         'rrb-mumbai-admit-card.php' => 'RRB Mumbai Call Letter',
@@ -153,11 +173,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +206,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

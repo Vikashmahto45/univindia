@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB Bank Admit Card Download - IBPS RRB Officers & Assistants Hall Ticket | Univindia.online"; 
 $meta_description = "Download RRB Bank Admit Card. Get the direct link for IBPS RRB CRP Officers (Scale-I/II/III) and Office Assistants hall tickets at ibps.in."; 
 $meta_keywords = "rrb bank admit card download, ibps rrb admit card download, ibps.in rrb hall ticket login, bank rrb exam date 2024 download, rrb assistant call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Bank Admit Card Download - IBPS RRB Officers & Assistants Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>RRB Bank Admit Card Download - IBPS RRB Officers & Assistants Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB Bank Admit Card Download - IBPS RRB Officers & Assistants Hall Ticket | Univindia.online"; 
+$meta_description = "Download RRB Bank Admit Card. Get the direct link for IBPS RRB CRP Officers (Scale-I/II/III) and Office Assistants hall tickets at ibps.in."; 
+$meta_keywords = "rrb bank admit card download, ibps rrb admit card download, ibps.in rrb hall ticket login, bank rrb exam date 2024 download, rrb assistant call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RRB Bank Admit Card Download - IBPS RRB Officers & Assistants Hall Ticket | Univindia.online";
+$meta_description = "Download RRB Bank Admit Card. Get the direct link for IBPS RRB CRP Officers (Scale-I/II/III) and Office Assistants hall tickets at ibps.in.";
+$meta_keywords = "rrb bank admit card download, ibps rrb admit card download, ibps.in rrb hall ticket login, bank rrb exam date 2024 download, rrb assistant call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "rrb bank admit card download, ibps rrb admit card download, ib
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Bank Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

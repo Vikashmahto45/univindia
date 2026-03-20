@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in";
+$page_description = "Download SSC CPO Admit Card 2024-25 for Sub-Inspector in Delhi Police, BSF, CRPF, and CISF. Get direct link for SSC CPO Hall Ticket, Paper 1 Status, and PET Date. 800+ words guide.";
+$page_keywords = "SSC CPO Admit Card 2024, SSC CPO SI Hall Ticket Download, ssc.gov.in cpo admit card link, SSC CPO Paper 1 Status, SSC CPO Region Wise Link";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSC CPO Admit Card 2024-25: Sub-Inspector in Delhi Police & CAPF Hall Ticket</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-star me-2"></i> <strong>Recruitment Update:</strong> The Staff Selection Commission (SSC) has released the <strong>CPO 2024-25 Paper 1 Admit Card</strong> status for the Northern, Western, and Southern regions. Candidates can download their hall tickets from the new <strong>ssc.gov.in</strong> platform.
@@ -89,14 +112,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-success h-100">
                             <h5 class="text-success"><i class="fas fa-print me-2"></i> Physical Call Letter</h5>
                             <p class="small text-light-gray mb-0">Ensure the <strong>SSC CPO Admit Card</strong> has all 4 pages printed. Page 2 (Candidate instructions) is vital for gate rules.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-success h-100">
                             <h5 class="text-success"><i class="fas fa-id-card-alt me-2"></i> Original Photo ID Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card or Driving License. The **Date of Birth** must match the one on the <strong>SSC CPO Hall Ticket</strong> exactly.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">SSC CPO Admit Card FAQ: Frequently Asked Questions</h2>
@@ -110,8 +131,7 @@ $meta_keywords = "";
                         <div id="cpQ1" class="accordion-collapse collapse" data-bs-parent="#sscCpoFaq">
                             <div class="accordion-body text-light-gray">
                                 This happens if you opted for the NWR region cities as your first preference. The <strong>SSC CPO Call Letter</strong> is generated based on your city preferences, not your home state.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -122,10 +142,8 @@ $meta_keywords = "";
                         <div id="cpQ2" class="accordion-collapse collapse" data-bs-parent="#sscCpoFaq">
                             <div class="accordion-body text-light-gray">
                                 No, for <strong>SSC CPO Paper 1 and 2</strong>, only the <strong>Admit Card</strong> and ID proof are required. Original degrees are checked only during the Document Verification (DV) stage.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Important SSC Links</h5>
@@ -133,14 +151,14 @@ $meta_keywords = "";
                         <a href="ssc-cgl-admit-card-2024.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">SSC CGL Admit Card</a>
                         <a href="ssc-chsl-admit-card-2024.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">SSC CHSL Hall Ticket</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> CAPF SI Selection Details</h3>
                 <div class="row g-3">
+                    <?php
                     $cpo_links = [
                         'ssc-cpo-physical-eligibility.php' => 'CPO Height & Chest Criteria',
                         'ssc-cpo-paper-2-english-guide.php' => 'CPO Paper 2 Strategy',
@@ -154,11 +172,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -188,3 +205,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

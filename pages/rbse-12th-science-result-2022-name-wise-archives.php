@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rbse 12th science result 2022 name wise - Official Rajasthan 2022 Archive"; 
 $meta_description = "Check Rajasthan Board 12th Science result 2022 by name on rbse 12th science result 2022 name wise. Access official RBSE Sr. Sec. Science 2022 archives."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 12th science result 2022 name wise - Official Rajasthan 2022 Archive</div>
+    <h2 class='sr-title'>rbse 12th science result 2022 name wise - Official Rajasthan 2022 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rbse 12th science result 2022 name wise - Official Rajasthan 2022 Archive"; 
+$meta_description = "Check Rajasthan Board 12th Science result 2022 by name on rbse 12th science result 2022 name wise. Access official RBSE Sr. Sec. Science 2022 archives."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 12th Science stream with name-wise search feature. Official RBSE
                 mirrors and 2022 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Name Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan Board (rajeduboard.rajasthan.gov.in) results 2022 by student name alternative
                         criteria for the 2022 Science academic examination batch.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -91,8 +102,7 @@ $meta_keywords = "";
                         12th science result 2022 name wise</strong> archive hub is essential for students to complete
                     their academic verification and proof of educational attainment even years after their graduation.
                 </p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -104,16 +114,14 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>rbse 12th science result 2022 name wise</strong> are
                             permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 Rajasthan 12th Science results by name only on
                         mobile?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>rbse 12th science result 2022 name wise</strong> portal is
                             mobile-optimized and includes a dedicated name-wise search for student examinees.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 RBSE science marksheet valid for graduation
                         admission?</button>
@@ -121,11 +129,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>rbse 12th science result 2022 name
                                 wise</strong> gateway is a valid provisional document accepted for initial university
                             registration and verification across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

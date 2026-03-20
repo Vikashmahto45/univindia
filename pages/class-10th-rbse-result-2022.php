@@ -7,9 +7,27 @@ $meta_keywords = "class 10th rbse result 2022, check rbse class 10 result 2022 o
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 10th rbse result 2022 - Official Rajasthan Board Mirror</div>
-    <h2 class='sr-title'>class 10th rbse result 2022: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary Public Examinations (Class 10), and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>class 10th rbse result 2022 - Official Rajasthan Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "class 10th rbse result 2022 - Official Rajasthan Board Mirror"; 
+$meta_description = "Check class 10th rbse result 2022 online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 10 (Secondary) for the 2022 session."; 
+$meta_keywords = "class 10th rbse result 2022, check rbse class 10 result 2022 online, official rajasthan board link, rajresults nic in index 2022 secondary"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "class 10th rbse result 2022 - Official Rajasthan Board Mirror";
+$meta_description = "Check class 10th rbse result 2022 online. Access the historical results for Board of Secondary Education Rajasthan (BSER) Class 10 (Secondary) for the 2022 session.";
+$meta_keywords = "class 10th rbse result 2022, check rbse class 10 result 2022 online, official rajasthan board link, rajresults nic in index 2022 secondary";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "class 10th rbse result 2022, check rbse class 10 result 2022 o
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Rajasthan Mirror" target="_blank">Access Rajasthan Mirror</a>
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Board Portal" target="_blank">Visit RBSE Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official class 10th rbse result 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "class 10th rbse result 2022, check rbse class 10 result 2022 o
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to class 10th rbse result 2022 data, please visit the RBSE headquarters in Ajmer or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Rajasthan 10th 2022 Result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "class 10th rbse result 2022, check rbse class 10 result 2022 o
         <br>
         <strong>3. Is the result from Rajasthan 10th Board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "class 10th rbse result 2022" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in</div>
+    <h2 class='sr-title'>MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in";
+$page_description = "Download MJPRU Admit Card 2025 for Private & Regular exams. Get direct link for Mahatma Jyotiba Phule Rohilkhand University UG/PG Hall Ticket, Exam Schedule, and private entrance info.";
+$page_keywords = "MJPRU Admit Card 2025, MJP Rohilkhand University Hall Ticket, MJPRU Admit Card Private, Download MJPRU Call Letter, mjpru.ac.in admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">MJPRU Admit Card 2025: MJP Rohilkhand University Hall Ticket Download</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-university me-2"></i> <strong>University Update:</strong> Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly has activated the admit card link for odd/even semesters and annual exams. Candidates can download their hall tickets using the form number.
@@ -108,8 +131,7 @@ $meta_keywords = "";
                         <div id="mjpruQ1" class="accordion-collapse collapse" data-bs-parent="#mjpruFaq">
                             <div class="accordion-body text-light-gray">
                                 You can retrieve your form number from the 'Find Form Number' link on the mjpruiums.in portal by entering your name and father's name.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -120,8 +142,7 @@ $meta_keywords = "";
                         <div id="mjpruQ2" class="accordion-collapse collapse" data-bs-parent="#mjpruFaq">
                             <div class="accordion-body text-light-gray">
                                 Immediately contact your college principal or visited the MJPRU university examination control room in Bareilly with your exam fee receipt.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -132,10 +153,8 @@ $meta_keywords = "";
                         <div id="mjpruQ3" class="accordion-collapse collapse" data-bs-parent="#mjpruFaq">
                             <div class="accordion-body text-light-gray">
                                 University exams proceed as per the schedule unless a revised date sheet is officially released on the portal. Always check the 'Announcements' section before leaving for the exam.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Quick Links</h5>
@@ -143,14 +162,14 @@ $meta_keywords = "";
                         <a href="ccs-university-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">CCSU Admit Card</a>
                         <a href="ignou-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">IGNOU Hall Ticket</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-graduation-cap me-2"></i> Other University Portals</h3>
                 <div class="row g-3">
+                    <?php
                     $unis = [
                         'ccsu-admit-card.php' => 'CCSU Admit Card',
                         'ccs-admit-card.php' => 'CCS Hall Ticket',
@@ -164,11 +183,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -198,3 +216,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket</div>
+    <h2 class='sr-title'>SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket";
+$page_description = "SSC CGL Tier 1 Admit Card 2024 Download Link. Get region-wise call letters for SSC CGL Tier I Exam. Exam date, reporting time, and important instructions for CGL 2024.";
+$page_keywords = "SSC CGL Tier 1 Admit Card 2024, SSC CGL Tier I Hall Ticket, Download CGL Tier 1 2024 Admit Card, ssc.gov.in cgl tier 1 admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">SSC CGL <span class="text-warning">Tier 1 Admit Card 2024</span></h1>
+            
             
             <div class="alert alert-primary border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Download Available:</h4>
                         <p class="mb-0">The Staff Selection Commission (SSC) has released the <strong>CGL Tier 1 Admit Card 2024</strong> across all regions. Candidates can now download their e-call letters by logging into their respective regional websites.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -90,20 +112,17 @@ $meta_keywords = "";
                                 <div class="p-4 bg-secondary rounded-4 text-center border border-secondary shadow-sm">
                                     <h6 class="text-white">Karnataka Kerala (KKR)</h6>
                                     <a href="https://www.ssckkr.kar.nic.in" class="text-warning small fst-italic">ssckkr.kar.nic.in</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary rounded-4 text-center border border-secondary shadow-sm">
                                     <h6 class="text-white">Southern Region (SR)</h6>
                                     <a href="http://www.sscsr.gov.in" class="text-warning small fst-italic">sscsr.gov.in</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary rounded-4 text-center border border-secondary shadow-sm">
                                     <h6 class="text-white">Madhya Pradesh (MPR)</h6>
                                     <a href="http://www.sscmpr.org" class="text-warning small fst-italic">sscmpr.org</a>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Key Information on CGL Tier 1 Hall Ticket</h2>
@@ -139,8 +158,7 @@ $meta_keywords = "";
                                 <div id="cg1" class="accordion-collapse collapse" data-bs-parent="#cglTier1Faq">
                                     <div class="accordion-body text-white-50">
                                         The main website only provides a list of regions. You must go to your specific regional website (like NR, CR, or WR) to download the actual PDF.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white border-secondary">
                                 <h3 class="accordion-header">
@@ -151,8 +169,7 @@ $meta_keywords = "";
                                 <div id="cg2" class="accordion-collapse collapse" data-bs-parent="#cglTier1Faq">
                                     <div class="accordion-body text-white-50">
                                         If the photo is not clear, you must carry two identical original photographs to the center along with the hall ticket to avoid rejection.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white">
                                 <h3 class="accordion-header">
@@ -163,14 +180,11 @@ $meta_keywords = "";
                                 <div id="cg3" class="accordion-collapse collapse" data-bs-parent="#cglTier1Faq">
                                     <div class="accordion-body text-white-50">
                                         Not necessary. However, ensure that all the information, including instructions, is clearly visible on the printouts.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- Interlinking -->
             <div class="p-5 bg-dark border border-secondary rounded-4 shadow-lg text-center mt-5">
@@ -180,11 +194,9 @@ $meta_keywords = "";
                     <a href="ssc-mts-havaldar-admit-card-2024.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">SSC MTS Admit Card</a>
                     <a href="ssc-gd-constable-admit-card-2025.php" class="btn btn-outline-warning rounded-pill px-4 btn-sm">SSC GD constable</a>
                     <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                
+        
+
 
 <style>
 .bg-gradient-dark {
@@ -200,3 +212,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

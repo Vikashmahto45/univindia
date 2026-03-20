@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jammu and kashmir result - Official JKBOSE Result Hub"; 
 $meta_description = "Check Jammu and Kashmir board results on jammu and kashmir result. Access official JKBOSE 10th & 12th scorecards and archival links on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jammu and kashmir result - Official JKBOSE Result Hub</div>
+    <h2 class='sr-title'>jammu and kashmir result - Official JKBOSE Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jammu and kashmir result - Official JKBOSE Result Hub"; 
+$meta_description = "Check Jammu and Kashmir board results on jammu and kashmir result. Access official JKBOSE 10th & 12th scorecards and archival links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all Jammu and Kashmir Board of School Education
                 (JKBOSE) examination results for both Jammu and Kashmir divisions. Access official JKBOSE mirrors and
                 historical archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open JKBOSE Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Jammu and Kashmir Board (jkbose.nic.in) results by student name alternative criteria for
                         various examination batches and sessions.</p>
                     <a href="https://jkbose.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     Having a verified digital result from the <strong>jammu and kashmir result</strong> hub is essential
                     for students to complete their academic verification and proof of educational attainment even years
                     after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,26 +108,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>jammu and kashmir result</strong> are archived on verified
                             platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check JKBOSE results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>jammu and kashmir result</strong> portal is fully mobile-responsive
                             and includes a dedicated name-wise search for student examinees in J&K.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital JKBOSE marksheet valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>jammu and kashmir result</strong> gateway is
                             a valid provisional document accepted for initial institutional registration across India.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

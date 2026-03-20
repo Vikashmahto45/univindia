@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result mp - Official Madhya Pradesh Board Gateway Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result mp - Official Madhya Pradesh Board Gateway Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result mp - Official Madhya Pradesh Board Gateway Hub"; 
+$meta_description = "Check india result mp for Class 10th and 12th board results. Access the official Madhya Pradesh (MPBSE) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check MP Board Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify MP board results by student name alternative.</p>
                     <a href="https://madhya-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -80,8 +87,7 @@ $meta_keywords = "";
                     breakdown of marks and overall percentages including internal grades. Having a verified digital
                     result from the <strong>india result mp</strong> hub is essential for students to complete their
                     academic verification and proof of performance during college registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,27 +99,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>india result mp</strong> hub on <strong>indiaresults</strong> includes a
                             dedicated "Search by Name" feature for all participating MPBSE board candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including MPBSE, ensuring all result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>india result mp</strong> portal is a valid provisional
                             document accepted for initial college and university registration across Madhya Pradesh.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

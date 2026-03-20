@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CHSL Admit Card ssc.nic.in - Official Portal Download Link | Univindia.online"; 
 $meta_description = "Download SSC CHSL Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct login links for all SSC regions, application status, and Tier 1 exam hall tickets."; 
 $meta_keywords = "ssc.nic.in chsl admit card, ssc chsl hall ticket ssc nic in, ssc login admit card, chsl call letter download ssc nic in, ssc government in admit card"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CHSL Admit Card ssc.nic.in - Official Portal Download Link | Univindia.online</div>
+    <h2 class='sr-title'>SSC CHSL Admit Card ssc.nic.in - Official Portal Download Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CHSL Admit Card ssc.nic.in - Official Portal Download Link | Univindia.online"; 
+$meta_description = "Download SSC CHSL Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct login links for all SSC regions, application status, and Tier 1 exam hall tickets."; 
+$meta_keywords = "ssc.nic.in chsl admit card, ssc chsl hall ticket ssc nic in, ssc login admit card, chsl call letter download ssc nic in, ssc government in admit card"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC CHSL Admit Card ssc.nic.in - Official Portal Download Link | Univindia.online";
+$meta_description = "Download SSC CHSL Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct login links for all SSC regions, application status, and Tier 1 exam hall tickets.";
+$meta_keywords = "ssc.nic.in chsl admit card, ssc chsl hall ticket ssc nic in, ssc login admit card, chsl call letter download ssc nic in, ssc government in admit card";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -66,8 +89,16 @@ $meta_keywords = "ssc.nic.in chsl admit card, ssc chsl hall ticket ssc nic in, s
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Univindia</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Latest Admit Cards</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

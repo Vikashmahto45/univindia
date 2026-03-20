@@ -1,15 +1,29 @@
 <?php 
 include '../header.php'; 
-$page_title = ""; 
+$page_title = "Bihar Board 10th Result 22 Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
 <div class='sr-page-wrapper'>
-    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
-    <h2 class='sr-title'>bihar board 10th result 22</h2>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bihar Board 10th Result 22 Link</div>
+    <h2 class='sr-title'>Bihar Board 10th Result 22 Link</h2>
     <div class='sr-content'>
-        <title>bihar board 10th result 22 - University Results 2024</title>
+        <?php 
+include '../header.php'; 
+$page_title = "Bihar Board 10th Result 22 Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include('top.php');
+?>
+<title>bihar board 10th result 22 - University Results 2024</title>
 
 <div class="container mt-4">
     <div class="row">
@@ -35,8 +49,7 @@ $meta_keywords = "";
                         <li>Submit the details to view your mark sheet.</li>
                         <li>Download and take a printout for future reference.</li>
                     </ol>
-                </div>
-            </div>
+                
 
             <div class="text-center my-4">
                 <a href="https://www.univindia.org/" class="btn btn-lg btn-success">Click Here to Check Result</a>
@@ -62,12 +75,17 @@ $meta_keywords = "";
         </div>
         
         <div class="col-md-4">
-            
-        </div>
-    </div>
+            <?php include('sidebar.php'); ?>
+        
 </div>
 
+<?php
 include('footer.php');
+?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

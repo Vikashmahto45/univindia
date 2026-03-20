@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; assam indiaresults - Official Assam Academic Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>assam indiaresults - Official Assam Academic Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "assam indiaresults - Official Assam Academic Hub"; 
+$meta_description = "Check assam indiaresults for SEBA, AHSEC and university exams. Access the official Assam board result portal and mirrors on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Assam Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Assam board results online by student name alternative criteria for the current academic
                         examination batch on mirrors.</p>
                     <a href="https://assam.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -90,8 +97,7 @@ $meta_keywords = "";
                     for all major exams. Having a verified digital result from the <strong>assam indiaresults</strong>
                     hub is essential for students to complete their academic verification and proof of educational
                     achievement during transition and registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,27 +109,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>You can use the <strong>assam indiaresults</strong> portal by selecting the SEBA HSLC section
                             and using the dedicated name search feature for students.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">When will the AHSEC HS 12th result be out?</button>
                     <div class="faq-answer">
                         <p>Dates are announced by AHSEC Guwahati. The <strong>assam indiaresults</strong> hub provides
                             real-time notifications as soon as official data is released by the council.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital Assam marksheet valid for university admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>assam indiaresults</strong> gateway is a
                             valid provisional document accepted for initial university registration and verification
                             across Assam and India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

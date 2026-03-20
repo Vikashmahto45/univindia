@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result - Official National Results Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>india result - Official National Results Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result - Official National Results Hub"; 
+$meta_description = "Check all board results on india result. Access the official indiaresults portal for 10th & 12th scorecards across all Indian states and sessions."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open National Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>All India Directory</h3>
                     <p>Verify examination (Secondary/Sr. Secondary) results by student name or roll number alternative criteria for all participate academic batches.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the National Indian Board Gateways</h3>
                 <p>The <strong>india result</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification across all states. The system provides a detailed subject-wise breakdown for each batch of student examinees in both school and college levels. Having a verified digital result from the <strong>india result</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the Indian result links permanently active on this hub?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>india result</strong> are archived on verified platforms for lifelong academic verification access nationwide.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check board results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india result</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees across most state boards.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet from indiaresult valid for admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>india result</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

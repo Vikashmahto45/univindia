@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2023 bihar board - Official Bihar 10th Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 10th 2023 bihar board - Official Bihar 10th Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 10th 2023 bihar board - Official Bihar 10th Hub"; 
+$meta_description = "Check Bihar Board 10th result 2023 on india result 10th 2023 bihar board. Access official BSEB Matric 2023 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Matric Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Bihar Board (biharboardonline.bihar.gov.in) Matric results 2023 by student name
                         alternative criteria for the 2023 academic batch.</p>
                     <a href="https://bihar.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -91,8 +98,7 @@ $meta_keywords = "";
                     practical marks for all students. Having a verified digital result from the <strong>india result
                         10th 2023 bihar board</strong> hub is essential for students to complete their academic
                     verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -104,16 +110,14 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>india result 10th 2023 bihar board</strong> are permanently
                             archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Bihar 10th results by name only on android
                         devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india result 10th 2023 bihar board</strong> portal includes a
                             dedicated name-wise search for student examinees in Bihar for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 Bihar Matric marksheet valid for 11th
                         admission?</button>
@@ -121,12 +125,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>india result 10th 2023 bihar board</strong>
                             gateway is a valid provisional document accepted for initial secondary school registration
                             across Bihar.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

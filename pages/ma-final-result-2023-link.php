@@ -1,12 +1,27 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MA Final Result 2023 - Master of Arts Final Year Result Online"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div class="result-container">
-    <h1>MA Final Result 2023</h1>
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MA Final Result 2023 - Master of Arts Final Year Result Online</div>
+    <h2 class='sr-title'>MA Final Result 2023 - Master of Arts Final Year Result Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MA Final Result 2023 - Master of Arts Final Year Result Online"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="result-container">
+    
     
     <div class="info-box">
         <p>Looking for <strong>MA Final Result 2023</strong>? You've come to the right place. University portals have updated the latest results for the Master of Arts final year examinations.</p>
@@ -22,7 +37,13 @@ $meta_keywords = "";
         
         <h2>What's Next After MA Final Result?</h2>
         <p>After clearing your MA Final exams, you can explore opportunities in teaching, research (NET/JRF), or further doctoral studies (PhD). Ensure you check your percentage and individual subject marks carefully.</p>
+    
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

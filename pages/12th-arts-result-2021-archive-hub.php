@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th arts result 2021 - Official National Arts Result Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12th arts result 2021 - Official National Arts Result Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th arts result 2021 - Official National Arts Result Archive"; 
+$meta_description = "Check 12th arts result 2021 for all state and central boards. Access the official 2021 Class 12th Arts result portal on indiaresults for archive access."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify 12th Arts 2021 results using student name or roll number.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +88,7 @@ $meta_keywords = "";
                     digital result from the <strong>12th arts result 2021</strong> hub is essential for students to
                     complete their certificate verification and proof of senior secondary completion during university
                     registration and document authentication processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,28 +101,27 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>12th arts result 2021</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> and national digital lockers for
                             long-term access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 12th Arts result 2021 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>12th arts result 2021</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated "Search by Name" feature for all major
                             board candidates of that academic year.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 marksheet valid for university admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>12th arts result 2021</strong> archive is a valid
                             provisional document accepted for initial undergraduate registration and document
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "india result 10th pseb, check punjab board 10th result online,
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th PSEB - Official Punjab Mirror</div>
-    <h2 class='sr-title'>India Result 10th PSEB: Your Comprehensive Navigator to Punjab School Education Board (PSEB), SAS Nagar (Mohali), Secondary (Class 10), Matriculation, High School Certificate (HSC), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 10th PSEB - Official Punjab Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 10th PSEB - Official Punjab Mirror"; 
+$meta_description = "Check India Result 10th PSEB online. Access the primary Punjab Board Class 10th results via the official IndiaResults mirror. High-speed matric result link."; 
+$meta_keywords = "india result 10th pseb, check punjab board 10th result online, pseb matric 2024 results link, indiaresults punjab board 10th, pseb 10th result official"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 10th PSEB - Official Punjab Mirror";
+$meta_description = "Check India Result 10th PSEB online. Access the primary Punjab Board Class 10th results via the official IndiaResults mirror. High-speed matric result link.";
+$meta_keywords = "india result 10th pseb, check punjab board 10th result online, pseb matric 2024 results link, indiaresults punjab board 10th, pseb 10th result official";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 10th pseb, check punjab board 10th result online,
                 <a href="https://punjab.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Punjab Results" target="_blank">Access IndiaResults</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">Visit National Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 10th PSEB Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 10th pseb, check punjab board 10th result online,
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 10th PSEB data, please visit the PSEB headquarters in Mohali or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 10th PSEB Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 10th pseb, check punjab board 10th result online,
         <br>
         <strong>3. Is the result from India Result 10th PSEB valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result 10th PSEB" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

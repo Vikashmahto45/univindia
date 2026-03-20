@@ -7,10 +7,27 @@ $meta_keywords = "india result 5th 2023, 5th class board result 2023, check 5th 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 5th 2023 - Official Primary Board Result Gateway</div>
-    <h2 class='sr-title'>india result 5th 2023: Your Authoritative Navigator to State Primary Education Boards, Elementary Councils,
-            and National Informatics Centre (NIC) Result Gateways for the 2023 Batch Across India</h2>
+    <h2 class='sr-title'>india result 5th 2023 - Official Primary Board Result Gateway</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 5th 2023 - Official Primary Board Result Gateway"; 
+$meta_description = "Check india result 5th 2023 for RBSE, PSEB, and all state boards. Access the official 5th class board result mirror for the 2023 academic session."; 
+$meta_keywords = "india result 5th 2023, 5th class board result 2023, check 5th result online, indiaresults 5th class, primary board result 2023"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result 5th 2023 - Official Primary Board Result Gateway";
+$meta_description = "Check india result 5th 2023 for RBSE, PSEB, and all state boards. Access the official 5th class board result mirror for the 2023 academic session.";
+$meta_keywords = "india result 5th 2023, 5th class board result 2023, check 5th result online, indiaresults 5th class, primary board result 2023";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -67,8 +84,7 @@ $meta_keywords = "india result 5th 2023, 5th class board result 2023, check 5th 
                 <a href="https://results.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="National Portal" target="_blank">National Result Gateway</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 5th 2023 Online</h2>
         <p>To ensure a successful result search in the 5th Class records, follow these technical steps:</p>
@@ -105,7 +121,7 @@ $meta_keywords = "india result 5th 2023, 5th class board result 2023, check 5th 
                 final database changes related to india result 5th 2023 data, please visit the respective Board
                 headquarters or your Primary School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 5th</h2>
@@ -121,8 +137,13 @@ $meta_keywords = "india result 5th 2023, 5th class board result 2023, check 5th 
         <strong>3. Is the online result enough for 6th class admission?</strong>
         <p>The online "india result 5th 2023" is usually accepted for the admission process, but the original
             school-issued TC (Transfer Certificate) and Marksheet are final requirements.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

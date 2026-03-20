@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rbse 10th board result date - Official Rajasthan BSER Notification Hub"; 
 $meta_description = "Check rbse 10th board result date for the current academic session. Access the official Rajasthan Board (BSER) result date alerts on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 10th board result date - Official Rajasthan BSER Notification Hub</div>
+    <h2 class='sr-title'>rbse 10th board result date - Official Rajasthan BSER Notification Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rbse 10th board result date - Official Rajasthan BSER Notification Hub"; 
+$meta_description = "Check rbse 10th board result date for the current academic session. Access the official Rajasthan Board (BSER) result date alerts on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Get authentic information about the Rajasthan Board 10th result
                 declaration date. Official BSER Ajmer notifications and update alerts for the current session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Get Date Alerts</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Update Tool</h3>
                     <p>Verify Rajasthan board result timing and press release status alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +89,7 @@ $meta_keywords = "";
                     documents for Higher Secondary admission. Having a verified update from the <strong>rbse 10th board
                         result date</strong> hub is essential for students to manage their academic planning and
                     enrollment timelines with accuracy and peace of mind during the result season.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,26 +101,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The <strong>rbse 10th board result date</strong> often falls in late May or early June. Exact
                             dates are released by BSER Ajmer via official press notifications 24-48 hours prior.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the date on this portal official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for RBSE,
                             ensuring all scheduling information and result links are synchronized with official board
                             data.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Will I get the result link immediately on the announced date?</button>
                     <div class="faq-answer">
                         <p>Yes, once the <strong>rbse 10th board result date</strong> and time are reached, the direct
                             result gateway will be activated for high-speed score checking on our mirrors.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

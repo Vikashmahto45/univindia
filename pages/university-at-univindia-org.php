@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "University at Univindia.org Portal - Rajasthan Higher Education Gateway"; 
 $meta_description = "Access university services via the Univindia.org portal. Official guide to navigating exam forms, admit cards, and results for RRBMU Alwar and other institutions."; 
 $meta_keywords = "university at univindia.org"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; University at Univindia.org Portal - Rajasthan Higher Education Gateway</div>
+    <h2 class='sr-title'>University at Univindia.org Portal - Rajasthan Higher Education Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "University at Univindia.org Portal - Rajasthan Higher Education Gateway"; 
+$meta_description = "Access university services via the Univindia.org portal. Official guide to navigating exam forms, admit cards, and results for RRBMU Alwar and other institutions."; 
+$meta_keywords = "university at univindia.org"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "University at Univindia.org Portal - Rajasthan Higher Education Gateway";
+$meta_description = "Access university services via the Univindia.org portal. Official guide to navigating exam forms, admit cards, and results for RRBMU Alwar and other institutions.";
+$meta_keywords = "university at univindia.org";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>University at Univindia.org Portal: Your Guide to Regional Higher Education</h1>
+        
         
         <p>The term "University at Univindia.org Portal" refers to the core digital infrastructure utilized by several prominent academic institutions in Rajasthan, most notably the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar, to manage their centralized examination systems, student registrations, and result declarations. For hundreds of thousands of undergraduate and postgraduate students across Alwar and surrounding districts, the `univindia.org` network is the definitive destination for all academic administrative tasks. Whether you are a fresh enrollee filling out an examination form or a final-year graduate student awaiting your marksheet, the Univindia.org Portal provides the organized, high-performance interface required to manage your university lifecycle. In this comprehensive guide, we will provide a detailed walkthrough of the portal's structure, explain how to navigate its various functionally distinct panels, and offer expert advice on ensuring a seamless and secure digital experience at Alwar's leading university.</p>
 
@@ -49,6 +71,15 @@ $meta_keywords = "university at univindia.org";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official RRBMU Alwar website at univindia.org.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

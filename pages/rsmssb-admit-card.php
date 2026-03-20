@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online"; 
 $meta_description = "Download RSMSSB Admit Card. Get the direct link for Rajasthan RSMSSB CET, LDC, Patwari, and VDO examination hall tickets at rsmssb.rajasthan.gov.in."; 
 $meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket download, rsmssb.rajasthan.gov.in admit card login, rsmssb exam date 2024 download, rajasthan sso admit card"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online"; 
+$meta_description = "Download RSMSSB Admit Card. Get the direct link for Rajasthan RSMSSB CET, LDC, Patwari, and VDO examination hall tickets at rsmssb.rajasthan.gov.in."; 
+$meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket download, rsmssb.rajasthan.gov.in admit card login, rsmssb exam date 2024 download, rajasthan sso admit card"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online";
+$meta_description = "Download RSMSSB Admit Card. Get the direct link for Rajasthan RSMSSB CET, LDC, Patwari, and VDO examination hall tickets at rsmssb.rajasthan.gov.in.";
+$meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket download, rsmssb.rajasthan.gov.in admit card login, rsmssb exam date 2024 download, rajasthan sso admit card";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Rajasthan Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSEB 10th Result 2024 Roll Number Roll Code - Bihar Board Matric Result</div>
-    <h2 class='sr-title'>BSEB 10th Result 2024 Roll Number Roll Code</h2>
+    <h2 class='sr-title'>BSEB 10th Result 2024 Roll Number Roll Code - Bihar Board Matric Result</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "BSEB 10th Result 2024 Roll Number Roll Code - Bihar Board Matric Result"; 
+$meta_description = "Check BSEB 10th Result 2024 using Roll Number and Roll Code. Bihar School Examination Board Matric result link, marksheet download, and process explained."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div class="result-container">
     
     <div class="info-box">
@@ -28,8 +39,7 @@ $meta_keywords = "";
         </ul>
         <div class="button-wrapper">
             <a href="http://results.biharboardonline.com/" class="btn-primary" target="_blank" rel="nofollow">Check BSEB 10th Result 2024</a>
-        </div>
-    </div>
+        
 
     <div class="important-info">
         <h3>Why Roll Code is Important?</h3>
@@ -39,8 +49,11 @@ $meta_keywords = "";
             <tr><td>Credentials Required</td><td>Roll Code & Roll Number</td></tr>
             <tr><td>Official Website</td><td>biharboardonline.bihar.gov.in</td></tr>
         </table>
-    </div>
-</div>
+    
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

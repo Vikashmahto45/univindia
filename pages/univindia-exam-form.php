@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Exam Form - Online University Registration Portal"; 
 $meta_description = "Fill your MGSU, RRBMU, and MSBU exam forms on the Univindia Exam Form portal. Complete guide to online registration, fee payment, and form status."; 
 $meta_keywords = "Univindia Exam Form - Online University Registration Portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Exam Form - Online University Registration Portal</div>
+    <h2 class='sr-title'>Univindia Exam Form - Online University Registration Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Exam Form - Online University Registration Portal"; 
+$meta_description = "Fill your MGSU, RRBMU, and MSBU exam forms on the Univindia Exam Form portal. Complete guide to online registration, fee payment, and form status."; 
+$meta_keywords = "Univindia Exam Form - Online University Registration Portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Exam Form - Online University Registration Portal";
+$meta_description = "Fill your MGSU, RRBMU, and MSBU exam forms on the Univindia Exam Form portal. Complete guide to online registration, fee payment, and form status.";
+$meta_keywords = "Univindia Exam Form - Online University Registration Portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Exam Form: Your Step-by-Step Guide to Online University Registration</h1>
+        
         
         <p>The term "Univindia Exam Form" represents the first and most critical step in a student's academic year at many major universities in Rajasthan. Whether you are enrolled at Maharaja Ganga Singh University (MGSU) in Bikaner, Raj Rishi Bhartrihari Matsya University (RRBMU) in Alwar, or Maharaja Surajmal Brij University (MSBU) in Bharatpur, the Univindia portal is the official gateway for submitting your examination application. In this comprehensive guide, we will provide a detailed walkthrough of how to fill out your Univindia Exam Form, manage online fee payments, and troubleshoot common issues to ensure your registration is successful for the upcoming examination cycle.</p>
 
@@ -50,6 +72,15 @@ $meta_keywords = "Univindia Exam Form - Online University Registration Portal";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized form submissions and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

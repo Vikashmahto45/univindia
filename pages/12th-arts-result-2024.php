@@ -7,9 +7,27 @@ $meta_keywords = "12th arts result 2024, class 12 arts result, check 12th arts b
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Arts Result 2024 - Official Higher Secondary result Portal</div>
-    <h2 class='sr-title'>12th Arts Result 2024: Your Comprehensive Navigator to National and State Board Class 12 (Arts/Humanities Stream), Senior Secondary education, and Pre-University Certification (Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), Rajasthan Board (RBSE), Uttar Pradesh Board (UPMSP), and Bihar School Examination Board (BSEB)) Result Gateways Across India</h2>
+    <h2 class='sr-title'>12th Arts Result 2024 - Official Higher Secondary result Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "12th Arts Result 2024 - Official Higher Secondary result Portal"; 
+$meta_description = "Check 12th Arts Result 2024 for all state and central boards. Access the 2024 Class 12 Arts merit list, stream-wise toppers, and official marksheets online."; 
+$meta_keywords = "12th arts result 2024, class 12 arts result, check 12th arts board result, arts result 2024 check online, 12th humanities result portal, official result hub"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "12th Arts Result 2024 - Official Higher Secondary result Portal";
+$meta_description = "Check 12th Arts Result 2024 for all state and central boards. Access the 2024 Class 12 Arts merit list, stream-wise toppers, and official marksheets online.";
+$meta_keywords = "12th arts result 2024, class 12 arts result, check 12th arts board result, arts result 2024 check online, 12th humanities result portal, official result hub";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "12th arts result 2024, class 12 arts result, check 12th arts b
                 <a href="http://rajresults.nic.in" class="btn" title="RBSE Arts result" target="_blank">RBSE Arts 2024 Result</a>
                 <a href="http://upresults.nic.in" class="btn" title="UP State Status" target="_blank">UPMSP 12th Result 2024</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Records</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 12th Arts Result 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "12th arts result 2024, class 12 arts result, check 12th arts b
         <br>
         <strong>3. Is the result from 12th Arts Result 2024 valid for global Arts programs?</strong>
         <p>Yes, your senior secondary Arts results (verified via the official "12th Arts Result 2024" portal or DigiLocker) are universally accepted for international admissions and visa documentation in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

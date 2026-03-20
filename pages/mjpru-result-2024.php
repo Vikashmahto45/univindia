@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MJPRU Result 2024 - Official Rohilkhand University Results Hub"; 
 $meta_description = "Check MJPRU Result 2024 online. Access the Mahatma Jyotiba Phule Rohilkhand University (Bareilly) UG/PG results. Official semester marks and merit list link."; 
 $meta_keywords = "mjpru result 2024, check rohilkhand university result 2024, mjpru bareilly ug pg result online, mjpru semester result 2024, official mjpru exam result link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MJPRU Result 2024 - Official Rohilkhand University Results Hub</div>
+    <h2 class='sr-title'>MJPRU Result 2024 - Official Rohilkhand University Results Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MJPRU Result 2024 - Official Rohilkhand University Results Hub"; 
+$meta_description = "Check MJPRU Result 2024 online. Access the Mahatma Jyotiba Phule Rohilkhand University (Bareilly) UG/PG results. Official semester marks and merit list link."; 
+$meta_keywords = "mjpru result 2024, check rohilkhand university result 2024, mjpru bareilly ug pg result online, mjpru semester result 2024, official mjpru exam result link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MJPRU Result 2024 - Official Rohilkhand University Results Hub";
+$meta_description = "Check MJPRU Result 2024 online. Access the Mahatma Jyotiba Phule Rohilkhand University (Bareilly) UG/PG results. Official semester marks and merit list link.";
+$meta_keywords = "mjpru result 2024, check rohilkhand university result 2024, mjpru bareilly ug pg result online, mjpru semester result 2024, official mjpru exam result link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MJPRU Result 2024: Your Comprehensive Navigator to Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly, Undergraduate (UG), Postgraduate (PG), and University Result Gateways (Government of Uttar Pradesh, Higher Education Department, and University Technical Cell) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "MJPRU Result 2024" (applicable to the annual, semester, and professional examinations conducted for the academic session by the Mahatma Jyotiba Phule Rohilkhand University, Bareilly) represents the single most significant digital milestone for over 5 lakh students residing in the academic and industrial landscape of Bareilly and the Rohilkhand region. As the primary official gateway to the university's educational infrastructure (Bareilly, MJPRU HQ), and the traditional higher education infrastructure of the nation, the "MJPRU Result 2024" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final degree credits via dedicated university server endpoints and authorized mirror archives. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are regional priorities, the "MJPRU Result 2024" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Rohilkhand University technical councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "MJPRU Result 2024," ensuring that every aspiring student and researcher in Bareilly can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "mjpru result 2024, check rohilkhand university result 2024, mj
                 <a href="https://exam.mjpruonline.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="MJPRU Examination Portal" target="_blank">Visit Exam Home</a>
                 <a href="https://indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Authorized Mirror Hub" target="_blank">National Result Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official MJPRU Result 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your university, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "mjpru result 2024, check rohilkhand university result 2024, mj
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to MJPRU Result 2024, please visit the university headquarters in Bareilly or your respective college office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About MJPRU Result 2024 Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "mjpru result 2024, check rohilkhand university result 2024, mj
         <br>
         <strong>3. Is the result from MJPRU Result valid for government jobs?</strong>
         <p>Yes, your university results (verified via the official "MJPRU Result 2024" portal) are the primary records for applying to the 'UPPSC' and other recruitment schemes in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

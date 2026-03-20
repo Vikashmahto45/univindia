@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NEET Admit Card 2024 Download - NTA National Eligibility Entrance Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download NEET Admit Card 2024. Get the direct link for NTA NEET UG entrance examination hall tickets at exams.nta.ac.in/NEET."; 
 $meta_keywords = "neet admit card 2024 download, nta neet ug hall ticket download, exams.nta.ac.in neet login, neet exam date 2024 download, medical entrance call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET Admit Card 2024 Download - NTA National Eligibility Entrance Test Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>NEET Admit Card 2024 Download - NTA National Eligibility Entrance Test Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NEET Admit Card 2024 Download - NTA National Eligibility Entrance Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download NEET Admit Card 2024. Get the direct link for NTA NEET UG entrance examination hall tickets at exams.nta.ac.in/NEET."; 
+$meta_keywords = "neet admit card 2024 download, nta neet ug hall ticket download, exams.nta.ac.in neet login, neet exam date 2024 download, medical entrance call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "NEET Admit Card 2024 Download - NTA National Eligibility Entrance Test Hall Ticket | Univindia.online";
+$meta_description = "Download NEET Admit Card 2024. Get the direct link for NTA NEET UG entrance examination hall tickets at exams.nta.ac.in/NEET.";
+$meta_keywords = "neet admit card 2024 download, nta neet ug hall ticket download, exams.nta.ac.in neet login, neet exam date 2024 download, medical entrance call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "neet admit card 2024 download, nta neet ug hall ticket downloa
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Medical News</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

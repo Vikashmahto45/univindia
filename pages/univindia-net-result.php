@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net Result - Check University Exam Results Online"; 
 $meta_description = "Check your MGSU, RRBMU, and other university results on Univindia Net. Complete guide to finding your marksheets, checking revaluation results, and more."; 
 $meta_keywords = "univindia net result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net Result - Check University Exam Results Online</div>
+    <h2 class='sr-title'>Univindia Net Result - Check University Exam Results Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net Result - Check University Exam Results Online"; 
+$meta_description = "Check your MGSU, RRBMU, and other university results on Univindia Net. Complete guide to finding your marksheets, checking revaluation results, and more."; 
+$meta_keywords = "univindia net result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net Result - Check University Exam Results Online";
+$meta_description = "Check your MGSU, RRBMU, and other university results on Univindia Net. Complete guide to finding your marksheets, checking revaluation results, and more.";
+$meta_keywords = "univindia net result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net Result: Your Ultimate Guide to Checking University Scores</h1>
+        
         
         <p>Univindia Net Result is one of the most searched terms by students in Rajasthan during the peak months of May, June, and July. As Maharaja Ganga Singh University (MGSU) and other regional universities declare their annual and semester exam results, Univindia.net becomes the focal point of student activity. This digital portal is designed to provide quick and accurate access to marksheets for thousands of undergraduate and postgraduate students. In this comprehensive guide, we will explore the inner workings of the Univindia Net Result system, providing you with tips and tricks to access your scores efficiently and understand exactly what your marksheet entails.</p>
 
@@ -50,6 +72,15 @@ $meta_keywords = "univindia net result";
 
         <p><i>Disclaimer: Univindia.online is an independent educational site and is not the official Univindia.net portal. We provide information and guides only. For official results and updates, always refer to the authorized university website.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

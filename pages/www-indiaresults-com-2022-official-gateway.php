@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www.indiaresults.com 2022 - Official National 2022 Hub"; 
 $meta_description = "Check all board results on www.indiaresults.com 2022. Access the official indiaresults gateway for 10th & 12th results of the 2022 academic session."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.indiaresults.com 2022 - Official National 2022 Hub</div>
+    <h2 class='sr-title'>www.indiaresults.com 2022 - Official National 2022 Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www.indiaresults.com 2022 - Official National 2022 Hub"; 
+$meta_description = "Check all board results on www.indiaresults.com 2022. Access the official indiaresults gateway for 10th & 12th results of the 2022 academic session."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all examination results of the 2022 academic
                 session across India. Access official board mirrors and direct result links for all participating state
                 boards for the 2022 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify board results (Secondary/Senior Secondary) 2022 by roll number or name alternative
                         criteria for the 2022 academic batch.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +95,7 @@ $meta_keywords = "";
                     students. Having a verified digital result from the <strong>www.indiaresults.com 2022</strong>
                     archive hub is essential for students to complete their academic verification and proof of
                     educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -97,26 +107,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>www.indiaresults.com 2022</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 board results by name only on mobile?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>www.indiaresults.com 2022</strong> portal includes a dedicated
                             name-wise search for student examinees for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>www.indiaresults.com 2022</strong> gateway
                             is a valid provisional document accepted for initial institutional registration and
                             verification across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

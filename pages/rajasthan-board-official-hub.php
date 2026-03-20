@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rajasthan board - Official BSER/RBSE Result Gateway"; 
 $meta_description = "Check all Rajasthan Board results for 10th and 12th classes. Access the official BSER (RBSE) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan board - Official BSER/RBSE Result Gateway</div>
+    <h2 class='sr-title'>rajasthan board - Official BSER/RBSE Result Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rajasthan board - Official BSER/RBSE Result Gateway"; 
+$meta_description = "Check all Rajasthan Board results for 10th and 12th classes. Access the official BSER (RBSE) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized hub for all Rajasthan academic results. Board of
                 Secondary Education Rajasthan (BSER) official mirrors and links updated.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Board Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify Rajasthan board results by student name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +87,7 @@ $meta_keywords = "";
                     <strong>rajasthan board</strong> hub is essential for students to complete their college
                     registration and certificate verification processes efficiently. This digital record is a legally
                     valid provisional document.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,25 +99,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>rajasthan board</strong> result portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for all major board examinations.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the online RBSE results official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for BSER Ajmer,
                             ensuring that all result data is mirrored directly from official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>rajasthan board</strong> portal is a valid provisional
                             document accepted for initial college and university registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

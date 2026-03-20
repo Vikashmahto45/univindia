@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Indiaresults.com Punjab 2022 - Official State Result Archive"; 
 $meta_description = "Check Indiaresults.com Punjab 2022 for PSEB Class 10th and 12th board results. Access the Punjab State 2022 merit lists, roll number search, and school wise results."; 
 $meta_keywords = "indiaresults.com punjab 2022, pseb result 2022, indiaresults punjab board 2022, check punjab 10th result 2022, pseb 12th result date 2022, india results punjab portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indiaresults.com Punjab 2022 - Official State Result Archive</div>
+    <h2 class='sr-title'>Indiaresults.com Punjab 2022 - Official State Result Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Indiaresults.com Punjab 2022 - Official State Result Archive"; 
+$meta_description = "Check Indiaresults.com Punjab 2022 for PSEB Class 10th and 12th board results. Access the Punjab State 2022 merit lists, roll number search, and school wise results."; 
+$meta_keywords = "indiaresults.com punjab 2022, pseb result 2022, indiaresults punjab board 2022, check punjab 10th result 2022, pseb 12th result date 2022, india results punjab portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Indiaresults.com Punjab 2022 - Official State Result Archive";
+$meta_description = "Check Indiaresults.com Punjab 2022 for PSEB Class 10th and 12th board results. Access the Punjab State 2022 merit lists, roll number search, and school wise results.";
+$meta_keywords = "indiaresults.com punjab 2022, pseb result 2022, indiaresults punjab board 2022, check punjab 10th result 2022, pseb 12th result date 2022, india results punjab portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Indiaresults.com Punjab 2022: Your Comprehensive Navigator to Punjab School Education Board (PSEB) Class 10th (Matriculation), Class 12th (Senior Secondary), 5th Class, and 8th Class Primary result Gateways (Government of Punjab, Punjab School Education Board (PSEB), Department of School Education Punjab, and IndiaResults Punjab Regional Center) Result Portals Across Punjab</h1>
+        
         
         <p>The "Indiaresults.com Punjab 2022" (applicable to the annual and supplementary board examinations conducted for the 2021-2022 academic session by the Punjab School Education Board) represents a vital digital milestone for over 8 lakh students residing in the educationally focused landscape of Punjab. As the primary private-partner gateway to the state education infrastructure (PSEB Headquarters, Regional Offices), and the traditional school education infrastructure of the nation, the "Indiaresults.com Punjab 2022" serves as the formal secondary master directory that allows candidates to access their entrance scores, board proficiency percentages, and final certificate allotment via specialized third-party and institutional server endpoints. For the 2022 academic cycle, where high-quality digital education and integrated script analytics were statewide priorities, the "Indiaresults.com Punjab 2022" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Punjab education councils implemented state-of-the-art 'Digital Result Dissemination,' ensuring that the 2022 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and integrity. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Indiaresults.com Punjab 2022," ensuring that every aspiring student and researcher in Punjab can approach their academic records without technical delay or misinformation.</p>
 
@@ -46,10 +68,9 @@ $meta_keywords = "indiaresults.com punjab 2022, pseb result 2022, indiaresults p
                 <a href="https://results.gov.in" class="btn" title="Main Government Hub" target="_blank">Results.nic.in Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Punjab Records</a>
                 <a href="https://punjab.gov.in" class="btn" title="Government Status" target="_blank">Punjab Government Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Indiaresults.com Punjab 2022 Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "indiaresults.com punjab 2022, pseb result 2022, indiaresults p
         <br>
         <strong>3. Is the result from Indiaresults.com Punjab 2022 valid for global roles?</strong>
         <p>Yes, your senior secondary results (verified via the official "Indiaresults.com Punjab 2022" portal) are often accepted records for applying to international colleges or job visas in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

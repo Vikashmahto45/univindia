@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IBPS PO Admit Card 2022: Download Prelims/Mains Hall Ticket</div>
-    <h2 class='sr-title'>IBPS PO Admit Card 2022 (Archive)</h2>
+    <h2 class='sr-title'>IBPS PO Admit Card 2022: Download Prelims/Mains Hall Ticket</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "IBPS PO Admit Card 2022: Download Prelims/Mains Hall Ticket"; 
+$meta_description = "Download IBPS PO Admit Card 2022. Get direct link for CRP PO/MT XII Preliminary and Main Examination Hall Ticket. Check exam dates and banking exam instructions."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
@@ -43,22 +54,19 @@ $meta_keywords = "";
                                 <div class="h4 text-primary"><i class="bi bi-laptop"></i></div>
                                 <h5 class="fw-bold">Step 1</h5>
                                 <p class="small">Visit the official Website of IBPS at <strong>ibps.in</strong>.</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-4">
                             <div class="p-3 border rounded text-center h-100 bg-light">
                                 <div class="h4 text-primary"><i class="bi bi-hand-index-thumb"></i></div>
                                 <h5 class="fw-bold">Step 2</h5>
                                 <p class="small">Click on the link for <strong>'CRP PO/MT'</strong> and select the XII cycle.</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-4">
                             <div class="p-3 border rounded text-center h-100 bg-light">
                                 <div class="h4 text-primary"><i class="bi bi-shield-lock"></i></div>
                                 <h5 class="fw-bold">Step 3</h5>
                                 <p class="small">Enter Registration/Roll Number and Password (DOB).</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-navy">Key Information on 2022 Admit Card</h2>
@@ -120,14 +128,11 @@ $meta_keywords = "";
                         <div>
                             <h6 class="fw-bold text-primary">3. Is it necessary to carry the prelims admit card to the mains?</h6>
                             <p class="small">In the 2022 cycle, candidates were often required to carry the authenticated prelims admit card to the mains venue.</p>
-                        </div>
-                    </div>
+                        
 
                     <p class="mt-5 text-muted small"><strong>Disclaimer:</strong> This page is for informational and educational purposes about past banking examinations. We are not IBPS (ibps.in).</p>
-                </div>
-            </div>
-        </div>
-    </div>
+                
+        
 </div>
 
 <style>
@@ -135,6 +140,10 @@ $meta_keywords = "";
 .text-navy { color: #000080; }
 .table-navy-themed thead { background-color: #000080; }
 </style>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

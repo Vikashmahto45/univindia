@@ -7,9 +7,27 @@ $meta_keywords = "india results jk, check jkbose results 2024 online, official j
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india results jk - Official JKBOSE Board Mirror</div>
-    <h2 class='sr-title'>india results jk: Your Comprehensive Navigator to Jammu and Kashmir Board of School Education (JKBOSE), Jammu/Srinagar, School Public Examinations (Class 10 & 12), and Jammu & Kashmir State Board Result Gateways (Government of Jammu & Kashmir, School Education Department, and National Informatics Centre (NIC) J&K State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india results jk - Official JKBOSE Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india results jk - Official JKBOSE Board Mirror"; 
+$meta_description = "Check india results jk online. Access the results for JKBOSE Class 10 and Class 12 for the Jammu and Kashmir board for the 2024 session."; 
+$meta_keywords = "india results jk, check jkbose results 2024 online, official jk board link, jkbose nic in results index portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india results jk - Official JKBOSE Board Mirror";
+$meta_description = "Check india results jk online. Access the results for JKBOSE Class 10 and Class 12 for the Jammu and Kashmir board for the 2024 session.";
+$meta_keywords = "india results jk, check jkbose results 2024 online, official jk board link, jkbose nic in results index portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india results jk, check jkbose results 2024 online, official j
                 <a href="https://jk.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="J&K Results HUB" target="_blank">Access JK Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
                 <a href="http://jandk.results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="JK NIC link" target="_blank">Visit JK NIC Results</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india results jk Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india results jk, check jkbose results 2024 online, official j
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india results jk data, please visit the board headquarters in Jammu or Srinagar or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About india results jk Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india results jk, check jkbose results 2024 online, official j
         <br>
         <strong>3. Is the result from india results jk valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "india results jk" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

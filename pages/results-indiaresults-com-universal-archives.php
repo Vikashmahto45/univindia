@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "results indiaresults com - Official National Academic Archive Gateway"; 
 $meta_description = "Check results indiaresults com for university and board exams. Access the official academic result portal and archives across all Indian states on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; results indiaresults com - Official National Academic Archive Gateway</div>
+    <h2 class='sr-title'>results indiaresults com - Official National Academic Archive Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "results indiaresults com - Official National Academic Archive Gateway"; 
+$meta_description = "Check results indiaresults com for university and board exams. Access the official academic result portal and archives across all Indian states on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized national gateway for all academic results across boards
                 and universities in India. Official mirrors and archival links updated for all years and sessions.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open National Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -37,8 +49,7 @@ $meta_keywords = "";
                     <p>Verified gateway for UG, PG, and Professional degree results, Semester-wise archives, and result
                         news.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -83,8 +94,7 @@ $meta_keywords = "";
                     <strong>results indiaresults com</strong> hub is essential for students to complete their academic
                     verification and proof of educational attainment during university graduation and registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -97,27 +107,29 @@ $meta_keywords = "";
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards and universities across India, ensuring result data is mirrored directly from
                             official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results by name search on this hub?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>results indiaresults com</strong> portal includes a dedicated name-wise
                             search for major state boards and universities, providing an alternative to roll number
                             search.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet valid for job verification?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>results indiaresults com</strong> archive is
                             a valid provisional document accepted for initial background verification and educational
                             proof nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

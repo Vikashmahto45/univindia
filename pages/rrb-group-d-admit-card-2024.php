@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online"; 
 $meta_description = "Download RRB Group D Admit Card 2024. Check your railway application status, exam date, shift timings, and download hall ticket from regional RRB websites."; 
 $meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb group d status, rrb exam city link, download rrb call letter, rrbcdg.gov.in admit card"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online</div>
+    <h2 class='sr-title'>RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online"; 
+$meta_description = "Download RRB Group D Admit Card 2024. Check your railway application status, exam date, shift timings, and download hall ticket from regional RRB websites."; 
+$meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb group d status, rrb exam city link, download rrb call letter, rrbcdg.gov.in admit card"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online";
+$meta_description = "Download RRB Group D Admit Card 2024. Check your railway application status, exam date, shift timings, and download hall ticket from regional RRB websites.";
+$meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb group d status, rrb exam city link, download rrb call letter, rrbcdg.gov.in admit card";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -102,8 +125,16 @@ $meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Home Portal</a>
             <a href="results.php" class="hot-btn bg-red">Latest Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

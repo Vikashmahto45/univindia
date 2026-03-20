@@ -1,20 +1,34 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "wbresults.nic.in 10th result link - Official West Bengal Hub"; 
 $meta_description = "Check West Bengal Board 10th result on wbresults.nic.in 10th result link. Access official WBBSE Madhyamik scorecards and 10th result links on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; wbresults.nic.in 10th result link - Official West Bengal Hub</div>
+    <h2 class='sr-title'>wbresults.nic.in 10th result link - Official West Bengal Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "wbresults.nic.in 10th result link - Official West Bengal Hub"; 
+$meta_description = "Check West Bengal Board 10th result on wbresults.nic.in 10th result link. Access official WBBSE Madhyamik scorecards and 10th result links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for West Bengal Board of Secondary Education (WBBSE) 10th (Madhyamik) examination results via the official wbresults.nic.in infrastructure. Access official board mirrors and 10th result links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 10th Result Link</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -32,8 +46,7 @@ $meta_keywords = "";
                     <h3>WB 10th Results Directory</h3>
                     <p>Verify board results (wbresults.nic.in) 10th class by student roll number or name alternative criteria for the academic batch nationwide.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -57,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the West Bengal (WBBSE) 10th Board Gateways</h3>
                 <p>The <strong>wbresults.nic.in 10th result link</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Secondary admission registrations, scholarship applications, or career verification in West Bengal. The system provides a detailed subject-wise breakdown for each batch of student examinees across all districts. Having a verified digital result from the <strong>wbresults.nic.in 10th result link</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -69,23 +81,25 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 10th result links on wbresults.nic.in permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>wbresults.nic.in 10th result link</strong> are archived on verified platforms for lifelong academic verification access in West Bengal.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check board 10th results by name only on mobile devices using this hub?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>wbresults.nic.in 10th result link</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in West Bengal.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 10th marksheet valid for regular 11th admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>wbresults.nic.in 10th result link</strong> gateway is a valid provisional document accepted for initial institutional registration across West Bengal and India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 11th results - Official National Examination Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>class 11th results - Official National Examination Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "class 11th results - Official National Examination Hub"; 
+$meta_description = "Check class 11th results for all major state and central boards. Access the official Class 11 (Plus One) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse Class 11 Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify Class 11 results using Roll Number or Name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +86,7 @@ $meta_keywords = "";
                     marks, including internal assessments and practical scores. Having a verified digital result from
                     the <strong>class 11th results</strong> hub is essential for students to complete their certificate
                     verification and proof of performance.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,28 +98,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>class 11th results</strong> portal on <strong>indiaresults</strong> provides
                             a convenient "Search by Name" feature for all major state and central board candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this national hub official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             and central boards, ensuring that all result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 11th result valid for 12th registration?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>class 11th results</strong> portal is a valid
                             provisional document accepted for initial Class 12th registration and school document
                             verification processes nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

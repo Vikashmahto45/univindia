@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores"; 
 $meta_description = "Check your MGSU Bikaner MA results on Univindia Net. Official guide to downloading Master of Arts previous and final year marksheets online."; 
 $meta_keywords = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores"; 
+$meta_description = "Check your MGSU Bikaner MA results on Univindia Net. Official guide to downloading Master of Arts previous and final year marksheets online."; 
+$meta_keywords = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores";
+$meta_description = "Check your MGSU Bikaner MA results on Univindia Net. Official guide to downloading Master of Arts previous and final year marksheets online.";
+$meta_keywords = "Univindia Net MGSU MA Result - Bikaner University Postgraduate Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU MA Result: Your Guide to Bikaner University Master of Arts Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU MA Result" represents a critical academic milestone for thousands of postgraduate students at Maharaja Ganga Singh University (MGSU), Bikaner. Whether you are enrolled in MA Previous or MA Final, the declaration of results is the official validation of your advanced studies in humanities and social sciences. The `univindia.net` portal serves as the centralized digital hub for all MGSU PG results, providing students with instantaneous access to their grades across various specializations such as History, Hindi, English, Political Science, Geography, and Economics. In this comprehensive guide, we will provide a detailed walkthrough of how to check your MGSU MA results on the official portal, how to interpret your marksheet correctly, and what steps to take if you encounter technical or academic hurdles during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Net MGSU MA Result - Bikaner University Postgraduate
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized postgraduate result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,9 +7,27 @@ $meta_keywords = "all india result, check board results online all india, high s
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; All India Result - Official National Result verification Portal</div>
-    <h2 class='sr-title'>All India Result: Your Comprehensive Navigator to National Board Result Gateways, State Board Examination Councils, 10th Matrix, 12th Higher Secondary (Class 12), Science, Commerce, Arts Streams, University Degree, and National informatics Centre (NIC) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>All India Result - Official National Result verification Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "All India Result - Official National Result verification Portal"; 
+$meta_description = "Check All India Result online. Access the high-speed national and state board result verification framework. Official 10th, 12th, and Degree marks link cluster."; 
+$meta_keywords = "all india result, check board results online all india, high speed result portal india, official all india result link, board and university results 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "All India Result - Official National Result verification Portal";
+$meta_description = "Check All India Result online. Access the high-speed national and state board result verification framework. Official 10th, 12th, and Degree marks link cluster.";
+$meta_keywords = "all india result, check board results online all india, high speed result portal india, official all india result link, board and university results 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "all india result, check board results online all india, high s
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Result Home</a>
                 <a href="https://cbseresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE Result Hub" target="_blank">Visit CBSE Results</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official All India Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via the national system, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "all india result, check board results online all india, high s
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to All India Result data, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About All India Result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "all india result, check board results online all india, high s
         <br>
         <strong>3. Is the result from All India Result valid for national scholarships?</strong>
         <p>Yes, your board results (verified via the official "All India Result" portal) are recorded in the National Scholarship Portal (NSP) database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

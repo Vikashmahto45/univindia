@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive"; 
 $meta_description = "Check Punjab Board 2022 results on www pseb ac in indiaresult com 2022. Access the official PSEB Class 10 and 12 archival results for the 2022 session."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive</div>
+    <h2 class='sr-title'>www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive"; 
+$meta_description = "Check Punjab Board 2022 results on www pseb ac in indiaresult com 2022. Access the official PSEB Class 10 and 12 archival results for the 2022 session."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Punjab School Education
                 Board (PSEB) Class 10th (Matric) and 12th (Senior Secondary). Official PSEB mirrors and 2022 archival
                 links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Punjab Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Punjab Board (pseb.ac.in) results 2022 by student name alternative criteria for the 2022
                         academic examination batch verification.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +98,7 @@ $meta_keywords = "";
                     practical marks for all students. Having a verified digital result from the <strong>www pseb ac in
                         indiaresult com 2022</strong> archive hub is essential for students to complete their academic
                     verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,26 +110,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>www pseb ac in indiaresult com 2022</strong> are permanently
                             archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 Punjab results by name only online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>www pseb ac in indiaresult com 2022</strong> portal includes a
                             dedicated name-wise search for student examinees in Punjab for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 PSEB marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>www pseb ac in indiaresult com 2022</strong>
                             gateway is a valid provisional document accepted for initial university registration and
                             verification across Punjab.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

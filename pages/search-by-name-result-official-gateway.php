@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "search by name result - Official National Name-Wise Hub"; 
 $meta_description = "Check board results by student name on search by name result. Access the official indiaresults Name-Wise Search features for 10th & 12th results nationwide."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; search by name result - Official National Name-Wise Hub</div>
+    <h2 class='sr-title'>search by name result - Official National Name-Wise Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "search by name result - Official National Name-Wise Hub"; 
+$meta_description = "Check board results by student name on search by name result. Access the official indiaresults Name-Wise Search features for 10th & 12th results nationwide."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all examination results searchable by student
                 name instead of roll number. Access official board name-wise mirrors and direct score links for all
                 participating state boards nationwide.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Name-Wise Search</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify board results (10th/12th/University) using just the candidate's name or father's name
                         alternative criteria for various examination batches.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     Having a verified digital result from the <strong>search by name result</strong> hub is essential
                     for students to complete their academic verification and proof of educational attainment even years
                     after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,26 +109,28 @@ $meta_keywords = "";
                         <p>Most major state boards (like RBSE, PSEB, BSEH) and several universities indexed on
                             <strong>indiaresults</strong> support the <strong>search by name result</strong> feature.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results by name only on smartphones?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>search by name result</strong> portal is fully mobile-responsive and
                             optimized for identity searches on the go.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet found by name valid for verification?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>search by name result</strong> gateway is a
                             valid provisional document accepted for initial institutional registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

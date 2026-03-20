@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in";
+$page_description = "Download SSC GD Admit Card 2025. Get region-wise call letter links for SSC Constable GD CBT Exam, PE & MT details. 800+ words of high-quality guide for aspirants.";
+$page_keywords = "SSC GD Admit Card 2025, SSC Constable GD Hall Ticket, SSC GD 2025 Exam Date, Download SSC GD 2025 Call Letter, ssc.gov.in gd admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSC GD Admit Card 2025: Constable GD Hall Ticket Link @ ssc.gov.in</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-calendar-check me-2"></i> <strong>Exam Alert:</strong> The Staff Selection Commission (SSC) has released the tentative schedule for the Constable (GD) 2025 exam. Regional links for the application status and admit cards are being activated.
@@ -112,14 +135,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-success"><i class="fas fa-id-card me-2"></i> Original ID Proof</h5>
                             <p class="small text-light-gray mb-0">Aadhar card (Original), Voter ID, or Driving License. Ensure the date of birth matches the admit card.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-success"><i class="fas fa-camera-retro me-2"></i> Photographs</h5>
                             <p class="small text-light-gray mb-0">Two recent passport-sized color photographs, preferably the same as used in the application form.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Exam Day Prohibited Items</h2>
@@ -143,8 +164,7 @@ $meta_keywords = "";
                         <div id="gdQ1" class="accordion-collapse collapse" data-bs-parent="#gdFaq">
                             <div class="accordion-body text-light-gray">
                                 The formal admit card is released 4-5 days before the exam date. However, the application status is out 15-20 days earlier.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -155,8 +175,7 @@ $meta_keywords = "";
                         <div id="gdQ2" class="accordion-collapse collapse" data-bs-parent="#gdFaq">
                             <div class="accordion-body text-light-gray">
                                 SSC does not entertainment any request for changing the examination city or center once the allocation is finalized and mentioned on the e-call letter.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -167,10 +186,8 @@ $meta_keywords = "";
                         <div id="gdQ3" class="accordion-collapse collapse" data-bs-parent="#gdFaq">
                             <div class="accordion-body text-light-gray">
                                 Typically, there is a penalty of 1/4th of the marks assigned to a question for every incorrect answer in the CBE.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-link me-2"></i> Quick Navigation</h5>
@@ -178,14 +195,14 @@ $meta_keywords = "";
                         <a href="ssc-gd-admit-card.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">Primary GD Page</a>
                         <a href="ss-cgl-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">SSC CGL Admit Card</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Main Portal</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-tags me-2"></i> Trending Hall Tickets</h3>
                 <div class="row g-3">
+                    <?php
                     $trending = [
                         'ssc-chsl-admit-card-2024.php' => 'SSC CHSL 2024 Admit Card',
                         'ssc-gov-in-admit-card.php' => 'SSC Gov Admit Card',
@@ -199,11 +216,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -233,3 +249,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

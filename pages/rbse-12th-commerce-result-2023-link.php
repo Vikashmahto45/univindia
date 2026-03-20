@@ -1,12 +1,27 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RBSE 12th Commerce Result 2023 Link - Rajasthan Board Commerce Result"; 
 $meta_description = "Check RBSE 12th Commerce Result 2023 Link. Get the direct link to download Rajasthan Board Class 12th Commerce stream results, toppers list, and marksheet."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="result-container">
-    <h1>RBSE 12th Commerce Result 2023 Link</h1>
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RBSE 12th Commerce Result 2023 Link - Rajasthan Board Commerce Result</div>
+    <h2 class='sr-title'>RBSE 12th Commerce Result 2023 Link - Rajasthan Board Commerce Result</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RBSE 12th Commerce Result 2023 Link - Rajasthan Board Commerce Result"; 
+$meta_description = "Check RBSE 12th Commerce Result 2023 Link. Get the direct link to download Rajasthan Board Class 12th Commerce stream results, toppers list, and marksheet."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="result-container">
+    
     <div class="info-box">
         <p>Access the <strong>RBSE 12th Commerce Result 2023 Link</strong> here. The Rajasthan Board of Secondary Education (BSER) has released the results for the Commerce stream students who appeared for the Senior Secondary exams.</p>
     </div>
@@ -23,8 +38,7 @@ $meta_keywords = "";
         </ul>
         <div class="button-wrapper">
             <a href="https://rajresults.nic.in/" class="btn-primary" target="_blank" rel="nofollow">Link to RBSE 12th Commerce Result 2023</a>
-        </div>
-    </div>
+        
 
     <div class="stats-section">
         <h3>RBSE 12th Commerce Overview</h3>
@@ -43,7 +57,13 @@ $meta_keywords = "";
                 <tr><td>Result Mode</td><td>Online</td></tr>
             </tbody>
         </table>
+    
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "name wise result - Find Results by Student Name Officially"; 
 $meta_description = "Access name wise result search for all state boards and universities in India. Unified portal for official result verification using student name alternative criteria."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; name wise result - Find Results by Student Name Officially</div>
+    <h2 class='sr-title'>name wise result - Find Results by Student Name Officially</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "name wise result - Find Results by Student Name Officially"; 
+$meta_description = "Access name wise result search for all state boards and universities in India. Unified portal for official result verification using student name alternative criteria."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for accessing examination results across India using
                 the student's name alternative search feature. Official board mirrors and name-wise archival links
                 updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Name Search Portal</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify board results by student name alternative criteria for major participating state boards
                         across India on the <strong>indiaresults</strong> platform.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +95,7 @@ $meta_keywords = "";
                     digital result from the <strong>name wise result</strong> archive hub is essential for students to
                     complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,26 +108,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>name wise result</strong> are permanently archived on verified
                             platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Do all Indian boards support result search by name?</button>
                     <div class="faq-answer">
                         <p>While many major boards on the <strong>name wise result</strong> hub (like RBSE, PSEB, JAC)
                             support it, some boards may only allow roll-number based search for certain sessions.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result by name valid for university admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>name wise result</strong> gateway is a valid
                             provisional document accepted for initial college registration and verification nationwide.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

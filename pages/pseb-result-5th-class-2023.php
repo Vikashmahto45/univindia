@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "pseb result 5th class 2023 - Official Punjab Board Portal"; 
 $meta_description = "Check pseb result 5th class 2023 for Primary examinations. Access the official Punjab School Education Board (PSEB) 5th result gateway on indiaresults for fast checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; pseb result 5th class 2023 - Official Punjab Board Portal</div>
+    <h2 class='sr-title'>pseb result 5th class 2023 - Official Punjab Board Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "pseb result 5th class 2023 - Official Punjab Board Portal"; 
+$meta_description = "Check pseb result 5th class 2023 for Primary examinations. Access the official Punjab School Education Board (PSEB) 5th result gateway on indiaresults for fast checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 Primary (5th Class) results for the Punjab School
                 Education Board (PSEB). Direct portal links and mirrors updated.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 5th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Find Punjab 5th results using student names.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -73,8 +84,7 @@ $meta_keywords = "";
                     moving into Class 6th, having a verified digital result from the <strong>pseb result 5th class
                         2023</strong> hub is an essential first step in their academic progression within the Punjab
                     School system.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -86,26 +96,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>pseb result 5th class 2023</strong> portal on <strong>indiaresults</strong>
                             includes a convenient name-wise search for all primary candidates of the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2023 5th class results official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for PSEB,
                             ensuring that all 5th-grade data is mirrored directly from official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result valid for Class 6 admission in Punjab?</button>
                     <div class="faq-answer">
                         <p>The digital copy from <strong>pseb result 5th class 2023</strong> is a valid provisional
                             document accepted for initial school registration until the original physical certificates
                             are issued.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

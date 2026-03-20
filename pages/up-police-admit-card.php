@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UP Police Admit Card 2024-25: Download Constable & SI Hall Ticket @ uppbpb.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP Police Admit Card 2024-25: Download Constable & SI Hall Ticket @ uppbpb.gov.in</div>
+    <h2 class='sr-title'>UP Police Admit Card 2024-25: Download Constable & SI Hall Ticket @ uppbpb.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UP Police Admit Card 2024-25: Download Constable & SI Hall Ticket @ uppbpb.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "UP Police Admit Card 2024-25: Download Constable & SI Hall Ticket @ uppbpb.gov.in";
+$page_description = "Download UP Police Admit Card 2024-25 for Constable (60244 Vacancies) and Sub-Inspector. Get direct link for UP Police Hall Ticket, Exam Center List, and Status. 800+ words guide.";
+$page_keywords = "UP Police Admit Card 2024, UP Police Constable Hall Ticket Download, uppbpb.gov.in admit card link, UP Police Exam Date 2025, UP Police SI Admit Card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">UP Police Admit Card 2024-25: Constable & SI Hall Ticket</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-policeman me-2"></i> <strong>Recruitment Update:</strong> The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has activated the status link for the <strong>UP Police Constable (60,244 Posts)</strong> re-examination. Candidates can verify their exam city and shift at <strong>uppbpb.gov.in</strong>.
@@ -88,14 +111,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-print me-2"></i> Clear Print of Hall Ticket</h5>
                             <p class="small text-light-gray mb-0">Ensure the <strong>UP Police Call Letter</strong> is printed on a single sheet of A4 paper. Do not write anything on the back.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-id-card-alt me-2"></i> Valid Passport Photo ID</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card or PAN card is mandatory. The name on the <strong>UP Police Admit Card</strong> must match your ID credentials exactly.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">UP Police Admit Card FAQ: Frequently Asked Questions</h2>
@@ -109,8 +130,7 @@ $meta_keywords = "";
                         <div id="upQ1" class="accordion-collapse collapse" data-bs-parent="#upPoliceFaq">
                             <div class="accordion-body text-light-gray">
                                 No, the UPPRPB does not entertain any requests for center or city changes. The center printed on the <strong>UP Police Hall Ticket</strong> is final and binding for the candidate.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +141,8 @@ $meta_keywords = "";
                         <div id="upQ2" class="accordion-collapse collapse" data-bs-parent="#upPoliceFaq">
                             <div class="accordion-body text-light-gray">
                                 You can use the <strong>'Know Your Registration Number'</strong> link on the UPPRPB portal by entering your Name, Mobile Number, and Date of Birth to access your <strong>UP Police Admit Card</strong>.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Other State Police Links</h5>
@@ -132,14 +150,14 @@ $meta_keywords = "";
                         <a href="bihar-police-admit-card.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">Bihar Police Card</a>
                         <a href="haryana-police-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">Haryana Police Hall Ticket</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-gavel me-2"></i> Selection & Physical Tests</h3>
                 <div class="row g-3">
+                    <?php
                     $upp_links = [
                         'up-police-constable-syllabus.php' => 'Constable OMR Pattern',
                         'up-police-physical-standard.php' => '4.8 km Run Criteria',
@@ -153,11 +171,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +204,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

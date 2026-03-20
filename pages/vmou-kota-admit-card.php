@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online"; 
 $meta_description = "Download VMOU Kota Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) TEE examination hall tickets at vmou.ac.in."; 
 $meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, kota open university admit card 2024, vmou tee hall ticket"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online"; 
+$meta_description = "Download VMOU Kota Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) TEE examination hall tickets at vmou.ac.in."; 
+$meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, kota open university admit card 2024, vmou tee hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online";
+$meta_description = "Download VMOU Kota Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) TEE examination hall tickets at vmou.ac.in.";
+$meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, kota open university admit card 2024, vmou tee hall ticket";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -86,8 +109,16 @@ $meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmo
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check VMOU Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "WB Madhyamik Result 2021 - Historical West Bengal Class 10th Archive"; 
 $meta_description = "Check WB Madhyamik Result 2021 online. Access the historical West Bengal Board of Secondary Education (WBBSE) results for the 2021 session. Verify your 2021 scores."; 
 $meta_keywords = "wb madhyamik result 2021, check wbbse result 2021, west bengal 10th result 2021 link, wbresults.nic.in 2021 madhyamik, official madhyamik portal 2021, wbbse marksheet 2021"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; WB Madhyamik Result 2021 - Historical West Bengal Class 10th Archive</div>
+    <h2 class='sr-title'>WB Madhyamik Result 2021 - Historical West Bengal Class 10th Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "WB Madhyamik Result 2021 - Historical West Bengal Class 10th Archive"; 
+$meta_description = "Check WB Madhyamik Result 2021 online. Access the historical West Bengal Board of Secondary Education (WBBSE) results for the 2021 session. Verify your 2021 scores."; 
+$meta_keywords = "wb madhyamik result 2021, check wbbse result 2021, west bengal 10th result 2021 link, wbresults.nic.in 2021 madhyamik, official madhyamik portal 2021, wbbse marksheet 2021"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "WB Madhyamik Result 2021 - Historical West Bengal Class 10th Archive";
+$meta_description = "Check WB Madhyamik Result 2021 online. Access the historical West Bengal Board of Secondary Education (WBBSE) results for the 2021 session. Verify your 2021 scores.";
+$meta_keywords = "wb madhyamik result 2021, check wbbse result 2021, west bengal 10th result 2021 link, wbresults.nic.in 2021 madhyamik, official madhyamik portal 2021, wbbse marksheet 2021";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>WB Madhyamik Result 2021: Your Comprehensive Navigator to West Bengal Board of Secondary Education (WBBSE), Secondary School Certificate (Class 10), and West Bengal State Board historical Result Gateways (Government of West Bengal, School Education Department, and National Informatics Centre (NIC) West Bengal State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "WB Madhyamik Result 2021" (applicable to the annual secondary board examinations and continuous evaluation conducted for the 2020-2021 academic session by the West Bengal Board of Secondary Education) represents a unique and significant digital milestone for over 1 million students residing in the culturally rich and academic landscape of West Bengal. As the primary official gateway to the state's historical education infrastructure (Kolkata, Salt Lake City HQ), and the traditional school education infrastructure of the nation, the "WB Madhyamik Result 2021" serves as the formal secondary master directory that allows candidates to access their scores, internal assessment marks, and final graduation certificate via dedicated government server endpoints. The 2021 academic cycle was particularly notable as it utilized an alternative evaluation criteria during the global health crisis, making the "WB Madhyamik Result 2021" search the digital gateway through which candidates verify their fundamental academic achievement with maximum transparency and integrity. The West Bengal education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2021 scores (including subject-wise grades, total marks, and division component evaluation based on internal performance) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "WB Madhyamik Result 2021," ensuring that every student and researcher in West Bengal can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "wb madhyamik result 2021, check wbbse result 2021, west bengal
                 <a href="https://wbbse.wb.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="WBBSE Official Portal" target="_blank">Visit WBBSE Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official WB Madhyamik Result 2021 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2021 records of your WBBSE board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "wb madhyamik result 2021, check wbbse result 2021, west bengal
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to WB Madhyamik Result 2021, please visit the WBBSE headquarters at Nivedita Bhaban, Salt Lake City, Kolkata or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About WB Madhyamik Result 2021 Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "wb madhyamik result 2021, check wbbse result 2021, west bengal
         <br>
         <strong>3. Is the result from WB Madhyamik Result 2021 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "WB Madhyamik Result 2021" portal) were the primary records for applying to the 'Vivekananda Scholarship' and other state schemes in 2021-22.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

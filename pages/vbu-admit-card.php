@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online"; 
 $meta_description = "Download VBU Admit Card. Get the direct link for Vinoba Bhave University (VBU) UG and PG semester examination hall tickets at vbu.ac.in."; 
 $meta_keywords = "vbu admit card download, vinoba bhave university hall ticket download, vbu.ac.in login admit card, vbu exam date 2024 download, university semester call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online"; 
+$meta_description = "Download VBU Admit Card. Get the direct link for Vinoba Bhave University (VBU) UG and PG semester examination hall tickets at vbu.ac.in."; 
+$meta_keywords = "vbu admit card download, vinoba bhave university hall ticket download, vbu.ac.in login admit card, vbu exam date 2024 download, university semester call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online";
+$meta_description = "Download VBU Admit Card. Get the direct link for Vinoba Bhave University (VBU) UG and PG semester examination hall tickets at vbu.ac.in.";
+$meta_keywords = "vbu admit card download, vinoba bhave university hall ticket download, vbu.ac.in login admit card, vbu exam date 2024 download, university semester call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "vbu admit card download, vinoba bhave university hall ticket d
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Varsity News</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

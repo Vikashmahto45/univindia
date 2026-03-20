@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia.net - Maharaja Ganga Singh University Result Portal"; 
 $meta_description = "Univindia.net is the primary site for MGSU Bikaner result checks, examination forms, and student panels. Discover how to use Univindia Net effectively."; 
 $meta_keywords = "univindia net"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia.net - Maharaja Ganga Singh University Result Portal</div>
+    <h2 class='sr-title'>Univindia.net - Maharaja Ganga Singh University Result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia.net - Maharaja Ganga Singh University Result Portal"; 
+$meta_description = "Univindia.net is the primary site for MGSU Bikaner result checks, examination forms, and student panels. Discover how to use Univindia Net effectively."; 
+$meta_keywords = "univindia net"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia.net - Maharaja Ganga Singh University Result Portal";
+$meta_description = "Univindia.net is the primary site for MGSU Bikaner result checks, examination forms, and student panels. Discover how to use Univindia Net effectively.";
+$meta_keywords = "univindia net";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia.net: The Official Hub for University Results and Admit Cards</h1>
+        
         
         <p>Univindia.net stands as a robust digital infrastructure serving the academic needs of thousands of students under the Maharaja Ganga Singh University (MGSU) in Bikaner. As higher education shifts towards a more digitized framework, portals like Univindia.net become indispensable for maintaining the flow of information between the university and its vast student body. This portal is specifically optimized to handle critical tasks such as result declarations, admit card generation, and the processing of examination forms, ensuring that every student has access to their crucial academic documentation with just a few clicks.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "univindia net";
 
         <p><i>Note: This website, Univindia.online, is an independent educational guide and is not affiliated with the official Univindia.net domain. We provide secondary information to help students navigate the official resources more effectively.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

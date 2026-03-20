@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CCSU Admit Card 2025: CCS University Meerut Admit Card Download @ ccsuniversity.ac.in</div>
-    <h2 class='sr-title'>CCSU Admit Card 2025: Download CCS University Meerut Hall Ticket</h2>
+    <h2 class='sr-title'>CCSU Admit Card 2025: CCS University Meerut Admit Card Download @ ccsuniversity.ac.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "CCSU Admit Card 2025: CCS University Meerut Admit Card Download @ ccsuniversity.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "CCSU Admit Card 2025: CCS University Meerut Admit Card Download @ ccsuniversity.ac.in";
+$page_description = "Download CCSU Admit Card 2025 for Regular and Private students. Get direct link for CCS University Meerut Hall Ticket, Exam Schedule, and center details. 800+ words of in-depth guide.";
+$page_keywords = "CCSU Admit Card 2025, CCS University Meerut Hall Ticket Download, CCSU Admit Card 2025 Regular Private, CCSU Exam Form Status, ccsuniversity.ac.in admit card";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -93,14 +112,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-danger"><i class="fas fa-file-pdf me-2"></i> Physical Admit Card</h5>
                             <p class="small text-light-gray mb-0">Always bring two clear printouts. Keep one in your bag as a backup if the first one gets damaged due to sweat or rain.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-danger"><i class="fas fa-id-card me-2"></i> Verified Photo ID</h5>
                             <p class="small text-light-gray mb-0">Carry a valid Govt. proof like Aadhar Card or Driving License to verify your identity against the hall ticket.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">CCSU Admit Card FAQ - Common Queries</h2>
@@ -114,8 +131,7 @@ $meta_keywords = "";
                         <div id="ccuQ1" class="accordion-collapse collapse" data-bs-parent="#ccsuFaq">
                             <div class="accordion-body text-light-gray">
                                 CCSU often splits centers for the same college based on roll number ranges or subject groups. Always follow the center address printed on YOUR <strong>CCSU Call Letter</strong>.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -126,10 +142,8 @@ $meta_keywords = "";
                         <div id="ccuQ2" class="accordion-collapse collapse" data-bs-parent="#ccsuFaq">
                             <div class="accordion-body text-light-gray">
                                 No, most <strong>CCSU Hall Tickets</strong> are now digitally signed and barcode-enabled, making school attestation unnecessary for Regular students.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-link me-2"></i> Important CCSU Portals</h5>
@@ -137,14 +151,14 @@ $meta_keywords = "";
                         <a href="ccs-admit-card.php" class="btn btn-outline-danger btn-sm rounded-pill px-4">CCS Admit Card</a>
                         <a href="ccs-university-admit-card.php" class="btn btn-outline-danger btn-sm rounded-pill px-4">CCSU University Link</a>
                         <a href="../index.php" class="btn btn-primary btn-sm rounded-pill px-5 shadow">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Other State University Links</h3>
                 <div class="row g-3">
+                    <?php
                     $up_state = [
                         'uniraj-admit-card.php' => 'Uniraj Hall Ticket',
                         'mjpru-admit-card.php' => 'MJPRU Bareilly Admit Card',
@@ -158,11 +172,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -190,6 +203,12 @@ $meta_keywords = "";
     transform: translateY(-5px);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

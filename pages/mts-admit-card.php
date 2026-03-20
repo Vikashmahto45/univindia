@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download SSC MTS Admit Card 2024. Get the direct link for Multi Tasking Staff and Havaldar (CBIC & CBN) examination status, exam dates, and hall tickets at ssc.gov.in."; 
 $meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall ticket link, ssc.gov.in mts admit card, ssc havladar admit card 2024"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download SSC MTS Admit Card 2024. Get the direct link for Multi Tasking Staff and Havaldar (CBIC & CBN) examination status, exam dates, and hall tickets at ssc.gov.in."; 
+$meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall ticket link, ssc.gov.in mts admit card, ssc havladar admit card 2024"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online";
+$meta_description = "Download SSC MTS Admit Card 2024. Get the direct link for Multi Tasking Staff and Havaldar (CBIC & CBN) examination status, exam dates, and hall tickets at ssc.gov.in.";
+$meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall ticket link, ssc.gov.in mts admit card, ssc havladar admit card 2024";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -99,8 +122,16 @@ $meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

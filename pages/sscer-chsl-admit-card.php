@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online"; 
 $meta_description = "Download SSCER CHSL Admit Card 2024 for Eastern Region. Check SSC Combined Higher Secondary Level (10+2) application status and hall ticket at sscer.org."; 
 $meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticket, sscer.org chsl status, ssc chsl admit card kolkata, ssc chsl admit card jharkhand"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online</div>
+    <h2 class='sr-title'>SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online"; 
+$meta_description = "Download SSCER CHSL Admit Card 2024 for Eastern Region. Check SSC Combined Higher Secondary Level (10+2) application status and hall ticket at sscer.org."; 
+$meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticket, sscer.org chsl status, ssc chsl admit card kolkata, ssc chsl admit card jharkhand"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online";
+$meta_description = "Download SSCER CHSL Admit Card 2024 for Eastern Region. Check SSC Combined Higher Secondary Level (10+2) application status and hall ticket at sscer.org.";
+$meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticket, sscer.org chsl status, ssc chsl admit card kolkata, ssc chsl admit card jharkhand";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticke
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Univindia Home</a>
             <a href="results.php" class="hot-btn bg-red">Latest Result News</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

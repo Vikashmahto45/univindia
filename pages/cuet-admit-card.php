@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG</div>
-    <h2 class='sr-title'>CUET Admit Card 2025: NTA Common University Entrance Test Hall Ticket</h2>
+    <h2 class='sr-title'>CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG";
+$page_description = "Download CUET Admit Card 2025 for UG Entrance Exam. Get direct link for NTA CUET Hall Ticket, Exam Schedule, and City Intimation Slip. 800+ words guide.";
+$page_keywords = "CUET Admit Card 2025, NTA CUET UG Hall Ticket Download, CUET 2025 Call Letter Link, exams.nta.ac.in cuet login, CUET City Slip Status";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -87,14 +106,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-success">
                             <h5 class="text-success"><i class="fas fa-file-pdf me-2"></i> Printed Admit Card</h5>
                             <p class="small text-light-gray mb-0">Carry the original printed PDF. Photocopies of photocopies are not recommended as the barcode might become unreadable.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-success">
                             <h5 class="text-success"><i class="fas fa-id-card me-2"></i> Original Photo ID Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card, Voter ID, or School ID with Photo. Digital IDs on phones will not be accepted at the gate.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">CUET FAQ: Frequently Asked Questions</h2>
@@ -108,8 +125,7 @@ $meta_keywords = "";
                         <div id="cqQ1" class="accordion-collapse collapse" data-bs-parent="#cuetFaq">
                             <div class="accordion-body text-light-gray">
                                 This usually happens on the "City Intimation Slip". The actual exam center name is only printed on the <strong>Final CUET Admit Card</strong> released 72 hours before your shift.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -120,10 +136,8 @@ $meta_keywords = "";
                         <div id="cqQ2" class="accordion-collapse collapse" data-bs-parent="#cuetFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, only transparent water bottles and a personal transparent hand sanitizer (50ml) are allowed inside the hall along with your <strong>CUET Call Letter</strong>.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Related Academic Links</h5>
@@ -131,14 +145,14 @@ $meta_keywords = "";
                         <a href="cuet-pg-admit-card.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">CUET PG Admit Card</a>
                         <a href="ugc-net-admit-card-2024.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">UGC NET Hall Ticket</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-graduation-cap me-2"></i> University Admission Links</h3>
                 <div class="row g-3">
+                    <?php
                     $univ_links = [
                         'du-admit-card.php' => 'Delhi University Admit Card',
                         'bhu-admit-card.php' => 'BHU Entrance Hall Ticket',
@@ -152,11 +166,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -184,6 +197,12 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

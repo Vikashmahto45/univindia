@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha matric result - Official BSE Odisha Secondary Gateway"; 
 $meta_description = "Check odisha matric result for HSC exams. Access the official Board of Secondary Education (BSE) Odisha result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha matric result - Official BSE Odisha Secondary Gateway</div>
+    <h2 class='sr-title'>odisha matric result - Official BSE Odisha Secondary Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha matric result - Official BSE Odisha Secondary Gateway"; 
+$meta_description = "Check odisha matric result for HSC exams. Access the official Board of Secondary Education (BSE) Odisha result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized destination for the High School Certificate (HSC)
                 results for Odisha. Official BSE mirrors and portal links updated for the latest Matriculation session.
             </p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Matric Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify Odisha Matric results by student name alternative.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -82,8 +93,7 @@ $meta_keywords = "";
                     <strong>odisha matric result</strong> hub is essential for students to complete their academic
                     verification and proof of educational attainment during school-level transition and registration
                     processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -96,27 +106,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>odisha matric result</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in the BSE Odisha
                             board examinations.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSE (Odisha), ensuring all result data is mirrored directly from official
                             board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet valid for HS (+2) admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>odisha matric result</strong> hub is a valid
                             provisional document accepted for initial secondary school registration and verification
                             across Odisha.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

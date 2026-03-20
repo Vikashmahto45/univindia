@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rajasthan board 12th result 2022 arts - Official RBSE Archive Portal"; 
 $meta_description = "Check rajasthan board 12th result 2022 arts for the Senior Secondary examination. Access the official 2022 RBSE/BSER 12th Arts archive gateway on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan board 12th result 2022 arts - Official RBSE Archive Portal</div>
+    <h2 class='sr-title'>rajasthan board 12th result 2022 arts - Official RBSE Archive Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rajasthan board 12th result 2022 arts - Official RBSE Archive Portal"; 
+$meta_description = "Check rajasthan board 12th result 2022 arts for the Senior Secondary examination. Access the official 2022 RBSE/BSER 12th Arts archive gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the official 2022 Senior Secondary (12th Class Arts) results for
                 the Rajasthan Board (BSER/RBSE). Direct archival links updated.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify RBSE 12th arts results 2022 by student name.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -75,8 +86,7 @@ $meta_keywords = "";
                     Hindi Literature. Through <strong>indiaresults.com</strong>, students can expect 100% accurate data
                     retrieval, mirroring the official physical marksheet issued by the board office at Ajmer. This
                     digital record acts as a valid provisional certificate.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,27 +99,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>rajasthan board 12th result 2022 arts</strong> portal on
                             <strong>indiaresults</strong> provides a convenient name-wise search for all 2022 Arts
                             stream candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2022 Rajasthan results official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresult.com</strong> platform acts as a formal partner for RBSE
                             Ajmer, ensuring all results displayed for <strong>rajasthan board 12th result 2022
                                 arts</strong> are official for provisional use.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for BA admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>rajasthan board 12th result 2022 arts</strong> is a valid
                             provisional document accepted for initial college registration across Rajasthan and India.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

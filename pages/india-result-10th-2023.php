@@ -7,9 +7,27 @@ $meta_keywords = "india result 10th 2023, 10th class result 2023 india, board re
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th 2023 - Official National Secondary School Archive</div>
-    <h2 class='sr-title'>India Result 10th 2023: Reclaiming the Academic Successes of the National Secondary Class</h2>
+    <h2 class='sr-title'>India Result 10th 2023 - Official National Secondary School Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 10th 2023 - Official National Secondary School Archive"; 
+$meta_description = "Check India Result 10th 2023 for all major state and central boards. Access the 2023 archival results, merit lists, and marksheet download links for matric scholars."; 
+$meta_keywords = "india result 10th 2023, 10th class result 2023 india, board results 10th 2023, national matric results 2023 archive, indiaresults 10th 2023 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 10th 2023 - Official National Secondary School Archive";
+$meta_description = "Check India Result 10th 2023 for all major state and central boards. Access the 2023 archival results, merit lists, and marksheet download links for matric scholars.";
+$meta_keywords = "india result 10th 2023, 10th class result 2023 india, board results 10th 2023, national matric results 2023 archive, indiaresults 10th 2023 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "india result 10th 2023, 10th class result 2023 india, board re
                 <a href="https://cbseresults.nic.in" class="btn" title="CBSE School Results 2023" target="_blank">CBSE Result Portal</a>
                 <a href="https://www.indiaresults.com" class="btn" title="National Results Mirror Portal" target="_blank">IndiaResults National</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 10th 2023</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "india result 10th 2023, 10th class result 2023 india, board re
         <br>
         <strong>3. Is the online provisional marksheet from 2023 valid for 11th admission?</strong>
         <p>Yes, for the initial rounds of online school admission and counseling (like OFSS Bihar or DOST Telangana), the computer-generated "India Result 10th 2023" scorecard is fully accepted as proof of your qualification until the original certificate is provided by the school.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

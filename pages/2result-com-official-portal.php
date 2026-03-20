@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 2result com - Official National Academic Results Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>2result com - Official National Academic Results Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "2result com - Official National Academic Results Portal"; 
+$meta_description = "Check 2result com for all board and university exams. Access the official national results portal, news updates, and archival scores on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Your Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway for degree results, semester archives, and registration status search via the
                         2result portal mirrors.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +96,7 @@ $meta_keywords = "";
                     Having a verified digital result from the <strong>2result com</strong> hub is essential for students
                     to complete their academic verification and proof of educational attainment during university
                     graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,26 +109,25 @@ $meta_keywords = "";
                         <p>Simply navigate to the <strong>2result com</strong> gateway on
                             <strong>indiaresults.com</strong>, select your state board, and enter your roll details to
                             view your scorecard.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on 2result com officially recognized?</button>
                     <div class="faq-answer">
                         <p>Yes, all data mirrored through the <strong>2result com</strong> hub is fetched directly from
                             official board and university servers, ensuring 100% accuracy.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check university results by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Many participating universities on the <strong>2result com</strong> portal
                             support searching for results by student name for ease of access.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

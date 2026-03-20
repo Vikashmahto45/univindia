@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MGSU Univindia Result 2018 - Bikaner University 2018 Score Archive"; 
 $meta_description = "Check your MGSU Bikaner 2018 results via Univindia. Official guide to retrieving historical 2018 Maharaja Ganga Singh University marksheets online."; 
 $meta_keywords = "mgsu univindia result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MGSU Univindia Result 2018 - Bikaner University 2018 Score Archive</div>
+    <h2 class='sr-title'>MGSU Univindia Result 2018 - Bikaner University 2018 Score Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MGSU Univindia Result 2018 - Bikaner University 2018 Score Archive"; 
+$meta_description = "Check your MGSU Bikaner 2018 results via Univindia. Official guide to retrieving historical 2018 Maharaja Ganga Singh University marksheets online."; 
+$meta_keywords = "mgsu univindia result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MGSU Univindia Result 2018 - Bikaner University 2018 Score Archive";
+$meta_description = "Check your MGSU Bikaner 2018 results via Univindia. Official guide to retrieving historical 2018 Maharaja Ganga Singh University marksheets online.";
+$meta_keywords = "mgsu univindia result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MGSU Univindia Result 2018: Accessing Your Historical Bikaner Score Reports</h1>
+        
         
         <p>The term "MGSU Univindia Result 2018" refers to the centralized digital platform used by Maharaja Ganga Singh University (MGSU), Bikaner, to publish and manage student examination marksheets for the 2018 academic cycle. For thousands of students across Northern Rajasthan who completed their degrees or progressed in their studies during 2018, the `univindia.net` portal is the definitive gateway for retrieving their official achievement records. Whether you are an alumnus looking for back-dated marksheets for career verification or a researcher analyzing the university's performance in the late 2010s, the 2018 result gateway provides authoritative access to those permanent records. In this comprehensive guide, we will provide a detailed exploration of the 2018 MGSU result infrastructure, explain how to retrieve your legacy marksheets, and offer expert advice on ensuring a seamless experience when accessing archival university data in Bikaner.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "mgsu univindia result";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

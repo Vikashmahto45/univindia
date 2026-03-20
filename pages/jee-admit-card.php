@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "JEE Admit Card 2025: IIT JEE Main/Advanced Hall Ticket Download @ jeemain.nta.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Admit Card 2025: IIT JEE Main/Advanced Hall Ticket Download @ jeemain.nta.nic.in</div>
+    <h2 class='sr-title'>JEE Admit Card 2025: IIT JEE Main/Advanced Hall Ticket Download @ jeemain.nta.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "JEE Admit Card 2025: IIT JEE Main/Advanced Hall Ticket Download @ jeemain.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "JEE Admit Card 2025: IIT JEE Main/Advanced Hall Ticket Download @ jeemain.nta.nic.in";
+$page_description = "Download JEE Admit Card 2025 for Session 1 and Session 2. Get direct link for NTA JEE Main Call Letter, Exam Schedule, and center details. 800+ words of in-depth guide.";
+$page_keywords = "JEE Admit Card 2025, JEE Main Hall Ticket Download, IIT JEE Admit Card, NTA JEE Main Session 1 Admit Card, jeemain.nta.nic.in admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">JEE Admit Card 2025: Download JEE Main Session 1 & 2 Hall Ticket</h1>
+            
             
             <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-eye me-2"></i> <strong>Live Update:</strong> The National Testing Agency (NTA) releases the JEE Main Admit Card separately for Session 1 (January) and Session 2 (April). Ensure you download the latest version for your specific shift.
@@ -98,14 +121,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-danger">Prohibited Items</h5>
                             <p class="small text-light-gray mb-0">Watches, mobile phones, bags, belts, jewelry, or any metallic items are not allowed in the exam lab.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <h5 class="text-danger">Dress Code</h5>
                             <p class="small text-light-gray mb-0">Wear simple, lightweight clothes without large buttons. Slippers or sandals are preferred over shoes.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Frequently Asked Questions (FAQs)</h2>
@@ -119,8 +140,7 @@ $meta_keywords = "";
                         <div id="jeeQ1" class="accordion-collapse collapse" data-bs-parent="#jeeFaq">
                             <div class="accordion-body text-light-gray">
                                 No, NTA does not entertain any requests for changing the center or shift once the allocation is finalized.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -131,10 +151,8 @@ $meta_keywords = "";
                         <div id="jeeQ2" class="accordion-collapse collapse" data-bs-parent="#jeeFaq">
                             <div class="accordion-body text-light-gray">
                                 Contact the NTA Help Desk at 011-40759000 immediately or email them at jeemain@nta.ac.in to get it corrected before the exam date.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Quick Links</h5>
@@ -142,14 +160,14 @@ $meta_keywords = "";
                         <a href="neet-admit-card-2024.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">NEET Admit Card</a>
                         <a href="cuet-admit-card-2024.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">CUET Admit Card</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-microchip me-2"></i> Engineering Hall Tickets</h3>
                 <div class="row g-3">
+                    <?php
                     $eng = [
                         'jee-main-admit-card.php' => 'JEE Main Session 2 Link',
                         'bitsat-admit-card.php' => 'BITSAT Hall Ticket',
@@ -163,11 +181,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -197,3 +214,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

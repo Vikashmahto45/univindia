@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th rbse result 2022 arts - Official Rajasthan 12th Arts Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12th rbse result 2022 arts - Official Rajasthan 12th Arts Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th rbse result 2022 arts - Official Rajasthan 12th Arts Hub"; 
+$meta_description = "Check Rajasthan Board 12th Arts result 2022 on 12th rbse result 2022 arts. Access official RBSE Senior Secondary Arts 2022 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Arts Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan Board (rajresults.nic.in) 12th Arts results 2022 by student name alternative
                         criteria for the 2022 academic batch.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -91,8 +98,7 @@ $meta_keywords = "";
                     marks for all students. Having a verified digital result from the <strong>12th rbse result 2022
                         arts</strong> archive hub is essential for students to complete their academic verification and
                     proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -104,16 +110,14 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>12th rbse result 2022 arts</strong> are permanently archived
                             on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 Rajasthan 12th Arts results by name only on
                         smartphones?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>12th rbse result 2022 arts</strong> portal includes a dedicated
                             name-wise search for student examinees in Rajasthan for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 RBSE Arts marksheet valid for graduation
                         admission?</button>
@@ -121,12 +125,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>12th rbse result 2022 arts</strong> gateway
                             is a valid provisional document accepted for initial university registration and
                             verification across Rajasthan.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

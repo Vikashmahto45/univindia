@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online"; 
 $meta_description = "Check SSC GD Constable Admit Card Status 2024. Get direct links for regional status updates, exam center city intimation, and Tier 1 hall ticket download steps."; 
 $meta_keywords = "ssc gd admit card status 2024, ssc gd constable application status, ssc gd exam city check, ssc nr gd status, ssc cr gd admit card status"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online</div>
+    <h2 class='sr-title'>SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online"; 
+$meta_description = "Check SSC GD Constable Admit Card Status 2024. Get direct links for regional status updates, exam center city intimation, and Tier 1 hall ticket download steps."; 
+$meta_keywords = "ssc gd admit card status 2024, ssc gd constable application status, ssc gd exam city check, ssc nr gd status, ssc cr gd admit card status"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online";
+$meta_description = "Check SSC GD Constable Admit Card Status 2024. Get direct links for regional status updates, exam center city intimation, and Tier 1 hall ticket download steps.";
+$meta_keywords = "ssc gd admit card status 2024, ssc gd constable application status, ssc gd exam city check, ssc nr gd status, ssc cr gd admit card status";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -116,8 +139,16 @@ $meta_keywords = "ssc gd admit card status 2024, ssc gd constable application st
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Job News</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

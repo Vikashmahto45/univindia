@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "wbresults-nic-in 2023 - Official West Bengal 2023 Archive"; 
 $meta_description = "Check wbresults-nic-in 2023 for Madhyamik and HS exams. Access the official 2023 West Bengal Board result portal archival mirror on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; wbresults-nic-in 2023 - Official West Bengal 2023 Archive</div>
+    <h2 class='sr-title'>wbresults-nic-in 2023 - Official West Bengal 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "wbresults-nic-in 2023 - Official West Bengal 2023 Archive"; 
+$meta_description = "Check wbresults-nic-in 2023 for Madhyamik and HS exams. Access the official 2023 West Bengal Board result portal archival mirror on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session examination results for West Bengal
                 Madhyamik (10th) and Higher Secondary (12th). Official wbresults.nic.in mirrors and archival links
                 updated for the 2023 batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify West Bengal (WB) board results 2023 by student name alternative criteria for the 2023
                         academic examination batch.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +98,7 @@ $meta_keywords = "";
                     practical marks for both WBBSE (10th) and WBCHSE (12th). Having a verified digital result from the
                     <strong>wbresults-nic-in 2023</strong> archive hub is essential for students to complete their
                     academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -101,26 +111,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all results under <strong>wbresults-nic-in 2023</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 WB result by name search online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>wbresults-nic-in 2023</strong> portal includes a dedicated name-wise
                             search for student examinees in West Bengal for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 WB marksheet official for job and degree?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>wbresults-nic-in 2023</strong> archive is a
                             valid provisional document accepted for initial university registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

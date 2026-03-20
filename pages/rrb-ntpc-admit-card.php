@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in</div>
+    <h2 class='sr-title'>RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in";
+$page_description = "Download RRB NTPC Admit Card 2025. Get direct link for RRB NTPC Hall Ticket, Exam Schedule, City Intimation, and Step-by-Step Download Guide. 800+ words of detailed info.";
+$page_keywords = "RRB NTPC Admit Card 2025, RRB NTPC Hall Ticket, Download RRB NTPC Admit Card, Railway NTPC Exam Date, RRB NTPC City Intimation";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">RRB NTPC Admit Card 2025 Download - Direct Link & Exam Schedule</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4">
                 <i class="fas fa-bullhorn me-2"></i> <strong>Latest Update:</strong> The Railway Recruitment Board (RRB) is expected to release the NTPC CEN 01/2024 Exam City Intimation and Admit Cards shortly. Bookmark this page for the fastest updates!
@@ -115,8 +138,7 @@ $meta_keywords = "";
                         <p class="small mb-0 text-light-gray">
                             Electronic gadgets like mobile phones, wireless devices, smartwatches, calculators, and even stationary items like pens (RRB usually provides them) are not allowed inside the CBT hall. Avoid wearing heavy jewelry or metallic items as they might trigger alarms during security frisking.
                         </p>
-                    </div>
-                </div>
+                    
                 <p>
                     Ensure you reach the exam center at least 60 minutes before the <strong>Reporting Time</strong> mentioned on your call letter. The gate closes exactly at the time specified, and no candidate will be allowed inside thereafter.
                 </p>
@@ -132,8 +154,7 @@ $meta_keywords = "";
                         <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#admitCardFaq">
                             <div class="accordion-body text-light-gray">
                                 The admit card is released 4 to 5 days before your specific exam date. The overall schedule is expected in early 2025.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -144,8 +165,7 @@ $meta_keywords = "";
                         <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#admitCardFaq">
                             <div class="accordion-body text-light-gray">
                                 RRB activates the 'City Intimation Link' on the official regional website 10 days before the exam. You can check your city by logging in with your registration ID.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -156,24 +176,22 @@ $meta_keywords = "";
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#admitCardFaq">
                             <div class="accordion-body text-light-gray">
                                 You can use the 'Forgot Registration Number' link on the login page or check your registered email inbox and SMS log for the confirmation received during the application phase.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-3 bg-gradient-dark">
                     <h5 class="text-info"><i class="fas fa-external-link-alt me-2"></i> Quick Links Section</h5>
                     <div class="d-grid gap-2 d-md-flex mt-3">
                         <a href="../index.php" class="btn btn-outline-info rounded-pill px-4 py-2 hover-lift">Main Portal</a>
                         <a href="all-india-result-com-national-portal.php" class="btn btn-outline-info rounded-pill px-4 py-2 hover-lift">Recent Results</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Related Links Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-link me-2"></i> More Admit Cards & Updates</h3>
                 <div class="row g-3">
+                    <?php
                     $admit_keywords = ['neet-admit-card-2024.php' => 'NEET Admit Card 2024', 'ssc-gd-admit-card.php' => 'SSC GD Admit Card', 'ugc-net-admit-card-2024.php' => 'UGC NET Admit Card', 'rpf-admmit-card.php' => 'RPF Admit Card'];
                     foreach ($admit_keywords as $url => $kw) {
                         echo '<div class="col-md-3 col-sm-6">
@@ -182,11 +200,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -223,3 +240,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

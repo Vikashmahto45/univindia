@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result 2022 odisha - Official BSE Odisha Matric Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th result 2022 odisha - Official BSE Odisha Matric Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th result 2022 odisha - Official BSE Odisha Matric Archive"; 
+$meta_description = "Check 10th result 2022 odisha for HSC exams. Access the official 2022 BSE Odisha (Matric) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2022 Odisha Matric results by student name alternative.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +92,7 @@ $meta_keywords = "";
                         odisha</strong> archive hub is essential for students to complete their academic verification
                     and proof of performance during school-level transition and registration processes even years after
                     their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,27 +105,26 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>10th result 2022 odisha</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for archival and academic
                             verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2022 Odisha Matric result by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th result 2022 odisha</strong> portal includes a dedicated
                             name-wise search for the BSE Odisha High School examinees of the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10th result 2022 odisha</strong> archive is
                             a valid provisional document accepted for initial secondary school registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

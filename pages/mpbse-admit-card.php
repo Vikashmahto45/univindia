@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MPBSE Admit Card 2025: MP Board 10th & 12th Hall Ticket Download @ mpbse.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MPBSE Admit Card 2025: MP Board 10th & 12th Hall Ticket Download @ mpbse.nic.in</div>
+    <h2 class='sr-title'>MPBSE Admit Card 2025: MP Board 10th & 12th Hall Ticket Download @ mpbse.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MPBSE Admit Card 2025: MP Board 10th & 12th Hall Ticket Download @ mpbse.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "MPBSE Admit Card 2025: MP Board 10th & 12th Hall Ticket Download @ mpbse.nic.in";
+$page_description = "Download MPBSE Admit Card 2025 for Class 10th and 12th examinations. Get direct link for MP Board Hall Ticket, Exam Schedule, and center details. 800+ words of in-depth updates.";
+$page_keywords = "MPBSE Admit Card 2025, MP Board Hall Ticket Download, MPBSE 10th Admit Card, MPBSE 12th Hall Ticket 2025, mpbse.nic.in call letter";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">MPBSE Admit Card 2025: Board of Secondary Education MP Hall Ticket</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-school me-2"></i> <strong>Official Update:</strong> The MPBSE (Madhya Pradesh Board of Secondary Education) releases the hall tickets for High School and Higher Secondary Certificate exams. Candidates can access their 2025 Call Letters using their Application Number.
@@ -88,14 +111,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-stamp me-2"></i> Attested Admit Card</h5>
                             <p class="small text-light-gray mb-0">The hall ticket downloaded online MUST be signed and stamped by the school Principal/Headmaster to be valid.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100 border-info">
                             <h5 class="text-info"><i class="fas fa-user-circle me-2"></i> School ID / Aadhar</h5>
                             <p class="small text-light-gray mb-0">Carry your school identity card or an original Govt. ID (Aadhar) for additional verification if required.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">MPBSE Exam Day FAQ</h2>
@@ -109,8 +130,7 @@ $meta_keywords = "";
                         <div id="mbQ1" class="accordion-collapse collapse" data-bs-parent="#mpbseFaq">
                             <div class="accordion-body text-light-gray">
                                 You must report at least 30 minutes before the commencement of the exam. The gate closing time is strictly enforced, and latecomers are not allowed under any circumstances.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +141,8 @@ $meta_keywords = "";
                         <div id="mbQ2" class="accordion-collapse collapse" data-bs-parent="#mpbseFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes. Private candidates can use the same MP Online portal using their application number to download their hall tickets.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> MP Education Portals</h5>
@@ -132,14 +150,14 @@ $meta_keywords = "";
                         <a href="mp-board-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">Primary MP Board Page</a>
                         <a href="esb-mp-gov-in-admit-card-2025.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">MP Vyapam Admit Card</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marked-alt me-2"></i> Other State Boards</h3>
                 <div class="row g-3">
+                    <?php
                     $other_boards = [
                         'hbse-admit-card.php' => 'HBSE Haryana Board',
                         'gseb-admit-card.php' => 'GSEB Gujarat Board',
@@ -153,11 +171,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +204,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

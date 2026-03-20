@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "REET Admit Card 2025: Rajasthan REET Level 1 & 2 Hall Ticket Link @ reetbser2025.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; REET Admit Card 2025: Rajasthan REET Level 1 & 2 Hall Ticket Link @ reetbser2025.in</div>
+    <h2 class='sr-title'>REET Admit Card 2025: Rajasthan REET Level 1 & 2 Hall Ticket Link @ reetbser2025.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "REET Admit Card 2025: Rajasthan REET Level 1 & 2 Hall Ticket Link @ reetbser2025.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "REET Admit Card 2025: Rajasthan REET Level 1 & 2 Hall Ticket Link @ reetbser2025.in";
+$page_description = "Download REET Admit Card 2025 for Level 1 and Level 2 exams. Get direct link for BSER REET Hall Ticket, Exam Schedule, and center status. 800+ words of detailed guide.";
+$page_keywords = "REET Admit Card 2025, Rajasthan REET Hall Ticket Download, BSER REET 2025 Admit Card, REET Level 1 Level 2 Admit Card, reetbser2025.in call letter";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">REET Admit Card 2025: Rajasthan Teacher Eligibility Test Hall Ticket</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-chalkboard-teacher me-2"></i> <strong>Exam Information:</strong> The Board of Secondary Education, Rajasthan (BSER) releases the REET Admit Card separately for Level 1 (Primary) and Level 2 (Upper Primary) teachers. Check your eligibility level carefully.
@@ -95,8 +118,7 @@ $meta_keywords = "";
                     <div class="card-body p-1">
                         <p class="text-light-gray small mb-2"><strong>Dress Code:</strong> Half-sleeve shirts/t-shirts for both men and women. No metallic jewelry, watches, or hair clips are allowed. Footwear must be slippers or sandals (Shoes are prohibited).</p>
                         <p class="text-light-gray small mb-0"><strong>Prohibited Items:</strong> Electronic gadgets, calculators, log tables, and heavy stationery are strictly forbidden inside the exam hall.</p>
-                    </div>
-                </div>
+                    
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Common FAQs about REET Admit Card</h2>
                 <div class="accordion accordion-flush" id="reetFaq">
@@ -109,8 +131,7 @@ $meta_keywords = "";
                         <div id="reetQ1" class="accordion-collapse collapse" data-bs-parent="#reetFaq">
                             <div class="accordion-body text-light-gray">
                                 You can use the 'Forgot Form Number' link on reetbser2025.in by providing your mobile number and date of birth to retrieve it via SMS.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +142,8 @@ $meta_keywords = "";
                         <div id="reetQ2" class="accordion-collapse collapse" data-bs-parent="#reetFaq">
                             <div class="accordion-body text-light-gray">
                                 No. If your photo is missing or blurry, you must carry two identical passport photos and get your admit card verified by the center superintendent before the exam starts.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Quick Navigation</h5>
@@ -132,14 +151,14 @@ $meta_keywords = "";
                         <a href="rpsc-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">RPSC Admit Card</a>
                         <a href="ptet-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">PTET Call Letter</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-user-graduate me-2"></i> Rajasthan Education Portals</h3>
                 <div class="row g-3">
+                    <?php
                     $raj = [
                         'uniraj-admit-card.php' => 'Uniraj Exam Hall Ticket',
                         'jnvu-admit-card.php' => 'JNVU Admit Card',
@@ -153,11 +172,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +205,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

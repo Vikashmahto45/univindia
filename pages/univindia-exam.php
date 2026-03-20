@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Exam - Official University Examination Portal Guide"; 
 $meta_description = "Univindia Exam is the central hub for MGSU, RRBMU, and MSBU examinations. Complete guide to exam forms, time tables, and admit cards online."; 
 $meta_keywords = "Univindia Exam - Official University Examination Portal Guide"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Exam - Official University Examination Portal Guide</div>
+    <h2 class='sr-title'>Univindia Exam - Official University Examination Portal Guide</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Exam - Official University Examination Portal Guide"; 
+$meta_description = "Univindia Exam is the central hub for MGSU, RRBMU, and MSBU examinations. Complete guide to exam forms, time tables, and admit cards online."; 
+$meta_keywords = "Univindia Exam - Official University Examination Portal Guide"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Exam - Official University Examination Portal Guide";
+$meta_description = "Univindia Exam is the central hub for MGSU, RRBMU, and MSBU examinations. Complete guide to exam forms, time tables, and admit cards online.";
+$meta_keywords = "Univindia Exam - Official University Examination Portal Guide";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Exam: Navigating the Centralized University Examination Portal</h1>
+        
         
         <p>The term "Univindia Exam" refers to the core technical infrastructure that manages the examination lifecycle for thousands of higher education students in Rajasthan. As the digital arm of prominent institutions such as Maharaja Ganga Singh University (MGSU) in Bikaner, Raj Rishi Bhartrihari Matsya University (RRBMU) in Alwar, and Maharaja Surajmal Brij University (MSBU) in Bharatpur, the Univindia portal network is essential for academic progress. In this comprehensive guide, we will explore the various facets of Univindia Exam, providing expert instructions on how to manage your examination forms, download hall tickets, and stay updated with official schedules for a successful university experience.</p>
 
@@ -52,6 +74,15 @@ $meta_keywords = "Univindia Exam - Official University Examination Portal Guide"
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university exam news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha result 12th 2023 arts - Official CHSE Result Mirror"; 
 $meta_description = "Check odisha result 12th 2023 arts for the Council of Higher Secondary Education (CHSE) examination. Access the official 2023 Odisha 12th Arts gateway on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha result 12th 2023 arts - Official CHSE Result Mirror</div>
+    <h2 class='sr-title'>odisha result 12th 2023 arts - Official CHSE Result Mirror</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha result 12th 2023 arts - Official CHSE Result Mirror"; 
+$meta_description = "Check odisha result 12th 2023 arts for the Council of Higher Secondary Education (CHSE) examination. Access the official 2023 Odisha 12th Arts gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 Higher Secondary (+2) results for the Arts stream in
                 Odisha. Official CHSE mirrors and archival links updated.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2023 Arts Result</a>
                 <a href="#faq" class="btn btn-secondary">System Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify Odisha 2023 arts stream results by Name.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -75,8 +86,7 @@ $meta_keywords = "";
                     scores. For students seeking admission to degree colleges (SAMS Odisha) or competitive vocational
                     courses, having a verified digital result from the <strong>odisha result 12th 2023 arts</strong>
                     portal is an essential first step.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,26 +99,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>odisha result 12th 2023 arts</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated name-wise search for all candidates of
                             the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2023 arts results official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresult.com</strong> platform acts as a formal partner for CHSE
                             Odisha, ensuring all results displayed are official for provisional use.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result valid for +3 admission in Odisha?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>odisha result 12th 2023 arts</strong> is a valid
                             provisional document accepted for initial SAMS Odisha (+3 degree) registration processes.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

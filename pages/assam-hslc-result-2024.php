@@ -7,9 +7,27 @@ $meta_keywords = "assam hslc result 2024, seba hslc result 2024, check assam 10t
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Assam HSLC Result 2024 - Official SEBA Class 10th Portal</div>
-    <h2 class='sr-title'>Assam HSLC Result 2024: Your Comprehensive Navigator to Board of Secondary Education, Assam (SEBA) High School Leaving Certificate (HSLC), Class 10th, and Assam High Madrassa (AHM) Result Gateways (Government of Assam, Education Department, and National Informatics Centre (NIC) Assam State Centre) Result Portals Across Assam</h2>
+    <h2 class='sr-title'>Assam HSLC Result 2024 - Official SEBA Class 10th Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Assam HSLC Result 2024 - Official SEBA Class 10th Portal"; 
+$meta_description = "Check Assam HSLC Result 2024 online. Access the Board of Secondary Education Assam (SEBA) Class 10 results, marksheets, and merit list for the current session."; 
+$meta_keywords = "assam hslc result 2024, seba hslc result 2024, check assam 10th result 2024, hslc marksheet 2024 assam, sebaonline.org result 2024, official assam board portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Assam HSLC Result 2024 - Official SEBA Class 10th Portal";
+$meta_description = "Check Assam HSLC Result 2024 online. Access the Board of Secondary Education Assam (SEBA) Class 10 results, marksheets, and merit list for the current session.";
+$meta_keywords = "assam hslc result 2024, seba hslc result 2024, check assam 10th result 2024, hslc marksheet 2024 assam, sebaonline.org result 2024, official assam board portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "assam hslc result 2024, seba hslc result 2024, check assam 10t
                 <a href="https://results.gov.in" class="btn" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Records</a>
                 <a href="https://assam.gov.in" class="btn" title="State Status" target="_blank">Assam Government Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Assam HSLC Result 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "assam hslc result 2024, seba hslc result 2024, check assam 10t
         <br>
         <strong>3. Is the result from Assam HSLC Result 2024 valid for global use?</strong>
         <p>Yes, your secondary results (verified via the official "Assam HSLC Result 2024" portal or DigiLocker) are the accepted records for applying to international colleges or job visas in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

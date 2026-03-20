@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th results 2023 - Official Secondary Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>10th results 2023 - Official Secondary Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th results 2023 - Official Secondary Hub"; 
+$meta_description = "Check all Board 10th results 2023 on 10th results 2023. Access official Class 10th (Secondary/SSC) 2023 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 10th Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>10th (Secondary) Directory 2023</h3>
                     <p>Verify board results (Secondary/SSC) 2023 by student name or roll number alternative criteria for the 2023 academic batch nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2023 National 10th Board Hub</h3>
                 <p>The <strong>10th results 2023</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Secondary admission registrations, scholarship applications, or career verification. The system provides a detailed subject-wise breakdown for the 2023 batch including internal assessment and practical marks for all students. Having a verified digital result from the <strong>10th results 2023</strong> archive hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2023 board 10th result links active for all states?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>10th results 2023</strong> are permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 board 10th results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th results 2023</strong> portal includes a dedicated name-wise search for student examinees nationwide for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 10th marksheet valid for graduation admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10th results 2023</strong> gateway is a valid provisional document accepted for initial institutional registration and verification across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

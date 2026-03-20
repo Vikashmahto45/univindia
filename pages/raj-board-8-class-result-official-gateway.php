@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "raj board 8 class result - Official BSER Rajasthan Class 8 Gateway"; 
 $meta_description = "Check raj board 8 class result for BSER Elementary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; raj board 8 class result - Official BSER Rajasthan Class 8 Gateway</div>
+    <h2 class='sr-title'>raj board 8 class result - Official BSER Rajasthan Class 8 Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "raj board 8 class result - Official BSER Rajasthan Class 8 Gateway"; 
+$meta_description = "Check raj board 8 class result for BSER Elementary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized destination for the Elementary (Class 8th) results for
                 Rajasthan. Official BSER Ajmer mirrors and portal links updated for the latest academic batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Class 8 Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify RBSE Class 8th results by student name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -82,8 +93,7 @@ $meta_keywords = "";
                     from the <strong>raj board 8 class result</strong> hub is essential for students to complete their
                     academic verification and proof of performance during school-level transition and registration
                     processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -96,27 +106,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>raj board 8 class result</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in the RBSE 8th
                             exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 8th results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSER (Rajasthan), ensuring all result data is mirrored directly from
                             official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 8th marksheet valid for 9th class admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>raj board 8 class result</strong> hub is a
                             valid provisional document accepted for initial school-level registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,20 +1,34 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jkbose 12th result 2023 - Official JK Board Hub"; 
 $meta_description = "Check JKBOSE 12th result 2023 on jkbose 12th result 2023. Access official Jammu & Kashmir Board Class 12th 2023 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jkbose 12th result 2023 - Official JK Board Hub</div>
+    <h2 class='sr-title'>jkbose 12th result 2023 - Official JK Board Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jkbose 12th result 2023 - Official JK Board Hub"; 
+$meta_description = "Check JKBOSE 12th result 2023 on jkbose 12th result 2023. Access official Jammu & Kashmir Board Class 12th 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Jammu and Kashmir Board of School Education (JKBOSE) Class 12th (Higher Secondary/Part II) examination results for the 2023 academic session. Access official JK board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 JK Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -32,8 +46,7 @@ $meta_keywords = "";
                     <h3>JK 12th Directory 2023</h3>
                     <p>Verify JKBOSE results (jkbose.nic.in) 12th class 2023 by student roll number or name alternative criteria for the 2023 academic batch.</p>
                     <a href="https://jammu-kashmir.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -57,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2023 Jammu & Kashmir (JKBOSE) Board Gateways</h3>
                 <p>The <strong>jkbose 12th result 2023</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking University admission registrations, scholarship applications, or career verification in J&K. The system provides a detailed subject-wise breakdown for the 2023 batch of student examinees across all districts in the UT. Having a verified digital result from the <strong>jkbose 12th result 2023</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -69,23 +81,25 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2023 JKBOSE class 12 result links permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>jkbose 12th result 2023</strong> are archived on verified platforms for lifelong academic verification access in J&K.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 JKBOSE results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>jkbose 12th result 2023</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in Jammu and Kashmir.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 JKBOSE marksheet valid for regular admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>jkbose 12th result 2023</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

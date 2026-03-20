@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download JEE Advanced Admit Card 2025. Get the direct link for IIT JEE Advanced postgraduate examination hall tickets at jeeadv.ac.in."; 
 $meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket download, jeeadv.ac.in 2025 admit card link, jee advanced exam hall ticket login, iit entrance hall ticket"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download JEE Advanced Admit Card 2025. Get the direct link for IIT JEE Advanced postgraduate examination hall tickets at jeeadv.ac.in."; 
+$meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket download, jeeadv.ac.in 2025 admit card link, jee advanced exam hall ticket login, iit entrance hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online";
+$meta_description = "Download JEE Advanced Admit Card 2025. Get the direct link for IIT JEE Advanced postgraduate examination hall tickets at jeeadv.ac.in.";
+$meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket download, jeeadv.ac.in 2025 admit card link, jee advanced exam hall ticket login, iit entrance hall ticket";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket dow
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">JEE Advanced Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

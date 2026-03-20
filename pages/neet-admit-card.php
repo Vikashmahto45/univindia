@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in</div>
+    <h2 class='sr-title'>NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in";
+$page_description = "Download NEET Admit Card 2025 for UG medical entrance exam. Get direct link for NTA NEET Hall Ticket, Exam Schedule, and center city details. 800+ words of in-depth guide.";
+$page_keywords = "NEET Admit Card 2025, NTA NEET UG Hall Ticket Download, NEET Admit Card Link 1 2, neet.nta.nic.in admit card download, National Eligibility cum Entrance Test Call Letter";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">NEET Admit Card 2025: Download NTA NEET UG Hall Ticket</h1>
+            
             
             <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-notes-medical me-2"></i> <strong>Critical Update:</strong> The National Testing Agency (NTA) issues the NEET UG Admit Card to candidates who have successfully registered for the medical entrance exam. The admit card is mandatory for entry into the exam lab.
@@ -89,22 +112,19 @@ $meta_keywords = "";
                             <i class="fas fa-id-card fa-2x text-danger mb-2"></i>
                             <h6 class="text-white">Original Photo ID</h6>
                             <p class="small text-light-gray">Aadhar Card, PAN Card, or Voter ID.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 text-center h-100 shadow">
                             <i class="fas fa-file-invoice fa-2x text-danger mb-2"></i>
                             <h6 class="text-white">Postcard Photo</h6>
                             <p class="small text-light-gray">One 4x6 color photo on a proforma.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 text-center h-100 shadow">
                             <i class="fas fa-print fa-2x text-danger mb-2"></i>
                             <h6 class="text-white">All Pages of Admit Card</h6>
                             <p class="small text-light-gray">Ensure transparency rules are followed.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Strict Dress Code & Prohibited Items</h2>
@@ -129,8 +149,7 @@ $meta_keywords = "";
                         <div id="ntQ1" class="accordion-collapse collapse" data-bs-parent="#neetFaq">
                             <div class="accordion-body text-light-gray">
                                 You must contact the NTA helpline immediately at 011-40759000. Do not attempt to sign it yourself; get an official correction or a clearance letter from the NTA.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -141,10 +160,8 @@ $meta_keywords = "";
                         <div id="ntQ2" class="accordion-collapse collapse" data-bs-parent="#neetFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes. The proforma is typically the second or third page of your admit card PDF. It must be printed and the postcard-sized photo must be pasted onto it.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark shadow">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Medical Exam Links</h5>
@@ -152,14 +169,14 @@ $meta_keywords = "";
                         <a href="neet-admit-card-2024.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">NEET UG 2024 Archive</a>
                         <a href="aiims-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">AIIMS B.Sc Nursing Hall Ticket</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-stethoscope me-2"></i> Other Medical Exams</h3>
                 <div class="row g-3">
+                    <?php
                     $med = [
                         'neet-pg-admit-card.php' => 'NEET PG Hall Ticket',
                         'ini-cet-admit-card.php' => 'INI CET Call Letter',
@@ -173,11 +190,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -208,3 +224,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

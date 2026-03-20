@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in</div>
+    <h2 class='sr-title'>RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in";
+$page_description = "Download RRB Group D Admit Card 2024-25 (RRC Level 1). Get direct link for Railway Group D Hall Ticket, Exam Schedule, and CBT Shift timings. 800+ words of latest updates.";
+$page_keywords = "RRB Group D Admit Card 2024, RRC Level 1 Hall Ticket Download, Railway Group D Admit Card Link, RRC Group D Call Letter, rrbcdg.gov.in admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">RRB Group D Admit Card 2024-25: RRC Level 1 Hall Ticket Download</h1>
+            
             
             <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-train me-2"></i> <strong>Recruitment Alert:</strong> The Railway Recruitment Board (RRB) and Railway Recruitment Cell (RRC) conduct massive exams for Group D (Level 1) posts. The hall ticket is released in multiple phases based on regional zones.
@@ -88,14 +111,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow-sm">
                             <h5 class="text-danger"><i class="fas fa-id-card me-2"></i> Original Identity Proof</h5>
                             <p class="small text-light-gray mb-0">Carry Aadhar Card, Voter ID, or Driving License. Note that photocopies or digital IDs on Digilocker are sometimes problematic during biometric verification.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow-sm border-danger">
                             <h5 class="text-danger"><i class="fas fa-camera me-2"></i> Passport Photograph</h5>
                             <p class="small text-light-gray mb-0">One recent colored photograph (same as uploaded in the application) must be brought to paste on the attendance record.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">RRB Group D CBT FAQ</h2>
@@ -109,8 +130,7 @@ $meta_keywords = "";
                         <div id="gdQ1" class="accordion-collapse collapse" data-bs-parent="#rrbGroupDFaq">
                             <div class="accordion-body text-light-gray">
                                 If the primary biometric fails, the invigilator uses a secondary verification method (IRIS or manual verification). Candidates should ensure their fingers are clean and free from ink or henna.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +141,8 @@ $meta_keywords = "";
                         <div id="gdQ2" class="accordion-collapse collapse" data-bs-parent="#rrbGroupDFaq">
                             <div class="accordion-body text-light-gray">
                                 The exam city intimation is usually released for all zones together, but the specific zone portals activate the final admit card download links separately.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-link me-2"></i> Regional RRB Links</h5>
@@ -132,14 +150,14 @@ $meta_keywords = "";
                         <a href="rrb-chandigarh-admit-card.php" class="btn btn-outline-danger btn-sm rounded-pill px-4">RRB Chandigarh</a>
                         <a href="rrbbnc-gov-in-admit-card.php" class="btn btn-outline-danger btn-sm rounded-pill px-4">RRB Bangalore</a>
                         <a href="../index.php" class="btn btn-primary btn-sm rounded-pill px-5 shadow">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-subway me-2"></i> RRB Recruitment Pages</h3>
                 <div class="row g-3">
+                    <?php
                     $rrb_links = [
                         'rrb-ntpc-admit-card.php' => 'RRB NTPC Hall Ticket',
                         'rpf-constable-admit-card.php' => 'RPF Constable Admit Card',
@@ -153,11 +171,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +204,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

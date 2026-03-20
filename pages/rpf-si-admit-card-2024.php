@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in</div>
+    <h2 class='sr-title'>RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in";
+$page_description = "Download RPF SI Admit Card 2024. Get direct links for RPF Sub-Inspector CBT call letter. Exam date, city intimation status, and important guidelines for RPF SI recruitment.";
+$page_keywords = "RPF SI Admit Card 2024, Railway RPF Sub Inspector Hall Ticket, RPF SI Exam Date, Download RPF SI Call Letter, rrbapply.gov.in si admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">RPF SI <span class="text-warning">Admit Card 2024</span></h1>
+            
             
             <div class="alert alert-primary border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Sub-Inspector Recruitment:</h4>
                         <p class="mb-0">The <strong>RPF SI Admit Card 2024</strong> is expected to be released shortly for the Computer Based Test (CBT). Registered candidates must stay updated with the official portal for exam city slips and hall tickets.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -102,14 +124,12 @@ $meta_keywords = "";
                                 <div class="p-4 bg-secondary border border-secondary rounded-4 shadow-sm h-100">
                                     <h6 class="text-white">Primary Identity Proof (Original)</h6>
                                     <p class="small text-white-50">Aadhar Card, Voter ID, PAN Card, or Passport. Photocopies or digital versions on phones will not be permitted.</p>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-6">
                                 <div class="p-4 bg-secondary border border-secondary rounded-4 shadow-sm h-100">
                                     <h6 class="text-white">Additional Photographs</h6>
                                     <p class="small text-white-50">Two recent color passport size photos (identical to those uploaded). These may be used for the attendance sheet.</p>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">RPF SI Selection Cycle 2024</h2>
@@ -134,8 +154,7 @@ $meta_keywords = "";
                                 <div id="rs1" class="accordion-collapse collapse" data-bs-parent="#rpfSiFaq">
                                     <div class="accordion-body text-white-50">
                                         The CBT will have a duration of 90 minutes. It consists of 120 objective questions covering various sections.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white">
                                 <h3 class="accordion-header">
@@ -146,14 +165,11 @@ $meta_keywords = "";
                                 <div id="rs2" class="accordion-collapse collapse" data-bs-parent="#rpfSiFaq">
                                     <div class="accordion-body text-white-50">
                                         No, any kind of electronic gadget, including calculators, smartwatches, and Bluetooth devices, is strictly prohibited inside the examination center. 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- Interlinking Table -->
             <div class="bg-dark p-5 rounded-4 border border-secondary shadow-lg mt-5">
@@ -170,12 +186,10 @@ $meta_keywords = "";
                     </div>
                     <div class="col-md-3">
                         <a href="../index.php" class="d-block p-3 bg-outline-warning border border-warning rounded-4 text-warning text-decoration-none text-center shadow-sm hover-grow fw-bold">Back to Home Portal</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </div>
-</main>
+
 
 <style>
 .bg-gradient-dark {
@@ -198,3 +212,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

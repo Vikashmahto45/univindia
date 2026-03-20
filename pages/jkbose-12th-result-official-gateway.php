@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jkbose 12th result - Official Jammu & Kashmir Board Gateway"; 
 $meta_description = "Check jkbose 12th result for Class 12 exams. Access the official JKBOSE Jammu and Kashmir divisions archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jkbose 12th result - Official Jammu & Kashmir Board Gateway</div>
+    <h2 class='sr-title'>jkbose 12th result - Official Jammu & Kashmir Board Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jkbose 12th result - Official Jammu & Kashmir Board Gateway"; 
+$meta_description = "Check jkbose 12th result for Class 12 exams. Access the official JKBOSE Jammu and Kashmir divisions archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest examination results for Class 12th (Senior Secondary)
                 for Jammu and Kashmir. Official JKBOSE mirrors and archival links updated for both Jammu and Kashmir
                 divisions.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check JKBOSE 12th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify JKBOSE Class 12 results by student name alternative criteria for J&K.</p>
                     <a href="https://jammu-kashmir.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -82,8 +93,7 @@ $meta_keywords = "";
                     batch. Having a verified digital result from the <strong>jkbose 12th result</strong> hub is
                     essential for students to complete their academic verification and proof of performance during
                     university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -96,27 +106,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>jkbose 12th result</strong> portal on <strong>indiaresults</strong> includes
                             a dedicated "Search by Name" feature for candidates participating in the JKBOSE Senior
                             Secondary exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 12th results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including JKBOSE, ensuring all result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 12th marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>jkbose 12th result</strong> hub is a valid
                             provisional document accepted for initial university registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rbse class 10 result - Official BSER Rajasthan Secondary Gateway"; 
 $meta_description = "Check rbse class 10 result for BSER Secondary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse class 10 result - Official BSER Rajasthan Secondary Gateway</div>
+    <h2 class='sr-title'>rbse class 10 result - Official BSER Rajasthan Secondary Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rbse class 10 result - Official BSER Rajasthan Secondary Gateway"; 
+$meta_description = "Check rbse class 10 result for BSER Secondary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized destination for the Secondary (Class 10th) results for
                 Rajasthan. Official BSER Ajmer mirrors and portal links updated for the latest academic session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check RBSE Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify RBSE Class 10 results by student name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +90,7 @@ $meta_keywords = "";
                     breakdown including internal assessment and practical marks. Having a verified digital result from
                     the <strong>rbse class 10 result</strong> hub is essential for students to complete their academic
                     verification and proof of performance during school-level transition and registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,27 +103,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>rbse class 10 result</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in the BSER
                             secondary examinations.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSER (Rajasthan), ensuring all result data is mirrored directly from
                             official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet valid for HS (+2) admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>rbse class 10 result</strong> hub is a valid
                             provisional document accepted for initial secondary school registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

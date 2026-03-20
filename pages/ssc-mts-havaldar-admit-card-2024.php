@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in";
+$page_description = "SSC MTS Havaldar Admit Card 2024 Download Link. Get region-wise call letters for SSC Multi Tasking Staff & Havaldar CBT Exam. Physical test details and exam status.";
+$page_keywords = "SSC MTS Havaldar Admit Card 2024, SSC MTS Hall Ticket, SSC Havaldar PET PST Admit Card, Download SSC MTS 2024 Admit Card, ssc.gov.in mts admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">SSC MTS & <span class="text-warning">Havaldar Admit Card 2024</span></h1>
+            
             
             <div class="alert alert-success border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Status Released:</h4>
                         <p class="mb-0">The regional portals of the Staff Selection Commission (SSC) have started releasing the <strong>MTS and Havaldar Admit Card 2024</strong>. Check your exam city, date, and shift time now by entering your login details.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -93,22 +115,19 @@ $meta_keywords = "";
                                     <h6 class="text-white m-0">Central Region (UP/Bihar)</h6>
                                     <hr class="border-secondary my-3">
                                     <a href="http://www.ssc-cr.org" class="btn btn-warning btn-sm w-100">Check Status</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4 text-center">
                                 <div class="p-4 bg-secondary border border-secondary rounded-4 shadow-sm">
                                     <h6 class="text-white m-0">Northern Region (NR)</h6>
                                     <hr class="border-secondary my-3">
                                     <a href="https://sscnr.nic.in" class="btn btn-warning btn-sm w-100">Check Status</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4 text-center">
                                 <div class="p-4 bg-secondary border border-secondary rounded-4 shadow-sm">
                                     <h6 class="text-white m-0">Southern Region (Chennai)</h6>
                                     <hr class="border-secondary my-3">
                                     <a href="http://www.sscsr.gov.in" class="btn btn-warning btn-sm w-100">Check Status</a>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Mandatory Verification on MTS Havaldar Call Letter</h2>
@@ -173,8 +192,7 @@ $meta_keywords = "";
                                 <div id="mh1" class="accordion-collapse collapse" data-bs-parent="#mtsHavaldarFaq">
                                     <div class="accordion-body text-white-50">
                                         The Computer Based Examination (CBT) is common for both posts. However, candidates for the Havaldar post will have an additional Physical Efficiency Test (PET) on a later date.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white">
                                 <h3 class="accordion-header">
@@ -185,14 +203,11 @@ $meta_keywords = "";
                                 <div id="mh2" class="accordion-collapse collapse" data-bs-parent="#mtsHavaldarFaq">
                                     <div class="accordion-body text-white-50">
                                         Check if your application was rejected by visiting the 'Application Status' link first. If it was accepted and you still can't download it, contact the regional SSC office immediately.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- Interlinking Table -->
             <div class="bg-dark p-5 rounded-4 border border-secondary shadow-lg mt-5">
@@ -209,12 +224,10 @@ $meta_keywords = "";
                     </div>
                     <div class="col-md-3">
                         <a href="rrb-ntpc-admit-card.php" class="d-block p-3 bg-secondary rounded-3 text-warning text-decoration-none text-center shadow-sm">RRB NTPC Hall Ticket</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </div>
-</main>
+
 
 <style>
 .text-warning {
@@ -232,3 +245,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2022 ap - Official Andhra Pradesh SSC Archive Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 10th 2022 ap - Official Andhra Pradesh SSC Archive Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 10th 2022 ap - Official Andhra Pradesh SSC Archive Portal"; 
+$meta_description = "Check india result 10th 2022 ap for Secondary (SSC) examinations. Access the official 2022 Andhra Pradesh (BSEAP) result archive on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify AP SSC 2022 results by student name alternative.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -82,8 +89,7 @@ $meta_keywords = "";
                     programs. Having a verified digital result from the <strong>india result 10th 2022 ap</strong> hub
                     is essential for students to complete their certificate verification and proof of academic secondary
                     education during college registration and career verification processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,27 +101,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>india result 10th 2022 ap</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for national archival access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Andhra 10th 2022 result by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india result 10th 2022 ap</strong> portal includes a dedicated
                             "Search by Name" feature for all major 2022 SSC candidates in the state.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for Inter admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>india result 10th 2022 ap</strong> archive is a valid
                             provisional document accepted for initial class 11th registration and document verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download NEET PG Admit Card 2024. Get the direct link for NBEMS National Eligibility Entrance Test for Post Graduates (MD/MS) hall tickets at nbe.edu.in."; 
 $meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu.in admit card login, neet pg exam date 2024 download, medical pg entrance call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download NEET PG Admit Card 2024. Get the direct link for NBEMS National Eligibility Entrance Test for Post Graduates (MD/MS) hall tickets at nbe.edu.in."; 
+$meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu.in admit card login, neet pg exam date 2024 download, medical pg entrance call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online";
+$meta_description = "Download NEET PG Admit Card 2024. Get the direct link for NBEMS National Eligibility Entrance Test for Post Graduates (MD/MS) hall tickets at nbe.edu.in.";
+$meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu.in admit card login, neet pg exam date 2024 download, medical pg entrance call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search MD/MS News</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

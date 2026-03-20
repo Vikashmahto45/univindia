@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th science result 2021 - Official National Archive Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12th science result 2021 - Official National Archive Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th science result 2021 - Official National Archive Portal"; 
+$meta_description = "Check 12th science result 2021 for all state and central boards. Access the official 2021 Senior Secondary Science result archive on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">System Info</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify 2021 science results using roll number or name.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     evaluation patterns, making them legally valid for all future career pursuits. Having a verified
                     digital record from the <strong>12th science result 2021</strong> hub is essential for students
                     needing proof of their 12th-grade performance.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,26 +98,25 @@ $meta_keywords = "";
                         <p>Yes, all results under <strong>12th science result 2021</strong> are permanently archived on
                             verified mirrors like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 12th science result 2021 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>12th science result 2021</strong> portal for various boards includes
                             full name-wise search support for all 2021 science stream candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>12th science result 2021</strong> is a valid provisional
                             document accepted for initial university and college registration processes nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

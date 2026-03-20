@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive"; 
 $meta_description = "Check inter 1st year results 2022 ap for BIEAP exams. Access the official 2022 Andhra Pradesh Intermediate result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive</div>
+    <h2 class='sr-title'>inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive"; 
+$meta_description = "Check inter 1st year results 2022 ap for BIEAP exams. Access the official 2022 Andhra Pradesh Intermediate result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Andhra Pradesh Class 11th
                 (Junior Intermediate). Official BIEAP Vijayawada mirrors and archival links updated for 2022 batch
                 verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 AP Inter Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify AP Inter 1st Yr results 2022 by official board hall ticket number exactly for the 2022
                         session.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                         1st year results 2022 ap</strong> archive hub is essential for students to complete their
                     academic verification and proof of educational achievement during university graduation and
                     registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,26 +110,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>inter 1st year results 2022 ap</strong> are permanently
                             archived on verified platforms like <strong>indiaresults.com</strong> for archival and
                             academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2022 AP 1st Yr Inter result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>inter 1st year results 2022 ap</strong> portal includes a dedicated
                             name-wise search for student examinees in Andhra Pradesh for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet official for degree transition?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>inter 1st year results 2022 ap</strong>
                             archive is a valid provisional document accepted for initial school or college registration
                             and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

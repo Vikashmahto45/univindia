@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www orissaresults nic in 2022 +2 arts - Official CHSE Odisha 2022 Archive"; 
 $meta_description = "Check www orissaresults nic in 2022 +2 arts for CHSE Class 12 exams. Access the official 2022 Odisha Higher Secondary (+2 Arts) archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www orissaresults nic in 2022 +2 arts - Official CHSE Odisha 2022 Archive</div>
+    <h2 class='sr-title'>www orissaresults nic in 2022 +2 arts - Official CHSE Odisha 2022 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www orissaresults nic in 2022 +2 arts - Official CHSE Odisha 2022 Archive"; 
+$meta_description = "Check www orissaresults nic in 2022 +2 arts for CHSE Class 12 exams. Access the official 2022 Odisha Higher Secondary (+2 Arts) archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Odisha Class 12th (Higher
                 Secondary) Arts stream. Official CHSE Cuttack mirrors and archival links updated for the 2022 batch
                 verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Arts Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -37,8 +49,7 @@ $meta_keywords = "";
                     <p>Verify 2022 Odisha Arts results by student name and district alternative criteria on the portal.
                     </p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +95,7 @@ $meta_keywords = "";
                         in 2022 +2 arts</strong> archive hub is essential for students to complete their academic
                     verification and proof of performance during university graduation and registration processes even
                     years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,26 +109,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>www orissaresults nic in 2022 +2 arts</strong> are permanently
                             archived on verified platforms like <strong>indiaresults.com</strong> for archival and
                             academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2022 Odisha +2 result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>www orissaresults nic in 2022 +2 arts</strong> portal includes a
                             dedicated name-wise search for the CHSE examinees of the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>www orissaresults nic in 2022 +2
                                 arts</strong> archive is a valid provisional document accepted for initial university
                             registration and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

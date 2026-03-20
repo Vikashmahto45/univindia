@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub"; 
 $meta_description = "Check odisha.indiaresults.com 2023 10th for BSE Odisha Matric examinations. Access the official 2023 Odisha 10th result link on indiaresults for fast checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub</div>
+    <h2 class='sr-title'>odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub"; 
+$meta_description = "Check odisha.indiaresults.com 2023 10th for BSE Odisha Matric examinations. Access the official 2023 Odisha 10th result link on indiaresults for fast checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 Matriculation (Class 10th) results for Odisha. Official
                 BSE mirrors and high-speed result links updated.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2023 10th Result</a>
                 <a href="#faq" class="btn btn-secondary">System Info</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify Odisha 2023 matric results by Name.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -73,8 +84,7 @@ $meta_keywords = "";
                     a verified digital result from the <strong>odisha.indiaresults.com 2023 10th</strong> hub is
                     essential for students to complete their online registration and document verification for junior
                     colleges across Odisha. This digital scorecard acts as a valid provisional certificate.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -87,27 +97,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>odisha.indiaresults.com 2023 10th</strong> portal on
                             <strong>indiaresults</strong> provides a convenient "Search by Name" feature, allowing
                             students and parents to find results without a roll number.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the data from odisha.indiaresults.com authentic?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for BSE Odisha,
                             ensuring that all 2023 10th-grade data is mirrored directly from official board databases.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What to do if there is a mistake in my 2023 10th result?</button>
                     <div class="faq-answer">
                         <p>If you find any discrepancy in the <strong>odisha.indiaresults.com 2023 10th</strong>
                             marksheet, you should immediately contact your school head or the BSE Odisha zonal office
                             for correction.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

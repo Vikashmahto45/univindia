@@ -7,9 +7,27 @@ $meta_keywords = "8th class result 2022 punjab board roll number, check pseb 8th
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th Class Result 2022 Punjab Board Roll Number - Official PSEB Portal</div>
-    <h2 class='sr-title'>8th Class Result 2022 Punjab Board Roll Number: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Middle School (Class 8), Grade 8, and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>8th Class Result 2022 Punjab Board Roll Number - Official PSEB Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "8th Class Result 2022 Punjab Board Roll Number - Official PSEB Portal"; 
+$meta_description = "Check 8th Class Result 2022 Punjab Board by Roll Number. Access the historical Punjab School Education Board (PSEB) Middle results for the 2022 session. Official marks."; 
+$meta_keywords = "8th class result 2022 punjab board roll number, check pseb 8th result 2022 online, punjab board 8th result 2022 indiaresults, official 2022 punjab 8th link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "8th Class Result 2022 Punjab Board Roll Number - Official PSEB Portal";
+$meta_description = "Check 8th Class Result 2022 Punjab Board by Roll Number. Access the historical Punjab School Education Board (PSEB) Middle results for the 2022 session. Official marks.";
+$meta_keywords = "8th class result 2022 punjab board roll number, check pseb 8th result 2022 online, punjab board 8th result 2022 indiaresults, official 2022 punjab 8th link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "8th class result 2022 punjab board roll number, check pseb 8th
                 <a href="https://www.pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official PSEB Mohali" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Result Home</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 8th Class Result 2022 Punjab Board Roll Number Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "8th class result 2022 punjab board roll number, check pseb 8th
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 8th Class Result 2022 Punjab Board Roll Number data, please visit the PSEB headquarters in Mohali or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 8th Class Result 2022 Punjab Board Roll Number Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "8th class result 2022 punjab board roll number, check pseb 8th
         <br>
         <strong>3. Is the result from 8th Class Result 2022 Punjab Board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "8th Class Result 2022 Punjab Board Roll Number" portals) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

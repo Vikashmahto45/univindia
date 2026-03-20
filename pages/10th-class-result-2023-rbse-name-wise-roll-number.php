@@ -7,9 +7,27 @@ $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 r
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Class Result 2023 RBSE Name Wise Roll Number - Official Rajasthan Board Link</div>
-    <h2 class='sr-title'>10th Class Result 2023 RBSE Name Wise Roll Number: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary School (Class 10), Praveshika (Class 10), and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>10th Class Result 2023 RBSE Name Wise Roll Number - Official Rajasthan Board Link</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th Class Result 2023 RBSE Name Wise Roll Number - Official Rajasthan Board Link"; 
+$meta_description = "Check 10th Class Result 2023 RBSE Name Wise and Roll Number Wise. Access the Rajasthan Board Secondary results for the 2023 session. Official merit stats and marks."; 
+$meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 roll number wise, rajeduboard.rajasthan.gov.in 10th result 2023, check rajasthan board 10th result by name, official rbse 10th 2023 link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th Class Result 2023 RBSE Name Wise Roll Number - Official Rajasthan Board Link";
+$meta_description = "Check 10th Class Result 2023 RBSE Name Wise and Roll Number Wise. Access the Rajasthan Board Secondary results for the 2023 session. Official merit stats and marks.";
+$meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 roll number wise, rajeduboard.rajasthan.gov.in 10th result 2023, check rajasthan board 10th result by name, official rbse 10th 2023 link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 r
                 <a href="https://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Search By Name 2023" target="_blank">Search by Name (2023)</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 10th Class Result 2023 RBSE Name Wise Roll Number Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your Rajasthan board, follow these technical steps:</p>
@@ -54,7 +71,7 @@ $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 r
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 10th Class Result 2023 RBSE Name Wise Roll Number, please visit the BSER headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th Class Result 2023 RBSE Name Wise Roll Number Portal</h2>
@@ -67,8 +84,13 @@ $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 r
         <br>
         <strong>3. Is the result from 10th Class Result 2023 RBSE Name Wise Roll Number valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "10th Class Result 2023 RBSE Name Wise Roll Number" portal) are digitized and available in the DigiLocker archive for official verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "all india inter results, check inter results 2024 online, offi
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india inter results - Official National Board Mirror</div>
-    <h2 class='sr-title'>all india inter results: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>all india inter results - Official National Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "all india inter results - Official National Board Mirror"; 
+$meta_description = "Check all india inter results online. Access the results for all State Boards (AP, TS, Bihar, etc.) for the 2024 Intermediate session."; 
+$meta_keywords = "all india inter results, check inter results 2024 online, official state board inter link, national inter results portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "all india inter results - Official National Board Mirror";
+$meta_description = "Check all india inter results online. Access the results for all State Boards (AP, TS, Bihar, etc.) for the 2024 Intermediate session.";
+$meta_keywords = "all india inter results, check inter results 2024 online, official state board inter link, national inter results portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "all india inter results, check inter results 2024 online, offi
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results site" target="_blank">Access National Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
                 <a href="http://apresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="AP Inter results link" target="_blank">Visit AP Inter Results</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official all india inter results Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "all india inter results, check inter results 2024 online, offi
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to all india inter results data, please visit your respective board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About all india inter results Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "all india inter results, check inter results 2024 online, offi
         <br>
         <strong>3. Is the result from all india inter results valid for NEET/JEE?</strong>
         <p>Yes, your board results (verified via the official "all india inter results" portal) are recorded in the national database and serve as primary data for entrance eligibility.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result 2022 punjab board term 2 - Official PSEB Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>10th class result 2022 punjab board term 2 - Official PSEB Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th class result 2022 punjab board term 2 - Official PSEB Hub"; 
+$meta_description = "Check Punjab Board 10th result 2022 Term 2 on 10th class result 2022 punjab board term 2. Access official PSEB 2022 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 PSEB Term 2</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>2022 Punjab Directory</h3>
                     <p>Verify PSEB results (pseb.ac.in) 10th 2022 Term 2 by student roll number or name alternative criteria for the 2022 academic batch across Punjab.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2022 Punjab (PSEB) Board Gateways</h3>
                 <p>The <strong>10th class result 2022 punjab board term 2</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in Punjab. The system provides a detailed subject-wise breakdown for the 2022 batch of student examinees across all districts in Punjab. Having a verified digital result from the <strong>10th class result 2022 punjab board term 2</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2022 PSEB 10th Term 2 result links permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>10th class result 2022 punjab board term 2</strong> are permanently archived on verified platforms for lifelong academic verification access in Punjab.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 PSEB Term 2 results by name on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th class result 2022 punjab board term 2</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for Matric student examinees in Punjab.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 PSEB marksheet valid for regular admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10th class result 2022 punjab board term 2</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

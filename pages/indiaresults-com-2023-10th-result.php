@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Indiaresults com 2023 10th Result - Official Secondary Result Archive"; 
 $meta_description = "Check Indiaresults com 2023 10th Result for all state boards including Punjab, Rajasthan, and Himachal. Access the 2023 secondary results by name and roll number."; 
 $meta_keywords = "indiaresults com 2023 10th result, check 10th result 2023, india results matric 2023, board exam results 10th 2023, indiaresults com archive 2023, official indiaresults portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indiaresults com 2023 10th Result - Official Secondary Result Archive</div>
+    <h2 class='sr-title'>Indiaresults com 2023 10th Result - Official Secondary Result Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Indiaresults com 2023 10th Result - Official Secondary Result Archive"; 
+$meta_description = "Check Indiaresults com 2023 10th Result for all state boards including Punjab, Rajasthan, and Himachal. Access the 2023 secondary results by name and roll number."; 
+$meta_keywords = "indiaresults com 2023 10th result, check 10th result 2023, india results matric 2023, board exam results 10th 2023, indiaresults com archive 2023, official indiaresults portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Indiaresults com 2023 10th Result - Official Secondary Result Archive";
+$meta_description = "Check Indiaresults com 2023 10th Result for all state boards including Punjab, Rajasthan, and Himachal. Access the 2023 secondary results by name and roll number.";
+$meta_keywords = "indiaresults com 2023 10th result, check 10th result 2023, india results matric 2023, board exam results 10th 2023, indiaresults com archive 2023, official indiaresults portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Indiaresults com 2023 10th Result: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), High School Certificate (HSC), and Matriculation Result Gateways (Government of Rajasthan, Punjab, Himachal Pradesh, Bihar, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Indiaresults com 2023 10th Result" (applicable to the annual board examinations and continuous evaluation conducted for the 2022-2023 academic session by various state education boards) represents a significant digital milestone for over 20 million students who completed their secondary education in the diverse academic landscape of India during that period. As the primary private-partner gateway to the state's educational archives (Noida, Mohali, and Jaipur Regional hubs), and the traditional school education infrastructure of the nation, the "Indiaresults com 2023 10th Result" serves as the formal secondary master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificates via specialized high-traffic server endpoints. For the 2023 academic cycle, which saw high-quality digital governance and integrated cloud-based analytics, the "Indiaresults com 2023 10th Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The national education technical partners have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Indiaresults com 2023 10th Result," ensuring that every aspiring student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "indiaresults com 2023 10th result, check 10th result 2023, ind
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital Marksheet</a>
                 <a href="https://pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="PSEB Official" target="_blank">Punjab Board Portal</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Indiaresults com 2023 10th Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your respective board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "indiaresults com 2023 10th result, check 10th result 2023, ind
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Indiaresults com 2023 10th Result, please visit the respective Board headquarters or your District Education Office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Indiaresults com 2023 10th Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "indiaresults com 2023 10th result, check 10th result 2023, ind
         <br>
         <strong>3. Is the result from Indiaresults com 2023 10th Result valid for global use?</strong>
         <p>Yes, your board results (verified via the official "Indiaresults com 2023 10th Result" portal or DigiLocker) are the accepted records for applying to international colleges or job visas.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

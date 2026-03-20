@@ -1,12 +1,27 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RBSE 10th Class Result 2023 Link - Check Rajasthan Board 10th Result"; 
 $meta_description = "Looking for RBSE 10th Class Result 2023 Link? Access the direct link for Rajasthan Board Class 10th Result 2023. Check your marksheet, percentage, and division here."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="result-container">
-    <h1>RBSE 10th Class Result 2023 Link</h1>
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RBSE 10th Class Result 2023 Link - Check Rajasthan Board 10th Result</div>
+    <h2 class='sr-title'>RBSE 10th Class Result 2023 Link - Check Rajasthan Board 10th Result</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RBSE 10th Class Result 2023 Link - Check Rajasthan Board 10th Result"; 
+$meta_description = "Looking for RBSE 10th Class Result 2023 Link? Access the direct link for Rajasthan Board Class 10th Result 2023. Check your marksheet, percentage, and division here."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="result-container">
+    
     <div class="info-box">
         <p>The Board of Secondary Education, Rajasthan (BSER) has activated the <strong>RBSE 10th Class Result 2023 Link</strong>. Students who appeared for the Class 10 Board Examinations can now check their results using the official link provided below.</p>
     </div>
@@ -23,8 +38,7 @@ $meta_keywords = "";
         </ul>
         <div class="button-wrapper">
             <a href="https://rajresults.nic.in/" class="btn-primary" target="_blank" rel="nofollow">Access RBSE 10th Result 2023 Link</a>
-        </div>
-    </div>
+        
 
     <div class="details-section">
         <h3>Details Mentioned on Marksheet</h3>
@@ -35,7 +49,13 @@ $meta_keywords = "";
             <tr><td>Subject-wise Marks</td><td>Total Marks Obtained</td></tr>
             <tr><td>Percentage/Grade</td><td>Result Status (Pass/Fail)</td></tr>
         </table>
+    
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

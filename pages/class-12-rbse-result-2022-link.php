@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 rbse result 2022 - Official Rajasthan Board Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>class 12 rbse result 2022 - Official Rajasthan Board Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "class 12 rbse result 2022 - Official Rajasthan Board Archive"; 
+$meta_description = "Check class 12 rbse result 2022 for all streams including Science, Arts, and Commerce. Access the official 2022 Rajasthan Board (BSER) result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify RBSE 12th 2022 results by student name.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +84,7 @@ $meta_keywords = "";
                     Having a verified digital result from the <strong>class 12 rbse result 2022</strong> hub is
                     essential for students to complete their academic verification and proof of senior secondary
                     education during college registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,27 +97,26 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>class 12 rbse result 2022</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check RBSE 12th 2022 result by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>class 12 rbse result 2022</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated "Search by Name" feature for all
                             12th-grade stream candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for University admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>class 12 rbse result 2022</strong> digital copy is a valid provisional document
                             accepted for initial college and university registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

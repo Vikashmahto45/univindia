@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Www Univindia Net Admit Card - Download MGSU Bikaner Hall Tickets"; 
 $meta_description = "Download your MGSU Bikaner admit card at Www Univindia Net. Official portal for Maharaja Ganga Singh University examinations, hall tickets, and time tables."; 
 $meta_keywords = "www univindia net admit card"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Www Univindia Net Admit Card - Download MGSU Bikaner Hall Tickets</div>
+    <h2 class='sr-title'>Www Univindia Net Admit Card - Download MGSU Bikaner Hall Tickets</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Www Univindia Net Admit Card - Download MGSU Bikaner Hall Tickets"; 
+$meta_description = "Download your MGSU Bikaner admit card at Www Univindia Net. Official portal for Maharaja Ganga Singh University examinations, hall tickets, and time tables."; 
+$meta_keywords = "www univindia net admit card"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Www Univindia Net Admit Card - Download MGSU Bikaner Hall Tickets";
+$meta_description = "Download your MGSU Bikaner admit card at Www Univindia Net. Official portal for Maharaja Ganga Singh University examinations, hall tickets, and time tables.";
+$meta_keywords = "www univindia net admit card";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Www Univindia Net Admit Card: Your Official Gateway to MGSU Bikaner Examinations</h1>
+        
         
         <p>The term "Www Univindia Net Admit Card" is one of the most vital search queries for thousands of students enrolled at Maharaja Ganga Singh University (MGSU), Bikaner. As the examination season approaches, the `www.univindia.net` portal becomes the central hub for academic activity, specifically for the retrieval of the official hall ticket. In this comprehensive guide, we will explore the critical significance of the Www Univindia Net Admit Card, provide a detailed step-by-step walkthrough for its download, and offer expert advice on troubleshooting common issues that may arise during the high-pressure period leading up to university examinations.</p>
 
@@ -55,6 +77,15 @@ $meta_keywords = "www univindia net admit card";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized admit card downloads and official university news, please always rely on the official MGSU Bikaner website.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

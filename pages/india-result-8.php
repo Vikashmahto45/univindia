@@ -7,9 +7,27 @@ $meta_keywords = "india result 8, check class 8 board results online india, high
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 8 - Official National Middle School result Hub</div>
-    <h2 class='sr-title'>India Result 8: Your Comprehensive Navigator to National Board Result Aggregators, State Board Middle School Councils, Class 8 Senior Primary, and National informatics Centre (NIC) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 8 - Official National Middle School result Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 8 - Official National Middle School result Hub"; 
+$meta_description = "Check India Result 8 online. Access the high-speed national and state board Class 8 result verification framework. Official marks link cluster."; 
+$meta_keywords = "india result 8, check class 8 board results online india, high speed 8th result portal, official india result 8 link, rbse class 8 result 2024 indiaresults"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 8 - Official National Middle School result Hub";
+$meta_description = "Check India Result 8 online. Access the high-speed national and state board Class 8 result verification framework. Official marks link cluster.";
+$meta_keywords = "india result 8, check class 8 board results online india, high speed 8th result portal, official india result 8 link, rbse class 8 result 2024 indiaresults";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 8, check class 8 board results online india, high
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Result Home</a>
                 <a href="https://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Rajasthan Results Hub" target="_blank">Raj Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 8 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via the India Result system, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 8, check class 8 board results online india, high
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 8 data, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 8 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 8, check class 8 board results online india, high
         <br>
         <strong>3. Is the result from India Result 8 valid for scholarships?</strong>
         <p>Yes, your middle board results (verified via the official "India Result 8" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

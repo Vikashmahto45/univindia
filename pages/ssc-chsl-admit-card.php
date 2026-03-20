@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online"; 
 $meta_description = "Download SSC CHSL Admit Card 2024 for Tier 1 & 2. Get region-wise direct links for NR, CR, WR, SR, ER, KKR, MPR, NER. Check status and exam dates here."; 
 $meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 admit card, ssc regional websites, chsl exam status, ssc chsl hall ticket download"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online"; 
+$meta_description = "Download SSC CHSL Admit Card 2024 for Tier 1 & 2. Get region-wise direct links for NR, CR, WR, SR, ER, KKR, MPR, NER. Check status and exam dates here."; 
+$meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 admit card, ssc regional websites, chsl exam status, ssc chsl hall ticket download"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online";
+$meta_description = "Download SSC CHSL Admit Card 2024 for Tier 1 & 2. Get region-wise direct links for NR, CR, WR, SR, ER, KKR, MPR, NER. Check status and exam dates here.";
+$meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 admit card, ssc regional websites, chsl exam status, ssc chsl hall ticket download";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -125,8 +148,16 @@ $meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 admit card, ssc regi
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check Latest Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

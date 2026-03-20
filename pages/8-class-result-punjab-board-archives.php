@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8 class result punjab board - Official PSEB 8th Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>8 class result punjab board - Official PSEB 8th Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "8 class result punjab board - Official PSEB 8th Hub"; 
+$meta_description = "Check Punjab Board 8th class result on 8 class result punjab board. Access official PSEB Middle School scorecards and archival result links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 8th Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Punjab Board (pseb.ac.in) 8th class results by student name alternative criteria for
                         various Middle School examination batches.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -91,8 +98,7 @@ $meta_keywords = "";
                     result from the <strong>8 class result punjab board</strong> hub is essential for students to
                     complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -104,28 +110,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>8 class result punjab board</strong> are archived on verified
                             platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Punjab 8th results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>8 class result punjab board</strong> portal is fully
                             mobile-responsive and includes a dedicated name-wise search for student examinees in Punjab.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital PSEB 8th marksheet valid for 9th admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>8 class result punjab board</strong> gateway
                             is a valid provisional document accepted for initial secondary school registration across
                             Punjab.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

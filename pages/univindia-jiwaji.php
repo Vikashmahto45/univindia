@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Jiwaji - Jiwaji University Gwalior Result Portal Guide"; 
 $meta_description = "Univindia Jiwaji is the official hub for Jiwaji University Gwalior results and exam forms. Complete guide to navigating the Jiwaji university student portal."; 
 $meta_keywords = "univindia jiwaji"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Jiwaji - Jiwaji University Gwalior Result Portal Guide</div>
+    <h2 class='sr-title'>Univindia Jiwaji - Jiwaji University Gwalior Result Portal Guide</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Jiwaji - Jiwaji University Gwalior Result Portal Guide"; 
+$meta_description = "Univindia Jiwaji is the official hub for Jiwaji University Gwalior results and exam forms. Complete guide to navigating the Jiwaji university student portal."; 
+$meta_keywords = "univindia jiwaji"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Jiwaji - Jiwaji University Gwalior Result Portal Guide";
+$meta_description = "Univindia Jiwaji is the official hub for Jiwaji University Gwalior results and exam forms. Complete guide to navigating the Jiwaji university student portal.";
+$meta_keywords = "univindia jiwaji";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Jiwaji: Your Essential Guide to Jiwaji University Gwalior Portal</h1>
+        
         
         <p>Univindia Jiwaji is a key term for thousands of students enrolled in Jiwaji University, Gwalior. As one of Madhya Pradesh's most renowned educational institutions, Jiwaji University has effectively integrated its examination and administrative services with the Univindia platform to provide a streamlined, digital experience. This centralized portal is the technical nerve center for students, where they manage everything from their initial enrollment to the retrieval of their final degrees. In this detailed guide, we will explore the various features of Univindia Jiwaji, providing comprehensive instructions on how to check results, download admit cards, and stay updated with the latest university notifications.</p>
 
@@ -52,6 +74,15 @@ $meta_keywords = "univindia jiwaji";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official Jiwaji University website.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

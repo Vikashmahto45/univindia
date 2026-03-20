@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2023 odisha - Official Odisha 2023 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 10th 2023 odisha - Official Odisha 2023 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 10th 2023 odisha - Official Odisha 2023 Archive"; 
+$meta_description = "Check india result 10th 2023 odisha for HSE exams. Access the official 2023 Odisha Board (BSE Odisha) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Odisha board 10th results 2023 by student name alternative criteria for the 2023 academic
                         batch verification.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -92,8 +99,7 @@ $meta_keywords = "";
                     <strong>india result 10th 2023 odisha</strong> archive hub is essential for students to complete
                     their academic verification and proof of educational achievement during transition and registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -105,15 +111,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>india result 10th 2023 odisha</strong> are permanently
                             archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Odisha results by name search online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india result 10th 2023 odisha</strong> portal includes a dedicated
                             name-wise search for student examinees in Odisha for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 Odisha marksheet official for degree
                         admission?</button>
@@ -121,12 +125,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>india result 10th 2023 odisha</strong>
                             archive is a valid provisional document accepted for initial school registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

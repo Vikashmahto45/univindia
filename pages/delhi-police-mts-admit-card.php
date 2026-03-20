@@ -9,7 +9,26 @@ $meta_keywords = "delhi police mts admit card, ssc delhi police mts hall ticket 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Delhi Police MTS Admit Card Download - SSC DP MTS Trade Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Delhi Police MTS Admit Card Download - SSC DP MTS Trade Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "Delhi Police MTS Admit Card Download - SSC DP MTS Trade Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download Delhi Police MTS Admit Card. Get the direct link for SSC Delhi Police Multi-Tasking Staff (Civilian) examination hall tickets at ssc.nic.in."; 
+$meta_keywords = "delhi police mts admit card, ssc delhi police mts hall ticket download, delhi police mts exam date 2024, dp mts trade test admit card, ssc recruit call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Delhi Police MTS Admit Card Download - SSC DP MTS Trade Test Hall Ticket | Univindia.online";
+$meta_description = "Download Delhi Police MTS Admit Card. Get the direct link for SSC Delhi Police Multi-Tasking Staff (Civilian) examination hall tickets at ssc.nic.in.";
+$meta_keywords = "delhi police mts admit card, ssc delhi police mts hall ticket download, delhi police mts exam date 2024, dp mts trade test admit card, ssc recruit call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Delhi Police MTS Admit Card: Download SSC DP MTS Hall Ticket</h2>
         
@@ -91,9 +110,14 @@ $meta_keywords = "delhi police mts admit card, ssc delhi police mts hall ticket 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Delhi Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

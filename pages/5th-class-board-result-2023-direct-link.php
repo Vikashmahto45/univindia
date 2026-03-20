@@ -7,9 +7,27 @@ $meta_keywords = "5th class board result 2023 direct link, check rbse 5th result
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th Class Board Result 2023 Direct Link - Official National archive</div>
-    <h2 class='sr-title'>5th Class Board Result 2023 Direct Link: Your Comprehensive Navigator to Board of Primary Education Class 5, RBSE Rajasthan, PSEB Punjab, and Multi-State Primary Board Result Gateways (Government of Rajasthan, Punjab, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>5th Class Board Result 2023 Direct Link - Official National archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "5th Class Board Result 2023 Direct Link - Official National archive"; 
+$meta_description = "Check 5th Class Board Result 2023 Direct Link online. Access the historical Rajasthan (RBSE) and Punjab (PSEB) Primary results for 2023. Official marks link."; 
+$meta_keywords = "5th class board result 2023 direct link, check rbse 5th result 2023 online, pseb 5th result 2023 direct link, official 2023 fifth class link, indiaresult 5th"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "5th Class Board Result 2023 Direct Link - Official National archive";
+$meta_description = "Check 5th Class Board Result 2023 Direct Link online. Access the historical Rajasthan (RBSE) and Punjab (PSEB) Primary results for 2023. Official marks link.";
+$meta_keywords = "5th class board result 2023 direct link, check rbse 5th result 2023 online, pseb 5th result 2023 direct link, official 2023 fifth class link, indiaresult 5th";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "5th class board result 2023 direct link, check rbse 5th result
                 <a href="https://punjab.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="PSEB Result Mirror" target="_blank">Access PSEB 5th Results</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://shala-darpan.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Shala Darpan Portal</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 5th Class Board Result 2023 Direct Link Online</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "5th class board result 2023 direct link, check rbse 5th result
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 5th Class Board Result 2023 Direct Link, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 5th Class Board Result 2023 Direct Link Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "5th class board result 2023 direct link, check rbse 5th result
         <br>
         <strong>3. Is the result from 5th Class Board Result 2023 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "5th Class Board Result 2023 Direct Link" portal) are recorded in the state database for various merit and nutrition schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

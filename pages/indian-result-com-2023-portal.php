@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian result.com 2023 - Official National Result Portal Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>indian result.com 2023 - Official National Result Portal Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indian result.com 2023 - Official National Result Portal Hub"; 
+$meta_description = "Check indian result.com 2023 for all board and university results. Access the official 2023 results portal on indiaresults for the latest updates across India."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse 2023 Results</a>
                 <a href="#faq" class="btn btn-secondary">System Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Name-wise result retrieval for all 2023 examinations.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +86,7 @@ $meta_keywords = "";
                     <strong>indian result.com 2023</strong> hub is essential for students to complete their online
                     verification and registration for colleges across India. This digital scorecard acts as a valid
                     provisional certificate.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,27 +98,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Absolutely. All major board results covered under <strong>indian result.com 2023</strong> are
                             mirrored from official databases, making them 100% authentic for provisional use.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check indian result.com 2023 results by name?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>indian result.com 2023</strong> portal on <strong>indiaresults</strong>
                             includes a name-wise search for most national and state board examinations of that academic
                             year.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital copy from <strong>indian result.com 2023</strong> is a valid provisional document
                             accepted for initial college and university registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

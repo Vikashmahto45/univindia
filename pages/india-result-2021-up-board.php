@@ -7,9 +7,27 @@ $meta_keywords = "india result 2021 up board, check up board results 2021 online
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2021 up board - Official UP Board Mirror</div>
-    <h2 class='sr-title'>india result 2021 up board: Your Comprehensive Navigator to Board of High School and Intermediate Education Uttar Pradesh (UPMSP), Prayagraj, Matriculation/Intermediate Public Examinations (Class 10 & 12), and Uttar Pradesh State Board Result Gateways (Government of Uttar Pradesh, Secondary Education Department, and National Informatics Centre (NIC) UP State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india result 2021 up board - Official UP Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 2021 up board - Official UP Board Mirror"; 
+$meta_description = "Check india result 2021 up board online. Access the historical results for Uttar Pradesh Board (UPMSP) High School and Intermediate for the 2021 session."; 
+$meta_keywords = "india result 2021 up board, check up board results 2021 online, official upmsp mirror link 2021, upmsp results 2021 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india result 2021 up board - Official UP Board Mirror";
+$meta_description = "Check india result 2021 up board online. Access the historical results for Uttar Pradesh Board (UPMSP) High School and Intermediate for the 2021 session.";
+$meta_keywords = "india result 2021 up board, check up board results 2021 online, official upmsp mirror link 2021, upmsp results 2021 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 2021 up board, check up board results 2021 online
                 <a href="http://upresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official UP Results" target="_blank">Access UP NIC HUB</a>
                 <a href="https://up.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="UP Board Mirror" target="_blank">Visit UP Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 2021 up board Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2021 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 2021 up board, check up board results 2021 online
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india result 2021 up board data, please visit the UPMSP headquarters in Prayagraj or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About india result 2021 up board Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 2021 up board, check up board results 2021 online
         <br>
         <strong>3. Is the result from india result 2021 up board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "india result 2021 up board" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2022 up board - Official Uttar Pradesh 2022 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 2022 up board - Official Uttar Pradesh 2022 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 2022 up board - Official Uttar Pradesh 2022 Archive"; 
+$meta_description = "Check india result 2022 up board for Class 10 and 12 exams. Access the official 2022 Uttar Pradesh Board (UPMSP) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 UP Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify UP board results 2022 by student name alternative criteria for the 2022 academic
                         examination batch verification.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -93,8 +100,7 @@ $meta_keywords = "";
                     result from the <strong>india result 2022 up board</strong> archive hub is essential for students to
                     complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -106,27 +112,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>india result 2022 up board</strong> are permanently archived
                             on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 UP results by name online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india result 2022 up board</strong> portal includes a dedicated
                             name-wise search for student examinees in Uttar Pradesh for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 UP marksheet valid for graduation college?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>india result 2022 up board</strong> archive
                             is a valid provisional document accepted for initial university registration and
                             verification across Uttar Pradesh.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

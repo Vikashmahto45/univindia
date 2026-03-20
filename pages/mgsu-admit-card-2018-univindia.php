@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MGSU Admit Card 2018 Univindia - Bikaner University 2018 Hall Tickets"; 
 $meta_description = "Access your MGSU Bikaner 2018 admit cards via Univindia. Official guide to retrieving historical 2018 Maharaja Ganga Singh University hall tickets online."; 
 $meta_keywords = "mgsu admit card 2018 univindia"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MGSU Admit Card 2018 Univindia - Bikaner University 2018 Hall Tickets</div>
+    <h2 class='sr-title'>MGSU Admit Card 2018 Univindia - Bikaner University 2018 Hall Tickets</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MGSU Admit Card 2018 Univindia - Bikaner University 2018 Hall Tickets"; 
+$meta_description = "Access your MGSU Bikaner 2018 admit cards via Univindia. Official guide to retrieving historical 2018 Maharaja Ganga Singh University hall tickets online."; 
+$meta_keywords = "mgsu admit card 2018 univindia"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MGSU Admit Card 2018 Univindia - Bikaner University 2018 Hall Tickets";
+$meta_description = "Access your MGSU Bikaner 2018 admit cards via Univindia. Official guide to retrieving historical 2018 Maharaja Ganga Singh University hall tickets online.";
+$meta_keywords = "mgsu admit card 2018 univindia";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MGSU Admit Card 2018 Univindia: Accessing Your Historical Bikaner Hall Tickets</h1>
+        
         
         <p>The term "MGSU Admit Card 2018 Univindia" refers to a specific, historical digital gateway used by the Maharaja Ganga Singh University (MGSU), Bikaner, during the 2018 examination cycle. For many alumni, administrative researchers, and individuals seeking to verify their previous academic achievements, this specific portal on the `univindia.net` network is the definitive archive for records from the late 2010s. Whether you are retrieving a 2018 hall ticket for degree verification purposes or researching the examination patterns of that year, the 2018 admit card gateway is the digital bridge to those permanent university records. In this comprehensive guide, we will provide a detailed exploration of the 2018 MGSU admit card infrastructure, explain its role as an academic repository, and offer expert advice on how to access and interpret legacy records from the Bikaner university system via the Univindia network.</p>
 
@@ -53,6 +75,15 @@ $meta_keywords = "mgsu admit card 2018 univindia";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized historical declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

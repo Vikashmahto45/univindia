@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result today - Official National Result News & Alert Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result today - Official National Result News & Alert Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result today - Official National Result News & Alert Hub"; 
+$meta_description = "Check india result today for all board and university exams. Access the latest result declaration news, live updates, and official portal links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Today's Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway for today's UG/PG semester results, degree archives, and registration status
                         news.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +96,7 @@ $meta_keywords = "";
                     batch. Having a verified digital result from the <strong>india result today</strong> hub is
                     essential for students to complete their academic verification and proof of educational attainment
                     during university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,27 +109,26 @@ $meta_keywords = "";
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards and universities, ensuring result data mirrors official board databases in real-time.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results by name search on this hub?</button>
                     <div class="faq-answer">
                         <p>Yes, for participating boards, the <strong>india result today</strong> portal includes a
                             dedicated name-wise search feature for candidate ease during declaration day.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What if the official site for today's result is down?</button>
                     <div class="faq-answer">
                         <p>Our <strong>india result today</strong> mirrors provide a robust alternative server to help
                             you access your scorecard without delays caused by high traffic on official board websites.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

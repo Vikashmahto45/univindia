@@ -7,9 +7,27 @@ $meta_keywords = "arts result 2023, check 12th arts result 2023 online, rbse 12t
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Arts Result 2023 - Official Multi-Board Archive</div>
-    <h2 class='sr-title'>Arts Result 2023: Your Comprehensive Navigator to State Board Secondary and Higher Secondary Education Councils, Arts Stream, Humanities, Fine Arts, and National State Board Result Gateways (Government of Rajasthan, Odisha, Madhya Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>Arts Result 2023 - Official Multi-Board Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Arts Result 2023 - Official Multi-Board Archive"; 
+$meta_description = "Check Arts Result 2023 online. Access the high-speed 12th Arts results for Rajasthan (RBSE), Odisha (CHSE), and MP Board for the 2023 session. Official Link."; 
+$meta_keywords = "arts result 2023, check 12th arts result 2023 online, rbse 12th arts 2023, chse odisha arts 2023, mp board 12th arts result 2023, official arts results link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Arts Result 2023 - Official Multi-Board Archive";
+$meta_description = "Check Arts Result 2023 online. Access the high-speed 12th Arts results for Rajasthan (RBSE), Odisha (CHSE), and MP Board for the 2023 session. Official Link.";
+$meta_keywords = "arts result 2023, check 12th arts result 2023 online, rbse 12th arts 2023, chse odisha arts 2023, mp board 12th arts result 2023, official arts results link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "arts result 2023, check 12th arts result 2023 online, rbse 12t
                 <a href="https://orissaresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Odisha Result HUB" target="_blank">Access CHSE Arts</a>
                 <a href="http://mpresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official MP Result HUB" target="_blank">Access MP Arts</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Arts Result 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "arts result 2023, check 12th arts result 2023 online, rbse 12t
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Arts Result 2023, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Arts Result 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "arts result 2023, check 12th arts result 2023 online, rbse 12t
         <br>
         <strong>3. Is the result from Arts Result 2023 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Arts Result 2023" portal) are digitized and available in the DigiLocker archive for official verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

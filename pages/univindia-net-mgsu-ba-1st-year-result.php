@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores"; 
 $meta_description = "Check your MGSU Bikaner BA Part 1 results on Univindia Net. Official guide to downloading Bachelor of Arts 1st year marksheets and results online."; 
 $meta_keywords = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores"; 
+$meta_description = "Check your MGSU Bikaner BA Part 1 results on Univindia Net. Official guide to downloading Bachelor of Arts 1st year marksheets and results online."; 
+$meta_keywords = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores";
+$meta_description = "Check your MGSU Bikaner BA Part 1 results on Univindia Net. Official guide to downloading Bachelor of Arts 1st year marksheets and results online.";
+$meta_keywords = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fresh Arrivals Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU BA 1st Year Result: Your Guide to Bikaner University Freshers' Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU BA 1st Year Result" marks the most significant academic milestone for thousands of students who have just begun their higher education journey at Maharaja Ganga Singh University (MGSU), Bikaner. For first-year arts students, the declaration of the BA Part 1 result is the first official validation of their university-level performance. It determines their transition to the second year and establishes their foundation for the entire Bachelor's degree. The `univindia.net` portal is the official platform where these critical scores are published. In this comprehensive guide, we will provide a detailed walkthrough of how to check your MGSU BA 1st Year results, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during your first result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Net MGSU BA 1st Year Result - Bikaner University Fre
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

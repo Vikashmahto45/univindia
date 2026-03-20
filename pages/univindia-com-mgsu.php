@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Com MGSU - Bikaner University Student & Error mirror Portal"; 
 $meta_description = "Univindia Com MGSU often serves as the mirror site for Maharaja Ganga Singh University. Get your MGSU results and admit cards at Univindia.com/mgsu."; 
 $meta_keywords = "univindia com mgsu"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Com MGSU - Bikaner University Student & Error mirror Portal</div>
+    <h2 class='sr-title'>Univindia Com MGSU - Bikaner University Student & Error mirror Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Com MGSU - Bikaner University Student & Error mirror Portal"; 
+$meta_description = "Univindia Com MGSU often serves as the mirror site for Maharaja Ganga Singh University. Get your MGSU results and admit cards at Univindia.com/mgsu."; 
+$meta_keywords = "univindia com mgsu"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Com MGSU - Bikaner University Student & Error mirror Portal";
+$meta_description = "Univindia Com MGSU often serves as the mirror site for Maharaja Ganga Singh University. Get your MGSU results and admit cards at Univindia.com/mgsu.";
+$meta_keywords = "univindia com mgsu";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Com MGSU: Navigating the Bikaner University Mirror Portal</h1>
+        
         
         <p>Univindia Com MGSU is a phrase that has gained prominence among students of Maharaja Ganga Singh University (MGSU), Bikaner, especially during periods of high digital traffic. While the primary portal for MGSU is hosted on the `.net` domain, `univindia.com/mgsu` often functions as a crucial mirror or secondary site that ensures the continuity of university services. Whether you are attempting to fill out your semester examination form, looking for your final undergraduate result, or trying to download your hall ticket, Univindia Com MGSU provides a reliable alternatives that helps manage the scholarly demands of thousands of students. In this detailed guide, we will explore the features and benefits of this secondary portal and provide expert tips for a seamless experience.</p>
 
@@ -44,6 +66,15 @@ $meta_keywords = "univindia com mgsu";
 
         <p><i>Note: Univindia.online is an independent educational portal and is not the official Maharaja Ganga Singh University or Univindia.net website. For authorized updates and official result declarations, please always refer to the university's authorized portal.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

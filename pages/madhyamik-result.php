@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "madhyamik result - Official West Bengal Board Mirror"; 
 $meta_description = "Check madhyamik result online. Access the results for West Bengal Board of Secondary Education (WBBSE) Class 10 for the 2024 session."; 
 $meta_keywords = "madhyamik result, check wbbse class 10 result 2024 online, official madhyamik link, wbresults nic in madhyamik portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; madhyamik result - Official West Bengal Board Mirror</div>
+    <h2 class='sr-title'>madhyamik result - Official West Bengal Board Mirror</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "madhyamik result - Official West Bengal Board Mirror"; 
+$meta_description = "Check madhyamik result online. Access the results for West Bengal Board of Secondary Education (WBBSE) Class 10 for the 2024 session."; 
+$meta_keywords = "madhyamik result, check wbbse class 10 result 2024 online, official madhyamik link, wbresults nic in madhyamik portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "madhyamik result - Official West Bengal Board Mirror";
+$meta_description = "Check madhyamik result online. Access the results for West Bengal Board of Secondary Education (WBBSE) Class 10 for the 2024 session.";
+$meta_keywords = "madhyamik result, check wbbse class 10 result 2024 online, official madhyamik link, wbresults nic in madhyamik portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>madhyamik result: Your Comprehensive Navigator to West Bengal Board of Secondary Education (WBBSE), Kolkata, Secondary Public Examinations (Class 10), and West Bengal State Board Result Gateways (Government of West Bengal, Education Department, and National Informatics Centre (NIC) West Bengal State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "madhyamik result" (representing the primary synchronized digital result-dissemination framework utilized by over 10 lakh students for the annual school board exams conducted during the active 2023-2024 academic session by the WBBSE Kolkata) represents a significant digital milestone for students residing in the academic and industrial landscape of West Bengal. As the primary official gateway to the state's 2024 educational infrastructure (Kolkata HQ), and the traditional school education infrastructure of the nation, the "madhyamik result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like West Bengal IndiaResults. For the 2024 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across West Bengal, the "madhyamik result" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The West Bengal education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2024 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "madhyamik result," ensuring that every student and researcher in West Bengal can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "madhyamik result, check wbbse class 10 result 2024 online, off
                 <a href="https://wbbse.wb.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="WBBSE Official Portal" target="_blank">Access WBBSE Official</a>
                 <a href="https://west-bengal.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="WB Name site" target="_blank">Visit Madhyamik Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official madhyamik result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "madhyamik result, check wbbse class 10 result 2024 online, off
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to madhyamik result data, please visit the WBBSE headquarters in Kolkata or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Madhyamik Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "madhyamik result, check wbbse class 10 result 2024 online, off
         <br>
         <strong>3. Is the result from madhyamik result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "madhyamik result" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

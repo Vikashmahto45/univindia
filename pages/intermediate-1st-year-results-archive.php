@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "intermediate 1st year results - Official Junior College Gateway"; 
 $meta_description = "Check intermediate 1st year results for all major state boards. Access the official 1st Year Intermediate result hub on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; intermediate 1st year results - Official Junior College Gateway</div>
+    <h2 class='sr-title'>intermediate 1st year results - Official Junior College Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "intermediate 1st year results - Official Junior College Gateway"; 
+$meta_description = "Check intermediate 1st year results for all major state boards. Access the official 1st Year Intermediate result hub on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest 1st Year Intermediate academic results for all
                 participating state boards. Official result mirrors and high-speed links updated for the current
                 session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Inter Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify Inter 1st year results using Hall Ticket or Name.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +89,7 @@ $meta_keywords = "";
                     digital result from the <strong>intermediate 1st year results</strong> hub is essential for students
                     to complete their academic verification and proof of performance during their senior secondary
                     journey. This digital record is a legally valid provisional document.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,27 +102,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>intermediate 1st year results</strong> portal on
                             <strong>indiaresults</strong> provides a convenient "Search by Name" feature for all major
                             state Intermediate candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the online results official for college use?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for various
                             state boards, ensuring that all result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for 2nd year admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>intermediate 1st year results</strong> is a valid
                             provisional document accepted for initial class 12th registration and document verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

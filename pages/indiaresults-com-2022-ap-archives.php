@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive"; 
 $meta_description = "Check Andhra Pradesh (AP) Board 10th & 12th result 2022 on indiaresults.com 2022 ap. Access official BSEAP/BIEAP 2022 archival results on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive</div>
+    <h2 class='sr-title'>indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive"; 
+$meta_description = "Check Andhra Pradesh (AP) Board 10th & 12th result 2022 on indiaresults.com 2022 ap. Access official BSEAP/BIEAP 2022 archival results on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Andhra Pradesh
                 Board of Secondary Education (BSEAP) and Board of Intermediate Education (BIEAP). Official AP mirrors
                 and 2022 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 AP Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Andhra Pradesh (bse.ap.gov.in / bie.ap.gov.in) results 2022 by student name alternative
                         criteria for the 2022 academic examination batch verification.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +100,7 @@ $meta_keywords = "";
                     practical marks for all students. Having a verified digital result from the <strong>indiaresults.com
                         2022 ap</strong> archive hub is essential for students to complete their academic verification
                     and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,26 +112,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>indiaresults.com 2022 ap</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 AP results by name only online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresults.com 2022 ap</strong> portal includes a dedicated
                             name-wise search for student examinees in Andhra Pradesh for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 AP marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>indiaresults.com 2022 ap</strong> gateway is
                             a valid provisional document accepted for initial university registration and verification
                             across South India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

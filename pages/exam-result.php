@@ -7,9 +7,27 @@ $meta_keywords = "exam result, check board result online, university exam result
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Exam Result - Official National Result Archive</div>
-    <h2 class='sr-title'>Exam Result: Your Comprehensive Navigator to National Board Result Aggregators (IndiaResults), State Board Examination Councils, University Degree Portals, 10th (Secondary), 12th (Higher Secondary), Science, Commerce, Arts Streams, and National NIC Result Gateways Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>Exam Result - Official National Result Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Exam Result - Official National Result Archive"; 
+$meta_description = "Check Exam Result online. Access the primary national and state board examination results for 10th, 12th, and University degrees. Official marks link."; 
+$meta_keywords = "exam result, check board result online, university exam result indiaresults, official examination result link, board results 2024 india"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Exam Result - Official National Result Archive";
+$meta_description = "Check Exam Result online. Access the primary national and state board examination results for 10th, 12th, and University degrees. Official marks link.";
+$meta_keywords = "exam result, check board result online, university exam result indiaresults, official examination result link, board results 2024 india";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "exam result, check board result online, university exam result
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Result Home</a>
                 <a href="https://exametc.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Exametc Portal" target="_blank">Visit Exametc hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Exam Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via the national system, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "exam result, check board result online, university exam result
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Exam Result data, please visit the respective Board/University headquarters or your school/college office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Exam Result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "exam result, check board result online, university exam result
         <br>
         <strong>3. Is the result from Exam Result valid for scholarships?</strong>
         <p>Yes, your results (verified via the official "Exam Result" portal) are recorded in the national database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

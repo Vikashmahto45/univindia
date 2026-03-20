@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Org RRBMU - Alwar Matsya University Portal Guide"; 
 $meta_description = "Univindia Org RRBMU is the official portal for Matsya University Alwar exams and results. Complete guide to accessing the student panel for RRBMU online."; 
 $meta_keywords = "Univindia Org RRBMU - Alwar Matsya University Portal Guide"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Org RRBMU - Alwar Matsya University Portal Guide</div>
+    <h2 class='sr-title'>Univindia Org RRBMU - Alwar Matsya University Portal Guide</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Org RRBMU - Alwar Matsya University Portal Guide"; 
+$meta_description = "Univindia Org RRBMU is the official portal for Matsya University Alwar exams and results. Complete guide to accessing the student panel for RRBMU online."; 
+$meta_keywords = "Univindia Org RRBMU - Alwar Matsya University Portal Guide"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Org RRBMU - Alwar Matsya University Portal Guide";
+$meta_description = "Univindia Org RRBMU is the official portal for Matsya University Alwar exams and results. Complete guide to accessing the student panel for RRBMU online.";
+$meta_keywords = "Univindia Org RRBMU - Alwar Matsya University Portal Guide";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Org RRBMU: Your Essential Gateway to Matsya University Alwar Services</h1>
+        
         
         <p>The term "Univindia Org RRBMU" represents the central technical nervous system for thousands of students enrolled at the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar. As higher education in Rajasthan moves further into the digital age, having a centralized, reliable hub for all administrative and examination-related tasks is not just a convenience, but an absolute necessity. The Univindia network—specifically the `univindia.org` domain serving Matsya University—is the official destination for every student's academic journey. In this comprehensive guide, we will explore why the Univindia Org RRBMU portal is so vital for your success and how you can master its many features to ensure a smooth university experience in Alwar.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "Univindia Org RRBMU - Alwar Matsya University Portal Guide";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official RRBMU Alwar website at univindia.org.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU Exam Form - Bikaner University Online Registration"; 
 $meta_description = "Fill your MGSU Bikaner exam forms on Univindia Net MGSU Exam Form portal. Official guide to online registration, fee payment, and form status for Bikaner university."; 
 $meta_keywords = "Univindia Net MGSU Exam Form - Bikaner University Online Registration"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU Exam Form - Bikaner University Online Registration</div>
+    <h2 class='sr-title'>Univindia Net MGSU Exam Form - Bikaner University Online Registration</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Exam Form - Bikaner University Online Registration"; 
+$meta_description = "Fill your MGSU Bikaner exam forms on Univindia Net MGSU Exam Form portal. Official guide to online registration, fee payment, and form status for Bikaner university."; 
+$meta_keywords = "Univindia Net MGSU Exam Form - Bikaner University Online Registration"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU Exam Form - Bikaner University Online Registration";
+$meta_description = "Fill your MGSU Bikaner exam forms on Univindia Net MGSU Exam Form portal. Official guide to online registration, fee payment, and form status for Bikaner university.";
+$meta_keywords = "Univindia Net MGSU Exam Form - Bikaner University Online Registration";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU Exam Form: Your Official Guide to Bikaner University Registration</h1>
+        
         
         <p>The term "Univindia Net MGSU Exam Form" represents the first and most critical step in a student's academic year at Maharaja Ganga Singh University (MGSU), Bikaner. As Northern Rajasthan's premier higher education institution, MGSU manages a massive volume of student registrations for its diverse undergraduate, postgraduate, and professional courses. The `univindia.net` portal is the official gateway where this registration process takes place. In this comprehensive guide, we will provide a detailed walkthrough of how to fill out your MGSU exam form on the Univindia Net portal, manage online fee payments, and troubleshoot common registration issues to ensure your academic year starts successfully.</p>
 
@@ -50,6 +72,15 @@ $meta_keywords = "Univindia Net MGSU Exam Form - Bikaner University Online Regis
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized form submissions and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

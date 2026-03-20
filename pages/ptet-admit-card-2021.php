@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download PTET Admit Card 2021. Get the direct link for Rajasthan PTET 4-Year BA B.Ed / BSc B.Ed and 2-Year B.Ed recruitment entrance exam hall tickets at ptetraj2021.com."; 
 $meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, ptetraj2021.com admit card link, ptet exam 2021 admit card download, raj ptet hall ticket"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download PTET Admit Card 2021. Get the direct link for Rajasthan PTET 4-Year BA B.Ed / BSc B.Ed and 2-Year B.Ed recruitment entrance exam hall tickets at ptetraj2021.com."; 
+$meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, ptetraj2021.com admit card link, ptet exam 2021 admit card download, raj ptet hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online";
+$meta_description = "Download PTET Admit Card 2021. Get the direct link for Rajasthan PTET 4-Year BA B.Ed / BSc B.Ed and 2-Year B.Ed recruitment entrance exam hall tickets at ptetraj2021.com.";
+$meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, ptetraj2021.com admit card link, ptet exam 2021 admit card download, raj ptet hall ticket";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -91,8 +114,16 @@ $meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, pte
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="ptet-result.php" class="hot-btn bg-gold">Check PTET 2021 Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

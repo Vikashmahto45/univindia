@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Tnresults Nic In - Official Tamil Nadu Board Result Hub"; 
 $meta_description = "Check Tnresults Nic In online. Access the Tamil Nadu Directorate of Government Examinations (DGE) SSCE, HSE Class 11th and 12th results. Official 2024 marksheets."; 
 $meta_keywords = "tnresults nic in, check tn board result 2024, dge.tn.gov.in results, tn ssce result 2024, tn hse 12th result 2024, official tamil nadu result portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Tnresults Nic In - Official Tamil Nadu Board Result Hub</div>
+    <h2 class='sr-title'>Tnresults Nic In - Official Tamil Nadu Board Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Tnresults Nic In - Official Tamil Nadu Board Result Hub"; 
+$meta_description = "Check Tnresults Nic In online. Access the Tamil Nadu Directorate of Government Examinations (DGE) SSCE, HSE Class 11th and 12th results. Official 2024 marksheets."; 
+$meta_keywords = "tnresults nic in, check tn board result 2024, dge.tn.gov.in results, tn ssce result 2024, tn hse 12th result 2024, official tamil nadu result portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Tnresults Nic In - Official Tamil Nadu Board Result Hub";
+$meta_description = "Check Tnresults Nic In online. Access the Tamil Nadu Directorate of Government Examinations (DGE) SSCE, HSE Class 11th and 12th results. Official 2024 marksheets.";
+$meta_keywords = "tnresults nic in, check tn board result 2024, dge.tn.gov.in results, tn ssce result 2024, tn hse 12th result 2024, official tamil nadu result portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Tnresults Nic In: Your Comprehensive Navigator to Tamil Nadu Directorate of Government Examinations (DGE), Secondary School Leaving Certificate (SSLC), Higher Secondary Examination (HSE Class 11 and 12), and Tamil Nadu State Board Result Gateways (Government of Tamil Nadu, Education Department, and National Informatics Centre (NIC) Tamil Nadu State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Tnresults Nic In" (applicable to the annual board examinations and final technical evaluations conducted for the academic session by the Directorate of Government Examinations, Tamil Nadu) represents the single most significant digital milestone for over 15 lakh students residing in the academic and industrial landscape of Tamil Nadu. As the primary official gateway to the state's educational infrastructure (Chennai, DGE HQ), and the traditional school education infrastructure of the nation, the "Tnresults Nic In" serves as the formal secondary and higher secondary master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificate via dedicated government server endpoints. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "Tnresults Nic In" search is the digital gateway through which candidates verify their professional transition from school to college with maximum transparency and integrity. The Tamil Nadu education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the scores (including subject-wise marks, total scores, and grade component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Tnresults Nic In," ensuring that every aspiring student and researcher in Tamil Nadu can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "tnresults nic in, check tn board result 2024, dge.tn.gov.in re
                 <a href="https://dge.tn.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="DGE Tamil Nadu Official" target="_blank">Visit DGE Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Tnresults Nic In Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your Tamil Nadu board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "tnresults nic in, check tn board result 2024, dge.tn.gov.in re
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Tnresults Nic In, please visit the DGE headquarters in Chennai or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Tnresults Nic In Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "tnresults nic in, check tn board result 2024, dge.tn.gov.in re
         <br>
         <strong>3. Is the result from Tnresults Nic In valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Tnresults Nic In" portal) are the primary records for applying to the 'Moovalur Ramamirtham Ammaiyar' and other merit schemes in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

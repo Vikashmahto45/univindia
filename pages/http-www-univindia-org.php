@@ -7,9 +7,27 @@ $meta_keywords = "Http Www Univindia Org - Matsya University Official Website Ac
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Http Www Univindia Org - Matsya University Official Website Access</div>
-    <h2 class='sr-title'>Http Www Univindia Org: Navigating the Matsya University Digital Hub</h2>
+    <h2 class='sr-title'>Http Www Univindia Org - Matsya University Official Website Access</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Http Www Univindia Org - Matsya University Official Website Access"; 
+$meta_description = "Access RRBMU Alwar services via Http Www Univindia Org. Official guide to exams, results, and student panels for Matsya University students online."; 
+$meta_keywords = "Http Www Univindia Org - Matsya University Official Website Access"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Http Www Univindia Org - Matsya University Official Website Access";
+$meta_description = "Access RRBMU Alwar services via Http Www Univindia Org. Official guide to exams, results, and student panels for Matsya University students online.";
+$meta_keywords = "Http Www Univindia Org - Matsya University Official Website Access";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -52,7 +70,13 @@ $meta_keywords = "Http Www Univindia Org - Matsya University Official Website Ac
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official RRBMU Alwar website at univindia.org.</i></p>
     </div>
-</main>
+
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

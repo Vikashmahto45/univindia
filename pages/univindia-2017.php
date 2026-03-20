@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia 2017 Archive Portal - Bikaner University 2017 Records"; 
 $meta_description = "Access the Univindia 2017 archive for Bikaner University. Official guide to retrieving 2017 Maharaja Ganga Singh University exams, results, and admit cards."; 
 $meta_keywords = "univindia 2017"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia 2017 Archive Portal - Bikaner University 2017 Records</div>
+    <h2 class='sr-title'>Univindia 2017 Archive Portal - Bikaner University 2017 Records</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia 2017 Archive Portal - Bikaner University 2017 Records"; 
+$meta_description = "Access the Univindia 2017 archive for Bikaner University. Official guide to retrieving 2017 Maharaja Ganga Singh University exams, results, and admit cards."; 
+$meta_keywords = "univindia 2017"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia 2017 Archive Portal - Bikaner University 2017 Records";
+$meta_description = "Access the Univindia 2017 archive for Bikaner University. Official guide to retrieving 2017 Maharaja Ganga Singh University exams, results, and admit cards.";
+$meta_keywords = "univindia 2017";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia 2017 Archive Portal: Accessing Your Historical Bikaner Records</h1>
+        
         
         <p>The term "Univindia 2017 Archive Portal" refers to the specific, historical digital infrastructure used by Maharaja Ganga Singh University (MGSU), Bikaner, during the 2017 academic cycle. Within the robust network of `univindia.net`, the 2017 directories serve as a permanent repository for all examination-related data from that year. For thousands of alumni, administrative researchers, and individuals seeking to verify academic progression from the mid-2010s, this archive is the definitive source of truth. Whether you are retrieving a 2017 hall ticket for degree verification or researching the university's transition into digital maturity, the Univindia 2017 archive provides authoritative access to those legacy records. In this comprehensive guide, we will provide a detailed exploration of the 2017 MGSU archive, explain how to navigate its various functional sections, and offer expert advice on ensuring a seamless experience when accessing archival university data in Bikaner.</p>
 
@@ -54,6 +76,15 @@ $meta_keywords = "univindia 2017";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized historical declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

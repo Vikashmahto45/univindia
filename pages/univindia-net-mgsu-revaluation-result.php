@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores"; 
 $meta_description = "Check your MGSU Bikaner revaluation and scrutiny results on Univindia Net. Official guide to downloading revised marksheets from Maharaja Ganga Singh University."; 
 $meta_keywords = "Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores"; 
+$meta_description = "Check your MGSU Bikaner revaluation and scrutiny results on Univindia Net. Official guide to downloading revised marksheets from Maharaja Ganga Singh University."; 
+$meta_keywords = "Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores";
+$meta_description = "Check your MGSU Bikaner revaluation and scrutiny results on Univindia Net. Official guide to downloading revised marksheets from Maharaja Ganga Singh University.";
+$meta_keywords = "Univindia Net MGSU Revaluation Result - Bikaner University Re-Check Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU Revaluation Result: Your Guide to Bikaner University Re-Check Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU Revaluation Result" is a beacon of hope for many students at Maharaja Ganga Singh University (MGSU), Bikaner, who believe that their initial examination scores do not accurately reflect their academic performance. Maharaja Ganga Singh University provides a robust, transparent, and digital mechanism for students to request a re-assessment of their answer scripts. The `univindia.net` portal is the official platform where these updated scores are published. In this comprehensive guide, we will explore the significance of the MGSU Revaluation Result, provide a detailed walkthrough of how to check your revised marks, and explain the administrative steps involved in the revaluation process for students in Bikaner.</p>
 
@@ -51,6 +73,15 @@ $meta_keywords = "Univindia Net MGSU Revaluation Result - Bikaner University Re-
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For official MGSU revaluation results and authorized university news, please always rely on the official Maharaja Ganga Singh University websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

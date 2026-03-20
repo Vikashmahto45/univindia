@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Orissaresults.nic.in 2023 - official Odisha State Board and University Result Hub"; 
 $meta_description = "Check Orissaresults.nic.in 2023 for official Odisha 10th (HSC) and 12th (CHSE) examination results. Access the 2023 archival results, merit lists, and marksheet downloads."; 
 $meta_keywords = "orissaresults.nic.in 2023, odisha results 2023, bse odisha 10th result 2023, chse odisha +2 result 2023, nic odisha results 2023 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Orissaresults.nic.in 2023 - official Odisha State Board and University Result Hub</div>
+    <h2 class='sr-title'>Orissaresults.nic.in 2023 - official Odisha State Board and University Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Orissaresults.nic.in 2023 - official Odisha State Board and University Result Hub"; 
+$meta_description = "Check Orissaresults.nic.in 2023 for official Odisha 10th (HSC) and 12th (CHSE) examination results. Access the 2023 archival results, merit lists, and marksheet downloads."; 
+$meta_keywords = "orissaresults.nic.in 2023, odisha results 2023, bse odisha 10th result 2023, chse odisha +2 result 2023, nic odisha results 2023 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Orissaresults.nic.in 2023 - official Odisha State Board and University Result Hub";
+$meta_description = "Check Orissaresults.nic.in 2023 for official Odisha 10th (HSC) and 12th (CHSE) examination results. Access the 2023 archival results, merit lists, and marksheet downloads.";
+$meta_keywords = "orissaresults.nic.in 2023, odisha results 2023, bse odisha 10th result 2023, chse odisha +2 result 2023, nic odisha results 2023 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Orissaresults.nic.in 2023: The Definitive Digital Archive for Odisha’s Academic Success</h1>
+        
         
         <p>The academic portal "Orissaresults.nic.in 2023" stands as one of the most recognizable and essential digital landmarks for millions of students navigating the educationally progressive system of Odisha. Managed by the National Informatics Centre (NIC) in collaboration with the Department of School and Mass Education, the "Orissaresults.nic.in 2023" platform is synonymous with transparency, legal accuracy, and massive-scale technical reliability. For the 2023 academic cycle, which marked the formal return to traditional state-level standardized testing following a period of educational transition, the "Orissaresults.nic.in 2023" infrastructure provided the primary and most robust gateway for disseminating High School Certificate (HSC) and Higher Secondary (+2) scores. In the high-stakes world of Indian education, where result declarations are met with massive internet traffic, the "Orissaresults.nic.in 2023" portal serves as the official source of truth for the entire state. At Univindia.online, we appreciate the paramount importance of these archival scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies your search for the "Orissaresults.nic.in 2023" updates, ensuring that every student in Odisha can reclaim their academic victory without technical delay or misinformation.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "orissaresults.nic.in 2023, odisha results 2023, bse odisha 10t
                 <a href="http://bseodisha.ac.in" class="btn" title="BSE Odisha Official Board Site" target="_blank">BSE Odisha Main portal</a>
                 <a href="http://chseodisha.nic.in" class="btn" title="CHSE Odisha Official Site" target="_blank">+2 Results Gateway</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Orissaresults.nic.in 2023</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "orissaresults.nic.in 2023, odisha results 2023, bse odisha 10t
         <br>
         <strong>3. Is the online PDF from Orissaresults.nic.in 2023 valid for Inter admission?</strong>
         <p>Yes, for the initial rounds of online counseling and college allocation on the SAMS Odisha portal, the computer-generated "Orissaresults.nic.in 2023" scorecard is fully accepted as proof of your academic standing until the original certificate is provided.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

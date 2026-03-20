@@ -7,11 +7,27 @@ $meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th r
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result mp 10th - Official MPBSE Result Portal</div>
-    <h2 class='sr-title'>india result mp 10th: Your Definitive Navigator to Madhya Pradesh Board of Secondary Education (MPBSE)
-            Bhopal, High School Councils, and National Informatics Centre (NIC) Result Gateways Across Madhya Pradesh
-        </h2>
+    <h2 class='sr-title'>india result mp 10th - Official MPBSE Result Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result mp 10th - Official MPBSE Result Portal"; 
+$meta_description = "Check india result mp 10th for Class 10 High School. Access the official Madhya Pradesh Board result mirror on indiaresults.com for fast result checking."; 
+$meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th result 2024, MP board 10th result indiaresults, check mp result 10th"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result mp 10th - Official MPBSE Result Portal";
+$meta_description = "Check india result mp 10th for Class 10 High School. Access the official Madhya Pradesh Board result mirror on indiaresults.com for fast result checking.";
+$meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th result 2024, MP board 10th result indiaresults, check mp result 10th";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -69,8 +85,7 @@ $meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th r
                 <a href="http://mpbse.nic.in/" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="MPBSE Home" target="_blank">MPBSE Official Portal</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result mp 10th Online</h2>
         <p>To ensure a successful result search in the MP records, follow these technical steps:</p>
@@ -107,7 +122,7 @@ $meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th r
                 final database changes related to india result mp 10th data, please visit the MPBSE headquarters in
                 Bhopal or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result MP 10th</h2>
@@ -123,8 +138,13 @@ $meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th r
         <strong>3. Is the online result from mpresults.nic.in valid for jobs?</strong>
         <p>The online data of "india result mp 10th" is used for initial screening; however, for official job joining,
             the original mark-sheet issued by MPBSE is required.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

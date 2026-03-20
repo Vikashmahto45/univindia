@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rajasthan 10th board result 2022 link - Official Secondary Archive Hub"; 
 $meta_description = "Check rajasthan 10th board result 2022 link for BSER exams. Access the official 2022 Rajasthan Secondary archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan 10th board result 2022 link - Official Secondary Archive Hub</div>
+    <h2 class='sr-title'>rajasthan 10th board result 2022 link - Official Secondary Archive Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rajasthan 10th board result 2022 link - Official Secondary Archive Hub"; 
+$meta_description = "Check rajasthan 10th board result 2022 link for BSER exams. Access the official 2022 Rajasthan Secondary archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 10th (Secondary) for
                 Rajasthan. Official BSER Ajmer mirrors and direct archival links updated for the 2022 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2022 Rajasthan Secondary result links by student name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +92,7 @@ $meta_keywords = "";
                     <strong>rajasthan 10th board result 2022 link</strong> archive hub is essential for students to
                     complete their academic verification and proof of performance during university registration and
                     registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,26 +105,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>rajasthan 10th board result 2022 link</strong> are permanently
                             archived on verified platforms like <strong>indiaresults.com</strong> for archival and
                             academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2022 Rajasthan 10th result link by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>rajasthan 10th board result 2022 link</strong> portal includes a
                             dedicated name-wise search for the BSER Secondary examinees of the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>rajasthan 10th board result 2022
                                 link</strong> archive is a valid provisional document accepted for initial secondary
                             school registration and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

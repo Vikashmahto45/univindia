@@ -7,9 +7,27 @@ $meta_keywords = "india result 10th class, check rajasthan board 10th result onl
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th Class - Official National Board Mirror</div>
-    <h2 class='sr-title'>India Result 10th Class: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Central Board of Secondary Education (CBSE), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 10th Class - Official National Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 10th Class - Official National Board Mirror"; 
+$meta_description = "Check India Result 10th Class online. Access the historical Rajasthan, Punjab, UP, and All-India State Board Secondary results via the official mirror."; 
+$meta_keywords = "india result 10th class, check rajasthan board 10th result online, check punjab board 10th result, official 10th class result link, indiaresults 10th class"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 10th Class - Official National Board Mirror";
+$meta_description = "Check India Result 10th Class online. Access the historical Rajasthan, Punjab, UP, and All-India State Board Secondary results via the official mirror.";
+$meta_keywords = "india result 10th class, check rajasthan board 10th result online, check punjab board 10th result, official 10th class result link, indiaresults 10th class";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 10th class, check rajasthan board 10th result onl
                 <a href="http://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Rajasthan Results" target="_blank">Access Rajasthan 10th</a>
                 <a href="http://pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Punjab Board Link" target="_blank">Access Punjab HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 10th Class Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 10th class, check rajasthan board 10th result onl
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 10th Class data, please visit the respective Board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 10th Class Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 10th class, check rajasthan board 10th result onl
         <br>
         <strong>3. Is the result from India Result 10th Class valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result 10th Class" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

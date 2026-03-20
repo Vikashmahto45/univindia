@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online"; 
 $meta_description = "Download SSC CGL Admit Card 2021. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) 2021 Tier-1 exam hall tickets at ssc.nic.in."; 
 $meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, ssc cgl tier 1 2021 hall ticket download, ssc.nic.in cgl login, staff selection graduate level call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online"; 
+$meta_description = "Download SSC CGL Admit Card 2021. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) 2021 Tier-1 exam hall tickets at ssc.nic.in."; 
+$meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, ssc cgl tier 1 2021 hall ticket download, ssc.nic.in cgl login, staff selection graduate level call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online";
+$meta_description = "Download SSC CGL Admit Card 2021. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) 2021 Tier-1 exam hall tickets at ssc.nic.in.";
+$meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, ssc cgl tier 1 2021 hall ticket download, ssc.nic.in cgl login, staff selection graduate level call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, s
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check CGL Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

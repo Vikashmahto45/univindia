@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Www Univindia Net Result - MGSU Bikaner University Scores Online"; 
 $meta_description = "Check your MGSU Bikaner results on Www Univindia Net. Complete guide to downloading university marksheets and revaluation results online."; 
 $meta_keywords = "Www Univindia Net Result - MGSU Bikaner University Scores Online"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Www Univindia Net Result - MGSU Bikaner University Scores Online</div>
+    <h2 class='sr-title'>Www Univindia Net Result - MGSU Bikaner University Scores Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Www Univindia Net Result - MGSU Bikaner University Scores Online"; 
+$meta_description = "Check your MGSU Bikaner results on Www Univindia Net. Complete guide to downloading university marksheets and revaluation results online."; 
+$meta_keywords = "Www Univindia Net Result - MGSU Bikaner University Scores Online"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Www Univindia Net Result - MGSU Bikaner University Scores Online";
+$meta_description = "Check your MGSU Bikaner results on Www Univindia Net. Complete guide to downloading university marksheets and revaluation results online.";
+$meta_keywords = "Www Univindia Net Result - MGSU Bikaner University Scores Online";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Www Univindia Net Result: Your Comprehensive Guide to Bikaner University Scores</h1>
+        
         
         <p>For thousands of students enrolled at Maharaja Ganga Singh University (MGSU), Bikaner, the term "Www Univindia Net Result" is the most critical phrase of the academic year. As the official digital destination for MGSU, the `www.univindia.net` portal acts as the centralized hub for all examination scores. Whether you are an undergraduate student pursuing BA, BSc, or BCom, or a postgraduate candidate in MA, MSc, or MCom, this portal provides instantaneous access to your results. In this detailed guide, we will provide a complete walkthrough of how to check your scores on the official portal, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Www Univindia Net Result - MGSU Bikaner University Scores Onli
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

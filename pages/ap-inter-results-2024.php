@@ -7,9 +7,27 @@ $meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; AP Inter Results 2024 - BIEAP 1st & 2nd Year Results Gateway</div>
-    <h2 class='sr-title'>AP Inter Results 2024: Your Authoritative Guide to BIEAP Academic Success</h2>
+    <h2 class='sr-title'>AP Inter Results 2024 - BIEAP 1st & 2nd Year Results Gateway</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "AP Inter Results 2024 - BIEAP 1st & 2nd Year Results Gateway"; 
+$meta_description = "Check AP Inter Results 2024 online. Access BIEAP 1st and 2nd year results, marks memos, and official updates at bie.ap.gov.in."; 
+$meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap, 2nd year results ap, ap intermediate marks memo"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "AP Inter Results 2024 - BIEAP 1st & 2nd Year Results Gateway";
+$meta_description = "Check AP Inter Results 2024 online. Access BIEAP 1st and 2nd year results, marks memos, and official updates at bie.ap.gov.in.";
+$meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap, 2nd year results ap, ap intermediate marks memo";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap
                 <a href="https://results.apcfss.in" class="btn" title="Direct Results Gateway" target="_blank">AP Results APCFSS</a>
                 <a href="https://rtgs.ap.gov.in" class="btn" title="AP Results via Real Time Governance" target="_blank">RTGS AP Portal</a>
                 <a href="https://ap.indiaresults.com" class="btn" title="AP Inter Result Name Wise" target="_blank">Name Wise Search (Mirror)</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About AP Inter Results 2024</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "ap inter results 2024, bieap results 2024, 1st year results ap
         <br>
         <strong>3. Can I download my 2024 short marks memo through this site?</strong>
         <p>We provide direct, secure links to the BIEAP servers where you can download your "AP Inter Results 2024" short memo using your hall ticket number. Always use official sources for document downloads.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

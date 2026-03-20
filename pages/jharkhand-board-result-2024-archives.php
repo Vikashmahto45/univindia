@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jharkhand board result 2024 - Official JAC Result Hub"; 
 $meta_description = "Check Jharkhand Board result 2024 on jharkhand board result 2024. Access official JAC 10th & 12th scorecards and 2024 archival links on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jharkhand board result 2024 - Official JAC Result Hub</div>
+    <h2 class='sr-title'>jharkhand board result 2024 - Official JAC Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jharkhand board result 2024 - Official JAC Result Hub"; 
+$meta_description = "Check Jharkhand Board result 2024 on jharkhand board result 2024. Access official JAC 10th & 12th scorecards and 2024 archival links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all Jharkhand Academic Council (JAC) examination
                 results for the 2024 academic session. Access official Jharkhand board mirrors and 2024 archival links
                 updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2024 JAC Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Jharkhand Board (jac.jharkhand.gov.in) results 2024 by student name alternative criteria
                         for the 2024 academic batch.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -88,8 +99,7 @@ $meta_keywords = "";
                     for all students. Having a verified digital result from the <strong>jharkhand board result
                         2024</strong> hub is essential for students to complete their academic verification and proof of
                     educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,8 +112,7 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>jharkhand board result 2024</strong> are permanently archived
                             on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2024 Jharkhand (JAC) results by name only on
                         smartphones?</button>
@@ -111,19 +120,22 @@ $meta_keywords = "";
                         <p>Absolutely. The <strong>jharkhand board result 2024</strong> portal is fully
                             mobile-responsive and includes a dedicated name-wise search for student examinees in
                             Jharkhand.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2024 JAC marksheet valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>jharkhand board result 2024</strong> gateway
                             is a valid provisional document accepted for initial institutional registration across
                             India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

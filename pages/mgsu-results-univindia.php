@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MGSU Results Univindia Access - Bikaner University score Retrieval"; 
 $meta_description = "Access MGSU Bikaner results via the Univindia portal. Official guide to navigating Maharaja Ganga Singh University scores and digital marksheets online."; 
 $meta_keywords = "mgsu results univindia"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MGSU Results Univindia Access - Bikaner University score Retrieval</div>
+    <h2 class='sr-title'>MGSU Results Univindia Access - Bikaner University score Retrieval</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MGSU Results Univindia Access - Bikaner University score Retrieval"; 
+$meta_description = "Access MGSU Bikaner results via the Univindia portal. Official guide to navigating Maharaja Ganga Singh University scores and digital marksheets online."; 
+$meta_keywords = "mgsu results univindia"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MGSU Results Univindia Access - Bikaner University score Retrieval";
+$meta_description = "Access MGSU Bikaner results via the Univindia portal. Official guide to navigating Maharaja Ganga Singh University scores and digital marksheets online.";
+$meta_keywords = "mgsu results univindia";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MGSU Results Univindia Access: Your Guide to Bikaner University Marks</h1>
+        
         
         <p>The term "MGSU Results Univindia Access" refers to the digital pathway utilized by Maharaja Ganga Singh University (MGSU), Bikaner, to provide students with authoritative access to their examination marksheets. For hundreds of thousands of students across Northern Rajasthan—including the districts of Bikaner, Churu, Sriganganagar, and Hanumangarh—the `univindia.net` network is the definitive gateway for retrieving academic scores. Whether you are completing your undergraduate degree or a specialized postgraduate course, the MGSU Results Univindia Access portal provides the secure, organized platform required to verify your performance. In this comprehensive guide, we will provide a detailed walkthrough of how to access your results correctly, explain the different search methods available, and offer expert advice on troubleshooting common technical issues encountered during the high-traffic result season in Bikaner.</p>
 
@@ -59,6 +81,15 @@ $meta_keywords = "mgsu results univindia";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

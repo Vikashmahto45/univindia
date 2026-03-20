@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "keralaresults nic in - Official Kerala Result Portal Gateway"; 
 $meta_description = "Check keralaresults nic in for SSLC, Plus Two, and DHSE results. Access the official Kerala result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; keralaresults nic in - Official Kerala Result Portal Gateway</div>
+    <h2 class='sr-title'>keralaresults nic in - Official Kerala Result Portal Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "keralaresults nic in - Official Kerala Result Portal Gateway"; 
+$meta_description = "Check keralaresults nic in for SSLC, Plus Two, and DHSE results. Access the official Kerala result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest academic results for Kerala. Official SSLC, Plus Two,
                 and DHSE mirrors and high-speed links updated for the current session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Kerala Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify Kerala results using Register Number or Name.</p>
                     <a href="https://kerala.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +87,7 @@ $meta_keywords = "";
                     from the <strong>keralaresults nic in</strong> hub is essential for students to complete their
                     college registration and certificate verification processes efficiently. This digital scorecard is a
                     legally valid provisional document.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,27 +100,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>keralaresults nic in</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for all major Kerala board examinations
                             including SSLC and Plus Two.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards, ensuring that all <strong>keralaresults nic in</strong> data is mirrored directly
                             from official government databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>keralaresults nic in</strong> portal is a valid
                             provisional document accepted for initial college and university registration across Kerala
                             and India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub"; 
 $meta_description = "Check jac board 12th result 2024 for Intermediate exams. Access the official Jharkhand Academic Council (JAC) result portal mirror on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub</div>
+    <h2 class='sr-title'>jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub"; 
+$meta_description = "Check jac board 12th result 2024 for Intermediate exams. Access the official Jharkhand Academic Council (JAC) result portal mirror on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Jharkhand
                 Class 12th (Intermediate). Direct board result links and mirror access updated for the 2024 academic
                 session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check JAC 12th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Jharkhand board 12th results 2024 by student name alternative criteria for the 2024
                         academic examination batch.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +100,7 @@ $meta_keywords = "";
                     <strong>jac board 12th result 2024</strong> hub is essential for students to complete their academic
                     verification and proof of educational achievement during transition and registration processes
                     throughout 2024.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,26 +113,28 @@ $meta_keywords = "";
                         <p>Dates vary by stream. The <strong>jac board 12th result 2024</strong> portal on
                             <strong>indiaresults</strong> provides real-time notifications as soon as official data is
                             released by JAC Ranchi.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Jharkhand 12th results by name for 2024?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>jac board 12th result 2024</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated name-wise search for student examinees in Jharkhand.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2024 marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>jac board 12th result 2024</strong> gateway
                             is a valid provisional document accepted for initial university registration and
                             verification in Jharkhand.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

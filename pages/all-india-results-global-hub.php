@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india result - Official National Dashboard Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>all india result - Official National Dashboard Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "all india result - Official National Dashboard Hub"; 
+$meta_description = "Check all india result for every board, university, and competitive exam. Access the official national result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse All Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify national results using student name or roll number alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +88,7 @@ $meta_keywords = "";
                     subject-wise breakdown of marks, including internal assessments and practical scores. This digital
                     record from the <strong>all india result</strong> hub is a legally valid provisional document for
                     immediate administrative use.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,27 +101,26 @@ $meta_keywords = "";
                         <p>The <strong>all india result</strong> hub covers academic results for almost every state
                             board, central board, and major university across India, spanning secondary to postgraduate
                             levels.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on the national portal official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. All results under <strong>all india result</strong> on
                             <strong>indiaresults.com</strong> are mirrored directly from official board databases,
                             ensuring 100% accuracy and authenticity.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check result by name for any state?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>all india result</strong> portal includes a name-wise search for most major
                             board and university results across different Indian states.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

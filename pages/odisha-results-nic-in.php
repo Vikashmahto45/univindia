@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Odisha Results NIC In - official Odisha State Board and University Results"; 
 $meta_description = "Check Odisha Results NIC In for official 10th (HSC), 12th (CHSE), and university examinations. Access the official NIC Odisha result gateway, merit lists, and marksheet downloads."; 
 $meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th result nic in, chse odisha result nic in, nic odisha results portal 2024"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Odisha Results NIC In - official Odisha State Board and University Results</div>
+    <h2 class='sr-title'>Odisha Results NIC In - official Odisha State Board and University Results</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Odisha Results NIC In - official Odisha State Board and University Results"; 
+$meta_description = "Check Odisha Results NIC In for official 10th (HSC), 12th (CHSE), and university examinations. Access the official NIC Odisha result gateway, merit lists, and marksheet downloads."; 
+$meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th result nic in, chse odisha result nic in, nic odisha results portal 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Odisha Results NIC In - official Odisha State Board and University Results";
+$meta_description = "Check Odisha Results NIC In for official 10th (HSC), 12th (CHSE), and university examinations. Access the official NIC Odisha result gateway, merit lists, and marksheet downloads.";
+$meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th result nic in, chse odisha result nic in, nic odisha results portal 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Odisha Results NIC In: The Definitive National Gateway to Odisha’s Academic Success</h1>
+        
         
         <p>The academic portal "Odisha Results NIC In" (officially hosted at `orissaresults.nic.in`) is the single most significant digital landmark for millions of students navigating the educationally progressive system of Odisha. Managed by the National Informatics Centre (NIC) in collaboration with the Department of Higher Education and the Board of Secondary Education (BSE) Odisha, the "Odisha Results NIC In" platform is synonymous with transparency, legal accuracy, and massive-scale technical reliability. For every academic cycle, including the current 2024 session and the upcoming 2025 examinations, the "Odisha Results NIC In" infrastructure provides the primary and most robust gateway for disseminating High School Certificate (HSC) and Higher Secondary (+2) scores. In the high-stakes world of Indian education, where result declarations are met with massive internet traffic, the "Odisha Results NIC In" portal serves as the official source of truth. At Univindia.online, we appreciate the paramount importance of these scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies your search for the "Odisha Results NIC In" updates, ensuring that every student in Odisha can celebrate their academic victories without technical delay or misinformation.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th 
                 <a href="http://bseodisha.ac.in" class="btn" title="BSE Odisha Main Website" target="_blank">BSE Odisha Portal</a>
                 <a href="http://chseodisha.nic.in" class="btn" title="CHSE Odisha Official Site" target="_blank">+2 Results Gateway</a>
                 <a href="https://digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Odisha Results NIC In</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "odisha results nic in, orissaresults.nic.in 2024, odisha 10th 
         <br>
         <strong>3. Is the online PDF from Odisha Results NIC In valid for college admission?</strong>
         <p>Yes, for the initial rounds of online counseling and college allocation on the SAMS Odisha portal, the computer-generated "Odisha Results NIC In" scorecard is fully accepted as proof of your academic standing until the original certificate is provided.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,20 +1,34 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "wb madhyamik result - Official West Bengal 10th Hub"; 
 $meta_description = "Check West Bengal Board Madhyamik result on wb madhyamik result. Access official WBBSE Class 10th scorecards and results on indiaresults archival portal."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; wb madhyamik result - Official West Bengal 10th Hub</div>
+    <h2 class='sr-title'>wb madhyamik result - Official West Bengal 10th Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "wb madhyamik result - Official West Bengal 10th Hub"; 
+$meta_description = "Check West Bengal Board Madhyamik result on wb madhyamik result. Access official WBBSE Class 10th scorecards and results on indiaresults archival portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for West Bengal Board of Secondary Education (WBBSE) Madhyamik (Class 10th) examination results. Access official West Bengal board mirrors and archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Madhyamik Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -32,8 +46,7 @@ $meta_keywords = "";
                     <h3>WB Madhyamik Directory</h3>
                     <p>Verify WBBSE results (wbbse.wb.gov.in) by student roll number or date of birth alternative criteria for various academic batches.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -57,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the West Bengal (WBBSE) Board Gateways</h3>
                 <p>The <strong>wb madhyamik result</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Secondary admission registrations, scholarship applications, or career verification in West Bengal. The system provides a detailed subject-wise breakdown for each batch of student examinees across all districts in West Bengal. Having a verified digital result from the <strong>wb madhyamik result</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -69,23 +81,25 @@ $meta_keywords = "";
                     <button class="faq-question">Are the West Bengal Madhyamik result links permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>wb madhyamik result</strong> are archived on verified platforms for lifelong academic verification access in West Bengal.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Madhyamik results by name only on mobile devices using this hub?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>wb madhyamik result</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in West Bengal.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital Madhyamik marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>wb madhyamik result</strong> gateway is a valid provisional document accepted for initial institutional registration across West Bengal and India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

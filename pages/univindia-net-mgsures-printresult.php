@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal"; 
 $meta_description = "Print your official MGSU Bikaner results via Univindia Net MGSURES PrintResult. Official guide to downloading and printing university score reports online."; 
 $meta_keywords = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal</div>
+    <h2 class='sr-title'>Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal"; 
+$meta_description = "Print your official MGSU Bikaner results via Univindia Net MGSURES PrintResult. Official guide to downloading and printing university score reports online."; 
+$meta_keywords = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal";
+$meta_description = "Print your official MGSU Bikaner results via Univindia Net MGSURES PrintResult. Official guide to downloading and printing university score reports online.";
+$meta_keywords = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Printing Portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSURES PrintResult: Your Guide to Printing Bikaner University Marksheets</h1>
+        
         
         <p>The term "Univindia Net MGSURES PrintResult" refers to the final, critical step in the examination lifecycle of Maharaja Ganga Singh University (MGSU), Bikaner. Once a student's scores are successfully retrieved from the database, the university's digital system (typically via the `mgsures/printresult.php` script on `univindia.net`) formats this data into a professional, official digital marksheet. For thousands of students across Northern Rajasthan, this final printout is their primary proof of academic achievement, required for postgraduate admissions, job applications, and scholarship verifications. In this comprehensive guide, we will explore the technical significance of the MGSURES PrintResult infrastructure, provides a detailed walkthrough of how to generate and save your digital marksheet correctly, and offer expert advice on troubleshooting common printing errors encountered during the result season.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "Univindia Net MGSURES PrintResult - MGSU Bikaner Marksheet Pri
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

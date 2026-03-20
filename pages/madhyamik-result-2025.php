@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Madhyamik Result 2025 - WBBSE West Bengal 10th Result Updates"; 
 $meta_description = "Check WBBSE Madhyamik Result 2025 online. Get the latest news on West Bengal 10th class result dates, merit lists, and official scores at wbresults.nic.in."; 
 $meta_keywords = "madhyamik result 2025, wbbse result 2025, west bengal 10th result, madhyamik results date, wbresults nic in 2025"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Madhyamik Result 2025 - WBBSE West Bengal 10th Result Updates</div>
+    <h2 class='sr-title'>Madhyamik Result 2025 - WBBSE West Bengal 10th Result Updates</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Madhyamik Result 2025 - WBBSE West Bengal 10th Result Updates"; 
+$meta_description = "Check WBBSE Madhyamik Result 2025 online. Get the latest news on West Bengal 10th class result dates, merit lists, and official scores at wbresults.nic.in."; 
+$meta_keywords = "madhyamik result 2025, wbbse result 2025, west bengal 10th result, madhyamik results date, wbresults nic in 2025"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Madhyamik Result 2025 - WBBSE West Bengal 10th Result Updates";
+$meta_description = "Check WBBSE Madhyamik Result 2025 online. Get the latest news on West Bengal 10th class result dates, merit lists, and official scores at wbresults.nic.in.";
+$meta_keywords = "madhyamik result 2025, wbbse result 2025, west bengal 10th result, madhyamik results date, wbresults nic in 2025";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Madhyamik Result 2025: Your Definitive Guide to West Bengal’s Secondary Excellence</h1>
+        
         
         <p>The "Madhyamik Result 2025" is the most decisive academic milestone for millions of students across the culturally and intellectually vibrant state of West Bengal. Conducted by the West Bengal Board of Secondary Education (WBBSE), the Madhyamik Pariksha (Secondary Examination) serves as the primary gateway to higher secondary education and specialized vocational streams. For the 2025 academic session, the "Madhyamik Result 2025" represents the culmination of ten years of rigorous schooling under the unique Bengali educational tradition. WBBSE has implemented advanced digital assessment technologies for the 2025 cycle, ensuring that the results are delivered with maximum transparency, speed, and integrity. At Univindia.online, we are proud to be your trusted partner in this journey, providing you with a high-quality, SEO-optimized guide that simplifies the process of finding your 2025 Madhyamik scores, ensuring that every student from the hills of Darjeeling to the deltas of Sundarbans can celebrate their success without technical hurdles.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "madhyamik result 2025, wbbse result 2025, west bengal 10th res
                 <a href="https://wbbse.wb.gov.in" class="btn" title="WBBSE Official Website" target="_blank">WBBSE Board Site</a>
                 <a href="https://west-bengal.indiaresults.com" class="btn" title="Madhyamik Result Name Wise" target="_blank">Name Wise Search (Mirror)</a>
                 <a href="https://www.exametc.com" class="btn" title="Pre-register for Result Alerts" target="_blank">Result Alerts 2025</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Madhyamik Result 2025</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "madhyamik result 2025, wbbse result 2025, west bengal 10th res
         <br>
         <strong>3. Can I search for the 2025 Madhyamik Merit List (Toppers) online?</strong>
         <p>Yes, WBBSE releases the 'Merit List' PDF on their official website simultaneously with the active "Madhyamik Result 2025" link. You can check the names and districts of the Top 10 achievers there.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

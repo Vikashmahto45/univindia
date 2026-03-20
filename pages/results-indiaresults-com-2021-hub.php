@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "results.indiaresults.com 2021 - Official National Archive Hub"; 
 $meta_description = "Check results.indiaresults.com 2021 for all state and central board results. Access the official 2021 result gateway on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; results.indiaresults.com 2021 - Official National Archive Hub</div>
+    <h2 class='sr-title'>results.indiaresults.com 2021 - Official National Archive Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "results.indiaresults.com 2021 - Official National Archive Hub"; 
+$meta_description = "Check results.indiaresults.com 2021 for all state and central board results. Access the official 2021 result gateway on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 national academic result archives. Dedicated mirrors and
                 high-speed links updated for the 2021 examination cycles.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify 2021 results using student names across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -75,8 +86,7 @@ $meta_keywords = "";
                     pursuits. Having a verified digital record from the <strong>results.indiaresults.com 2021</strong>
                     hub is essential for students seeking admission into the next grade or university-level courses
                     across India.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -88,26 +98,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Absolutely. All results under <strong>results.indiaresults.com 2021</strong> are mirrored
                             from official board databases, making them 100% authentic for provisional use.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results.indiaresults.com 2021 by name?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>results.indiaresults.com 2021</strong> portal on
                             <strong>indiaresults</strong> includes a name-wise search for all 2021 candidates, ensuring
                             easy result retrieval.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result valid for college verification?</button>
                     <div class="faq-answer">
                         <p>The <strong>results.indiaresults.com 2021</strong> digital marksheet is a valid provisional
                             document accepted for initial college and university registration processes nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result by name - Official National Secondary Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th class result by name - Official National Secondary Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th class result by name - Official National Secondary Hub"; 
+$meta_description = "Check Class 10 result by student name on 10th class result by name. Access official indiaresults Name-Wise Search for Secondary scores nationwide."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 10th Name Search</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Class 10 results (Matric/Secondary) using the candidate's name or father's name
                         alternative criteria for various examination batches.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -90,8 +97,7 @@ $meta_keywords = "";
                     examinees. Having a verified digital result from the <strong>10th class result by name</strong> hub
                     is essential for students to complete their academic verification and proof of educational
                     attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -104,15 +110,13 @@ $meta_keywords = "";
                         <p>Most major state secondary boards (like RBSE, PSEB, BSEH) indexed on
                             <strong>indiaresults</strong> allow accessing the <strong>10th class result by
                                 name</strong>.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the search for 10th result by name free on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th class result by name</strong> portal is a free, mobile-optimized
                             service for students across India to verify their Matric scores.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the 10th results PDF found by name valid for 11th
                         admission?</button>
@@ -120,12 +124,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>10th class result by name</strong> gateway
                             is a valid provisional document accepted for initial school registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

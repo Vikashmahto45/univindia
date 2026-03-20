@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online"; 
 $meta_description = "Download JEE Main 2022 Admit Card. Get the direct link for NTA Engineering Entrance (JEE) Session 1 and Session 2 examination hall tickets at jeemain.nta.nic.in."; 
 $meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain.nta.nic.in hall ticket, jee mains 2022 admit card link, jee session 1 2 hall ticket"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online</div>
+    <h2 class='sr-title'>JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online"; 
+$meta_description = "Download JEE Main 2022 Admit Card. Get the direct link for NTA Engineering Entrance (JEE) Session 1 and Session 2 examination hall tickets at jeemain.nta.nic.in."; 
+$meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain.nta.nic.in hall ticket, jee mains 2022 admit card link, jee session 1 2 hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online";
+$meta_description = "Download JEE Main 2022 Admit Card. Get the direct link for NTA Engineering Entrance (JEE) Session 1 and Session 2 examination hall tickets at jeemain.nta.nic.in.";
+$meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain.nta.nic.in hall ticket, jee mains 2022 admit card link, jee session 1 2 hall ticket";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check JEE 2022 Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

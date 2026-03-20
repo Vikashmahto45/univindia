@@ -1,21 +1,31 @@
 <?php 
 include '../header.php'; 
-$page_title = ""; 
+$page_title = "High School Result 2023 Up Board Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
 <div class='sr-page-wrapper'>
-    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
-    <h2 class='sr-title'>High School Result 2023 UP Board Link</h2>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; High School Result 2023 Up Board Link</div>
+    <h2 class='sr-title'>High School Result 2023 Up Board Link</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "High School Result 2023 Up Board Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div class="content-wrapper">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 
-            </div>
-        </div>
+            
         <div class="row">
             <div class="col-md-12">
                 <div class="alert alert-info">
@@ -59,10 +69,12 @@ $meta_keywords = "";
                 <p>
                     The online result is for immediate information and cannot be treated as an original mark sheet. Students should collect their original documents from their respective schools after some days.
                 </p>
-            </div>
-        </div>
-    </div>
-</div>
+            
+    
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "seba - Official Assam Board Portal"; 
 $meta_description = "Check seba (Secondary Education Board of Assam) results online. Access the HSLC (Class 10th) results for Assam State Board examination."; 
 $meta_keywords = "seba, check assam 10th result online, official seba hslc link, sebaonline org index, assam board result 2024 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; seba - Official Assam Board Portal</div>
+    <h2 class='sr-title'>seba - Official Assam Board Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "seba - Official Assam Board Portal"; 
+$meta_description = "Check seba (Secondary Education Board of Assam) results online. Access the HSLC (Class 10th) results for Assam State Board examination."; 
+$meta_keywords = "seba, check assam 10th result online, official seba hslc link, sebaonline org index, assam board result 2024 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "seba - Official Assam Board Portal";
+$meta_description = "Check seba (Secondary Education Board of Assam) results online. Access the HSLC (Class 10th) results for Assam State Board examination.";
+$meta_keywords = "seba, check assam 10th result online, official seba hslc link, sebaonline org index, assam board result 2024 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>seba: Your Comprehensive Navigator to Secondary Education Board of Assam (SEBA), Guwahati, HSLC Public Examinations (Class 10), and Assam State Board Result Gateways (Government of Assam, Education Department, and National Informatics Centre (NIC) Assam State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "seba" (representing the primary synchronized digital result-dissemination framework utilized by over 4 lakh students for the annual HSLC board exams conducted during the active 2023-2024 academic session by the SEBA Guwahati) represents a significant digital milestone for students residing in the academic and industrial landscape of Assam. As the primary official gateway to the state's 2024 educational infrastructure (Guwahati HQ), and the traditional school education infrastructure of the nation, the "seba" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Assam IndiaResults. For the 2024 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across Assam, the "seba" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Assam education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2024 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "seba," ensuring that every student and researcher in Assam can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "seba, check assam 10th result online, official seba hslc link,
                 <a href="http://resultsassam.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Assam Results HUB" target="_blank">Access Assam HUB</a>
                 <a href="https://assam.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Assam Name site" target="_blank">Visit Assam Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official seba Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "seba, check assam 10th result online, official seba hslc link,
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to seba data, please visit the SEBA headquarters in Guwahati or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About seba Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "seba, check assam 10th result online, official seba hslc link,
         <br>
         <strong>3. Is the result from seba valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "seba" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

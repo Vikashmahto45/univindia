@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in</div>
+    <h2 class='sr-title'>UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in";
+$page_description = "Download UGC NET Admit Card 2024 for June and December sessions. Get direct link for NTA NET JRF Hall Ticket, Exam Schedule, and Subject Wise shifts. 800+ words of latest updates.";
+$page_keywords = "UGC NET Admit Card 2024, NTA NET JRF Hall Ticket Download, UGC NET December Hall Ticket, UGC NET June Admit Card, ugcnet.nta.nic.in call letter";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">UGC NET Admit Card 2024: Download NTA NET JRF Hall Ticket</h1>
+            
             
             <div class="alert alert-primary bg-dark border-primary text-primary rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-graduation-cap me-2"></i> <strong>Current Cycle Update:</strong> The National Testing Agency (NTA) conducts the UGC NET exam twice a year. The 2024 June session admit cards were released in a phased manner followed by the December cycle.
@@ -88,14 +111,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow-sm">
                             <h5 class="text-primary"><i class="fas fa-id-card me-2"></i> Photo Identity Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card (Preferred), Driving License, or Voter ID. Photocopies are not allowed.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow-sm border-primary">
                             <h5 class="text-primary"><i class="fas fa-user-circle me-2"></i> Additional Photo</h5>
                             <p class="small text-light-gray mb-0">Carry one passport-sized photo to paste on the Attendance Sheet during the verification process.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">UGC NET FAQ - Candidate Helpdesk</h2>
@@ -109,8 +130,7 @@ $meta_keywords = "";
                         <div id="ugQ1" class="accordion-collapse collapse" data-bs-parent="#ugcFaq">
                             <div class="accordion-body text-light-gray">
                                 You must carry two additional original photos and a Govt. ID to the center. Also, report the issue to the NTA helpdesk at 011-40759000 before the exam date.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +141,8 @@ $meta_keywords = "";
                         <div id="ugQ2" class="accordion-collapse collapse" data-bs-parent="#ugcFaq">
                             <div class="accordion-body text-light-gray">
                                 No, NTA requires the 'Application Number' for hall ticket generation. If lost, use the 'Forgot Application Number' link on the login page to retrieve it via email.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Useful Resources</h5>
@@ -132,14 +150,14 @@ $meta_keywords = "";
                         <a href="ugc-net-admit-card-2021.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">UGC NET 2021 Archive</a>
                         <a href="csir-net-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">CSIR NET Call Letter</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard me-2"></i> Teaching and Research Exams</h3>
                 <div class="row g-3">
+                    <?php
                     $research = [
                         'ignou-admit-card.php' => 'IGNOU Hall Ticket',
                         'ctet-admit-card.php' => 'CTET Paper 1/2 Admit Card',
@@ -153,11 +171,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +204,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

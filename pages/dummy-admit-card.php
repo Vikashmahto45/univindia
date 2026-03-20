@@ -9,7 +9,26 @@ $meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar b
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online</div>
     <h2 class='sr-title'>Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online"; 
+$meta_description = "Download Dummy Admit Card. Get the direct link for Bihar Board (BSEB), CBSE, and other school board dummy hall tickets at secondary.biharboardonline.com."; 
+$meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar board dummy hall ticket download, inter dummy admit card login, board exam error correction admit card"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online";
+$meta_description = "Download Dummy Admit Card. Get the direct link for Bihar Board (BSEB), CBSE, and other school board dummy hall tickets at secondary.biharboardonline.com.";
+$meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar board dummy hall ticket download, inter dummy admit card login, board exam error correction admit card";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Dummy Admit Card: Download Board Exam Sample & Error Correction Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar b
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Board News</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in</div>
+    <h2 class='sr-title'>RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in";
+$page_description = "Download RRB Admit Card 2025 for all zones. Get direct link for Railway NTPC, ALP, JE, and Group D Hall Tickets. 800+ words of technical guide for all RRB regions.";
+$page_keywords = "RRB Admit Card 2025, Railway Hall Ticket Download Link, RRB NTPC Admit Card, RRB ALP Call Letter, rrbcdg.gov.in admit card 2025";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">RRB Admit Card 2025: Download Railway Hall Tickets (All Zones)</h1>
+            
             
             <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-train me-2"></i> <strong>Official Gateway:</strong> The Railway Recruitment Board (RRB) has activated the centralized portal for various CEN 2024-25 notifications. Candidates can access their specific <strong>Railway Admit Card</strong> by logging into their regional board systems.
@@ -84,14 +107,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-danger">
                             <h5 class="text-danger"><i class="fas fa-print me-2"></i> Printed Hall Ticket</h5>
                             <p class="small text-light-gray mb-0">The hall ticket consists of multiple pages. Ensure you print the candidate's copy and the invigilator's copy (if applicable).</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-danger">
                             <h5 class="text-danger"><i class="fas fa-id-card me-2"></i> Original Photo ID</h5>
                             <p class="small text-light-gray mb-0">Carry your Original Aadhar Card. If not available, Voter ID or Passport is needed. Photocopies will result in immediate disqualification.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">RRB Admit Card FAQ: Aspirant Support</h2>
@@ -105,8 +126,7 @@ $meta_keywords = "";
                         <div id="rbQ1" class="accordion-collapse collapse" data-bs-parent="#rrbFaq">
                             <div class="accordion-body text-light-gray">
                                 No, RRB does not allow any changes to the exam city or date after the admit card is issued. The center allocation is done through a computerized algorithm.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -117,10 +137,8 @@ $meta_keywords = "";
                         <div id="rbQ2" class="accordion-collapse collapse" data-bs-parent="#rrbFaq">
                             <div class="accordion-body text-light-gray">
                                 The travel pass link is activated along with the Exam City Intimation Slip. Eligible candidates can download it by providing their caste certificate details on the portal.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Direct Topic Links</h5>
@@ -128,14 +146,14 @@ $meta_keywords = "";
                         <a href="rrb-ntpc-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">NTPC Page</a>
                         <a href="rrb-group-d-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">Group D Page</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marker-alt me-2"></i> Popular RRB Zone Portals</h3>
                 <div class="row g-3">
+                    <?php
                     $zones = [
                         'rrb-chandigarh-admit-card.php' => 'RRB Chandigarh',
                         'rrb-patna-admit-card.php' => 'RRB Patna',
@@ -149,11 +167,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -183,3 +200,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

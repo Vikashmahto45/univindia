@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india rajasthan result - Official Rajasthan Board & University Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india rajasthan result - Official Rajasthan Board & University Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india rajasthan result - Official Rajasthan Board & University Archive"; 
+$meta_description = "Check india rajasthan result for BSER and state university exams. Access the official Rajasthan academic result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Rajasthan Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan University (RU Jaipur) and other state university results by roll number or name
                         alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +96,7 @@ $meta_keywords = "";
                     <strong>india rajasthan result</strong> hub is essential for students to complete their academic
                     verification and proof of performance during university graduation and registration processes even
                     years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,27 +109,26 @@ $meta_keywords = "";
                         <p>Yes, the <strong>india rajasthan result</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in Rajasthan
                             board and university exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including RBSE Ajmer, ensuring all result data is mirrored directly from official
                             board servers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed to check RU Jaipur result?</button>
                     <div class="faq-answer">
                         <p>You primarily need your University Roll Number. Some portals may also allow search by Name or
                             Enrollment Number for <strong>india rajasthan result</strong> access.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse cl
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CBSE Term 1 Result - Official Central Board examination Hub</div>
-    <h2 class='sr-title'>CBSE Term 1 Result: Your Comprehensive Navigator to Central Board of Secondary Education (CBSE), New Delhi, Secondary School (Class 10), Senior Secondary (Class 12), and Central Board Term-Based Result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC) Central Hub) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>CBSE Term 1 Result - Official Central Board examination Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "CBSE Term 1 Result - Official Central Board examination Hub"; 
+$meta_description = "Check CBSE Term 1 Result online. Access the Central Board (CBSE) Class 10 and 12 Term 1 examination scores. Official 2022-23 merit list and performance link."; 
+$meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse class 12 term 1 result online, cbse term 1 result date, official cbseresults.nic.in term 1"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "CBSE Term 1 Result - Official Central Board examination Hub";
+$meta_description = "Check CBSE Term 1 Result online. Access the Central Board (CBSE) Class 10 and 12 Term 1 examination scores. Official 2022-23 merit list and performance link.";
+$meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse class 12 term 1 result online, cbse term 1 result date, official cbseresults.nic.in term 1";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse cl
                 <a href="https://cbse.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official CBSE Term 1 Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse cl
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized certificates, migration letters, and final database changes related to CBSE Term 1 Result, please visit the CBSE headquarters in New Delhi or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CBSE Term 1 Result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse cl
         <br>
         <strong>3. Is the result from CBSE Term 1 Result valid for scholarships?</strong>
         <p>Yes, your term results (verified via the official "CBSE Term 1 Result" portal) are recorded in the DigiLocker and serve as primary data for various KVPY/NTSE evaluations.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,17 +1,31 @@
 <?php 
-include '../includes/header.php'; 
-$page_title = ""; 
+include '../header.php'; 
+$page_title = "Rbse 8th Result 2022 Roll Number Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div class="content-wrapper">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rbse 8th Result 2022 Roll Number Link</div>
+    <h2 class='sr-title'>Rbse 8th Result 2022 Roll Number Link</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Rbse 8th Result 2022 Roll Number Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="content-wrapper">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="page-head-line">RBSE 8th Result 2022 Roll Number Link</h1>
-            </div>
-        </div>
+                
+            
         <div class="row">
             <div class="col-md-12">
                 <div class="alert alert-success">
@@ -55,10 +69,15 @@ $meta_keywords = "";
                 <div class="well">
                     <h4>Direct Link for Result:</h4>
                     <p>For quick access, students can visit the following portals: <strong>rajresults.nic.in</strong> or <strong>rajshaladarpan.nic.in</strong>.</p>
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

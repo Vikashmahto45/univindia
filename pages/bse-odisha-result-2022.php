@@ -7,9 +7,27 @@ $meta_keywords = "bse odisha result 2022, check odisha 10th result 2022 online, 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse odisha result 2022 - Official Odisha Board Mirror</div>
-    <h2 class='sr-title'>bse odisha result 2022: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha, Cuttack, Matriculation Public Examinations (Class 10), and Odisha State Board Result Gateways (Government of Odisha, School Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>bse odisha result 2022 - Official Odisha Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "bse odisha result 2022 - Official Odisha Board Mirror"; 
+$meta_description = "Check bse odisha result 2022 online. Access the historical Class 10th (Matric) results for Board of Secondary Education (BSE) Odisha session 2022."; 
+$meta_keywords = "bse odisha result 2022, check odisha 10th result 2022 online, official bse odisha matric 2022 link, odisha results 2022 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "bse odisha result 2022 - Official Odisha Board Mirror";
+$meta_description = "Check bse odisha result 2022 online. Access the historical Class 10th (Matric) results for Board of Secondary Education (BSE) Odisha session 2022.";
+$meta_keywords = "bse odisha result 2022, check odisha 10th result 2022 online, official bse odisha matric 2022 link, odisha results 2022 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "bse odisha result 2022, check odisha 10th result 2022 online, 
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSE Odisha Portal" target="_blank">Access BSE Official</a>
                 <a href="https://odisha.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Odisha Name site" target="_blank">Visit 2022 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official bse odisha result 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "bse odisha result 2022, check odisha 10th result 2022 online, 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to bse odisha result 2022 data, please visit the BSE headquarters in Cuttack or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About bse odisha result 2022 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "bse odisha result 2022, check odisha 10th result 2022 online, 
         <br>
         <strong>3. Is the result from bse odisha result 2022 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "bse odisha result 2022" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

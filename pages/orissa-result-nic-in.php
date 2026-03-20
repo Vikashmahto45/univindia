@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Orissa Result Nic In - Official State Portal"; 
 $meta_description = "Visit Orissa Result Nic In online. Access the primary Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) results. Official NIC portal."; 
 $meta_keywords = "orissa result nic in, chse odisha result, bse odisha 10th result link, odisha results 2024, orissaresults nic in official"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Orissa Result Nic In - Official State Portal</div>
+    <h2 class='sr-title'>Orissa Result Nic In - Official State Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Orissa Result Nic In - Official State Portal"; 
+$meta_description = "Visit Orissa Result Nic In online. Access the primary Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) results. Official NIC portal."; 
+$meta_keywords = "orissa result nic in, chse odisha result, bse odisha 10th result link, odisha results 2024, orissaresults nic in official"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Orissa Result Nic In - Official State Portal";
+$meta_description = "Visit Orissa Result Nic In online. Access the primary Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) results. Official NIC portal.";
+$meta_keywords = "orissa result nic in, chse odisha result, bse odisha 10th result link, odisha results 2024, orissaresults nic in official";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Orissa Result Nic In: Your Comprehensive Navigator to Board of Secondary Education, Odisha (BSE Odisha), Council of Higher Secondary Education, Odisha (CHSE Odisha), Secondary (Class 10), Senior Secondary (Class 12), Graduation, and Odisha State Board Result Gateways (Government of Odisha, School and Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Orissa Result Nic In" (representing the primary synchronized digital result-dissemination framework utilized by over 9 lakh students for the annual board exams conducted during the academic session by the BSE and CHSE Odisha) represents the single most critical digital portal for students residing in the academic and cultural landscape of Odisha. As the primary official gateway to the state's educational infrastructure (Bhubaneswar and Cuttack, Board HQ), and the traditional school education infrastructure of the nation, the "Orissa Result Nic In" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives. For the current academic cycle, where immediate result retrieval and robust technical evaluation are state priorities, the "Orissa Result Nic In" search is the digital gateway through which candidates verify their fundamental professional achievement with maximum speed, transparency, and integrity. The Odisha education councils have implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the board scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Orissa Result Nic In," ensuring that every student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "orissa result nic in, chse odisha result, bse odisha 10th resu
                 <a href="http://chseodisha.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official CHSE Portal" target="_blank">Access CHSE Odisha</a>
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official BSE Odisha" target="_blank">Visit BSE Board Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Orissa Result Nic In Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "orissa result nic in, chse odisha result, bse odisha 10th resu
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Orissa Result Nic In data, please visit the BSE/CHSE headquarters in Cuttack/Bhubaneswar or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Orissa Result Nic In Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "orissa result nic in, chse odisha result, bse odisha 10th resu
         <br>
         <strong>3. Is the result from Orissa Result Nic In valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Orissa Result Nic In" portal) are recorded in the state database and serve as primary data for various merit schemes like Medhabruti.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

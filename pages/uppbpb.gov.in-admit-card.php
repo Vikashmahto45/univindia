@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "uppbpb.gov.in Admit Card 2025: Download UP Police Recruitment Hall Ticket @ uppbpb.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; uppbpb.gov.in Admit Card 2025: Download UP Police Recruitment Hall Ticket @ uppbpb.gov.in</div>
+    <h2 class='sr-title'>uppbpb.gov.in Admit Card 2025: Download UP Police Recruitment Hall Ticket @ uppbpb.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "uppbpb.gov.in Admit Card 2025: Download UP Police Recruitment Hall Ticket @ uppbpb.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "uppbpb.gov.in Admit Card 2025: Download UP Police Recruitment Hall Ticket @ uppbpb.gov.in";
+$page_description = "Official Portal uppbpb.gov.in Admit Card 2025 Download Link for Constable, SI, and Fireman posts. Get direct link for UP Police Recruitment Board Call Letter & Exam Date.";
+$page_keywords = "uppbpb.gov.in admit card 2025, UPPBPB Hall Ticket Download Link, UP Police Constable Call Letter 2025, uppbpb registration login, UP Police Exam Center Status";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">uppbpb.gov.in Admit Card 2025: Official UP Police Portal Hall Ticket</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-globe me-2"></i> <strong>Domain Note:</strong> The only official website for Uttar Pradesh Police Recruitment and Promotion Board is <strong>uppbpb.gov.in</strong>. Candidates must avoid third-party clones and use the secure <strong>uppbpb.gov.in Admit Card 2025</strong> link available on the dashboard.
@@ -88,14 +111,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-success">
                             <h5 class="text-success"><i class="fas fa-barcode me-2"></i> Barcode Scanning</h5>
                             <p class="small text-light-gray mb-0">Your <strong>uppbpb.gov.in Hall Ticket</strong> carries a secure barcode. This is scanned at the entrance to log your presence in the central database.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-success">
                             <h5 class="text-success"><i class="fas fa-eye me-2"></i> IRIS Verification</h5>
                             <p class="small text-light-gray mb-0">At the registration desk inside the lab, your IRIS pattern will be scanned to match the biometric record on the server.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">uppbpb.gov.in FAQ: Support Desk</h2>
@@ -109,8 +130,7 @@ $meta_keywords = "";
                         <div id="u3Q1" class="accordion-collapse collapse" data-bs-parent="#uppFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, the <strong>uppbpb.gov.in</strong> portal is mobile-responsive. However, ensure you save as 'PDF' and print later on A4 size paper.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +141,8 @@ $meta_keywords = "";
                         <div id="u3Q2" class="accordion-collapse collapse" data-bs-parent="#uppFaq">
                             <div class="accordion-body text-light-gray">
                                 Carry an affidavit along with the original Aadhar Card and the <strong>uppbpb.gov.in Admit Card</strong> to the center. Notify the center superintendent immediately upon arrival.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Official Direct Links</h5>
@@ -132,14 +150,14 @@ $meta_keywords = "";
                         <a href="up-pbpb-gov-in-admit-card.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">UP PBPB Portal</a>
                         <a href="uppbpb-gov-in-admit-card-2024.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">2024 Cycle Info</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> UP State Authority Links</h3>
                 <div class="row g-3">
+                    <?php
                     $up_auth = [
                         'up-board-admit-card.php' => 'UP Board Authority Admit Card',
                         'upsssc-admit-card.php' => 'UPSSSC Lucknow Admit Card',
@@ -153,11 +171,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +204,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

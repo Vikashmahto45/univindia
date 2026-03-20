@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download UP Police Admit Card 2024. Get the direct link for Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) Constable and Sub-Inspector exam hall tickets at uppbpb.gov.in."; 
 $meta_keywords = "up police admit card 2024, upp admit card download, up police constable hall ticket, uppbpb.gov.in admit card link, up police exam date 2024"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download UP Police Admit Card 2024. Get the direct link for Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) Constable and Sub-Inspector exam hall tickets at uppbpb.gov.in."; 
+$meta_keywords = "up police admit card 2024, upp admit card download, up police constable hall ticket, uppbpb.gov.in admit card link, up police exam date 2024"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online";
+$meta_description = "Download UP Police Admit Card 2024. Get the direct link for Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) Constable and Sub-Inspector exam hall tickets at uppbpb.gov.in.";
+$meta_keywords = "up police admit card 2024, upp admit card download, up police constable hall ticket, uppbpb.gov.in admit card link, up police exam date 2024";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -86,8 +109,16 @@ $meta_keywords = "up police admit card 2024, upp admit card download, up police 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

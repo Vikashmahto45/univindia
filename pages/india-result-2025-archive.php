@@ -7,9 +7,27 @@ $meta_keywords = "india result 2025, check board results 2025 online, official i
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2025 - Official National Board Mirror Archive</div>
-    <h2 class='sr-title'>india result 2025: Your Comprehensive Navigator to CBSE, ICSE, NIOS, and All-India State Board Result Gateways (Government of Rajasthan, Punjab, UP, Madhya Pradesh, Bihar, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india result 2025 - Official National Board Mirror Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 2025 - Official National Board Mirror Archive"; 
+$meta_description = "Check india result 2025 online. Access the upcoming 2025 Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official historical mirror."; 
+$meta_keywords = "india result 2025, check board results 2025 online, official india results 2025 link, indiaresults 2025 search, state board results 2025 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india result 2025 - Official National Board Mirror Archive";
+$meta_description = "Check india result 2025 online. Access the upcoming 2025 Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official historical mirror.";
+$meta_keywords = "india result 2025, check board results 2025 online, official india results 2025 link, indiaresults 2025 search, state board results 2025 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 2025, check board results 2025 online, official i
                 <a href="https://cbseresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official CBSE Results" target="_blank">Access CBSE Official</a>
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC National Results" target="_blank">Visit NIC Result HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 2025 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2025 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 2025, check board results 2025 online, official i
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india result 2025 data, please visit your respective Board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About india result 2025 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 2025, check board results 2025 online, official i
         <br>
         <strong>3. Is the result from india result 2025 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "india result 2025" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

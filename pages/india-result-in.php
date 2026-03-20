@@ -7,9 +7,27 @@ $meta_keywords = "india result in, check indian board results online, national r
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result In - Official National Examination Portal</div>
-    <h2 class='sr-title'>India Result In: Your Comprehensive Navigator to National Board of Secondary Education, State Boards of Secondary Education, Senior Secondary (Class 12), Secondary (Class 10), Higher Secondary, and All-India State Board Result Gateways (Ministry of Education, Government of India, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result In - Official National Examination Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result In - Official National Examination Portal"; 
+$meta_description = "Visit India Result In online. Access the primary national and state board results across India. Official mirror links for 10th and 12th standard examinations."; 
+$meta_keywords = "india result in, check indian board results online, national result portal in, official board result links in, 10th 12th result in mirrors"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result In - Official National Examination Portal";
+$meta_description = "Visit India Result In online. Access the primary national and state board results across India. Official mirror links for 10th and 12th standard examinations.";
+$meta_keywords = "india result in, check indian board results online, national result portal in, official board result links in, 10th 12th result in mirrors";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result in, check indian board results online, national r
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults" target="_blank">Access IndiaResults</a>
                 <a href="https://results.cbse.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE Official link" target="_blank">Visit CBSE Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result In Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result in, check indian board results online, national r
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result In data, please visit the respective Board headquarters or your school Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result In Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result in, check indian board results online, national r
         <br>
         <strong>3. Is the result from India Result In valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result In" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download UPSC Admit Card 2024. Get the direct link for Union Public Service Commission Civil Services (IAS/IFS), NDA, CDS, and IES examination hall tickets at upsc.gov.in."; 
 $meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in admit card login, upsc ias admit card link, upsc nda cds hall ticket"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download UPSC Admit Card 2024. Get the direct link for Union Public Service Commission Civil Services (IAS/IFS), NDA, CDS, and IES examination hall tickets at upsc.gov.in."; 
+$meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in admit card login, upsc ias admit card link, upsc nda cds hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online";
+$meta_description = "Download UPSC Admit Card 2024. Get the direct link for Union Public Service Commission Civil Services (IAS/IFS), NDA, CDS, and IES examination hall tickets at upsc.gov.in.";
+$meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in admit card login, upsc ias admit card link, upsc nda cds hall ticket";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -92,8 +115,16 @@ $meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in a
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

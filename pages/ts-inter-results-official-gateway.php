@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ts inter results - Official Telangana Intermediate Result Hub"; 
 $meta_description = "Check ts inter results for 1st and 2nd year exams. Access the official Telangana Board of Intermediate Education (TSBIE) result gateway and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ts inter results - Official Telangana Intermediate Result Hub</div>
+    <h2 class='sr-title'>ts inter results - Official Telangana Intermediate Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ts inter results - Official Telangana Intermediate Result Hub"; 
+$meta_description = "Check ts inter results for 1st and 2nd year exams. Access the official Telangana Board of Intermediate Education (TSBIE) result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Telangana
                 Intermediate 1st and 2nd Year (General & Vocational). Official TSBIE Hyderabad mirrors and board result
                 links updated for the current academic session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check TS Inter Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Telangana board intermediate results by student name alternative criteria for major
                         academic sessions.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +98,7 @@ $meta_keywords = "";
                     marks. Having a verified digital result from the <strong>ts inter results</strong> hub is essential
                     for students to complete their academic verification and proof of educational achievement during
                     transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -101,26 +111,28 @@ $meta_keywords = "";
                         <p>Most results on the <strong>ts inter results</strong> portal require a Hall Ticket Number.
                             However, the "Search by Name" alternative is often available on the
                             <strong>indiaresults</strong> mirrors for participating batches.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub officially official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including TSBIE, ensuring result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for TS Inter 1st/2nd year access?</button>
                     <div class="faq-answer">
                         <p>You primarily need your Board Hall Ticket Number. The system will then display your
                             <strong>ts inter results</strong> with a detailed marks breakdown for each subject.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

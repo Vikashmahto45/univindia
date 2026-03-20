@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th - Official National Secondary Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 10th - Official National Secondary Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 10th - Official National Secondary Gateway"; 
+$meta_description = "Check india result 10th for all state board exams. Access the official national secondary results portal, highlights, and archival scores on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 10th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Class 10th results by student name alternative criteria for major participating boards
                         across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +93,7 @@ $meta_keywords = "";
                     digital result from the <strong>india result 10th</strong> hub is essential for students to complete
                     their academic verification and proof of performance during school-level transition and registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,27 +105,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>On the <strong>india result 10th</strong> portal, many major state boards support the "Search
                             by Name" feature for candidates participating in the secondary exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 10th results hosted on indiaresults official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards across India, ensuring results are fetch directly from official databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 10th marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>india result 10th</strong> gateway is a
                             valid provisional document accepted for initial school or college registration nationwide.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.exametc.com result 2nd semester - Official Academic Result Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>www.exametc.com result 2nd semester - Official Academic Result Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www.exametc.com result 2nd semester - Official Academic Result Gateway"; 
+$meta_description = "Check www.exametc.com result 2nd semester for university and college exams. Access the official 2nd Semester archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2nd Sem Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -41,8 +49,7 @@ $meta_keywords = "";
                     <h3>University-wise Search</h3>
                     <p>Verify 2nd Semester results by specific university and roll number alternative criteria.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -88,8 +95,7 @@ $meta_keywords = "";
                     calculations, internal assessment, and practical marks. Having a verified digital result from the
                     <strong>www.exametc.com result 2nd semester</strong> hub is essential for students to complete their
                     academic verification and proof of educational attainment.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,27 +109,26 @@ $meta_keywords = "";
                         <p>Absolutely. <strong>indiaresults.com</strong> and <strong>exametc.com</strong> are recognized
                             hosting partners for many Indian universities, ensuring results are mirrored directly from
                             official board/university databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2nd semester results by name search?</button>
                     <div class="faq-answer">
                         <p>Yes, many universities hosting results on the <strong>www.exametc.com result 2nd
                                 semester</strong> portal include a name-wise search option for student convenience.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for result verification?</button>
                     <div class="faq-answer">
                         <p>You primarily need your University Roll Number. Some portals may also require your
                             Registration Number or Date of Birth for <strong>www.exametc.com result 2nd
                                 semester</strong> access.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

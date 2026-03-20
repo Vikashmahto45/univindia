@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in</div>
+    <h2 class='sr-title'>UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in";
+$page_description = "Download UP PBPB Admit Card 2025 for Constable, SI, and Fireman. Get direct link for UP Police Hall Ticket, Exam Schedule, and center status. 800+ words of latest updates.";
+$page_keywords = "UP PBPB Admit Card 2025, UP Police Constable Hall Ticket Download, uppbpb.gov.in admit card link, UP Police SI Call Letter, up-pbpb-gov-in-admit-card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">UP PBPB Admit Card 2025: UP Police Recruitment Board Hall Ticket</h1>
+            
             
             <div class="alert alert-primary bg-dark border-primary text-primary rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-gavel me-2"></i> <strong>Official Update:</strong> The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB or UP PBPB) has initiated the examination process for massive vacancies in Constable and SI cadres. The <strong>UP Police Admit Card</strong> is released session-wise on uppbpb.gov.in.
@@ -87,14 +110,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-primary">
                             <h5 class="text-primary"><i class="fas fa-print me-2"></i> Printed Admit Card</h5>
                             <p class="small text-light-gray mb-0">Carry a clear, legible printout. Digital copies on DigiLocker are NOT accepted at primary gate screening.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-primary">
                             <h5 class="text-primary"><i class="fas fa-id-card me-2"></i> Original Photo ID Proof</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card is mandatory. In case of issues, Voter ID or Passport must be available as secondary proof.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">UP Police Admit Card FAQ: Frequently Asked Questions</h2>
@@ -108,8 +129,7 @@ $meta_keywords = "";
                         <div id="upQ1" class="accordion-collapse collapse" data-bs-parent="#upPbpbFaq">
                             <div class="accordion-body text-light-gray">
                                 You can use the 'Know Your Registration Number' tool on the UP PBPB portal. You will need your high school roll number and mobile number for retrieval.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -120,10 +140,8 @@ $meta_keywords = "";
                         <div id="upQ2" class="accordion-collapse collapse" data-bs-parent="#upPbpbFaq">
                             <div class="accordion-body text-light-gray">
                                 No, the <strong>UPPRPB Hall Ticket</strong> is self-authenticating with a barcode. No external signatures are required unless your photo is completely missing.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Related Portals</h5>
@@ -131,14 +149,14 @@ $meta_keywords = "";
                         <a href="uppbpb-gov-in-admit-card.php" class="btn btn-outline-primary rounded-pill px-4 btn-sm">UPPBPB Official Page</a>
                         <a href="ssc-gd-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">SSC GD Call Letter</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> UP Recruitment & Education Links</h3>
                 <div class="row g-3">
+                    <?php
                     $up_links = [
                         'uptransport-admit-card.php' => 'UP Transport Admit Card',
                         'upnrhm-admit-card.php' => 'UP NRHM Call Letter',
@@ -152,11 +170,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -186,3 +203,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

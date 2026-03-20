@@ -7,9 +7,27 @@ $meta_keywords = "cbse 12th result 2024, cbse result 2024 class 12, check cbse 1
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CBSE 12th Result 2024 - Official Central Board Result Portal</div>
-    <h2 class='sr-title'>CBSE 12th Result 2024: Your Comprehensive Navigator to Central Board of Secondary Education (CBSE) Senior School Certificate Examination (SSCE), Class 12, and Vocational result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC) Result Portal) Result Portals Across India</h2>
+    <h2 class='sr-title'>CBSE 12th Result 2024 - Official Central Board Result Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "CBSE 12th Result 2024 - Official Central Board Result Portal"; 
+$meta_description = "Check CBSE 12th Result 2024 online. Access the Central Board of Secondary Education Class 12 results, marksheets, and merit list for the 2024 session."; 
+$meta_keywords = "cbse 12th result 2024, cbse result 2024 class 12, check cbse 12 result online, cbse board result 2024, class 12 result merit list 2024, official cbse result portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "CBSE 12th Result 2024 - Official Central Board Result Portal";
+$meta_description = "Check CBSE 12th Result 2024 online. Access the Central Board of Secondary Education Class 12 results, marksheets, and merit list for the 2024 session.";
+$meta_keywords = "cbse 12th result 2024, cbse result 2024 class 12, check cbse 12 result online, cbse board result 2024, class 12 result merit list 2024, official cbse result portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "cbse 12th result 2024, cbse result 2024 class 12, check cbse 1
                 <a href="https://cbse.gov.in" class="btn" title="Main CBSE Hub" target="_blank">CBSE Official Website</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Marksheet 2024</a>
                 <a href="https://results.gov.in" class="btn" title="National Hub" target="_blank">National Results Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CBSE 12th Result 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "cbse 12th result 2024, cbse result 2024 class 12, check cbse 1
         <br>
         <strong>3. Is the result from CBSE 12th Result 2024 valid for study abroad?</strong>
         <p>Yes, your CBSE Class 12 results (verified via the official "CBSE 12th Result 2024" portal or DigiLocker) are universally accepted for international admissions and job certs in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

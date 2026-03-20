@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Indiaresults.com Punjab 2021 - Official PSEB Archive Results"; 
 $meta_description = "Check Indiaresults.com Punjab 2021 for official PSEB 10th and 12th results. Access the 2023 archival results, merit lists, and name-wise search for Punjab Board scholars."; 
 $meta_keywords = "indiaresults.com punjab 2021, punjab results 2021, pseb result 2021 indiaresults, indiaresults punjab archive 2021, punjab board result name wise 2021"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indiaresults.com Punjab 2021 - Official PSEB Archive Results</div>
+    <h2 class='sr-title'>Indiaresults.com Punjab 2021 - Official PSEB Archive Results</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Indiaresults.com Punjab 2021 - Official PSEB Archive Results"; 
+$meta_description = "Check Indiaresults.com Punjab 2021 for official PSEB 10th and 12th results. Access the 2023 archival results, merit lists, and name-wise search for Punjab Board scholars."; 
+$meta_keywords = "indiaresults.com punjab 2021, punjab results 2021, pseb result 2021 indiaresults, indiaresults punjab archive 2021, punjab board result name wise 2021"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Indiaresults.com Punjab 2021 - Official PSEB Archive Results";
+$meta_description = "Check Indiaresults.com Punjab 2021 for official PSEB 10th and 12th results. Access the 2023 archival results, merit lists, and name-wise search for Punjab Board scholars.";
+$meta_keywords = "indiaresults.com punjab 2021, punjab results 2021, pseb result 2021 indiaresults, indiaresults punjab archive 2021, punjab board result name wise 2021";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Indiaresults.com Punjab 2021: Reclaiming the Academic Successes of the PSEB Class of 2021</h1>
+        
         
         <p>The academic portal "Indiaresults.com Punjab 2021" represents one of the most recognizable and essential digital landmarks for millions of students navigating the educationally progressive landscape of Punjab. As the primary authorized dissemination partner for the Punjab School Education Board (PSEB), SAS Nagar, the "Indiaresults.com Punjab 2021" platform is synonymous with transparency, speed, and massive-scale technical reliability. The 2021 academic session was a landmark year, characterized by the successful completion of secondary and higher secondary examinations during a period of significant educational transition. Whether it was the graduation results for the 10th and 12th grades or the specialized vocational scores of the Punjab Board, the "Indiaresults.com Punjab 2021" archive is the digital key that formally acknowledges the hard work of the Class of 2021. At Univindia.online, we recognize the enduring value of these archival scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies your search for the "Indiaresults.com Punjab 2021" records, ensuring that every student across Punjab can retrieve their official success stories from the digital legacy rosters with absolute ease.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "indiaresults.com punjab 2021, punjab results 2021, pseb result
                 <a href="https://www.pseb.ac.in" class="btn" title="PSEB Official Board Site" target="_blank">PSEB.ac.in Official</a>
                 <a href="https://www.indiaresults.com" class="btn" title="National Results Mirror Portal" target="_blank">IndiaResults National</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified PSEB Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Indiaresults.com Punjab 2021</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "indiaresults.com punjab 2021, punjab results 2021, pseb result
         <br>
         <strong>3. Is the online provisional marksheet from Indiaresults Punjab 2021 valid for college admission?</strong>
         <p>Yes, for the initial rounds of online counseling and seat allocation in Punjab universities, the computer-generated "Indiaresults.com Punjab 2021" scorecard is accepted as proof of your board completion until the original certificate is provided.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

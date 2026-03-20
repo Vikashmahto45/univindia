@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Org Result - RRBMU Alwar University Exam Scores"; 
 $meta_description = "Check your RRBMU Alwar results on Univindia Org. Complete guide to downloading Matsya University marksheets and revaluation results at univindia.org."; 
 $meta_keywords = "Univindia Org Result - RRBMU Alwar University Exam Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Org Result - RRBMU Alwar University Exam Scores</div>
+    <h2 class='sr-title'>Univindia Org Result - RRBMU Alwar University Exam Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Org Result - RRBMU Alwar University Exam Scores"; 
+$meta_description = "Check your RRBMU Alwar results on Univindia Org. Complete guide to downloading Matsya University marksheets and revaluation results at univindia.org."; 
+$meta_keywords = "Univindia Org Result - RRBMU Alwar University Exam Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Org Result - RRBMU Alwar University Exam Scores";
+$meta_description = "Check your RRBMU Alwar results on Univindia Org. Complete guide to downloading Matsya University marksheets and revaluation results at univindia.org.";
+$meta_keywords = "Univindia Org Result - RRBMU Alwar University Exam Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Org Result: Your Definitive Guide to Checking Matsya University Scores</h1>
+        
         
         <p>For thousands of students enrolled at the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar, the term "Univindia Org Result" is the most anticipated phrase of the academic year. As the official digital destination for Matsya University, the `univindia.org` portal acts as the centralized hub for all examination scores. Whether you are an undergraduate student (BA, BSc, BCom) or a postgraduate candidate (MA, MSc, MCom), this portal provides instantaneous access to your results. In this detailed guide, we will provide a complete walkthrough of how to check your scores on the official Univindia Org portal, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period in Alwar.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Org Result - RRBMU Alwar University Exam Scores";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official RRBMU Alwar website at univindia.org.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

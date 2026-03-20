@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia MSBU Result - Bharatpur Brij University Marks Check"; 
 $meta_description = "Check your MSBU Bharatpur results on Univindia. Complete guide to downloading Brij University marksheets and revaluation results online."; 
 $meta_keywords = "Univindia MSBU Result - Bharatpur Brij University Marks Check"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia MSBU Result - Bharatpur Brij University Marks Check</div>
+    <h2 class='sr-title'>Univindia MSBU Result - Bharatpur Brij University Marks Check</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia MSBU Result - Bharatpur Brij University Marks Check"; 
+$meta_description = "Check your MSBU Bharatpur results on Univindia. Complete guide to downloading Brij University marksheets and revaluation results online."; 
+$meta_keywords = "Univindia MSBU Result - Bharatpur Brij University Marks Check"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia MSBU Result - Bharatpur Brij University Marks Check";
+$meta_description = "Check your MSBU Bharatpur results on Univindia. Complete guide to downloading Brij University marksheets and revaluation results online.";
+$meta_keywords = "Univindia MSBU Result - Bharatpur Brij University Marks Check";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia MSBU Result: Your Ultimate Guide to Checking Brij University Scores</h1>
+        
         
         <p>For thousands of students enrolled at the Maharaja Surajmal Brij University (MSBU), Bharatpur, the term "Univindia MSBU Result" represents the most critical moment of the academic year. As the leading institution for higher education in the Bharatpur and Dholpur regions, MSBU manages a massive volume of undergraduate and postgraduate aspirants. The `univindia.net` portal network serves as the official, authoritative source for all examination scores. In this extensive guide, we will provide a complete walkthrough of how to check your MSBU results on the official Univindia portal, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia MSBU Result - Bharatpur Brij University Marks Check"
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MSBU Bharatpur websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

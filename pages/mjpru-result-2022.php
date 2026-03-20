@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MJPRU Result 2022 - Official Rohilkhand University Archive"; 
 $meta_description = "Check MJPRU Result 2022 online. Access the historical Mahatma Jyotiba Phule Rohilkhand University (MJPRU) Bareilly results for the 2022 session. Official Link."; 
 $meta_keywords = "mjpru result 2022, check rohilkhand university result online 2022, mjpru ba bsc bcom results 2022, official 2022 mjpru link, mjpru bareilly result 2022"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MJPRU Result 2022 - Official Rohilkhand University Archive</div>
+    <h2 class='sr-title'>MJPRU Result 2022 - Official Rohilkhand University Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MJPRU Result 2022 - Official Rohilkhand University Archive"; 
+$meta_description = "Check MJPRU Result 2022 online. Access the historical Mahatma Jyotiba Phule Rohilkhand University (MJPRU) Bareilly results for the 2022 session. Official Link."; 
+$meta_keywords = "mjpru result 2022, check rohilkhand university result online 2022, mjpru ba bsc bcom results 2022, official 2022 mjpru link, mjpru bareilly result 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MJPRU Result 2022 - Official Rohilkhand University Archive";
+$meta_description = "Check MJPRU Result 2022 online. Access the historical Mahatma Jyotiba Phule Rohilkhand University (MJPRU) Bareilly results for the 2022 session. Official Link.";
+$meta_keywords = "mjpru result 2022, check rohilkhand university result online 2022, mjpru ba bsc bcom results 2022, official 2022 mjpru link, mjpru bareilly result 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MJPRU Result 2022: Your Comprehensive Navigator to Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly, Undergraduate (UG), Postgraduate (PG), BA, BSc, BCom, MA, MSc, MCom, Professional Courses, and Uttar Pradesh State University Result Gateways (Government of UP, Higher Education Department, and University Computer Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "MJPRU Result 2022" (applicable to the annual and semester university examinations and specialized evaluations conducted for the 2021-2022 academic session by the MJPRU Bareilly) represents a significant digital milestone for over 5 lakh students residing in the academic and industrial landscape of Rohilkhand, Uttar Pradesh. As the primary official gateway to the university's historical educational infrastructure (Bareilly, MJPRU Campus), and the traditional higher education infrastructure of the nation, the "MJPRU Result 2022" serves as the formal academic master directory that allows candidates to access their theory marks, internal assessment scores, and final degree certificate (UG/PG) via dedicated university server endpoints and authorized mirror archives. For the 2022 academic cycle, which marked a critical phase in the restoration of traditional university evaluation standards in Bareilly, the "MJPRU Result 2022" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The university administration implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2022 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "MJPRU Result 2022," ensuring that every student and researcher in Uttar Pradesh can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "mjpru result 2022, check rohilkhand university result online 2
                 <a href="https://mjpru.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="MJPRU Results Hub" target="_blank">Access 2022 Results</a>
                 <a href="https://www.up.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="UP Government Hub" target="_blank">UP Education Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official MJPRU Result 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your university, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "mjpru result 2022, check rohilkhand university result online 2
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to MJPRU Result 2022 data, please visit the MJPRU campus in Bareilly or your respective College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About MJPRU Result 2022 Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "mjpru result 2022, check rohilkhand university result online 2
         <br>
         <strong>3. Is the result from MJPRU Result 2022 valid for scholarships?</strong>
         <p>Yes, your university results (verified via the official "MJPRU Result 2022" portal) are recorded in the state degree scholarship database and serve as primary data for merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

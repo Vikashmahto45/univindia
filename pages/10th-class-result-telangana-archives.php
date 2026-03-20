@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result telangana - Official TS Secondary Result Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th class result telangana - Official TS Secondary Result Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th class result telangana - Official TS Secondary Result Archive"; 
+$meta_description = "Check 10th class result telangana for SSC (Class 10) exams. Access the official Telangana State Secondary (BSE) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Telangana 10th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -40,8 +48,7 @@ $meta_keywords = "";
                     <h3>Roll Number Search</h3>
                     <p>Verify TS Class 10 results by student hall ticket number alternative criteria for Telangana.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +96,7 @@ $meta_keywords = "";
                         result telangana</strong> hub is essential for students to complete their academic verification
                     and proof of educational attainment during university graduation and registration processes even
                     years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,28 +109,27 @@ $meta_keywords = "";
                         <p>Yes, the <strong>10th class result telangana</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in the Telangana
                             SSC exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the TS results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSE Telangana, ensuring all result data is mirrored directly from official
                             board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital TS 10th marksheet valid for Inter admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10th class result telangana</strong> hub is
                             a valid provisional document accepted for initial college registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,7 +9,26 @@ $meta_keywords = "cuet admit card 2023, nta cuet hall ticket download, cuet.sama
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET Admit Card 2023 Download - NTA Common University Entrance Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CUET Admit Card 2023 Download - NTA Common University Entrance Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CUET Admit Card 2023 Download - NTA Common University Entrance Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download CUET Admit Card 2023. Get the direct link for NTA CUET UG/PG entrance examination hall tickets at cuet.samarth.ac.in."; 
+$meta_keywords = "cuet admit card 2023, nta cuet hall ticket download, cuet.samarth.ac.in admit card login, cuet pg admit card 2023, common university entrance test call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CUET Admit Card 2023 Download - NTA Common University Entrance Test Hall Ticket | Univindia.online";
+$meta_description = "Download CUET Admit Card 2023. Get the direct link for NTA CUET UG/PG entrance examination hall tickets at cuet.samarth.ac.in.";
+$meta_keywords = "cuet admit card 2023, nta cuet hall ticket download, cuet.samarth.ac.in admit card login, cuet pg admit card 2023, common university entrance test call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CUET Admit Card 2023: Download NTA Common University Entrance Test Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "cuet admit card 2023, nta cuet hall ticket download, cuet.sama
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search University News</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

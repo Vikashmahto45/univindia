@@ -7,10 +7,27 @@ $meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; board result 2023 - Official National Board Hub</div>
-    <h2 class='sr-title'>board result 2023: Your Authoritative Navigator to National Board Councils, State Education Departments, and
-            National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <h2 class='sr-title'>board result 2023 - Official National Board Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "board result 2023 - Official National Board Hub"; 
+$meta_description = "Check board result 2023 for CBSE, ICSE, UP Board, Bihar Board, and all state boards. Access the official 10th and 12th board result 2023 portal."; 
+$meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2023, check board result online, all state board results 2023"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "board result 2023 - Official National Board Hub";
+$meta_description = "Check board result 2023 for CBSE, ICSE, UP Board, Bihar Board, and all state boards. Access the official 10th and 12th board result 2023 portal.";
+$meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2023, check board result online, all state board results 2023";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -66,8 +83,7 @@ $meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2
                 <a href="https://results.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="National Portal" target="_blank">National Result Gateway</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official board result 2023 Online</h2>
         <p>To ensure a successful result search in the 2023 archives, follow these technical steps:</p>
@@ -104,7 +120,7 @@ $meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2
                 final database changes related to board result 2023 data, please visit the respective Board headquarters
                 or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Board Result 2023</h2>
@@ -120,8 +136,13 @@ $meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2
         <strong>3. Is the result from the results.gov.in portal official?</strong>
         <p>Yes, the "board result 2023" served via `results.gov.in` is a centralized official digital gateway that
             aggregates results from various state and central boards.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

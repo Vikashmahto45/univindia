@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Related Www Univindia Net MainPage PHP Univindia - Exam Portal Gateway"; 
 $meta_description = "Access the Univindia Net main page for university exams and results. Official guide to navigating mainpage.php on the Univindia network online."; 
 $meta_keywords = "Related Www Univindia Net MainPage PHP Univindia - Exam Portal Gateway"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Related Www Univindia Net MainPage PHP Univindia - Exam Portal Gateway</div>
+    <h2 class='sr-title'>Related Www Univindia Net MainPage PHP Univindia - Exam Portal Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Related Www Univindia Net MainPage PHP Univindia - Exam Portal Gateway"; 
+$meta_description = "Access the Univindia Net main page for university exams and results. Official guide to navigating mainpage.php on the Univindia network online."; 
+$meta_keywords = "Related Www Univindia Net MainPage PHP Univindia - Exam Portal Gateway"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Related Www Univindia Net MainPage PHP Univindia - Exam Portal Gateway";
+$meta_description = "Access the Univindia Net main page for university exams and results. Official guide to navigating mainpage.php on the Univindia network online.";
+$meta_keywords = "Related Www Univindia Net MainPage PHP Univindia - Exam Portal Gateway";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Related Www Univindia Net MainPage PHP Univindia: Navigating the Centralized Exam Gateway</h1>
+        
         
         <p>The term "Related Www Univindia Net MainPage PHP Univindia" refers to the core technical entry point of the `univindia.net` network—a massive digital infrastructure that serves multiple prominent universities in Rajasthan, including Maharaja Ganga Singh University (MGSU) Bikaner, Raj Rishi Bhartrihari Matsya University (RRBMU) Alwar, and Maharaja Surajmal Brij University (MSBU) Bharatpur. Within this high-performance system, the `mainpage.php` script acts as the primary traffic controller and student dashboard. For millions of undergraduate and postgraduate students, this specific PHP gateway is the definitive landing zone for all administrative tasks, from initial enrollment to final result retrieval. In this comprehensive guide, we will provide a detailed exploration of the `mainpage.php` infrastructure, explain how to identify your specific university partition on the portal, and offer expert advice on ensuring a seamless and secure digital experience across the Univindia network.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "Related Www Univindia Net MainPage PHP Univindia - Exam Portal
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official Univindia websites at univindia.net and its associated university domains.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

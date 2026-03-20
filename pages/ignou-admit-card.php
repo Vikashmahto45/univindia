@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IGNOU Admit Card 2025: Download IGNOU TEE Hall Ticket @ ignou.ac.in</div>
-    <h2 class='sr-title'>IGNOU Admit Card 2025: Download IGNOU TEE June/Dec Hall Ticket</h2>
+    <h2 class='sr-title'>IGNOU Admit Card 2025: Download IGNOU TEE Hall Ticket @ ignou.ac.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "IGNOU Admit Card 2025: Download IGNOU TEE Hall Ticket @ ignou.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "IGNOU Admit Card 2025: Download IGNOU TEE Hall Ticket @ ignou.ac.in";
+$page_description = "Download IGNOU Admit Card 2025 for June and December Term End Exams (TEE). Get direct link for IGNOU Hall Ticket, Exam Schedule, and Center Details. 800+ words guide.";
+$page_keywords = "IGNOU Admit Card 2025, IGNOU TEE Hall Ticket Download, IGNOU June Dec Exam Card, ignou.ac.in admit card link, IGNOU Enrollment Number Login";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -91,14 +110,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-print me-2"></i> Printed Permit Card</h5>
                             <p class="small text-light-gray mb-0">Carry a clear, printed copy of your <strong>IGNOU Call Letter</strong>. Mobile screenshots are not valid for entry.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-info h-100">
                             <h5 class="text-info"><i class="fas fa-id-card me-2"></i> IGNOU Student Identity Card</h5>
                             <p class="small text-light-gray mb-0">Original PVC IGNOU ID card is mandatory. If lost, carry an Aadhar Card along with an 'Attested ID Proof Receipt' from your Regional Center.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">IGNOU Admit Card FAQ: Frequently Asked Questions</h2>
@@ -112,8 +129,7 @@ $meta_keywords = "";
                         <div id="igQ1" class="accordion-collapse collapse" data-bs-parent="#ignouFaq">
                             <div class="accordion-body text-light-gray">
                                 Center change requests are generally NOT entertained after the <strong>IGNOU Admit Card</strong> is issued. However, in extreme medical cases, you may contact your Regional Director at least 7 days before the exam.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -124,10 +140,8 @@ $meta_keywords = "";
                         <div id="igQ2" class="accordion-collapse collapse" data-bs-parent="#ignouFaq">
                             <div class="accordion-body text-light-gray">
                                 The <strong>TEE Hall Ticket</strong> usually only includes Theory papers. Practical exam schedules are released by the respective Study Centers or Regional Centers 10 days after the theory exams end.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Other Distance Education Links</h5>
@@ -135,14 +149,14 @@ $meta_keywords = "";
                         <a href="vmou-admit-card.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">VMOU Kota Card</a>
                         <a href="sol-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">DU SOL Hall Ticket</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Open University Portals</h3>
                 <div class="row g-3">
+                    <?php
                     $open_univ = [
                         'uou-admit-card.php' => 'UOU Uttarakhand Hall Ticket',
                         'psou-admit-card.php' => 'PSOU Punjab Admit Card',
@@ -156,11 +170,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -188,6 +201,12 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

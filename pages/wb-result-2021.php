@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "WB Result 2021 - Historical West Bengal WBBSE & WBCHSE Archive"; 
 $meta_description = "Check WB Result 2021 online. Access the historical West Bengal Madhyamik and Higher Secondary results for 2021. Official marks and merit list link."; 
 $meta_keywords = "wb result 2021, check west bengal madhyamik result 2021 online, wbresults.nic.in 2021, official 2021 wb board link, indiaresult wb 2021"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; WB Result 2021 - Historical West Bengal WBBSE & WBCHSE Archive</div>
+    <h2 class='sr-title'>WB Result 2021 - Historical West Bengal WBBSE & WBCHSE Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "WB Result 2021 - Historical West Bengal WBBSE & WBCHSE Archive"; 
+$meta_description = "Check WB Result 2021 online. Access the historical West Bengal Madhyamik and Higher Secondary results for 2021. Official marks and merit list link."; 
+$meta_keywords = "wb result 2021, check west bengal madhyamik result 2021 online, wbresults.nic.in 2021, official 2021 wb board link, indiaresult wb 2021"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "WB Result 2021 - Historical West Bengal WBBSE & WBCHSE Archive";
+$meta_description = "Check WB Result 2021 online. Access the historical West Bengal Madhyamik and Higher Secondary results for 2021. Official marks and merit list link.";
+$meta_keywords = "wb result 2021, check west bengal madhyamik result 2021 online, wbresults.nic.in 2021, official 2021 wb board link, indiaresult wb 2021";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>WB Result 2021: Your Comprehensive Navigator to West Bengal Board of Secondary Education (WBBSE), West Bengal Council of Higher Secondary Education (WBCHSE), Kolkata, Madhyamik (Class 10), Higher Secondary (Class 12), and West Bengal State Board Result Gateways (Government of West Bengal, School Education Department, and National Informatics Centre (NIC) WB State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "WB Result 2021" (applicable to the annual secondary and higher secondary board examinations and specialized technical evaluations conducted for the 2020-2021 academic session by the WBBSE and WBCHSE Kolkata) represents a significant digital milestone for over 18 lakh students residing in the academic and cultural landscape of West Bengal. As the primary official gateway to the state's historical educational infrastructure (Kolkata HQ, Vidyasagar Bhavan), and the traditional school education infrastructure of the nation, the "WB Result 2021" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (Madhyamik and Uccha Madhyamik) via dedicated government server endpoints and authorized mirror archives like WBResults. For the 2021 academic cycle, which was conducted under specialized promotion and objective evaluation frameworks due to global health protocols in West Bengal, the "WB Result 2021" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The West Bengal education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2021 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "WB Result 2021," ensuring that every student and researcher in West Bengal can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "wb result 2021, check west bengal madhyamik result 2021 online
                 <a href="https://wbbse.wb.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="WBBSE Official Portal" target="_blank">WBBSE Board Home</a>
                 <a href="https://wbchse.wb.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="WBCHSE Official Portal" target="_blank">WBCHSE Council Home</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official WB Result 2021 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2021 records of your West Bengal board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "wb result 2021, check west bengal madhyamik result 2021 online
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to WB Result 2021, please visit the WBBSE/WBCHSE headquarters in Kolkata or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About WB Result 2021 Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "wb result 2021, check west bengal madhyamik result 2021 online
         <br>
         <strong>3. Is the result from WB Result 2021 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "WB Result 2021" portal) are digitized and available in the DigiLocker archive for official verification.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

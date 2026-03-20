@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "seba hslc result 2024 - Official Assam Secondary Hub"; 
 $meta_description = "Check seba hslc result 2024 for MSBSHSE exams. Access the official Assam Board High School Leaving Certificate (HSLC) result gateway on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; seba hslc result 2024 - Official Assam Secondary Hub</div>
+    <h2 class='sr-title'>seba hslc result 2024 - Official Assam Secondary Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "seba hslc result 2024 - Official Assam Secondary Hub"; 
+$meta_description = "Check seba hslc result 2024 for MSBSHSE exams. Access the official Assam Board High School Leaving Certificate (HSLC) result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2024 academic session individual results for Assam Class 10th
                 (HSLC). Official SEBA mirrors and board result links updated for the current 2024 academic session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check HSLC Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -37,8 +49,7 @@ $meta_keywords = "";
                     <p>Verify Assam board HSLC results 2024 by student name alternative criteria for the 2024 academic
                         examination batch.</p>
                     <a href="https://assam.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +95,7 @@ $meta_keywords = "";
                     2024 batch. Having a verified digital result from the <strong>seba hslc result 2024</strong> hub is
                     essential for students to complete their academic verification and proof of educational achievement
                     during transition and registration processes throughout 2024.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,27 +108,29 @@ $meta_keywords = "";
                         <p>Dates vary by season. The <strong>seba hslc result 2024</strong> portal on
                             <strong>indiaresults</strong> provides real-time notifications as soon as official data is
                             released by SEBA Guwahati.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Assam HSLC results by name for 2024?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>seba hslc result 2024</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated name-wise search for students participating in the Assam board exams.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the digital 2024 marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>seba hslc result 2024</strong> gateway is a
                             valid provisional document accepted for initial High Secondary registration and verification
                             in Assam.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

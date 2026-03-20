@@ -7,9 +7,27 @@ $meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; b.com 2nd year result 2022 - Official University Mirror</div>
-    <h2 class='sr-title'>b.com 2nd year result 2022: Your Comprehensive Navigator to National University Senates, Recruitment Commissions, and All-India State University Result Gateways (Government of India, Department of Higher Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>b.com 2nd year result 2022 - Official University Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "b.com 2nd year result 2022 - Official University Mirror"; 
+$meta_description = "Check b.com 2nd year result 2022 online. Access the historical results for all Indian Universities (RU, BU, CCSU, etc.) for the 2022 session."; 
+$meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 online, official university link, indiaresults bcom portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "b.com 2nd year result 2022 - Official University Mirror";
+$meta_description = "Check b.com 2nd year result 2022 online. Access the historical results for all Indian Universities (RU, BU, CCSU, etc.) for the 2022 session.";
+$meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 online, official university link, indiaresults bcom portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National NIC Portal" target="_blank">Access National HUB</a>
                 <a href="https://www.exametc.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Exametc university link" target="_blank">Visit Exametc HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official b.com 2nd year result 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your university, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to b.com 2nd year result 2022 data, please visit your respective university headquarters or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About B.Com 2022 Result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "b.com 2nd year result 2022, check university bcom result 2022 
         <br>
         <strong>3. Is the result from University B.Com valid for scholarships?</strong>
         <p>Yes, your university results (verified via the official "b.com 2nd year result 2022" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

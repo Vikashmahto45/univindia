@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse odisha result 2024 - Official Odisha Secondary Result Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>bse odisha result 2024 - Official Odisha Secondary Result Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "bse odisha result 2024 - Official Odisha Secondary Result Hub"; 
+$meta_description = "Check bse odisha result 2024 for Class 10 exams. Access the official 2024 Board of Secondary Education (BSE) Odisha result portal and schedule on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Pre-register to get your 2024 Odisha board results via automated notification services for the
                         latest batch.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -90,8 +97,7 @@ $meta_keywords = "";
                         2024</strong> hub is essential for students to complete their academic verification and proof of
                     educational attainment during university graduation and registration processes even years after
                     their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,26 +109,25 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The <strong>bse odisha result 2024</strong> is typically expected in the month of May,
                             following the completion of evaluations for the 2024 academic session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2024 results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for BSE Odisha,
                             ensuring result data is mirrored directly from official board servers in Cuttack.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2024 Odisha 10th result by name search?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>bse odisha result 2024</strong> portal includes a dedicated name-wise search
                             feature for candidate ease during the results declaration.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

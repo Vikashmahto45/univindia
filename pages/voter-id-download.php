@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in</div>
+    <h2 class='sr-title'>Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in";
+$page_description = "Download Voter ID Card 2025 Online. Get direct link for E-EPIC digital voter card, EPIC number search, and voter list status. 800+ words of latest updates.";
+$page_keywords = "Voter ID Download 2025, Digital Voter Card E-EPIC Online, NVSP Voter ID Download, EPIC Number Search, voters.eci.gov.in portal link";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">Voter ID Download 2025: Get Digital E-EPIC Card Online</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-id-card me-2"></i> <strong>ECI Portal Update:</strong> The Election Commission of India (ECI) has activated the 2.0 version of the <strong>voters.eci.gov.in</strong> portal. Eligible voters can now download the non-editable, digital version of their Voter ID, known as E-EPIC.
@@ -90,14 +113,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-success">
                             <h5 class="text-success"><i class="fas fa-lock me-2"></i> PDF Password</h5>
                             <p class="small text-light-gray mb-0">Some older E-EPIC files are password-protected. The password is usually your <strong>EPIC Number</strong> in uppercase.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-success">
                             <h5 class="text-success"><i class="fas fa-qrcode me-2"></i> Verification QR Code</h5>
                             <p class="small text-light-gray mb-0">The digital card carries a <strong>Secure QR Code</strong>. Polling officers can scan this code using the 'Voter Link' app to verify your identity.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Voter ID FAQ: Frequently Asked Questions</h2>
@@ -111,8 +132,7 @@ $meta_keywords = "";
                         <div id="vtQ1" class="accordion-collapse collapse" data-bs-parent="#voterFaq">
                             <div class="accordion-body text-light-gray">
                                 You must submit <strong>Form 8</strong> on the portal to update your mobile number. Once the BLO verifies your request, you can download the <strong>E-EPIC</strong> after 10-15 days.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -123,10 +143,8 @@ $meta_keywords = "";
                         <div id="vtQ2" class="accordion-collapse collapse" data-bs-parent="#voterFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, under the Information Technology Act, the <strong>Digital Voter ID</strong> is a recognized identity document at all government offices and during polling.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Direct Topic Links</h5>
@@ -134,14 +152,14 @@ $meta_keywords = "";
                         <a href="admit-card-download.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">Govt Admit Cards</a>
                         <a href="ssc-gd-admit-card.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">SSC GD Call Letter</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-user-check me-2"></i> Identity & Registration Links</h3>
                 <div class="row g-3">
+                    <?php
                     $id_links = [
                         'pan-card-download.php' => 'E-PAN Card Online Download',
                         'aadhar-card-download.php' => 'Aadhar Card Download Link',
@@ -155,11 +173,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -189,3 +206,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

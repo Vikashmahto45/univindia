@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download NTPC Admit Card. Get the direct link for RRB NTPC (Non-Technical Popular Categories) CBT 1 and CBT 2 hall tickets at rrbapply.gov.in."; 
 $meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbapply.gov.in ntpc login admit card, railway exam date 2024 download, railway recruitment call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download NTPC Admit Card. Get the direct link for RRB NTPC (Non-Technical Popular Categories) CBT 1 and CBT 2 hall tickets at rrbapply.gov.in."; 
+$meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbapply.gov.in ntpc login admit card, railway exam date 2024 download, railway recruitment call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online";
+$meta_description = "Download NTPC Admit Card. Get the direct link for RRB NTPC (Non-Technical Popular Categories) CBT 1 and CBT 2 hall tickets at rrbapply.gov.in.";
+$meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbapply.gov.in ntpc login admit card, railway exam date 2024 download, railway recruitment call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbap
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Railway Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

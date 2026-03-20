@@ -7,9 +7,27 @@ $meta_keywords = "india result 2022 bihar board, check bseb result 2022 online, 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 2022 Bihar Board - Historical BSEB Result archive</div>
-    <h2 class='sr-title'>India Result 2022 Bihar Board: Your Comprehensive Navigator to Bihar School Examination Board (BSEB), Patna, Matric (Class 10), Intermediate (Class 12), and Bihar State Board Result Gateways (Government of Bihar, Education Department, and National Informatics Centre (NIC) Bihar State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 2022 Bihar Board - Historical BSEB Result archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 2022 Bihar Board - Historical BSEB Result archive"; 
+$meta_description = "Check India Result 2022 Bihar Board online. Access the historical BSEB Matric (10th) and Inter (12th) results for the 2022 session. Official 2022 merit lists."; 
+$meta_keywords = "india result 2022 bihar board, check bseb result 2022 online, bihar board 10th result 2022, bseb inter result 2022, biharboardonline results 2022, indiaresult bihar mirror"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 2022 Bihar Board - Historical BSEB Result archive";
+$meta_description = "Check India Result 2022 Bihar Board online. Access the historical BSEB Matric (10th) and Inter (12th) results for the 2022 session. Official 2022 merit lists.";
+$meta_keywords = "india result 2022 bihar board, check bseb result 2022 online, bihar board 10th result 2022, bseb inter result 2022, biharboardonline results 2022, indiaresult bihar mirror";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 2022 bihar board, check bseb result 2022 online, 
                 <a href="https://biharboardonline.bihar.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSEB Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 2022 Bihar Board Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your Bihar board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 2022 bihar board, check bseb result 2022 online, 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 2022 Bihar Board, please visit the BSEB headquarters in Patna or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 2022 Bihar Board Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 2022 bihar board, check bseb result 2022 online, 
         <br>
         <strong>3. Is the result from India Result 2022 Bihar Board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result 2022 Bihar Board" portal) are digitized and available in the DigiLocker archive for official verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

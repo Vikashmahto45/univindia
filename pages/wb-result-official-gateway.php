@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "wb result - Official West Bengal Academic Hub"; 
 $meta_description = "Check wb result for Madhyamik and Higher Secondary exams. Access the official West Bengal Board of Secondary Education (WBBSE) and Council (WBCHSE) result gateways on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; wb result - Official West Bengal Academic Hub</div>
+    <h2 class='sr-title'>wb result - Official West Bengal Academic Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "wb result - Official West Bengal Academic Hub"; 
+$meta_description = "Check wb result for Madhyamik and Higher Secondary exams. Access the official West Bengal Board of Secondary Education (WBBSE) and Council (WBCHSE) result gateways on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for West Bengal Class
                 10th (Madhyamik) and Class 12th (Higher Secondary). Official WBBSE and WBCHSE mirrors updated for the
                 current academic batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check WB Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway for West Bengal Class 12th (HS) results, marksheet PDF, and registration status
                         via WBCHSE mirrors.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                     verified digital result from the <strong>wb result</strong> hub is essential for students to
                     complete their academic verification and proof of educational achievement during school-level
                     transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,27 +110,29 @@ $meta_keywords = "";
                         <p>Dates vary per council. The <strong>wb result</strong> portal on
                             <strong>indiaresults</strong> provides real-time notifications and direct links as soon as
                             official data is released by WBBSE/WBCHSE.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check WB results without registration number?</button>
                     <div class="faq-answer">
                         <p>Some results on the <strong>wb result</strong> portal require a Roll Number or Registration
                             Number. However, the "Search by Name" alternative is often available on the
                             <strong>indiaresults</strong> mirrors.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital WB marksheet official for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>wb result</strong> gateway is a valid
                             provisional document accepted for initial university registration and verification across
                             India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

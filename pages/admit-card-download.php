@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal</div>
-    <h2 class='sr-title'>Admit Card Download 2025: All Govt & University Hall Tickets</h2>
+    <h2 class='sr-title'>Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal";
+$page_description = "Universal Portal for Admit Card Download 2025. Get direct links for Railway, SSC, Banking, and University Exam Hall Tickets. 800+ words of technical guide.";
+$page_keywords = "admit card download 2025, Govt Exam Hall Ticket Link, Download Call Letter Online, sarkari result admit card download, center city intimation slip 2025";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -98,14 +117,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow-sm border-info">
                             <h5 class="text-info"><i class="fas fa-clock me-2"></i> Reporting Time</h5>
                             <p class="small text-light-gray mb-0">Never reach at the start time of the exam. The 'Gate Closing Time' is usually 30-60 minutes before the paper begins.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow-sm border-info">
                             <h5 class="text-info"><i class="fas fa-id-badge me-2"></i> Document List</h5>
                             <p class="small text-light-gray mb-0">The hall ticket will specify if you need a specific type of photo ID or a colored printout of the card itself.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Admit Card FAQ: Students' Corner</h2>
@@ -119,8 +136,7 @@ $meta_keywords = "";
                         <div id="dwQ1" class="accordion-collapse collapse" data-bs-parent="#downloadFaq">
                             <div class="accordion-body text-light-gray">
                                 No. 99% of Indian board exams require a physical, hard-copy printout of the admit card. Digital copies are only used for verification at the outer gate in rare cases.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -131,10 +147,8 @@ $meta_keywords = "";
                         <div id="dwQ2" class="accordion-collapse collapse" data-bs-parent="#downloadFaq">
                             <div class="accordion-body text-light-gray">
                                 You must contact the examination controller's helpline immediately. Usually, you are required to bring two physical photos and an undertaking to the center.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Specific Admit Card Guides</h5>
@@ -142,14 +156,14 @@ $meta_keywords = "";
                         <a href="ssc-gd-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">SSC GD Admit Card</a>
                         <a href="rrb-ntpc-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">RRB NTPC Hall Ticket</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> University Download Portals</h3>
                 <div class="row g-3">
+                    <?php
                     $univs = [
                         'mjpru-admit-card.php' => 'MJPRU Bareilly Admit Card',
                         'davv-admit-card.php' => 'DAVV Indore Hall Ticket',
@@ -163,11 +177,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -195,6 +208,12 @@ $meta_keywords = "";
     transform: translateY(-5px) scale(1.05);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

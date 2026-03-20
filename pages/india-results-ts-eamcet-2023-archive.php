@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india results ts eamcet 2023 - Official Telangana Entrance Archive Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india results ts eamcet 2023 - Official Telangana Entrance Archive Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india results ts eamcet 2023 - Official Telangana Entrance Archive Portal"; 
+$meta_description = "Check india results ts eamcet 2023 for Engineering, Agriculture, and Medical streams. Access the official 2023 TS EAMCET result archive on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify TS EAMCET 2023 results by student name alternative.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +92,7 @@ $meta_keywords = "";
                     <strong>india results ts eamcet 2023</strong> hub is essential for students to complete their
                     certificate verification and proof of state rank during the web-counseling registration processes.
                 </p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,27 +105,26 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>india results ts eamcet 2023</strong> are permanently archived
                             on verified platforms like <strong>indiaresults.com</strong> for national archival access.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check TS EAMCET 2023 result by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india results ts eamcet 2023</strong> portal includes a dedicated
                             "Search by Name" feature for major participating streams in the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 rank card valid for counseling?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>india results ts eamcet 2023</strong> archive is a
                             valid provisional document accepted for initial certificate verification and registration
                             for seat allotment nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

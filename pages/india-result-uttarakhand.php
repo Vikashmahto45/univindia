@@ -7,9 +7,27 @@ $meta_keywords = "india result uttarakhand, check uk board 10th result online, u
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Uttarakhand - Official UK Board result Portal</div>
-    <h2 class='sr-title'>India Result Uttarakhand: Your Comprehensive Navigator to Uttarakhand Board of School Education (UBSE), Ramnagar (Nainital), Secondary School (Class 10), Higher Secondary (Class 12), Science, Commerce, Arts Streams, and Uttarakhand State Board Result Gateways (Government of Uttarakhand, Education Department, and National Informatics Centre (NIC) Uttarakhand State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result Uttarakhand - Official UK Board result Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result Uttarakhand - Official UK Board result Portal"; 
+$meta_description = "Check India Result Uttarakhand online. Access the high-speed Uttarakhand Board (UBSE) 10th and 12th results. Official marks link cluster."; 
+$meta_keywords = "india result uttarakhand, check uk board 10th result online, ubse results 2024, official uttarakhand result link, indiaresult uk board 12th"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result Uttarakhand - Official UK Board result Portal";
+$meta_description = "Check India Result Uttarakhand online. Access the high-speed Uttarakhand Board (UBSE) 10th and 12th results. Official marks link cluster.";
+$meta_keywords = "india result uttarakhand, check uk board 10th result online, ubse results 2024, official uttarakhand result link, indiaresult uk board 12th";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result uttarakhand, check uk board 10th result online, u
                 <a href="https://uaresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official UK Result HUB" target="_blank">Visit Results Portal</a>
                 <a href="https://uttarakhand.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults UK Portal" target="_blank">Access UK Mirrors</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result Uttarakhand Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result uttarakhand, check uk board 10th result online, u
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result Uttarakhand data, please visit the UBSE headquarters in Ramnagar or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Uttarakhand Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result uttarakhand, check uk board 10th result online, u
         <br>
         <strong>3. Is the result from India Result Uttarakhand valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result Uttarakhand" portal) are recorded in the state scholarship database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

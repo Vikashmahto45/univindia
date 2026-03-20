@@ -1,15 +1,34 @@
 <?php 
 include '../header.php'; 
-$page_title = "Employees\\\\\\\' Provident Fund Organisation Admit Card Download - EPFO Hall Ticket | Univindia.online"; 
-$meta_description = "Download Employees\\\\\\\' Provident Fund Organisation (EPFO) Admit Card. Get the direct link for EPFO SSA, PA, and AO/EO examination hall tickets at epfo.gov.in."; 
+$page_title = "Employees\\\' Provident Fund Organisation Admit Card Download - EPFO Hall Ticket | Univindia.online"; 
+$meta_description = "Download Employees\\\' Provident Fund Organisation (EPFO) Admit Card. Get the direct link for EPFO SSA, PA, and AO/EO examination hall tickets at epfo.gov.in."; 
 $meta_keywords = "employees provident fund organisation admit card, epfo ssa admit card download, epfo.gov.in admit card login, epfo ao eo exam date 2024 download, provident fund call letter"; 
 ?>
 
 <div class='sr-page-wrapper'>
-    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Employees\\\' Provident Fund Organisation Admit Card Download - EPFO Hall Ticket | Univindia.online</div>
-    <h2 class='sr-title'>Employees\\\' Provident Fund Organisation Admit Card Download - EPFO Hall Ticket | Univindia.online</h2>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Employees\' Provident Fund Organisation Admit Card Download - EPFO Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>Employees\' Provident Fund Organisation Admit Card Download - EPFO Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "Employees\' Provident Fund Organisation Admit Card Download - EPFO Hall Ticket | Univindia.online"; 
+$meta_description = "Download Employees\' Provident Fund Organisation (EPFO) Admit Card. Get the direct link for EPFO SSA, PA, and AO/EO examination hall tickets at epfo.gov.in."; 
+$meta_keywords = "employees provident fund organisation admit card, epfo ssa admit card download, epfo.gov.in admit card login, epfo ao eo exam date 2024 download, provident fund call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Employees' Provident Fund Organisation Admit Card Download - EPFO Hall Ticket | Univindia.online";
+$meta_description = "Download Employees' Provident Fund Organisation (EPFO) Admit Card. Get the direct link for EPFO SSA, PA, and AO/EO examination hall tickets at epfo.gov.in.";
+$meta_keywords = "employees provident fund organisation admit card, epfo ssa admit card download, epfo.gov.in admit card login, epfo ao eo exam date 2024 download, provident fund call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">EPFO Admit Card: Download Employees' Provident Fund Organisation Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "employees provident fund organisation admit card, epfo ssa adm
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Govt Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

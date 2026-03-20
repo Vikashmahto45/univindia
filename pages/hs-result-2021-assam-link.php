@@ -7,9 +7,27 @@ $meta_keywords = "hs result 2021 assam, check ahsec class 12 result 2021 online,
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hs result 2021 assam - Official AHSEC Mirror</div>
-    <h2 class='sr-title'>hs result 2021 assam: Your Comprehensive Navigator to Assam Higher Secondary Education Council (AHSEC), Guwahati, Higher Secondary Public Examinations (Class 12), and Assam State Board Result Gateways (Government of Assam, Education Department, and National Informatics Centre (NIC) Assam State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>hs result 2021 assam - Official AHSEC Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "hs result 2021 assam - Official AHSEC Mirror"; 
+$meta_description = "Check hs result 2021 assam online. Access the historical results for Assam Higher Secondary Education Council (AHSEC) Class 12 for the 2021 session."; 
+$meta_keywords = "hs result 2021 assam, check ahsec class 12 result 2021 online, official assam hs link, ahsec assam gov in search 2021"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "hs result 2021 assam - Official AHSEC Mirror";
+$meta_description = "Check hs result 2021 assam online. Access the historical results for Assam Higher Secondary Education Council (AHSEC) Class 12 for the 2021 session.";
+$meta_keywords = "hs result 2021 assam, check ahsec class 12 result 2021 online, official assam hs link, ahsec assam gov in search 2021";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "hs result 2021 assam, check ahsec class 12 result 2021 online,
                 <a href="https://ahsec.assam.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="AHSEC Official Portal" target="_blank">Visit AHSEC Official</a>
                 <a href="https://assam.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Assam Mirror" target="_blank">Access Assam Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official hs result 2021 assam Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2021 records of your council, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "hs result 2021 assam, check ahsec class 12 result 2021 online,
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to hs result 2021 assam data, please visit the AHSEC headquarters in Guwahati or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Assam HS 2021 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "hs result 2021 assam, check ahsec class 12 result 2021 online,
         <br>
         <strong>3. Is the result from AHSEC Council valid for scholarships?</strong>
         <p>Yes, your council results (verified via the official "hs result 2021 assam" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

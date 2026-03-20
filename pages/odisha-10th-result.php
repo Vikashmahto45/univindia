@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Odisha 10th Result - Official BSE Odisha Matric Result Portal"; 
 $meta_description = "Check Odisha 10th Result online. Access the Board of Secondary Education (BSE) Odisha Matriculation results, marksheets, and merit list for the current session."; 
 $meta_keywords = "odisha 10th result, bse odisha matric result, check 10th result odisha, odisha board result 2024, matric result secondary education odisha, official bse odisha portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Odisha 10th Result - Official BSE Odisha Matric Result Portal</div>
+    <h2 class='sr-title'>Odisha 10th Result - Official BSE Odisha Matric Result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Odisha 10th Result - Official BSE Odisha Matric Result Portal"; 
+$meta_description = "Check Odisha 10th Result online. Access the Board of Secondary Education (BSE) Odisha Matriculation results, marksheets, and merit list for the current session."; 
+$meta_keywords = "odisha 10th result, bse odisha matric result, check 10th result odisha, odisha board result 2024, matric result secondary education odisha, official bse odisha portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Odisha 10th Result - Official BSE Odisha Matric Result Portal";
+$meta_description = "Check Odisha 10th Result online. Access the Board of Secondary Education (BSE) Odisha Matriculation results, marksheets, and merit list for the current session.";
+$meta_keywords = "odisha 10th result, bse odisha matric result, check 10th result odisha, odisha board result 2024, matric result secondary education odisha, official bse odisha portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Odisha 10th Result: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha Madhyamik (Class 10), High School Certificate (HSC) Examination, and Vocational Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h1>
+        
         
         <p>The "Odisha 10th Result" (applicable to the annual High School Certificate board examinations conducted for the current academic session by the Board of Secondary Education, Odisha) represents the single most significant digital milestone for over 5.5 lakh students residing in the educationally focused landscape of Odisha. As the primary official gateway to the state's secondary education infrastructure (Bhubaneswar, BSE Odisha HQ), and the traditional school education infrastructure of the nation, the "Odisha 10th Result" serves as the formal master directory that allows candidates to access their theory scores, practical assessment marks, and final school certificate allotment via dedicated government server endpoints. For the current academic cycle, where high-quality digital governance and integrated script analytics are statewide priorities, the "Odisha 10th Result" search is the digital gateway through which candidates verify their professional transition from secondary to senior secondary education with maximum transparency and integrity. The Odisha education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Odisha 10th Result," ensuring that every aspiring student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -46,10 +68,9 @@ $meta_keywords = "odisha 10th result, bse odisha matric result, check 10th resul
                 <a href="https://results.gov.in" class="btn" title="National Hub" target="_blank">Results.nic.in Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Marksheet</a>
                 <a href="https://odisha.gov.in" class="btn" title="State Status" target="_blank">Odisha Government Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Odisha 10th Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "odisha 10th result, bse odisha matric result, check 10th resul
         <br>
         <strong>3. Is the digital copy from Odisha 10th Result valid for Jobs?</strong>
         <p>Yes, your secondary results (verified via the official "Odisha 10th Result" portal or DigiLocker) are the accepted records for minimum age and education qualification for state-level roles.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

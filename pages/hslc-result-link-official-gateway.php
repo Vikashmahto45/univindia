@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hslc result link - Official High School Result Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>hslc result link - Official High School Result Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "hslc result link - Official High School Result Hub"; 
+$meta_description = "Check all state HSLC results on hslc result link. Access official indiaresults gateway for High School Leaving Certificate 10th scores and rank lists."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open HSLC Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify high school results (HSLC) using student identity markers for various state boards and
                         examination batches across Northeast and other regions.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -88,8 +95,7 @@ $meta_keywords = "";
                     verified digital result from the <strong>hslc result link</strong> hub is essential for students to
                     complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,15 +109,13 @@ $meta_keywords = "";
                         <p>Most state boards using the HSLC terminology (like SEBA Assam) are indexed on
                             <strong>indiaresults</strong> and accessible through the <strong>hslc result link</strong>
                             gateway.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check HSLC results by name only on android devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>hslc result link</strong> portal includes a dedicated name-wise
                             search for student examinees across many participating state boards.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet retrieved here valid for HS
                         admission?</button>
@@ -119,12 +123,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>hslc result link</strong> gateway is a valid
                             provisional document accepted for initial institutional registration and verification across
                             India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

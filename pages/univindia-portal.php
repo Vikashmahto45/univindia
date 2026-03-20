@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Portal - Official University Service Hub Registration"; 
 $meta_description = "The Univindia Portal is the centralized gateway for MGSU, RRBMU, and MSBU exams and results. Complete guide to accessing the student panel online."; 
 $meta_keywords = "Univindia Portal - Official University Service Hub Registration"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Portal - Official University Service Hub Registration</div>
+    <h2 class='sr-title'>Univindia Portal - Official University Service Hub Registration</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Portal - Official University Service Hub Registration"; 
+$meta_description = "The Univindia Portal is the centralized gateway for MGSU, RRBMU, and MSBU exams and results. Complete guide to accessing the student panel online."; 
+$meta_keywords = "Univindia Portal - Official University Service Hub Registration"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Portal - Official University Service Hub Registration";
+$meta_description = "The Univindia Portal is the centralized gateway for MGSU, RRBMU, and MSBU exams and results. Complete guide to accessing the student panel online.";
+$meta_keywords = "Univindia Portal - Official University Service Hub Registration";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Portal: Your Essential Gateway to University Services in Rajasthan</h1>
+        
         
         <p>The term "Univindia Portal" represents the central technical nervous system for thousands of students enrolled in several major universities across Rajasthan. As higher education moves further into the digital age, having a centralized, reliable hub for all administrative and examination-related tasks is not just a convenience, but an absolute necessity. The Univindia network—specifically serving Maharaja Ganga Singh University (MGSU), Raj Rishi Bhartrihari Matsya University (RRBMU), and Maharaja Surajmal Brij University (MSBU)—is the official destination for every student's academic journey. In this comprehensive guide, we will explore why the Univindia Portal is so vital for your success and how you can master its many features to ensure a smooth university experience.</p>
 
@@ -52,6 +74,15 @@ $meta_keywords = "Univindia Portal - Official University Service Hub Registratio
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

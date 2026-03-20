@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "matric result 2022 odisha date - Official BSE Odisha 10th Hub"; 
 $meta_description = "Check Odisha Board 10th result 2022 and announcement dates on matric result 2022 odisha date. Access official BSE Odisha Secondary 2022 archival scorecards."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; matric result 2022 odisha date - Official BSE Odisha 10th Hub</div>
+    <h2 class='sr-title'>matric result 2022 odisha date - Official BSE Odisha 10th Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "matric result 2022 odisha date - Official BSE Odisha 10th Hub"; 
+$meta_description = "Check Odisha Board 10th result 2022 and announcement dates on matric result 2022 odisha date. Access official BSE Odisha Secondary 2022 archival scorecards."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results and crucial
                 announcement schedule for Board of Secondary Education (BSE), Odisha Class 10th (Secondary/Matric)
                 examination. Official Odisha board mirrors and 2022 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Matric Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Odisha Board (bseodisha.ac.in) 10th results 2022 by student name alternative criteria for
                         the 2022 academic batch.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +100,7 @@ $meta_keywords = "";
                     practical marks for all students. Having a verified digital result from the <strong>matric result
                         2022 odisha date</strong> archive hub is essential for students to complete their academic
                     verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -103,27 +113,29 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>matric result 2022 odisha date</strong> are permanently
                             archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 Odisha 10th results by name only on mobile
                         devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>matric result 2022 odisha date</strong> portal includes a dedicated
                             name-wise search for student examinees in Odisha for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 Odisha marksheet valid for 11th admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>matric result 2022 odisha date</strong>
                             gateway is a valid provisional document accepted for initial secondary school registration
                             across Odisha.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

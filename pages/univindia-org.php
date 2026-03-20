@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Org - Raj Rishi Bhartrihari Matsya University Result Portal"; 
 $meta_description = "Univindia Org is the primary portal for RRBMU Alwar (Matsya University) results and admit cards. Guide to using Univindia.org for Alwar university students."; 
 $meta_keywords = "univindia org"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Org - Raj Rishi Bhartrihari Matsya University Result Portal</div>
+    <h2 class='sr-title'>Univindia Org - Raj Rishi Bhartrihari Matsya University Result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Org - Raj Rishi Bhartrihari Matsya University Result Portal"; 
+$meta_description = "Univindia Org is the primary portal for RRBMU Alwar (Matsya University) results and admit cards. Guide to using Univindia.org for Alwar university students."; 
+$meta_keywords = "univindia org"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Org - Raj Rishi Bhartrihari Matsya University Result Portal";
+$meta_description = "Univindia Org is the primary portal for RRBMU Alwar (Matsya University) results and admit cards. Guide to using Univindia.org for Alwar university students.";
+$meta_keywords = "univindia org";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Org: The Essential Portal for Matsya University Alwar Students</h1>
+        
         
         <p>Univindia Org is a critical digital destination for students affiliated with the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar. Often referred to simply as Matsya University, RRBMU manages a vast number of colleges in the Alwar region of Rajasthan. To ensure smooth examination and administrative operations, the university utilizes the Univindia.org portal as its primary interface for student-related services. In this detailed guide, we will explore the various features found on Univindia Org, explain how to navigate its sections for results and admit cards, and provide tips for troubleshooting common portal issues.</p>
 
@@ -46,6 +68,15 @@ $meta_keywords = "univindia org";
 
         <p><i>Note: Univindia.online is an independent educational blog and is not affiliated with the official Univindia.org or RRBMU Alwar. For official notifications, please visit the authorized university sites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

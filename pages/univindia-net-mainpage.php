@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard"; 
 $meta_description = "Access the Univindia Net MainPage for Maharaja Ganga Singh University. Official guide to navigating exams, results, and student services via the main portal."; 
 $meta_keywords = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard</div>
+    <h2 class='sr-title'>Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard"; 
+$meta_description = "Access the Univindia Net MainPage for Maharaja Ganga Singh University. Official guide to navigating exams, results, and student services via the main portal."; 
+$meta_keywords = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard";
+$meta_description = "Access the Univindia Net MainPage for Maharaja Ganga Singh University. Official guide to navigating exams, results, and student services via the main portal.";
+$meta_keywords = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MainPage: Navigating the MGSU Bikaner Student Dashboard</h1>
+        
         
         <p>The term "Univindia Net MainPage" refers to the definitive landing zone for the comprehensive examination and academic service network of Maharaja Ganga Singh University (MGSU), Bikaner. For hundreds of thousands of undergraduate and postgraduate students in Northern Rajasthan, this specific digital hub (typically hosted at `mainpage.php` on the `univindia.net` network) is the starting point for every administrative interaction. Whether you are a first-year student filling out an enrollment form or a final-year scholar awaiting your degree results, the Univindia Net MainPage is the organized, high-performance interface that orchestrates all student services. In this comprehensive guide, we will provide a detailed walkthrough of the MainPage's structure, explain how to navigate its various panels efficiently, and offer expert advice on troubleshooting common access issues encountered during high-traffic result and examination seasons.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "Univindia Net MainPage - MGSU Bikaner Student Portal Dashboard
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,10 +7,27 @@ $meta_keywords = "india result info.com, india result info, check result info, o
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result info.com - Official Result Information Portal</div>
-    <h2 class='sr-title'>india result info.com: Your Definitive Navigator to National Result Directories, Official Educational Portal
-            Mirrors, and Professional Informatics Centre (NIC) Result Gateways Across India</h2>
+    <h2 class='sr-title'>india result info.com - Official Result Information Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result info.com - Official Result Information Portal"; 
+$meta_description = "Access india result info.com for news and updates on board and university results across India. Your trusted source for official result links and data."; 
+$meta_keywords = "india result info.com, india result info, check result info, official board results, indiaresults updates, university results info"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result info.com - Official Result Information Portal";
+$meta_description = "Access india result info.com for news and updates on board and university results across India. Your trusted source for official result links and data.";
+$meta_keywords = "india result info.com, india result info, check result info, official board results, indiaresults updates, university results info";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -66,8 +83,7 @@ $meta_keywords = "india result info.com, india result info, check result info, o
                 <a href="https://education.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="Education Ministry" target="_blank">National Ministry HUB</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result info.com Online</h2>
         <p>To ensure a successful result search in the records, follow these technical steps:</p>
@@ -104,7 +120,7 @@ $meta_keywords = "india result info.com, india result info, check result info, o
                 database changes related to india result info.com data, please visit the respective Board headquarters
                 or your University/College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Info</h2>
@@ -120,8 +136,13 @@ $meta_keywords = "india result info.com, india result info, check result info, o
         <strong>3. Can I verify my old results using this info portal?</strong>
         <p>Yes, "india result info.com" provides access to historical result links for past academic years, allowing
             students to retrieve archival data if the board maintains it online.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

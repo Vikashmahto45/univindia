@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Rajresults.nic.in - Official Rajasthan Board Results Portal 2024"; 
 $meta_description = "Check Rajresults.nic.in for official RBSE 10th and 12th results. Access the primary results gateway for Rajasthan Board examinations with direct links and updates."; 
 $meta_keywords = "rajresults nic in, rajresults 2024, rajasthan board result 2024, rbse 10th result rajresults, rbse 12th result rajresults"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rajresults.nic.in - Official Rajasthan Board Results Portal 2024</div>
+    <h2 class='sr-title'>Rajresults.nic.in - Official Rajasthan Board Results Portal 2024</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Rajresults.nic.in - Official Rajasthan Board Results Portal 2024"; 
+$meta_description = "Check Rajresults.nic.in for official RBSE 10th and 12th results. Access the primary results gateway for Rajasthan Board examinations with direct links and updates."; 
+$meta_keywords = "rajresults nic in, rajresults 2024, rajasthan board result 2024, rbse 10th result rajresults, rbse 12th result rajresults"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Rajresults.nic.in - Official Rajasthan Board Results Portal 2024";
+$meta_description = "Check Rajresults.nic.in for official RBSE 10th and 12th results. Access the primary results gateway for Rajasthan Board examinations with direct links and updates.";
+$meta_keywords = "rajresults nic in, rajresults 2024, rajasthan board result 2024, rbse 10th result rajresults, rbse 12th result rajresults";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Rajresults.nic.in: The Official Nexus of Rajasthan’s Academic Achievement</h1>
+        
         
         <p>In the vast desert state of Rajasthan, the web domain "Rajresults.nic.in" is synonymous with the culmination of years of school-level dedication. Serving as the primary and official gateway for the Board of Secondary Education, Rajasthan (BSER/RBSE), this portal is the definitive source of truth for millions of students. Whether you are appearing for the Class 10 (Secondary) finals or the Class 12 (Senior Secondary) examinations in Science, Commerce, or Arts, "Rajresults.nic.in" is the platform where your hard work is formally acknowledged and recorded. For the 2024 and 2025 academic cycles, "Rajresults.nic.in" has been optimized by the National Informatics Centre (NIC) to handle the immense load of Rajasthan's aspiring scholars. At Univindia.online, we recognize the paramount importance of this official source. We are dedicated to providing you with a technical, SEO-friendly guide that ensures you can navigate the "Rajresults.nic.in" infrastructure with absolute efficiency, securing your scores the second they go live.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "rajresults nic in, rajresults 2024, rajasthan board result 202
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" title="RBSE Ajmer Official Board Site" target="_blank">RBSE Ajmer Main</a>
                 <a href="http://rajresults.nic.in/res_10th_bser2024.htm" class="btn" title="Direct 10th Result Link" target="_blank">10th Result 2024</a>
                 <a href="http://rajresults.nic.in/res_12th_bser2024.htm" class="btn" title="Direct 12th Result Link" target="_blank">12th Result 2024</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Rajresults.nic.in</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "rajresults nic in, rajresults 2024, rajasthan board result 202
         <br>
         <strong>3. Does Rajresults.nic.in provide the 'Toppers List' of Rajasthan Board?</strong>
         <p>While the "Rajresults.nic.in" portal primarily shows individual scores, the merit list and statistical analysis are usually released as a PDF on the main `rajeduboard.rajasthan.gov.in` website simultaneously.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

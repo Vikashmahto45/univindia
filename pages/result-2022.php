@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Result 2022 - National and State Board Results Archive"; 
 $meta_description = "Access Result 2022 for all major state and central boards. Retrieve the official 2022 academic scores, merit lists, and marksheet summaries from the national archives."; 
 $meta_keywords = "result 2022, 10th result 2022, 12th result 2022, board result 2022 archive, university result 2022, result 2022 index"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Result 2022 - National and State Board Results Archive</div>
+    <h2 class='sr-title'>Result 2022 - National and State Board Results Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Result 2022 - National and State Board Results Archive"; 
+$meta_description = "Access Result 2022 for all major state and central boards. Retrieve the official 2022 academic scores, merit lists, and marksheet summaries from the national archives."; 
+$meta_keywords = "result 2022, 10th result 2022, 12th result 2022, board result 2022 archive, university result 2022, result 2022 index"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Result 2022 - National and State Board Results Archive";
+$meta_description = "Access Result 2022 for all major state and central boards. Retrieve the official 2022 academic scores, merit lists, and marksheet summaries from the national archives.";
+$meta_keywords = "result 2022, 10th result 2022, 12th result 2022, board result 2022 archive, university result 2022, result 2022 index";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Result 2022: Reclaiming the Academic Successes of a Landmark Year</h1>
+        
         
         <p>The academic term "Result 2022" represents a pivotal moment in the history of Indian education. As the first full academic cycle to witness a comprehensive return to physical classrooms and traditional examination formats following the global academic transitions of the previous years, the 2022 results carry immense significance. Whether it was the secondary (Class 10), higher secondary (Class 12), or university-level assessments, "Result 2022" served as the primary benchmark for assessing student resilience and intellectual growth. From the massive state boards like UPMSP and RBSE to the central councils like CBSE and CISCE, the 2022 results were the digital keys that unlocked professional pathways for millions of aspiring scholars. At Univindia.online, we recognize the enduring value of these archival scores. We are dedicated to providing you with a high-quality, SEO-optimized manual that simplifies your search for the "Result 2022" records, ensuring that every student across India can retrieve their official success stories from the digital legacy boards with ease and accuracy.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "result 2022, 10th result 2022, 12th result 2022, board result 
                 <a href="https://cbseresults.nic.in" class="btn" title="CBSE School Results 2022" target="_blank">CBSE Result 2022</a>
                 <a href="https://www.indiaresults.com" class="btn" title="National Results Mirror Portal" target="_blank">IndiaResults National</a>
                 <a href="https://digilocker.gov.in" class="btn" title="Download Verified 2022 Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Result 2022</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "result 2022, 10th result 2022, 12th result 2022, board result 
         <br>
         <strong>3. Is the Result 2022 online marksheet still valid for current postgraduate admissions?</strong>
         <p>Yes, the computer-generated "Result 2022" scorecard serves as provisional proof of your graduation or board completion. However, for all final legal purposes and job enrollment, you must provide the original physical board certificate.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

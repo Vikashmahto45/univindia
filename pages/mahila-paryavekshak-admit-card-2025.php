@@ -1,11 +1,26 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket"; 
 $meta_description = "Download Mahila Paryavekshak (Female Supervisor) Admit Card 2025. Get direct link for integrated recruitment hall ticket. Check exam dates and lady supervisor exam instructions."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket</div>
+    <h2 class='sr-title'>Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket"; 
+$meta_description = "Download Mahila Paryavekshak (Female Supervisor) Admit Card 2025. Get direct link for integrated recruitment hall ticket. Check exam dates and lady supervisor exam instructions."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +32,7 @@ $meta_keywords = "";
 
             <div class="card shadow rounded-4 border-0 mb-4 overflow-hidden">
                 <div class="bg-purple p-4 text-white">
-                    <h1 class="h3 fw-bold mb-0">Mahila Paryavekshak Admit Card 2025</h1>
+                    
                 </div>
                 <div class="card-body p-4">
                     <p class="lead text-dark">The recruitment of Mahila Paryavekshak (Lady Supervisors) for various state welfare departments is one of the most awaited competitive examinations for female candidates in 2025. The Mahila Paryavekshak Admit Card serves as the essential hall ticket for candidates appearing in the written examination across different districts.</p>
@@ -39,26 +54,22 @@ $meta_keywords = "";
                             <div class="h-100 p-3 bg-light border-bottom border-purple border-4 rounded shadow-sm text-center">
                                 <h6 class="fw-bold">Step 1</h6>
                                 <p class="small mb-0">Visit the official recruitment portal of your state (e.g., JSSC, RSMSSB, etc.).</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6 col-lg-3">
                             <div class="h-100 p-3 bg-light border-bottom border-purple border-4 rounded shadow-sm text-center">
                                 <h6 class="fw-bold">Step 2</h6>
                                 <p class="small mb-0">Locate the <strong>'Admit Card'</strong> or <strong>'Call Letter'</strong> tab on the dashboard.</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6 col-lg-3">
                             <div class="h-100 p-3 bg-light border-bottom border-purple border-4 rounded shadow-sm text-center">
                                 <h6 class="fw-bold">Step 3</h6>
                                 <p class="small mb-0">Click on <strong>'Mahila Paryavekshak Recruitment 2025 Admit Card'</strong>.</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6 col-lg-3">
                             <div class="h-100 p-3 bg-light border-bottom border-purple border-4 rounded shadow-sm text-center">
                                 <h6 class="fw-bold">Step 4</h6>
                                 <p class="small mb-0">Enter your <strong>Application Number</strong> and <strong>Date of Birth</strong>.</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark border-bottom pb-2">Information Found on the Call Letter</h2>
@@ -130,14 +141,11 @@ $meta_keywords = "";
                         <div class="border-top pt-2">
                             <h6 class="fw-bold">3. What if I forgot my application number?</h6>
                             <p class="small">You can recover it using the <strong>'Forgot Registration Number'</strong> link on the portal by entering your mobile and DOB.</p>
-                        </div>
-                    </div>
+                        
 
                     <p class="mt-5 text-center text-muted small fst-italic"><strong>Notice:</strong> This is a public news blog. For official state-wise recruitment portals, please refer to government websites.</p>
-                </div>
-            </div>
-        </div>
-    </div>
+                
+        
 </div>
 
 <style>
@@ -147,5 +155,12 @@ $meta_keywords = "";
 .alert-purple-light { background-color: #f3efff; color: #6f42c1; }
 .underline-purple { border-bottom: 3px solid #6f42c1; display: inline-block; padding-bottom: 2px; }
 </style>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

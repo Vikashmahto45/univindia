@@ -1,17 +1,31 @@
 <?php 
-include '../includes/header.php'; 
-$page_title = ""; 
+include '../header.php'; 
+$page_title = "Tnsslcexamresults Nic In 2022 Portal"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div class="content-wrapper">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Tnsslcexamresults Nic In 2022 Portal</div>
+    <h2 class='sr-title'>Tnsslcexamresults Nic In 2022 Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Tnsslcexamresults Nic In 2022 Portal"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="content-wrapper">
     <div class="container">
         <div class="row">
             <div class="col-md-12" style="background-color: #f5f5f5; padding-top: 20px;">
-                <h1 class="page-head-line" style="border-bottom: 2px solid #5cb85c;">tnsslcexamresults-nic-in-2022 Portal</h1>
-            </div>
-        </div>
+                
+            
         <div class="row">
             <div class="col-md-12">
                 <div class="alert alert-success" style="margin-top: 20px;">
@@ -31,8 +45,7 @@ $meta_keywords = "";
                             <li><strong>Result Year:</strong> 2022</li>
                             <li><strong>Required Details:</strong> Registration Number and Date of Birth</li>
                         </ul>
-                    </div>
-                </div>
+                    
                 <h3>How to use the TN Results Portal:</h3>
                 <ol>
                     <li>Visit the official URL mentioned in your notifications.</li>
@@ -44,9 +57,14 @@ $meta_keywords = "";
                 <p>
                     This portal also hosts results for HSE (+1 and +2) exams. For any technical difficulties, students can refer to the official helpdesk or contact their District Education Offices.
                 </p>
-            </div>
-        </div>
+            
+    
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

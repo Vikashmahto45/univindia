@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; chse.nic.in 2022 result - Official Odisha +2 Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>chse.nic.in 2022 result - Official Odisha +2 Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "chse.nic.in 2022 result - Official Odisha +2 Hub"; 
+$meta_description = "Check Odisha Board +2 result 2022 on chse.nic.in 2022 result. Access official CHSE Odisha Plus Two 2022 archival scorecards on indiaresults portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 +2 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>Odisha +2 Directory 2022</h3>
                     <p>Verify Odisha Board (chseodisha.nic.in) +2 results 2022 by student roll number or name alternative criteria for the 2022 academic batch.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2022 Odisha (CHSE) Board Gateways</h3>
                 <p>The <strong>chse.nic.in 2022 result</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in Odisha. The system provides a detailed subject-wise breakdown for the 2022 batch of student examinees across all streams. Having a verified digital result from the <strong>chse.nic.in 2022 result</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2022 Odisha +2 result links still active for all schools?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>chse.nic.in 2022 result</strong> are permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 Odisha +2 results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>chse.nic.in 2022 result</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in Odisha for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 CHSE Odisha marksheet valid for graduation?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>chse.nic.in 2022 result</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

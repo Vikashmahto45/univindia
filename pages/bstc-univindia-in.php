@@ -7,9 +7,27 @@ $meta_keywords = "bstc.univindia.in";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSTC Univindia - Rajasthan Pre-DElEd Exam Portal Guide</div>
-    <h2 class='sr-title'>BSTC Univindia: Your Essential Portal for Rajasthan Pre-DElEd Entrance Exam</h2>
+    <h2 class='sr-title'>BSTC Univindia - Rajasthan Pre-DElEd Exam Portal Guide</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "BSTC Univindia - Rajasthan Pre-DElEd Exam Portal Guide"; 
+$meta_description = "BSTC Univindia is the primary portal for Rajasthan Pre-DElEd (BSTC) exam forms, admit cards, and results. Complete walkthrough for BSTC aspirants."; 
+$meta_keywords = "bstc.univindia.in"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "BSTC Univindia - Rajasthan Pre-DElEd Exam Portal Guide";
+$meta_description = "BSTC Univindia is the primary portal for Rajasthan Pre-DElEd (BSTC) exam forms, admit cards, and results. Complete walkthrough for BSTC aspirants.";
+$meta_keywords = "bstc.univindia.in";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -56,7 +74,13 @@ $meta_keywords = "bstc.univindia.in";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For official notifications and authorized updates, always rely on the official state-authorized BSTC and Pre-DElEd websites.</i></p>
     </div>
-</main>
+
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

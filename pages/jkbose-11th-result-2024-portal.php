@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway"; 
 $meta_description = "Check jkbose 11th result 2024 for Class 11 exams. Access the official JKBOSE divisional result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway</div>
+    <h2 class='sr-title'>jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway"; 
+$meta_description = "Check jkbose 11th result 2024 for Class 11 exams. Access the official JKBOSE divisional result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest Class 11 academic results for Jammu & Kashmir.
                 Official JKBOSE mirrors and portal links updated for the 2024 session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check JK 11th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify JKBOSE 11th results by student name alternative.</p>
                     <a href="https://jammu-kashmir.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +89,7 @@ $meta_keywords = "";
                     including practical and internal marks. Having a verified digital result from the <strong>jkbose
                         11th result 2024</strong> hub is essential for students to complete their academic verification
                     and proof of performance during school-level transition and registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,26 +102,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>jkbose 11th result 2024</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates in both Jammu and Kashmir
                             divisions.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2024 results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for various
                             state boards including JKBOSE, ensuring all result data is mirrored directly from official
                             board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet valid for 12th registration?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved via this gateway is a valid provisional document accepted for
                             initial school registration and document verification in JK schools.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

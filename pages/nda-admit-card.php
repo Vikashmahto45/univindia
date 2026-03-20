@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online"; 
 $meta_description = "Download NDA Admit Card. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) examination hall tickets at upsc.gov.in."; 
 $meta_keywords = "nda admit card, upsc nda hall ticket download, nda exam date 2025 download, upsc.gov.in admit card login, nda 1 2025 admit card, naval academy call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online"; 
+$meta_description = "Download NDA Admit Card. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) examination hall tickets at upsc.gov.in."; 
+$meta_keywords = "nda admit card, upsc nda hall ticket download, nda exam date 2025 download, upsc.gov.in admit card login, nda 1 2025 admit card, naval academy call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online";
+$meta_description = "Download NDA Admit Card. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) examination hall tickets at upsc.gov.in.";
+$meta_keywords = "nda admit card, upsc nda hall ticket download, nda exam date 2025 download, upsc.gov.in admit card login, nda 1 2025 admit card, naval academy call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "nda admit card, upsc nda hall ticket download, nda exam date 2
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Defence Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

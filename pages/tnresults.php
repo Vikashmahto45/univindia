@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "tnresults - Official Tamil Nadu Board result Portal"; 
 $meta_description = "Check tnresults online. Access the high-speed TN SSLC (10th) and HSC (12th) results. Official Tamil Nadu marks link cluster."; 
 $meta_keywords = "tnresults, check tn sslc result online, tn hsc results 2024, official tamil nadu result link, dge tn gov in results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; tnresults - Official Tamil Nadu Board result Portal</div>
+    <h2 class='sr-title'>tnresults - Official Tamil Nadu Board result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "tnresults - Official Tamil Nadu Board result Portal"; 
+$meta_description = "Check tnresults online. Access the high-speed TN SSLC (10th) and HSC (12th) results. Official Tamil Nadu marks link cluster."; 
+$meta_keywords = "tnresults, check tn sslc result online, tn hsc results 2024, official tamil nadu result link, dge tn gov in results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "tnresults - Official Tamil Nadu Board result Portal";
+$meta_description = "Check tnresults online. Access the high-speed TN SSLC (10th) and HSC (12th) results. Official Tamil Nadu marks link cluster.";
+$meta_keywords = "tnresults, check tn sslc result online, tn hsc results 2024, official tamil nadu result link, dge tn gov in results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>tnresults: Your Comprehensive Navigator to Directorate of Government Examinations (DGE) Tamil Nadu, Chennai, Secondary School Leaving Certificate (SSLC) (Class 10), Higher Secondary Certificate (HSC) (Class 12), Science, Commerce, Arts Streams, and Tamil Nadu State Board Result Gateways (Government of Tamil Nadu, School Education Department, and National Informatics Centre (NIC) TN State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "tnresults" (representing the primary synchronized digital result-dissemination framework utilized by over 17 lakh students for the annual board exams conducted by the DGE Tamil Nadu) represents the single most significant digital milestone for students residing in the academic and industrial landscape of South India. As the primary official gateway to the state's educational infrastructure (Chennai, DGE HQ), and the traditional school education infrastructure of the nation, the "tnresults" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (SSLC and HSC) via dedicated government server endpoints and authorized mirror archives. For the current academic cycle, where high-speed technical evaluation and fastest result retrieval are state priorities, the "tnresults" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Tamil Nadu education councils have implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "tnresults," ensuring that every aspiring student and researcher in Tamil Nadu can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "tnresults, check tn sslc result online, tn hsc results 2024, o
                 <a href="https://dge.tn.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="DGE TN Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Result Home</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official tnresults Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "tnresults, check tn sslc result online, tn hsc results 2024, o
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to tnresults data, please visit the DGE headquarters in Chennai or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About tnresults Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "tnresults, check tn sslc result online, tn hsc results 2024, o
         <br>
         <strong>3. Is the result from tnresults valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "tnresults" portal) are recorded in the state scholarship database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

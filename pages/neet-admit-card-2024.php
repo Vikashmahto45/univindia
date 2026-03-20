@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in</div>
+    <h2 class='sr-title'>NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in";
+$page_description = "NEET Admit Card 2024 Release Date, Direct Download Link, and Exam Day Instructions. Get your NTA NEET UG Hall Ticket and check exam city intimation details here.";
+$page_keywords = "NEET Admit Card 2024, NEET UG Hall Ticket Download, NTA NEET 2024 Admit Card, NEET Exam Date 2024, neet.nta.nic.in admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">NEET Admit Card 2024: Hall Ticket Download Link & Exam Guidelines</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-exclamation-triangle me-2"></i> <strong>Important Notification:</strong> The National Testing Agency (NTA) will release the NEET UG 2024 Admit Card 3-4 days prior to the examination date. Stay tuned for the direct login link.
@@ -118,8 +141,7 @@ $meta_keywords = "";
                         <div id="neetFaq1" class="accordion-collapse collapse" data-bs-parent="#neetFaq">
                             <div class="accordion-body text-light-gray">
                                 No, a physical color printout of the admit card is mandatory. Mobiles are not allowed inside the exam center.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary text-light">
                         <h3 class="accordion-header">
@@ -130,8 +152,7 @@ $meta_keywords = "";
                         <div id="neetFaq2" class="accordion-collapse collapse" data-bs-parent="#neetFaq">
                             <div class="accordion-body text-light-gray">
                                 You should contact the NTA NEET helpline immediately at 011-40759000 or email neet@nta.ac.in for rectification.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary text-light">
                         <h3 class="accordion-header">
@@ -142,24 +163,22 @@ $meta_keywords = "";
                         <div id="neetFaq3" class="accordion-collapse collapse" data-bs-parent="#neetFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, candidates must paste a 4x6 inch Postcard size photograph in the proforma space on the admit card before reaching the exam venue.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-info rounded-4 bg-gradient-dark shadow-sm">
                     <h5 class="text-info fw-bold"><i class="fas fa-external-link-square-alt me-2"></i> Important Links</h5>
                     <div class="d-flex flex-wrap gap-3 mt-3">
                         <a href="rrb-ntpc-admit-card.php" class="btn btn-outline-light rounded-pill px-4">RRB NTPC Admit Card</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-4 shadow-sm">Visit Homepage</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-th-list me-2"></i> Explore More Admit Cards</h3>
                 <div class="row g-3">
+                    <?php
                     $related = [
                         'ssc-gd-admit-card.php' => 'SSC GD Admit Card',
                         'jee-main-admit-card.php' => 'JEE Main Admit Card',
@@ -173,11 +192,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -215,3 +233,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

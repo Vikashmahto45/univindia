@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india ke result - Official National Results Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>india ke result - Official National Results Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india ke result - Official National Results Hub"; 
+$meta_description = "Check all board results on india ke result. Access the official indiaresults portal for 10th & 12th scorecards across all Indian states and sessions."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open National Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>india ke result Directory</h3>
                     <p>Verify national results by student name or roll number alternative criteria for all participate academic batches through the indiaresults gateway.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the india ke result Gateways</h3>
                 <p>The <strong>india ke result</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification across India. The system provides a detailed subject-wise breakdown for each batch of student examinees across all faculties and boards. Having a verified digital result from the <strong>india ke result</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the result links on india ke result permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>india ke result</strong> are archived on verified platforms for lifelong academic verification access nationwide.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check board results by name on india ke result mobile portal?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india ke result</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for most state board student examinees.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet from india ke result valid for college?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>india ke result</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

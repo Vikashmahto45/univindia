@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresults.com 2021 ts - Official Telangana Result Archive"; 
 $meta_description = "Check indiaresults.com 2021 ts for Telangana board and university results. Access the official 2021 TS result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresults.com 2021 ts - Official Telangana Result Archive</div>
+    <h2 class='sr-title'>indiaresults.com 2021 ts - Official Telangana Result Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2021 ts - Official Telangana Result Archive"; 
+$meta_description = "Check indiaresults.com 2021 ts for Telangana board and university results. Access the official 2021 TS result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 academic result archives for Telangana. Official board
                 mirrors and high-speed links updated for the 2021 sessions.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify TS 2021 results using student names.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -74,8 +85,7 @@ $meta_keywords = "";
                     making them legally valid for all future academic and career pursuits. Having a verified digital
                     record from the <strong>indiaresults.com 2021 ts</strong> hub is essential for students needing
                     proof of their performance in Telangana's academic system.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -88,25 +98,27 @@ $meta_keywords = "";
                         <p>Absolutely. All results under <strong>indiaresults.com 2021 ts</strong> on
                             <strong>indiaresults.com</strong> are mirrored from official board databases, making them
                             100% authentic for provisional use.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check TS 2021 results with just my name?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>indiaresults.com 2021 ts</strong> portal often provides a name-wise search
                             for major Telangana board and university examinations of that year.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>indiaresults.com 2021 ts</strong> is a valid provisional
                             document accepted for initial college and university registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

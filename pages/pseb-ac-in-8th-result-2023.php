@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "PSEB.ac.in 8th Result 2023 - Punjab Board Class 8 Examination Result Hub"; 
 $meta_description = "Check PSEB.ac.in 8th Result 2023 for official Punjab School Education Board class 8 scores. Access the 2023 middle school results, merit lists, and marksheet downloads."; 
 $meta_keywords = "pseb.ac.in 8th result 2023, pseb 8th result 2023, punjab board 8th class result 2023, pseb ac in results 8th, pseb middle exam 2023 result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; PSEB.ac.in 8th Result 2023 - Punjab Board Class 8 Examination Result Hub</div>
+    <h2 class='sr-title'>PSEB.ac.in 8th Result 2023 - Punjab Board Class 8 Examination Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "PSEB.ac.in 8th Result 2023 - Punjab Board Class 8 Examination Result Hub"; 
+$meta_description = "Check PSEB.ac.in 8th Result 2023 for official Punjab School Education Board class 8 scores. Access the 2023 middle school results, merit lists, and marksheet downloads."; 
+$meta_keywords = "pseb.ac.in 8th result 2023, pseb 8th result 2023, punjab board 8th class result 2023, pseb ac in results 8th, pseb middle exam 2023 result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "PSEB.ac.in 8th Result 2023 - Punjab Board Class 8 Examination Result Hub";
+$meta_description = "Check PSEB.ac.in 8th Result 2023 for official Punjab School Education Board class 8 scores. Access the 2023 middle school results, merit lists, and marksheet downloads.";
+$meta_keywords = "pseb.ac.in 8th result 2023, pseb 8th result 2023, punjab board 8th class result 2023, pseb ac in results 8th, pseb middle exam 2023 result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>PSEB.ac.in 8th Result 2023: Reclaiming the Middle School Successes of Punjab</h1>
+        
         
         <p>The "PSEB.ac.in 8th Result 2023" is a significant academic milestone for hundreds of thousands of young students across the culturally vibrant and educationally focused state of Punjab. Managed by the Punjab School Education Board (PSEB), SAS Nagar (Mohali), the Class 8 middle school examination is the primary gateway to senior secondary learning and specialized vocational streams. For the 2023 academic cycle, which marked the formal return to traditional state-level standardized testing, the "PSEB.ac.in 8th Result 2023" search represents the official culmination of a student’s foundational learning years. in the educationally advanced landscape of Punjab, where the Board sets high intellectual standards, the results declared on the official state portals are the formal recognition of a student’s intellectual growth and resilience. At Univindia.online, we recognize the life-changing nature of these archival scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies the search for your "PSEB.ac.in 8th Result 2023," ensuring that every student from Amritsar to Ludhiana can celebrate their victory through the digital archives with absolute ease.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "pseb.ac.in 8th result 2023, pseb 8th result 2023, punjab board
                 <a href="http://punjab.indiaresults.com" class="btn" title="PSEB 8th Result Name Wise search" target="_blank">IndiaResults Punjab</a>
                 <a href="http://pseb.ac.in/results" class="btn" title="Board Results Direct Page" target="_blank">PSEB Results Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About PSEB.ac.in 8th Result 2023</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "pseb.ac.in 8th result 2023, pseb 8th result 2023, punjab board
         <br>
         <strong>3. Is the online copy of PSEB 8th Result 2023 valid for 9th admission?</strong>
         <p>Yes, the computer-generated "PSEB.ac.in 8th Result 2023" scorecard is accepted for initial admission in schools across Punjab until the physical marksheet is provided by the board office.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

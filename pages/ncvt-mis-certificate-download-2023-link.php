@@ -1,14 +1,29 @@
 <?php 
-include '../includes/header.php'; 
-$page_title = ""; 
+include '../header.php'; 
+$page_title = "Ncvt Mis Certificate Download 2023 Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div id="content-container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Ncvt Mis Certificate Download 2023 Link</div>
+    <h2 class='sr-title'>Ncvt Mis Certificate Download 2023 Link</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Ncvt Mis Certificate Download 2023 Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div id="content-container">
     <div class="main-content">
         <section class="result-section">
-            <h1>NCVT MIS Certificate Download 2023 - ITI Marksheet & Certificate Link</h1>
+            
             <p>Students who have completed their ITI training in 2023 can now access the **NCVT MIS certificate download 2023 link**. The National Council for Vocational Training (NCVT) provides an online portal for trainees to download their consolidated marksheets and certificates after the declaration of the All India Trade Test (AITT) results.</p>
             
             <div class="flash-news">
@@ -92,12 +107,18 @@ $meta_keywords = "";
                 <div class="faq-item">
                     <p><strong>Q: Is the downloaded ITI certificate digitally signed?</strong><br>
                     A: Yes, the latest NCVT certificates come with a QR code and digital signature for authentication.</p>
-                </div>
-            </div>
+                
         </section>
     </div>
     
-    
+    <?php include 'sidebar.php'; ?>
+
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

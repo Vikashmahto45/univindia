@@ -7,9 +7,27 @@ $meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th boa
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 12th 2023 - Senior Secondary Results Archive for All Boards</div>
-    <h2 class='sr-title'>India Result 12th 2023: Reclaiming the Academic Success of the National Senior Secondary Batch</h2>
+    <h2 class='sr-title'>India Result 12th 2023 - Senior Secondary Results Archive for All Boards</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 12th 2023 - Senior Secondary Results Archive for All Boards"; 
+$meta_description = "Retrieve your India Result 12th 2023 online. Access the archival scores and merit lists for Class 12 CBSE, state boards, and national exams from the 2023 session."; 
+$meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th board result 2023, senior secondary result 2023 national, india results 12th-2023"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 12th 2023 - Senior Secondary Results Archive for All Boards";
+$meta_description = "Retrieve your India Result 12th 2023 online. Access the archival scores and merit lists for Class 12 CBSE, state boards, and national exams from the 2023 session.";
+$meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th board result 2023, senior secondary result 2023 national, india results 12th-2023";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th boa
                 <a href="https://www.indiaresults.com" class="btn" title="National Results Mirror Portal" target="_blank">IndiaResults National</a>
                 <a href="https://upresults.nic.in" class="btn" title="UP Board 12th Result 2023" target="_blank">UPMSP 2023 Archive</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified 2023 Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 12th 2023</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th boa
         <br>
         <strong>3. Is the digital copy of the 2023 result valid for current university admissions?</strong>
         <p>The online printout serves as provisional proof of your "India Result 12th 2023." For final verification and enrollment, most universities will require the original 2023 board certificate or a verified version from the DigiLocker platform.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

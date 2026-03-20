@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; aps result - Official School Examination Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>aps result - Official School Examination Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "aps result - Official School Examination Hub"; 
+$meta_description = "Check aps result for all classes and board exams. Access the official Army Public School (APS) and general school result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check APS Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify individual school results online by student name and registration number alternative
                         criteria on institutional mirrors.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +96,7 @@ $meta_keywords = "";
                     for overall development tracking. Having a verified digital result from the <strong>aps
                         result</strong> hub is essential for students to complete their academic verification and proof
                     of educational achievement during school-level transition and registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,27 +108,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>You can use the <strong>aps result</strong> portal on <strong>indiaresults</strong> by
                             selecting your branch and enters your admission or roll number.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check APS school results by name search?</button>
                     <div class="faq-answer">
                         <p>Yes, many participating APS branches on the <strong>aps result</strong> hub support a
                             dedicated name-wise search for student examinees.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital APS marksheet accepted for other schools?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>aps result</strong> gateway is a valid
                             provisional document accepted for initial transfer and registration verification between
                             institutions.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

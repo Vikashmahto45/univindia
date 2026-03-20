@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india results.com 2022 - Official National Archive Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india results.com 2022 - Official National Archive Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india results.com 2022 - Official National Archive Gateway"; 
+$meta_description = "Check india results.com 2022 for all board and university results. Access the official 2022 result portal on indiaresults for the latest updates across India."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse 2022 Results</a>
                 <a href="#faq" class="btn btn-secondary">National Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Name-wise result retrieval for all 2022 exams.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     2022 batch gains a unified view of their performance, including subject-wise breakdown, internal
                     marks, and provisional passing certificates that are vital for the next steps in their academic or
                     professional journey.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,26 +98,25 @@ $meta_keywords = "";
                         <p>Yes, all results under <strong>india results.com 2022</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check india results.com 2022 results by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india results.com 2022</strong> portal maintains full name-wise
                             search support for most board and university examinations of that academic year.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for graduation admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>india results.com 2022</strong> digital marksheet is a valid provisional document
                             accepted for initial college and university registration processes nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

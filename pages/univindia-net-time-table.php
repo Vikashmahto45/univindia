@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net Time Table - University Exam Schedules Online"; 
 $meta_description = "View and download the latest university exam time tables on Univindia Net. Complete guide to finding schedules for MGSU, RRBMU, and MSBU exams."; 
 $meta_keywords = "univindia net time table"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net Time Table - University Exam Schedules Online</div>
+    <h2 class='sr-title'>Univindia Net Time Table - University Exam Schedules Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net Time Table - University Exam Schedules Online"; 
+$meta_description = "View and download the latest university exam time tables on Univindia Net. Complete guide to finding schedules for MGSU, RRBMU, and MSBU exams."; 
+$meta_keywords = "univindia net time table"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net Time Table - University Exam Schedules Online";
+$meta_description = "View and download the latest university exam time tables on Univindia Net. Complete guide to finding schedules for MGSU, RRBMU, and MSBU exams.";
+$meta_keywords = "univindia net time table";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net Time Table: Your Ultimate Guide to University Exam Schedules</h1>
+        
         
         <p>The term "Univindia Net Time Table" represents a critical phase in the academic calendar for thousands of students enrolled in Rajasthan's prominent universities. Whether you are a student at Maharaja Ganga Singh University (MGSU) in Bikaner, Raj Rishi Bhartrihari Matsya University (RRBMU) in Alwar, or Maharaja Surajmal Brij University (MSBU) in Bharatpur, the `univindia.net` portal is the official source for your comprehensive examination schedule. In this detailed guide, we will explore the significance of the Univindia Net Time Table, provide a walkthrough for its retrieval, and offer expert tips on how to organize your study plan around your university's official dates.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "univindia net time table";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized time table downloads and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

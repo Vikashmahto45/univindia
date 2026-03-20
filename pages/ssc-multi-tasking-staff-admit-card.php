@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC Multi Tasking Staff Admit Card Download - Staff Selection Commission MTS Hall Ticket | Univindia.online"; 
 $meta_description = "Download SSC Multi Tasking Staff (MTS) Admit Card. Get the direct link for SSC MTS (Non-Technical) and Havaldar examination hall tickets at ssc.gov.in."; 
 $meta_keywords = "ssc multi tasking staff admit card download, ssc mts hall ticket download, ssc.gov.in login admit card, ssc recruitment exam date 2024 download, mts staff call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Multi Tasking Staff Admit Card Download - Staff Selection Commission MTS Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>SSC Multi Tasking Staff Admit Card Download - Staff Selection Commission MTS Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC Multi Tasking Staff Admit Card Download - Staff Selection Commission MTS Hall Ticket | Univindia.online"; 
+$meta_description = "Download SSC Multi Tasking Staff (MTS) Admit Card. Get the direct link for SSC MTS (Non-Technical) and Havaldar examination hall tickets at ssc.gov.in."; 
+$meta_keywords = "ssc multi tasking staff admit card download, ssc mts hall ticket download, ssc.gov.in login admit card, ssc recruitment exam date 2024 download, mts staff call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC Multi Tasking Staff Admit Card Download - Staff Selection Commission MTS Hall Ticket | Univindia.online";
+$meta_description = "Download SSC Multi Tasking Staff (MTS) Admit Card. Get the direct link for SSC MTS (Non-Technical) and Havaldar examination hall tickets at ssc.gov.in.";
+$meta_keywords = "ssc multi tasking staff admit card download, ssc mts hall ticket download, ssc.gov.in login admit card, ssc recruitment exam date 2024 download, mts staff call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "ssc multi tasking staff admit card download, ssc mts hall tick
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Search Staff Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

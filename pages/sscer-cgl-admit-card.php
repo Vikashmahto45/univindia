@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCER CGL Admit Card 2024 Download - Eastern Region Tier 1 Status | Univindia.online"; 
 $meta_description = "Download SSCER CGL Admit Card 2024 for Eastern Region. Check SSC CGL Tier 1 Application Status, exam dates, and hall ticket download link for West Bengal, Odisha, Jharkhand."; 
 $meta_keywords = "sscer cgl admit card 2024, ssc eastern region cgl hall ticket, sscer.org cgl status, ssc cgl admit card west bengal, ssc cgl admit card odisha"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER CGL Admit Card 2024 Download - Eastern Region Tier 1 Status | Univindia.online</div>
+    <h2 class='sr-title'>SSCER CGL Admit Card 2024 Download - Eastern Region Tier 1 Status | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCER CGL Admit Card 2024 Download - Eastern Region Tier 1 Status | Univindia.online"; 
+$meta_description = "Download SSCER CGL Admit Card 2024 for Eastern Region. Check SSC CGL Tier 1 Application Status, exam dates, and hall ticket download link for West Bengal, Odisha, Jharkhand."; 
+$meta_keywords = "sscer cgl admit card 2024, ssc eastern region cgl hall ticket, sscer.org cgl status, ssc cgl admit card west bengal, ssc cgl admit card odisha"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSCER CGL Admit Card 2024 Download - Eastern Region Tier 1 Status | Univindia.online";
+$meta_description = "Download SSCER CGL Admit Card 2024 for Eastern Region. Check SSC CGL Tier 1 Application Status, exam dates, and hall ticket download link for West Bengal, Odisha, Jharkhand.";
+$meta_keywords = "sscer cgl admit card 2024, ssc eastern region cgl hall ticket, sscer.org cgl status, ssc cgl admit card west bengal, ssc cgl admit card odisha";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "sscer cgl admit card 2024, ssc eastern region cgl hall ticket,
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Browse Admit Cards</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in</div>
-    <h2 class='sr-title'>BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket</h2>
+    <h2 class='sr-title'>BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in";
+$page_description = "Download BPSC Admit Card 2025 for 70th CCE, TRE 4.0, and various Gazetted posts. Get direct link for BPSC Prelims/Mains Hall Ticket. 800+ words guide.";
+$page_keywords = "BPSC Admit Card 2025, BPSC 70th CCE Hall Ticket, BPSC TRE 4.0 Admit Card Download, bpsc.bih.nic.in admit card link, BPSC Headmaster Call Letter";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -86,14 +105,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-danger">
                             <h5 class="text-danger"><i class="fas fa-print me-2"></i> Two Printed Admit Cards</h5>
                             <p class="small text-light-gray mb-0">It is mandatory to carry two copies. One copy must be signed and handed over to the invigilator during the first shift.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-danger">
                             <h5 class="text-danger"><i class="fas fa-id-card me-2"></i> Original ID Card</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card is mandatory. If you provide any other ID (PAN/Voter), you must also carry a self-attested photocopy of that ID.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">BPSC Admit Card FAQ: Frequently Asked Questions</h2>
@@ -107,8 +124,7 @@ $meta_keywords = "";
                         <div id="bpQ1" class="accordion-collapse collapse" data-bs-parent="#bpscFaq">
                             <div class="accordion-body text-light-gray">
                                 This usually occurs due to multiple failed login attempts or using an outdated browser. Use Chrome (Latest) and try the 'Forgot Password' link to reset your credentials.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -119,10 +135,8 @@ $meta_keywords = "";
                         <div id="bpQ2" class="accordion-collapse collapse" data-bs-parent="#bpscFaq">
                             <div class="accordion-body text-light-gray">
                                 No, BPSC does not provide a direct 'Search by Name' facility for security reasons. You must retrieve your username using the 'Recover User ID' feature on the login page.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Bihar Recruitment Links</h5>
@@ -130,14 +144,14 @@ $meta_keywords = "";
                         <a href="bihar-police-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">Bihar Police Constable</a>
                         <a href="bsssc-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">BSSC Inter Level</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-graduation-cap me-2"></i> Teacher & Academic Links</h3>
                 <div class="row g-3">
+                    <?php
                     $edu_links = [
                         'stet-admit-card-2025.php' => 'Bihar STET Admit Card',
                         'ctet-admit-card-2024.php' => 'CTET 2024 Hall Ticket',
@@ -151,11 +165,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -183,6 +196,12 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "matric result - Official Matriculation Portal"; 
 $meta_description = "Check matric result online for BSEB, SEBA, BSE Odisha, and other boards. Access the official matric result portal for selection list and marks."; 
 $meta_keywords = "matric result, check matric result, class 10 result, matriculation board result, 10th result link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; matric result - Official Matriculation Portal</div>
+    <h2 class='sr-title'>matric result - Official Matriculation Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "matric result - Official Matriculation Portal"; 
+$meta_description = "Check matric result online for BSEB, SEBA, BSE Odisha, and other boards. Access the official matric result portal for selection list and marks."; 
+$meta_keywords = "matric result, check matric result, class 10 result, matriculation board result, 10th result link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "matric result - Official Matriculation Portal";
+$meta_description = "Check matric result online for BSEB, SEBA, BSE Odisha, and other boards. Access the official matric result portal for selection list and marks.";
+$meta_keywords = "matric result, check matric result, class 10 result, matriculation board result, 10th result link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>matric result: Your Definitive Navigator to Secondary School Examinations, Board of Secondary Education (BSE), and National Informatics Centre (NIC) Result Gateways Across India</h1>
+        
         
         <p>The "matric result" (representing the primary synchronized digital result-distribution network utilized by millions of students for the annual secondary school examinations conducted by boards like BSEB Patna, SEBA Assam, and BSE Odisha) serves as the most critical academic junction in an Indian student's life. As the primary official gateway to the nation's foundational educational infrastructure, the "matric result" provides the formal academic master directory that allows candidates to access their theory scores, internal assessment grades, and qualifying status via dedicated high-concurrency server endpoints like `biharboardonline.bihar.gov.in`, `sebaonline.org`, and `orissaresults.nic.in`. For the current academic cycle, which observed a massive digital transformation in secure tabulation and instant result delivery across all states, the "matric result" search remains the definitive digital tool for verifying scholastic achievement. The board authorities implemented state-of-the-art 'Encrypted Marks Tabulation' to ensure that the Matric scores (including subject-wise marks, total aggregate, and qualifying rank for senior secondary admission) were served with maximum integrity. At Univindia.online, we prioritize specialized navigation for Matric students. We are dedicated to providing a premium, SEO-optimized national portal that centralizes the "matric result," ensuring that every student from Bihar to Assam can access their records without technical delay.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "matric result, check matric result, class 10 result, matricula
                 <a href="https://sebaonline.org" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Assam Matric Portal" target="_blank">Access Assam Matric HUB</a>
                 <a href="https://orissaresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Odisha Matric Portal" target="_blank">Access Odisha Matric Portal</a>
                 <a href="https://indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="All Board Results" target="_blank">Visit Matric Mirror Hub</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official matric result Online</h2>
         <p>To ensure a successful result search in the Matric Board records, follow these technical steps:</p>
@@ -46,7 +67,7 @@ $meta_keywords = "matric result, check matric result, class 10 result, matricula
 
         <p><i>Note: Univindia.online is an educational news portal. For original marksheets, migration certificates, and final database changes related to matric result data, please visit the respective Board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Matric Result</h2>
@@ -59,7 +80,15 @@ $meta_keywords = "matric result, check matric result, class 10 result, matricula
         <br>
         <strong>3. Is the result from the orissaresults.nic.in portal official?</strong>
         <p>Yes, the "matric result" served via the NIC portal is the only official and final digital output of the Board of Secondary Education, Odisha.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

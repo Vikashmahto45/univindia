@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th result 2022 arts - Official Senior Secondary Arts Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12th result 2022 arts - Official Senior Secondary Arts Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th result 2022 arts - Official Senior Secondary Arts Archive"; 
+$meta_description = "Check 12th result 2022 arts for all state boards including Rajasthan, Punjab, and more. Access the official 2022 Senior Secondary Arts result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2022 arts stream results by Name.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Archive 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     physical examinations, the <strong>12th result 2022 arts</strong> data reflects a resilient academic
                     performance. Having a verified copy from <strong>indiaresults.com</strong> is essential for any
                     future educational or career endeavor.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,27 +98,26 @@ $meta_keywords = "";
                         <p>Yes, the <strong>12th result 2022 arts</strong> portal on <strong>indiaresults</strong>
                             maintains the name-wise search database, allowing you to find results even without your roll
                             number.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2022 arts results still available online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. All major board results covered under <strong>12th result 2022 arts</strong> are
                             permanently archived on verified servers like <strong>indiaresults.com</strong>.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for government jobs?</button>
                     <div class="faq-answer">
                         <p>The <strong>12th result 2022 arts</strong> online marksheet is a valid provisional document.
                             However, for most government job appointments, you will eventually need the original
                             physical certificate issued by the board.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

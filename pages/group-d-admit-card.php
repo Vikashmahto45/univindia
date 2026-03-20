@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City</div>
-    <h2 class='sr-title'>Group D Admit Card 2024: <span class="text-warning">Download RRC Hall Ticket</span></h2>
+    <h2 class='sr-title'>Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City";
+$page_description = "Download RRC Group D Admit Card 2024. Get direct links for Railway Group D Call Letter, Exam City Intimation, and Exam Date. 800+ word guide for RRC Level 1 aspirants.";
+$page_keywords = "Group D Admit Card 2024, RRC Group D Hall Ticket, Railway Group D Call Letter, Download RRC Group D 2024 Admit Card, Exam City Intimation";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row pt-4">
         <div class="col-lg-12">
             <!-- Breadcrumb -->
@@ -30,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Important Announcement:</h4>
                         <p class="mb-0">The Railway Recruitment Cells (RRC) are preparing to release the <strong>Group D Admit Card 2024</strong>. Candidates who have applied for CEN No. RRC-01/2024 can expect their exam city intimation slip 10 days before the exam.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -97,20 +115,17 @@ $meta_keywords = "";
                                 <div class="p-4 bg-secondary shadow rounded-4 text-center">
                                     <h6 class="text-white">RRB Ahmedabad</h6>
                                     <a href="https://www.rrbahmedabad.gov.in" class="text-warning small fst-italic">rrbahmedabad.gov.in</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary shadow rounded-4 text-center">
                                     <h6 class="text-white">RRB Ajmer</h6>
                                     <a href="https://www.rrbajmer.gov.in" class="text-warning small fst-italic">rrbajmer.gov.in</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary shadow rounded-4 text-center">
                                     <h6 class="text-white">RRB Allahabad</h6>
                                     <a href="https://www.rrbald.gov.in" class="text-warning small fst-italic">rrbald.gov.in</a>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">What to Check on Railway Group D Hall Ticket?</h2>
@@ -132,20 +147,17 @@ $meta_keywords = "";
                                 <div class="p-3 border border-secondary rounded-4 bg-gradient-dark h-100">
                                     <i class="fas fa-print fa-2x text-warning mb-3"></i>
                                     <p class="small m-0">Printed Copy of Admit Card</p>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-3 border border-secondary rounded-4 bg-gradient-dark h-100">
                                     <i class="fas fa-id-card fa-2x text-warning mb-3"></i>
                                     <p class="small m-0">Original Photo ID (Aadhar/Voter)</p>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-3 border border-secondary rounded-4 bg-gradient-dark h-100">
                                     <i class="fas fa-camera fa-2x text-warning mb-3"></i>
                                     <p class="small m-0">One Passport Size Photo</p>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Group D Physical Efficiency Test (PET) Standards</h2>
@@ -185,8 +197,7 @@ $meta_keywords = "";
                                 <div id="gd1" class="accordion-collapse collapse" data-bs-parent="#groupDFaq">
                                     <div class="accordion-body text-white-50">
                                         Yes, Aadhar card (original) or any other government-issued photo ID is mandatory. Photocopies or digital IDs are not accepted.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white border-secondary">
                                 <h3 class="accordion-header">
@@ -197,8 +208,7 @@ $meta_keywords = "";
                                 <div id="gd2" class="accordion-collapse collapse" data-bs-parent="#groupDFaq">
                                     <div class="accordion-body text-white-50">
                                         Railway generally releases the City Intimation Slip 10 days before the exam date. The actual admit card follows 4 days later.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white">
                                 <h3 class="accordion-header">
@@ -209,14 +219,11 @@ $meta_keywords = "";
                                 <div id="gd3" class="accordion-collapse collapse" data-bs-parent="#groupDFaq">
                                     <div class="accordion-body text-white-50">
                                         No, RRC/RRB does not permit change of exam center or shift once allocated on the hall ticket.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- Internal Links Section -->
             <div class="bg-dark p-5 rounded-4 border border-secondary shadow-lg mt-5">
@@ -233,12 +240,10 @@ $meta_keywords = "";
                     </div>
                     <div class="col-md-3">
                         <a href="rpf-constable-admit-card.php" class="d-block p-3 bg-secondary rounded-3 text-warning text-decoration-none text-center hover-lift">RPF Constable Admit</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </div>
-</main>
+
 
 <style>
 .hover-lift {
@@ -262,6 +267,12 @@ $meta_keywords = "";
     background-color: transparent;
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

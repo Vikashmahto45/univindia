@@ -7,9 +7,27 @@ $meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Results JKBOSE - Jammu & Kashmir Board Results Hub</div>
-    <h2 class='sr-title'>India Results JKBOSE: Your Definitive Gateway to Jammu & Kashmir’s Academic Success</h2>
+    <h2 class='sr-title'>India Results JKBOSE - Jammu & Kashmir Board Results Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Results JKBOSE - Jammu & Kashmir Board Results Hub"; 
+$meta_description = "Check India Results JKBOSE for 10th and 12th class results. Access Jammu and Kashmir board scores, merit lists, and official updates for both Soft and Hard zones."; 
+$meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, jkbose result 2024, jammu and kashmir board results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Results JKBOSE - Jammu & Kashmir Board Results Hub";
+$meta_description = "Check India Results JKBOSE for 10th and 12th class results. Access Jammu and Kashmir board scores, merit lists, and official updates for both Soft and Hard zones.";
+$meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, jkbose result 2024, jammu and kashmir board results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, 
                 <a href="https://jammu-kashmir.indiaresults.com" class="btn" title="JKBOSE Result Name Wise" target="_blank">IndiaResults J&K</a>
                 <a href="https://jkbose.nic.in/results" class="btn" title="View Recent JKBOSE Notifications" target="_blank">Recent Notifications</a>
                 <a href="https://jkbose.nic.in/registration" class="btn" title="Check Registration Status" target="_blank">Registration Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Results JKBOSE</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, 
         <br>
         <strong>3. Is the online provisional result valid for university admission?</strong>
         <p>Yes, the computer-generated "India Results JKBOSE" scorecard is accepted for provisional admission in all colleges across J&K and for the PMSSS scholarship application until the board issues the physical copy.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access"; 
 $meta_description = "Access MGSU Bikaner services via Www Univindia Net. Official guide to Maharaja Ganga Singh University exams, results, and student panels online."; 
 $meta_keywords = "Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access</div>
+    <h2 class='sr-title'>Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access"; 
+$meta_description = "Access MGSU Bikaner services via Www Univindia Net. Official guide to Maharaja Ganga Singh University exams, results, and student panels online."; 
+$meta_keywords = "Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access";
+$meta_description = "Access MGSU Bikaner services via Www Univindia Net. Official guide to Maharaja Ganga Singh University exams, results, and student panels online.";
+$meta_keywords = "Www Univindia Net MGSU Bikaner AC IN - Official University Portal Access";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Www Univindia Net MGSU Bikaner AC IN: The Definitive Digital Gateway</h1>
+        
         
         <p>The term "Www Univindia Net MGSU Bikaner AC IN" represents the convergence of the primary administrative website and the specialized examination portal of Maharaja Ganga Singh University (MGSU), Bikaner. For students, faculty, and administrators, this digital infrastructure is the lifeblood of the academic experience in Northern Rajasthan. While `mgsubikaner.ac.in` serves as the official university website for institutional information, recruitment, and scholarly news, `univindia.net` is the heavy-duty engine that manages hundreds of thousands of student records, examination forms, and digital marksheets. In this comprehensive guide, we will provide a detailed walkthrough of how these two portals interact, how students can navigate between them for essential services, and what steps to take to ensure a seamless academic experience at MGSU Bikaner.</p>
 
@@ -46,6 +68,15 @@ $meta_keywords = "Www Univindia Net MGSU Bikaner AC IN - Official University Por
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net and mgsubikaner.ac.in.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

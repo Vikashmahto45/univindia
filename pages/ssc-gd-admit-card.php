@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC GD Admit Card 2025: BSF, CISF, CRPF Constable GD Hall Ticket Link @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card 2025: BSF, CISF, CRPF Constable GD Hall Ticket Link @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC GD Admit Card 2025: BSF, CISF, CRPF Constable GD Hall Ticket Link @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC GD Admit Card 2025: BSF, CISF, CRPF Constable GD Hall Ticket Link @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC GD Admit Card 2025: BSF, CISF, CRPF Constable GD Hall Ticket Link @ ssc.gov.in";
+$page_description = "Download SSC GD Admit Card 2025. Get region-wise direct links for SSC Constable GD Hall Ticket, Exam Schedule, and Physical Test details. 800+ words of essential info.";
+$page_keywords = "SSC GD Admit Card 2025, SSC Constable GD Hall Ticket, SSC GD Exam Date, Download SSC GD Admit Card, SSC CR NR WR Admit Card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSC GD Admit Card 2025: Constable GD Hall Ticket Status & Download Link</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-check-circle me-2"></i> <strong>Online Update:</strong> The Staff Selection Commission (SSC) has started releasing the application status and admit cards for the Constable (GD) recruitment exam. Check your regional portal below.
@@ -72,8 +95,7 @@ $meta_keywords = "";
                             <li class="list-group-item bg-dark text-light border-secondary d-flex justify-content-between">Southern Region (SR) <a href="#" class="text-info">Download</a></li>
                             <li class="list-group-item bg-dark text-light border-secondary d-flex justify-content-between">MPR Region <a href="#" class="text-info">Download</a></li>
                         </ul>
-                    </div>
-                </div>
+                    
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Steps to Download SSC GD Call Letter Online</h2>
                 <p>
@@ -128,22 +150,19 @@ $meta_keywords = "";
                             <i class="fas fa-print fa-3x text-info mb-3"></i>
                             <h5 class="text-white">Printed Call Letter</h5>
                             <p class="small text-light-gray">Two hard copies with clear visibility.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-sm-4 text-center">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <i class="fas fa-portrait fa-3x text-success mb-3"></i>
                             <h5 class="text-white">Recent Photos</h5>
                             <p class="small text-light-gray">Two passport-sized color photographs.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-sm-4 text-center">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow-sm h-100">
                             <i class="fas fa-id-card fa-3x text-warning mb-3"></i>
                             <h5 class="text-white">ID Proof</h5>
                             <p class="small text-light-gray">Aadhar, PAN, or Voter ID in original.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Frequently Asked Questions (FAQs)</h2>
@@ -157,8 +176,7 @@ $meta_keywords = "";
                         <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#sscGdFaq">
                             <div class="accordion-body text-light-gray">
                                 No, SSC does not allow requests for a change in the examination center once the admit card has been issued.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -169,8 +187,7 @@ $meta_keywords = "";
                         <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#sscGdFaq">
                             <div class="accordion-body text-light-gray">
                                 The detailed admit card is available 4 days before your specific exam date, while the application status is out 15-20 days earlier.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -181,10 +198,8 @@ $meta_keywords = "";
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#sscGdFaq">
                             <div class="accordion-body text-light-gray">
                                 All results and final merit lists are uploaded to the 'Result' section of ssc.gov.in.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info"><i class="fas fa-external-link-alt me-2"></i> Navigational Links</h5>
@@ -192,14 +207,14 @@ $meta_keywords = "";
                         <a href="neet-admit-card-2024.php" class="btn btn-sm btn-outline-info rounded-pill px-3">NEET Admit Card</a>
                         <a href="rrb-ntpc-admit-card.php" class="btn btn-sm btn-outline-info rounded-pill px-3">RRB NTPC Hall Ticket</a>
                         <a href="../index.php" class="btn btn-sm btn-success rounded-pill px-4">Home Portal</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-link me-2"></i> Related Search Keywords</h3>
                 <div class="row g-3">
+                    <?php
                     $related = [
                         'ssc-cgl-admit-card.php' => 'SSC CGL Admit Card',
                         'ssc-chsl-admit-card-2024.php' => 'SSC CHSL 2024 Hall Ticket',
@@ -213,11 +228,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -248,3 +262,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

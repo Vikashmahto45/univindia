@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online"; 
 $meta_description = "Download SSCER MTS Admit Card 2024 for Eastern Region. Check SSC Multi-Tasking Staff & Havaldar application status, exam date, and center list at sscer.org."; 
 $meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket, sscer.org mts status, ssc mts admit card kolkata, ssc havladar admit card eastern region"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online</div>
+    <h2 class='sr-title'>SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online"; 
+$meta_description = "Download SSCER MTS Admit Card 2024 for Eastern Region. Check SSC Multi-Tasking Staff & Havaldar application status, exam date, and center list at sscer.org."; 
+$meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket, sscer.org mts status, ssc mts admit card kolkata, ssc havladar admit card eastern region"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online";
+$meta_description = "Download SSCER MTS Admit Card 2024 for Eastern Region. Check SSC Multi-Tasking Staff & Havaldar application status, exam date, and center list at sscer.org.";
+$meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket, sscer.org mts status, ssc mts admit card kolkata, ssc havladar admit card eastern region";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -100,8 +123,16 @@ $meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket,
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Browse Call Letters</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

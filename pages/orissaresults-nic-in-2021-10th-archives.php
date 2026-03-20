@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www.orissaresults.nic.in 2021 10th - Official Odisha Board Archive"; 
 $meta_description = "Check www.orissaresults.nic.in 2021 10th for HSC exams. Access the official 2021 Odisha (BSE) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.orissaresults.nic.in 2021 10th - Official Odisha Board Archive</div>
+    <h2 class='sr-title'>www.orissaresults.nic.in 2021 10th - Official Odisha Board Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www.orissaresults.nic.in 2021 10th - Official Odisha Board Archive"; 
+$meta_description = "Check www.orissaresults.nic.in 2021 10th for HSC exams. Access the official 2021 Odisha (BSE) archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 High School Certificate (Class 10th) results for Odisha.
                 Official BSE mirrors and archival links updated for the 2021 session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2021 Odisha results by student name alternative.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +90,7 @@ $meta_keywords = "";
                     <strong>www.orissaresults.nic.in 2021 10th</strong> archive hub is essential for students to
                     complete their academic verification and proof of performance during university registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,26 +103,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>www.orissaresults.nic.in 2021 10th</strong> are permanently
                             archived on verified platforms like <strong>indiaresults.com</strong> for legal and academic
                             verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2021 Odisha result via name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>www.orissaresults.nic.in 2021 10th</strong> portal includes a
                             dedicated name-wise search for the Odisha HSC examinees of the 2021 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>www.orissaresults.nic.in 2021 10th</strong>
                             archive is a valid provisional document accepted for initial college registration and
                             document verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

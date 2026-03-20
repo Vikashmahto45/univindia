@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UPPBPB Gov In Admit Card 2024: UP Police Constable 60244 Posts Hall Ticket @ uppbpb.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UPPBPB Gov In Admit Card 2024: UP Police Constable 60244 Posts Hall Ticket @ uppbpb.gov.in</div>
+    <h2 class='sr-title'>UPPBPB Gov In Admit Card 2024: UP Police Constable 60244 Posts Hall Ticket @ uppbpb.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UPPBPB Gov In Admit Card 2024: UP Police Constable 60244 Posts Hall Ticket @ uppbpb.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "UPPBPB Gov In Admit Card 2024: UP Police Constable 60244 Posts Hall Ticket @ uppbpb.gov.in";
+$page_description = "Download UPPBPB Gov In Admit Card 2024 for Constable 60244 vacancies. Get direct link for UP Police Re-exam Hall Ticket, Exam Schedule, and Shift timings. 800+ words guide.";
+$page_keywords = "uppbpb gov in admit card 2024, UP Police Constable 2024 Hall Ticket, UPPBPB Re-exam Admit Card, uppbpb.gov.in login 2024, UP Police Constable Exam Status";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">UPPBPB Gov In Admit Card 2024: UP Police Constable Hall Ticket</h1>
+            
             
             <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-exclamation-triangle me-2"></i> <strong>Re-exam Update:</strong> The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) conducted the 60,244 vacancies exam in a multi-day format. The <strong>UPPBPB 2024 Admit Card</strong> remains crucial for candidates awaiting PET/PST stages or result verification.
@@ -83,14 +106,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-danger">
                             <h5 class="text-danger"><i class="fas fa-running me-2"></i> PET Admit Card</h5>
                             <p class="small text-light-gray mb-0">A separate hall ticket is issued for the running and physical measurement test. This must be downloaded separately from the UPPRPB site.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-danger">
                             <h5 class="text-danger"><i class="fas fa-file-invoice me-2"></i> Original Application Copy</h5>
                             <p class="small text-light-gray mb-0">Many candidates are asked to provide their original application printout along with the <strong>2024 Admit Card</strong> for manual record cross-checking.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">UPPBPB 2024 FAQ: Candidate Support</h2>
@@ -104,8 +125,7 @@ $meta_keywords = "";
                         <div id="u2Q1" class="accordion-collapse collapse" data-bs-parent="#up2024Faq">
                             <div class="accordion-body text-light-gray">
                                 No, only candidates who appeared in the written exam and cleared the announced cut-off will be eligible for a PET hall ticket.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -116,10 +136,8 @@ $meta_keywords = "";
                         <div id="u2Q2" class="accordion-collapse collapse" data-bs-parent="#up2024Faq">
                             <div class="accordion-body text-light-gray">
                                 Ensure you are using the correct registration ID for the 2024 Constable drive. If you applied for SI or Computer Operator, the links are separate.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-link me-2"></i> Quick Access</h5>
@@ -127,14 +145,14 @@ $meta_keywords = "";
                         <a href="up-pbpb-gov-in-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">General UP-PBPB Page</a>
                         <a href="uppbpb-gov-in-admit-card.php" class="btn btn-outline-danger rounded-pill px-4 btn-sm">2025 Cycle Portal</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> UP Education & Job Links</h3>
                 <div class="row g-3">
+                    <?php
                     $job_links = [
                         'upnrhm-admit-card.php' => 'UP NRHM Call Letter',
                         'upsssc-admit-card.php' => 'UPSSSC PET Result',
@@ -148,11 +166,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -182,3 +199,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,9 +7,27 @@ $meta_keywords = "12th science result 2022, class 12 science result 2022 all boa
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Science Result 2022 - Global National Higher Secondary Archive</div>
-    <h2 class='sr-title'>12th Science Result 2022: Reclaiming the Academic Successes of the Scientific Pioneers</h2>
+    <h2 class='sr-title'>12th Science Result 2022 - Global National Higher Secondary Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "12th Science Result 2022 - Global National Higher Secondary Archive"; 
+$meta_description = "Check 12th Science Result 2022 for all major state and central boards. Access the official 2022 science stream results, merit lists, and marksheet download links."; 
+$meta_keywords = "12th science result 2022, class 12 science result 2022 all board, senior secondary science results 2022, 12th sci result 22 archive, board results science 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "12th Science Result 2022 - Global National Higher Secondary Archive";
+$meta_description = "Check 12th Science Result 2022 for all major state and central boards. Access the official 2022 science stream results, merit lists, and marksheet download links.";
+$meta_keywords = "12th science result 2022, class 12 science result 2022 all board, senior secondary science results 2022, 12th sci result 22 archive, board results science 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "12th science result 2022, class 12 science result 2022 all boa
                 <a href="https://cbseresults.nic.in" class="btn" title="CBSE Science Results 2022" target="_blank">CBSE Result Portal</a>
                 <a href="https://www.indiaresults.com" class="btn" title="National Results Mirror Portal" target="_blank">IndiaResults National</a>
                 <a href="https://digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 12th Science Result 2022</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "12th science result 2022, class 12 science result 2022 all boa
         <br>
         <strong>3. Is the online provisional marksheet from 2022 valid for engineering admission?</strong>
         <p>Yes, for the initial rounds of online counseling and seat allocation in engineering and medical colleges across India (like JOSAA or NEET counseling), the computer-generated "12th Science Result 2022" scorecard is accepted as proof of your board completion until the original certificate is provided.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

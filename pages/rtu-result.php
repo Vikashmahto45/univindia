@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RTU Result - Official Rajasthan Technical University Portal"; 
 $meta_description = "Check RTU Result online. Access the Rajasthan Technical University (RTU Kota) B.Tech, M.Tech, MBA results. Download your RTU marksheets and grade cards instantly."; 
 $meta_keywords = "rtu result, check rtu kota result online, rajasthan technical university result link, rtu btech mtech mba result, official rtu exam portal, rtu merit list"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RTU Result - Official Rajasthan Technical University Portal</div>
+    <h2 class='sr-title'>RTU Result - Official Rajasthan Technical University Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RTU Result - Official Rajasthan Technical University Portal"; 
+$meta_description = "Check RTU Result online. Access the Rajasthan Technical University (RTU Kota) B.Tech, M.Tech, MBA results. Download your RTU marksheets and grade cards instantly."; 
+$meta_keywords = "rtu result, check rtu kota result online, rajasthan technical university result link, rtu btech mtech mba result, official rtu exam portal, rtu merit list"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "RTU Result - Official Rajasthan Technical University Portal";
+$meta_description = "Check RTU Result online. Access the Rajasthan Technical University (RTU Kota) B.Tech, M.Tech, MBA results. Download your RTU marksheets and grade cards instantly.";
+$meta_keywords = "rtu result, check rtu kota result online, rajasthan technical university result link, rtu btech mtech mba result, official rtu exam portal, rtu merit list";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>RTU Result: Your Comprehensive Navigator to Rajasthan Technical University (RTU), RTU Kota, and Rajasthan State Technical Education Result Gateways (Government of Rajasthan, Technical Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and Official Archives Across India</h1>
+        
         
         <p>The "RTU Result" (applicable to the annual and semester examinations and technical evaluations conducted for various academic sessions by the Rajasthan Technical University, Kota) represents the single most significant digital milestone for over 2 lakh undergraduate and postgraduate engineering and management students residing in the technical hub of Rajasthan. As the primary official gateway to the state's premier technical education infrastructure (Kota, RTU HQ), and the traditional higher education infrastructure of the nation, the "RTU Result" serves as the formal academic master directory that allows candidates to access their theory scores, practical assessment marks, and final engineering degree via dedicated university server endpoints. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "RTU Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The RTU Kota education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the scores (including subject-wise grades, grade point averages - SGPA/CGPA, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "RTU Result," ensuring that every aspiring engineer and researcher in Rajasthan can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "rtu result, check rtu kota result online, rajasthan technical 
                 <a href="https://rtu.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RTU Official Portal" target="_blank">Visit University Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Digital Degree" target="_blank">Get Digital Degree</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official RTU Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your university, follow these technical steps:</p>
@@ -50,7 +71,7 @@ $meta_keywords = "rtu result, check rtu kota result online, rajasthan technical 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to RTU Result, please visit the RTU headquarters at Rawatbhata Road, Kota or your respective College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About RTU Result Portal</h2>
@@ -63,7 +84,15 @@ $meta_keywords = "rtu result, check rtu kota result online, rajasthan technical 
         <br>
         <strong>3. Is the result from RTU Result valid for GATE?</strong>
         <p>Yes, your university results (verified via the official "RTU Result" portal or DigiLocker) are the accepted records for verifying eligibility for GATE, IES, and other national technical competitive exams.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

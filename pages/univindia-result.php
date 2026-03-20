@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Result - Check MGSU, RRBMU, MSBU Exam Results Online"; 
 $meta_description = "Check your univindia result for Rajasthan universities. Comprehensive guide to navigating the result portal, downloading marksheets, and checking merit lists."; 
 $meta_keywords = "univindia result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Result - Check MGSU, RRBMU, MSBU Exam Results Online</div>
+    <h2 class='sr-title'>Univindia Result - Check MGSU, RRBMU, MSBU Exam Results Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Result - Check MGSU, RRBMU, MSBU Exam Results Online"; 
+$meta_description = "Check your univindia result for Rajasthan universities. Comprehensive guide to navigating the result portal, downloading marksheets, and checking merit lists."; 
+$meta_keywords = "univindia result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Result - Check MGSU, RRBMU, MSBU Exam Results Online";
+$meta_description = "Check your univindia result for Rajasthan universities. Comprehensive guide to navigating the result portal, downloading marksheets, and checking merit lists.";
+$meta_keywords = "univindia result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Result: The Comprehensive Guide to Accessing Your University Marksheet</h1>
+        
         
         <p>For thousands of students across Rajasthan, the term "Univindia Result" signifies a pivotal moment in their academic careers. Whether you are a student at Maharaja Ganga Singh University (MGSU) in Bikaner, Raj Rishi Bhartrihari Matsya University (RRBMU) in Alwar, or Maharaja Surajmal Brij University (MSBU) in Bharatpur, the Univindia portal is where your academic destiny is revealed. This centralized system is responsible for processing and declaring the result marksheets for undergraduate, postgraduate, and professional courses. In this guide, we will provide a complete walkthrough of how to check your Univindia result, what to do if you encounter issues, and how to interpret your online marksheet effectively.</p>
 
@@ -52,6 +74,15 @@ $meta_keywords = "univindia result";
 
         <p><i>Note: Univindia.online is an independent educational guide and is not the official Univindia portal. For authorized result declarations and university news, please always check the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

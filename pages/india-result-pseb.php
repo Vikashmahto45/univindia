@@ -7,9 +7,27 @@ $meta_keywords = "india result pseb, check punjab board result online, official 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result PSEB - Official Punjab Board Mirror Portal</div>
-    <h2 class='sr-title'>India Result PSEB: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Senior Secondary, Matric, and Middle School Examinations, and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result PSEB - Official Punjab Board Mirror Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result PSEB - Official Punjab Board Mirror Portal"; 
+$meta_description = "Check India Result PSEB online. Access the historical Punjab School Education Board (PSEB) 8th, 10th, and 12th results via the official national mirror."; 
+$meta_keywords = "india result pseb, check punjab board result online, official indiaresults pseb link, pseb.ac.in mirror portal, punjab results search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result PSEB - Official Punjab Board Mirror Portal";
+$meta_description = "Check India Result PSEB online. Access the historical Punjab School Education Board (PSEB) 8th, 10th, and 12th results via the official national mirror.";
+$meta_keywords = "india result pseb, check punjab board result online, official indiaresults pseb link, pseb.ac.in mirror portal, punjab results search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result pseb, check punjab board result online, official 
                 <a href="http://punjab.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Punjab Results Mirror" target="_blank">Access Punjab IndiaResults</a>
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official IndiaResults" target="_blank">Visit 2024 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result PSEB Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result pseb, check punjab board result online, official 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result PSEB data, please visit the PSEB headquarters in Mohali or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result PSEB Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result pseb, check punjab board result online, official 
         <br>
         <strong>3. Is the result from India Result PSEB valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result PSEB" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

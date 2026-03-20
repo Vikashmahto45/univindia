@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Official Result Portal - National & State Examination Result Hub"; 
 $meta_description = "Check your examination Result online across all Indian boards and universities. Find the latest 10th, 12th, and entrance exam results, merit lists, and marksheets."; 
 $meta_keywords = "result, check result online, exam result india, 10th result, 12th result, university result portal, sarkari result hub, official result website"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Official Result Portal - National & State Examination Result Hub</div>
+    <h2 class='sr-title'>Official Result Portal - National & State Examination Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Official Result Portal - National & State Examination Result Hub"; 
+$meta_description = "Check your examination Result online across all Indian boards and universities. Find the latest 10th, 12th, and entrance exam results, merit lists, and marksheets."; 
+$meta_keywords = "result, check result online, exam result india, 10th result, 12th result, university result portal, sarkari result hub, official result website"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Official Result Portal - National & State Examination Result Hub";
+$meta_description = "Check your examination Result online across all Indian boards and universities. Find the latest 10th, 12th, and entrance exam results, merit lists, and marksheets.";
+$meta_keywords = "result, check result online, exam result india, 10th result, 12th result, university result portal, sarkari result hub, official result website";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Official Result Hub: Your Comprehensive Navigator to National, State, University, and Competitive Examination result Gateways (Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), National Institute of Open Schooling (NIOS), State Secondary Education Boards, and various Indian Universities) Result Portals Across India</h1>
+        
         
         <p>The term "Result" (when applied to the annual academic evaluations, semester assessments, and professional entrance examinations conducted by the various educational landscapes of India) represents the ultimate digital milestone for over 50 million students navigating the primary and higher education sectors throughout the nation. As the primary official-to-candidate bridge for the state's intelligence and merit infrastructure, the universal "Result" search serves as the formal master directory that allows candidates to access their entrance scores, board proficiency percentages, and final institutional allotment via dedicated government server endpoints. For the current academic cycle, where high-quality digital governance and integrated cloud-based analytics are nationwide priorities, the "Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Indian education councils have implemented state-of-the-art 'Electronic result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes every critical "Result," ensuring that every aspiring student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -46,10 +68,9 @@ $meta_keywords = "result, check result online, exam result india, 10th result, 1
                 <a href="http://upresults.nic.in" class="btn" title="UP State Status" target="_blank">UPMSP Result Portal</a>
                 <a href="https://results.nic.in" class="btn" title="Main NIC Hub" target="_blank">NIC Results India</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Records</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Result Portals</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "result, check result online, exam result india, 10th result, 1
         <br>
         <strong>3. Is the online Result valid for admission?</strong>
         <p>Yes, your online board result (verified via the official portal or DigiLocker) is the accepted record for provisional admission to colleges or specialized technical diplomas.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

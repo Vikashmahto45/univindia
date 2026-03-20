@@ -1,17 +1,31 @@
 <?php 
-include '../includes/header.php'; 
-$page_title = ""; 
+include '../header.php'; 
+$page_title = "Rbse 10th Result Link Portal"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div class="content-wrapper">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rbse 10th Result Link Portal</div>
+    <h2 class='sr-title'>Rbse 10th Result Link Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Rbse 10th Result Link Portal"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="content-wrapper">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="page-head-line">RBSE 10th Result Link Portal</h1>
-            </div>
-        </div>
+                
+            
         <div class="row">
             <div class="col-md-12">
                 <div class="alert alert-info">
@@ -36,18 +50,22 @@ $meta_keywords = "";
                             <li>Clicking the link will open a new window where you need to enter your login credentials.</li>
                             <li>Usually, a Roll Number is sufficient to view the result.</li>
                         </ol>
-                    </div>
-                </div>
+                    
                 <h3>Result Statistics & Important Information:</h3>
                 <p>
                     The RBSE 10th results are typically announced a few weeks after the completion of the exams. The board also releases merit lists and statistics regarding the pass percentage and topper details along with the results.
                 </p>
                 <div class="alert alert-warning">
                     <strong>Note:</strong> In case the official website is slow due to heavy traffic, please be patient and refresh the page or try after some time.
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -7,10 +7,27 @@ $meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 b
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2021 12th - Official Archive of Senior Secondary Results</div>
-    <h2 class='sr-title'>india result 2021 12th: Your Comprehensive Navigator to the 2021 Senior Secondary Board Archives, National
-            Informatics Centre (NIC) Result Gateways, and Authoritative Mirror Hubs Across India</h2>
+    <h2 class='sr-title'>india result 2021 12th - Official Archive of Senior Secondary Results</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 2021 12th - Official Archive of Senior Secondary Results"; 
+$meta_description = "Access the india result 2021 12th for all state and national boards. Documenting the high-speed mirrors and official archives for the 2021 senior secondary exams."; 
+$meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 board results, indiaresults class 12 2021, HSC result 2021 link"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result 2021 12th - Official Archive of Senior Secondary Results";
+$meta_description = "Access the india result 2021 12th for all state and national boards. Documenting the high-speed mirrors and official archives for the 2021 senior secondary exams.";
+$meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 board results, indiaresults class 12 2021, HSC result 2021 link";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -66,8 +83,7 @@ $meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 b
                 <a href="https://www.digilocker.gov.in/" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="Official Marksheet" target="_blank">DigiLocker Records</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 2021 12th Online</h2>
         <p>To ensure a successful result search in the 2021 records, follow these technical steps:</p>
@@ -104,7 +120,7 @@ $meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 b
                 final database changes related to india result 2021 12th data, please visit the respective Board
                 headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About india result 2021 12th</h2>
@@ -120,8 +136,13 @@ $meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 b
         <strong>3. Is the online result from mirror portals official?</strong>
         <p>The "india result 2021 12th" data on mirrors like `indiaresults.com` is official. However, for legal and
             permanent use, the DigiLocker marksheet is the primary valid document.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

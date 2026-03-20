@@ -7,9 +7,27 @@ $meta_keywords = "10th result 2024, matric result 2024 link, class 10 board resu
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Result 2024 - Official Secondary Board Examination Result Manual</div>
-    <h2 class='sr-title'>10th Result 2024: Your Comprehensive Navigator to Secondary Board Examination Results Across India</h2>
+    <h2 class='sr-title'>10th Result 2024 - Official Secondary Board Examination Result Manual</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th Result 2024 - Official Secondary Board Examination Result Manual"; 
+$meta_description = "Check 10th Result 2024 for official Secondary (Matric) Board exams across India (CBSE, ICSE, State Boards). Access the 2024 result check links and official portals."; 
+$meta_keywords = "10th result 2024, matric result 2024 link, class 10 board result check, secondary result 2024 archives, official 10th scoring manual, 10th board result 2024 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th Result 2024 - Official Secondary Board Examination Result Manual";
+$meta_description = "Check 10th Result 2024 for official Secondary (Matric) Board exams across India (CBSE, ICSE, State Boards). Access the 2024 result check links and official portals.";
+$meta_keywords = "10th result 2024, matric result 2024 link, class 10 board result check, secondary result 2024 archives, official 10th scoring manual, 10th board result 2024 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "10th result 2024, matric result 2024 link, class 10 board resu
                 <a href="http://upresults.nic.in" class="btn" title="UP 10th Result Link" target="_blank">UP High School 2024</a>
                 <a href="http://rajresults.nic.in" class="btn" title="Rajasthan 10th Result" target="_blank">RBSE Secondary 2024</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th Result 2024 Portal</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "10th result 2024, matric result 2024 link, class 10 board resu
         <br>
         <strong>3. Is the online printout of 10th Result 2024 valid for school admission?</strong>
         <p>Yes, the provisional marksheet downloaded from the "10th Result 2024" portal is valid for initial admission in the 2024-25 session. However, you must produce the 'Original Certificate' issued by your board for final enrollment.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

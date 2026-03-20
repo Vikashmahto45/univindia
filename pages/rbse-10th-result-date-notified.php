@@ -1,22 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rbse 10th result date - Official BSER Rajasthan Notification Hub"; 
 $meta_description = "Track rbse 10th result date for BSER Secondary exams. Access the official Rajasthan result date notifications and portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 10th result date - Official BSER Rajasthan Notification Hub</div>
+    <h2 class='sr-title'>rbse 10th result date - Official BSER Rajasthan Notification Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rbse 10th result date - Official BSER Rajasthan Notification Hub"; 
+$meta_description = "Track rbse 10th result date for BSER Secondary exams. Access the official Rajasthan result date notifications and portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Stay updated with the official declaration schedule for Rajasthan
                 Secondary results. BSER Ajmer notifications and result portal links synchronized for the current batch.
             </p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Result Date</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -34,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify RBSE result notifications and records by student name.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +94,7 @@ $meta_keywords = "";
                     assessment and practical marks. Having a verified digital result from the <strong>rbse 10th result
                         date</strong> hub is essential for students to complete their academic verification and proof of
                     educational attainment during school-level registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,27 +107,29 @@ $meta_keywords = "";
                         <p>The <strong>rbse 10th result date</strong> is typically notified by the Board of Secondary
                             Education, Rajasthan, in late May or early June. Stay tuned to this hub for the official
                             BSER Ajmer press release.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Rajasthan-board 10th results by name?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>rbse 10th result date</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates once the results are officially
                             declared.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSER (Rajasthan), ensuring all result data is mirrored directly from
                             official board databases.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

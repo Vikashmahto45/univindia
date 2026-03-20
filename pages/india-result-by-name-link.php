@@ -7,10 +7,27 @@ $meta_keywords = "india result by name, check result by name, name wise board re
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result by name - Official Name-Wise Result Portal</div>
-    <h2 class='sr-title'>india result by name: Your Unified Navigator to Name-Wise Search Portals, Official Mirror Hubs, and
-            Independent Result Gateways Across India</h2>
+    <h2 class='sr-title'>india result by name - Official Name-Wise Result Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result by name - Official Name-Wise Result Portal"; 
+$meta_description = "Check india result by name for all boards and universities. Access the official name-wise result search portal for 10th and 12th exams on indiaresults.com."; 
+$meta_keywords = "india result by name, check result by name, name wise board result, indiaresults name search, 10th result search by name"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result by name - Official Name-Wise Result Portal";
+$meta_description = "Check india result by name for all boards and universities. Access the official name-wise result search portal for 10th and 12th exams on indiaresults.com.";
+$meta_keywords = "india result by name, check result by name, name wise board result, indiaresults name search, 10th result search by name";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -66,8 +83,7 @@ $meta_keywords = "india result by name, check result by name, name wise board re
                 <a href="https://results.nic.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="Official NIC Results" target="_blank">National Result Gateway</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result by name Online</h2>
         <p>To ensure a successful result search in the records, follow these technical steps:</p>
@@ -104,7 +120,7 @@ $meta_keywords = "india result by name, check result by name, name wise board re
                 database changes related to india result by name data, please visit the respective Board/University
                 headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result By Name</h2>
@@ -120,8 +136,13 @@ $meta_keywords = "india result by name, check result by name, name wise board re
         <strong>3. Is the name-wise search result valid for job applications?</strong>
         <p>Yes, for initial verification, "india result by name" is accepted; however, final document verification (DV)
             always requires the original certificate with the roll number.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

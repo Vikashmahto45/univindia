@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "WBResults Nic In Result - Official West Bengal Examination Gateway"; 
 $meta_description = "Check WBResults Nic In Result online. Access the West Bengal Madhyamik (10th) and Higher Secondary (12th) result links, marksheets, and official scores for 2024."; 
 $meta_keywords = "wbresults nic in result, check west bengal result online, wbbse madhyamik result link, wbchse hs result portal, official wb board results, wbresults.nic.in 2024 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; WBResults Nic In Result - Official West Bengal Examination Gateway</div>
+    <h2 class='sr-title'>WBResults Nic In Result - Official West Bengal Examination Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "WBResults Nic In Result - Official West Bengal Examination Gateway"; 
+$meta_description = "Check WBResults Nic In Result online. Access the West Bengal Madhyamik (10th) and Higher Secondary (12th) result links, marksheets, and official scores for 2024."; 
+$meta_keywords = "wbresults nic in result, check west bengal result online, wbbse madhyamik result link, wbchse hs result portal, official wb board results, wbresults.nic.in 2024 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "WBResults Nic In Result - Official West Bengal Examination Gateway";
+$meta_description = "Check WBResults Nic In Result online. Access the West Bengal Madhyamik (10th) and Higher Secondary (12th) result links, marksheets, and official scores for 2024.";
+$meta_keywords = "wbresults nic in result, check west bengal result online, wbbse madhyamik result link, wbchse hs result portal, official wb board results, wbresults.nic.in 2024 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>WBResults Nic In Result: Your Comprehensive Navigator to West Bengal Board of Secondary Education (WBBSE), West Bengal Council of Higher Secondary Education (WBCHSE), Madhyamik (Class 10), and Higher Secondary (Class 12) Result Gateways (Government of West Bengal, School Education Department, and National Informatics Centre (NIC) West Bengal State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "WBResults Nic In Result" (applicable to the annual board examinations and continuous evaluation conducted for the academic sessions by the West Bengal Board of Secondary Education and the West Bengal Council of Higher Secondary Education) represents the single most significant digital milestone for over 1.5 million students residing in the culturally rich and academic landscape of West Bengal. As the primary official gateway to the state's education infrastructure (Kolkata, Salt Lake City HQ), and the traditional school education infrastructure of the nation, the "WBResults Nic In Result" serves as the formal secondary and senior secondary master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificate via dedicated government server endpoints. For the current academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "WBResults Nic In Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The West Bengal education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "WBResults Nic In Result," ensuring that every aspiring student and researcher in West Bengal can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "wbresults nic in result, check west bengal result online, wbbs
                 <a href="https://wbbse.wb.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="WBBSE Official Portal" target="_blank">Visit WBBSE Home</a>
                 <a href="https://wbchse.wb.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="WBCHSE Official Portal" target="_blank">Visit WBCHSE Home</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official WBResults Nic In Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your West Bengal board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "wbresults nic in result, check west bengal result online, wbbs
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to WBResults Nic In Result, please visit the respective Board headquarters at Kolkata or your respective School/College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About WBResults Nic In Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "wbresults nic in result, check west bengal result online, wbbs
         <br>
         <strong>3. Is the result from WBResults Nic In Result valid for scholarships like SVMCM?</strong>
         <p>Yes, your board results (verified via the official "WBResults Nic In Result" portal) are the primary records for applying to the Swami Vivekananda Merit-cum-Means Scholarship in 2024.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

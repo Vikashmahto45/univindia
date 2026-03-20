@@ -7,9 +7,27 @@ $meta_keywords = "hslc result 2021 assam, seba result 2021, check assam 10th res
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSLC Result 2021 Assam - Official SEBA Board Result Archive</div>
-    <h2 class='sr-title'>HSLC Result 2021 Assam: Your Comprehensive Navigator to Board of Secondary Education, Assam (SEBA) High School Leaving Certificate (HSLC), Class 10th, and Assam High Madrassa (AHM) Result Gateways (Government of Assam, Education Department, and National Informatics Centre (NIC) Assam State Centre) Result Portals Across Assam</h2>
+    <h2 class='sr-title'>HSLC Result 2021 Assam - Official SEBA Board Result Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "HSLC Result 2021 Assam - Official SEBA Board Result Archive"; 
+$meta_description = "Check HSLC Result 2021 Assam for Class 10th examinations. Access the SEBA Assam 2021 results, merit list, and official certificates online."; 
+$meta_keywords = "hslc result 2021 assam, seba result 2021, check assam 10th result 2021, hslc marksheet 2021, sabaonline.org result 2021, assam board result hub"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "HSLC Result 2021 Assam - Official SEBA Board Result Archive";
+$meta_description = "Check HSLC Result 2021 Assam for Class 10th examinations. Access the SEBA Assam 2021 results, merit list, and official certificates online.";
+$meta_keywords = "hslc result 2021 assam, seba result 2021, check assam 10th result 2021, hslc marksheet 2021, sabaonline.org result 2021, assam board result hub";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "hslc result 2021 assam, seba result 2021, check assam 10th res
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Assam Records</a>
                 <a href="https://assam.gov.in" class="btn" title="State Status" target="_blank">Assam Government Portal</a>
                 <a href="https://ahsec.assam.gov.in" class="btn" title="HS Hub" target="_blank">AHSEC Official Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About HSLC Result 2021 Assam Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "hslc result 2021 assam, seba result 2021, check assam 10th res
         <br>
         <strong>3. Is the 2021 HSLC Result valid for bank jobs?</strong>
         <p>Yes, your 2021 matriculation results (verified via the official "HSLC Result 2021 Assam" portal) are accepted records for the age verification and minimum qualification for banking and police sector empanelment.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "12th arts result roll number, check 12th arts result by roll n
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Arts Result Roll Number - Official National Board Result Gateway</div>
-    <h2 class='sr-title'>12th Arts Result Roll Number: Your Comprehensive Navigator to National and State Board Class 12 (Higher Secondary), Senior Secondary Certificate (SSCE) Arts Stream, and Humanities Result Gateways (Government of Rajasthan, Uttar Pradesh, Bihar, Punjab, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>12th Arts Result Roll Number - Official National Board Result Gateway</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "12th Arts Result Roll Number - Official National Board Result Gateway"; 
+$meta_description = "Check 12th Arts Result Roll Number online. Access the direct result links for RBSE, UPMSP, BSEB, and all state boards. Verify your 2024 Arts scores instantly."; 
+$meta_keywords = "12th arts result roll number, check 12th arts result by roll number, rajresults.nic.in 12th arts, up board 12th arts result, official arts result link, intermediate arts result search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "12th Arts Result Roll Number - Official National Board Result Gateway";
+$meta_description = "Check 12th Arts Result Roll Number online. Access the direct result links for RBSE, UPMSP, BSEB, and all state boards. Verify your 2024 Arts scores instantly.";
+$meta_keywords = "12th arts result roll number, check 12th arts result by roll number, rajresults.nic.in 12th arts, up board 12th arts result, official arts result link, intermediate arts result search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "12th arts result roll number, check 12th arts result by roll n
                 <a href="https://upresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="UP Board Official" target="_blank">UP Inter Arts Result</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 12th Arts Result Roll Number Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your respective board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "12th arts result roll number, check 12th arts result by roll n
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 12th Arts Result Roll Number, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 12th Arts Result Roll Number Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "12th arts result roll number, check 12th arts result by roll n
         <br>
         <strong>3. Is the result from 12th Arts Result Roll Number valid for Digilocker?</strong>
         <p>Yes, your board results (verified via the official "12th Arts Result Roll Number" portal) are digitized and available in the DigiLocker archive for official verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

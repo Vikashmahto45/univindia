@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www pseb ac in 10th result - Official Punjab Board Gateway Portal"; 
 $meta_description = "Check www pseb ac in 10th result for Matric examinations. Access the official Punjab School Education Board (PSEB) result gateway on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www pseb ac in 10th result - Official Punjab Board Gateway Portal</div>
+    <h2 class='sr-title'>www pseb ac in 10th result - Official Punjab Board Gateway Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www pseb ac in 10th result - Official Punjab Board Gateway Portal"; 
+$meta_description = "Check www pseb ac in 10th result for Matric examinations. Access the official Punjab School Education Board (PSEB) result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest Matriculation academic results for Punjab. Official
                 PSEB mirrors and portal links updated for the Annual 10th examinations.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check PSEB 10th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify PSEB results by student name alternative.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +89,7 @@ $meta_keywords = "";
                     marks. Having a verified digital result from the <strong>www pseb ac in 10th result</strong> hub is
                     essential for students to complete their academic verification and proof of performance during
                     university registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,26 +101,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>www pseb ac in 10th result</strong> hub on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for all matriculation candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including PSEB, ensuring all result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved via this gateway is a valid provisional document accepted for
                             initial class 11th registration and document verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

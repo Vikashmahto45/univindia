@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha india result - Official Odisha Academic Hub"; 
 $meta_description = "Check odisha india result for CHSE, BSE and university exams. Access the official Odisha board result portal and mirrors on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha india result - Official Odisha Academic Hub</div>
+    <h2 class='sr-title'>odisha india result - Official Odisha Academic Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha india result - Official Odisha Academic Hub"; 
+$meta_description = "Check odisha india result for CHSE, BSE and university exams. Access the official Odisha board result portal and mirrors on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Odisha
                 Class 10th (BSE), 12th (CHSE), and major state universities. Direct result links and mirrors updated for
                 the current academic session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Odisha Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Odisha board results online by student name alternative criteria for the current academic
                         examination batch on <strong>odisha india result</strong> mirrors.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -86,8 +97,7 @@ $meta_keywords = "";
                     for all major exams. Having a verified digital result from the <strong>odisha india result</strong>
                     hub is essential for students to complete their academic verification and proof of educational
                     achievement during transition and registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,15 +109,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>You can use the <strong>odisha india result</strong> portal by selecting the BSE Odisha
                             section and using the dedicated name search feature for students.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">When will the CHSE Odisha 12th result be announced?</button>
                     <div class="faq-answer">
                         <p>Dates are announced by CHSE Bhubaneswar. The <strong>odisha india result</strong> hub
                             provides real-time notifications as soon as official data is released by the council.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital Odisha marksheet valid for graduation
                         admission?</button>
@@ -115,11 +123,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>odisha india result</strong> gateway is a
                             valid provisional document accepted for initial university registration and verification
                             across Odisha and India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

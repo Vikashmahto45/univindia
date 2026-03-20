@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha 10th result 2022 - Official BSE Matric Archive"; 
 $meta_description = "Check odisha 10th result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result gateway on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha 10th result 2022 - Official BSE Matric Archive</div>
+    <h2 class='sr-title'>odisha 10th result 2022 - Official BSE Matric Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha 10th result 2022 - Official BSE Matric Archive"; 
+$meta_description = "Check odisha 10th result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 Matriculation (10th) results for Odisha. Official BSE
                 mirrors and archival links updated for HSC examinations.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify Odisha 2022 matric results by student name.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -73,8 +84,7 @@ $meta_keywords = "";
                     admission through SAMS Odisha or applying for various vocational certificates. Having a verified
                     digital result from the <strong>odisha 10th result 2022</strong> hub is essential for academic
                     verification and proof of secondary education during career registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -87,26 +97,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>odisha 10th result 2022</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check odisha 10th result 2022 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>odisha 10th result 2022</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated "Search by Name" feature for all 2022
                             Matric candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 result valid for +2 admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>odisha 10th result 2022</strong> digital copy is a valid provisional document
                             accepted for initial +2 registration and document verification processes across Odisha.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

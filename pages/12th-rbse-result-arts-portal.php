@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th rbse result arts - Official Rajasthan Board Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12th rbse result arts - Official Rajasthan Board Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th rbse result arts - Official Rajasthan Board Portal"; 
+$meta_description = "Check 12th rbse result arts for the Senior Secondary examination. Access the official 2023 Rajasthan Board (BSER) 12th Arts result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Arts Result</a>
                 <a href="#faq" class="btn btn-secondary">System Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify RBSE 12th arts results by student name.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     professional certifications, having a verified digital result from the <strong>12th rbse result
                         arts</strong> portal at <strong>indiaresults.com</strong> is an essential first step in their
                     academic progression.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,27 +98,26 @@ $meta_keywords = "";
                         <p>Yes, the <strong>12th rbse result arts</strong> portal on <strong>indiaresults</strong>
                             provides a convenient "Search by Name" feature for all Rajasthan 12th-grade Arts candidates.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online marksheet official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for RBSE Ajmer,
                             ensuring that all 12th-grade data is mirrored directly from official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>12th rbse result arts</strong> is a valid provisional
                             document accepted for initial college registration and certificate verification processes
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

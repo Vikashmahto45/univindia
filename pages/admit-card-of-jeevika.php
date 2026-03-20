@@ -9,7 +9,26 @@ $meta_keywords = "admit card of jeevika download, bihar jeevika hall ticket down
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Card of Jeevika Download - Bihar BRLPS Recruitment Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>Admit Card of Jeevika Download - Bihar BRLPS Recruitment Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "Admit Card of Jeevika Download - Bihar BRLPS Recruitment Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Admit Card of Jeevika. Get the direct link for Bihar Rural Livelihoods Promotion Society (BRLPS) exam hall tickets at brlps.in."; 
+$meta_keywords = "admit card of jeevika download, bihar jeevika hall ticket download, brlps.in admit card login, jeevika exam date 2024 download, Bihar BRLPS call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Admit Card of Jeevika Download - Bihar BRLPS Recruitment Hall Ticket Link | Univindia.online";
+$meta_description = "Download Admit Card of Jeevika. Get the direct link for Bihar Rural Livelihoods Promotion Society (BRLPS) exam hall tickets at brlps.in.";
+$meta_keywords = "admit card of jeevika download, bihar jeevika hall ticket download, brlps.in admit card login, jeevika exam date 2024 download, Bihar BRLPS call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Admit Card of Jeevika: Download Bihar BRLPS Recruitment Hall Ticket</h2>
         
@@ -91,9 +110,14 @@ $meta_keywords = "admit card of jeevika download, bihar jeevika hall ticket down
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Bihar Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

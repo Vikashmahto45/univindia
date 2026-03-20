@@ -7,9 +7,27 @@ $meta_keywords = "bsc 1st year result 2023, check bsc result online, official un
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bsc 1st year result 2023 - Official University Result Portal</div>
-    <h2 class='sr-title'>bsc 1st year result 2023: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>bsc 1st year result 2023 - Official University Result Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "bsc 1st year result 2023 - Official University Result Portal"; 
+$meta_description = "Check bsc 1st year result 2023 online. Access the semester and annual results for Bachelor of Science (BSc) for various Indian universities for the 2023 session."; 
+$meta_keywords = "bsc 1st year result 2023, check bsc result online, official university bsc link, bsc part 1 examination results 2023 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "bsc 1st year result 2023 - Official University Result Portal";
+$meta_description = "Check bsc 1st year result 2023 online. Access the semester and annual results for Bachelor of Science (BSc) for various Indian universities for the 2023 session.";
+$meta_keywords = "bsc 1st year result 2023, check bsc result online, official university bsc link, bsc part 1 examination results 2023 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "bsc 1st year result 2023, check bsc result online, official un
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC National Results" target="_blank">Access NIC Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
                 <a href="https://www.ugc.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="UGC Portal" target="_blank">Visit Higher Education HUB</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official bsc 1st year result 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your university, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "bsc 1st year result 2023, check bsc result online, official un
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to bsc 1st year result 2023 data, please visit your respective university headquarters or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About bsc 1st year result 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "bsc 1st year result 2023, check bsc result online, official un
         <br>
         <strong>3. Is the result from bsc 1st year result 2023 valid for scholarships?</strong>
         <p>Yes, your university results (verified via the official "bsc 1st year result 2023" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

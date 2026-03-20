@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "intermediate results - Official State Board Portal"; 
 $meta_description = "Check intermediate results online for AP, TS, and other state boards. Access the official Inter result portal for Class 11 and Class 12."; 
 $meta_keywords = "intermediate results, check inter results, ap inter results, ts intermediate results, 12th board results link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; intermediate results - Official State Board Portal</div>
+    <h2 class='sr-title'>intermediate results - Official State Board Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "intermediate results - Official State Board Portal"; 
+$meta_description = "Check intermediate results online for AP, TS, and other state boards. Access the official Inter result portal for Class 11 and Class 12."; 
+$meta_keywords = "intermediate results, check inter results, ap inter results, ts intermediate results, 12th board results link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "intermediate results - Official State Board Portal";
+$meta_description = "Check intermediate results online for AP, TS, and other state boards. Access the official Inter result portal for Class 11 and Class 12.";
+$meta_keywords = "intermediate results, check inter results, ap inter results, ts intermediate results, 12th board results link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>intermediate results: Your Authoritative Navigator to Higher Secondary Certificate (HSC), Board of Intermediate Education (BIE), and National Informatics Centre (NIC) Result Gateways</h1>
+        
         
         <p>The "intermediate results" (representing the primary synchronized digital result-distribution network utilized by millions of students for the annual senior secondary examinations conducted by boards like BIEAP, TSBIE, and Bihar Board) serve as the most critical academic transition in India. As the primary official gateway to the nation's higher educational infrastructure, the "intermediate results" provides the formal academic master directory that allows candidates to access their theory scores, practical marks, and qualifying status via dedicated high-concurrency server endpoints like `bieap.gov.in`, `tsbie.cgg.gov.in`, and `results.nic.in`. For the current academic cycle, which observed a massive digital transformation in secure tabulation and instant result delivery across all states, the "intermediate results" search remains the definitive digital tool for verifying scholastic achievement. The board authorities implemented state-of-the-art 'Integrated Performance Assessments' to ensure that the Inter Part I and Part II scores (including subject-wise totals, aggregate percentage, and eligibility for Engineering and Medical entrance exams) were served with maximum integrity. At Univindia.online, we prioritize specialized navigation for Intermediate students. We are dedicated to providing a premium, SEO-optimized national portal that centralizes the "intermediate results," ensuring that every student from Andhra Pradesh to Bihar can access their records without technical delay.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "intermediate results, check inter results, ap inter results, t
                 <a href="https://tsbie.cgg.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="TS Inter Official" target="_blank">Access TS Inter HUB</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Portal" target="_blank">National Result Portal</a>
                 <a href="https://indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Exam Results Mirror" target="_blank">Intermediate Mirror</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official intermediate results Online</h2>
         <p>To ensure a successful result search in the Inter Board records, follow these technical steps:</p>
@@ -46,7 +67,7 @@ $meta_keywords = "intermediate results, check inter results, ap inter results, t
 
         <p><i>Note: Univindia.online is an educational news portal. For original mark memos, pass certificates, and final database changes related to intermediate results data, please visit the respective Board headquarters or your Junior College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Intermediate Results</h2>
@@ -59,7 +80,15 @@ $meta_keywords = "intermediate results, check inter results, ap inter results, t
         <br>
         <strong>3. Is the result from official state portals final?</strong>
         <p>Yes, the "intermediate results" served via the official BIE portals are final. However, a physical marks memo issued by the board is the legal requirement for admissions.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

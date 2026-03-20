@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in</div>
+    <h2 class='sr-title'>MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in";
+$page_description = "Download MP Board Admit Card 2025 for Class 10 and Class 12 exams. Get direct link for MPBSE Hall Ticket, Exam Schedule, and center status. 800+ words of detailed guide.";
+$page_keywords = "MP Board Admit Card 2025, MPBSE 10th 12th Hall Ticket Download, MP Board Class 10 Admit Card, MP Board Class 12 Hall Ticket, mpbse.nic.in admit card link";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">MP Board Admit Card 2025: Download MPBSE 10th & 12th Hall Ticket</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-file-alt me-2"></i> <strong>Official Update:</strong> The Madhya Pradesh Board of Secondary Education (MPBSE) releases the admit cards for High School (Class 10) and Higher Secondary (Class 12) examinations on its official portal: mpbse.mponline.gov.in.
@@ -87,14 +110,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 h-100 shadow-sm">
                             <h6 class="text-success"><i class="fas fa-id-card-alt me-2"></i> Verified Admit Card</h6>
                             <p class="small text-light-gray mb-0">The attested copy with the Principal's stamp is a must.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 h-100 shadow-sm border-success">
                             <h6 class="text-success"><i class="fas fa-pencil-ruler me-2"></i> Stationery Box</h6>
                             <p class="small text-light-gray mb-0">Carry a transparent pouch with pens, pencils, and geometric tools. Opaque boxes are not allowed.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Frequently Asked Questions (FAQ)</h2>
@@ -108,8 +129,7 @@ $meta_keywords = "";
                         <div id="mpQ1" class="accordion-collapse collapse" data-bs-parent="#mpBoardFaq">
                             <div class="accordion-body text-light-gray">
                                 No, individual center change requests are not entertained by MPBSE once the final admit card is issued and seats are allotted.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -120,10 +140,8 @@ $meta_keywords = "";
                         <div id="mpQ2" class="accordion-collapse collapse" data-bs-parent="#mpBoardFaq">
                             <div class="accordion-body text-light-gray">
                                 Inform your school Principal immediately. They will facilitate the correction process through the MPBSE divisional office before the actual exam starts.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark shadow-sm">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Quick Links</h5>
@@ -131,14 +149,14 @@ $meta_keywords = "";
                         <a href="mpbse-admit-card.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">MPBSE Link</a>
                         <a href="esb-mp-gov-in-admit-card-2025.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">MP ESB Hall Ticket</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-building me-2"></i> Other State Boards</h3>
                 <div class="row g-3">
+                    <?php
                     $boards = [
                         'up-board-admit-card.php' => 'UP Board 10/12 Hall Ticket',
                         'rbse-admit-card.php' => 'Rajasthan Board Admit Card',
@@ -152,11 +170,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -186,3 +203,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

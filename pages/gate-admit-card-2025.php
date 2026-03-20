@@ -9,7 +9,26 @@ $meta_keywords = "gate admit card 2025, goaps admit card download, gate 2025 hal
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; GATE Admit Card 2025 Download - Graduate Aptitude Test in Engineering Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>GATE Admit Card 2025 Download - Graduate Aptitude Test in Engineering Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "GATE Admit Card 2025 Download - Graduate Aptitude Test in Engineering Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download GATE Admit Card 2025. Get the direct link for IIT Graduate Aptitude Test in Engineering (GATE) hall tickets at gate2025.iit@.ac.in (GOAPS)."; 
+$meta_keywords = "gate admit card 2025, goaps admit card download, gate 2025 hall ticket login, graduate aptitude test in engineering call letter, iit gate admit card link"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "GATE Admit Card 2025 Download - Graduate Aptitude Test in Engineering Hall Ticket Link | Univindia.online";
+$meta_description = "Download GATE Admit Card 2025. Get the direct link for IIT Graduate Aptitude Test in Engineering (GATE) hall tickets at gate2025.iit@.ac.in (GOAPS).";
+$meta_keywords = "gate admit card 2025, goaps admit card download, gate 2025 hall ticket login, graduate aptitude test in engineering call letter, iit gate admit card link";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">GATE Admit Card 2025: Download Graduate Aptitude Test in Engineering Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "gate admit card 2025, goaps admit card download, gate 2025 hal
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search PSU Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

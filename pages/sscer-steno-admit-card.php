@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online"; 
 $meta_description = "Download SSCER Stenographer Grade C & D Admit Card 2024 for Eastern Region. Check application status, exam date, and skill test hall ticket at sscer.org."; 
 $meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer hall ticket, sscer.org steno status, ssc steno grade c d admit card download"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online</div>
+    <h2 class='sr-title'>SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online"; 
+$meta_description = "Download SSCER Stenographer Grade C & D Admit Card 2024 for Eastern Region. Check application status, exam date, and skill test hall ticket at sscer.org."; 
+$meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer hall ticket, sscer.org steno status, ssc steno grade c d admit card download"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online";
+$meta_description = "Download SSCER Stenographer Grade C & D Admit Card 2024 for Eastern Region. Check application status, exam date, and skill test hall ticket at sscer.org.";
+$meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer hall ticket, sscer.org steno status, ssc steno grade c d admit card download";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -93,8 +116,16 @@ $meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer h
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

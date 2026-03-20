@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSCGD Admit Card 2025: SSC GD Constable Hall Ticket Download @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCGD Admit Card 2025: SSC GD Constable Hall Ticket Download @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSCGD Admit Card 2025: SSC GD Constable Hall Ticket Download @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSCGD Admit Card 2025: SSC GD Constable Hall Ticket Download @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSCGD Admit Card 2025: SSC GD Constable Hall Ticket Download @ ssc.gov.in";
+$page_description = "Download SSCGD Admit Card 2025 for Constable GD recruitment. Get direct link for SSC GD CBT, PET/PST Hall Ticket, and Exam Status. 800+ words of latest updates.";
+$page_keywords = "SSCGD Admit Card 2025, SSC GD Constable Hall Ticket, SSC GD Call Letter Download, SSC GD Exam Status, ssc.gov.in gd admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSCGD Admit Card 2025: SSC GD Constable Hall Ticket</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-user-shield me-2"></i> <strong>Recruitment Alert:</strong> The Staff Selection Commission (SSC) has released the 2025 schedule for GD Constable in BSF, CISF, CRPF, SSB, ITBP, AR, and SSF. The <strong>SSCGD Admit Card</strong> can be downloaded zone-wise.
@@ -88,14 +111,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-info">
                             <h5 class="text-info"><i class="fas fa-id-card me-2"></i> Primary ID: Aadhar</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card or E-Aadhar printout is preferred. Ensure the name and DOB match the SSC records exactly.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-info">
                             <h5 class="text-info"><i class="fas fa-camera me-2"></i> Recent Photographs</h5>
                             <p class="small text-light-gray mb-0">Carry at least two recent colored photographs. These will be pasted on the manual entry sheets inside the exam lab.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">SSC GD Admit Card FAQ: Frequently Asked Questions</h2>
@@ -109,8 +130,7 @@ $meta_keywords = "";
                         <div id="sgQ1" class="accordion-collapse collapse" data-bs-parent="#sscgdFaq">
                             <div class="accordion-body text-light-gray">
                                 The city intimation is released region-wise. If your region (e.g., KKR or WR) hasn't activated the link, check back after 24 hours.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +141,8 @@ $meta_keywords = "";
                         <div id="sgQ2" class="accordion-collapse collapse" data-bs-parent="#sscgdFaq">
                             <div class="accordion-body text-light-gray">
                                 You must carry two additional original photos to the center and get an undertaking form filled at the center representative's desk.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark shadow">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Related Recruitment Pages</h5>
@@ -132,14 +150,14 @@ $meta_keywords = "";
                         <a href="ssc-gd-admit-card-2025.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">SSC GD 2025 Page</a>
                         <a href="ssc-gd-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">Main GD Archive</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> Paramilitary Selection Portal</h3>
                 <div class="row g-3">
+                    <?php
                     $para = [
                         'crpf-admit-card.php' => 'CRPF Result & Admit Card',
                         'cisf-admit-card.php' => 'CISF Fireman Admit Card',
@@ -153,11 +171,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +204,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

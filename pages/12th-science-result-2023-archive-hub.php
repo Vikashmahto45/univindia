@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th science result 2023 - Official Senior Secondary Academic Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12th science result 2023 - Official Senior Secondary Academic Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th science result 2023 - Official Senior Secondary Academic Gateway"; 
+$meta_description = "Check 12th science result 2023 for all state and central board exams. Access the official 2023 Class 12 Science result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 12th Science Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify 2023 Class 12 Science results by student name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +92,7 @@ $meta_keywords = "";
                     marks. Having a verified digital result from the <strong>12th science result 2023</strong> hub is
                     essential for students to complete their academic verification and proof of educational attainment
                     during university registration and document verification processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,28 +105,27 @@ $meta_keywords = "";
                         <p>The <strong>12th science result 2023</strong> hub covers all major state boards, central
                             boards (CBSE/ICSE), and several national-level institutions offering Senior Secondary
                             Science certification in India.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2023 Science results on this hub official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards, ensuring all 2023 result data is mirrored directly from official board databases.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check result by name for my 12th Science batch?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>12th science result 2023</strong> portal includes a dedicated name-wise
                             search for many major board examinations across different Indian states for that academic
                             session.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

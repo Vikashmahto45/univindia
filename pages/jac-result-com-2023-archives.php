@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jac result.com 2023 - Official Jharkhand Academic 2023 Archive"; 
 $meta_description = "Check jac result.com 2023 for 10th and 12th exams. Access the official 2023 Jharkhand Academic Council (JAC) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jac result.com 2023 - Official Jharkhand Academic 2023 Archive</div>
+    <h2 class='sr-title'>jac result.com 2023 - Official Jharkhand Academic 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jac result.com 2023 - Official Jharkhand Academic 2023 Archive"; 
+$meta_description = "Check jac result.com 2023 for 10th and 12th exams. Access the official 2023 Jharkhand Academic Council (JAC) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Jharkhand Class 10th
                 (Secondary) and 12th (Senior Secondary). Official JAC Ranchi mirrors and archival links updated for the
                 2023 batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 JAC Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify JAC state results 2023 by student name alternative criteria for both secondary and senior
                         secondary classes.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     verified digital result from the <strong>jac result.com 2023</strong> archive hub is essential for
                     students to complete their academic verification and proof of educational attainment during
                     university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,25 +108,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>jac result.com 2023</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 JAC board result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>jac result.com 2023</strong> portal includes a dedicated name-wise
                             search for major council examinees in Jharkhand for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for JAC 10th result verification?</button>
                     <div class="faq-answer">
                         <p>You primarily need your Council Roll Code and Roll Number. Some versions may also require
                             your Father's Name for <strong>jac result.com 2023</strong> session verification.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,9 +7,27 @@ $meta_keywords = "india result 2022 rajasthan, check rajasthan board results 202
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2022 rajasthan - Official Rajasthan Board Mirror</div>
-    <h2 class='sr-title'>india result 2022 rajasthan: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, school public Examinations (Class 10 & 12), and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india result 2022 rajasthan - Official Rajasthan Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 2022 rajasthan - Official Rajasthan Board Mirror"; 
+$meta_description = "Check india result 2022 rajasthan online. Access the historical results for RBSE Class 10 and Class 12 for the Rajasthan board for the 2022 session."; 
+$meta_keywords = "india result 2022 rajasthan, check rajasthan board results 2022 online, official rbse mirror link 2022, rajresults nic in 2022 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india result 2022 rajasthan - Official Rajasthan Board Mirror";
+$meta_description = "Check india result 2022 rajasthan online. Access the historical results for RBSE Class 10 and Class 12 for the Rajasthan board for the 2022 session.";
+$meta_keywords = "india result 2022 rajasthan, check rajasthan board results 2022 online, official rbse mirror link 2022, rajresults nic in 2022 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 2022 rajasthan, check rajasthan board results 202
                 <a href="http://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official RajResults" target="_blank">Access RajResults HUB</a>
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Board Portal" target="_blank">Visit RBSE Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 2022 rajasthan Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 2022 rajasthan, check rajasthan board results 202
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india result 2022 rajasthan data, please visit the RBSE headquarters in Ajmer or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Rajasthan 2022 Mirror</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 2022 rajasthan, check rajasthan board results 202
         <br>
         <strong>3. Is the result from india result 2022 rajasthan valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "india result 2022 rajasthan" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

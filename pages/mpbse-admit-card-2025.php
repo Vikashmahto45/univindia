@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online"; 
 $meta_description = "Download MPBSE Admit Card 2025. Get the direct link for MP Board 10th and 12th (HSC/HSSC) main examination hall tickets at mpbse.mponline.gov.in."; 
 $meta_keywords = "mpbse admit card 2025 download, mp board 10th 12th hall ticket 2025 download, mpbse.mponline.gov.in login 2025, mp board exam date 2025 download, secondary education call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online"; 
+$meta_description = "Download MPBSE Admit Card 2025. Get the direct link for MP Board 10th and 12th (HSC/HSSC) main examination hall tickets at mpbse.mponline.gov.in."; 
+$meta_keywords = "mpbse admit card 2025 download, mp board 10th 12th hall ticket 2025 download, mpbse.mponline.gov.in login 2025, mp board exam date 2025 download, secondary education call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online";
+$meta_description = "Download MPBSE Admit Card 2025. Get the direct link for MP Board 10th and 12th (HSC/HSSC) main examination hall tickets at mpbse.mponline.gov.in.";
+$meta_keywords = "mpbse admit card 2025 download, mp board 10th 12th hall ticket 2025 download, mpbse.mponline.gov.in login 2025, mp board exam date 2025 download, secondary education call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "mpbse admit card 2025 download, mp board 10th 12th hall ticket
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Search Board Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

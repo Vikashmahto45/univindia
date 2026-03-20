@@ -7,9 +7,27 @@ $meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, or
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE 10th Result 2023 - Official Odisha Board Link</div>
-    <h2 class='sr-title'>CHSE 10th Result 2023: Your Comprehensive Navigator to Board of Secondary Education Odisha (BSE Odisha), Council of Higher Secondary Education (Note: Secondary Cycle), and Odisha State Board result Gateways (Government of Odisha, School and Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>CHSE 10th Result 2023 - Official Odisha Board Link</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "CHSE 10th Result 2023 - Official Odisha Board Link"; 
+$meta_description = "Check CHSE 10th Result 2023 online. Access the Odisha Board Secondary results for the 2023 session. Official marksheets and board stats available for download."; 
+$meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, orissaresults.nic.in 2023, bse odisha 10th result, official chse portal 2023, odisha secondary result link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "CHSE 10th Result 2023 - Official Odisha Board Link";
+$meta_description = "Check CHSE 10th Result 2023 online. Access the Odisha Board Secondary results for the 2023 session. Official marksheets and board stats available for download.";
+$meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, orissaresults.nic.in 2023, bse odisha 10th result, official chse portal 2023, odisha secondary result link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, or
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSE Odisha Official" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official CHSE 10th Result 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your Odisha board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, or
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to CHSE 10th Result 2023, please visit the BSE headquarters at Cuttack or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CHSE 10th Result 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, or
         <br>
         <strong>3. Is the result from CHSE 10th Result 2023 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "CHSE 10th Result 2023" portal) were the primary records for applying to the 'Pathani Samanta' and other merit schemes in 2023.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

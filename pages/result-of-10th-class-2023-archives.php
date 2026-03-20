@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "result of 10th class 2023 - Official National Secondary Archive"; 
 $meta_description = "Check result of 10th class 2023 for all state and central board exams. Access the official 2023 Secondary archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; result of 10th class 2023 - Official National Secondary Archive</div>
+    <h2 class='sr-title'>result of 10th class 2023 - Official National Secondary Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "result of 10th class 2023 - Official National Secondary Archive"; 
+$meta_description = "Check result of 10th class 2023 for all state and central board exams. Access the official 2023 Secondary archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Class 10th (Secondary) for
                 all boards in India. Official mirrors and archival links updated for the 2023 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify all 2023 Class 10 results by student name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +89,7 @@ $meta_keywords = "";
                     verified digital result from the <strong>result of 10th class 2023</strong> hub is essential for
                     students to complete their academic verification and proof of performance during university
                     registration and document verification processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,27 +102,29 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>result of 10th class 2023</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for archival and verification
                             access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 10th result by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>result of 10th class 2023</strong> portal includes a dedicated
                             name-wise search for major board examinations across different Indian states for the 2023
                             session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>result of 10th class 2023</strong> archive is a valid
                             provisional document accepted for initial secondary school registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

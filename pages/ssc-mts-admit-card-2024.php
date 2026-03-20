@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in";
+$page_description = "Download SSC MTS Admit Card 2024-25 for Multi Tasking Staff and Havaldar vacancies. Get direct link for SSC MTS 2024 Hall Ticket, Phase 1 Exam Date, and Region Status. 800+ words guide.";
+$page_keywords = "SSC MTS Admit Card 2024, SSC MTS 2024 Hall Ticket Download, ssc.gov.in mts 2024 admit card, SSC MTS Exam Date 2024, SSC MTS Result Status";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SSC MTS Admit Card 2024: Multi Tasking (Non-Technical) Staff Hall Ticket</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-id-badge me-2"></i> <strong>CBT Update:</strong> The Staff Selection Commission (SSC) has begun the Computer Based Examination (CBE) for the <strong>SSC MTS 2024</strong> recruitment. Candidates can download their regional <strong>MTS Admit Card 2024</strong> 4 days before their respective exam dates.
@@ -84,14 +107,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-success h-100">
                             <h5 class="text-success"><i class="fas fa-print me-2"></i> Physical Admit Card</h5>
                             <p class="small text-light-gray mb-0">Ensure Page 1 (Center details) and Page 2 (Self Declaration) of the <strong>SSC MTS 2024 Admit Card</strong> are printed clearly.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-success h-100">
                             <h5 class="text-success"><i class="fas fa-id-card-alt me-2"></i> Valid Photo ID</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card with a clear photo. If the DOB on Aadhar is missing, carry an original 10th Marksheet as age proof.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">SSC MTS 2024 FAQ: Frequently Asked Questions</h2>
@@ -105,8 +126,7 @@ $meta_keywords = "";
                         <div id="ms24Q1" class="accordion-collapse collapse" data-bs-parent="#sscMts2024Faq">
                             <div class="accordion-body text-light-gray">
                                 This is your "Examination Status". The <strong>Final SSC MTS 2024 Admit Card</strong> with the exact center coordinate and name is released 4 days before the test date shown on your status page.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -117,10 +137,8 @@ $meta_keywords = "";
                         <div id="ms24Q2" class="accordion-collapse collapse" data-bs-parent="#sscMts2024Faq">
                             <div class="accordion-body text-light-gray">
                                 Yes, most regional sites (like SSC CR/NR) allow you to download the <strong>SSC MTS Call Letter</strong> using your Name, Father's Name, and Date of Birth.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> SSC 2024-25 Links</h5>
@@ -128,14 +146,14 @@ $meta_keywords = "";
                         <a href="ssc-gd-admit-card-2024.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">SSC GD 2024 Card</a>
                         <a href="ssc-chsl-admit-card-2024.php" class="btn btn-outline-success rounded-pill px-4 btn-sm">SSC CHSL 2024 Link</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Post-Specific Selection Links</h3>
                 <div class="row g-3">
+                    <?php
                     $mts_posts = [
                         'havaldar-physical-admit-card.php' => 'Havaldar PET Hall Ticket',
                         'ssc-mts-department-allocation.php' => 'MTS Dept Allocation List',
@@ -149,11 +167,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -183,3 +200,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

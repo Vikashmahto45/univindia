@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 5th - Official National 5th Primary Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 5th - Official National 5th Primary Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 5th - Official National 5th Primary Portal"; 
+$meta_description = "Check india result 5th for all state board primary exams. Access official national 5th class result mirrors and direct scorecard links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 5th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify primary 5th board results by student name alternative criteria for major participating
                         boards across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -91,8 +98,7 @@ $meta_keywords = "";
                     <strong>india result 5th</strong> hub is essential for students to complete their academic
                     verification and proof of educational attainment during transition and registration processes
                     nationwide.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -105,15 +111,13 @@ $meta_keywords = "";
                         <p>Dates vary by state board. The <strong>india result 5th</strong> portal on
                             <strong>indiaresults</strong> provides real-time notifications as soon as official data is
                             released.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 5th class results by name search only?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Most participating state boards on the <strong>india result 5th</strong> hub
                             support a dedicated name-wise results search for students.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 5th marksheet valid for future school
                         admission?</button>
@@ -121,12 +125,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>india result 5th</strong> gateway is a valid
                             provisional document accepted for initial middle school registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

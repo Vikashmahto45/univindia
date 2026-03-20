@@ -7,9 +7,27 @@ $meta_keywords = "india result ajmer board, check rbse result online, ajmer boar
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Ajmer Board - Official RBSE Mirror Portal</div>
-    <h2 class='sr-title'>India Result Ajmer Board: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Ajmer, Senior Secondary, Secondary, and Praveshika Examinations, and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result Ajmer Board - Official RBSE Mirror Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result Ajmer Board - Official RBSE Mirror Portal"; 
+$meta_description = "Check India Result Ajmer Board online. Access the Board of Secondary Education Rajasthan (BSER) 10th and 12th results via the official national mirror."; 
+$meta_keywords = "india result ajmer board, check rbse result online, ajmer board 10th 12th results, official indiaresults asb link, rajasthan board ajmer results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result Ajmer Board - Official RBSE Mirror Portal";
+$meta_description = "Check India Result Ajmer Board online. Access the Board of Secondary Education Rajasthan (BSER) 10th and 12th results via the official national mirror.";
+$meta_keywords = "india result ajmer board, check rbse result online, ajmer board 10th 12th results, official indiaresults asb link, rajasthan board ajmer results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result ajmer board, check rbse result online, ajmer boar
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Rajasthan Results Mirror" target="_blank">Access Raj IndiaResults</a>
                 <a href="http://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC Rajasthan Hub" target="_blank">Visit RajResults Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result Ajmer Board Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result ajmer board, check rbse result online, ajmer boar
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result Ajmer Board data, please visit the RBSE headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Ajmer Board Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result ajmer board, check rbse result online, ajmer boar
         <br>
         <strong>3. Is the result from India Result Ajmer Board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result Ajmer Board" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

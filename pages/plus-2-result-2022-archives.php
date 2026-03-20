@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "+2 result 2022 - Official Higher Secondary Result Archive"; 
 $meta_description = "Check +2 result 2022 for Class 12 exams. Access the official 2022 Higher Secondary (+2) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; +2 result 2022 - Official Higher Secondary Result Archive</div>
+    <h2 class='sr-title'>+2 result 2022 - Official Higher Secondary Result Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "+2 result 2022 - Official Higher Secondary Result Archive"; 
+$meta_description = "Check +2 result 2022 for Class 12 exams. Access the official 2022 Higher Secondary (+2) result portal and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 12th (Higher
                 Secondary / +2). Official state board mirrors and archival links updated for the 2022 batch
                 verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Bihar Board Server 2022</h3>
                     <p>Verified server for BSEB Inter 2022 result data and archival marksheet search.</p>
                     <a href="https://bihar.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -82,8 +93,7 @@ $meta_keywords = "";
                     a verified digital result from the <strong>+2 result 2022</strong> archive hub is essential for
                     students to complete their academic verification and proof of educational performance during
                     university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -96,26 +106,28 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>+2 result 2022</strong> are permanently archived on verified
                             platforms like <strong>indiaresults.com</strong> for archival and academic verification
                             access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2022 +2 result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>+2 result 2022</strong> portal includes a dedicated name-wise search
                             for examinees of major state boards like CHSE (Odisha) and BSEB (Bihar).</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for graduation admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>+2 result 2022</strong> archive is a valid
                             provisional document accepted for initial university registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

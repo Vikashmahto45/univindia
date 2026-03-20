@@ -7,9 +7,27 @@ $meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Cards - Univindia.online Hall Ticket Portal</div>
-    <h2 class='sr-title'>Exam Admit Cards Archive</h2>
+    <h2 class='sr-title'>Admit Cards - Univindia.online Hall Ticket Portal</h2>
     <div class='sr-content'>
-        <div class="container" style="margin-top: 30px;">
+        <?php 
+include '../header.php'; 
+$page_title = "Admit Cards - Univindia.online Hall Ticket Portal"; 
+$meta_description = "Download latest admit cards and hall tickets for competitive exams, university semesters, and board tests at Univindia.online."; 
+$meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Admit Cards - Univindia.online Hall Ticket Portal";
+$meta_description = "Download latest admit cards and hall tickets for competitive exams, university semesters, and board tests at Univindia.online.";
+$meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket";
+include '../includes/header.php'; 
+?>
+
+<div class="container" style="margin-top: 30px;">
     <div class="card" style="border-top: 4px solid var(--primary-color);">
         
         <p>Browse and download the latest admit cards for various university and recruitment examinations across India.</p>
@@ -19,6 +37,7 @@ $meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket
         </div>
 
         <div class="keyword-grid" id="fullKeywordGrid">
+            <?php
             $keywords = file('keyword.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
             $found = false;
             foreach ($keywords as $keyword) {
@@ -32,8 +51,8 @@ $meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket
                 }
             }
             if (!$found) echo "<p>No admit cards are currently listed. Please check back later.</p>";
-        </div>
-    </div>
+            ?>
+        
 </div>
 
 <script>
@@ -54,6 +73,12 @@ function filterLinks() {
     }
 }
 </script>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "bse odisha result, check odisha 10th result, bse odisha nic in
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse odisha result - Official Odisha Matric Portal</div>
-    <h2 class='sr-title'>bse odisha result: Your Authoritative Navigator to Board of Secondary Education (BSE), Odisha, High School Certificate (HSC/Matric), and National Informatics Centre (NIC) Result Gateways Across the State</h2>
+    <h2 class='sr-title'>bse odisha result - Official Odisha Matric Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "bse odisha result - Official Odisha Matric Portal"; 
+$meta_description = "Check bse odisha result online for HSC / Matric 10th class. Access the official Board of Secondary Education Odisha result portal."; 
+$meta_keywords = "bse odisha result, check odisha 10th result, bse odisha nic in result, Matric result odisha link, bse odisha hsc result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "bse odisha result - Official Odisha Matric Portal";
+$meta_description = "Check bse odisha result online for HSC / Matric 10th class. Access the official Board of Secondary Education Odisha result portal.";
+$meta_keywords = "bse odisha result, check odisha 10th result, bse odisha nic in result, Matric result odisha link, bse odisha hsc result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "bse odisha result, check odisha 10th result, bse odisha nic in
                 <a href="https://www.bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSE Odisha Official" target="_blank">Visit BSE Odisha Official</a>
                 <a href="https://indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Odisha Mirror" target="_blank">Access Odisha Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Certificate" target="_blank">Get Digital DigiLocker</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official bse odisha result Online</h2>
         <p>To ensure a successful result search in the Odisha BSE records, follow these technical steps:</p>
@@ -50,7 +67,7 @@ $meta_keywords = "bse odisha result, check odisha 10th result, bse odisha nic in
 
         <p><i>Note: Univindia.online is an educational news portal. For original degree certificates, migration letters, and final database changes related to bse odisha result data, please visit the BSE Cuttack headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About BSE Odisha Result</h2>
@@ -63,8 +80,13 @@ $meta_keywords = "bse odisha result, check odisha 10th result, bse odisha nic in
         <br>
         <strong>3. Is the result from the orissaresults.nic.in portal official?</strong>
         <p>Yes, the "bse odisha result" served via the NIC portal is the official and final digital output of the Board of Secondary Education, Odisha.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

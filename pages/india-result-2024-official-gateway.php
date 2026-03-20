@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2024 - Official National 2024 Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 2024 - Official National 2024 Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 2024 - Official National 2024 Portal"; 
+$meta_description = "Check india result 2024 for all board and university exams. Access the official 2024 national academic result gateway and live updates on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway for 2024 degree results, marksheet PDF, and registration status for major
                         universities across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +94,7 @@ $meta_keywords = "";
                     practical marks. Having a verified digital result from the <strong>india result 2024</strong> hub is
                     essential for students to complete their academic verification and proof of educational achievement
                     during transition and registration processes throughout the 2024-25 academic cycle.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,27 +106,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Dates vary by board, but the <strong>india result 2024</strong> portal provides real-time
                             notifications and direct links as soon as official data is released by state councils.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2024 result by name online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Most participating boards on the <strong>india result 2024</strong> hub support
                             the "Search by Name" feature for candidates participating in the 2024 exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2024 digital marksheets valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scores retrieved from the <strong>india result 2024</strong> gateway are valid
                             provisional documents accepted for initial admission registration and verification across
                             India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

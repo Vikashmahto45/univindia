@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Result 2024 - Check Your Academic Scores Online"; 
 $meta_description = "Check your university results for the academic year 2024 on Univindia. Official guide for MGSU, RRBMU, and MSBU Result 2024 downloads and marksheets."; 
 $meta_keywords = "Univindia Result 2024 - Check Your Academic Scores Online"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Result 2024 - Check Your Academic Scores Online</div>
+    <h2 class='sr-title'>Univindia Result 2024 - Check Your Academic Scores Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Result 2024 - Check Your Academic Scores Online"; 
+$meta_description = "Check your university results for the academic year 2024 on Univindia. Official guide for MGSU, RRBMU, and MSBU Result 2024 downloads and marksheets."; 
+$meta_keywords = "Univindia Result 2024 - Check Your Academic Scores Online"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Result 2024 - Check Your Academic Scores Online";
+$meta_description = "Check your university results for the academic year 2024 on Univindia. Official guide for MGSU, RRBMU, and MSBU Result 2024 downloads and marksheets.";
+$meta_keywords = "Univindia Result 2024 - Check Your Academic Scores Online";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Result 2024: Your Comprehensive Guide to This Year's University Scores</h1>
+        
         
         <p>For thousands of students across Rajasthan, the term "Univindia Result 2024" represents the most significant academic milestone of the current session. As the academic year draws to a close, students of Maharaja Ganga Singh University (MGSU), Raj Rishi Bhartrihari Matsya University (RRBMU), and Maharaja Surajmal Brij University (MSBU) are eagerly awaiting their evaluation. The Univindia portal network serves as the official, authoritative source for all degree and diploma scores for the year 2024. In this extensive guide, we will provide a complete walkthrough of how to check your 2024 results on the official portal, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during this critical period.</p>
 
@@ -57,6 +79,15 @@ $meta_keywords = "Univindia Result 2024 - Check Your Academic Scores Online";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized 2024 result declarations and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

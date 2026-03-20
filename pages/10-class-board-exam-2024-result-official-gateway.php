@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10 class board exam 2024 result - Official National 10th Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10 class board exam 2024 result - Official National 10th Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10 class board exam 2024 result - Official National 10th Hub"; 
+$meta_description = "Check 10 class board exam 2024 result for all state boards. Access the official 2024 secondary (Class 10) result portal and live updates on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 10th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Class 10th board results 2024 by student name alternative criteria for major participating
                         state boards.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -90,8 +97,7 @@ $meta_keywords = "";
                         exam 2024 result</strong> hub is essential for students to complete their academic verification
                     and proof of educational achievement during transition and registration processes throughout the
                     2024-25 cycle.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -104,28 +110,27 @@ $meta_keywords = "";
                         <p>Dates vary by board, but the <strong>10 class board exam 2024 result</strong> portal provides
                             real-time notifications and direct links as soon as official data is released by state
                             councils.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2024 10th result by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Most participating state boards on the <strong>10 class board exam 2024
                                 result</strong> hub support the name-wise results feature for candidates participating
                             in the 2024 exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2024 marksheet official for degree transition?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>10 class board exam 2024 result</strong>
                             gateway is a valid provisional document accepted for initial secondary school registration
                             and verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,7 +9,26 @@ $meta_keywords = "hssc admit card 2024, haryana ssc hall ticket download, hssc c
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSSC Admit Card 2024 Download - Haryana Staff Selection Commission CET Status | Univindia.online</div>
     <h2 class='sr-title'>HSSC Admit Card 2024 Download - Haryana Staff Selection Commission CET Status | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "HSSC Admit Card 2024 Download - Haryana Staff Selection Commission CET Status | Univindia.online"; 
+$meta_description = "Download HSSC Admit Card 2024. Get direct link for Haryana SSC Combined Entance Test (CET) Group C, Group D, and Police Constable hall tickets at hssc.gov.in."; 
+$meta_keywords = "hssc admit card 2024, haryana ssc hall ticket download, hssc cet admit card link, hssc.gov.in admit card login, haryana police admit card download"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "HSSC Admit Card 2024 Download - Haryana Staff Selection Commission CET Status | Univindia.online";
+$meta_description = "Download HSSC Admit Card 2024. Get direct link for Haryana SSC Combined Entance Test (CET) Group C, Group D, and Police Constable hall tickets at hssc.gov.in.";
+$meta_keywords = "hssc admit card 2024, haryana ssc hall ticket download, hssc cet admit card link, hssc.gov.in admit card login, haryana police admit card download";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">HSSC Admit Card 2024: Download Haryana SSC Recruitment Hall Ticket</h2>
         
@@ -88,9 +107,14 @@ $meta_keywords = "hssc admit card 2024, haryana ssc hall ticket download, hssc c
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check HSSC Results</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,9 +7,27 @@ $meta_keywords = "india result nic in 2024, click to check results 2024 nic, res
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result NIC In 2024 - Official National Examination Portal</div>
-    <h2 class='sr-title'>India Result NIC In 2024: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), Class 12 (Intermediate), and Higher Secondary Result Gateways (Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and National Informatics Centre (NIC) Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result NIC In 2024 - Official National Examination Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result NIC In 2024 - Official National Examination Portal"; 
+$meta_description = "Check India Result NIC In 2024 online. Access the results for all central and state boards hosted on the official National Informatics Centre (NIC) network for 2024."; 
+$meta_keywords = "india result nic in 2024, click to check results 2024 nic, results.nic.in 2024, national results 20th 12th 2024, official nic result portal, check results gov in 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result NIC In 2024 - Official National Examination Portal";
+$meta_description = "Check India Result NIC In 2024 online. Access the results for all central and state boards hosted on the official National Informatics Centre (NIC) network for 2024.";
+$meta_keywords = "india result nic in 2024, click to check results 2024 nic, results.nic.in 2024, national results 20th 12th 2024, official nic result portal, check results gov in 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result nic in 2024, click to check results 2024 nic, res
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Download Digital Marksheet</a>
                 <a href="https://results.cbse.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE Result Hub" target="_blank">Visit CBSE Results Hub</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result NIC In 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your respective board via NIC, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result nic in 2024, click to check results 2024 nic, res
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result NIC In 2024, please visit the respective Board's regional office or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result NIC In 2024 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result nic in 2024, click to check results 2024 nic, res
         <br>
         <strong>3. Is the result from India Result NIC In 2024 valid for Scholarship?</strong>
         <p>Yes, your board results (verified via the official "India Result NIC In 2024" portal or DigiLocker) are the accepted records for applying to the 'Inspire' or 'NMMS' scholarship in 2024-25.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

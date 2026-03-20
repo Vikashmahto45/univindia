@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresult - Official National Result Archive Hub"; 
 $meta_description = "Check indiaresult for all board and university results across India. Access the official national results portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresult - Official National Result Archive Hub</div>
+    <h2 class='sr-title'>indiaresult - Official National Result Archive Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresult - Official National Result Archive Hub"; 
+$meta_description = "Check indiaresult for all board and university results across India. Access the official national results portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized national portal for every academic result in India.
                 Board, University, and Competitive exam links updated in real-time.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse National Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify national results using student name or roll number.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +87,7 @@ $meta_keywords = "";
                     breakdown of marks, including internal assessments and practical scores. This digital record from
                     the <strong>indiaresult</strong> hub is a legally valid provisional document for immediate
                     administrative use.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,25 +100,27 @@ $meta_keywords = "";
                         <p><strong>indiaresult</strong> (synonymous with <strong>IndiaResults.com</strong>) is India's
                             leading third-party result hosting platform, partnering with various boards to provide
                             official results to students.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on indiaresult official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresult</strong> links provide data mirrored directly from
                             official board and university databases, ensuring 100% accuracy and authenticity.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results from any state via indiaresult?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>indiaresult</strong> hub covers academic results for almost every state in
                             India, including secondary, senior secondary, and various university-level degrees.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

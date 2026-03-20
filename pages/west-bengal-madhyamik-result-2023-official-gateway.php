@@ -1,20 +1,34 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "west bengal madhyamik result 2023 - Official WBBSE Hub"; 
 $meta_description = "Check West Bengal Board 10th result 2023 on west bengal madhyamik result 2023. Access official WBBSE Madhyamik 2023 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; west bengal madhyamik result 2023 - Official WBBSE Hub</div>
+    <h2 class='sr-title'>west bengal madhyamik result 2023 - Official WBBSE Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "west bengal madhyamik result 2023 - Official WBBSE Hub"; 
+$meta_description = "Check West Bengal Board 10th result 2023 on west bengal madhyamik result 2023. Access official WBBSE Madhyamik 2023 archival scorecards on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for West Bengal Board of Secondary Education (WBBSE) Madhyamik (Class 10th) examination results for the 2023 academic session. Access official West Bengal board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Madhyamik Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -32,8 +46,7 @@ $meta_keywords = "";
                     <h3>2023 Madhyamik Directory</h3>
                     <p>Verify WBBSE results (wbbse.wb.gov.in) 10th result 2023 by student roll number or date of birth alternative criteria for the 2023 academic batch.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -57,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the 2023 West Bengal (WBBSE) Board Gateways</h3>
                 <p>The <strong>west bengal madhyamik result 2023</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Secondary admission registrations, scholarship applications, or career verification in West Bengal. The system provides a detailed subject-wise breakdown for the 2023 batch of student examinees across all districts. Having a verified digital result from the <strong>west bengal madhyamik result 2023</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -69,23 +81,25 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 2023 Madhyamik result links permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>west bengal madhyamik result 2023</strong> are permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Madhyamik results by name on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>west bengal madhyamik result 2023</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in West Bengal.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 Madhyamik marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>west bengal madhyamik result 2023</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

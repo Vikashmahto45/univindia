@@ -7,9 +7,27 @@ $meta_keywords = "bse odisha 10th result 2022, check odisha matric result 2022, 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha 10th Result 2022 - Official Class 10th Board Archive</div>
-    <h2 class='sr-title'>BSE Odisha 10th Result 2022: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Madhyamik (Class 10), and Odisha State Open School (OSOS) Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>BSE Odisha 10th Result 2022 - Official Class 10th Board Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "BSE Odisha 10th Result 2022 - Official Class 10th Board Archive"; 
+$meta_description = "Check BSE Odisha 10th Result 2022. Access the 2022 Board of Secondary Education (BSE) Odisha Matric examination results, subject-wise marks, and official certificates."; 
+$meta_keywords = "bse odisha 10th result 2022, check odisha matric result 2022, bseodisha.ac.in result 2022, odisha 10th result 2022 download, board of secondary education odisha 2022, matric result archive"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "BSE Odisha 10th Result 2022 - Official Class 10th Board Archive";
+$meta_description = "Check BSE Odisha 10th Result 2022. Access the 2022 Board of Secondary Education (BSE) Odisha Matric examination results, subject-wise marks, and official certificates.";
+$meta_keywords = "bse odisha 10th result 2022, check odisha matric result 2022, bseodisha.ac.in result 2022, odisha 10th result 2022 download, board of secondary education odisha 2022, matric result archive";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "bse odisha 10th result 2022, check odisha matric result 2022, 
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSE Odisha Main Hub" target="_blank">Visit BSE Odisha Portal</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="DigiLocker Records" target="_blank">Download 2022 Marksheet</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official BSE Odisha 10th Result 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your Odisha board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "bse odisha 10th result 2022, check odisha matric result 2022, 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to BSE Odisha 10th Result 2022, please visit the BSE headquarters at Cuttack or your respective District Education Office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About BSE Odisha 10th Result 2022 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "bse odisha 10th result 2022, check odisha matric result 2022, 
         <br>
         <strong>3. Is the result from BSE Odisha 10th Result 2022 valid for Class 11 admission?</strong>
         <p>Yes, your board results (verified via the official "BSE Odisha 10th Result 2022" portal or DigiLocker) are the accepted records for applying to senior secondary streams across India.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

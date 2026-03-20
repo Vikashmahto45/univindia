@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket"; 
 $meta_description = "Access your MGSU Bikaner 2023 admit card at Univindia Net. Official portal for Maharaja Ganga Singh University 2023 hall tickets and historical data online."; 
 $meta_keywords = "Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket</div>
+    <h2 class='sr-title'>Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket"; 
+$meta_description = "Access your MGSU Bikaner 2023 admit card at Univindia Net. Official portal for Maharaja Ganga Singh University 2023 hall tickets and historical data online."; 
+$meta_keywords = "Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket";
+$meta_description = "Access your MGSU Bikaner 2023 admit card at Univindia Net. Official portal for Maharaja Ganga Singh University 2023 hall tickets and historical data online.";
+$meta_keywords = "Univindia Net MGSU Admit Card 2023 - Bikaner University Archival Hall Ticket";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU Admit Card 2023: Accessing Bikaner University Historical Hall Tickets</h1>
+        
         
         <p>The term "Univindia Net MGSU Admit Card 2023" remains a significant search query for students at Maharaja Ganga Singh University (MGSU), Bikaner, who need to access their records from the previous academic session. Whether you are addressing an administrative discrepancy, applying for a late revaluation, or verifying your 2023 examination details for employment or higher education, the `univindia.net` portal provides access to these archival records. In this comprehensive guide, we will explore why students still search for the 2023 hall ticket, provide a detailed walkthrough for accessing 2023 data on the official portal, and offer expert advice on managing historical academic documents in Bikaner university.</p>
 
@@ -47,6 +69,15 @@ $meta_keywords = "Univindia Net MGSU Admit Card 2023 - Bikaner University Archiv
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized 2023 data retrieval and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

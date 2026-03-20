@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MGSU Result Univindia Portal - Bikaner University Score Gateway"; 
 $meta_description = "Check your Maharaja Ganga Singh University results via the MGSU Result Univindia portal. Official guide to accessing Bikaner marksheet records online."; 
 $meta_keywords = "mgsu result univindia"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MGSU Result Univindia Portal - Bikaner University Score Gateway</div>
+    <h2 class='sr-title'>MGSU Result Univindia Portal - Bikaner University Score Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MGSU Result Univindia Portal - Bikaner University Score Gateway"; 
+$meta_description = "Check your Maharaja Ganga Singh University results via the MGSU Result Univindia portal. Official guide to accessing Bikaner marksheet records online."; 
+$meta_keywords = "mgsu result univindia"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MGSU Result Univindia Portal - Bikaner University Score Gateway";
+$meta_description = "Check your Maharaja Ganga Singh University results via the MGSU Result Univindia portal. Official guide to accessing Bikaner marksheet records online.";
+$meta_keywords = "mgsu result univindia";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MGSU Result Univindia Portal: Your Guide to Bikaner University Scores</h1>
+        
         
         <p>The term "MGSU Result Univindia Portal" refers to the core digital infrastructure utilized by Maharaja Ganga Singh University (MGSU), Bikaner, to publish and manage its comprehensive examination scorecards. For hundreds of thousands of undergraduate and postgraduate students across Northern Rajasthan, the `univindia.net` network is the definitive destination for all result-related inquiries. Whether you are completing your first year of graduation or finalizing your Master's degree, the MGSU Result Univindia Portal provides the organized, high-performance interface required to access your official academic marksheets. In this comprehensive guide, we will provide a detailed walkthrough of the result portal's structure, explain how to navigate its various functionally distinct sections, and offer expert advice on ensuring a seamless and secure digital experience when checking your Maharaja Ganga Singh University scores.</p>
 
@@ -54,6 +76,15 @@ $meta_keywords = "mgsu result univindia";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

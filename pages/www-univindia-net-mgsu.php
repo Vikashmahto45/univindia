@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Www Univindia Net MGSU - Bikaner University Result & Admit Card Hub"; 
 $meta_description = "Www Univindia Net MGSU is the official digital portal for MGSU Bikaner. Complete guide to checking results, exam forms, and time tables at Www Univindia Net MGSU."; 
 $meta_keywords = "www univindia net mgsu"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Www Univindia Net MGSU - Bikaner University Result & Admit Card Hub</div>
+    <h2 class='sr-title'>Www Univindia Net MGSU - Bikaner University Result & Admit Card Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Www Univindia Net MGSU - Bikaner University Result & Admit Card Hub"; 
+$meta_description = "Www Univindia Net MGSU is the official digital portal for MGSU Bikaner. Complete guide to checking results, exam forms, and time tables at Www Univindia Net MGSU."; 
+$meta_keywords = "www univindia net mgsu"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Www Univindia Net MGSU - Bikaner University Result & Admit Card Hub";
+$meta_description = "Www Univindia Net MGSU is the official digital portal for MGSU Bikaner. Complete guide to checking results, exam forms, and time tables at Www Univindia Net MGSU.";
+$meta_keywords = "www univindia net mgsu";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Www Univindia Net MGSU: The Heart of Bikaner University's Digital Services</h1>
+        
         
         <p>Www Univindia Net MGSU is a keyword that resonates with thousands of students enrolled in the Maharaja Ganga Singh University (MGSU), Bikaner. As higher education undergoes a radical digital transformation, having a centralized hub for all scholarly and administrative activities has become essential. This portal, often accessed via the clear and simple address `www.univindia.net`, serves as the primary technical bridge between the university's central administration and its diverse student population spread throughout the Bikaner region and beyond. In this detailed guide, we will explore why Www Univindia Net MGSU is so vital for your academic career and how you can master its many features to ensure a smooth university experience.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "www univindia net mgsu";
 
         <p><i>Note: Univindia.online is an independent educational portal and is not the official Maharaja Ganga Singh University or Univindia.net website. For official updates and authorized result declarations, please always refer to the university's authorized portal.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

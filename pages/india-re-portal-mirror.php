@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india re - Official National Result Archive Mirror</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india re - Official National Result Archive Mirror</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india re - Official National Result Archive Mirror"; 
+$meta_description = "Check india re for the latest national academic and competitive results. Access the official india results mirrors on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Result Mirror</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify national results using student name or roll number.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +83,7 @@ $meta_keywords = "";
                     verification. The mirror servers are updated in real-time as soon as the results are declared by the
                     respective board offices. Having a verified digital record from the <strong>india re</strong> portal
                     is essential for students to complete their admissions processes without delays.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,28 +95,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p><strong>india re</strong> is a common search term for <strong>IndiaResults.com</strong>, the
                             leading platform providing official board and university result data across India.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on the mirror official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india re</strong> links on <strong>indiaresults</strong> are official
                             mirrors that receive data directly from the respective state and central education boards.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results from all states via india re?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>india re</strong> hub on <strong>indiaresults</strong> covers academic
                             results for almost every state in India, including secondary, senior secondary, and higher
                             education exams.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

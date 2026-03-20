@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ts intermediate results 2024 - Official Telangana State Inter Gateway"; 
 $meta_description = "Check ts intermediate results 2024 for TSBIE Inter 1st and 2nd year exams. Access the official 2024 Telangana State archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ts intermediate results 2024 - Official Telangana State Inter Gateway</div>
+    <h2 class='sr-title'>ts intermediate results 2024 - Official Telangana State Inter Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ts intermediate results 2024 - Official Telangana State Inter Gateway"; 
+$meta_description = "Check ts intermediate results 2024 for TSBIE Inter 1st and 2nd year exams. Access the official 2024 Telangana State archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2024 academic session results for Telangana State
                 Intermediate 1st and 2nd Year. Official TSBIE Hyderabad mirrors and archival links updated for the 2024
                 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>General/Vocational Search</h3>
                     <p>Verify 2024 TS Inter results by stream and roll number alternative criteria.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +95,7 @@ $meta_keywords = "";
                         results 2024</strong> archive hub is essential for students to complete their academic
                     verification and proof of educational attainment during university graduation and registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,27 +108,29 @@ $meta_keywords = "";
                         <p>The <strong>ts intermediate results 2024</strong> will be hosted live on
                             <strong>indiaresults.com</strong> as soon as the official TSBIE Hyderabad results are
                             declared.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2024 Telangana results on this hub official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including TSBIE (Telangana), ensuring data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2024 Inter marksheet valid for counseling?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>ts intermediate results 2024</strong>
                             archive is a valid provisional document accepted for initial college registration and
                             verification processes nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

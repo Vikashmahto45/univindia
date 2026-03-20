@@ -9,7 +9,26 @@ $meta_keywords = "jiwaji admit card download, jiwaji university hall ticket down
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Jiwaji Admit Card. Get the direct link for Jiwaji University Gwalior UG and PG semester examination hall tickets at jiwaji.edu."; 
+$meta_keywords = "jiwaji admit card download, jiwaji university hall ticket download, jiwaji.edu login admit card, gwalior university exam date 2024 download, university call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online";
+$meta_description = "Download Jiwaji Admit Card. Get the direct link for Jiwaji University Gwalior UG and PG semester examination hall tickets at jiwaji.edu.";
+$meta_keywords = "jiwaji admit card download, jiwaji university hall ticket download, jiwaji.edu login admit card, gwalior university exam date 2024 download, university call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Jiwaji Admit Card: Download Jiwaji University Gwalior Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "jiwaji admit card download, jiwaji university hall ticket down
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Varsity News</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

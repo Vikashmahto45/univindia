@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia University - Official राजस्थान पोर्टल Guide"; 
 $meta_description = "Univindia University is the core digital portal for MGSU, RRBMU, and MSBU. Comprehensive guide to university results, forms, and student services."; 
 $meta_keywords = "Univindia University - Official राजस्थान पोर्टल Guide"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia University - Official राजस्थान पोर्टल Guide</div>
+    <h2 class='sr-title'>Univindia University - Official राजस्थान पोर्टल Guide</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia University - Official राजस्थान पोर्टल Guide"; 
+$meta_description = "Univindia University is the core digital portal for MGSU, RRBMU, and MSBU. Comprehensive guide to university results, forms, and student services."; 
+$meta_keywords = "Univindia University - Official राजस्थान पोर्टल Guide"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia University - Official राजस्थान पोर्टल Guide";
+$meta_description = "Univindia University is the core digital portal for MGSU, RRBMU, and MSBU. Comprehensive guide to university results, forms, and student services.";
+$meta_keywords = "Univindia University - Official राजस्थान पोर्टल Guide";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia University: Navigating the Centralized Educational Portal of Rajasthan</h1>
+        
         
         <p>Univindia University is a comprehensive term that represents the digital backbone of several major higher education institutions in Rajasthan. As the state moves towards a "Digital-First" approach in academic administration, the Univindia network has emerged as a crucial nexus for students of Maharaja Ganga Singh University (MGSU), Raj Rishi Bhartrihari Matsya University (RRBMU), and Maharaja Surajmal Brij University (MSBU). This centralized portal manages the entire lifecycle of a student's academic journey—from initial admission and examination form submission to the final retrieval of degree results. In this detailed guide, we will explore the features of Univindia University, providing expert navigation tips and ensuring you have the information needed to manage your academic records with confidence.</p>
 
@@ -52,6 +74,15 @@ $meta_keywords = "Univindia University - Official राजस्थान प�
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

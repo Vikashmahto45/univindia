@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result rsos - Official Rajasthan Open School Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result rsos - Official Rajasthan Open School Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result rsos - Official Rajasthan Open School Hub"; 
+$meta_description = "Check india result rsos for Class 10 and 12 exams. Access the official Rajasthan State Open School (RSOS) result portal and mirrors on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check RSOS Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan RSOS results by student name alternative criteria for major examination cycles
                         including supplementary exams.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -92,8 +99,7 @@ $meta_keywords = "";
                         result rsos</strong> hub is essential for students to complete their academic verification and
                     proof of educational achievement during transition and registration processes throughout the
                     academic year.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -106,27 +112,26 @@ $meta_keywords = "";
                         <p>Dates vary by session. The <strong>india result rsos</strong> portal on
                             <strong>indiaresults</strong> provides real-time notifications as soon as official data is
                             released by RSOS Jaipur.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check RSOS Rajasthan results by name online?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>india result rsos</strong> portal on <strong>indiaresults</strong> includes
                             a dedicated name-wise search for student examinees in Rajasthan Open School.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital RSOS marksheet valid for regular college?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>india result rsos</strong> gateway is a
                             valid provisional document accepted for initial university registration and verification
                             across Rajasthan and India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

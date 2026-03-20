@@ -7,9 +7,27 @@ $meta_keywords = "india result rbse, check rajasthan board result online, rbse r
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result RBSE - Official Rajasthan Board examination Hub</div>
-    <h2 class='sr-title'>India Result RBSE: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary School (Class 10), Senior Secondary (Class 12), and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result RBSE - Official Rajasthan Board examination Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result RBSE - Official Rajasthan Board examination Hub"; 
+$meta_description = "Check India Result RBSE online. Access the high-speed Rajasthan Board (BSER) 10th and 12th results on IndiaResults mirror. 2024 official merit lists link."; 
+$meta_keywords = "india result rbse, check rajasthan board result online, rbse result indiaresults 2024, indiaresult rbse 10th 12th, bser result mirror, name wise rbse result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result RBSE - Official Rajasthan Board examination Hub";
+$meta_description = "Check India Result RBSE online. Access the high-speed Rajasthan Board (BSER) 10th and 12th results on IndiaResults mirror. 2024 official merit lists link.";
+$meta_keywords = "india result rbse, check rajasthan board result online, rbse result indiaresults 2024, indiaresult rbse 10th 12th, bser result mirror, name wise rbse result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result rbse, check rajasthan board result online, rbse r
                 <a href="https://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Official Portal" target="_blank">Visit Board Home</a>
                 <a href="https://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="State NIC Portal" target="_blank">State Results Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result RBSE Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via the IndiaResult mirror, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result rbse, check rajasthan board result online, rbse r
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result RBSE data, please visit the BSER headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result RBSE Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result rbse, check rajasthan board result online, rbse r
         <br>
         <strong>3. Is the result from India Result RBSE valid for scholarships?</strong>
         <p>The "India Result RBSE" data is used for 'Provisional Verification'. For final 'Scholarship Disbursement,' the BSER-issued physical marksheet or DigiLocker records are required.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

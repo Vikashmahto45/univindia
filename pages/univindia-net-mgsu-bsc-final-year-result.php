@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU BSc Final Year Result - Bikaner University Science Scores"; 
 $meta_description = "Check your MGSU Bikaner BSc Final year results on Univindia Net. Official guide to downloading Bachelor of Science 3rd year marksheets and results online."; 
 $meta_keywords = "Univindia Net MGSU BSc Final Year Result - Bikaner University Science Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU BSc Final Year Result - Bikaner University Science Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU BSc Final Year Result - Bikaner University Science Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU BSc Final Year Result - Bikaner University Science Scores"; 
+$meta_description = "Check your MGSU Bikaner BSc Final year results on Univindia Net. Official guide to downloading Bachelor of Science 3rd year marksheets and results online."; 
+$meta_keywords = "Univindia Net MGSU BSc Final Year Result - Bikaner University Science Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU BSc Final Year Result - Bikaner University Science Scores";
+$meta_description = "Check your MGSU Bikaner BSc Final year results on Univindia Net. Official guide to downloading Bachelor of Science 3rd year marksheets and results online.";
+$meta_keywords = "Univindia Net MGSU BSc Final Year Result - Bikaner University Science Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU BSc Final Year Result: Your Guide to Bikaner University Science Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU BSc Final Year Result" represents the most critical academic milestone for thousands of science students at Maharaja Ganga Singh University (MGSU), Bikaner. As students complete their three-year Bachelor of Science (BSc) journey, the declaration of the Part III result is a life-defining moment. It signifies the successful completion of their undergraduate degree, determining their eligibility for postgraduate studies (MSc, B.Ed, MBA), professional career opportunities in technology and research, and various competitive examinations. The `univindia.net` portal is the official, authoritative platform for all MGSU science scores. In this comprehensive guide, we will provide a detailed walkthrough of how to check your MGSU BSc Final Year results, how to interpret your final degree marksheet correctly, and what steps to take if you encounter technical or academic issues during your most important result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Net MGSU BSc Final Year Result - Bikaner University 
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized degree result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

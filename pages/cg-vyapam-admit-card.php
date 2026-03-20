@@ -9,7 +9,26 @@ $meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online"; 
+$meta_description = "Download CG Vyapam Admit Card. Get the direct link for Chhattisgarh (CG) Vyapam recruitment and entrance examination hall tickets at vyapam.cgstate.gov.in."; 
+$meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket download, vyapam.cgstate.gov.in login admit card, cg exam date 2024 download, recruitment call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online";
+$meta_description = "Download CG Vyapam Admit Card. Get the direct link for Chhattisgarh (CG) Vyapam recruitment and entrance examination hall tickets at vyapam.cgstate.gov.in.";
+$meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket download, vyapam.cgstate.gov.in login admit card, cg exam date 2024 download, recruitment call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CG Vyapam Admit Card: Download Chhattisgarh Professional Exam Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Latest Vyapam Results</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

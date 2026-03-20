@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in</div>
-    <h2 class='sr-title'>IBPS PO Admit Card 2024</h2>
+    <h2 class='sr-title'>IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in"; 
+$meta_description = "Download IBPS PO Admit Card 2024 for CRP PO/MT XIV. Get direct link for Preliminary Exam Hall Ticket. Check exam dates, reporting time, and important banking exam guidelines."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
@@ -39,8 +50,7 @@ $meta_keywords = "";
                                     <li class="mb-2"><i class="bi bi-globe2 text-primary me-2"></i> Portal: ibps.in</li>
                                     <li><i class="bi bi-file-earmark-pdf-fill text-primary me-2"></i> Document: Call Letter</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark border-start border-primary border-5 ps-3">How to Download IBPS PO 2024 Admit Card?</h2>
@@ -71,8 +81,7 @@ $meta_keywords = "";
                                     <li>Candidate's Category</li>
                                     <li>Photograph & Scanned Signature</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6">
                             <div class="card h-100 border-0 shadow-sm bg-light p-3">
                                 <h5 class="fw-bold"><i class="bi bi-geo-alt-fill"></i> Exam Info</h5>
@@ -83,8 +92,7 @@ $meta_keywords = "";
                                     <li>Name & Location of the Exam Center</li>
                                     <li>Space for Thumb Impression</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark">Mandatory Checklist for Exam Hall</h2>
@@ -135,8 +143,7 @@ $meta_keywords = "";
                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         The IBPS PO Prelims are usually scheduled according to the official calendar published annually by IBPS. Generally, they occur in October or November.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item border-0 mb-3 shadow-sm rounded">
                                 <h2 class="accordion-header">
@@ -147,8 +154,7 @@ $meta_keywords = "";
                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         No, IBPS does not permit any requests for changing the allotted examination center, date, or shift.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item border-0 shadow-sm rounded">
                                 <h2 class="accordion-header">
@@ -159,18 +165,18 @@ $meta_keywords = "";
                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         You can use the 'Forgot Password' option on the portal. You will receive a reset link on your registered Mobile No. or Email ID.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
                     </div>
 
                     <p class="mt-5 text-center text-muted small"><strong>Official Disclaimer:</strong> This portal provides guidance and archives. Please always refer to the official IBPS portal at <strong>www.ibps.in</strong> for the most professional and accurate information.</p>
-                </div>
-            </div>
-        </div>
-    </div>
+                
+        
+
 </div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in</div>
+    <h2 class='sr-title'>KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in";
+$page_description = "Download KVPY Admit Card 2025 for fellowship selection. Get direct link for IISc KVPY Hall Ticket, Exam Schedule, and Aptitude Test status. 800+ words guide.";
+$page_keywords = "KVPY Admit Card 2025, IISc KVPY Hall Ticket Download, KVPY 2025 Call Letter Link, kvpy.iisc.ac.in login, KVPY Exam Selection Process";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">KVPY Admit Card 2025: IISc Kishore Vaigyanik Protsahan Yojana Hall Ticket</h1>
+            
             
             <div class="alert alert-secondary bg-dark border-secondary text-secondary rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-microscope me-2"></i> <strong>Program News:</strong> The Kishore Vaigyanik Protsahan Yojana (KVPY) is managed by the Indian Institute of Science (IISc), Bangalore. The <strong>KVPY Admit Card</strong> is the essential identification for the national-level fellowship exam.
@@ -88,14 +111,12 @@ $meta_keywords = "";
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-secondary">
                             <h5 class="text-white"><i class="fas fa-print me-2"></i> Printed Hall Ticket</h5>
                             <p class="small text-light-gray mb-0">Carry a crisp printout of your <strong>KVPY Call Letter</strong>. If the photograph is not clear, the center staff may ask for a physical photo.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-4 bg-dark border border-secondary rounded-4 h-100 shadow border-secondary">
                             <h5 class="text-white"><i class="fas fa-id-card me-2"></i> School/College ID</h5>
                             <p class="small text-light-gray mb-0">Original School/College ID or Aadhar Card is mandatory for on-desk verification by the invigilator.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">KVPY Admit Card FAQ: Frequently Asked Questions</h2>
@@ -109,8 +130,7 @@ $meta_keywords = "";
                         <div id="kvQ1" class="accordion-collapse collapse" data-bs-parent="#kvpyFaq">
                             <div class="accordion-body text-light-gray">
                                 Use the 'Forgot Password' link on the login page. Enter your Registration Number and the system will send a reset link to your registered science portal email.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -121,10 +141,8 @@ $meta_keywords = "";
                         <div id="kvQ2" class="accordion-collapse collapse" data-bs-parent="#kvpyFaq">
                             <div class="accordion-body text-light-gray">
                                 The KVPY Aptitude Test is a <strong>Computer Based Test (CBT)</strong>. Your <strong>KVPY Hall Ticket</strong> will specify the shift timing and the PC node assignment at the center.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Research & Board Links</h5>
@@ -132,14 +150,14 @@ $meta_keywords = "";
                         <a href="iisc-admission.php" class="btn btn-outline-light rounded-pill px-4 btn-sm">IISc Bangalore Portal</a>
                         <a href="inspire-scholarship.php" class="btn btn-outline-light rounded-pill px-4 btn-sm">INSPIRE Status</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-flask me-2"></i> Science & Tech Entrance Links</h3>
                 <div class="row g-3">
+                    <?php
                     $science_links = [
                         'nest-admit-card.php' => 'NEST NISER Admit Card',
                         'iiser-admit-card.php' => 'IISER IAT Hall Ticket',
@@ -153,11 +171,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -187,3 +204,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

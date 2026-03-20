@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 result 2022 - Official National Higher Secondary Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>class 12 result 2022 - Official National Higher Secondary Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "class 12 result 2022 - Official National Higher Secondary Archive"; 
+$meta_description = "Check class 12 result 2022 for all state and central board exams. Access the official 2022 India result archive on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify all 2022 Class 12 results by student name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -80,8 +87,7 @@ $meta_keywords = "";
                     that batch. Having a verified digital result from the <strong>class 12 result 2022</strong> hub is
                     essential for students to complete their academic verification and proof of educational attainment
                     during university registration and document verification processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -94,27 +100,26 @@ $meta_keywords = "";
                         <p>Yes, all results under <strong>class 12 result 2022</strong> are permanently archived on
                             verified platforms like <strong>indiaresults.com</strong> for archival and verification
                             access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check result by name for my 2022 Class 12 exam?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>class 12 result 2022</strong> portal includes a dedicated name-wise
                             search for major board examinations across different Indian states for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for graduation admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>class 12 result 2022</strong> archive is a valid
                             provisional document accepted for initial college and university registration and document
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

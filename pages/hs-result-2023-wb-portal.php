@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hs result 2023 west bengal - Official WBCHSE Portal Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>hs result 2023 west bengal - Official WBCHSE Portal Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "hs result 2023 west bengal - Official WBCHSE Portal Hub"; 
+$meta_description = "Check hs result 2023 west bengal for the Class 12th examinations. Access the official 2023 West Bengal (WBCHSE) HS result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check HS Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify West Bengal HS results by student name alternative.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +88,7 @@ $meta_keywords = "";
                     Having a verified digital result from the <strong>hs result 2023 west bengal</strong> hub is
                     essential for students to complete their college registration and certificate verification
                     processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -94,27 +100,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>hs result 2023 west bengal</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for all HS-participating candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online WB HS result official for scholarships?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for WBCHSE,
                             ensuring that all result data is mirrored directly from official board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for University admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>hs result 2023 west bengal</strong> hub is a valid
                             provisional document accepted for initial university registration and document verification
                             in West Bengal.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

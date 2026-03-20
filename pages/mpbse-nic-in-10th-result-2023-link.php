@@ -1,17 +1,31 @@
 <?php 
-include '../includes/header.php'; 
-$page_title = ""; 
+include '../header.php'; 
+$page_title = "Mpbse Nic In 10th Result 2023 Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div class="content-wrapper">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Mpbse Nic In 10th Result 2023 Link</div>
+    <h2 class='sr-title'>Mpbse Nic In 10th Result 2023 Link</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Mpbse Nic In 10th Result 2023 Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="content-wrapper">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="page-head-line">mpbse.nic.in 10th Result 2023 Link</h1>
-            </div>
-        </div>
+                
+            
         <div class="row">
             <div class="col-md-12">
                 <div class="alert alert-info">
@@ -36,18 +50,22 @@ $meta_keywords = "";
                             <li>Enter your Application Number.</li>
                             <li>Click on 'Submit' to display your result.</li>
                         </ol>
-                    </div>
-                </div>
+                    
                 <h3>Information on Result Page:</h3>
                 <p>
                     The result page will display the student's name, roll number, father's name, mother's name, marks obtained in each subject (theory and practical), total marks, and the result status (Pass/Fail/Supplementary).
                 </p>
                 <div class="alert alert-success">
                     <strong>Tip:</strong> Keep a copy of the result for the admission process in Class 11. Original mark sheets will be distributed by the schools later.
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

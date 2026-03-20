@@ -7,9 +7,27 @@ $meta_keywords = "10th result name wise, check class 10 result by name online, o
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result name wise - Official National Board Mirror</div>
-    <h2 class='sr-title'>10th result name wise: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>10th result name wise - Official National Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th result name wise - Official National Board Mirror"; 
+$meta_description = "Check 10th result name wise online. Access the search by name facility for all Indian State Boards (RBSE, PSEB, BSE Odisha, etc.) for the 2024 session."; 
+$meta_keywords = "10th result name wise, check class 10 result by name online, official board results link, indiaresults 10th name wise search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th result name wise - Official National Board Mirror";
+$meta_description = "Check 10th result name wise online. Access the search by name facility for all Indian State Boards (RBSE, PSEB, BSE Odisha, etc.) for the 2024 session.";
+$meta_keywords = "10th result name wise, check class 10 result by name online, official board results link, indiaresults 10th name wise search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "10th result name wise, check class 10 result by name online, o
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC National HUB" target="_blank">Access National HUB</a>
                 <a href="https://www.exametc.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Exametc result portal" target="_blank">Visit Exametc HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 10th result name wise Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board using your name, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "10th result name wise, check class 10 result by name online, o
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 10th result name wise data, please visit your respective board headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 2024 10th Name Wise Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "10th result name wise, check class 10 result by name online, o
         <br>
         <strong>3. Is the result from the 10th Name Wise portal valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "10th result name wise" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

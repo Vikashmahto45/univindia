@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Raj India Result - Official Rajasthan Board result Portal"; 
 $meta_description = "Check Raj India Result online. Access the high-speed Rajasthan Board (RBSE) 10th and 12th results. Official Rajasthan marks link cluster."; 
 $meta_keywords = "raj india result, check rbse 10th result online, rbse results 2024, official rajasthan result link, indiaresult raj board 12th"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Raj India Result - Official Rajasthan Board result Portal</div>
+    <h2 class='sr-title'>Raj India Result - Official Rajasthan Board result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Raj India Result - Official Rajasthan Board result Portal"; 
+$meta_description = "Check Raj India Result online. Access the high-speed Rajasthan Board (RBSE) 10th and 12th results. Official Rajasthan marks link cluster."; 
+$meta_keywords = "raj india result, check rbse 10th result online, rbse results 2024, official rajasthan result link, indiaresult raj board 12th"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Raj India Result - Official Rajasthan Board result Portal";
+$meta_description = "Check Raj India Result online. Access the high-speed Rajasthan Board (RBSE) 10th and 12th results. Official Rajasthan marks link cluster.";
+$meta_keywords = "raj india result, check rbse 10th result online, rbse results 2024, official rajasthan result link, indiaresult raj board 12th";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Raj India Result: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary School (Class 10), Senior Secondary (Class 12), Science, Commerce, Arts Streams, and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Raj India Result" (representing the primary synchronized digital result-dissemination framework utilized by over 20 lakh students for the annual board exams conducted by the RBSE Ajmer) represents the single most significant digital milestone for students residing in the academic and cultural landscape of Rajasthan. As the primary official gateway to the state's educational infrastructure (Ajmer, RBSE HQ), and the traditional school education infrastructure of the nation, the "Raj India Result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (High School and Intermediate) via dedicated high-concurrency server endpoints and authorized mirror archives like Rajasthan IndiaResults. For the current academic cycle, where immediate result retrieval and robust technical evaluation are state priorities, the "Raj India Result" search is the digital gateway through which candidates verify their fundamental professional achievement with maximum speed, transparency, and integrity. The Rajasthan education councils have implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Raj India Result," ensuring that every aspiring student and researcher in Rajasthan can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "raj india result, check rbse 10th result online, rbse results 
                 <a href="https://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official RBSE Portal" target="_blank">Visit Board Home</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults Raj Portal" target="_blank">Access Raj Mirrors</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Raj India Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via the national system, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "raj india result, check rbse 10th result online, rbse results 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Raj India Result data, please visit the RBSE headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Raj India Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "raj india result, check rbse 10th result online, rbse results 
         <br>
         <strong>3. Is the result from Raj India Result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Raj India Result" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

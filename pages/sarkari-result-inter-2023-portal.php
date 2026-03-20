@@ -1,10 +1,28 @@
 <?php 
-include '../includes/header.php'; 
-$page_title = ""; 
+include '../header.php'; 
+$page_title = "Sarkari Result Inter 2023 Portal"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Sarkari Result Inter 2023 Portal</div>
+    <h2 class='sr-title'>Sarkari Result Inter 2023 Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Sarkari Result Inter 2023 Portal"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+// sarkari result inter 2023
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +44,7 @@ $meta_keywords = "";
 </head>
 <body>
     <header>
-        <h1>Sarkari Result Inter 2023</h1>
+        
     </header>
     <main>
         <p>Looking for <strong>Sarkari Result Inter 2023</strong>? University India aggregate the latest result links from various state and central boards. Whether it is the UP Board 12th, Bihar Inter, or CBSE Class 12, find all Sarkari result updates here.</p>
@@ -45,11 +63,18 @@ $meta_keywords = "";
 
         <h2>How to Use Sarkari Result Portals?</h2>
         <p>Follow the simple steps to check your scores. Always ensure you are on a <span class="highlight">secure (HTTPS)</span> portal before entering your roll number or personal details. Sarkari results provide a one-stop destination for students to jump to their specific board result page effortlessly.</p>
-    </main>
+    
     <footer>
-        &copy;  University India - Sarkari News Dashboard. All Rights Reserved.
+        &copy; <?php echo date("Y"); ?> University India - Sarkari News Dashboard. All Rights Reserved.
     </footer>
 </body>
 </html>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

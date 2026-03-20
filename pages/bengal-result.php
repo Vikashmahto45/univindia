@@ -7,9 +7,27 @@ $meta_keywords = "bengal result, west bengal result 2024, wbbse results, wbchse 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bengal Result 2024 - WBBSE & WBCHSE West Bengal State Results</div>
-    <h2 class='sr-title'>Bengal Result 2024: A Definitive Guide to West Bengal’s Academic Milestones</h2>
+    <h2 class='sr-title'>Bengal Result 2024 - WBBSE & WBCHSE West Bengal State Results</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "Bengal Result 2024 - WBBSE & WBCHSE West Bengal State Results"; 
+$meta_description = "Check Bengal Result 2024 for Madhyamik (10th) and Higher Secondary (12th). Access the latest updates from West Bengal state boards with direct official links."; 
+$meta_keywords = "bengal result, west bengal result 2024, wbbse results, wbchse results, wbresults nic in 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Bengal Result 2024 - WBBSE & WBCHSE West Bengal State Results";
+$meta_description = "Check Bengal Result 2024 for Madhyamik (10th) and Higher Secondary (12th). Access the latest updates from West Bengal state boards with direct official links.";
+$meta_keywords = "bengal result, west bengal result 2024, wbbse results, wbchse results, wbresults nic in 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "bengal result, west bengal result 2024, wbbse results, wbchse 
                 <a href="https://wbbse.wb.gov.in" class="btn" title="WBBSE Board Website" target="_blank">WBBSE Official Site</a>
                 <a href="https://wbchse.wb.gov.in" class="btn" title="WBCHSE Council Website" target="_blank">WBCHSE Official Site</a>
                 <a href="https://west-bengal.indiaresults.com" class="btn" title="Bengal Result Name Wise Search" target="_blank">Bengal Name Wise (Mirror)</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Bengal Result 2024</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "bengal result, west bengal result 2024, wbbse results, wbchse 
         <br>
         <strong>3. Is the result available on the Shiksha Bandhu portal?</strong>
         <p>While the "Bengal Result 2024" is checked on the results portal, the Shiksha Bandhu and other government student portals use these results for scholarship disbursements. You should keep your digital result card ready for these applications.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

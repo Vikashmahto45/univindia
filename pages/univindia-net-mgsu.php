@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU - Bikaner University Result & Exam Portal"; 
 $meta_description = "Complete information about Univindia Net MGSU portal. Check your Maharaja Ganga Singh University Bikaner results, admit card, and exam forms easily."; 
 $meta_keywords = "univindia net mgsu"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU - Bikaner University Result & Exam Portal</div>
+    <h2 class='sr-title'>Univindia Net MGSU - Bikaner University Result & Exam Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU - Bikaner University Result & Exam Portal"; 
+$meta_description = "Complete information about Univindia Net MGSU portal. Check your Maharaja Ganga Singh University Bikaner results, admit card, and exam forms easily."; 
+$meta_keywords = "univindia net mgsu"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU - Bikaner University Result & Exam Portal";
+$meta_description = "Complete information about Univindia Net MGSU portal. Check your Maharaja Ganga Singh University Bikaner results, admit card, and exam forms easily.";
+$meta_keywords = "univindia net mgsu";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU: Everything You Need to Know About Bikaner University Portal</h1>
+        
         
         <p>Univindia Net MGSU is a phrase that has become synonymous with academic success and administrative convenience for students in Bikaner and surrounding districts. Maharaja Ganga Singh University (MGSU), formerly known as the University of Bikaner, uses the Univindia platform as its primary engine for all examination-related activities. This centralized portal is designed to cater to the diverse needs of thousands of students pursuing regular, private, and professional courses. In this comprehensive guide, we will delve into the various facets of the Univindia Net MGSU portal, explaining how it functions and how you can make the most of its features.</p>
 
@@ -49,6 +71,15 @@ $meta_keywords = "univindia net mgsu";
 
         <p><i>About Univindia.online: We are an independent educational blog providing guidance on how to use university portals. For the most accurate and up-to-date official information, always refer to the official university website.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

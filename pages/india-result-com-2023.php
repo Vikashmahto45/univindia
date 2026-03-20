@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result .com 2023 - Official National Result Mirror Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result .com 2023 - Official National Result Mirror Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result .com 2023 - Official National Result Mirror Hub"; 
+$meta_description = "Check india result .com 2023 for all board and university results. Access the official 2023 result portal mirrors on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Mirror</a>
                 <a href="#faq" class="btn btn-secondary">Global Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Name-wise result retrieval for 2023.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +83,7 @@ $meta_keywords = "";
                     students who might have misplaced their hall tickets. Furthermore, the <strong>india result .com
                         2023</strong> portal mobile-optimized interface allows students to check their marks on the go
                     from any device, making it the most accessible result hub in the country.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,27 +95,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>india result .com 2023</strong> portal provides a complete subject-wise
                             breakdown of marks, including internal assessment and practical scores where applicable.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What if the server is slow on india result .com 2023?</button>
                     <div class="faq-answer">
                         <p>If you face delays, we recommend using the secondary mirror links on the <strong>india result
                                 .com 2023</strong> portal, as they are distributed across different data centers to
                             ensure speed.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the information on india result .com 2023 official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> works as a formal partner for many boards and
                             universities, ensuring that the 2023 results displayed are official and authentic.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

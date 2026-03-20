@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "name wise result rbse - Official Rajasthan Board Search Hub"; 
 $meta_description = "Check name wise result rbse for 10th and 12th board exams. Access the official Rajasthan (RBSE) name-based result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; name wise result rbse - Official Rajasthan Board Search Hub</div>
+    <h2 class='sr-title'>name wise result rbse - Official Rajasthan Board Search Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "name wise result rbse - Official Rajasthan Board Search Hub"; 
+$meta_description = "Check name wise result rbse for 10th and 12th board exams. Access the official Rajasthan (RBSE) name-based result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest academic results for Rajasthan by student name.
                 Official BSER mirrors and name-wise search portals updated for 10th and 12th boards.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Name-wise Search</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Student Directory Search</h3>
                     <p>Verify RBSE results through student directory search mirror.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +88,7 @@ $meta_keywords = "";
                     digital result from the <strong>name wise result rbse</strong> hub is essential for students to
                     complete their academic verification and proof of educational attainment during document
                     verification processes even without a physical admit card.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,25 +100,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, <strong>indiaresults.com</strong> uses the official BSER (Ajmer) result database to
                             provide name-wise search functionality for most major exams in Rajasthan.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What if multiple students have the same name?</button>
                     <div class="faq-answer">
                         <p>The <strong>name wise result rbse</strong> hub will display father's names and roll numbers
                             alongside matching student names to help you identify the correct candidate profile.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I use name-wise result for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved via name-wise search is a valid provisional document accepted
                             for initial registration and verification across Rajasthan colleges.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

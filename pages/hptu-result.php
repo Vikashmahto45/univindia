@@ -7,9 +7,27 @@ $meta_keywords = "hptu result, hptu result 2024, himachal pradesh technical univ
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HPTU Result - Himachal Pradesh Technical University Exam Hub</div>
-    <h2 class='sr-title'>HPTU Result: Your Definitive National Hub for Himachal Pradesh Technical University Success</h2>
+    <h2 class='sr-title'>HPTU Result - Himachal Pradesh Technical University Exam Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "HPTU Result - Himachal Pradesh Technical University Exam Hub"; 
+$meta_description = "Check HPTU Result for official B.Tech, B.Pharm, M.B.A, and technical degree examinations. Access the official HPTU Hamirpur result portal, merit lists, and marksheet downloads."; 
+$meta_keywords = "hptu result, hptu result 2024, himachal pradesh technical university result, hptu btech result, himtu result portal hptu hamirpur result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "HPTU Result - Himachal Pradesh Technical University Exam Hub";
+$meta_description = "Check HPTU Result for official B.Tech, B.Pharm, M.B.A, and technical degree examinations. Access the official HPTU Hamirpur result portal, merit lists, and marksheet downloads.";
+$meta_keywords = "hptu result, hptu result 2024, himachal pradesh technical university result, hptu btech result, himtu result portal hptu hamirpur result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "hptu result, hptu result 2024, himachal pradesh technical univ
                 <a href="http://www.himtu.ac.in/results" class="btn" title="HPTU Direct Result Link" target="_blank">HPTU Results Hub</a>
                 <a href="https://hp.indiaresults.com" class="btn" title="HP Result Name Wise search" target="_blank">IndiaResults HP</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified HPTU Degree" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About HPTU Result (Hamirpur)</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "hptu result, hptu result 2024, himachal pradesh technical univ
         <br>
         <strong>3. Is the online HPTU marksheet valid for GATE 2024/2025 registration?</strong>
         <p>Yes, the computer-generated "HPTU Result" scorecard is accepted as provisional proof of your qualifying degree for the initial registration of GATE and other national-level postgraduate entrance examinations.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

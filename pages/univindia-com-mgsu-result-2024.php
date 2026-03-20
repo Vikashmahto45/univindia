@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard"; 
 $meta_description = "Check your MGSU Bikaner 2024 results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University 2024 marksheets and results online."; 
 $meta_keywords = "Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard</div>
+    <h2 class='sr-title'>Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard"; 
+$meta_description = "Check your MGSU Bikaner 2024 results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University 2024 marksheets and results online."; 
+$meta_keywords = "Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard";
+$meta_description = "Check your MGSU Bikaner 2024 results on Univindia Com. Official guide to downloading Maharaja Ganga Singh University 2024 marksheets and results online.";
+$meta_keywords = "Univindia Com MGSU Result 2024 - Bikaner University Scores Dashboard";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Com MGSU Result 2024: Your Guide to Bikaner University 2024 Scores</h1>
+        
         
         <p>The term "Univindia Com MGSU Result 2024" represents the most critical academic milestone for hundreds of thousands of students at Maharaja Ganga Singh University (MGSU), Bikaner, during the current 2024 session. As the university concludes its examination cycles for undergraduate and postgraduate courses, the `univindia.com` portal (often working in tandem with the .net version) serves as the primary digital destination for score verification. In this comprehensive guide, we will provide a detailed walkthrough of how to check your 2024 MGSU results on the official portal, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period in 2024.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Com MGSU Result 2024 - Bikaner University Scores Das
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized 2024 result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

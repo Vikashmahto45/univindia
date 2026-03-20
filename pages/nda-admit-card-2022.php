@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online"; 
 $meta_description = "Download NDA Admit Card 2022. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) 2022 examination hall tickets at upsc.gov.in."; 
 $meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1 2022 admit card link, nda 2 2022 admit card, naval academy call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online"; 
+$meta_description = "Download NDA Admit Card 2022. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) 2022 examination hall tickets at upsc.gov.in."; 
+$meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1 2022 admit card link, nda 2 2022 admit card, naval academy call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online";
+$meta_description = "Download NDA Admit Card 2022. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) 2022 examination hall tickets at upsc.gov.in.";
+$meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1 2022 admit card link, nda 2 2022 admit card, naval academy call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -90,8 +113,16 @@ $meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Defence Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

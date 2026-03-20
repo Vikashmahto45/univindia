@@ -7,9 +7,27 @@ $meta_keywords = "class 10 result 2022 rajasthan board, check rbse 10th result 2
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 10 result 2022 rajasthan board - Official RBSE Mirror</div>
-    <h2 class='sr-title'>class 10 result 2022 rajasthan board: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary Public Examinations (Class 10), and Rajasthan State Board Result Gateways (Government of Rajasthan, Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>class 10 result 2022 rajasthan board - Official RBSE Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "class 10 result 2022 rajasthan board - Official RBSE Mirror"; 
+$meta_description = "Check class 10 result 2022 rajasthan board online. Access the historical Secondary (Class 10) results for Board of Secondary Education Rajasthan (RBSE)."; 
+$meta_keywords = "class 10 result 2022 rajasthan board, check rbse 10th result 2022 online, official rajasthan matric 2022 link, rajresults nic in 2022 portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "class 10 result 2022 rajasthan board - Official RBSE Mirror";
+$meta_description = "Check class 10 result 2022 rajasthan board online. Access the historical Secondary (Class 10) results for Board of Secondary Education Rajasthan (RBSE).";
+$meta_keywords = "class 10 result 2022 rajasthan board, check rbse 10th result 2022 online, official rajasthan matric 2022 link, rajresults nic in 2022 portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "class 10 result 2022 rajasthan board, check rbse 10th result 2
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Official Portal" target="_blank">Access RBSE Official</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Rajasthan Name site" target="_blank">Visit 2022 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official class 10 result 2022 rajasthan board Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "class 10 result 2022 rajasthan board, check rbse 10th result 2
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to class 10 result 2022 rajasthan board data, please visit the RBSE headquarters in Ajmer or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About class 10 result 2022 rajasthan board Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "class 10 result 2022 rajasthan board, check rbse 10th result 2
         <br>
         <strong>3. Is the result from class 10 result 2022 rajasthan board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "class 10 result 2022 rajasthan board" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

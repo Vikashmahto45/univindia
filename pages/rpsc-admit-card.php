@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in</div>
+    <h2 class='sr-title'>RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in";
+$page_description = "Download RPSC Admit Card 2025 for RAS, Teacher, Lecturer, and other competitive exams. Get direct link for Rajasthan Public Service Commission Hall Ticket. 800+ words of detailed guide.";
+$page_keywords = "RPSC Admit Card 2025, Rajasthan Public Service Commission Hall Ticket, RPSC RAS Admit Card, RPSC Teacher Hall Ticket Download, rpsc.rajasthan.gov.in call letter";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">RPSC Admit Card 2025: Rajasthan Public Service Commission Hall Ticket</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-landmark me-2"></i> <strong>Official Update:</strong> The Rajasthan Public Service Commission (RPSC) releases the admit cards for Gazetted and non-Gazetted officer posts on its official portal: rpsc.rajasthan.gov.in. Ensure you have your SSO ID ready for a smoother experience.
@@ -91,22 +114,19 @@ $meta_keywords = "";
                             <i class="fas fa-print fa-2x text-info mb-2"></i>
                             <h6 class="text-white">Hardcopy Admit Card</h6>
                             <p class="small text-light-gray">Digital copies on mobile are NOT accepted.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 text-center h-100 shadow-sm border-info">
                             <i class="fas fa-id-badge fa-2x text-info mb-2"></i>
                             <h6 class="text-white">Original Photo ID</h6>
                             <p class="small text-light-gray">Aadhar Card, PAN, or Passport.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 text-center h-100 shadow-sm border-info">
                             <i class="fas fa-user-circle fa-2x text-info mb-2"></i>
                             <h6 class="text-white">Passport Photo</h6>
                             <p class="small text-light-gray">Glue one photo on the attendance sheet.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Prohibited Items & Dress Code</h2>
@@ -130,8 +150,7 @@ $meta_keywords = "";
                         <div id="rpQ1" class="accordion-collapse collapse" data-bs-parent="#rpscFaq">
                             <div class="accordion-body text-light-gray">
                                 You can retrieve your application number through the SSO ID portal under the 'My Recruitment' section or by using the RPSC helpdesk at 0141-2635212.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -142,10 +161,8 @@ $meta_keywords = "";
                         <div id="rpQ2" class="accordion-collapse collapse" data-bs-parent="#rpscFaq">
                             <div class="accordion-body text-light-gray">
                                 While a black and white printout is accepted, a colored one is recommended to ensure your photograph and signatures are clearly identifiable by the invigilator.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark shadow-lg">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Rajasthan Portals</h5>
@@ -153,14 +170,14 @@ $meta_keywords = "";
                         <a href="reet-admit-card-2025.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow-sm">REET Admit Card</a>
                         <a href="ptet-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">PTET Call Letter</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Rajasthan Education Links</h3>
                 <div class="row g-3">
+                    <?php
                     $raj_edu = [
                         'uniraj-admit-card.php' => 'Uniraj Hall Ticket',
                         'mdsu-admit-card.php' => 'MDSU Ajmer Admit Card',
@@ -174,11 +191,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -208,3 +224,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

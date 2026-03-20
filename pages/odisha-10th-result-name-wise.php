@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha 10th result name wise - Official Odisha Board Mirror"; 
 $meta_description = "Check odisha 10th result name wise online. Access the Class 10th (HSC) results for Board of Secondary Education (BSE) Odisha using candidate names."; 
 $meta_keywords = "odisha 10th result name wise, check bse odisha 10th result by name, official odisha matric name-wise link, odisha indiaresults 10th portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha 10th result name wise - Official Odisha Board Mirror</div>
+    <h2 class='sr-title'>odisha 10th result name wise - Official Odisha Board Mirror</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha 10th result name wise - Official Odisha Board Mirror"; 
+$meta_description = "Check odisha 10th result name wise online. Access the Class 10th (HSC) results for Board of Secondary Education (BSE) Odisha using candidate names."; 
+$meta_keywords = "odisha 10th result name wise, check bse odisha 10th result by name, official odisha matric name-wise link, odisha indiaresults 10th portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "odisha 10th result name wise - Official Odisha Board Mirror";
+$meta_description = "Check odisha 10th result name wise online. Access the Class 10th (HSC) results for Board of Secondary Education (BSE) Odisha using candidate names.";
+$meta_keywords = "odisha 10th result name wise, check bse odisha 10th result by name, official odisha matric name-wise link, odisha indiaresults 10th portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>odisha 10th result name wise: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha, Cuttack, Matriculation Public Examinations (Class 10), and Odisha State Board Result Gateways (Government of Odisha, School Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "odisha 10th result name wise" (representing the primary synchronized digital result-dissemination framework utilized by over 5 lakh students for the annual matriculation board exams conducted during the active 2023-2024 academic session by the BSE Odisha) represents a significant digital milestone for students residing in the academic and industrial landscape of Odisha. As the primary official gateway to the state's 2024 educational infrastructure (Cuttack HQ), and the traditional school education infrastructure of the nation, the "odisha 10th result name wise" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Odisha IndiaResults. For the 2024 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across Odisha, the "odisha 10th result name wise" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2024 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "odisha 10th result name wise," ensuring that every student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "odisha 10th result name wise, check bse odisha 10th result by 
                 <a href="http://orissaresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Odisha Results" target="_blank">Access Odisha HUB</a>
                 <a href="http://bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="BSE Odisha Portal" target="_blank">Visit BSE Official</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official odisha 10th result name wise Online: A Unified Guide</h2>
         <p>To ensure a successful name-based search in the official 2024 records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "odisha 10th result name wise, check bse odisha 10th result by 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to odisha 10th result name wise data, please visit the BSE headquarters in Cuttack or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About odisha 10th result name wise Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "odisha 10th result name wise, check bse odisha 10th result by 
         <br>
         <strong>3. Is the result from odisha 10th result name wise valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "odisha 10th result name wise" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

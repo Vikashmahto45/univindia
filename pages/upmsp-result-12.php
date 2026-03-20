@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UPMSP Result 12 - Uttar Pradesh Board Class 12 Intermediate Hub"; 
 $meta_description = "Check UPMSP Result 12 for official Uttar Pradesh board intermediate examinations. Access the latest UP board 12th result news, dates, and direct marksheet download links."; 
 $meta_keywords = "upmsp result 12, upmsp result 2024 class 12, upmsp.edu.in 12th result, up board intermediate result, upmsp result news 12th"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UPMSP Result 12 - Uttar Pradesh Board Class 12 Intermediate Hub</div>
+    <h2 class='sr-title'>UPMSP Result 12 - Uttar Pradesh Board Class 12 Intermediate Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UPMSP Result 12 - Uttar Pradesh Board Class 12 Intermediate Hub"; 
+$meta_description = "Check UPMSP Result 12 for official Uttar Pradesh board intermediate examinations. Access the latest UP board 12th result news, dates, and direct marksheet download links."; 
+$meta_keywords = "upmsp result 12, upmsp result 2024 class 12, upmsp.edu.in 12th result, up board intermediate result, upmsp result news 12th"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "UPMSP Result 12 - Uttar Pradesh Board Class 12 Intermediate Hub";
+$meta_description = "Check UPMSP Result 12 for official Uttar Pradesh board intermediate examinations. Access the latest UP board 12th result news, dates, and direct marksheet download links.";
+$meta_keywords = "upmsp result 12, upmsp result 2024 class 12, upmsp.edu.in 12th result, up board intermediate result, upmsp result news 12th";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>UPMSP Result 12: Your Definitive Gateway to Uttar Pradesh’s Intermediate Success</h1>
+        
         
         <p>The "UPMSP Result 12" is the single most academic event for millions of young scholars across the culturally rich and educationally massive state of Uttar Pradesh. Managed by the Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP), or the U.P. Board, the Class 12 intermediate examinations are the primary gateways to professional undergraduate learning and specialized career paths in Engineering, Medicine, and Humanities. For the current academic cycle, the "UPMSP Result 12" search represents the culmination of years of dedicated senior secondary schooling and is the ticket to prestigious universities and technical institutes across India. Based in Prayagraj, the board has pioneered advanced digital assessment and data verification systems to handle the world's largest student database, ensuring that the results for Science, Commerce, and Arts are released with maximum transparency, speed, and integrity. At Univindia.online, we recognize the life-altering significance of these scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies the search for your "UPMSP Result 12," ensuring that every student from Lucknow to Varanasi can celebrate their victory without technical hurdles.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "upmsp result 12, upmsp result 2024 class 12, upmsp.edu.in 12th
                 <a href="https://upmsp.edu.in" class="btn" title="UPMSP Official Board Site" target="_blank">UPMSP Main Portal</a>
                 <a href="https://up.indiaresults.com" class="btn" title="UP Result Name Wise search" target="_blank">IndiaResults U.P.</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified UPMSP Certificate" target="_blank">DigiLocker Results</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About UPMSP Result 12</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "upmsp result 12, upmsp result 2024 class 12, upmsp.edu.in 12th
         <br>
         <strong>3. is the online UP Board result valid for university admission in BHU?</strong>
         <p>Yes, the computer-generated "UPMSP Result 12" scorecard is accepted for initial online counseling and document verification on university portals (including CUET) until the original physical marksheet is provided by the council.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

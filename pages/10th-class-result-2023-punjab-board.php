@@ -7,9 +7,27 @@ $meta_keywords = "10th class result 2023 punjab board, check pseb 10th result 20
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Class Result 2023 Punjab Board - Official PSEB Portal</div>
-    <h2 class='sr-title'>10th Class Result 2023 Punjab Board: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Matriculation (Class 10), Secondary School Certificate (SSC), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>10th Class Result 2023 Punjab Board - Official PSEB Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th Class Result 2023 Punjab Board - Official PSEB Portal"; 
+$meta_description = "Check 10th Class Result 2023 Punjab Board online. Access the primary Punjab School Education Board (PSEB) Matric results for the 2023 session. Official marks link."; 
+$meta_keywords = "10th class result 2023 punjab board, check pseb 10th result 2023 online, punjab board matric result 2023 indiaresults, official 2023 punjab 10th link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th Class Result 2023 Punjab Board - Official PSEB Portal";
+$meta_description = "Check 10th Class Result 2023 Punjab Board online. Access the primary Punjab School Education Board (PSEB) Matric results for the 2023 session. Official marks link.";
+$meta_keywords = "10th class result 2023 punjab board, check pseb 10th result 2023 online, punjab board matric result 2023 indiaresults, official 2023 punjab 10th link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "10th class result 2023 punjab board, check pseb 10th result 20
                 <a href="https://www.pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official PSEB Mohali" target="_blank">Visit Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Result Home</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 10th Class Result 2023 Punjab Board Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "10th class result 2023 punjab board, check pseb 10th result 20
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 10th Class Result 2023 Punjab Board data, please visit the PSEB headquarters in Mohali or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th Class Result 2023 Punjab Board Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "10th class result 2023 punjab board, check pseb 10th result 20
         <br>
         <strong>3. Is the result from 10th Class Result 2023 Punjab Board valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "10th Class Result 2023 Punjab Board" portal) are recorded in the national database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

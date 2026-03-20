@@ -9,39 +9,77 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Generate_sitemap</div>
     <h2 class='sr-title'>Generate_sitemap</h2>
     <div class='sr-content'>
-        ' . PHP_EOL;
+        <?php 
+include '../header.php'; 
+$page_title = "Generate_sitemap"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+/**
+ * Sitemap Generator for Univindia.online
+ * Generates sitemap.xml using the static link_map.php array.
+ */
+
+include_once 'includes/config.php';
+include_once 'includes/link_map.php';
+
+$xml = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
 $xml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
 
-// 1. Add Home Page
+// Add Home Page
 $xml .= '  <url>' . PHP_EOL;
-$xml .= '    <loc>' . BASE_URL . '</loc>' . PHP_EOL;
+$xml .= '    <loc>' . BASE_URL . 'index.php</loc>' . PHP_EOL;
 $xml .= '    <changefreq>daily</changefreq>' . PHP_EOL;
 $xml .= '    <priority>1.0</priority>' . PHP_EOL;
 $xml .= '  </url>' . PHP_EOL;
 
-// 2. Scan and Add All SEO Pages
-if (is_dir($pages_dir)) {
-    $files = scandir($pages_dir);
-    foreach ($files as $file) {
-        if ($file !== '.' && $file !== '..' && substr($file, -4) === '.php' && $file !== 'generate_sitemap.php') {
-            $xml .= '  <url>' . PHP_EOL;
-            $xml .= '    <loc>' . BASE_URL . $file . '</loc>' . PHP_EOL;
-            $xml .= '    <changefreq>weekly</changefreq>' . PHP_EOL;
-            $xml .= '    <priority>0.8</priority>' . PHP_EOL;
-            $xml .= '  </url>' . PHP_EOL;
-        }
+// Add Results Page
+$xml .= '  <url>' . PHP_EOL;
+$xml .= '    <loc>' . BASE_URL . 'results.php</loc>' . PHP_EOL;
+$xml .= '    <changefreq>daily</changefreq>' . PHP_EOL;
+$xml .= '    <priority>0.9</priority>' . PHP_EOL;
+$xml .= '  </url>' . PHP_EOL;
+
+// Add AdSense Pages
+$compliance_pages = ['about-us.php', 'privacy-policy.php', 'contact-us.php', 'disclaimer.php', 'terms-and-conditions.php'];
+foreach ($compliance_pages as $cp) {
+    $xml .= '  <url>' . PHP_EOL;
+    $xml .= '    <loc>' . BASE_URL . $cp . '</loc>' . PHP_EOL;
+    $xml .= '    <changefreq>monthly</changefreq>' . PHP_EOL;
+    $xml .= '    <priority>0.5</priority>' . PHP_EOL;
+    $xml .= '  </url>' . PHP_EOL;
+}
+
+// Add Dynamic Pages from link_map
+if (isset($link_map) && is_array($link_map)) {
+    foreach ($link_map as $keyword => $url) {
+        $xml .= '  <url>' . PHP_EOL;
+        $xml .= '    <loc>' . BASE_URL . $url . '</loc>' . PHP_EOL;
+        $xml .= '    <changefreq>weekly</changefreq>' . PHP_EOL;
+        $xml .= '    <priority>0.8</priority>' . PHP_EOL;
+        $xml .= '  </url>' . PHP_EOL;
     }
 }
 
 $xml .= '</urlset>';
 
-// 3. Save to Root
-if (file_put_contents($xml_file, $xml)) {
-    echo "SUCCESS: sitemap.xml generated in the root directory.";
+// Write to file
+if (file_put_contents('sitemap.xml', $xml)) {
+    echo "Sitemap generated successfully! Total entries: " . (count($link_map) + 7);
 } else {
-    echo "ERROR: Could not write to " . $xml_file;
+    echo "Failed to generate sitemap.";
 }
 ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,11 +1,26 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket"; 
 $meta_description = "Download Jiwaji University Admit Card 2024 for UG/PG Semester Exams. Get direct link for Jiwaji Gwalior Hall Ticket download at jiwaji.edu."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket</div>
+    <h2 class='sr-title'>Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket"; 
+$meta_description = "Download Jiwaji University Admit Card 2024 for UG/PG Semester Exams. Get direct link for Jiwaji Gwalior Hall Ticket download at jiwaji.edu."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +32,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
                 <div class="card-header bg-danger text-white p-4">
-                    <h1 class="h3 fw-bold mb-0">Jiwaji University Admit Card 2024</h1>
+                    
                 </div>
                 <div class="card-body p-4">
                     <p class="lead">Jiwaji University, Gwalior is preparing to release the admit cards for various undergraduate (UG) and postgraduate (PG) semester and annual examinations. Students appearing for B.A., B.Sc., B.Com, M.A., M.Sc., and other professional courses can download their hall tickets from the official Jiwaji portal.</p>
@@ -62,8 +77,7 @@ $meta_keywords = "";
                                 <li class="list-group-item">Exam Timing/Shift</li>
                                 <li class="list-group-item">Candidate's Photograph & Signature</li>
                             </ul>
-                        </div>
-                    </div>
+                        
 
                     <h2 class="mt-5 fw-bold text-dark">Documents Required at Exam Center</h2>
                     <p>To ensure a hassle-free entry, carry the following items to your designated Jiwaji University exam center:</p>
@@ -107,8 +121,7 @@ $meta_keywords = "";
                             <div id="f1" class="accordion-collapse collapse show" data-bs-parent="#jiwajiFaq">
                                 <div class="accordion-body">
                                     The admit card is primarily available at <strong>jiwaji.mponline.gov.in</strong> or through the main university link at <strong>jiwaji.edu</strong>.
-                                </div>
-                            </div>
+                                
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
@@ -119,8 +132,7 @@ $meta_keywords = "";
                             <div id="f2" class="accordion-collapse collapse" data-bs-parent="#jiwajiFaq">
                                 <div class="accordion-body">
                                     You must contact the Jiwaji University Examination Department at Gwalior campus immediately for corrections. Do NOT write anything manually on the admit card.
-                                </div>
-                            </div>
+                                
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
@@ -131,16 +143,19 @@ $meta_keywords = "";
                             <div id="f3" class="accordion-collapse collapse" data-bs-parent="#jiwajiFaq">
                                 <div class="accordion-body">
                                     No, the enrollment number is mandatory. If you have lost it, check your previous semester marksheet or contact your college office.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                                
+                        
 
                     <p class="mt-5 text-muted small text-center"><strong>Disclaimer:</strong> This website is for informational purposes only. Please visit <strong>jiwaji.edu</strong> for official university updates and notifications.</p>
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

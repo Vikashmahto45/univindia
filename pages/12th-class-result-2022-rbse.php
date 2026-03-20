@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th class result 2022 rbse - Official Rajasthan Board Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12th class result 2022 rbse - Official Rajasthan Board Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th class result 2022 rbse - Official Rajasthan Board Archive"; 
+$meta_description = "Check 12th class result 2022 rbse for Science, Commerce, and Arts streams. Access the official 2022 Rajasthan Board (BSER) result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify RBSE 12th results 2022 by student name.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +83,7 @@ $meta_keywords = "";
                     The 2022 results were notable for the performance in core electives and the detailed scoring pattern
                     adopted by the board. Through <strong>indiaresults.com</strong>, students can expect 100% accurate
                     data retrieval, mirroring the official physical marksheet issued by the board office at Ajmer.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,27 +96,26 @@ $meta_keywords = "";
                         <p>Yes, the <strong>12th class result 2022 rbse</strong> section on
                             <strong>indiaresults</strong> includes full name-wise search support for all 12th-grade
                             candidates of that year.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2022 RBSE results still available online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. All major board results covered under <strong>12th class result 2022
                                 rbse</strong> are permanently archived on verified servers like
                             <strong>indiaresults.com</strong>.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 RBSE result valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>12th class result 2022 rbse</strong> online copies are provisional but widely
                             accepted for initial degree college or vocational registrations across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

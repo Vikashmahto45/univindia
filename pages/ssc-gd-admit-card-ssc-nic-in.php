@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online"; 
 $meta_description = "Download SSC GD Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct links for GD Constable hall ticket, PET/PST admit card, and exam schedules."; 
 $meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd hall ticket download, ssc gd call letter ssc nic in, ssc gd admit card 2024 download link"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online</div>
+    <h2 class='sr-title'>SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online"; 
+$meta_description = "Download SSC GD Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct links for GD Constable hall ticket, PET/PST admit card, and exam schedules."; 
+$meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd hall ticket download, ssc gd call letter ssc nic in, ssc gd admit card 2024 download link"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online";
+$meta_description = "Download SSC GD Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct links for GD Constable hall ticket, PET/PST admit card, and exam schedules.";
+$meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd hall ticket download, ssc gd call letter ssc nic in, ssc gd admit card 2024 download link";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -78,8 +101,16 @@ $meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-darkblue">Explore Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online"; 
 $meta_description = "Download OSSC CHSL Admit Card 2023. Get the direct link for Odisha Staff Selection Commission Combined Higher Secondary Level (CHSL) Specialist recruitment hall tickets at ossc.gov.in."; 
 $meta_keywords = "ossc chsl admit card 2023, odisha chsl admit card download, ossc.gov.in chsl hall ticket, ossc chsl specialist admit card link, odisha recruitment 2023 admit card"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online</div>
+    <h2 class='sr-title'>OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online"; 
+$meta_description = "Download OSSC CHSL Admit Card 2023. Get the direct link for Odisha Staff Selection Commission Combined Higher Secondary Level (CHSL) Specialist recruitment hall tickets at ossc.gov.in."; 
+$meta_keywords = "ossc chsl admit card 2023, odisha chsl admit card download, ossc.gov.in chsl hall ticket, ossc chsl specialist admit card link, odisha recruitment 2023 admit card"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online";
+$meta_description = "Download OSSC CHSL Admit Card 2023. Get the direct link for Odisha Staff Selection Commission Combined Higher Secondary Level (CHSL) Specialist recruitment hall tickets at ossc.gov.in.";
+$meta_keywords = "ossc chsl admit card 2023, odisha chsl admit card download, ossc.gov.in chsl hall ticket, ossc chsl specialist admit card link, odisha recruitment 2023 admit card";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -86,8 +109,16 @@ $meta_keywords = "ossc chsl admit card 2023, odisha chsl admit card download, os
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest OSSC Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

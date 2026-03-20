@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Org Result 2024 - Matsya University Alwar 2024 Scores"; 
 $meta_description = "Check your RRBMU Alwar results for 2024 on Univindia Org. Official guide to downloading Matsya University 2024 marksheets and scores online."; 
 $meta_keywords = "Univindia Org Result 2024 - Matsya University Alwar 2024 Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Org Result 2024 - Matsya University Alwar 2024 Scores</div>
+    <h2 class='sr-title'>Univindia Org Result 2024 - Matsya University Alwar 2024 Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Org Result 2024 - Matsya University Alwar 2024 Scores"; 
+$meta_description = "Check your RRBMU Alwar results for 2024 on Univindia Org. Official guide to downloading Matsya University 2024 marksheets and scores online."; 
+$meta_keywords = "Univindia Org Result 2024 - Matsya University Alwar 2024 Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Org Result 2024 - Matsya University Alwar 2024 Scores";
+$meta_description = "Check your RRBMU Alwar results for 2024 on Univindia Org. Official guide to downloading Matsya University 2024 marksheets and scores online.";
+$meta_keywords = "Univindia Org Result 2024 - Matsya University Alwar 2024 Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Org Result 2024: Your Guide to This Year's Matsya University Alwar Scores</h1>
+        
         
         <p>The term "Univindia Org Result 2024" represents the single most significant academic milestone for hundreds of thousands of students across Eastern Rajasthan during the current session. As the academic year for Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar, reaches its evaluation phase, the `univindia.org` portal becomes the official primary destination for achievement verification. In this detailed guide, we will provide a complete walkthrough of how to check your 2024 Matsya University results on the official portal, how to interpret your 2024 digital marksheet correctly, and what steps to take if you encounter technical or academic hurdles during the result declaration period in 2024.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Org Result 2024 - Matsya University Alwar 2024 Score
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized 2024 result declarations and official university news, please always rely on the official RRBMU Alwar website at univindia.org.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

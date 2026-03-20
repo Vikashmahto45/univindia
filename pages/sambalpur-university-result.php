@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Sambalpur University Result - Official UG/PG Semester Portal"; 
 $meta_description = "Check Sambalpur University Result for BA, BSc, BCom, and Semester examinations. Access the official university results, plus three marks, and merit list online."; 
 $meta_keywords = "sambalpur university result, check sambalpur university +3 result, sambalpur university semester result, suniv.ac.in result, university result odisha, plus three results sambalpur"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Sambalpur University Result - Official UG/PG Semester Portal</div>
+    <h2 class='sr-title'>Sambalpur University Result - Official UG/PG Semester Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Sambalpur University Result - Official UG/PG Semester Portal"; 
+$meta_description = "Check Sambalpur University Result for BA, BSc, BCom, and Semester examinations. Access the official university results, plus three marks, and merit list online."; 
+$meta_keywords = "sambalpur university result, check sambalpur university +3 result, sambalpur university semester result, suniv.ac.in result, university result odisha, plus three results sambalpur"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Sambalpur University Result - Official UG/PG Semester Portal";
+$meta_description = "Check Sambalpur University Result for BA, BSc, BCom, and Semester examinations. Access the official university results, plus three marks, and merit list online.";
+$meta_keywords = "sambalpur university result, check sambalpur university +3 result, sambalpur university semester result, suniv.ac.in result, university result odisha, plus three results sambalpur";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Sambalpur University Result: Your Comprehensive Navigator to Sambalpur University Undergraduate (UG) Plus Three (+3), Postgraduate (PG), and Professional Degree Result Gateways (Government of Odisha, Department of Higher Education, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Sambalpur and Odisha</h1>
+        
         
         <p>The "Sambalpur University Result" (applicable to the annual semester examinations, continuous internal evaluations, and specialized degree tests conducted for the current academic session by Sambalpur University) represents the single most significant digital milestone for over 2 lakh students residing in the educationally advanced landscape of Western Odisha. As the primary official gateway to the university's academic infrastructure (Jyoti Vihar, Burla, Sambalpur University HQ), and the premier higher education infrastructure of the nation, the "Sambalpur University Result" serves as the formal master directory that allows candidates to access their semester grades, practical assessment marks, and final degree certificate allotment via dedicated government server endpoints. For the current academic cycle, where high-quality digital governance and integrated higher education analytics are statewide priorities, the "Sambalpur University Result" search is the digital gateway through which candidates verify their professional transition into higher research and employment with maximum transparency and integrity. The university council has implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total SGPA/CGPA, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes every "Sambalpur University Result," ensuring that every aspiring student and researcher in the region can approach their academic records without technical delay or misinformation.</p>
 
@@ -46,10 +68,9 @@ $meta_keywords = "sambalpur university result, check sambalpur university +3 res
                 <a href="https://samsodisha.gov.in" class="btn" title="SAMS Odisha Status" target="_blank">SAMS Degree Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Records</a>
                 <a href="https://odisha.gov.in" class="btn" title="State Status" target="_blank">Odisha Higher Education</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Sambalpur University Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "sambalpur university result, check sambalpur university +3 res
         <br>
         <strong>3. Is the provisional copy from Sambalpur University Result valid?</strong>
         <p>Yes, your provisional result verified via the official "Sambalpur University Result" portal is accepted for provisional admission to colleges or temporary employment verification.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

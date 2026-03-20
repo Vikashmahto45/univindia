@@ -7,10 +7,27 @@ $meta_keywords = "india result 2019, 2019 board result, check 2019 results onlin
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2019 - Official 2019 National Result Archive</div>
-    <h2 class='sr-title'>india result 2019: Your Authoritative Navigator to National Board Councils, State Education Departments, and
-            National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <h2 class='sr-title'>india result 2019 - Official 2019 National Result Archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 2019 - Official 2019 National Result Archive"; 
+$meta_description = "Check india result 2019 for 10th, 12th, and university exams. Access the official 2019 national result archive and historical marksheet download portal."; 
+$meta_keywords = "india result 2019, 2019 board result, check 2019 results online, indiaresults 2019 archive, national result gateway 2019"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result 2019 - Official 2019 National Result Archive";
+$meta_description = "Check india result 2019 for 10th, 12th, and university exams. Access the official 2019 national result archive and historical marksheet download portal.";
+$meta_keywords = "india result 2019, 2019 board result, check 2019 results online, indiaresults 2019 archive, national result gateway 2019";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -66,8 +83,7 @@ $meta_keywords = "india result 2019, 2019 board result, check 2019 results onlin
                 <a href="https://www.digilocker.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="Get 2019 Marksheet" target="_blank">Download 2019 Marksheet</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 2019 Online</h2>
         <p>To ensure a successful result search in the 2019 archives, follow these technical steps:</p>
@@ -104,7 +120,7 @@ $meta_keywords = "india result 2019, 2019 board result, check 2019 results onlin
                 final database changes related to india result 2019 data, please visit the respective Board or
                 University headquarters or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 2019</h2>
@@ -120,8 +136,13 @@ $meta_keywords = "india result 2019, 2019 board result, check 2019 results onlin
         <strong>3. Is the 2019 result available on DigiLocker?</strong>
         <p>Yes, most boards (CBSE, CISCE, and State Boards) have integrated their "india result 2019" data with
             DigiLocker for instant digital certificate download.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

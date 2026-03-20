@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online"; 
 $meta_description = "Download KVS TGT PGT Admit Card 2024. Get direct link for Kendriya Vidyalaya Trained Graduate Teacher and Post Graduate Teacher recruitment hall tickets at kvsangathan.nic.in."; 
 $meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teacher admit card link, kvsangathan.nic.in teacher hall ticket, kvs interview admit card tgt pgt"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online"; 
+$meta_description = "Download KVS TGT PGT Admit Card 2024. Get direct link for Kendriya Vidyalaya Trained Graduate Teacher and Post Graduate Teacher recruitment hall tickets at kvsangathan.nic.in."; 
+$meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teacher admit card link, kvsangathan.nic.in teacher hall ticket, kvs interview admit card tgt pgt"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online";
+$meta_description = "Download KVS TGT PGT Admit Card 2024. Get direct link for Kendriya Vidyalaya Trained Graduate Teacher and Post Graduate Teacher recruitment hall tickets at kvsangathan.nic.in.";
+$meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teacher admit card link, kvsangathan.nic.in teacher hall ticket, kvs interview admit card tgt pgt";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -85,8 +108,16 @@ $meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teac
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check KVS Interview Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

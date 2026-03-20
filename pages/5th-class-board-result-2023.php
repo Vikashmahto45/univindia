@@ -7,9 +7,27 @@ $meta_keywords = "5th class board result 2023, check 5th result 2023 online, pun
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th Class Board Result 2023 - Official National Portal</div>
-    <h2 class='sr-title'>5th Class Board Result 2023: Your Comprehensive Navigator to National Primary Education Councils, Class 5, Grade 5, and State Board Result Gateways (Government of Punjab, Himachal Pradesh, Rajasthan, and Madhya Pradesh) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>5th Class Board Result 2023 - Official National Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "5th Class Board Result 2023 - Official National Portal"; 
+$meta_description = "Check 5th Class Board Result 2023 online. Access the primary Class 5 results for HP Board, Punjab Board, and Rajasthan Shala Darpan. Official marks link."; 
+$meta_keywords = "5th class board result 2023, check 5th result 2023 online, punjab board 5th result 2023, hp board 5th result 2023, official 2023 5th class link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "5th Class Board Result 2023 - Official National Portal";
+$meta_description = "Check 5th Class Board Result 2023 online. Access the primary Class 5 results for HP Board, Punjab Board, and Rajasthan Shala Darpan. Official marks link.";
+$meta_keywords = "5th class board result 2023, check 5th result 2023 online, punjab board 5th result 2023, hp board 5th result 2023, official 2023 5th class link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "5th class board result 2023, check 5th result 2023 online, pun
                 <a href="https://hpbose.org" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="HP 5th Result 2023" target="_blank">HP Board 5th Result</a>
                 <a href="https://rajshaladarpan.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Rajasthan 5th Result 2023" target="_blank">Raj 5th Result</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 5th Class Board Result 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "5th class board result 2023, check 5th result 2023 online, pun
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 5th Class Board Result 2023 data, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 5th Class Board Result 2023 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "5th class board result 2023, check 5th result 2023 online, pun
         <br>
         <strong>3. Is the result from 5th Class Board Result 2023 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "5th Class Board Result 2023" portal) are recorded in the national database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

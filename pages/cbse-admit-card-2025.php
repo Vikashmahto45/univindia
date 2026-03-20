@@ -9,7 +9,26 @@ $meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online"; 
+$meta_description = "Download CBSE Admit Card 2025. Get the direct link for Class 10 and Class 12 board examination hall tickets at cbse.gov.in (Pariksha Sangam)."; 
+$meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th hall ticket login, cbse.gov.in admit card 2025 link, cbse private candidate admit card"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online";
+$meta_description = "Download CBSE Admit Card 2025. Get the direct link for Class 10 and Class 12 board examination hall tickets at cbse.gov.in (Pariksha Sangam).";
+$meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th hall ticket login, cbse.gov.in admit card 2025 link, cbse private candidate admit card";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CBSE Admit Card 2025: Download Class 10th & 12th Board Hall Ticket</h2>
         
@@ -91,9 +110,14 @@ $meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check CBSE Results</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

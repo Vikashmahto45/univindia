@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "raj uni result - Official Rajasthan University Result Portal"; 
 $meta_description = "Check raj uni result for BA, BSc, BCom, MA, MSc, and MCom examinations. Access the official Rajasthan University (Uniraj) result gateway on indiaresults for the latest updates."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; raj uni result - Official Rajasthan University Result Portal</div>
+    <h2 class='sr-title'>raj uni result - Official Rajasthan University Result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "raj uni result - Official Rajasthan University Result Portal"; 
+$meta_description = "Check raj uni result for BA, BSc, BCom, MA, MSc, and MCom examinations. Access the official Rajasthan University (Uniraj) result gateway on indiaresults for the latest updates."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the official Undergraduate and Postgraduate exam results for the
                 University of Rajasthan (Uniraj).</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Uniraj Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Corner</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Search Uniraj BA, BSc, BCom results by Name.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -73,8 +84,7 @@ $meta_keywords = "";
                     Postgraduate students can find results for MA, MSc, MCom, and professional diplomas. The
                     <strong>indiaresults.com</strong> portal for Uniraj also hosts results for B.Ed, LLB, and integrated
                     courses, making it a comprehensive resource for the Jaipur academic community.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -87,26 +97,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>raj uni result</strong> section on <strong>indiaresults</strong> is famous
                             for its "Name-wise result" feature, which allows you to find your Uniraj marksheet using
                             only your name.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What is 'Uniraj' in raj uni result?</button>
                     <div class="faq-answer">
                         <p>'Uniraj' is the popular short form for the University of Rajasthan. All <strong>raj uni
                                 result</strong> notifications refer to the same university based in Jaipur.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online Uniraj result valid for PG admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>raj uni result</strong> online marksheet is provisional. While colleges may
                             accept it for initial counseling, you will need the physical marksheet issued by Uniraj for
                             final seat allotment.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

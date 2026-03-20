@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online"; 
 $meta_description = "Download JEE Mains Admit Card 2024. Get the direct link for NTA JEE Main (Joint Entrance Examination) Session 1 and Session 2 hall tickets at jeemain.nta.ac.in."; 
 $meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2024 download, jeemain.nta.ac.in login 2024, jee mains exam date 2024 download, engineering entrance call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online"; 
+$meta_description = "Download JEE Mains Admit Card 2024. Get the direct link for NTA JEE Main (Joint Entrance Examination) Session 1 and Session 2 hall tickets at jeemain.nta.ac.in."; 
+$meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2024 download, jeemain.nta.ac.in login 2024, jee mains exam date 2024 download, engineering entrance call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online";
+$meta_description = "Download JEE Mains Admit Card 2024. Get the direct link for NTA JEE Main (Joint Entrance Examination) Session 1 and Session 2 hall tickets at jeemain.nta.ac.in.";
+$meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2024 download, jeemain.nta.ac.in login 2024, jee mains exam date 2024 download, engineering entrance call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Engineering Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

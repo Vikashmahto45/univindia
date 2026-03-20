@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search"; 
 $meta_description = "Download your MGSU Bikaner admit card name wise at Univindia Net. Official guide to retrieving hall tickets using Name and Father\\\'s Name online."; 
 $meta_keywords = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search</div>
+    <h2 class='sr-title'>Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search"; 
+$meta_description = "Download your MGSU Bikaner admit card name wise at Univindia Net. Official guide to retrieving hall tickets using Name and Father\'s Name online."; 
+$meta_keywords = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search";
+$meta_description = "Download your MGSU Bikaner admit card name wise at Univindia Net. Official guide to retrieving hall tickets using Name and Father's Name online.";
+$meta_keywords = "Univindia Net MGSU Admit Card Name Wise - Bikaner University Hall Ticket Search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU Admit Card Name Wise: Retrieve Your Bikaner University Hall Ticket</h1>
+        
         
         <p>The term "Univindia Net MGSU Admit Card Name Wise" represents one of the most user-centric and essential features of the Maharaja Ganga Singh University (MGSU), Bikaner digital portal. In the high-pressure environment leading up to university examinations, it is not uncommon for students to misplace their online application forms or forget their unique 'Form Number'. Recognizing this practical challenge, the `univindia.net` portal provides a "Name Wise Search" option. This feature allows thousands of students to retrieve their official hall tickets using their basic personal details. In this comprehensive guide, we will explore the significance of the Name Wise search feature, provide a detailed step-by-step walkthrough for its use, and offer expert advice on ensuring accuracy during the 2024-25 examination season.</p>
 
@@ -55,6 +77,15 @@ $meta_keywords = "Univindia Net MGSU Admit Card Name Wise - Bikaner University H
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized admit card downloads and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

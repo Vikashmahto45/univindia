@@ -1,10 +1,28 @@
 <?php 
-include '../includes/header.php'; 
-$page_title = ""; 
+include '../header.php'; 
+$page_title = "Rbse 10th 2023 Result Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rbse 10th 2023 Result Link</div>
+    <h2 class='sr-title'>Rbse 10th 2023 Result Link</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Rbse 10th 2023 Result Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+// rbse 10th 2023 result
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +44,7 @@ $meta_keywords = "";
 </head>
 <body>
     <header>
-        <h1>RBSE 10th 2023 Result</h1>
+        
     </header>
     <main>
         <p>Searching for the <strong>RBSE 10th 2023 Result</strong>? The Board of Secondary Education Rajasthan (BSER) has released the results for the Class 10 examinations. Students who appeared for the exams can now access their scores online through University India.</p>
@@ -46,11 +64,18 @@ $meta_keywords = "";
 
         <h2>RBSE 10th Result Statistics</h2>
         <p>The 2023 academic session saw thousands of students successfully clearing the Rajasthan Board exams. The pass percentage for girls and boys is updated here as per the official BSER notifications.</p>
-    </main>
+    
     <footer>
-        &copy;  University India - RBSE News Portal. All Rights Reserved.
+        &copy; <?php echo date("Y"); ?> University India - RBSE News Portal. All Rights Reserved.
     </footer>
 </body>
 </html>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

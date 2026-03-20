@@ -9,7 +9,26 @@ $meta_keywords = "ccc admit card 2024, nielit ccc admit card download, ccc exam 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CCC Admit Card 2024 Download - NIELIT Course on Computer Concepts Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CCC Admit Card 2024 Download - NIELIT Course on Computer Concepts Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CCC Admit Card 2024 Download - NIELIT Course on Computer Concepts Hall Ticket | Univindia.online"; 
+$meta_description = "Download CCC Admit Card 2024. Get the direct link for NIELIT (formerly DOEACC) Course on Computer Concepts (CCC) monthly examination hall tickets at student.nielit.gov.in."; 
+$meta_keywords = "ccc admit card 2024, nielit ccc admit card download, ccc exam hall ticket link, student.nielit.gov.in admit card login, course on computer concepts hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CCC Admit Card 2024 Download - NIELIT Course on Computer Concepts Hall Ticket | Univindia.online";
+$meta_description = "Download CCC Admit Card 2024. Get the direct link for NIELIT (formerly DOEACC) Course on Computer Concepts (CCC) monthly examination hall tickets at student.nielit.gov.in.";
+$meta_keywords = "ccc admit card 2024, nielit ccc admit card download, ccc exam hall ticket link, student.nielit.gov.in admit card login, course on computer concepts hall ticket";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CCC Admit Card 2024: Download NIELIT Course on Computer Concepts Hall Ticket</h2>
         
@@ -93,9 +112,14 @@ $meta_keywords = "ccc admit card 2024, nielit ccc admit card download, ccc exam 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check CCC Results</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india results 2022 10th - Official National 10th 2022 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india results 2022 10th - Official National 10th 2022 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india results 2022 10th - Official National 10th 2022 Archive"; 
+$meta_description = "Check india results 2022 10th for all state boards. Access the official national Class 10 archival result portal and direct links on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 10th Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify national 10th results 2022 by student name alternative criteria for major participating
                         boards across India for the 2022 academic examination batch.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -92,8 +99,7 @@ $meta_keywords = "";
                     major boards. Having a verified digital result from the <strong>india results 2022 10th</strong>
                     archive hub is essential for students to complete their academic verification and proof of
                     educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -105,27 +111,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>india results 2022 10th</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2022 10th results by name only online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. Most participating state boards on the <strong>india results 2022 10th</strong>
                             hub support a dedicated name-wise results search for students for the 2022 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for 11th admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>india results 2022 10th</strong> gateway is
                             a valid provisional document accepted for initial school registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

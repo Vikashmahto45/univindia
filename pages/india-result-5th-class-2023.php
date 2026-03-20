@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 5th class 2023 - Official Primary Education Result Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 5th class 2023 - Official Primary Education Result Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 5th class 2023 - Official Primary Education Result Portal"; 
+$meta_description = "Check india result 5th class 2023 for all states. Access the official 5th grade results of the 2023 session on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2023 Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Resource</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Gateway</h3>
                     <p>Search 5th class 2023 results using candidate names.</p>
                     <a href="https://indiaresults.com" class="gateway-link">View Mirror 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +84,7 @@ $meta_keywords = "";
                     parents have a verifiable digital copy of their child's performance across all subjects. The data
                     provided through <strong>indiaresults.com</strong> is official and mirrored directly from board
                     databases.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,28 +97,27 @@ $meta_keywords = "";
                         <p>Yes, the <strong>india result 5th class 2023</strong> portal on <strong>indiaresults</strong>
                             specifically includes a name-wise search for primary grades, making it easy for parents to
                             find results.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Which boards provide 5th class board results in 2023?</button>
                     <div class="faq-answer">
                         <p>Major boards including the Rajasthan Board of Secondary Education (RBSE) and Punjab School
                             Education Board (PSEB) are the primary providers for <strong>india result 5th class
                                 2023</strong> data.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online 5th-grade marksheet valid?</button>
                     <div class="faq-answer">
                         <p>The marksheet from <strong>india result 5th class 2023</strong> is provisional. While useful
                             for immediate school promotion, a final physical certificate will be issued by the
                             respective board office.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

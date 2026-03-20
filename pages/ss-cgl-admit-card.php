@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link</div>
+    <h2 class='sr-title'>SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SS CGL Admit Card 2025: SSC Combined Graduate Level Tier 1 & 2 Hall Ticket Link";
+$page_description = "Download SS CGL Admit Card 2025. Get region-wise direct links for SSC CGL Tier 1 Hall Ticket, Exam Schedule, and Exam Day instructions. 800+ words of detailed info.";
+$page_keywords = "SS CGL Admit Card 2025, SSC CGL Hall Ticket Download, SSC CGL Tier 1 Exam Date, Download SSC CGL Call Letter, ssc.gov.in CGL Admit Card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">SS CGL Admit Card 2025 Tier 1 & 2: Direct Regional Hall Ticket Link</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-graduation-cap me-2"></i> <strong>CGL Exam Portal:</strong> The Staff Selection Commission (SSC) is about to release the application status and e-call letters for the Combined Graduate Level (CGL) 2025 examination. Please stay connected for all regional updates.
@@ -78,26 +101,22 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded overflow-hidden">
                             <h6 class="text-info">Central Region (UP/Bihar)</h6>
                             <p class="small text-light-gray mb-0">Website: ssc-cr.org</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-sm-6">
                         <div class="p-3 bg-dark border border-secondary rounded overflow-hidden">
                             <h6 class="text-info">Northern Region (Delhi/Rajasthan)</h6>
                             <p class="small text-light-gray mb-0">Website: sscnr.nic.in</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-sm-6">
                         <div class="p-3 bg-dark border border-secondary rounded overflow-hidden">
                             <h6 class="text-info">Western Region (Maharashtra/Gujarat)</h6>
                             <p class="small text-light-gray mb-0">Website: sscwr.net</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-sm-6">
                         <div class="p-3 bg-dark border border-secondary rounded overflow-hidden">
                             <h6 class="text-info">Southern Region (AP/Telangana/TN)</h6>
                             <p class="small text-light-gray mb-0">Website: sscsr.gov.in</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Verifying Details on CGL Admit Card</h2>
@@ -151,8 +170,7 @@ $meta_keywords = "";
                         <div id="cglQ1" class="accordion-collapse collapse" data-bs-parent="#cglFaq">
                             <div class="accordion-body text-light-gray">
                                 You can go to the regional SSC website, click on the download admit card link, and use the 'Search by Name' feature. Enter your name, father's name, and DOB to retrieve your registration number.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -163,8 +181,7 @@ $meta_keywords = "";
                         <div id="cglQ2" class="accordion-collapse collapse" data-bs-parent="#cglFaq">
                             <div class="accordion-body text-light-gray">
                                 Yes, there is a penalty for incorrect attempts. Typically, 0.50 marks are deducted for every wrong answer in Tier 1.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -175,10 +192,8 @@ $meta_keywords = "";
                         <div id="cglQ3" class="accordion-collapse collapse" data-bs-parent="#cglFaq">
                             <div class="accordion-body text-light-gray">
                                 Results are generally declared 1.5 to 2 months after the completion of each Tier. Keep checking the official SSC portal for the merit list.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Important Links</h5>
@@ -186,14 +201,14 @@ $meta_keywords = "";
                         <a href="ssc-gd-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">SSC GD Admit Card</a>
                         <a href="rrb-ntpc-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">NTPC Admit Card</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Main Portal</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-th-large me-2"></i> Career Resources</h3>
                 <div class="row g-3">
+                    <?php
                     $resources = [
                         'ssc-chsl-admit-card-2024.php' => 'SSC CHSL Call Letter',
                         'ssc-gov-in-admit-card.php' => 'SSC Portal Admit Card',
@@ -207,11 +222,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -241,3 +255,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

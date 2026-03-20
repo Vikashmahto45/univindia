@@ -1,15 +1,29 @@
 <?php 
 include '../header.php'; 
-$page_title = ""; 
+$page_title = "12th Result Search By Name Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
 <div class='sr-page-wrapper'>
-    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
-    <h2 class='sr-title'>12th Result Search By Name</h2>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Result Search By Name Link</div>
+    <h2 class='sr-title'>12th Result Search By Name Link</h2>
     <div class='sr-content'>
-        <!DOCTYPE html>
+        <?php 
+include '../header.php'; 
+$page_title = "12th Result Search By Name Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+// 12th result search by name
+?>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -53,12 +67,16 @@ $meta_keywords = "";
 
         <h2>Why Use Name-Wise Search?</h2>
         <p>The <span class="highlight">12th Result Search By Name</span> feature is a lifesaver for students who have misplaced their admit cards. It allows you to quickly verify your marks and start planning for higher education or competitive exams.</p>
-    </main>
+    
     <footer>
-        &copy;  University India - Your Academic Companion. All Rights Reserved.
+        &copy; <?php echo date("Y"); ?> University India - Your Academic Companion. All Rights Reserved.
     </footer>
 </body>
 </html>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

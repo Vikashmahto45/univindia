@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresult com rajasthan - Official Rajasthan State Academic Hub"; 
 $meta_description = "Check indiaresult com rajasthan for BSER, RU, and state board exams. Access the official Rajasthan result portal for 10th, 12th, and university results on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresult com rajasthan - Official Rajasthan State Academic Hub</div>
+    <h2 class='sr-title'>indiaresult com rajasthan - Official Rajasthan State Academic Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresult com rajasthan - Official Rajasthan State Academic Hub"; 
+$meta_description = "Check indiaresult com rajasthan for BSER, RU, and state board exams. Access the official Rajasthan result portal for 10th, 12th, and university results on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your primary destination for all academic results across Rajasthan.
                 Official mirrors for BSER Ajmer, Rajasthan University, and other major state boards and institutes
                 updated for the latest academic session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Rajasthan Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway for UNIRAJ UG/PG results, Semester examinations, and archival degree certificate
                         search.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     verified digital result from the <strong>indiaresult com rajasthan</strong> hub is essential for
                     students to complete their academic verification and proof of educational attainment during
                     university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,26 +109,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>indiaresult com rajasthan</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in the RBSE state
                             board exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards and universities across Rajasthan, ensuring result data is mirrored directly from
                             official servers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for RBSE 12th result verification?</button>
                     <div class="faq-answer">
                         <p>You primarily need your Board Roll Number. Some sessions may also require your Name or Date
                             of Birth for <strong>indiaresult com rajasthan</strong> portal access.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

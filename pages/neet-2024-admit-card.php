@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "NEET 2024 Admit Card Download - NTA Medical Entrance Hall Ticket | Univindia.online"; 
 $meta_description = "Download NEET 2024 Admit Card. Get the direct link for NTA NEET (UG) 2024 examination hall tickets at exams.nta.ac.in/NEET."; 
 $meta_keywords = "neet 2024 admit card download, nta neet hall ticket 2024 download, neet.nta.nic.in login 2024, neet ug exam date 2024 download, medicare entrance call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET 2024 Admit Card Download - NTA Medical Entrance Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>NEET 2024 Admit Card Download - NTA Medical Entrance Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "NEET 2024 Admit Card Download - NTA Medical Entrance Hall Ticket | Univindia.online"; 
+$meta_description = "Download NEET 2024 Admit Card. Get the direct link for NTA NEET (UG) 2024 examination hall tickets at exams.nta.ac.in/NEET."; 
+$meta_keywords = "neet 2024 admit card download, nta neet hall ticket 2024 download, neet.nta.nic.in login 2024, neet ug exam date 2024 download, medicare entrance call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "NEET 2024 Admit Card Download - NTA Medical Entrance Hall Ticket | Univindia.online";
+$meta_description = "Download NEET 2024 Admit Card. Get the direct link for NTA NEET (UG) 2024 examination hall tickets at exams.nta.ac.in/NEET.";
+$meta_keywords = "neet 2024 admit card download, nta neet hall ticket 2024 download, neet.nta.nic.in login 2024, neet ug exam date 2024 download, medicare entrance call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "neet 2024 admit card download, nta neet hall ticket 2024 downl
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Medical Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hslc results 2022 - Official High School Leaving Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>hslc results 2022 - Official High School Leaving Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "hslc results 2022 - Official High School Leaving Archive"; 
+$meta_description = "Check hslc results 2022 for Class 10th examinations across all state boards (Assam, Manipur, etc). Access the official 2022 HSLC result archive on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify 2022 HSLC results using student names.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -79,8 +86,7 @@ $meta_keywords = "";
                     Secondary programs or various vocational diplomas. Having a verified digital result from the
                     <strong>hslc results 2022</strong> hub is essential for students to complete their academic
                     verification and proof of secondary education during career registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -93,27 +99,26 @@ $meta_keywords = "";
                         <p>Yes, all results under <strong>hslc results 2022</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check hslc results 2022 results with name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>hslc results 2022</strong> portal on <strong>indiaresults</strong>
                             often includes a dedicated "Search by Name" feature for all major HSLC-participating states.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 HSLC marksheet valid for job verification?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>hslc results 2022</strong> is a valid provisional document
                             accepted for initial certificate verification and registration processes nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

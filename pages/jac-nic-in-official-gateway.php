@@ -1,20 +1,34 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jac nic in - Official Jharkhand Board Hub"; 
 $meta_description = "Check Jharkhand Board result on jac nic in. Access official JAC Ranchi 10th & 12th scorecards on indiaresults archival portal for JAC exams."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jac nic in - Official Jharkhand Board Hub</div>
+    <h2 class='sr-title'>jac nic in - Official Jharkhand Board Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jac nic in - Official Jharkhand Board Hub"; 
+$meta_description = "Check Jharkhand Board result on jac nic in. Access official JAC Ranchi 10th & 12th scorecards on indiaresults archival portal for JAC exams."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Jharkhand Academic Council (JAC), Ranchi examination results via the official jac nic in portal infrastructure. Access official Jharkhand board mirrors and archival links updated for session verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open JAC Result Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -32,8 +46,7 @@ $meta_keywords = "";
                     <h3>jac nic in Directory</h3>
                     <p>Verify JAC Jharkhand results by student roll number or roll code alternative criteria for various academic batches including 2024 results.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -57,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the Jharkhand (JAC) Board Gateways</h3>
                 <p>The <strong>jac nic in</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in Jharkhand. The system provides a detailed subject-wise breakdown for each batch of student examinees across all school districts in Jharkhand. Having a verified digital result from the <strong>jac nic in</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -69,23 +81,25 @@ $meta_keywords = "";
                     <button class="faq-question">Are the JAC result links on jac nic in permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>jac nic in</strong> are archived on verified platforms for lifelong academic verification access in Jharkhand.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check JAC results by name only on mobile devices using this hub?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>jac nic in</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in Jharkhand.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital JAC marksheet valid for polytechnic admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>jac nic in</strong> gateway is a valid provisional document accepted for initial institutional registration across Jharkhand and India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

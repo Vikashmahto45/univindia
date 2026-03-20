@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result.nic.in 2020 - Official National Archive Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result.nic.in 2020 - Official National Archive Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result.nic.in 2020 - Official National Archive Gateway"; 
+$meta_description = "Check india result.nic.in 2020 for Class 10th and 12th board results. Access the official 2020 result archive on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2020 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify 2020 board results by student name.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     them legally valid for all future academic and career pursuits. Having a verified digital record
                     from the <strong>india result.nic.in 2020</strong> portal is essential for official background
                     checks.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,27 +98,26 @@ $meta_keywords = "";
                         <p>Yes, all results under <strong>india result.nic.in 2020</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check india result.nic.in 2020 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>india result.nic.in 2020</strong> portal on
                             <strong>indiaresults</strong> includes a name-wise search for all 2020 candidates across
                             major boards.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2020 marksheet valid for graduation admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>india result.nic.in 2020</strong> is a valid provisional
                             document accepted for initial college and university registration processes nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

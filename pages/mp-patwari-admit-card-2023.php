@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MP Patwari Admit Card 2023 Download - MPESB Group 2 Sub Group 4 Hall Ticket | Univindia.online"; 
 $meta_description = "Download MP Patwari Admit Card 2023. Get the direct link for Madhya Pradesh Patwari (Group 2 Sub Group 4) recruitment examination hall tickets at esb.mp.gov.in."; 
 $meta_keywords = "mp patwari admit card 2023 download, mp esb patwari hall ticket download, esb.mp.gov.in patwari login 2023, mp patwari exam date 2023 download, revenue officer call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MP Patwari Admit Card 2023 Download - MPESB Group 2 Sub Group 4 Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>MP Patwari Admit Card 2023 Download - MPESB Group 2 Sub Group 4 Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MP Patwari Admit Card 2023 Download - MPESB Group 2 Sub Group 4 Hall Ticket | Univindia.online"; 
+$meta_description = "Download MP Patwari Admit Card 2023. Get the direct link for Madhya Pradesh Patwari (Group 2 Sub Group 4) recruitment examination hall tickets at esb.mp.gov.in."; 
+$meta_keywords = "mp patwari admit card 2023 download, mp esb patwari hall ticket download, esb.mp.gov.in patwari login 2023, mp patwari exam date 2023 download, revenue officer call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "MP Patwari Admit Card 2023 Download - MPESB Group 2 Sub Group 4 Hall Ticket | Univindia.online";
+$meta_description = "Download MP Patwari Admit Card 2023. Get the direct link for Madhya Pradesh Patwari (Group 2 Sub Group 4) recruitment examination hall tickets at esb.mp.gov.in.";
+$meta_keywords = "mp patwari admit card 2023 download, mp esb patwari hall ticket download, esb.mp.gov.in patwari login 2023, mp patwari exam date 2023 download, revenue officer call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "mp patwari admit card 2023 download, mp esb patwari hall ticke
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Search Revenue Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Www Univindia Net Index Php - University Portal Homepage Guide"; 
 $meta_description = "Access the official Www Univindia Net Index Php page for MGSU Bikaner. Complete guide to the university portal homepage for exams, results, and forms."; 
 $meta_keywords = "Www Univindia Net Index Php - University Portal Homepage Guide"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Www Univindia Net Index Php - University Portal Homepage Guide</div>
+    <h2 class='sr-title'>Www Univindia Net Index Php - University Portal Homepage Guide</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Www Univindia Net Index Php - University Portal Homepage Guide"; 
+$meta_description = "Access the official Www Univindia Net Index Php page for MGSU Bikaner. Complete guide to the university portal homepage for exams, results, and forms."; 
+$meta_keywords = "Www Univindia Net Index Php - University Portal Homepage Guide"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Www Univindia Net Index Php - University Portal Homepage Guide";
+$meta_description = "Access the official Www Univindia Net Index Php page for MGSU Bikaner. Complete guide to the university portal homepage for exams, results, and forms.";
+$meta_keywords = "Www Univindia Net Index Php - University Portal Homepage Guide";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Www Univindia Net Index Php: Navigating the Bikaner University Portal Homepage</h1>
+        
         
         <p>The term "Www Univindia Net Index Php" refers to the core technical entry point for one of the most significant higher education infrastructures in Rajasthan. As the default landing page for Maharaja Ganga Singh University (MGSU), Bikaner, the `www.univindia.net/index.php` page serves as the centralized nexus for hundreds of thousands of students. Whether you are a fresh applicant or a final-year scholar, the index.php page is where your digital academic journey begins. In this comprehensive guide, we will explore the structure of the official Www Univindia Net Index Php, providing expert instructions on how to navigate the portal for examination forms, admit cards, and the highly anticipated university results for the current session.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "Www Univindia Net Index Php - University Portal Homepage Guide
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official Bikaner university website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

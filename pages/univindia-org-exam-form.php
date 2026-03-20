@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Org Exam Form - Matsya University Online Registration"; 
 $meta_description = "Fill your RRBMU Alwar exam forms on Univindia Org Exam Form portal. Official guide to online registration, fee payment, and form status for Matsya University."; 
 $meta_keywords = "Univindia Org Exam Form - Matsya University Online Registration"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Org Exam Form - Matsya University Online Registration</div>
+    <h2 class='sr-title'>Univindia Org Exam Form - Matsya University Online Registration</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Org Exam Form - Matsya University Online Registration"; 
+$meta_description = "Fill your RRBMU Alwar exam forms on Univindia Org Exam Form portal. Official guide to online registration, fee payment, and form status for Matsya University."; 
+$meta_keywords = "Univindia Org Exam Form - Matsya University Online Registration"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Org Exam Form - Matsya University Online Registration";
+$meta_description = "Fill your RRBMU Alwar exam forms on Univindia Org Exam Form portal. Official guide to online registration, fee payment, and form status for Matsya University.";
+$meta_keywords = "Univindia Org Exam Form - Matsya University Online Registration";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Org Exam Form: Your Official Guide to Matsya University Alwar Registration</h1>
+        
         
         <p>The term "Univindia Org Exam Form" represents the first and most critical step in a student's academic year at the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar. As the premier education institution for the Alwar region, RRBMU manages a massive volume of student registrations for its diverse undergraduate and postgraduate courses. The `univindia.org` portal is the official platform where this registration process takes place. In this comprehensive guide, we will provide a detailed walkthrough of how to fill out your Matsya University exam form on the Univindia Org portal, manage online fee payments, and troubleshoot common registration issues to ensure your academic year starts successfully.</p>
 
@@ -50,6 +72,15 @@ $meta_keywords = "Univindia Org Exam Form - Matsya University Online Registratio
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized form submissions and official university news, please always rely on the official RRBMU Alwar website at univindia.org.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

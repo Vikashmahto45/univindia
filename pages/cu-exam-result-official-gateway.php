@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; cu exam result - Official Calcutta University Result Gateway</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>cu exam result - Official Calcutta University Result Gateway</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "cu exam result - Official Calcutta University Result Gateway"; 
+$meta_description = "Check cu exam result for University of Calcutta undergraduate and postgraduate exams. Access the official CU academic result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check CU Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Exam-wise Search</h3>
                     <p>Verify CU UG/PG results by examination type and roll number alternative.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -83,8 +90,7 @@ $meta_keywords = "";
                     non-CBCS patterns. Having a verified digital result from the <strong>cu exam result</strong> hub is
                     essential for students to complete their academic verification and proof of educational performance.
                 </p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -97,27 +103,26 @@ $meta_keywords = "";
                         <p>You can check the <strong>cu exam result</strong> for all CBCS semesters (1st to 6th)
                             directly on the <strong>indiaresults</strong> West Bengal portal for Calcutta University.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the CU results on this portal recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is the official result hosting partner for many
                             universities in India including CU, ensuring data is mirrored directly from official
                             servers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for cu exam result check?</button>
                     <div class="faq-answer">
                         <p>You primarily need your University Roll Number. Some results may also be searchable via Name
                             or Registration Number on the <strong>cu exam result</strong> portal.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

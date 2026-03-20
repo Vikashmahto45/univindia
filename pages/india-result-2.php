@@ -7,10 +7,27 @@ $meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2 - Official +2 Senior Secondary Result Hub</div>
-    <h2 class='sr-title'>india result 2: Your Authoritative Navigator to State Higher Secondary (+2) Councils, National Informatics
-            Centre (NIC) Result Gateways, and Authoritative Mirror Hubs Across India</h2>
+    <h2 class='sr-title'>india result 2 - Official +2 Senior Secondary Result Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result 2 - Official +2 Senior Secondary Result Hub"; 
+$meta_description = "Check india result 2 for Class 12th / Plus Two (Arts, Science, Commerce). Access the official results for all states and national boards online."; 
+$meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result, HSC +2 result check, india result secondary"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result 2 - Official +2 Senior Secondary Result Hub";
+$meta_description = "Check india result 2 for Class 12th / Plus Two (Arts, Science, Commerce). Access the official results for all states and national boards online.";
+$meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result, HSC +2 result check, india result secondary";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -67,8 +84,7 @@ $meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result
                 <a href="https://www.digilocker.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="Marksheet Download" target="_blank">National Marksheet Vault</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result 2 Online</h2>
         <p>To ensure a successful result search in the Plus Two records, follow these technical steps:</p>
@@ -105,7 +121,7 @@ $meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result
                 final database changes related to india result 2 data, please visit the respective Board headquarters or
                 your School/College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 2</h2>
@@ -121,8 +137,13 @@ $meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result
         <strong>3. Is the result from mirror portals valid for passport applications?</strong>
         <p>For passport and legal documentation, the online copy of "india result 2" is not valid; you must provide the
             original physical marksheet or a DigiLocker verified version.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

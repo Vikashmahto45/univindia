@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2020 pseb - Official Punjab Board Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>india result 10th 2020 pseb - Official Punjab Board Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "india result 10th 2020 pseb - Official Punjab Board Archive"; 
+$meta_description = "Check india result 10th 2020 pseb for Matriculation results. Access the official Punjab School Education Board (PSEB) 2020 archive on indiaresults for fast checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2020 PSEB Portal</a>
                 <a href="#faq" class="btn btn-secondary">Information Hub</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify PSEB 2020 matric results by Name.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server B</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -75,8 +82,7 @@ $meta_keywords = "";
                     these records for academic transparency. The portal at <strong>indiaresults.com</strong> provides a
                     comprehensive breakdown of marks in subjects like Punjabi, English, Science, and Social Studies,
                     mirroring the official physical marksheet issued by the board at SAS Nagar (Mohali).</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,27 +95,26 @@ $meta_keywords = "";
                         <p>For <strong>india result 10th 2020 pseb</strong>, the results were primarily based on the
                             Continuous Comprehensive Evaluation (CCE) and internal assessments because the final exams
                             were disrupted.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I get a physical copy of my 2020 marksheet now?</button>
                     <div class="faq-answer">
                         <p>While the <strong>india result 10th 2020 pseb</strong> portal provides digital copies, for an
                             official physical marksheet, you must contact your school or the PSEB head office in Mohali.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is name-wise search still active for 2020?</button>
                     <div class="faq-answer">
                         <p>Yes, <strong>indiaresults</strong> continues to maintain the name-wise search database for
                             <strong>india result 10th 2020 pseb</strong> for archival purposes.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

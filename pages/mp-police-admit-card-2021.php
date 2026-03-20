@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MP Police Admit Card 2021 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online"; 
 $meta_description = "Download MP Police Admit Card 2021. Get the direct link for Madhya Pradesh Police Constable recruitment examination hall tickets at esb.mp.gov.in."; 
 $meta_keywords = "mp police admit card 2021 download, mp peb police hall ticket 2021 download, esb.mp.gov.in police login 2021, mp police exam date 2021 download, police recruitment call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MP Police Admit Card 2021 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>MP Police Admit Card 2021 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MP Police Admit Card 2021 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online"; 
+$meta_description = "Download MP Police Admit Card 2021. Get the direct link for Madhya Pradesh Police Constable recruitment examination hall tickets at esb.mp.gov.in."; 
+$meta_keywords = "mp police admit card 2021 download, mp peb police hall ticket 2021 download, esb.mp.gov.in police login 2021, mp police exam date 2021 download, police recruitment call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "MP Police Admit Card 2021 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online";
+$meta_description = "Download MP Police Admit Card 2021. Get the direct link for Madhya Pradesh Police Constable recruitment examination hall tickets at esb.mp.gov.in.";
+$meta_keywords = "mp police admit card 2021 download, mp peb police hall ticket 2021 download, esb.mp.gov.in police login 2021, mp police exam date 2021 download, police recruitment call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "mp police admit card 2021 download, mp peb police hall ticket 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Police Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

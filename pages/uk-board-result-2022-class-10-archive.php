@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "uk board result 2022 class 10 - Official Uttarakhand Archive Portal"; 
 $meta_description = "Check uk board result 2022 class 10 for High School examinations. Access the official 2022 Uttarakhand (UBSE) archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; uk board result 2022 class 10 - Official Uttarakhand Archive Portal</div>
+    <h2 class='sr-title'>uk board result 2022 class 10 - Official Uttarakhand Archive Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "uk board result 2022 class 10 - Official Uttarakhand Archive Portal"; 
+$meta_description = "Check uk board result 2022 class 10 for High School examinations. Access the official 2022 Uttarakhand (UBSE) archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 High School (Class 10th) results for Uttarakhand.
                 Official UBSE mirrors and archival links updated for the 2022 board session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify UK board 2022 results by student name alternative.</p>
                     <a href="https://uttarakhand.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +87,7 @@ $meta_keywords = "";
                     digital result from the <strong>uk board result 2022 class 10</strong> hub is essential for students
                     to complete their academic verification and proof of secondary education during college registration
                     and career verification processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,27 +100,29 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>uk board result 2022 class 10</strong> are permanently
                             archived on verified platforms like <strong>indiaresults.com</strong> for archival access.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check UK board result 2022 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>uk board result 2022 class 10</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated "Search by Name" feature for all major
                             2022 High School candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2022 marksheet valid for future admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>uk board result 2022 class 10</strong> archive is a
                             valid provisional document accepted for initial secondary school registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

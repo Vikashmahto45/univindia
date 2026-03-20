@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket"; 
 $meta_description = "Download your MSBU Bharatpur admit card at Univindia. Official guide to retrieving hall tickets for Maharaja Surajmal Brij University exams online."; 
 $meta_keywords = "Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket</div>
+    <h2 class='sr-title'>Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket"; 
+$meta_description = "Download your MSBU Bharatpur admit card at Univindia. Official guide to retrieving hall tickets for Maharaja Surajmal Brij University exams online."; 
+$meta_keywords = "Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket";
+$meta_description = "Download your MSBU Bharatpur admit card at Univindia. Official guide to retrieving hall tickets for Maharaja Surajmal Brij University exams online.";
+$meta_keywords = "Univindia MSBU Admit Card - Brij University Bharatpur Hall Ticket";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia MSBU Admit Card: Your Official Guide to Brij University Bharatpur Hall Tickets</h1>
+        
         
         <p>The term "Univindia MSBU Admit Card" represents a critical phase in the academic journey for thousands of students enrolled at Maharaja Surajmal Brij University (MSBU), Bharatpur. As the official digital bridge for Brij University, the Univindia portal network serves as the centralized hub for all examination-related activities, specifically for the retrieval of the official hall ticket. In this comprehensive guide, we will explore the significance of the MSBU Admit Card, provide a detailed step-by-step walkthrough for its download, and offer expert advice on troubleshooting common issues that may arise during the high-pressure period leading up to university examinations in Bharatpur and Deeg.</p>
 
@@ -55,6 +77,15 @@ $meta_keywords = "Univindia MSBU Admit Card - Brij University Bharatpur Hall Tic
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized admit card downloads and official university news, please always rely on the official MSBU Bharatpur websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

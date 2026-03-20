@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "jac 10th result 2024 date - Official Jharkhand Board Matric Schedule Hub"; 
 $meta_description = "Check jac 10th result 2024 date for JAC Matric exams. Access the official 2024 Jharkhand Academic Council (JAC) result declaration schedule and portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jac 10th result 2024 date - Official Jharkhand Board Matric Schedule Hub</div>
+    <h2 class='sr-title'>jac 10th result 2024 date - Official Jharkhand Board Matric Schedule Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "jac 10th result 2024 date - Official Jharkhand Board Matric Schedule Hub"; 
+$meta_description = "Check jac 10th result 2024 date for JAC Matric exams. Access the official 2024 Jharkhand Academic Council (JAC) result declaration schedule and portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Stay updated with the official declaration schedule for Jharkhand Class
                 10th (Matric) results for the 2024 academic session. Official JAC Ranchi mirrors and date announcements
                 updated for the 2024 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Result Date</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Pre-register to get your 2024 Jharkhand board results via SMS/Email alternative notification
                         services.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     batch. Having a verified source for the <strong>jac 10th result 2024 date</strong> is essential for
                     students to complete their academic verification and proof of performance during university
                     graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,26 +108,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The <strong>jac 10th result 2024 date</strong> is typically expected in the month of May,
                             following the completion of evaluation for the 2024 Matric exam papers.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2024 date announcements on this hub official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for JAC Ranchi,
                             ensuring all 2024 notification data is mirrored directly from official board announcements.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I get an alert once the JAC 10th 2024 result is out?</button>
                     <div class="faq-answer">
                         <p>Yes, by visiting the <strong>jac 10th result 2024 date</strong> gateway on our portal, you
                             can register your mobile number and email to receive an instant result alert.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

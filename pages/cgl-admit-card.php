@@ -9,7 +9,26 @@ $meta_keywords = "cgl admit card download, ssc cgl tier 1 hall ticket download, 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CGL Admit Card Download - SSC Combined Graduate Level Tier 1 Region Wise | Univindia.online</div>
     <h2 class='sr-title'>CGL Admit Card Download - SSC Combined Graduate Level Tier 1 Region Wise | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CGL Admit Card Download - SSC Combined Graduate Level Tier 1 Region Wise | Univindia.online"; 
+$meta_description = "Download CGL Admit Card. Get the direct link for SSC Combined Graduate Level (CGL) Tier 1 and Tier 2 examination regional hall tickets at ssc.gov.in."; 
+$meta_keywords = "cgl admit card download, ssc cgl tier 1 hall ticket download, ssc.gov.in login admit card, combined graduate level exam date 2024 download, ssc nr er wr call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CGL Admit Card Download - SSC Combined Graduate Level Tier 1 Region Wise | Univindia.online";
+$meta_description = "Download CGL Admit Card. Get the direct link for SSC Combined Graduate Level (CGL) Tier 1 and Tier 2 examination regional hall tickets at ssc.gov.in.";
+$meta_keywords = "cgl admit card download, ssc cgl tier 1 hall ticket download, ssc.gov.in login admit card, combined graduate level exam date 2024 download, ssc nr er wr call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CGL Admit Card: Download SSC Combined Graduate Level Tier 1 Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "cgl admit card download, ssc cgl tier 1 hall ticket download, 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search SSC Updates</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "inter first year results 2024 - Official Intermediate 1st Year Gateway"; 
 $meta_description = "Check inter first year results 2024 for all state boards. Access the official 2024 Intermediate (11th) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter first year results 2024 - Official Intermediate 1st Year Gateway</div>
+    <h2 class='sr-title'>inter first year results 2024 - Official Intermediate 1st Year Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "inter first year results 2024 - Official Intermediate 1st Year Gateway"; 
+$meta_description = "Check inter first year results 2024 for all state boards. Access the official 2024 Intermediate (11th) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest educational results for Intermediate 1st Year (Class
                 11th) examinations across major state boards. Official mirrors and portal links updated for the 2024
                 session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify 2024 Intermediate 1st year results by student name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +92,7 @@ $meta_keywords = "";
                     digital result from the <strong>inter first year results 2024</strong> hub is essential for students
                     to complete their academic verification and proof of educational attainment during school-level
                     registration and promotion processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,26 +105,28 @@ $meta_keywords = "";
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards, ensuring all 2024 result data is mirrored directly from official board databases.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2024 Inter 1st year result by name?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>inter first year results 2024</strong> portal includes a dedicated name-wise
                             search for many participating board examinations across India.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2024 marksheet valid for promote to 2nd year?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>inter first year results 2024</strong> hub
                             is a valid provisional document accepted for initial school-level promotion and document
                             verification.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

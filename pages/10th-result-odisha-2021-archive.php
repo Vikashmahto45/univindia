@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result odisha 2021 - Official BSE Archive Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th result odisha 2021 - Official BSE Archive Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th result odisha 2021 - Official BSE Archive Portal"; 
+$meta_description = "Check 10th result odisha 2021 for the High School Certificate examination. Access the official 2021 Odisha Matric result archive on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify Odisha 2021 matric results by student name.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +84,7 @@ $meta_keywords = "";
                     certifications. Having a verified digital result from the <strong>10th result odisha 2021</strong>
                     portal is essential for students who are now applying for their final senior secondary certificates
                     or need marks verification for job applications.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,27 +97,26 @@ $meta_keywords = "";
                         <p>Yes, all results under <strong>10th result odisha 2021</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 10th result odisha 2021 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th result odisha 2021</strong> portal for Odisha includes full
                             name-wise search support for all 2021 candidates, ensuring easy result retrieval.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 result valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>10th result odisha 2021</strong> digital copy from <strong>indiaresults</strong>
                             is a valid provisional document accepted for any academic registration where the original
                             certificates are currently unavailable.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bser result - Official Rajasthan Secondary Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>bser result - Official Rajasthan Secondary Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "bser result - Official Rajasthan Secondary Hub"; 
+$meta_description = "Check bser result for Board of Secondary Education Rajasthan exams. Access the official RBSE Ajmer result gateway and archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check BSER Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify BSER (RBSE Ajmer) results by student name alternative criteria for major academic
                         examination sessions.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +96,7 @@ $meta_keywords = "";
                     Having a verified digital result from the <strong>bser result</strong> hub is essential for students
                     to complete their academic verification and proof of educational achievement during school-level
                     transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,27 +108,26 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>BSER stands for <strong>Board of Secondary Education Rajasthan</strong>, which is commonly
                             known as RBSE Ajmer for board results.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check BSER results by name search?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>bser result</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated name-wise search for students participating in the Rajasthan board exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the digital BSER marksheets valid for Higher Education?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>bser result</strong> gateway is a valid
                             provisional document accepted for initial university registration and verification across
                             India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

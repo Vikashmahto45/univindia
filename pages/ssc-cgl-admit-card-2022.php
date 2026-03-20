@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download SSC CGL Admit Card 2022. Get the direct link for Staff Selection Commission Combined Graduate Level examination hall tickets at ssc.nic.in."; 
 $meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, ssc.nic.in admit card login, ssc cgl exam date 2022, ssc cgl tier 2 call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download SSC CGL Admit Card 2022. Get the direct link for Staff Selection Commission Combined Graduate Level examination hall tickets at ssc.nic.in."; 
+$meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, ssc.nic.in admit card login, ssc cgl exam date 2022, ssc cgl tier 2 call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online";
+$meta_description = "Download SSC CGL Admit Card 2022. Get the direct link for Staff Selection Commission Combined Graduate Level examination hall tickets at ssc.nic.in.";
+$meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, ssc.nic.in admit card login, ssc cgl exam date 2022, ssc cgl tier 2 call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -88,8 +111,16 @@ $meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

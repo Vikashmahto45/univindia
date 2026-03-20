@@ -7,9 +7,27 @@ $meta_keywords = "india result nic in, check board results nic in, results.nic.i
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Nic In - Official National Government Result Hub</div>
-    <h2 class='sr-title'>India Result Nic In: Your Comprehensive Navigator to National Informatics Centre (NIC) Result Monitoring, Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and Multi-State Result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC) Central Hub) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result Nic In - Official National Government Result Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result Nic In - Official National Government Result Hub"; 
+$meta_description = "Check India Result Nic In online. Access the official National Informatics Centre (NIC) results for CBSE, JEE, NEET, and state boards. 2024 official Link."; 
+$meta_keywords = "india result nic in, check board results nic in, results.nic.in 2024, cbse results nic in, national results portal 2024, official nic result link, results.gov.in hub"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result Nic In - Official National Government Result Hub";
+$meta_description = "Check India Result Nic In online. Access the official National Informatics Centre (NIC) results for CBSE, JEE, NEET, and state boards. 2024 official Link.";
+$meta_keywords = "india result nic in, check board results nic in, results.nic.in 2024, cbse results nic in, national results portal 2024, official nic result link, results.gov.in hub";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result nic in, check board results nic in, results.nic.i
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">Visit Government Portal</a>
                 <a href="https://cbseresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE NIC Gateway" target="_blank">CBSE Result Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result Nic In Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board via NIC, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result nic in, check board results nic in, results.nic.i
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result Nic In, please visit the respective Board/NTA headquarters in New Delhi or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result Nic In Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result nic in, check board results nic in, results.nic.i
         <br>
         <strong>3. Is the result from India Result Nic In valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result Nic In" portal) are the primary records for applying to the 'INSPIRE' and other national merit schemes in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

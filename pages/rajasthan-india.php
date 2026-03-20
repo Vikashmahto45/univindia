@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Rajasthan India - Official National Result Portal"; 
 $meta_description = "Visit Rajasthan India online. Access the primary Board of Secondary Education Rajasthan (BSER) results via official national and state gateways. Official mirror link."; 
 $meta_keywords = "rajasthan india, check rajasthan board result online, rbs eresults nic in, rajasthan indiaresults link, bser ajmer result portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rajasthan India - Official National Result Portal</div>
+    <h2 class='sr-title'>Rajasthan India - Official National Result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Rajasthan India - Official National Result Portal"; 
+$meta_description = "Visit Rajasthan India online. Access the primary Board of Secondary Education Rajasthan (BSER) results via official national and state gateways. Official mirror link."; 
+$meta_keywords = "rajasthan india, check rajasthan board result online, rbs eresults nic in, rajasthan indiaresults link, bser ajmer result portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Rajasthan India - Official National Result Portal";
+$meta_description = "Visit Rajasthan India online. Access the primary Board of Secondary Education Rajasthan (BSER) results via official national and state gateways. Official mirror link.";
+$meta_keywords = "rajasthan india, check rajasthan board result online, rbs eresults nic in, rajasthan indiaresults link, bser ajmer result portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Rajasthan India: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Ajmer, Secondary (Class 10), Senior Secondary (Class 12), Praveshika, Varishtha Upadhyay, and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Rajasthan India" (representing the primary synchronized digital result-dissemination framework utilized by over 20 lakh students for the annual board exams conducted during the academic session by the BSER Ajmer) represents the single most critical digital portal for students residing in the academic and cultural landscape of Rajasthan. As the primary official gateway to the state's educational infrastructure (Ajmer HQ), and the traditional school education infrastructure of the nation, the "Rajasthan India" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Rajasthan IndiaResults. For the current academic cycle, where immediate result retrieval and robust technical evaluation are state priorities, the "Rajasthan India" search is the digital gateway through which candidates verify their fundamental professional achievement with maximum speed, transparency, and integrity. The Rajasthan education councils have implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the board scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Rajasthan India," ensuring that every student and researcher in Rajasthan can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "rajasthan india, check rajasthan board result online, rbs eres
                 <a href="https://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Rajasthan Results" target="_blank">Access RajResults</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Rajasthan Mirror link" target="_blank">Visit IndiaResults</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official Rajasthan India Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "rajasthan india, check rajasthan board result online, rbs eres
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to Rajasthan India data, please visit the BSER headquarters in Ajmer or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Rajasthan India Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "rajasthan india, check rajasthan board result online, rbs eres
         <br>
         <strong>3. Is the result from Rajasthan India valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "Rajasthan India" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

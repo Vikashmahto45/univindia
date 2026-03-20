@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bihar result - Official BSEB Result Mirror Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>bihar result - Official BSEB Result Mirror Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "bihar result - Official BSEB Result Mirror Hub"; 
+$meta_description = "Check bihar result for Class 10th and 12th. Access the official Bihar School Examination Board (BSEB) result portal on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Bihar Result</a>
                 <a href="#faq" class="btn btn-secondary">System Info</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Find Bihar Board results using student names.</p>
                     <a href="https://bihar.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +83,7 @@ $meta_keywords = "";
                     assessment and practical scores. For students seeking admission to competitive courses or applying
                     for various scholarships in Bihar and beyond, having a verified digital result from the
                     <strong>bihar result</strong> portal is an essential first step.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,28 +96,27 @@ $meta_keywords = "";
                         <p>Yes, the <strong>bihar result</strong> section on <strong>indiaresults</strong> provides a
                             convenient "Search by Name" feature, allowing you to find results even if your roll code or
                             roll number is missing.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What is the Roll Code in bihar result?</button>
                     <div class="faq-answer">
                         <p>In the <strong>bihar result</strong> system, the Roll Code is a 5-digit number that
                             identifies your school or college. It is a mandatory field alongside your Roll Number for
                             checking BSEB results.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result valid for Inter admission in Bihar?</button>
                     <div class="faq-answer">
                         <p>The <strong>bihar result</strong> online marksheet is provisional but accepted for initial
                             registration on the OFSS Bihar portal. However, for final verification, the original
                             marksheet issued by the school is required.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

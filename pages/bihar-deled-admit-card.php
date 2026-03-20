@@ -9,7 +9,26 @@ $meta_keywords = "bihar deled admit card 2024, bseb deled jet admit card, bihar 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bihar DElEd Admit Card 2024 Download - Joint Entrance Test (JET) Link | Univindia.online</div>
     <h2 class='sr-title'>Bihar DElEd Admit Card 2024 Download - Joint Entrance Test (JET) Link | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "Bihar DElEd Admit Card 2024 Download - Joint Entrance Test (JET) Link | Univindia.online"; 
+$meta_description = "Download Bihar DElEd Admit Card 2024. Get direct link for BSEB Bihar DElEd Joint Entrance Test (JET) hall ticket, exam dates, and center details at deledbihar.com."; 
+$meta_keywords = "bihar deled admit card 2024, bseb deled jet admit card, bihar deled hall ticket download, deledbihar.com admit card login, bihar d.el.ed exam date"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Bihar DElEd Admit Card 2024 Download - Joint Entrance Test (JET) Link | Univindia.online";
+$meta_description = "Download Bihar DElEd Admit Card 2024. Get direct link for BSEB Bihar DElEd Joint Entrance Test (JET) hall ticket, exam dates, and center details at deledbihar.com.";
+$meta_keywords = "bihar deled admit card 2024, bseb deled jet admit card, bihar deled hall ticket download, deledbihar.com admit card login, bihar d.el.ed exam date";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Bihar DElEd Admit Card 2024: Download Joint Entrance Test Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "bihar deled admit card 2024, bseb deled jet admit card, bihar 
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-red">Latest Result Updates</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

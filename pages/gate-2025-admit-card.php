@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in</div>
-    <h2 class='sr-title'>GATE 2025 Admit Card</h2>
+    <h2 class='sr-title'>GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in"; 
+$meta_description = "Download GATE 2025 Admit Card. Get direct link for Graduate Aptitude Test in Engineering Hall Ticket. Check exam dates, paper schedules, and reporting instructions."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
@@ -104,15 +115,16 @@ $meta_keywords = "";
                         <div>
                             <h6 class="fw-bold text-success text-decoration-underline">3. Is a colored printout necessary?</h6>
                             <p>While a black and white printout is acceptable, a colored printout is recommended to ensure the photograph and signature are clearly identifiable.</p>
-                        </div>
-                    </div>
+                        
 
                     <p class="mt-5 text-muted fst-italic"><strong>Disclaimer:</strong> This website is an independent information portal. For official updates, please refer to the official GATE 2025 portal conducted by the IITs.</p>
-                </div>
-            </div>
-        </div>
-    </div>
+                
+        
+
 </div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

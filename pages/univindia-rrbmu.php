@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia RRBMU - Raj Rishi Bhartrihari Matsya University Result portal"; 
 $meta_description = "Univindia RRBMU is the primary portal for Matsya University Alwar exams and results. Complete guide to the Univindia RRBMU digital interface."; 
 $meta_keywords = "univindia rrbmu"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia RRBMU - Raj Rishi Bhartrihari Matsya University Result portal</div>
+    <h2 class='sr-title'>Univindia RRBMU - Raj Rishi Bhartrihari Matsya University Result portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia RRBMU - Raj Rishi Bhartrihari Matsya University Result portal"; 
+$meta_description = "Univindia RRBMU is the primary portal for Matsya University Alwar exams and results. Complete guide to the Univindia RRBMU digital interface."; 
+$meta_keywords = "univindia rrbmu"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia RRBMU - Raj Rishi Bhartrihari Matsya University Result portal";
+$meta_description = "Univindia RRBMU is the primary portal for Matsya University Alwar exams and results. Complete guide to the Univindia RRBMU digital interface.";
+$meta_keywords = "univindia rrbmu";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia RRBMU: Your Digital Gateway to Matsya University Alwar Services</h1>
+        
         
         <p>Univindia RRBMU is a terminal keyword that represents a vital link for the academic community of the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar. As the leading institution for higher education in the Matsya region of Rajasthan, RRBMU oversees a vast number of students pursuing undergraduate and postgraduate degrees. To maintain efficiency and transparency in its operations, the university has successfully integrated its examination and administrative services with the Univindia platform, creating what students commonly refer to as Univindia RRBMU. In this detailed guide, we will explore the various features of this portal, provide expert navigation tips, and ensure you have all the information necessary for a successful academic journey at Matsya University.</p>
 
@@ -44,6 +66,15 @@ $meta_keywords = "univindia rrbmu";
 
         <p><i>Note: Univindia.online is an independent educational site and is not affiliated with the official RRBMU Alwar or Univindia.net. For authorized updates and official university news, please always rely on the official Raj Rishi Bhartrihari Matsya University websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

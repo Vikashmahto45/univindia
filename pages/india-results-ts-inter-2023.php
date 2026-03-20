@@ -7,9 +7,27 @@ $meta_keywords = "india results ts inter 2023, check ts inter results 2023 onlin
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india results ts inter 2023 - Official Telangana Board Mirror</div>
-    <h2 class='sr-title'>india results ts inter 2023: Your Comprehensive Navigator to Telangana State Board of Intermediate Education (TSBIE), Hyderabad, Intermediate Public Examinations (IPE) (1st & 2nd Year), and Telangana State Board Result Gateways (Government of Telangana, School Education Department, and National Informatics Centre (NIC) Telangana State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india results ts inter 2023 - Official Telangana Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india results ts inter 2023 - Official Telangana Board Mirror"; 
+$meta_description = "Check india results ts inter 2023 online. Access the results for Telangana State Board (TSBIE) 1st and 2nd Year Intermediate for the 2023 session."; 
+$meta_keywords = "india results ts inter 2023, check ts inter results 2023 online, official tsbie mirror link, telangana inter 2023 results portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india results ts inter 2023 - Official Telangana Board Mirror";
+$meta_description = "Check india results ts inter 2023 online. Access the results for Telangana State Board (TSBIE) 1st and 2nd Year Intermediate for the 2023 session.";
+$meta_keywords = "india results ts inter 2023, check ts inter results 2023 online, official tsbie mirror link, telangana inter 2023 results portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india results ts inter 2023, check ts inter results 2023 onlin
                 <a href="https://telangana.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Telangana results site" target="_blank">Access Telangana Mirror</a>
                 <a href="http://results.cgg.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Telangana CGG link" target="_blank">Visit TS CGG Results</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india results ts inter 2023 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india results ts inter 2023, check ts inter results 2023 onlin
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india results ts inter 2023 data, please visit the TSBIE headquarters in Hyderabad or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Telangana IndiaResults Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india results ts inter 2023, check ts inter results 2023 onlin
         <br>
         <strong>3. Is the result from Telangana IndiaResults valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "india results ts inter 2023" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

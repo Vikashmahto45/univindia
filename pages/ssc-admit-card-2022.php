@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC Admit Card 2022 Download - Staff Selection Commission Hall Ticket | Univindia.online"; 
 $meta_description = "Download SSC Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD 2022 exam hall tickets at ssc.nic.in."; 
 $meta_keywords = "ssc admit card 2022, ssc.nic.in admit card download, ssc cgl 2022 hall ticket download, ssc gd 2022 admit card link, ssc chsl 2022 call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Admit Card 2022 Download - Staff Selection Commission Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>SSC Admit Card 2022 Download - Staff Selection Commission Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC Admit Card 2022 Download - Staff Selection Commission Hall Ticket | Univindia.online"; 
+$meta_description = "Download SSC Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD 2022 exam hall tickets at ssc.nic.in."; 
+$meta_keywords = "ssc admit card 2022, ssc.nic.in admit card download, ssc cgl 2022 hall ticket download, ssc gd 2022 admit card link, ssc chsl 2022 call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC Admit Card 2022 Download - Staff Selection Commission Hall Ticket | Univindia.online";
+$meta_description = "Download SSC Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD 2022 exam hall tickets at ssc.nic.in.";
+$meta_keywords = "ssc admit card 2022, ssc.nic.in admit card download, ssc cgl 2022 hall ticket download, ssc gd 2022 admit card link, ssc chsl 2022 call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -90,8 +113,16 @@ $meta_keywords = "ssc admit card 2022, ssc.nic.in admit card download, ssc cgl 2
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search SSC Jobs</a>
-        </div>
+        
+</div>
+
+<?php include '../includes/header.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www sebaonline org hslc result - Official SEBA Assam Hub"; 
 $meta_description = "Check www sebaonline org hslc result for Assam Board exams. Access the official sebaonline.org High School Leaving Certificate (HSLC) result mirror on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www sebaonline org hslc result - Official SEBA Assam Hub</div>
+    <h2 class='sr-title'>www sebaonline org hslc result - Official SEBA Assam Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "www sebaonline org hslc result - Official SEBA Assam Hub"; 
+$meta_description = "Check www sebaonline org hslc result for Assam Board exams. Access the official sebaonline.org High School Leaving Certificate (HSLC) result mirror on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for the official examination results for Assam Board
                 (SEBA). Mirror links for sebaonline.org and direct HSLC result access updated for the current academic
                 session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open sebaonline.org Mirror</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Assam board HSLC results online by student name alternative criteria for the latest
                         session on SEBA mirrors.</p>
                     <a href="https://assam.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +98,7 @@ $meta_keywords = "";
                     <strong>www sebaonline org hslc result</strong> hub is essential for students to complete their
                     academic verification and proof of educational achievement during transition and registration
                     processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,27 +110,29 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, <strong>sebaonline.org</strong> is the official portal of the Secondary Education Board
                             of Assam for results and circulars.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check SEBA results by name online?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>www sebaonline org hslc result</strong> mirror on
                             <strong>indiaresults</strong> includes a dedicated name-wise search for students
                             participating in the Assam board exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the digital marksheets official for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>www sebaonline org hslc result</strong>
                             gateway is a valid provisional document accepted for initial secondary registration and
                             verification in Assam.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

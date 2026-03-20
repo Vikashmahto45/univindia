@@ -9,7 +9,26 @@ $meta_keywords = "icai admit card download, download ca admit card foundation in
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ICAI Admit Card Download - CA Foundation, Inter, Final Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>ICAI Admit Card Download - CA Foundation, Inter, Final Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "ICAI Admit Card Download - CA Foundation, Inter, Final Hall Ticket | Univindia.online"; 
+$meta_description = "Download ICAI Admit Card. Get the direct link for CA Foundation, Intermediate, and Final examination hall tickets at eservices.icai.org."; 
+$meta_keywords = "icai admit card download, download ca admit card foundation inter final, eservices.icai.org login admit card, icai exam date 2024 download, chartered accountant call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "ICAI Admit Card Download - CA Foundation, Inter, Final Hall Ticket | Univindia.online";
+$meta_description = "Download ICAI Admit Card. Get the direct link for CA Foundation, Intermediate, and Final examination hall tickets at eservices.icai.org.";
+$meta_keywords = "icai admit card download, download ca admit card foundation inter final, eservices.icai.org login admit card, icai exam date 2024 download, chartered accountant call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">ICAI Admit Card: Download CA Foundation, Inter, and Final Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "icai admit card download, download ca admit card foundation in
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Accounting Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

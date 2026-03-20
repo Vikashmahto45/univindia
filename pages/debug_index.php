@@ -1,15 +1,27 @@
 <?php 
 include '../header.php'; 
-$page_title = ""; 
+$page_title = "Debug_index"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
 <div class='sr-page-wrapper'>
-    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
-    <h2 class='sr-title'></h2>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Debug_index</div>
+    <h2 class='sr-title'>Debug_index</h2>
     <div class='sr-content'>
-        include '../includes/link_map.php';
+        <?php 
+include '../header.php'; 
+$page_title = "Debug_index"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/link_map.php';
 $keywords = file('keyword.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 $filter = 'result';
 $count = 0;
@@ -26,6 +38,11 @@ foreach ($keywords as $keyword) {
 if ($count == 0) {
     echo "No results found.\n";
 }
+?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

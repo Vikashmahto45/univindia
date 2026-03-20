@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores"; 
 $meta_description = "Check your MGSU Bikaner BA Part 2 results on Univindia Net. Official guide to downloading Bachelor of Arts 2nd year marksheets and revaluation results online."; 
 $meta_keywords = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores</div>
+    <h2 class='sr-title'>Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores"; 
+$meta_description = "Check your MGSU Bikaner BA Part 2 results on Univindia Net. Official guide to downloading Bachelor of Arts 2nd year marksheets and revaluation results online."; 
+$meta_keywords = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores";
+$meta_description = "Check your MGSU Bikaner BA Part 2 results on Univindia Net. Official guide to downloading Bachelor of Arts 2nd year marksheets and revaluation results online.";
+$meta_keywords = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Arts Scores";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU BA 2nd Year Result: Your Guide to Bikaner University Arts Scores</h1>
+        
         
         <p>The term "Univindia Net MGSU BA 2nd Year Result" is one of the most anticipated phrases for thousands of arts students enrolled at Maharaja Ganga Singh University (MGSU), Bikaner. As students complete the middle phase of their degree, the declaration of the BA Part 2 result is a critical milestone that determines their eligibility for the final year and impacts their aggregate score for the entire degree. The `univindia.net` portal is the official, authoritative platform for all MGSU Arts results. In this comprehensive guide, we will provide a complete walkthrough of how to check your MGSU BA 2nd Year results, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Net MGSU BA 2nd Year Result - Bikaner University Art
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

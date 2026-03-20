@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "inter 1 year results - Official Junior College Gateway"; 
 $meta_description = "Check inter 1 year results for all major state boards. Access the official 1st Year Intermediate result hub on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter 1 year results - Official Junior College Gateway</div>
+    <h2 class='sr-title'>inter 1 year results - Official Junior College Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "inter 1 year results - Official Junior College Gateway"; 
+$meta_description = "Check inter 1 year results for all major state boards. Access the official 1st Year Intermediate result hub on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest 1st Year Intermediate results for all state boards.
                 Official result mirrors and high-speed links updated for the current session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Inter 1st Year</a>
                 <a href="#faq" class="btn btn-secondary">Student Support</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify Inter results using Hall Ticket or Name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +87,7 @@ $meta_keywords = "";
                         1 year results</strong> hub is essential for students to complete their academic verification
                     and proof of performance during their senior secondary education. This digital record is a legally
                     valid provisional document.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,26 +100,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>inter 1 year results</strong> portal on <strong>indiaresults</strong>
                             includes a convenient "Search by Name" feature for all participating state board candidates.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this portal official for college use?</button>
                     <div class="faq-answer">
                         <p>Absolutely. All data under <strong>inter 1 year results</strong> is mirrored directly from
                             official board databases, ensuring 100% authenticity and accuracy.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for 2nd year admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from <strong>inter 1 year results</strong> is a valid provisional
                             document accepted for initial class 12th registration and document verification nationwide.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

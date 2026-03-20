@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rajasthan result nic in 10th - Official Rajasthan NIC Secondary Portal"; 
 $meta_description = "Check rajasthan result nic in 10th for RBSE exams. Access the official rajresults.nic.in mirror for Board of Secondary Education Rajasthan (BSER) on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan result nic in 10th - Official Rajasthan NIC Secondary Portal</div>
+    <h2 class='sr-title'>rajasthan result nic in 10th - Official Rajasthan NIC Secondary Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rajasthan result nic in 10th - Official Rajasthan NIC Secondary Portal"; 
+$meta_description = "Check rajasthan result nic in 10th for RBSE exams. Access the official rajresults.nic.in mirror for Board of Secondary Education Rajasthan (BSER) on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your dedicated NIC portal mirror for Rajasthan Class 10th (Secondary)
                 examination results. Access official rajresults.nic.in data mirrors for both latest and archival
                 academic batches.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check NIC Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan Secondary results by official board roll number exactly from the
                         rajresults.nic.in mirrors.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                         10th</strong> hub is essential for students to complete their academic verification and proof of
                     performance during school-level transition and registration processes even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,27 +108,29 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all data under <strong>rajasthan result nic in 10th</strong> provided here is a direct
                             mirror of the official NIC Rajasthan results servers, ensuring 100% accuracy.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Rajasthan NIC results by name search?</button>
                     <div class="faq-answer">
                         <p>While official NIC portals primarily use roll numbers, our <strong>rajasthan result nic in
                                 10th</strong> hub on <strong>indiaresults</strong> includes a dedicated name-wise search
                             for student ease.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital NIC marksheet official for school admission?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The digital scorecard retrieved from the <strong>rajasthan result nic in
                                 10th</strong> archive is a valid provisional document accepted for initial secondary
                             school registration nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

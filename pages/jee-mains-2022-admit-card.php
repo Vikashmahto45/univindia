@@ -1,11 +1,26 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)"; 
 $meta_description = "Download archived JEE Mains 2022 Admit Card for Session 1 and 2. Get information on NTA JEE Main June/July exam hall tickets, center instructions and recovery of application number."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)</div>
+    <h2 class='sr-title'>JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)"; 
+$meta_description = "Download archived JEE Mains 2022 Admit Card for Session 1 and 2. Get information on NTA JEE Main June/July exam hall tickets, center instructions and recovery of application number."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +32,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4 rounded-4">
                 <div class="card-header bg-primary text-white p-4 rounded-top-4">
-                    <h1 class="h3 fw-bold mb-0">JEE Mains 2022 Admit Card - Historical Archive</h1>
+                    
                 </div>
                 <div class="card-body p-4">
                     <p class="lead">The Joint Entrance Examination (JEE) Main 2022 was conducted by the National Testing Agency (NTA) in two sessions—June and July. This page provides historical information and archived details regarding the JEE Mains 2022 Admit Card release and download process for students and researchers.</p>
@@ -39,14 +54,12 @@ $meta_keywords = "";
                             <div class="p-3 border rounded-4 bg-light shadow-sm">
                                 <h6 class="fw-bold text-primary">Method 1: By Application No. & DOB</h6>
                                 <p class="small">Candidates logged in using their unique application number and their date of birth as a password. This was the most common method.</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6">
                             <div class="p-3 border rounded-4 bg-light shadow-sm">
                                 <h6 class="fw-bold text-primary">Method 2: By Application No. & Password</h6>
                                 <p class="small">Candidates who remembered their custom password set during registration could use it along with their application ID.</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark">Information on the 2022 Call Letter</h2>
@@ -104,15 +117,19 @@ $meta_keywords = "";
                             <div class="col-md-6 mb-3">
                                 <h6 class="fw-bold text-info">2. What if my signature was blurred?</h6>
                                 <p class="small">Candidates had to contact the NTA helpline immediately. In 2022, NTA had a dedicated correction window just before the exam for such issues.</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <p class="mt-5 text-center text-muted fst-italic">This is an archive page. For official support, researchers should visit the NTA archives at nta.ac.in.</p>
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

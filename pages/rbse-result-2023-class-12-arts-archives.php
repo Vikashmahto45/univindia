@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rbse result 2023 class 12 arts - Official Rajasthan 2023 Archive"; 
 $meta_description = "Check Rajasthan Board 12th Arts result 2023 on rbse result 2023 class 12 arts. Access the official RBSE Senior Secondary archival results on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse result 2023 class 12 arts - Official Rajasthan 2023 Archive</div>
+    <h2 class='sr-title'>rbse result 2023 class 12 arts - Official Rajasthan 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rbse result 2023 class 12 arts - Official Rajasthan 2023 Archive"; 
+$meta_description = "Check Rajasthan Board 12th Arts result 2023 on rbse result 2023 class 12 arts. Access the official RBSE Senior Secondary archival results on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 12th (Senior Secondary) Arts stream. Official RBSE mirrors and 2023
                 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 RBSE Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan Board (rajeduboard.rajasthan.gov.in) results 2023 by student name alternative
                         criteria for the 2023 academic examination batch.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +98,7 @@ $meta_keywords = "";
                     practical marks for all students. Having a verified digital result from the <strong>rbse result 2023
                         class 12 arts</strong> archive hub is essential for students to complete their academic
                     verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,15 +110,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>rbse result 2023 class 12 arts</strong> are permanently
                             archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Rajasthan 12th Arts results by name online?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>rbse result 2023 class 12 arts</strong> portal includes a dedicated
                             name-wise search for student examinees in Rajasthan for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 RBSE marksheet valid for graduation
                         admission?</button>
@@ -116,11 +124,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>rbse result 2023 class 12 arts</strong>
                             gateway is a valid provisional document accepted for initial university registration and
                             verification across Rajasthan.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

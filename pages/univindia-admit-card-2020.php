@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Admit Card 2020 - Bikaner University 2020 Hall Tickets"; 
 $meta_description = "Access your Univindia 2020 admit cards for Bikaner University. Official guide to retrieving historical 2020 Maharaja Ganga Singh University hall tickets online."; 
 $meta_keywords = "univindia admit card 2020"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Admit Card 2020 - Bikaner University 2020 Hall Tickets</div>
+    <h2 class='sr-title'>Univindia Admit Card 2020 - Bikaner University 2020 Hall Tickets</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Admit Card 2020 - Bikaner University 2020 Hall Tickets"; 
+$meta_description = "Access your Univindia 2020 admit cards for Bikaner University. Official guide to retrieving historical 2020 Maharaja Ganga Singh University hall tickets online."; 
+$meta_keywords = "univindia admit card 2020"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Admit Card 2020 - Bikaner University 2020 Hall Tickets";
+$meta_description = "Access your Univindia 2020 admit cards for Bikaner University. Official guide to retrieving historical 2020 Maharaja Ganga Singh University hall tickets online.";
+$meta_keywords = "univindia admit card 2020";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Admit Card 2020: Accessing Your Historical Bikaner Hall Tickets</h1>
+        
         
         <p>The term "Univindia Admit Card 2020" refers to the specific, historical digital permits used by the Maharaja Ganga Singh University (MGSU), Bikaner, during the highly unusual and challenging 2020 examination cycle. Within the robust network of `univindia.net`, the 2020 directories serve as a permanent repository for all hall tickets from the start of the current decade. For many alumni, administrative researchers, and individuals seeking to verify academic progression or appearance in the 2020 exams (which included many COVID-19 related schedule changes), this archive is the definitive source of truth. Whether you are retrieving a 2020 admit card for degree verification or researching the university's examination logistics during the global health crisis, the Univindia 2020 admit card gateway provides authoritative access to those legacy records. In this comprehensive guide, we will provide a detailed exploration of the 2020 MGSU admit card infrastructure, explain how to navigate the archival system for hall tickets, and offer expert advice on ensuring a seamless experience when accessing legacy university data in Bikaner.</p>
 
@@ -54,6 +76,15 @@ $meta_keywords = "univindia admit card 2020";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized historical declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

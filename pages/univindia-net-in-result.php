@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net In Result - University Gateway for Rajasthan Students"; 
 $meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Net In Result portal. Official guide to downloading university marksheets and scores online."; 
 $meta_keywords = "Univindia Net In Result - University Gateway for Rajasthan Students"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net In Result - University Gateway for Rajasthan Students</div>
+    <h2 class='sr-title'>Univindia Net In Result - University Gateway for Rajasthan Students</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net In Result - University Gateway for Rajasthan Students"; 
+$meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Net In Result portal. Official guide to downloading university marksheets and scores online."; 
+$meta_keywords = "Univindia Net In Result - University Gateway for Rajasthan Students"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net In Result - University Gateway for Rajasthan Students";
+$meta_description = "Check your MGSU, RRBMU, and MSBU results on Univindia Net In Result portal. Official guide to downloading university marksheets and scores online.";
+$meta_keywords = "Univindia Net In Result - University Gateway for Rajasthan Students";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net In Result: Your Essential Guide to Checking Rajasthan University Scores</h1>
+        
         
         <p>The term "Univindia Net In Result" represents a critical academic milestone for thousands of students enrolled in Rajasthan's major regional universities. As the digital era transforms higher education administration, the `univindia.net.in` portal (often acting as a specialized mirror or landing zone for the main `univindia.net` infrastructure) serves as an official gateway for examination scores. Whether you are enrolled at Maharaja Ganga Singh University (MGSU) in Bikaner, Raj Rishi Bhartrihari Matsya University (RRBMU) in Alwar, or Maharaja Surajmal Brij University (MSBU) in Bharatpur, this portal is essential for your success. In this comprehensive guide, we will provide a detailed walkthrough of how to check your scores on the official Univindia Net In Result portal, how to interpret your marksheet correctly, and what steps to take if you encounter technical or academic issues during the result declaration period.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Net In Result - University Gateway for Rajasthan Stu
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

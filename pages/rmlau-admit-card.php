@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RMLAU Admit Card Download - Dr. Ram Manohar Lohia Avadh University Hall Ticket | Univindia.online"; 
 $meta_description = "Download RMLAU Admit Card. Get the direct link for RMLAU BA, BSc, BCom, MA, and MSc semester/yearly examination hall tickets at rmlau.ac.in."; 
 $meta_keywords = "rmlau admit card, dr ram manohar lohia avadh university hall ticket download, rmlau.ac.in admit card login, rmlau exam scheme 2024 download, rmlau call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RMLAU Admit Card Download - Dr. Ram Manohar Lohia Avadh University Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>RMLAU Admit Card Download - Dr. Ram Manohar Lohia Avadh University Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RMLAU Admit Card Download - Dr. Ram Manohar Lohia Avadh University Hall Ticket | Univindia.online"; 
+$meta_description = "Download RMLAU Admit Card. Get the direct link for RMLAU BA, BSc, BCom, MA, and MSc semester/yearly examination hall tickets at rmlau.ac.in."; 
+$meta_keywords = "rmlau admit card, dr ram manohar lohia avadh university hall ticket download, rmlau.ac.in admit card login, rmlau exam scheme 2024 download, rmlau call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RMLAU Admit Card Download - Dr. Ram Manohar Lohia Avadh University Hall Ticket | Univindia.online";
+$meta_description = "Download RMLAU Admit Card. Get the direct link for RMLAU BA, BSc, BCom, MA, and MSc semester/yearly examination hall tickets at rmlau.ac.in.";
+$meta_keywords = "rmlau admit card, dr ram manohar lohia avadh university hall ticket download, rmlau.ac.in admit card login, rmlau exam scheme 2024 download, rmlau call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "rmlau admit card, dr ram manohar lohia avadh university hall t
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check RMLAU Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

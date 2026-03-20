@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "inter supply results 2023 ts - Official TSBIE 2023 Archive"; 
 $meta_description = "Check inter supply results 2023 ts for IPASE exams. Access the official 2023 Telangana Board of Intermediate Education (TSBIE) archival portal."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter supply results 2023 ts - Official TSBIE 2023 Archive</div>
+    <h2 class='sr-title'>inter supply results 2023 ts - Official TSBIE 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "inter supply results 2023 ts - Official TSBIE 2023 Archive"; 
+$meta_description = "Check inter supply results 2023 ts for IPASE exams. Access the official 2023 Telangana Board of Intermediate Education (TSBIE) archival portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 IPASE examination results for Telangana Intermediate 1st
                 and 2nd Year Supplementary. Official TSBIE mirrors and archival links updated for the 2023 batch
                 verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Supple Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify TS Inter Supplementary results 2023 by student name alternative criteria for the 2023
                         session batch verification.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +98,7 @@ $meta_keywords = "";
                     result from the <strong>inter supply results 2023 ts</strong> archive hub is essential for students
                     to complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,15 +110,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>inter supply results 2023 ts</strong> are permanently archived
                             on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 TS Supple results by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>inter supply results 2023 ts</strong> portal includes a dedicated
                             name-wise search for student examinees in Telangana for the 2023 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 TS Supple marksheet official for degree
                         admission?</button>
@@ -116,11 +124,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>inter supply results 2023 ts</strong>
                             archive is a valid provisional document accepted for initial university registration and
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

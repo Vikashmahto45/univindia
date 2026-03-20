@@ -7,9 +7,27 @@ $meta_keywords = "5th class result 2023 rbse link, rajasthan board 5th result 20
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th class result 2023 rbse link - Rajasthan Board Update</div>
-    <h2 class='sr-title'>5th class result 2023 rbse link: Your Prime Hub for Rajasthan Board of Secondary Education (RBSE/BSER) Ajmer, Shala Darpan (Department of Education, Rajasthan), Primary Education (Class 5), and Digital Scorecard Portals Across Rajasthan</h2>
+    <h2 class='sr-title'>5th class result 2023 rbse link - Rajasthan Board Update</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "5th class result 2023 rbse link - Rajasthan Board Update"; 
+$meta_description = "Check 5th class result 2023 rbse online. Access the direct link for Rajasthan Board Class 5 primary education results."; 
+$meta_keywords = "5th class result 2023 rbse link, rajasthan board 5th result 2023, rajshaladarpan nic in 5th result, rbse 5th result direct link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "5th class result 2023 rbse link - Rajasthan Board Update";
+$meta_description = "Check 5th class result 2023 rbse online. Access the direct link for Rajasthan Board Class 5 primary education results.";
+$meta_keywords = "5th class result 2023 rbse link, rajasthan board 5th result 2023, rajshaladarpan nic in 5th result, rbse 5th result direct link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -28,8 +46,7 @@ $meta_keywords = "5th class result 2023 rbse link, rajasthan board 5th result 20
                 <a href="https://rajshaladarpan.nic.in/SD1/Public/Home/Default.aspx" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Shala Darpan" target="_blank">Access Shala Darpan HUB</a>
                 <a href="http://rajeduboard.rajasthan.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="RBSE Official Portal" target="_blank">Visit RBSE Ajmer</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Rajasthan Mirror" target="_blank">Access Rajasthan Mirror</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 5th class result 2023 rbse link Online</h2>
         <p>To ensure a successful result search in the Rajasthan primary records, follow these steps:</p>
@@ -49,7 +66,7 @@ $meta_keywords = "5th class result 2023 rbse link, rajasthan board 5th result 20
 
         <p><i>Note: Univindia.online is an educational news gateway. For original certificates and school-level record changes, please visit the Rajasthan Directorate of Education, Bikaner or your School Headmaster.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About RBSE 5th Result</h2>
@@ -62,8 +79,13 @@ $meta_keywords = "5th class result 2023 rbse link, rajasthan board 5th result 20
         <br>
         <strong>3. Can I verify the 5th result using the student's name?</strong>
         <p>Yes, authorized mirror portals often provide a Name-wise search feature for the Rajasthan 5th class results.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

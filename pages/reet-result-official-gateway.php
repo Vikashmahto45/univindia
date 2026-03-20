@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "reet result - Official Rajasthan REET Eligibility Gateway"; 
 $meta_description = "Check reet result for Rajasthan Eligibility Examination for Teachers. Access the official REET (BSER) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; reet result - Official Rajasthan REET Eligibility Gateway</div>
+    <h2 class='sr-title'>reet result - Official Rajasthan REET Eligibility Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "reet result - Official Rajasthan REET Eligibility Gateway"; 
+$meta_description = "Check reet result for Rajasthan Eligibility Examination for Teachers. Access the official REET (BSER) result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest teacher eligibility results for Rajasthan. Official
                 BSER Ajmer mirrors and portal links updated for the current REET session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check REET Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify REET results by candidate name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -81,8 +92,7 @@ $meta_keywords = "";
                         result</strong> hub is essential for candidates to complete their professional verification and
                     proof of eligibility during the job application and documentation processes in the education sector.
                 </p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -95,27 +105,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>reet result</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated "Search by Name" feature for candidates participating in the BSER-teacher
                             eligibility exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the eligibility results on this hub official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for various
                             professional and state boards like BSER (Rajasthan), ensuring all result data is mirrored
                             directly from official databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital certificate valid for job applications?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>reet result</strong> hub is a valid
                             provisional document accepted for initial professional verification and teacher recruitment
                             documentation across Rajasthan.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

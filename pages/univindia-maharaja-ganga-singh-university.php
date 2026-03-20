@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal"; 
 $meta_description = "Univindia Maharaja Ganga Singh University is the dedicated digital hub for MGSU Bikaner exams, results, and student forms. Complete guide to the official portal."; 
 $meta_keywords = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal</div>
+    <h2 class='sr-title'>Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal"; 
+$meta_description = "Univindia Maharaja Ganga Singh University is the dedicated digital hub for MGSU Bikaner exams, results, and student forms. Complete guide to the official portal."; 
+$meta_keywords = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal";
+$meta_description = "Univindia Maharaja Ganga Singh University is the dedicated digital hub for MGSU Bikaner exams, results, and student forms. Complete guide to the official portal.";
+$meta_keywords = "Univindia Maharaja Ganga Singh University - Official MGSU Bikaner Portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Maharaja Ganga Singh University: Your Digital Hub for MGSU Bikaner Success</h1>
+        
         
         <p>Univindia Maharaja Ganga Singh University is the definitive keyword for thousands of students pursuing higher education in the Bikaner division of Rajasthan. As the digital arm of Maharaja Ganga Singh University (MGSU), the Univindia portal is the central technical nervous system for all academic and administrative activities. Whether you are a first-year undergraduate student or a final-year postgraduate aspirant, this portal is your primary destination for managing your scholarly life—from initial registration to the final declaration of results. In this comprehensive guide, we will explore the significance of Univindia Maharaja Ganga Singh University and provide expert instructions on how to navigate its many features for a seamless academic experience.</p>
 
@@ -52,6 +74,15 @@ $meta_keywords = "Univindia Maharaja Ganga Singh University - Official MGSU Bika
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official Maharaja Ganga Singh University (MGSU) website.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

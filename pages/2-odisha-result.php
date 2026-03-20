@@ -7,9 +7,27 @@ $meta_keywords = "2 odisha result, check chse odisha +2 results online, orissare
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 2 Odisha Result - Official Odisha +2 Result Hub</div>
-    <h2 class='sr-title'>2 Odisha Result: Your Comprehensive Navigator to Council of Higher Secondary Education (CHSE), Odisha, Bhubaneswar, Higher Secondary (Class 12), +2 Science, Commerce, Arts Streams, Vocational Courses, and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>2 Odisha Result - Official Odisha +2 Result Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "2 Odisha Result - Official Odisha +2 Result Hub"; 
+$meta_description = "Check 2 Odisha Result online. Access the high-speed CHSE Odisha +2 Science, Commerce, and Arts results. Official 12th marks link cluster."; 
+$meta_keywords = "2 odisha result, check chse odisha +2 results online, orissaresults.nic.in +2, official odisha 12th result link, chse odisha 2024 results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "2 Odisha Result - Official Odisha +2 Result Hub";
+$meta_description = "Check 2 Odisha Result online. Access the high-speed CHSE Odisha +2 Science, Commerce, and Arts results. Official 12th marks link cluster.";
+$meta_keywords = "2 odisha result, check chse odisha +2 results online, orissaresults.nic.in +2, official odisha 12th result link, chse odisha 2024 results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "2 odisha result, check chse odisha +2 results online, orissare
                 <a href="http://chseodisha.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CHSE Official Portal" target="_blank">Visit Council Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 2 Odisha Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "2 odisha result, check chse odisha +2 results online, orissare
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 2 Odisha Result data, please visit the CHSE headquarters in Bhubaneswar or your respective Junior College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 2 Odisha Result Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "2 odisha result, check chse odisha +2 results online, orissare
         <br>
         <strong>3. Is the result from 2 Odisha Result valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "2 Odisha Result" portal) are recorded in the state scholarship database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

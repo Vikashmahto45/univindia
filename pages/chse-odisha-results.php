@@ -7,9 +7,27 @@ $meta_keywords = "chse odisha results, chse odisha result 2024, orissaresults.ni
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE Odisha Results - Official Plus Two Higher Secondary Portal</div>
-    <h2 class='sr-title'>CHSE Odisha Results: The Definitive National Gateway to Odisha’s Senior Secondary Success</h2>
+    <h2 class='sr-title'>CHSE Odisha Results - Official Plus Two Higher Secondary Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "CHSE Odisha Results - Official Plus Two Higher Secondary Portal"; 
+$meta_description = "Check CHSE Odisha Results for official +2 Science, Commerce, and Arts board examinations. Access the official CHSE Odisha result gateway, merit lists, and marksheet downloads."; 
+$meta_keywords = "chse odisha results, chse odisha result 2024, orissaresults.nic.in 2024 chse, chse odisha +2 results portal, chseodisha.nic.in inter results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "CHSE Odisha Results - Official Plus Two Higher Secondary Portal";
+$meta_description = "Check CHSE Odisha Results for official +2 Science, Commerce, and Arts board examinations. Access the official CHSE Odisha result gateway, merit lists, and marksheet downloads.";
+$meta_keywords = "chse odisha results, chse odisha result 2024, orissaresults.nic.in 2024 chse, chse odisha +2 results portal, chseodisha.nic.in inter results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "chse odisha results, chse odisha result 2024, orissaresults.ni
                 <a href="http://chseodisha.nic.in" class="btn" title="CHSE Odisha Official Council Site" target="_blank">CHSE Odisha Main</a>
                 <a href="http://odisha.indiaresults.com" class="btn" title="Odisha Result Name Wise search" target="_blank">IndiaResults Odisha</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified Certificate" target="_blank">DigiLocker Verification</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CHSE Odisha Results</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "chse odisha results, chse odisha result 2024, orissaresults.ni
         <br>
         <strong>3. Is the online provisional marksheet valid for Degree admission?</strong>
         <p>Yes, the computer-generated "CHSE Odisha Results" scorecard is accepted for initial online admission and document verification in colleges across Odisha until the physical marksheet is provided by the council office.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

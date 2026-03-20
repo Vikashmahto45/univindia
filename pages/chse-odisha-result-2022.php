@@ -7,9 +7,27 @@ $meta_keywords = "chse odisha result 2022, check chse odisha 12th result 2022 on
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE Odisha Result 2022 - Official Higher Secondary Portal</div>
-    <h2 class='sr-title'>CHSE Odisha Result 2022: Your Comprehensive Navigator to Council of Higher Secondary Education (CHSE), Odisha, Bhubaneswar, Higher Secondary Certificate Examination (Class 12), and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>CHSE Odisha Result 2022 - Official Higher Secondary Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "CHSE Odisha Result 2022 - Official Higher Secondary Portal"; 
+$meta_description = "Check CHSE Odisha Result 2022 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Class 12 Science, Commerce, and Arts results for 2022."; 
+$meta_keywords = "chse odisha result 2022, check chse odisha 12th result 2022 online, official 2022 chse link, orissaresults.nic.in 2022 portal, odisha plus two results 2022"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "CHSE Odisha Result 2022 - Official Higher Secondary Portal";
+$meta_description = "Check CHSE Odisha Result 2022 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Class 12 Science, Commerce, and Arts results for 2022.";
+$meta_keywords = "chse odisha result 2022, check chse odisha 12th result 2022 online, official 2022 chse link, orissaresults.nic.in 2022 portal, odisha plus two results 2022";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "chse odisha result 2022, check chse odisha 12th result 2022 on
                 <a href="http://chseodisha.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official CHSE Portal" target="_blank">Access CHSE Official</a>
                 <a href="https://odisha.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Odisha Name site" target="_blank">Visit 2022 Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official CHSE Odisha Result 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "chse odisha result 2022, check chse odisha 12th result 2022 on
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to CHSE Odisha Result 2022 data, please visit the CHSE headquarters in Bhubaneswar or your respective School/College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CHSE Odisha Result 2022 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "chse odisha result 2022, check chse odisha 12th result 2022 on
         <br>
         <strong>3. Is the result from CHSE Odisha Result 2022 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "CHSE Odisha Result 2022" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

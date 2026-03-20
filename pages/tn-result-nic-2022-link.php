@@ -1,16 +1,34 @@
 <?php 
-include '../includes/header.php'; 
-$page_title = ""; 
+include '../header.php'; 
+$page_title = "Tn Result Nic 2022 Link"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Tn Result Nic 2022 Link</div>
+    <h2 class='sr-title'>Tn Result Nic 2022 Link</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Tn Result Nic 2022 Link"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include('top.php');
+?>
 <title>tn result nic 2022 - University Results 2024</title>
 
 <div class="container mt-4">
     <div class="row">
         <div class="col-md-8">
-            <h1 class="mb-4">tn result nic 2022</h1>
+            
             
             <div class="alert alert-info">
                 <strong>Latest Update:</strong> The results for tn result nic 2022 have been announced. Check the direct link below.
@@ -31,8 +49,7 @@ $meta_keywords = "";
                         <li>Submit the details to view your mark sheet.</li>
                         <li>Download and take a printout for future reference.</li>
                     </ol>
-                </div>
-            </div>
+                
 
             <div class="text-center my-4">
                 <a href="https://www.univindia.org/" class="btn btn-lg btn-success">Click Here to Check Result</a>
@@ -58,11 +75,19 @@ $meta_keywords = "";
         </div>
         
         <div class="col-md-4">
-            
-        </div>
+            <?php include('sidebar.php'); ?>
+        
+</div>
+
+<?php
+include('footer.php');
+?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-include('footer.php');
 
-<?php include '../includes/footer.php'; ?>
+<?php include '../footer.php'; ?>

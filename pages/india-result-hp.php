@@ -7,11 +7,27 @@ $meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himac
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result hp - Official Himachal Pradesh Board Result Mirror</div>
-    <h2 class='sr-title'>india result hp: Your Authoritative Navigator to Himachal Pradesh Board of School Education (HPBOSE)
-            Dharamshala, Senior Secondary Councils, and National Informatics Centre (NIC) Result Gateways Across
-            Himachal Pradesh</h2>
+    <h2 class='sr-title'>india result hp - Official Himachal Pradesh Board Result Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result hp - Official Himachal Pradesh Board Result Mirror"; 
+$meta_description = "Check india result hp for HPBOSE Class 10th and 12th results. Access the official Himachal Pradesh Board result mirror on indiaresults.com for fast checking."; 
+$meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himachal Pradesh board result, indiaresults hp portal"; 
+?>
+
+
+    
+    
+    
+        <?php
+$page_title = "india result hp - Official Himachal Pradesh Board Result Mirror";
+$meta_description = "Check india result hp for HPBOSE Class 10th and 12th results. Access the official Himachal Pradesh Board result mirror on indiaresults.com for fast checking.";
+$meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himachal Pradesh board result, indiaresults hp portal";
+include '../includes/header.php';
+?>
+
+
     <div class="seo-content">
         
 
@@ -69,8 +85,7 @@ $meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himac
                 <a href="https://hp.gov.in" class="btn"
                     style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;"
                     title="HP State Portal" target="_blank">Himachal State Hub</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result hp Online</h2>
         <p>To ensure a successful result search in the Himachal records, follow these technical steps:</p>
@@ -107,7 +122,7 @@ $meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himac
                 final database changes related to india result hp data, please visit the HPBOSE Headquarters in
                 Dharamshala or your School/College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result HP</h2>
@@ -123,8 +138,13 @@ $meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himac
         <strong>3. Can I apply for re-evaluation using the online result?</strong>
         <p>Yes, you can use the "india result hp" data to identify subjects for revaluation, but formal applications
             must be submitted via the `hpbose.org` portal within the board's deadline.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

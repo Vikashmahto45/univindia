@@ -7,9 +7,27 @@ $meta_keywords = "1st year result 2024, check ug 1st year result 2024 online, of
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 1st year result 2024 - Official University & Board Mirror</div>
-    <h2 class='sr-title'>1st year result 2024: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>1st year result 2024 - Official University & Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "1st year result 2024 - Official University & Board Mirror"; 
+$meta_description = "Check 1st year result 2024 online. Access the latest results for B.A, B.Sc, B.Com, and all Undergraduate 1st Year examinations for the 2024 session."; 
+$meta_keywords = "1st year result 2024, check ug 1st year result 2024 online, official university results link, indiaresults 1st year search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "1st year result 2024 - Official University & Board Mirror";
+$meta_description = "Check 1st year result 2024 online. Access the latest results for B.A, B.Sc, B.Com, and all Undergraduate 1st Year examinations for the 2024 session.";
+$meta_keywords = "1st year result 2024, check ug 1st year result 2024 online, official university results link, indiaresults 1st year search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "1st year result 2024, check ug 1st year result 2024 online, of
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC National HUB" target="_blank">Access National HUB</a>
                 <a href="https://www.exametc.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Exametc result portal" target="_blank">Visit Exametc HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official 1st year result 2024 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your university, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "1st year result 2024, check ug 1st year result 2024 online, of
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to 1st year result 2024 data, please visit your respective university headquarters or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 2024 1st Year Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "1st year result 2024, check ug 1st year result 2024 online, of
         <br>
         <strong>3. Is the result from the 1st Year Exam valid for scholarships?</strong>
         <p>Yes, your university results (verified via the official "1st year result 2024" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

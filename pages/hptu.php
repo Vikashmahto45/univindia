@@ -7,9 +7,27 @@ $meta_keywords = "hptu, hptu result, himachal pradesh technical university, hptu
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HPTU Result - Himachal Pradesh Technical University Semester Updates</div>
-    <h2 class='sr-title'>HPTU Result: Comprehensive Guide to Himachal Pradesh Technical University Scores</h2>
+    <h2 class='sr-title'>HPTU Result - Himachal Pradesh Technical University Semester Updates</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "HPTU Result - Himachal Pradesh Technical University Semester Updates"; 
+$meta_description = "Check HPTU results for B.Tech, M.Tech, MBA, and other technical courses. Get the latest updates on Himachal Pradesh Technical University Hamirpur exams and scores."; 
+$meta_keywords = "hptu, hptu result, himachal pradesh technical university, hptu hamirpur result"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "HPTU Result - Himachal Pradesh Technical University Semester Updates";
+$meta_description = "Check HPTU results for B.Tech, M.Tech, MBA, and other technical courses. Get the latest updates on Himachal Pradesh Technical University Hamirpur exams and scores.";
+$meta_keywords = "hptu, hptu result, himachal pradesh technical university, hptu hamirpur result";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -63,10 +81,9 @@ $meta_keywords = "hptu, hptu result, himachal pradesh technical university, hptu
                 <a href="https://www.himtu.ac.in" class="btn" title="Visit HPTU Official Website" target="_blank">Official HPTU Website</a>
                 <a href="https://www.himtu.ac.in/results/" class="btn" title="View Latest HPTU Results" target="_blank">Latest Results Page</a>
                 <a href="https://www.himtu.ac.in/examination-forms/" class="btn" title="HPTU Examination Forms" target="_blank">Exam Form Portal</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>HPTU Result: Student FAQ</h2>
@@ -79,8 +96,13 @@ $meta_keywords = "hptu, hptu result, himachal pradesh technical university, hptu
         <br>
         <strong>3. What is the minimum passing SGPA in HPTU?</strong>
         <p>In most technical programs at HPTU, a student must secure at least 4.0 Grade Points in each subject and a minimum overall SGPA (usually 5.0) to be promoted to the next semester without backlogs.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

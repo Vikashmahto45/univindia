@@ -7,9 +7,27 @@ $meta_keywords = "india result 12th, 12th class result 2024, board result 12th, 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 12th Class 2024 - Senior Secondary Board Results All States</div>
-    <h2 class='sr-title'>India Result 12th Class: The Definitive National Hub for Higher Secondary Success</h2>
+    <h2 class='sr-title'>India Result 12th Class 2024 - Senior Secondary Board Results All States</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 12th Class 2024 - Senior Secondary Board Results All States"; 
+$meta_description = "Check India Result 12th Class 2024 for all state boards including CBSE, ISC, UP Board, and RBSE. Find direct links to 12th result portals across India."; 
+$meta_keywords = "india result 12th, 12th class result 2024, board result 12th, senior secondary results india, class 12 result date"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 12th Class 2024 - Senior Secondary Board Results All States";
+$meta_description = "Check India Result 12th Class 2024 for all state boards including CBSE, ISC, UP Board, and RBSE. Find direct links to 12th result portals across India.";
+$meta_keywords = "india result 12th, 12th class result 2024, board result 12th, senior secondary results india, class 12 result date";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "india result 12th, 12th class result 2024, board result 12th, 
                 <a href="https://upresults.nic.in" class="btn" title="UP Board 12th Result Portal" target="_blank">UPMSP 12th Result</a>
                 <a href="http://rajresults.nic.in" class="btn" title="Rajasthan 12th Result Portal" target="_blank">RBSE 12th Result</a>
                 <a href="https://mahresult.nic.in" class="btn" title="Maharashtra HSC Result Portal" target="_blank">Maharashtra HSC Result</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 12th Class</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "india result 12th, 12th class result 2024, board result 12th, 
         <br>
         <strong>3. How do I get my 12th class migration certificate after the result?</strong>
         <p>Following the "India Result 12th Class" declaration, your board will issue a migration certificate. You can collect it from your school or download a digital version through the DigiLocker platform.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

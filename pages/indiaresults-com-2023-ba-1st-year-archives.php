@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indiaresults.com 2023 ba 1st year - Official University Academic Archive"; 
 $meta_description = "Check indiaresults.com 2023 ba 1st year for all participating universities. Access the official 2023 BA Part 1 archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresults.com 2023 ba 1st year - Official University Academic Archive</div>
+    <h2 class='sr-title'>indiaresults.com 2023 ba 1st year - Official University Academic Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indiaresults.com 2023 ba 1st year - Official University Academic Archive"; 
+$meta_description = "Check indiaresults.com 2023 ba 1st year for all participating universities. Access the official 2023 BA Part 1 archival result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session results for Bachelor of Arts (BA) 1st
                 Year for major universities across India. Official mirrors and archival links updated for the 2023
                 batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify all 2023 BA 1st Year results by student name alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +95,7 @@ $meta_keywords = "";
                     <strong>indiaresults.com 2023 ba 1st year</strong> archive hub is essential for students to complete
                     their academic verification and proof of educational attainment during degree transition processes
                     even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,27 +108,29 @@ $meta_keywords = "";
                         <p>Yes, all results under <strong>indiaresults.com 2023 ba 1st year</strong> are permanently
                             archived on verified platforms like <strong>indiaresults.com</strong> for archival and
                             academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check my 2023 BA result via name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>indiaresults.com 2023 ba 1st year</strong> portal includes a
                             dedicated name-wise search for most major universities across India for that academic year.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for promote to 2nd year?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>indiaresults.com 2023 ba 1st year</strong>
                             archive is a valid provisional document accepted for initial university-level promotion and
                             document verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

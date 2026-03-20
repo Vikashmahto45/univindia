@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UOR Result - Official University of Rajasthan result Portal"; 
 $meta_description = "Check UOR Result online. Access the high-speed University of Rajasthan (Uniraj) BA, BSc, BCom, and MA results. Official Jaipur marks link cluster."; 
 $meta_keywords = "uor result, check uniraj result online, university of rajasthan ba bsc bcom results, official uor jaipur link, uniraj results 2024"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UOR Result - Official University of Rajasthan result Portal</div>
+    <h2 class='sr-title'>UOR Result - Official University of Rajasthan result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UOR Result - Official University of Rajasthan result Portal"; 
+$meta_description = "Check UOR Result online. Access the high-speed University of Rajasthan (Uniraj) BA, BSc, BCom, and MA results. Official Jaipur marks link cluster."; 
+$meta_keywords = "uor result, check uniraj result online, university of rajasthan ba bsc bcom results, official uor jaipur link, uniraj results 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "UOR Result - Official University of Rajasthan result Portal";
+$meta_description = "Check UOR Result online. Access the high-speed University of Rajasthan (Uniraj) BA, BSc, BCom, and MA results. Official Jaipur marks link cluster.";
+$meta_keywords = "uor result, check uniraj result online, university of rajasthan ba bsc bcom results, official uor jaipur link, uniraj results 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>UOR Result: Your Comprehensive Navigator to University of Rajasthan (UOR), Jaipur, Undergraduate (UG), Postgraduate (PG), BA, BSc, BCom, MA, MSc, MCom, Law, and Rajasthan State University Result Gateways (Government of Rajasthan, Higher Education Department, and University Computer Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "UOR Result" (representing the primary digital result-dissemination framework utilized by over 7 lakh students for the annual and semester university exams conducted by the University of Rajasthan, Jaipur) represents the single most significant digital milestone for students residing in the academic and cultural landscape of Rajasthan. As the primary official gateway to the state's premier educational infrastructure (Jaipur, Uniraj Campus), and the traditional higher education infrastructure of the nation, the "UOR Result" serves as the formal academic master directory that allows candidates to access their theory scores, practical assessment marks, and final degree certificate (UG/PG) via dedicated university server endpoints and authorized mirror archives like Uniraj IndiaResults. For the current academic cycle, where high-quality technical evaluation and fastest result retrieval are state priorities, the "UOR Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The university administration has implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the scores (including subject-wise marks, weighted averages, and qualifying status) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "UOR Result," ensuring that every aspiring student and researcher in Rajasthan can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "uor result, check uniraj result online, university of rajastha
                 <a href="https://uniraj.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Uniraj Official Portal" target="_blank">Visit University Home</a>
                 <a href="https://rajasthan.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="IndiaResults Raj Portal" target="_blank">Access Raj Mirrors</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official UOR Result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your university, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "uor result, check uniraj result online, university of rajastha
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to UOR Result data, please visit the University of Rajasthan campus in Jaipur or your respective College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About UOR Result Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "uor result, check uniraj result online, university of rajastha
         <br>
         <strong>3. Is the result from UOR Result valid for state scholarships?</strong>
         <p>Yes, your university results (verified via the official "UOR Result" portal) are recorded in the Rajasthan state scholarship database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

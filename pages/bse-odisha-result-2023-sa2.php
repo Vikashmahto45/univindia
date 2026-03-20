@@ -7,9 +7,27 @@ $meta_keywords = "bse odisha result 2023 sa2, odisha 10th sa2 result 2023, check
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha Result 2023 SA2 - Official Summative Assessment 2 Portal</div>
-    <h2 class='sr-title'>BSE Odisha Result 2023 SA2: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha Summative Assessment 2 (SA-II), Madhyamik (Class 10), and High School Certificate (HSC) Examination Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h2>
+    <h2 class='sr-title'>BSE Odisha Result 2023 SA2 - Official Summative Assessment 2 Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "BSE Odisha Result 2023 SA2 - Official Summative Assessment 2 Portal"; 
+$meta_description = "Check BSE Odisha Result 2023 SA2 for Class 10th. Access the Summative Assessment 2 results, subject-wise marks, and official school result stats online."; 
+$meta_keywords = "bse odisha result 2023 sa2, odisha 10th sa2 result 2023, check bse odisha sa2 matric, bseodisha.ac.in sa2 result 2023, summative assessment 2 results odisha, official bse portal sa2"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "BSE Odisha Result 2023 SA2 - Official Summative Assessment 2 Portal";
+$meta_description = "Check BSE Odisha Result 2023 SA2 for Class 10th. Access the Summative Assessment 2 results, subject-wise marks, and official school result stats online.";
+$meta_keywords = "bse odisha result 2023 sa2, odisha 10th sa2 result 2023, check bse odisha sa2 matric, bseodisha.ac.in sa2 result 2023, summative assessment 2 results odisha, official bse portal sa2";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -50,10 +68,9 @@ $meta_keywords = "bse odisha result 2023 sa2, odisha 10th sa2 result 2023, check
                 <a href="https://results.gov.in" class="btn" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified record" target="_blank">DigiLocker Records</a>
                 <a href="https://odisha.gov.in" class="btn" title="State Status" target="_blank">Odisha State Website</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About BSE Odisha Result 2023 SA2 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "bse odisha result 2023 sa2, odisha 10th sa2 result 2023, check
         <br>
         <strong>3. Is the terminal result from BSE Odisha Result 2023 SA2 valid for Scholarship?</strong>
         <p>Yes, your secondary results (verified via the official "BSE Odisha Result 2023 SA2" portal or DigiLocker) are the accepted records for applying to state-sponsored merit scholarships in 2024.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

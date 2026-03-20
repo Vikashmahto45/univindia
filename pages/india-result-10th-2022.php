@@ -7,9 +7,27 @@ $meta_keywords = "india result 10th 2022, check board result 10th 2022, secondar
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th 2022 - Historical National Result archive</div>
-    <h2 class='sr-title'>India Result 10th 2022: Your Comprehensive Navigator to Board of Secondary Education Class 10 (Secondary), Matriculation, High School, and National State Board Result Gateways (Government of Rajasthan, Bihar, Uttar Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 10th 2022 - Historical National Result archive</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 10th 2022 - Historical National Result archive"; 
+$meta_description = "Check India Result 10th 2022 online. Access the historical board results for Class 10 (Secondary) from CBSE, BSEB, RBSE, and more for 2022. Official Link."; 
+$meta_keywords = "india result 10th 2022, check board result 10th 2022, secondary result 2022 online, official 2022 matric result link, indiaresult 10th 2022 mirror"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 10th 2022 - Historical National Result archive";
+$meta_description = "Check India Result 10th 2022 online. Access the historical board results for Class 10 (Secondary) from CBSE, BSEB, RBSE, and more for 2022. Official Link.";
+$meta_keywords = "india result 10th 2022, check board result 10th 2022, secondary result 2022 online, official 2022 matric result link, indiaresult 10th 2022 mirror";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 10th 2022, check board result 10th 2022, secondar
                 <a href="https://cbseresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE Official Portal" target="_blank">Visit CBSE Home</a>
                 <a href="https://www.indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Authorized Mirror Hub" target="_blank">Official Mirror Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 10th 2022 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2022 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 10th 2022, check board result 10th 2022, secondar
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 10th 2022, please visit the respective Board headquarters or your school office.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 10th 2022 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 10th 2022, check board result 10th 2022, secondar
         <br>
         <strong>3. Is the result from India Result 10th 2022 valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result 10th 2022" portal) are digitized and available in the DigiLocker archive for official verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

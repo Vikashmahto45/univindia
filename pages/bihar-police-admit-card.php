@@ -7,9 +7,28 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in</div>
-    <h2 class='sr-title'>Bihar Police Admit Card 2025: CSBC Constable Hall Ticket</h2>
+    <h2 class='sr-title'>Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in</h2>
     <div class='sr-content'>
-        <main class="container py-5">
+        <?php 
+include '../header.php'; 
+$page_title = "Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in";
+$page_description = "Download Bihar Police Admit Card 2025 for Constable 21391 vacancies. Get direct link for CSBC Bihar Police Hall Ticket, Exam Schedule, and center details. 800+ words guide.";
+$page_keywords = "Bihar Police Admit Card 2025, CSBC Bihar Constable Hall Ticket Download, csbc.bih.nic.in admit card link, Bihar Police Constable Exam Date, Bihar Police Call Letter";
+include '../includes/header.php';
+?>
+
+<main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -93,14 +112,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-warning h-100">
                             <h5 class="text-warning"><i class="fas fa-print me-2"></i> PET Admit Card</h5>
                             <p class="small text-light-gray mb-0">Carry a separate hall ticket issued for the physical stage. This is mandatory for entry into the sports stadium.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-warning h-100">
                             <h5 class="text-warning"><i class="fas fa-id-card me-2"></i> Valid Photo ID</h5>
                             <p class="small text-light-gray mb-0">Original Aadhar Card or Driving License is needed for biometric matching at the center.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">Bihar Police Admit Card FAQ: Frequent Queries</h2>
@@ -114,8 +131,7 @@ $meta_keywords = "";
                         <div id="cbQ1" class="accordion-collapse collapse" data-bs-parent="#csbcFaq">
                             <div class="accordion-body text-light-gray">
                                 Ensure you are using a desktop browser. Mobile browsers often block the PDF pop-up. If the issue persists, check the 'Rejection List' published by CSBC on their main page.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -126,10 +142,8 @@ $meta_keywords = "";
                         <div id="cbQ2" class="accordion-collapse collapse" data-bs-parent="#csbcFaq">
                             <div class="accordion-body text-light-gray">
                                 No, for the written exam, you only need the <strong>Bihar Police Admit Card</strong> and a valid photo ID. Original certificates are only required during the Documentation/PET stage.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Job Links</h5>
@@ -137,14 +151,14 @@ $meta_keywords = "";
                         <a href="bpsc-admit-card.php" class="btn btn-outline-warning rounded-pill px-4 btn-sm">BPSC PCS Hall Ticket</a>
                         <a href="bihar-ssc-admit-card.php" class="btn btn-outline-warning rounded-pill px-4 btn-sm">BSSC Inter Level</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Bihar State Authority Links</h3>
                 <div class="row g-3">
+                    <?php
                     $bihar_auth = [
                         'bpssc-admit-card.php' => 'Bihar SI Admit Card',
                         'bihar-board-admit-card.php' => 'BSEB 10th 12th Admit Card',
@@ -158,11 +172,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -190,6 +203,12 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU Admit Card - Download MGSU Hall Ticket Online"; 
 $meta_description = "Download your MGSU Bikaner admit card for UG/PG exams on Univindia Net. Complete guide to downloading and printing your Maharaja Ganga Singh University hall ticket."; 
 $meta_keywords = "univindia net mgsu admit card"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU Admit Card - Download MGSU Hall Ticket Online</div>
+    <h2 class='sr-title'>Univindia Net MGSU Admit Card - Download MGSU Hall Ticket Online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Admit Card - Download MGSU Hall Ticket Online"; 
+$meta_description = "Download your MGSU Bikaner admit card for UG/PG exams on Univindia Net. Complete guide to downloading and printing your Maharaja Ganga Singh University hall ticket."; 
+$meta_keywords = "univindia net mgsu admit card"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU Admit Card - Download MGSU Hall Ticket Online";
+$meta_description = "Download your MGSU Bikaner admit card for UG/PG exams on Univindia Net. Complete guide to downloading and printing your Maharaja Ganga Singh University hall ticket.";
+$meta_keywords = "univindia net mgsu admit card";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU Admit Card: Your Gateway to the Examination Hall</h1>
+        
         
         <p>The release of the Univindia Net MGSU Admit Card marks one of the most critical phases in the academic calendar of Maharaja Ganga Singh University (MGSU), Bikaner. For thousands of students preparing for their annual or semester examinations, the admit card is not just a piece of paper; it is the official authorization that allows them entry into the examination center. This document contains vital information, including the student's roll number, the specific subjects they are appearing for, and the address of the examination venue. In this detailed guide, we will explore the entire process of downloading, verifying, and troubleshooting your MGSU admit card through the Univindia portal.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "univindia net mgsu admit card";
 
         <p><i>Disclaimer: We are an independent information provider. For official instructions and the most accurate data, students must always consult the official Maharaja Ganga Singh University Bikaner websites and portals.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

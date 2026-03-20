@@ -1,21 +1,31 @@
 <?php 
 include '../header.php'; 
-$page_title = ""; 
+$page_title = "10th Class Result 2023 Portal"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
 <div class='sr-page-wrapper'>
-    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
-    <h2 class='sr-title'>2023 10th Result Portal - Check Online</h2>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Class Result 2023 Portal</div>
+    <h2 class='sr-title'>10th Class Result 2023 Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th Class Result 2023 Portal"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div class="content-wrapper">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 
-            </div>
-        </div>
+            
         <div class="row">
             <div class="col-md-12">
                 <div class="alert alert-warning">
@@ -65,10 +75,12 @@ $meta_keywords = "";
                 <p>
                     Always ensure you are checking results on official government portals to avoid misinformation. The marks obtained in 10th grade are vital for choosing the stream for higher secondary education.
                 </p>
-            </div>
-        </div>
-    </div>
-</div>
+            
+    
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MJPRU Result 2021 - Mahatma Jyotiba Phule Rohilkhand University Archives"; 
 $meta_description = "Retrieve your MJPRU Result 2021 online. Access the Mahatma Jyotiba Phule Rohilkhand University archive for B.A, B.Sc, B.Com, and MA scores from the 2021 session."; 
 $meta_keywords = "mjpru result 2021, rohilkhand university result 2021, mjpru ba result 2021, mjpru private result 2021, mjpru exam portal archives"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MJPRU Result 2021 - Mahatma Jyotiba Phule Rohilkhand University Archives</div>
+    <h2 class='sr-title'>MJPRU Result 2021 - Mahatma Jyotiba Phule Rohilkhand University Archives</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MJPRU Result 2021 - Mahatma Jyotiba Phule Rohilkhand University Archives"; 
+$meta_description = "Retrieve your MJPRU Result 2021 online. Access the Mahatma Jyotiba Phule Rohilkhand University archive for B.A, B.Sc, B.Com, and MA scores from the 2021 session."; 
+$meta_keywords = "mjpru result 2021, rohilkhand university result 2021, mjpru ba result 2021, mjpru private result 2021, mjpru exam portal archives"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MJPRU Result 2021 - Mahatma Jyotiba Phule Rohilkhand University Archives";
+$meta_description = "Retrieve your MJPRU Result 2021 online. Access the Mahatma Jyotiba Phule Rohilkhand University archive for B.A, B.Sc, B.Com, and MA scores from the 2021 session.";
+$meta_keywords = "mjpru result 2021, rohilkhand university result 2021, mjpru ba result 2021, mjpru private result 2021, mjpru exam portal archives";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MJPRU Result 2021: Accessing the Historical Records of Rohilkhand University</h1>
+        
         
         <p>The "MJPRU Result 2021" represents a critical academic repository for thousands of students of the Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly. In the dynamic world of professional recruitment and higher education, the results from the 2021 academic year remain vital for degree verification, postgraduate enrollment, and employment background checks. During the 2021 session, which was marked by significant transitions in the examination schedule, MJPRU successfully conducted and declared results for a massive range of undergraduate (UG) and postgraduate (PG) courses, including B.A, B.Sc, B.Com, M.A, and M.Sc. "MJPRU Result 2021" is the digital key that allows the alumni of the Rohilkhand region to confirm their success during this pivotal year. At Univindia.online, we specialize in providing you with a technical, SEO-optimized guide that simplifies the process of digging through the "MJPRU Result 2021" archives, ensuring that every 2021 candidate can retrieve their marks with professional precision.</p>
 
@@ -45,10 +67,9 @@ $meta_keywords = "mjpru result 2021, rohilkhand university result 2021, mjpru ba
                 <a href="https://mjpruiums.in/(S(m0vzqc45a3a3a3a3a3a3a3a3))/Results.aspx" class="btn" title="Direct Exam Portal Link" target="_blank">MJPRU IUMS Results</a>
                 <a href="https://mjpru.ac.in/Examination.aspx" class="btn" title="View MJPRU Exam Notifications" target="_blank">Exam Notifications</a>
                 <a href="https://mjpru.ac.in/University-Contact.aspx" class="btn" title="Contact MJPRU for Verification" target="_blank">Contact University</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About MJPRU Result 2021</h2>
@@ -61,7 +82,15 @@ $meta_keywords = "mjpru result 2021, rohilkhand university result 2021, mjpru ba
         <br>
         <strong>3. Is the MJPRU 2021 degree available for download online?</strong>
         <p>The "MJPRU Result 2021" portal provides the marksheet. For the full degree certificate, you should check the DigiLocker platform, where MJPRU has been progressively uploading verified 2021 certificates for students.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "results. com - Official National Academic Results News & Portal Hub"; 
 $meta_description = "Check results. com for all board and university exams. Access the official result declaration gateway, news updates, and archival scores nationwide on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; results. com - Official National Academic Results News & Portal Hub</div>
+    <h2 class='sr-title'>results. com - Official National Academic Results News & Portal Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "results. com - Official National Academic Results News & Portal Hub"; 
+$meta_description = "Check results. com for all board and university exams. Access the official result declaration gateway, news updates, and archival scores nationwide on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your primary destination for global and national examination results.
                 Access latest scorecards for 10th/12th state boards, university semester exams, and professional
                 entrance tests updated for the latest academic session.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Results Portal</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway for UG/PG degree results, professional courses, and semester-wise examination
                         status search.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -85,8 +96,7 @@ $meta_keywords = "";
                     latest batches. Having a verified digital result from the <strong>results. com</strong> gateway is
                     essential for students to complete their academic verification and proof of educational achievement
                     during university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -99,27 +109,29 @@ $meta_keywords = "";
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards and universities, ensuring all result data mirrors the official board servers
                             directly.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check results by name search on this hub?</button>
                     <div class="faq-answer">
                         <p>Yes, for participating boards and universities, the <strong>results. com</strong> portal
                             includes a dedicated name-wise search for student ease during results declaration cycles.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital marksheet valid for job verification?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>results. com</strong> hub is a valid
                             provisional document accepted for initial university registration and background
                             verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

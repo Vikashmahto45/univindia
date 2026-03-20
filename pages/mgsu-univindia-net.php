@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MGSU Univindia Net Portal - Bikaner University Student Dashboard"; 
 $meta_description = "Access the MGSU Univindia Net portal for Bikaner University. Official guide to navigating Maharaja Ganga Singh University exams, results, and student panels."; 
 $meta_keywords = "mgsu univindia.net"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MGSU Univindia Net Portal - Bikaner University Student Dashboard</div>
+    <h2 class='sr-title'>MGSU Univindia Net Portal - Bikaner University Student Dashboard</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MGSU Univindia Net Portal - Bikaner University Student Dashboard"; 
+$meta_description = "Access the MGSU Univindia Net portal for Bikaner University. Official guide to navigating Maharaja Ganga Singh University exams, results, and student panels."; 
+$meta_keywords = "mgsu univindia.net"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "MGSU Univindia Net Portal - Bikaner University Student Dashboard";
+$meta_description = "Access the MGSU Univindia Net portal for Bikaner University. Official guide to navigating Maharaja Ganga Singh University exams, results, and student panels.";
+$meta_keywords = "mgsu univindia.net";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>MGSU Univindia Net Portal: Your Definitive Digital Gateway to Bikaner University</h1>
+        
         
         <p>The term "MGSU Univindia Net Portal" refers to the core digital infrastructure utilized by the Maharaja Ganga Singh University (MGSU), Bikaner, to manage its comprehensive examination system, student registrations, and result declarations. For hundreds of thousands of undergraduate and postgraduate students across Northern Rajasthan—including the districts of Bikaner, Churu, Sriganganagar, and Hanumangarh—the `univindia.net` network is the definitive landing zone for all academic administrative tasks. Whether you are a fresh enrollee filling out an examination form or a final-year student awaiting your graduation result, the MGSU Univindia Net Portal provides the organized, high-performance interface required to manage your university lifecycle. In this comprehensive guide, we will provide a detailed walkthrough of the portal's structure, explain how to navigate its various functionally distinct panels, and offer expert advice on ensuring a seamless and secure digital experience at Bikaner University.</p>
 
@@ -49,6 +71,15 @@ $meta_keywords = "mgsu univindia.net";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official MGSU Bikaner website at univindia.net.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

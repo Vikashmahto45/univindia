@@ -9,7 +9,26 @@ $meta_keywords = "ctet admit card 2024 download, ctet nic in admit card login, c
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CTET Admit Card 2024 Download - Central Teacher Elidgibility Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CTET Admit Card 2024 Download - Central Teacher Elidgibility Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CTET Admit Card 2024 Download - Central Teacher Elidgibility Test Hall Ticket | Univindia.online"; 
+$meta_description = "Download CTET Admit Card 2024. Get the direct link for CBSE CTET 2024 (January/July) examination hall tickets at ctet.nic.in."; 
+$meta_keywords = "ctet admit card 2024 download, ctet nic in admit card login, cbse ctet hall ticket 2024, ctet exam date 2024 download, central teacher eligibility test call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CTET Admit Card 2024 Download - Central Teacher Elidgibility Test Hall Ticket | Univindia.online";
+$meta_description = "Download CTET Admit Card 2024. Get the direct link for CBSE CTET 2024 (January/July) examination hall tickets at ctet.nic.in.";
+$meta_keywords = "ctet admit card 2024 download, ctet nic in admit card login, cbse ctet hall ticket 2024, ctet exam date 2024 download, central teacher eligibility test call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CTET Admit Card 2024: Download Central Teacher Eligibility Test Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "ctet admit card 2024 download, ctet nic in admit card login, c
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Teacher Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

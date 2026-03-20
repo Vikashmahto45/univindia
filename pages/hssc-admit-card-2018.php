@@ -9,7 +9,26 @@ $meta_keywords = "hssc admit card 2018 download, haryana staff selection commiss
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online</div>
     <h2 class='sr-title'>HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online"; 
+$meta_description = "Download HSSC Admit Card 2018. Get the direct link for Haryana Police, Group D, and Clerk recruitment 2018 hall tickets at hssc.gov.in."; 
+$meta_keywords = "hssc admit card 2018 download, haryana staff selection commission hall ticket download, hssc.gov.in login 2018, hssc group d 2018 exam date, haryana call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online";
+$meta_description = "Download HSSC Admit Card 2018. Get the direct link for Haryana Police, Group D, and Clerk recruitment 2018 hall tickets at hssc.gov.in.";
+$meta_keywords = "hssc admit card 2018 download, haryana staff selection commission hall ticket download, hssc.gov.in login 2018, hssc group d 2018 exam date, haryana call letter";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">HSSC Admit Card 2018: Download Haryana Staff Selection Commission Hall Ticket</h2>
         
@@ -92,9 +111,14 @@ $meta_keywords = "hssc admit card 2018 download, haryana staff selection commiss
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Haryana Jobs</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/header.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

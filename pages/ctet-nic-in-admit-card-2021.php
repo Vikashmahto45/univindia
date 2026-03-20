@@ -9,7 +9,26 @@ $meta_keywords = "ctet.nic.in admit card 2021, cbse teacher hall ticket download
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CTET.nic.in Admit Card 2021 Download - CBSE Teacher Entrance Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CTET.nic.in Admit Card 2021 Download - CBSE Teacher Entrance Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <div class="container main-content">
+        <?php 
+include '../header.php'; 
+$page_title = "CTET.nic.in Admit Card 2021 Download - CBSE Teacher Entrance Hall Ticket | Univindia.online"; 
+$meta_description = "Download CTET.nic.in Admit Card 2021. Get the direct link for CBSE Central Teacher Eligibility Test January and December 2021 session hall tickets at ctet.nic.in."; 
+$meta_keywords = "ctet.nic.in admit card 2021, cbse teacher hall ticket download, ctet january 2021 admit card, ctet december 2021 hall ticket, teacher eligibility test link"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "CTET.nic.in Admit Card 2021 Download - CBSE Teacher Entrance Hall Ticket | Univindia.online";
+$meta_description = "Download CTET.nic.in Admit Card 2021. Get the direct link for CBSE Central Teacher Eligibility Test January and December 2021 session hall tickets at ctet.nic.in.";
+$meta_keywords = "ctet.nic.in admit card 2021, cbse teacher hall ticket download, ctet january 2021 admit card, ctet december 2021 hall ticket, teacher eligibility test link";
+include '../includes/header.php';
+?>
+
+<div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CTET.nic.in Admit Card 2021: Download CBSE Teacher Entrance Hall Ticket</h2>
         
@@ -95,9 +114,14 @@ $meta_keywords = "ctet.nic.in admit card 2021, cbse teacher hall ticket download
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check CTET Results</a>
-        </div>
-    </div>
+        
 </div>
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

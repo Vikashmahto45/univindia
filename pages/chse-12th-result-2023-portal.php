@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; chse 12th result 2023 - Official Odisha Higher Secondary Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>chse 12th result 2023 - Official Odisha Higher Secondary Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "chse 12th result 2023 - Official Odisha Higher Secondary Archive"; 
+$meta_description = "Check chse 12th result 2023 for Arts, Science, and Commerce streams. Access the official 2023 Odisha +2 result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify Odisha 2023 CHSE results by student name alternative.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +83,7 @@ $meta_keywords = "";
                     various undergraduate programs and professional certifications. Having a verified digital result
                     from the <strong>chse 12th result 2023</strong> hub is essential for students to complete their
                     certificate verification and proof of senior secondary education during college registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,28 +96,27 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>chse 12th result 2023</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Odisha +2 result 2023 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>chse 12th result 2023</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated "Search by Name" feature for all major +2
                             exam streams in Odisha.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the 2023 digital marksheet valid for degree admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>chse 12th result 2023</strong> hub is a valid
                             provisional document accepted for initial university registration and document verification
                             in Odisha.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

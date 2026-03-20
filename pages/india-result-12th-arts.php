@@ -7,9 +7,27 @@ $meta_keywords = "india result 12th arts, check rajasthan board 12th arts result
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 12th Arts - Official National Board Mirror</div>
-    <h2 class='sr-title'>India Result 12th Arts: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Central Board of Secondary Education (CBSE), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 12th Arts - Official National Board Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 12th Arts - Official National Board Mirror"; 
+$meta_description = "Check India Result 12th Arts online. Access the historical Rajasthan, Punjab, and All-India State Board Senior Secondary Arts results via the official mirror."; 
+$meta_keywords = "india result 12th arts, check rajasthan board 12th arts result online, check punjab board 12th arts result, official 12th arts result link, indiaresults 12th arts"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 12th Arts - Official National Board Mirror";
+$meta_description = "Check India Result 12th Arts online. Access the historical Rajasthan, Punjab, and All-India State Board Senior Secondary Arts results via the official mirror.";
+$meta_keywords = "india result 12th arts, check rajasthan board 12th arts result online, check punjab board 12th arts result, official 12th arts result link, indiaresults 12th arts";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 12th arts, check rajasthan board 12th arts result
                 <a href="http://rajresults.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Rajasthan Results" target="_blank">Access Rajasthan Arts</a>
                 <a href="http://pseb.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Punjab Board Link" target="_blank">Access Punjab Arts</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 12th Arts Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 12th arts, check rajasthan board 12th arts result
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 12th Arts data, please visit the respective Board headquarters or your School/College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 12th Arts Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 12th arts, check rajasthan board 12th arts result
         <br>
         <strong>3. Is the result from India Result 12th Arts valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result 12th Arts" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "mjpru result 2021 by name - Official University Mirror"; 
 $meta_description = "Check mjpru result 2021 by name online. Access the historical results for M.J.P. Rohilkhand University, Bareilly without roll number."; 
 $meta_keywords = "mjpru result 2021 by name, check mjp university result 2021 online, official rohilkhand university name wise search, mjpru bareilly name results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; mjpru result 2021 by name - Official University Mirror</div>
+    <h2 class='sr-title'>mjpru result 2021 by name - Official University Mirror</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "mjpru result 2021 by name - Official University Mirror"; 
+$meta_description = "Check mjpru result 2021 by name online. Access the historical results for M.J.P. Rohilkhand University, Bareilly without roll number."; 
+$meta_keywords = "mjpru result 2021 by name, check mjp university result 2021 online, official rohilkhand university name wise search, mjpru bareilly name results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "mjpru result 2021 by name - Official University Mirror";
+$meta_description = "Check mjpru result 2021 by name online. Access the historical results for M.J.P. Rohilkhand University, Bareilly without roll number.";
+$meta_keywords = "mjpru result 2021 by name, check mjp university result 2021 online, official rohilkhand university name wise search, mjpru bareilly name results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>mjpru result 2021 by name: Your Comprehensive Navigator to Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly, University Senates, Recruitment Commissions, and Uttar Pradesh State Board Result Gateways (Government of Uttar Pradesh, Higher Education Department, and National Informatics Centre (NIC) UP State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "mjpru result 2021 by name" (representing the primary synchronized digital result-dissemination framework utilized by thousands of students for the annual university exams conducted during the historical 2020-2021 academic session by the MJPRU Bareilly) represents a significant digital milestone for students residing in the academic and industrial landscape of Uttar Pradesh. As the primary official gateway to the university's historical 2021 educational infrastructure (Bareilly HQ), and the traditional university infrastructure of the nation, the "mjpru result 2021 by name" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like UP IndiaResults. For the 2021 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across Rohilkhand region, the "mjpru result 2021 by name" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The university councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2021 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "mjpru result 2021 by name," ensuring that every student and researcher in Uttar Pradesh can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "mjpru result 2021 by name, check mjp university result 2021 on
                 <a href="https://www.mjpru.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official MJPRU" target="_blank">Access MJPRU Official</a>
                 <a href="http://mjpru.online" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official Exam Portal" target="_blank">Access Exam Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official mjpru result 2021 by name Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2021 records of your university even without a roll number, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "mjpru result 2021 by name, check mjp university result 2021 on
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to mjpru result 2021 by name data, please visit the university headquarters in Bareilly or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About MJPRU 2021 Name-wise Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "mjpru result 2021 by name, check mjp university result 2021 on
         <br>
         <strong>3. Is the result from the MJPRU official portal valid for scholarships?</strong>
         <p>Yes, your university results (verified via the official "mjpru result 2021 by name" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

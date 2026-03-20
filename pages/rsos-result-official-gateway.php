@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rsos result - Official Rajasthan State Open School Gateway"; 
 $meta_description = "Check rsos result for Rajasthan State Open School 10th and 12th exams. Access the official RSOS Jaipur result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rsos result - Official Rajasthan State Open School Gateway</div>
+    <h2 class='sr-title'>rsos result - Official Rajasthan State Open School Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rsos result - Official Rajasthan State Open School Gateway"; 
+$meta_description = "Check rsos result for Rajasthan State Open School 10th and 12th exams. Access the official RSOS Jaipur result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized destination for the Rajasthan State Open School (RSOS)
                 results for Class 10th and 12th. Official RSOS Jaipur mirrors and portal links updated for the latest
                 academic batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check RSOS Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +48,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify RSOS 10th and 12th results by student name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -80,8 +91,7 @@ $meta_keywords = "";
                     (Tutor Marked Assignment) marks and practical evaluation. Having a verified digital result from the
                     <strong>rsos result</strong> hub is essential for students to complete their academic verification
                     and proof of performance during university registration and registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -94,26 +104,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>rsos result</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated "Search by Name" feature for candidates participating in the RSOS 10th and 12th
                             exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the RSOS results official and valid for admission?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for RSOS
                             Jaipur. The results are mirrored directly from official databases and are valid for all
                             academic/job purposes.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed to check rsos result?</button>
                     <div class="faq-answer">
                         <p>You can check the <strong>rsos result</strong> using your Enrollment Number. If you don't
                             have it, you can use the name-wise search option on the portal.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

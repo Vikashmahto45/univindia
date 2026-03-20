@@ -7,9 +7,27 @@ $meta_keywords = "cbse result 2025 link, cbseresults nic in 2025, check cbse cla
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; cbse result 2025 link - Central Board Official Hub</div>
-    <h2 class='sr-title'>cbse result 2025 link: Your Authoritative Navigator to Central Board of Secondary Education (CBSE), Senior Secondary Examinations (Classes 10 & 12), and National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <h2 class='sr-title'>cbse result 2025 link - Central Board Official Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "cbse result 2025 link - Central Board Official Hub"; 
+$meta_description = "Check cbse result 2025 online for Class 10 and 12. Access the official CBSE results link for the 2025 academic session."; 
+$meta_keywords = "cbse result 2025 link, cbseresults nic in 2025, check cbse class 10 result 2025, cbse class 12 result link"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "cbse result 2025 link - Central Board Official Hub";
+$meta_description = "Check cbse result 2025 online for Class 10 and 12. Access the official CBSE results link for the 2025 academic session.";
+$meta_keywords = "cbse result 2025 link, cbseresults nic in 2025, check cbse class 10 result 2025, cbse class 12 result link";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "cbse result 2025 link, cbseresults nic in 2025, check cbse cla
                 <a href="https://cbse.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE Official Portal" target="_blank">Visit CBSE Official</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Result Portal" target="_blank">Access National Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital DigiLocker</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official cbse result 2025 link Online</h2>
         <p>To ensure a successful result search in the official 2025 records, follow these technical steps:</p>
@@ -50,7 +67,7 @@ $meta_keywords = "cbse result 2025 link, cbseresults nic in 2025, check cbse cla
 
         <p><i>Note: Univindia.online is an educational news portal. For original degree certificates, migration letters, and final database changes related to cbse result 2025 data, please visit the CBSE regional offices or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CBSE 2025 Results</h2>
@@ -63,8 +80,13 @@ $meta_keywords = "cbse result 2025 link, cbseresults nic in 2025, check cbse cla
         <br>
         <strong>3. Is the digital marksheet from the CBSE portal valid for JEE/NEET counseling?</strong>
         <p>Yes, your digital results (verified via the official "cbse result 2025 link" portal and DigiLocker) are synchronized with the national testing agency for professional counseling.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

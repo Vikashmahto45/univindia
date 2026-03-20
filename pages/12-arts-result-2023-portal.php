@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12 arts result 2023 - Official National Result Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12 arts result 2023 - Official National Result Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12 arts result 2023 - Official National Result Portal"; 
+$meta_description = "Check 12 arts result 2023 for all state boards including RBSE, UP, and more. Access the official 2023 Senior Secondary Arts result hub on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse 2023 Arts Results</a>
                 <a href="#faq" class="btn btn-secondary">System Info</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Name-wise result retrieval for all 2023 arts exams.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +84,7 @@ $meta_keywords = "";
                     percentages and detailed scoring in subjects like Geography and Political Science. Having a verified
                     digital result from the <strong>12 arts result 2023</strong> hub is essential for students to
                     complete their university registration and scholarship applications efficiently.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,26 +97,25 @@ $meta_keywords = "";
                         <p>Yes, the <strong>12 arts result 2023</strong> portal on <strong>indiaresults</strong>
                             includes full name-wise search support for all 12th-grade Arts candidates of various boards.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2023 Arts results still official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. All major board results covered under <strong>12 arts result 2023</strong> are
                             mirrored from official databases, making them 100% authentic for provisional use.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 result valid for BA admission?</button>
                     <div class="faq-answer">
                         <p>The digital copy from <strong>12 arts result 2023</strong> is a valid provisional document
                             accepted for initial college and university registration processes nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

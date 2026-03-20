@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rajasthan board 12th result 2023 science - Official Rajasthan 2023 Archive"; 
 $meta_description = "Check Rajasthan Board 12th Science result 2023 on rajasthan board 12th result 2023 science. Access official RBSE Sr. Secondary Science archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan board 12th result 2023 science - Official Rajasthan 2023 Archive</div>
+    <h2 class='sr-title'>rajasthan board 12th result 2023 science - Official Rajasthan 2023 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rajasthan board 12th result 2023 science - Official Rajasthan 2023 Archive"; 
+$meta_description = "Check Rajasthan Board 12th Science result 2023 on rajasthan board 12th result 2023 science. Access official RBSE Sr. Secondary Science archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 12th (Senior Secondary) Science stream. Official RBSE mirrors and
                 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Science Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Rajasthan Board (rajeduboard.rajasthan.gov.in) results 2023 by student name alternative
                         criteria for the 2023 Science academic examination batch.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +100,7 @@ $meta_keywords = "";
                     <strong>rajasthan board 12th result 2023 science</strong> archive hub is essential for students to
                     complete their academic verification and proof of educational attainment even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,8 +112,7 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>rajasthan board 12th result 2023 science</strong> are
                             permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2023 Rajasthan 12th Science results by name
                         online?</button>
@@ -111,8 +120,7 @@ $meta_keywords = "";
                         <p>Absolutely. The <strong>rajasthan board 12th result 2023 science</strong> portal includes a
                             dedicated name-wise search for science student examinees in Rajasthan for the 2023 session.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 RBSE science marksheet valid for B.Tech
                         admission?</button>
@@ -120,11 +128,15 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>rajasthan board 12th result 2023
                                 science</strong> gateway is a valid provisional document accepted for initial
                             engineering university registration and verification across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "inter result 2024 - Official National Intermediate Gateway Hub"; 
 $meta_description = "Check inter result 2024 for all state and central boards. Access the official 2024 Intermediate result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter result 2024 - Official National Intermediate Gateway Hub</div>
+    <h2 class='sr-title'>inter result 2024 - Official National Intermediate Gateway Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "inter result 2024 - Official National Intermediate Gateway Hub"; 
+$meta_description = "Check inter result 2024 for all state and central boards. Access the official 2024 Intermediate result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized hub for every Intermediate result in India for the 2024
                 session. Official state board and central mirrors updated in real-time.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 Results</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Verify 2024 Inter results using student name or roll number alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +88,7 @@ $meta_keywords = "";
                     internal assessment and practical marks. Having a verified digital result from the <strong>inter
                         result 2024</strong> hub is essential for students to complete their certificate verification
                     and proof of senior secondary completion during university registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,26 +100,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>The <strong>inter result 2024</strong> hub covers Intermediate/Class 12th results for almost
                             every state board and national board across India for the 2024 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2024 results official for university admission?</button>
                     <div class="faq-answer">
                         <p>Absolutely. All results under <strong>inter result 2024</strong> on
                             <strong>indiaresults.com</strong> are mirrored directly from official board databases,
                             ensuring 100% accuracy and authenticity.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check result by name for any 2024 exam?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>inter result 2024</strong> portal includes a name-wise search for most major
                             board results across different Indian states for the 2024 batch.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

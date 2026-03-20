@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in</div>
+    <h2 class='sr-title'>JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in";
+$page_description = "Download NTA JEE Main Admit Card 2025 for Session 1 & 2. Get direct download link, shift timings, and important exam day instructions. 800+ words of detailed content.";
+$page_keywords = "JEE Main Admit Card 2025, NTA JEE Main Hall Ticket, Download JEE Main Call Letter, JEE Main Session 1 Admit Card Date, jeemain.nta.nic.in hall ticket";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">JEE Main Admit Card 2025: Session-wise Hall Ticket & Shift Info</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-info-circle me-2"></i> <strong>Official Update:</strong> The National Testing Agency (NTA) activates the JEE Main Admit Card link separately for B.E./B.Tech and B.Arch/B.Planning papers. Check your specific shift and venue details on the e-call letter.
@@ -88,22 +111,19 @@ $meta_keywords = "";
                             <i class="fas fa-file-pdf fa-2x text-info mb-2"></i>
                             <h6 class="text-white">Printed Admit Card</h6>
                             <p class="small text-light-gray">All pages of the PDF are mandatory.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 text-center h-100">
                             <i class="fas fa-id-card fa-2x text-info mb-2"></i>
                             <h6 class="text-white">Valid Original ID</h6>
                             <p class="small text-light-gray">Aadhar, PAN, Voter ID, or Passport.</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-4">
                         <div class="p-3 bg-dark border border-secondary rounded-4 text-center h-100">
                             <i class="fas fa-image fa-2x text-info mb-2"></i>
                             <h6 class="text-white">Additional Photo</h6>
                             <p class="small text-light-gray">For the attendance sheet record.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">JEE Main FAQ - Common Queries</h2>
@@ -117,8 +137,7 @@ $meta_keywords = "";
                         <div id="jmQ1" class="accordion-collapse collapse" data-bs-parent="#jeeMainFaq">
                             <div class="accordion-body text-light-gray">
                                 You can use the 'Forgot Application Number' link on the login page. Enter your name, father's name, mother's name, and date of birth to retrieve it via email or SMS.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -129,10 +148,8 @@ $meta_keywords = "";
                         <div id="jmQ2" class="accordion-collapse collapse" data-bs-parent="#jeeMainFaq">
                             <div class="accordion-body text-light-gray">
                                 No, there is no requirement for a gazetted officer's signature on the JEE Main e-admit card. Only student and parent signatures are needed in the undertaking section.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Relevant Portals</h5>
@@ -140,14 +157,14 @@ $meta_keywords = "";
                         <a href="jee-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">JEE Main Primary Page</a>
                         <a href="bitsat-admit-card.php" class="btn btn-outline-info rounded-pill px-4 btn-sm">BITSAT Admit Card</a>
                         <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-edit me-2"></i> Other Entrance Exams</h3>
                 <div class="row g-3">
+                    <?php
                     $others = [
                         'cuet-admit-card-2024.php' => 'CUET UG Admit Card',
                         'neet-admit-card-2024.php' => 'NEET UG Call Letter',
@@ -161,11 +178,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -195,3 +211,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

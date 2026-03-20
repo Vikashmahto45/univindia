@@ -7,9 +7,27 @@ $meta_keywords = "indian college result, check college result online india, offi
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian college result - Official University Mirror Hub</div>
-    <h2 class='sr-title'>indian college result: Your Comprehensive Navigator to National University Senates, Autonomous College Councils, and All-India Higher Education Result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC) National HUB) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>indian college result - Official University Mirror Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "indian college result - Official University Mirror Hub"; 
+$meta_description = "Check indian college result online. Access the results for all major colleges and universities across India. Centralized gateway for degree scores."; 
+$meta_keywords = "indian college result, check college result online india, official degree result hub, university result portal, college marksheet search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "indian college result - Official University Mirror Hub";
+$meta_description = "Check indian college result online. Access the results for all major colleges and universities across India. Centralized gateway for degree scores.";
+$meta_keywords = "indian college result, check college result online india, official degree result hub, university result portal, college marksheet search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "indian college result, check college result online india, offi
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="NIC National HUB" target="_blank">Access National HUB</a>
                 <a href="https://www.exametc.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Verify on Exametc" target="_blank">Access Exametc Mirror</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official indian college result Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your college or university, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "indian college result, check college result online india, offi
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to indian college result data, please visit your university headquarters or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About Indian College Hub</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "indian college result, check college result online india, offi
         <br>
         <strong>3. Is the result from mirror portals valid for higher studies?</strong>
         <p>Yes, but it serves as an initial reference. For all legal and admission purposes, you must verify the result via the official University portal or original Marksheet.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

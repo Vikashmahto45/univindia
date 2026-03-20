@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha result com - Official BSE and CHSE Result Hub"; 
 $meta_description = "Check odisha result com for BSE Odisha 10th and CHSE Odisha 12th results. Access the official Odisha result portal on indiaresults for fast checking by name and roll number."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha result com - Official BSE and CHSE Result Hub</div>
+    <h2 class='sr-title'>odisha result com - Official BSE and CHSE Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha result com - Official BSE and CHSE Result Hub"; 
+$meta_description = "Check odisha result com for BSE Odisha 10th and CHSE Odisha 12th results. Access the official Odisha result portal on indiaresults for fast checking by name and roll number."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the official Odisha Board results for Matric and Higher Secondary
                 examinations. High-speed mirrors updated.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Odisha Result</a>
                 <a href="#faq" class="btn btn-secondary">System Help</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Find Odisha Board results using candidate names.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -75,8 +86,7 @@ $meta_keywords = "";
                     speed and transparency. Having a verified digital result from the <strong>odisha result com</strong>
                     portal is a critical step for SAMS Odisha admission processes and other higher education
                     registrations.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -89,26 +99,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>odisha result com</strong> section on <strong>indiaresults</strong> is
                             well-known for its name-wise search tool, making it easy for students and parents to find
                             results without a roll number.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What is the difference between BSE and CHSE in Odisha?</button>
                     <div class="faq-answer">
                         <p>In the <strong>odisha result com</strong> system, BSE (Board of Secondary Education) handles
                             Class 10th results, while CHSE (Council of Higher Secondary Education) handles Class 12th
                             (+2) results.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the online result from odisha result com official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The data provided on <strong>odisha result com</strong> is mirrored directly from
                             official board databases, ensuring 100% authenticity for provisional use.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

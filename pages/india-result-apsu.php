@@ -7,9 +7,27 @@ $meta_keywords = "india result apsu, check apsu rewa results 2024 online, offici
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result apsu - Official APSU Rewa Mirror</div>
-    <h2 class='sr-title'>india result apsu: Your Comprehensive Navigator to Awadhesh Pratap Singh University (APSU), Rewa, University Public Examinations (UG/PG), and Madhya Pradesh State Board Result Gateways (Government of Madhya Pradesh, Higher Education Department, and National Informatics Centre (NIC) MP State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>india result apsu - Official APSU Rewa Mirror</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "india result apsu - Official APSU Rewa Mirror"; 
+$meta_description = "Check india result apsu online. Access the results for Awadhesh Pratap Singh University (APSU) Rewa for BA, BSc, BCom, and MA for the 2024 session."; 
+$meta_keywords = "india result apsu, check apsu rewa results 2024 online, official apsu mirror link, apsu university results portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "india result apsu - Official APSU Rewa Mirror";
+$meta_description = "Check india result apsu online. Access the results for Awadhesh Pratap Singh University (APSU) Rewa for BA, BSc, BCom, and MA for the 2024 session.";
+$meta_keywords = "india result apsu, check apsu rewa results 2024 online, official apsu mirror link, apsu university results portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result apsu, check apsu rewa results 2024 online, offici
                 <a href="https://madhya-pradesh.indiaresults.com/apsu/" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="APSU Results Mirror" target="_blank">Access APSU Mirror</a>
                 <a href="https://www.mp.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="MP Govt Portal" target="_blank">Visit MP Govt HUB</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official india result apsu Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2024 records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result apsu, check apsu rewa results 2024 online, offici
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to india result apsu data, please visit the APSU headquarters in Rewa or your Department Head.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About APSU IndiaResults Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result apsu, check apsu rewa results 2024 online, offici
         <br>
         <strong>3. Is the result from APSU IndiaResults valid for jobs?</strong>
         <p>Yes, your university results (verified via the official "india result apsu" portal) are recorded in the university database and serve as primary data for employment verification.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

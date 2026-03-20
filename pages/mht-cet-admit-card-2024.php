@@ -1,11 +1,26 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "MHT CET Admit Card 2024: Download PCM & PCB Hall Ticket @mahacet.org"; 
 $meta_description = "Download MHT CET Admit Card 2024 for PCM and PCB groups. Get direct link for Maharashtra CET Hall Ticket download, exam date and candidate instructions."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MHT CET Admit Card 2024: Download PCM & PCB Hall Ticket @mahacet.org</div>
+    <h2 class='sr-title'>MHT CET Admit Card 2024: Download PCM & PCB Hall Ticket @mahacet.org</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "MHT CET Admit Card 2024: Download PCM & PCB Hall Ticket @mahacet.org"; 
+$meta_description = "Download MHT CET Admit Card 2024 for PCM and PCB groups. Get direct link for Maharashtra CET Hall Ticket download, exam date and candidate instructions."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +32,7 @@ $meta_keywords = "";
 
             <div class="card shadow border-0 mb-4 rounded-4 overflow-hidden">
                 <div class="card-header bg-dark text-white p-4">
-                    <h1 class="h3 fw-bold mb-0">MHT CET Admit Card 2024 (Maharashtra CET)</h1>
+                    
                 </div>
                 <div class="card-body p-4">
                     <p class="lead">The State Common Entrance Test Cell, Maharashtra, is the nodal agency for conducting the MHT CET 2024 for admissions to Engineering, Agriculture, and Pharmacy courses. The MHT CET Admit Card is the mandatory digital pass for candidates appearing in the Computer Based Test (CBT) for both PCM (Physics, Chemistry, Maths) and PCB (Physics, Chemistry, Biology) groups.</p>
@@ -78,20 +93,17 @@ $meta_keywords = "";
                             <div class="p-3 border rounded shadow-sm text-center">
                                 <h6 class="fw-bold">Admit Card</h6>
                                 <p class="small mb-0">Original physical printout of MHT CET Hall Ticket.</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-4">
                             <div class="p-3 border rounded shadow-sm text-center">
                                 <h6 class="fw-bold">Valid ID Proof</h6>
                                 <p class="small mb-0">Aadhar Card, PAN Card, or Passport (Original).</p>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-4">
                             <div class="p-3 border rounded shadow-sm text-center">
                                 <h6 class="fw-bold">Photograph</h6>
                                 <p class="small mb-0">Recent passport size photo if not clear on card.</p>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark">Important CBT Exam Instructions</h2>
@@ -110,14 +122,18 @@ $meta_keywords = "";
                         <div class="border-top border-secondary pt-2">
                             <h6 class="fw-bold text-warning">3. The website is not loading. How to download?</h6>
                             <p class="small">During peak hours, mahacet.org may experience high traffic. Try downloading late at night or early morning.</p>
-                        </div>
-                    </div>
+                        
 
                     <p class="mt-5 text-center text-muted small fst-italic">This is a public information resource. For official portal services, please visit <strong>www.mahacet.org</strong>.</p>
-                </div>
-            </div>
-        </div>
+                
+        
+
+</div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

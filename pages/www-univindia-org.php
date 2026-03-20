@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Www Univindia Org - Raj Rishi Bhartrihari Matsya University Result Hub"; 
 $meta_description = "Www Univindia Org is the official digital portal for RRBMU Alwar results and admit cards. Complete guide to using Www Univindia Org for Matsya University students."; 
 $meta_keywords = "www univindia org"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Www Univindia Org - Raj Rishi Bhartrihari Matsya University Result Hub</div>
+    <h2 class='sr-title'>Www Univindia Org - Raj Rishi Bhartrihari Matsya University Result Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Www Univindia Org - Raj Rishi Bhartrihari Matsya University Result Hub"; 
+$meta_description = "Www Univindia Org is the official digital portal for RRBMU Alwar results and admit cards. Complete guide to using Www Univindia Org for Matsya University students."; 
+$meta_keywords = "www univindia org"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Www Univindia Org - Raj Rishi Bhartrihari Matsya University Result Hub";
+$meta_description = "Www Univindia Org is the official digital portal for RRBMU Alwar results and admit cards. Complete guide to using Www Univindia Org for Matsya University students.";
+$meta_keywords = "www univindia org";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Www Univindia Org: The Ultimate Portal for RRBMU Alwar Students</h1>
+        
         
         <p>Www Univindia Org is the essential web address for thousands of students enrolled at the Raj Rishi Bhartrihari Matsya University (RRBMU), Alwar. Often referred to simply as Matsya University, RRBMU is a leading institution in Eastern Rajasthan, and its digital interface is hosted under the `www.univindia.org` domain. This portal acts as the centralized technical hub for all major academic activities, ranging from initial examination form registration to the final retrieval of results. In this detailed guide, we will walk you through the various features of Www Univindia Org, providing expert tips on how to navigate the portal and manage your academic record with ease.</p>
 
@@ -47,6 +69,15 @@ $meta_keywords = "www univindia org";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and official university news, please always rely on the official Raj Rishi Bhartrihari Matsya University websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

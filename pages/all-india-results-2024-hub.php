@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india results 2024 - Official National Result Gateway Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>all india results 2024 - Official National Result Gateway Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "all india results 2024 - Official National Result Gateway Hub"; 
+$meta_description = "Check all india results 2024 for all board and university exams. Access the official 2024 result portal mirrors on indiaresults for the latest updates across India."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Browse 2024 Results</a>
                 <a href="#faq" class="btn btn-secondary">Global Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Direct Search Tool</h3>
                     <p>Name-wise result retrieval for all 2024 exams.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -77,8 +84,7 @@ $meta_keywords = "";
                     2024 batch gains a unified view of their performance, including subject-wise breakdown, internal
                     marks, and provisional passing certificates that are vital for the next steps in their academic or
                     professional journey.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -91,28 +97,27 @@ $meta_keywords = "";
                         <p>While primarily focused on board and university academic data, the <strong>all india results
                                 2024</strong> portal also provides links to major national-level recruitment results
                             featured on <strong>indiaresults</strong>.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check every state result here?</button>
                     <div class="faq-answer">
                         <p>Yes, the <strong>all india results 2024</strong> gateway includes links for all 28 states and
                             8 union territories, specifically mirroring the databases of their respective boards and
                             universities.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What if the 2024 result is missing for my college?</button>
                     <div class="faq-answer">
                         <p>If your specific <strong>all india results 2024</strong> data is not appearing, it may be due
                             to a delay in data synchronization from the university. We recommend checking the secondary
                             mirrors or waiting for 24 hours.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

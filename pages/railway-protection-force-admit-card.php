@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Railway Protection Force Admit Card Download - RPF Constable & SI Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download Railway Protection Force (RPF) Admit Card. Get the direct link for RPF Constable and Sub-Inspector recruitment examination hall tickets at indianrailways.gov.in."; 
 $meta_keywords = "railway protection force admit card, rpf constable hall ticket download, rpf si admit card download, indian railways rpf recruitment hall ticket, rpf 2024 admit card link"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Railway Protection Force Admit Card Download - RPF Constable & SI Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>Railway Protection Force Admit Card Download - RPF Constable & SI Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Railway Protection Force Admit Card Download - RPF Constable & SI Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download Railway Protection Force (RPF) Admit Card. Get the direct link for RPF Constable and Sub-Inspector recruitment examination hall tickets at indianrailways.gov.in."; 
+$meta_keywords = "railway protection force admit card, rpf constable hall ticket download, rpf si admit card download, indian railways rpf recruitment hall ticket, rpf 2024 admit card link"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "Railway Protection Force Admit Card Download - RPF Constable & SI Hall Ticket Link | Univindia.online";
+$meta_description = "Download Railway Protection Force (RPF) Admit Card. Get the direct link for RPF Constable and Sub-Inspector recruitment examination hall tickets at indianrailways.gov.in.";
+$meta_keywords = "railway protection force admit card, rpf constable hall ticket download, rpf si admit card download, indian railways rpf recruitment hall ticket, rpf 2024 admit card link";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "railway protection force admit card, rpf constable hall ticket
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest RRB Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

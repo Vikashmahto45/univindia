@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online"; 
 $meta_description = "Download SSC.NIC.IN Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD exam hall tickets at ssc.nic.in."; 
 $meta_keywords = "ssc.nic.in admit card 2022, ssc hall ticket 2022 download, ssc.nic.in login admit card, staff selection exam date 2022 download, ssc regional call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online</div>
+    <h2 class='sr-title'>SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online"; 
+$meta_description = "Download SSC.NIC.IN Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD exam hall tickets at ssc.nic.in."; 
+$meta_keywords = "ssc.nic.in admit card 2022, ssc hall ticket 2022 download, ssc.nic.in login admit card, staff selection exam date 2022 download, ssc regional call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online";
+$meta_description = "Download SSC.NIC.IN Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD exam hall tickets at ssc.nic.in.";
+$meta_keywords = "ssc.nic.in admit card 2022, ssc hall ticket 2022 download, ssc.nic.in login admit card, staff selection exam date 2022 download, ssc regional call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -89,8 +112,16 @@ $meta_keywords = "ssc.nic.in admit card 2022, ssc hall ticket 2022 download, ssc
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Govt Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

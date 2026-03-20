@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "orissaresults.nic.in - Official Odisha State Results Portal"; 
 $meta_description = "Check orissaresults.nic.in online. Access the official Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) Odisha results for all sessions."; 
 $meta_keywords = "orissaresults.nic.in, check odisha board results online, official orissa results nic link, odisha matric result portal, chse odisha result search"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; orissaresults.nic.in - Official Odisha State Results Portal</div>
+    <h2 class='sr-title'>orissaresults.nic.in - Official Odisha State Results Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "orissaresults.nic.in - Official Odisha State Results Portal"; 
+$meta_description = "Check orissaresults.nic.in online. Access the official Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) Odisha results for all sessions."; 
+$meta_keywords = "orissaresults.nic.in, check odisha board results online, official orissa results nic link, odisha matric result portal, chse odisha result search"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "orissaresults.nic.in - Official Odisha State Results Portal";
+$meta_description = "Check orissaresults.nic.in online. Access the official Council of Higher Secondary Education (CHSE) and Board of Secondary Education (BSE) Odisha results for all sessions.";
+$meta_keywords = "orissaresults.nic.in, check odisha board results online, official orissa results nic link, odisha matric result portal, chse odisha result search";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>orissaresults.nic.in: Your Comprehensive Navigator to Council of Higher Secondary Education (CHSE), Odisha, Board of Secondary Education (BSE), Odisha, Cuttack/Bhubaneswar, High School and Higher Secondary Certificate Examinations, and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "orissaresults.nic.in" (representing the primary synchronized digital result-dissemination framework utilized by over 10 lakh students for the annual secondary and higher secondary board exams conducted during the academic sessions by the BSE and CHSE Odisha) represents a significant digital milestone for students residing in the academic and industrial landscape of Odisha. As the primary official gateway to the state's educational infrastructure (Bhubaneswar/Cuttack HQ), and the traditional school education infrastructure of the nation, the "orissaresults.nic.in" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Odisha IndiaResults. For the current academic cycle, which marked a definitive record in transparent grading and digital certificate issuance in Odisha, the "orissaresults.nic.in" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the board scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "orissaresults.nic.in," ensuring that every student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -25,8 +47,7 @@ $meta_keywords = "orissaresults.nic.in, check odisha board results online, offic
                 <a href="http://www.bseodisha.ac.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official BSE Odisha Portal" target="_blank">Access BSE Odisha</a>
                 <a href="http://chseodisha.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CHSE Odisha Link" target="_blank">Access CHSE Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official orissaresults.nic.in Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -49,7 +70,7 @@ $meta_keywords = "orissaresults.nic.in, check odisha board results online, offic
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to orissaresults.nic.in data, please visit the BSE/CHSE headquarters or your respective School/College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About orissaresults.nic.in Portal</h2>
@@ -62,7 +83,15 @@ $meta_keywords = "orissaresults.nic.in, check odisha board results online, offic
         <br>
         <strong>3. Is the result from orissaresults.nic.in valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "orissaresults.nic.in" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indian results jkbose - Official Jammu & Kashmir Board Gateway"; 
 $meta_description = "Check indian results jkbose for Class 10th and 12th board results. Access the official JKBOSE result portal on indiaresults for both Jammu and Kashmir divisions."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian results jkbose - Official Jammu & Kashmir Board Gateway</div>
+    <h2 class='sr-title'>indian results jkbose - Official Jammu & Kashmir Board Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "indian results jkbose - Official Jammu & Kashmir Board Gateway"; 
+$meta_description = "Check indian results jkbose for Class 10th and 12th board results. Access the official JKBOSE result portal on indiaresults for both Jammu and Kashmir divisions."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest High School and Higher Secondary results for Jammu &
                 Kashmir. Official JKBOSE mirrors and portal links updated for divisional examinations.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check JK Board Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify Jammu & Kashmir results by student name alternative.</p>
                     <a href="https://jammu-kashmir.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -76,8 +87,7 @@ $meta_keywords = "";
                     breakdown including practical and internal marks. Having a verified digital result from the
                     <strong>indian results jkbose</strong> hub is essential for students to complete their academic
                     verification and proof of performance during university registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -90,27 +100,29 @@ $meta_keywords = "";
                         <p>Yes, the <strong>indian results jkbose</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for major board examinations in both
                             divisions.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for various
                             state boards including JKBOSE, ensuring all result data is mirrored directly from official
                             board databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for college admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>indian results jkbose</strong> hub is a valid
                             provisional document accepted for initial college and university registration processes
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

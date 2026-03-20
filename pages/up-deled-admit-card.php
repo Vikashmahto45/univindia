@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online"; 
 $meta_description = "Download UP DElEd Admit Card 2024 (formerly UP BTC). Get direct links for 1st, 2nd, 3rd, and 4th Semester exams, counseling status, and hall tickets at updeled.gov.in."; 
 $meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.gov.in admit card, up deled semester exam hall ticket, up d.el.ed admit card 2024"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online"; 
+$meta_description = "Download UP DElEd Admit Card 2024 (formerly UP BTC). Get direct links for 1st, 2nd, 3rd, and 4th Semester exams, counseling status, and hall tickets at updeled.gov.in."; 
+$meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.gov.in admit card, up deled semester exam hall ticket, up d.el.ed admit card 2024"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online";
+$meta_description = "Download UP DElEd Admit Card 2024 (formerly UP BTC). Get direct links for 1st, 2nd, 3rd, and 4th Semester exams, counseling status, and hall tickets at updeled.gov.in.";
+$meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.gov.in admit card, up deled semester exam hall ticket, up d.el.ed admit card 2024";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -82,8 +105,16 @@ $meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Univindia Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check Semester Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

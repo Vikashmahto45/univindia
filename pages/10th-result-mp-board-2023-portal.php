@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result mp board 2023 - Official MPBSE Archive Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>10th result mp board 2023 - Official MPBSE Archive Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "10th result mp board 2023 - Official MPBSE Archive Portal"; 
+$meta_description = "Check 10th result mp board 2023 for the High School Certificate examination. Access the official 2023 MP board (MPBSE) result archive on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -39,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify MP 10th 2023 results by student name alternative.</p>
                     <a href="https://madhya-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -78,8 +85,7 @@ $meta_keywords = "";
                     certifications. Having a verified digital result from the <strong>10th result mp board 2023</strong>
                     hub is essential for students to complete their certificate verification and proof of secondary
                     education during career registration processes.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -92,27 +98,26 @@ $meta_keywords = "";
                         <p>Yes, all records under <strong>10th result mp board 2023</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong> and official board digital lockers.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check MP 10th result 2023 by name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>10th result mp board 2023</strong> portal on
                             <strong>indiaresults</strong> includes a dedicated "Search by Name" feature for all 2023
                             High School candidates.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2023 marksheet valid for HS admission?</button>
                     <div class="faq-answer">
                         <p>The <strong>10th result mp board 2023</strong> digital copy is a valid provisional document
                             accepted for initial class 11th registration and document verification nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

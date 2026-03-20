@@ -1,20 +1,34 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rbse 10 result - Official Rajasthan Board Hub"; 
 $meta_description = "Check Rajasthan Board Class 10th result on rbse 10 result. Access official BSER Ajmer 10th scorecards for all academic sessions on indiaresults portal."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 10 result - Official Rajasthan Board Hub</div>
+    <h2 class='sr-title'>rbse 10 result - Official Rajasthan Board Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rbse 10 result - Official Rajasthan Board Hub"; 
+$meta_description = "Check Rajasthan Board Class 10th result on rbse 10 result. Access official BSER Ajmer 10th scorecards for all academic sessions on indiaresults portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 10th (Secondary) examination results for all academic sessions. Access official Rajasthan board mirrors and archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open RBSE 10th Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -32,8 +46,7 @@ $meta_keywords = "";
                     <h3>RBSE Results Directory</h3>
                     <p>Verify RBSE Rajasthan results (rajresults.nic.in) 10th by student roll number or name alternative criteria for various academic batches.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -57,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the Rajasthan (RBSE) Board Gateways</h3>
                 <p>The <strong>rbse 10 result</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in Rajasthan. The system provides a detailed subject-wise breakdown for each batch of student examinees across all districts in Rajasthan. Having a verified digital result from the <strong>rbse 10 result</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -69,23 +81,25 @@ $meta_keywords = "";
                     <button class="faq-question">Are the RBSE 10th result links permanently active?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>rbse 10 result</strong> are archived on verified platforms for lifelong academic verification access in Rajasthan.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check RBSE 10th results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>rbse 10 result</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in Rajasthan.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital RBSE marksheet valid for regular admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>rbse 10 result</strong> gateway is a valid provisional document accepted for initial institutional registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

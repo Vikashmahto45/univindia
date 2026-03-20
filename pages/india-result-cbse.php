@@ -7,9 +7,27 @@ $meta_keywords = "india result cbse, check cbse board result online, cbse 10th r
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result CBSE - Official National Board Portal</div>
-    <h2 class='sr-title'>India Result CBSE: Your Comprehensive Navigator to Central Board of Secondary Education (CBSE), New Delhi, Secondary School Examination (Class 10), Senior School Certificate Examination (Class 12), Matriculation, Intermediate, and National Result Gateways (Ministry of Education, Government of India, and National Informatics Centre (NIC) Headquarters) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result CBSE - Official National Board Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result CBSE - Official National Board Portal"; 
+$meta_description = "Check India Result CBSE online. Access the primary Central Board of Secondary Education (CBSE) 10th and 12th results. Official national result portal link."; 
+$meta_keywords = "india result cbse, check cbse board result online, cbse 10th result link, cbse 12th result link, cbse.nic.in result official"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result CBSE - Official National Board Portal";
+$meta_description = "Check India Result CBSE online. Access the primary Central Board of Secondary Education (CBSE) 10th and 12th results. Official national result portal link.";
+$meta_keywords = "india result cbse, check cbse board result online, cbse 10th result link, cbse 12th result link, cbse.nic.in result official";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result cbse, check cbse board result online, cbse 10th r
                 <a href="https://www.cbse.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Official CBSE Home" target="_blank">Access Board Home</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">Visit National Hub</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Get Digital documents</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result CBSE Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official records of your board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result cbse, check cbse board result online, cbse 10th r
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result CBSE data, please visit the CBSE headquarters in New Delhi or your respective School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result CBSE Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result cbse, check cbse board result online, cbse 10th r
         <br>
         <strong>3. Is the result from India Result CBSE valid for scholarships?</strong>
         <p>Yes, your board results (verified via the official "India Result CBSE" portal) are recorded in the national database and serve as primary data for various merit schemes.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

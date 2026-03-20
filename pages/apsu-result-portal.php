@@ -7,9 +7,27 @@ $meta_keywords = "apsu result, check apsu result online, Awadhesh Pratap Singh U
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; apsu result - Official Awadhesh Pratap Singh University Hub</div>
-    <h2 class='sr-title'>apsu result: Your Unified Navigator to Awadhesh Pratap Singh University (APSU) Rewa, Faculty of Arts and Science, and National Informatics Centre (NIC) Result Gateways Across Madhya Pradesh</h2>
+    <h2 class='sr-title'>apsu result - Official Awadhesh Pratap Singh University Hub</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "apsu result - Official Awadhesh Pratap Singh University Hub"; 
+$meta_description = "Check apsu result online for BA, BSC, BCOM, MA, MSC. Access the official Awadhesh Pratap Singh University Rewa result portal and marksheet download."; 
+$meta_keywords = "apsu result, check apsu result online, Awadhesh Pratap Singh University result, apsu rewa result portal, apsu marksheet download"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "apsu result - Official Awadhesh Pratap Singh University Hub";
+$meta_description = "Check apsu result online for BA, BSC, BCOM, MA, MSC. Access the official Awadhesh Pratap Singh University Rewa result portal and marksheet download.";
+$meta_keywords = "apsu result, check apsu result online, Awadhesh Pratap Singh University result, apsu rewa result portal, apsu marksheet download";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "apsu result, check apsu result online, Awadhesh Pratap Singh U
                 <a href="https://apsu.mponline.gov.in/" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="APSU MPOnline Portal" target="_blank">Access MPOnline APSU Portal</a>
                 <a href="https://indiaresults.com" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Mirror Results" target="_blank">Visit APSU Mirror Hub</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Portal" target="_blank">National Result Gateway</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official apsu result Online</h2>
         <p>To ensure a successful result search in the APSU records, follow these technical steps:</p>
@@ -50,7 +67,7 @@ $meta_keywords = "apsu result, check apsu result online, Awadhesh Pratap Singh U
 
         <p><i>Note: Univindia.online is an educational news portal. For original marksheets, degrees, and final database changes related to apsu result data, please visit the APSU University headquarters in Rewa or your College Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About APSU Result</h2>
@@ -63,8 +80,13 @@ $meta_keywords = "apsu result, check apsu result online, Awadhesh Pratap Singh U
         <br>
         <strong>3. Is the result from the mponline portal official?</strong>
         <p>Yes, the "apsu result" served via the MPOnline portal is an official digital output authorized by Awadhesh Pratap Singh University.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

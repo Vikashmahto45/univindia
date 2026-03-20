@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8 class result 2024 - Official Elementary Board Result Portal</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>8 class result 2024 - Official Elementary Board Result Portal</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "8 class result 2024 - Official Elementary Board Result Portal"; 
+$meta_description = "Check 8 class result 2024 for academic board exams. Access the official 2024 Class 8th (Elementary) result portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check 2024 Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -40,8 +48,7 @@ $meta_keywords = "";
                     <p>Verify 2024 Class 8 results by student name alternative criteria on participating board portals.
                     </p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +94,7 @@ $meta_keywords = "";
                     session. Having a verified digital result from the <strong>8 class result 2024</strong> hub is
                     essential for students to complete their academic verification and proof of performance during
                     school-level transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -101,28 +107,27 @@ $meta_keywords = "";
                         <p>Yes, the <strong>8 class result 2024</strong> portal on <strong>indiaresults</strong>
                             includes a dedicated "Search by Name" feature for candidates participating in the 2024
                             elementary exams across many boards.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2024 result links on this hub official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards, ensuring all 2024 result data is mirrored directly from official board databases.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2024 marksheet valid for 9th class admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>8 class result 2024</strong> hub is a valid
                             provisional document accepted for initial school-level registration and verification
                             nationwide for the 2024 session.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

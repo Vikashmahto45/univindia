@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule"; 
 $meta_description = "Check the official Univindia Net MGSU Time Table for Bikaner University exams. Complete guide to downloading UG/PG schedules and revised dates online."; 
 $meta_keywords = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Net MGSU Time Table - Bikaner University Exam Schedule</div>
+    <h2 class='sr-title'>Univindia Net MGSU Time Table - Bikaner University Exam Schedule</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule"; 
+$meta_description = "Check the official Univindia Net MGSU Time Table for Bikaner University exams. Complete guide to downloading UG/PG schedules and revised dates online."; 
+$meta_keywords = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule";
+$meta_description = "Check the official Univindia Net MGSU Time Table for Bikaner University exams. Complete guide to downloading UG/PG schedules and revised dates online.";
+$meta_keywords = "Univindia Net MGSU Time Table - Bikaner University Exam Schedule";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Net MGSU Time Table: Your Ultimate Guide to Bikaner University Exam Schedules</h1>
+        
         
         <p>The term "Univindia Net MGSU Time Table" refers to the most critical document for thousands of students enrolled at Maharaja Ganga Singh University (MGSU), Bikaner. As the university manages a vast network of colleges across Northern Rajasthan, providing a clear and accessible examination schedule is essential for student success. The `univindia.net` portal serves as the official, authoritative source for these schedules. In this comprehensive guide, we will explore the significance of the MGSU Time Table, provide a detailed step-by-step walkthrough for its download, and offer expert advice on how to organize your study plan around the university's official dates.</p>
 
@@ -48,6 +70,15 @@ $meta_keywords = "Univindia Net MGSU Time Table - Bikaner University Exam Schedu
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized time table downloads and official university news, please always rely on the official MGSU Bikaner websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Alwar - Raj Rishi Bhartrihari Matsya University Result Portal"; 
 $meta_description = "Univindia Alwar is the official portal for checking RRBMU (Matsya University) results, admit cards, and exam forms. Complete guide for Alwar university students."; 
 $meta_keywords = "univindia alwar"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Alwar - Raj Rishi Bhartrihari Matsya University Result Portal</div>
+    <h2 class='sr-title'>Univindia Alwar - Raj Rishi Bhartrihari Matsya University Result Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Alwar - Raj Rishi Bhartrihari Matsya University Result Portal"; 
+$meta_description = "Univindia Alwar is the official portal for checking RRBMU (Matsya University) results, admit cards, and exam forms. Complete guide for Alwar university students."; 
+$meta_keywords = "univindia alwar"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Alwar - Raj Rishi Bhartrihari Matsya University Result Portal";
+$meta_description = "Univindia Alwar is the official portal for checking RRBMU (Matsya University) results, admit cards, and exam forms. Complete guide for Alwar university students.";
+$meta_keywords = "univindia alwar";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Alwar: The Essential Digital Portal for RRBMU Students</h1>
+        
         
         <p>Univindia Alwar is a key search term for thousands of students who are pursuing their higher education in the historic city of Alwar and its surrounding regions. As the digital arm of the Raj Rishi Bhartrihari Matsya University (RRBMU), the Univindia portal specifically tailored for Alwar provides a centralized platform for all examination-related activities. From the initial submission of examination forms to the final declaration of results, Univindia Alwar ensures that students have a seamless and transparent experience. In this detailed guide, we will explore the various features of the Univindia Alwar portal and provide expert tips on how to navigate it effectively for your academic success.</p>
 
@@ -44,6 +66,15 @@ $meta_keywords = "univindia alwar";
 
         <p><i>Note: Univindia.online is an independent educational site and is not affiliated with the official RRBMU Alwar or Univindia.net. For authorized result declarations and official university news, please always rely on the official Raj Rishi Bhartrihari Matsya University websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

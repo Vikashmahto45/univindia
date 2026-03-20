@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Com - Maharaja Ganga Singh University Bikaner Main Site"; 
 $meta_description = "Univindia Com is the secondary portal for Maharaja Ganga Singh University Bikaner exam results and forms. Explore the features and services of Univindia.com."; 
 $meta_keywords = "univindia com"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Com - Maharaja Ganga Singh University Bikaner Main Site</div>
+    <h2 class='sr-title'>Univindia Com - Maharaja Ganga Singh University Bikaner Main Site</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Com - Maharaja Ganga Singh University Bikaner Main Site"; 
+$meta_description = "Univindia Com is the secondary portal for Maharaja Ganga Singh University Bikaner exam results and forms. Explore the features and services of Univindia.com."; 
+$meta_keywords = "univindia com"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Com - Maharaja Ganga Singh University Bikaner Main Site";
+$meta_description = "Univindia Com is the secondary portal for Maharaja Ganga Singh University Bikaner exam results and forms. Explore the features and services of Univindia.com.";
+$meta_keywords = "univindia com";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Com: A Detailed Guide to the MGSU Bikaner Digital Portal</h1>
+        
         
         <p>Univindia Com is a domain that holds a special place in the digital landscape of Maharaja Ganga Singh University (MGSU), Bikaner. While many students are familiar with the `.net` version, `univindia.com` often serves as a secondary or mirrored portal that ensures high availability of student services, especially during peak load periods. Whether you're searching for your undergraduate results, looking to download your postgraduate admit card, or trying to submit an examination form, Univindia Com provides a reliable platform that bridges the gap between the university's administrative offices and its vast student population. In this detailed guide, we'll traverse through the various sections of the Univindia Com portal, offering insights and troubleshooting tips for every student.</p>
 
@@ -43,6 +65,15 @@ $meta_keywords = "univindia com";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized result declarations and university news, please always rely on the official Maharaja Ganga Singh University website.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

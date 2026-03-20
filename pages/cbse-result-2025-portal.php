@@ -7,9 +7,27 @@ $meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; cbse result 2025 - Official CBSE Results Portal</div>
-    <h2 class='sr-title'>cbse result 2025: Your Definitive Navigator to Central Board of Secondary Education (CBSE), Pariksha Sangam, and National Informatics Centre (NIC) Result Gateways</h2>
+    <h2 class='sr-title'>cbse result 2025 - Official CBSE Results Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "cbse result 2025 - Official CBSE Results Portal"; 
+$meta_description = "Check cbse result 2025 online for Class 10 and Class 12. Access the official CBSE results portal for marks, certificates, and pass percentage."; 
+$meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result 2025, cbse official result link, central board results"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "cbse result 2025 - Official CBSE Results Portal";
+$meta_description = "Check cbse result 2025 online for Class 10 and Class 12. Access the official CBSE results portal for marks, certificates, and pass percentage.";
+$meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result 2025, cbse official result link, central board results";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result
                 <a href="https://results.cbse.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Secondary Result Link" target="_blank">Check 10th/12th Link</a>
                 <a href="https://www.cbse.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="CBSE Main Portal" target="_blank">Visit CBSE Main Portal</a>
                 <a href="https://cbsestack.hub.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Pariksha Sangam" target="_blank">Access Pariksha Sangam</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official cbse result 2025 Online</h2>
         <p>To ensure a successful result search in the CBSE records, follow these technical steps:</p>
@@ -50,7 +67,7 @@ $meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result
 
         <p><i>Note: Univindia.online is an educational news portal. For original degree certificates, migration letters, and final database changes related to cbse result 2025 data, please visit the CBSE headquarters or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About CBSE Result 2025</h2>
@@ -63,8 +80,13 @@ $meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result
         <br>
         <strong>3. Is the result from the results.cbse.nic.in portal official?</strong>
         <p>Yes, the "cbse result 2025" served via the NIC portal is the only official and final digital output of the Central Board of Secondary Education.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

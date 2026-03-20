@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB NTPC Admit Card 2024 Download - Railway Non-Technical Popular Categories Hall Ticket | Univindia.online"; 
 $meta_description = "Download RRB NTPC Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) NTPC (CEN 04/2024) examination hall tickets at rrbcdg.gov.in."; 
 $meta_keywords = "rrb ntpc admit card 2024, railway ntpc hall ticket download, rrb ntpc cbt 1 exam date 2024, rrbcdg.gov.in ntpc admit card login, railway ntpc call letter"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Admit Card 2024 Download - Railway Non-Technical Popular Categories Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>RRB NTPC Admit Card 2024 Download - Railway Non-Technical Popular Categories Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB NTPC Admit Card 2024 Download - Railway Non-Technical Popular Categories Hall Ticket | Univindia.online"; 
+$meta_description = "Download RRB NTPC Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) NTPC (CEN 04/2024) examination hall tickets at rrbcdg.gov.in."; 
+$meta_keywords = "rrb ntpc admit card 2024, railway ntpc hall ticket download, rrb ntpc cbt 1 exam date 2024, rrbcdg.gov.in ntpc admit card login, railway ntpc call letter"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RRB NTPC Admit Card 2024 Download - Railway Non-Technical Popular Categories Hall Ticket | Univindia.online";
+$meta_description = "Download RRB NTPC Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) NTPC (CEN 04/2024) examination hall tickets at rrbcdg.gov.in.";
+$meta_keywords = "rrb ntpc admit card 2024, railway ntpc hall ticket download, rrb ntpc cbt 1 exam date 2024, rrbcdg.gov.in ntpc admit card login, railway ntpc call letter";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "rrb ntpc admit card 2024, railway ntpc hall ticket download, r
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest RRB Jobs</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

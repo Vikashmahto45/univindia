@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th class result - Official Primary School Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>5th class result - Official Primary School Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "5th class result - Official Primary School Hub"; 
+$meta_description = "Check Primary School 5th class result on 5th class result. Access official Board Class 5th (Primary) scorecards and selection lists on indiaresults portal."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 5th Class Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>5th Class Directory</h3>
                     <p>Verify board 5th class results by student name or roll number alternative criteria for various academic batches spanning multiple states.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the Primary (5th Class) Board Gateways</h3>
                 <p>The <strong>5th class result</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking middle school admission registrations, scholarship applications, or career verification. The system provides a detailed subject-wise breakdown for each batch of student examinees across all schools. Having a verified digital result from the <strong>5th class result</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their primary graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the 5th class result links active for all states?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>5th class result</strong> are permanently archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 5th class results by name only on mobile devices?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>5th class result</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees nationwide.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 5th class marksheet valid for middle school admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>5th class result</strong> gateway is a valid provisional document accepted for initial secondary school registration across India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,13 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Univindia Results 2024 - Official University Marks Portal"; 
 $meta_description = "Check your MGSU, RRBMU, and MSBU results for 2024 on Univindia Results 2024 portal. Complete guide to 2024 university marksheets and scores online."; 
 $meta_keywords = "Univindia Results 2024 - Official University Marks Portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Univindia Results 2024 - Official University Marks Portal</div>
+    <h2 class='sr-title'>Univindia Results 2024 - Official University Marks Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "Univindia Results 2024 - Official University Marks Portal"; 
+$meta_description = "Check your MGSU, RRBMU, and MSBU results for 2024 on Univindia Results 2024 portal. Complete guide to 2024 university marksheets and scores online."; 
+$meta_keywords = "Univindia Results 2024 - Official University Marks Portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "Univindia Results 2024 - Official University Marks Portal";
+$meta_description = "Check your MGSU, RRBMU, and MSBU results for 2024 on Univindia Results 2024 portal. Complete guide to 2024 university marksheets and scores online.";
+$meta_keywords = "Univindia Results 2024 - Official University Marks Portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
-        <h1>Univindia Results 2024: Your Comprehensive Guide to This Year's University Scores</h1>
+        
         
         <p>The term "Univindia Results 2024" represents the single most significant academic milestone for hundreds of thousands of students across Rajasthan during the current session. As the academic year for Maharaja Ganga Singh University (MGSU), Raj Rishi Bhartrihari Matsya University (RRBMU), and Maharaja Surajmal Brij University (MSBU) reaches its evaluation phase, the Univindia portal becomes the primary destination for achievement verification. In this detailed guide, we will provide a complete walkthrough of how to check your 2024 results on the official portal, how to interpret your digital marksheet correctly, and what steps to take if you encounter technical or academic hurdles during the result declaration period in 2024.</p>
 
@@ -58,6 +80,15 @@ $meta_keywords = "Univindia Results 2024 - Official University Marks Portal";
 
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For authorized 2024 result declarations and official university news, please always rely on the official university websites.</i></p>
     </div>
-</main>
+
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

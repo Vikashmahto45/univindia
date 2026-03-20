@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in</div>
+    <h2 class='sr-title'>JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in";
+$page_description = "Complete guide to JoSAA 2025 Counselling for IIT, NIT, and IIIT admissions. Get direct link for JoSAA Registration, Choice Filling, and Seat Allotment Status. 800+ words.";
+$page_keywords = "JoSAA 2025 Counselling, JoSAA Registration Choice Filling, josaa.nic.in seat allotment, JEE Advanced JoSAA Schedule, NIT IIIT Admission Process";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -15,7 +38,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">JoSAA 2025: IIT, NIT, IIIT Seat Allocation & Counselling Procedure</h1>
+            
             
             <div class="alert alert-primary bg-dark border-primary text-primary rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-university me-2"></i> <strong>Admission News:</strong> The Joint Seat Allocation Authority (JoSAA) has released the 2025 schedule for admissions into 23 IITs, 31 NITs, 26 IIITs, and 40 Other-GFTIs. The official portal <strong>josaa.nic.in</strong> is now open for registration.
@@ -89,14 +112,12 @@ $meta_keywords = "";
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-primary h-100">
                             <h5 class="text-primary"><i class="fas fa-file-upload me-2"></i> Digital Document Vault</h5>
                             <p class="small text-light-gray mb-0">Upload high-resolution scans of your Class 10/12 marksheet, JEE Rank Card, and Medical Certificate (as per JoSAA format).</p>
-                        </div>
-                    </div>
+                        
                     <div class="col-md-6">
                         <div class="p-3 bg-dark border border-secondary rounded-4 shadow border-primary h-100">
                             <h5 class="text-primary"><i class="fas fa-money-check-alt me-2"></i> Seat Acceptance Fee (SAF)</h5>
                             <p class="small text-light-gray mb-0">Payment must be made online via Net Banking or SBI Challan for the seat to be valid. No physical checks accepted.</p>
-                        </div>
-                    </div>
+                        
                 </div>
 
                 <h2 class="h3 text-info mt-5 mb-3 border-bottom border-secondary pb-2">JoSAA FAQ: Frequently Asked Questions</h2>
@@ -110,8 +131,7 @@ $meta_keywords = "";
                         <div id="jsQ1" class="accordion-collapse collapse" data-bs-parent="#josaaFaq">
                             <div class="accordion-body text-light-gray">
                                 If you miss JoSAA, you cannot participate in the regular rounds. However, you can still apply for <strong>CSAB (Central Seat Allocation Board)</strong> Special Rounds held specifically for vacant seats in NITs, IIITs, and GFTIs.
-                            </div>
-                        </div>
+                            
                     </div>
                     <div class="accordion-item bg-dark border-secondary">
                         <h3 class="accordion-header">
@@ -122,10 +142,8 @@ $meta_keywords = "";
                         <div id="jsQ2" class="accordion-collapse collapse" data-bs-parent="#josaaFaq">
                             <div class="accordion-body text-light-gray">
                                 No, all rounds of seat acceptance, fee payment, and document verification are conducted <strong>Online</strong>. Physical reporting is only required at the final allotted institute after all rounds are completed.
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            
+                    
 
                 <div class="mt-5 p-4 border border-secondary rounded-4 bg-gradient-dark">
                     <h5 class="text-info fw-bold mb-3"><i class="fas fa-external-link-alt me-2"></i> Admission Links</h5>
@@ -133,14 +151,14 @@ $meta_keywords = "";
                         <a href="csab.php" class="btn btn-primary rounded-pill px-4 btn-sm shadow">CSAB Special Rounds</a>
                         <a href="jee-advanced-admit-card.php" class="btn btn-outline-primary rounded-pill px-4 btn-sm">JEE Advanced Hall Ticket</a>
                         <a href="../index.php" class="btn btn-light rounded-pill px-5 btn-sm shadow-sm">Home</a>
-                    </div>
-                </div>
+                    
             </article>
 
             <!-- Interlinking Section -->
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Engineering Institute Portals</h3>
                 <div class="row g-3">
+                    <?php
                     $eng_portals = [
                         'iit-bombay-admission.php' => 'IIT Bombay Admission Link',
                         'nit-trichy-admission.php' => 'NIT Trichy Seat Status',
@@ -154,11 +172,10 @@ $meta_keywords = "";
                                 </a>
                               </div>';
                     }
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                    ?>
+                
+        
+
 
 <style>
 .text-gradient-gold {
@@ -188,3 +205,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in</div>
-    <h2 class='sr-title'>DU SOL Admit Card 2024-25</h2>
+    <h2 class='sr-title'>DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in"; 
+$meta_description = "Download DU SOL Admit Card 2024 for UG/PG Exams. Get direct link for Delhi University School of Open Learning Hall Ticket at sol.du.ac.in. Check exam dates and instructions."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
@@ -59,8 +70,7 @@ $meta_keywords = "";
                                     <li>Exam Roll Number</li>
                                     <li>Photograph & Signature</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                         <div class="col-md-6">
                             <div class="p-3 border rounded shadow-sm h-100">
                                 <h5 class="fw-bold"><i class="bi bi-calendar-event text-primary"></i> Examination Details</h5>
@@ -71,8 +81,7 @@ $meta_keywords = "";
                                     <li>Exam Date & Timings</li>
                                     <li>Reporting Time</li>
                                 </ul>
-                            </div>
-                        </div>
+                            
                     </div>
 
                     <h2 class="mt-5 fw-bold text-dark">Exam Day Instructions for DU SOL Students</h2>
@@ -128,15 +137,16 @@ $meta_keywords = "";
                         <div>
                             <h6 class="fw-bold">4. What is the website for downloading the DU SOL Admit Card?</h6>
                             <p>The official website is sol.du.ac.in.</p>
-                        </div>
-                    </div>
+                        
 
                     <p class="mt-5 text-muted fst-italic"><strong>Disclaimer:</strong> This website is for informational purposes only. Please visit the official DU SOL website (sol.du.ac.in) for the most accurate and up-to-date information regarding examinations and admit cards.</p>
-                </div>
-            </div>
-        </div>
-    </div>
+                
+        
+
 </div>
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

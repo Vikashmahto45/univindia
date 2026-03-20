@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "sslc result 2020 kerala school wise - Official Kerala SSLC 2020 Archive"; 
 $meta_description = "Check sslc result 2020 kerala school wise for DHSE exams. Access the official 2020 Kerala Secondary (Class 10) school-wise archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; sslc result 2020 kerala school wise - Official Kerala SSLC 2020 Archive</div>
+    <h2 class='sr-title'>sslc result 2020 kerala school wise - Official Kerala SSLC 2020 Archive</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "sslc result 2020 kerala school wise - Official Kerala SSLC 2020 Archive"; 
+$meta_description = "Check sslc result 2020 kerala school wise for DHSE exams. Access the official 2020 Kerala Secondary (Class 10) school-wise archival portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2020 academic session results for Kerala SSLC (Class 10th).
                 Official Kerala Pareeksha Bhavan mirrors for school-wise and individual results portal updated for the
                 2020 batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2020 Kerala Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verify Kerala state board SSLC results 2020 by school code or name alternative criteria for the
                         2020 session archive.</p>
                     <a href="https://kerala.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +98,7 @@ $meta_keywords = "";
                     from the <strong>sslc result 2020 kerala school wise</strong> archive hub is essential for students
                     to complete their academic verification and proof of educational attainment during school-level
                     transition and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,8 +110,7 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>sslc result 2020 kerala school wise</strong> are permanently
                             archived on verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2020 Kerala SSLC results without registration
                         number?</button>
@@ -109,8 +118,7 @@ $meta_keywords = "";
                         <p>If you possess the School Code, you can browse the school-wise list on the <strong>sslc
                                 result 2020 kerala school wise</strong> portal to locate individual student records from
                             the 2020 batch.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for Kerala secondary result
                         verification?</button>
@@ -118,11 +126,15 @@ $meta_keywords = "";
                         <p>You primarily need your Board Registration Number and Date of Birth. Some versions may also
                             require the School Code for <strong>sslc result 2020 kerala school wise</strong> batch
                             queries.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

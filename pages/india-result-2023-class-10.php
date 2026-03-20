@@ -7,9 +7,27 @@ $meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all 
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 2023 Class 10 - Official Secondary Result Gateway</div>
-    <h2 class='sr-title'>India Result 2023 Class 10: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), High School Certificate (HSC), and Matriculation Result Gateways (Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and National Informatics Centre (NIC) Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <h2 class='sr-title'>India Result 2023 Class 10 - Official Secondary Result Gateway</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "India Result 2023 Class 10 - Official Secondary Result Gateway"; 
+$meta_description = "Check India Result 2023 Class 10 online. Access the secondary board results for CBSE, ICSE, and all state boards. Download your 2023 marksheet and merit list."; 
+$meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all india secondary result 2023, cbse 10th result 2023, state board 10th result 2023, official india result portal"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "India Result 2023 Class 10 - Official Secondary Result Gateway";
+$meta_description = "Check India Result 2023 Class 10 online. Access the secondary board results for CBSE, ICSE, and all state boards. Download your 2023 marksheet and merit list.";
+$meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all india secondary result 2023, cbse 10th result 2023, state board 10th result 2023, official india result portal";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -29,8 +47,7 @@ $meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all 
                 <a href="https://results.nic.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="National Results Hub" target="_blank">National Results Portal</a>
                 <a href="https://www.digilocker.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="Download Marksheet" target="_blank">Download Digital Marksheet</a>
                 <a href="https://results.gov.in" class="btn" style="min-width: 280px; text-align: center; font-weight: 700; padding: 18px 35px; border-radius: 8px; text-transform: uppercase; letter-spacing: 1px;" title="All India Server" target="_blank">All India Result Server</a>
-            </div>
-        </div>
+            
 
         <h2>How to Access Results via Official India Result 2023 Class 10 Online: A Unified Guide</h2>
         <p>To ensure a successful result search in the official 2023 records of your respective board, follow these technical steps:</p>
@@ -53,7 +70,7 @@ $meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all 
 
         <p><i>Note: Univindia.online is an educational news portal. For authorized degree certificates, migration letters, and final database changes related to India Result 2023 Class 10, please visit the respective Board's regional office or your School Principal.</i></p>
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About India Result 2023 Class 10 Portal</h2>
@@ -66,8 +83,13 @@ $meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all 
         <br>
         <strong>3. Is the provisional result from India Result 2023 Class 10 valid for school change?</strong>
         <p>Yes, your secondary results (verified via the official "India Result 2023 Class 10" portal) are accepted for provisional admission in schools while the original physical certificates are being processed.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "odisha matric result 2021 - Official BSE Archive Portal"; 
 $meta_description = "Check odisha matric result 2021 for the High School Certificate (HSC) Annual Exam. Access the official 2021 Odisha 10th result archive on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha matric result 2021 - Official BSE Archive Portal</div>
+    <h2 class='sr-title'>odisha matric result 2021 - Official BSE Archive Portal</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "odisha matric result 2021 - Official BSE Archive Portal"; 
+$meta_description = "Check odisha matric result 2021 for the High School Certificate (HSC) Annual Exam. Access the official 2021 Odisha 10th result archive on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the official 2021 Matric (Class 10th) results for Odisha.
                 Verified archival links for High School Certificate examinations.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Search</h3>
                     <p>Verify Odisha 2021 matric results by student name.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -73,8 +84,7 @@ $meta_keywords = "";
                     and legally valid for all future academic and career pursuits. Having a verified digital scorecard
                     from the <strong>odisha matric result 2021</strong> portal is essential for college admissions and
                     official background checks.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -86,26 +96,28 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all results under <strong>odisha matric result 2021</strong> are permanently archived on
                             verified servers like <strong>indiaresults.com</strong>.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2021 results using just my name?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>odisha matric result 2021</strong> portal for Odisha includes full
                             name-wise search support for all matriculation candidates of that year.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 result valid for passports?</button>
                     <div class="faq-answer">
                         <p>The <strong>odisha matric result 2021</strong> online copy is a valid provisional document.
                             For passports and other high-level official documents, you will eventually require the
                             physical certificate issued by the board office.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -7,9 +7,27 @@ $meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha m
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Result 2024 Odisha - official BSE Odisha HSC Results Portal</div>
-    <h2 class='sr-title'>10th Result 2024 Odisha: Your Comprehensive Roadmap to the State’s Matriculation Success</h2>
+    <h2 class='sr-title'>10th Result 2024 Odisha - official BSE Odisha HSC Results Portal</h2>
     <div class='sr-content'>
-        <main class="container">
+        <?php 
+include '../header.php'; 
+$page_title = "10th Result 2024 Odisha - official BSE Odisha HSC Results Portal"; 
+$meta_description = "Check 10th Result 2024 Odisha for official High School Certificate (HSC) board examinations. Access the latest BSE Odisha matric result news, dates, and merit lists."; 
+$meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha matric result 2024 date, orissaresults.nic.in 2024 hsc, bseodisha.ac.in hsc results 2024"; 
+?>
+
+
+    
+    
+    
+        <?php 
+$page_title = "10th Result 2024 Odisha - official BSE Odisha HSC Results Portal";
+$meta_description = "Check 10th Result 2024 Odisha for official High School Certificate (HSC) board examinations. Access the latest BSE Odisha matric result news, dates, and merit lists.";
+$meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha matric result 2024 date, orissaresults.nic.in 2024 hsc, bseodisha.ac.in hsc results 2024";
+include '../includes/header.php'; 
+?>
+
+
     <div class="seo-content">
         
         
@@ -49,10 +67,9 @@ $meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha m
                 <a href="http://bseodisha.ac.in" class="btn" title="BSE Odisha Official Board Site" target="_blank">BSE Odisha Main portal</a>
                 <a href="https://odisha.indiaresults.com" class="btn" title="Odisha Result Name Wise search" target="_blank">IndiaResults Odisha</a>
                 <a href="https://www.digilocker.gov.in" class="btn" title="Download Verified SSC Certificate" target="_blank">DigiLocker Results</a>
-            </div>
-        </div>
+            
     </div>
-</main>
+
 
 <div class="container" style="margin-bottom: 50px;">
     <h2>Frequently Asked Questions (FAQ) About 10th Result 2024 Odisha</h2>
@@ -65,8 +82,13 @@ $meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha m
         <br>
         <strong>3. Is the online Odisha matric result valid for +2 admission in DOST?</strong>
         <p>Yes, the computer-generated "10th Result 2024 Odisha" scorecard is accepted for initial online counseling and document verification on the SAMS Odisha portal until the physical marksheet is provided by the board.</p>
-    </div>
-</div>
+    
+
+<?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

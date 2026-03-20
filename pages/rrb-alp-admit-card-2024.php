@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "RRB ALP Admit Card 2024 Download - Assistant Loco Pilot Exam Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download RRB ALP Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) Assistant Loco Pilot (ALP) CBT examination hall tickets at indianrailways.gov.in."; 
 $meta_keywords = "rrb alp admit card 2024, railway assistant loco pilot hall ticket, rrb alp cbt admit card download, rrb alp 2024 admit card link, railway recruitment hall ticket"; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB ALP Admit Card 2024 Download - Assistant Loco Pilot Exam Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>RRB ALP Admit Card 2024 Download - Assistant Loco Pilot Exam Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "RRB ALP Admit Card 2024 Download - Assistant Loco Pilot Exam Hall Ticket Link | Univindia.online"; 
+$meta_description = "Download RRB ALP Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) Assistant Loco Pilot (ALP) CBT examination hall tickets at indianrailways.gov.in."; 
+$meta_keywords = "rrb alp admit card 2024, railway assistant loco pilot hall ticket, rrb alp cbt admit card download, rrb alp 2024 admit card link, railway recruitment hall ticket"; 
+?>
+
+
+    
+    
+    
+        <?php
+require_once 'includes/config.php';
+$page_title = "RRB ALP Admit Card 2024 Download - Assistant Loco Pilot Exam Hall Ticket Link | Univindia.online";
+$meta_description = "Download RRB ALP Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) Assistant Loco Pilot (ALP) CBT examination hall tickets at indianrailways.gov.in.";
+$meta_keywords = "rrb alp admit card 2024, railway assistant loco pilot hall ticket, rrb alp cbt admit card download, rrb alp 2024 admit card link, railway recruitment hall ticket";
+include '../includes/header.php';
 ?>
 
 <div class="container main-content">
@@ -87,8 +110,16 @@ $meta_keywords = "rrb alp admit card 2024, railway assistant loco pilot hall tic
         <div class="cta-section">
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check ALP Results</a>
-        </div>
-    </div>
+        
 </div>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

@@ -1,8 +1,31 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
+?>
+
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in</div>
+    <h2 class='sr-title'>SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <?php
+include '../includes/config.php';
+$page_title = "SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in";
+$page_description = "Download SSC CHSL Tier 1 Admit Card 2024. Get region-wise links for Combined Higher Secondary Level Tier I Exam. LDC, JSA & DEO Hall Ticket download instructions.";
+$page_keywords = "SSC CHSL Tier 1 Admit Card 2024, SSC CHSL Tier I Hall Ticket, Download CHSL Tier 1 2024 Admit Card, ssc.gov.in chsl admit card";
+include '../includes/header.php';
 ?>
 
 <main class="container py-5">
@@ -16,7 +39,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">SSC CHSL <span class="text-warning">Tier 1 Admit Card 2024</span></h1>
+            
             
             <div class="alert alert-warning border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -26,8 +49,7 @@ $meta_keywords = "";
                     <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Important Instruction:</h4>
                         <p class="mb-0">The <strong>SSC CHSL Tier 1 Admit Card 2024</strong> is now live on regional websites. Candidates are advised to download the call letter well in advance and check the reporting time to avoid last-minute entry issues.</p>
-                    </div>
-                </div>
+                    
             </div>
 
             <div class="card bg-dark border-secondary rounded-4 shadow-lg mb-5">
@@ -91,22 +113,19 @@ $meta_keywords = "";
                                     <h6 class="text-white">Eastern Region (ER)</h6>
                                     <p class="small text-white-50">Kolkata, Odisha</p>
                                     <a href="http://www.sscer.org" class="btn btn-warning btn-sm fw-bold">Download Link</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary shadow rounded-4 text-center border border-secondary h-100 d-flex flex-column justify-content-center">
                                     <h6 class="text-white">Western Region (WR)</h6>
                                     <p class="small text-white-50">Mumbai, Gujarat</p>
                                     <a href="http://www.sscwr.net" class="btn btn-warning btn-sm fw-bold">Download Link</a>
-                                </div>
-                            </div>
+                                
                             <div class="col-md-4">
                                 <div class="p-4 bg-secondary shadow rounded-4 text-center border border-secondary h-100 d-flex flex-column justify-content-center">
                                     <h6 class="text-white">North Eastern (NER)</h6>
                                     <p class="small text-white-50">Guwahati, Assam</p>
                                     <a href="https://www.sscner.org.in" class="btn btn-warning btn-sm fw-bold">Download Link</a>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Key Verification Points on CHSL Hall Ticket</h2>
@@ -130,8 +149,7 @@ $meta_keywords = "";
                                 <div class="col-md-6 mb-3">
                                     <h6 class="text-info"><i class="fas fa-image me-2"></i> Two Passport Photos</h6>
                                     <p class="small m-0 text-white-50">Two recent color photographs (identical to the one uploaded in the form).</p>
-                                </div>
-                            </div>
+                                
                         </div>
 
                         <h2 class="text-white mt-5 mb-4">Frequently Asked Questions (FAQs)</h2>
@@ -145,8 +163,7 @@ $meta_keywords = "";
                                 <div id="chsl1" class="accordion-collapse collapse" data-bs-parent="#chslFaq">
                                     <div class="accordion-body text-white-50">
                                         You can use the 'Search by Name' option available on most regional websites. Enter your Name, Father's Name, and Date of Birth to retrieve the details.
-                                    </div>
-                                </div>
+                                    
                             </div>
                             <div class="accordion-item bg-dark text-white">
                                 <h3 class="accordion-header">
@@ -157,14 +174,11 @@ $meta_keywords = "";
                                 <div id="chsl2" class="accordion-collapse collapse" data-bs-parent="#chslFaq">
                                     <div class="accordion-body text-white-50">
                                         No, Staff Selection Commission does not send physical admit cards via post. It must be downloaded through the official internet portal.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                    
+                            
 
                     </article>
-                </div>
-            </div>
+                
 
             <!-- More Links -->
             <div class="p-5 bg-dark border border-secondary rounded-4 shadow-lg text-center mt-5">
@@ -174,11 +188,9 @@ $meta_keywords = "";
                     <a href="ssc-mts-havaldar-admit-card-2024.php" class="btn btn-outline-success rounded-pill px-4 btn-sm shadow-sm">SSC MTS Admit Card</a>
                     <a href="rrb-ntpc-admit-card.php" class="btn btn-outline-warning rounded-pill px-4 btn-sm shadow-sm">RRB NTPC Call Letter</a>
                     <a href="../index.php" class="btn btn-primary rounded-pill px-5 btn-sm shadow-sm">Back to Home</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</main>
+                
+        
+
 
 <style>
 .bg-gradient-dark {
@@ -194,3 +206,12 @@ $meta_keywords = "";
 </style>
 
 <?php include '../includes/footer.php'; ?>
+    
+
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

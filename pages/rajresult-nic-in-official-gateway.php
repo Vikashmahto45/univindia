@@ -1,24 +1,36 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "rajresult - Official Rajasthan Board & University Result Gateway"; 
 $meta_description = "Check rajresult for BSER, RU, and state board exams. Access the official rajresults.nic.in mirrors and Rajasthan academic archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajresult - Official Rajasthan Board & University Result Gateway</div>
+    <h2 class='sr-title'>rajresult - Official Rajasthan Board & University Result Gateway</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "rajresult - Official Rajasthan Board & University Result Gateway"; 
+$meta_description = "Check rajresult for BSER, RU, and state board exams. Access the official rajresults.nic.in mirrors and Rajasthan academic archives on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your primary destination for all academic results across Rajasthan.
                 Official mirrors for BSER Ajmer, Rajasthan University, and other major state boards updated for the
                 latest academic batch.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Rajasthan Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -38,8 +50,7 @@ $meta_keywords = "";
                     <p>Verified gateway for Rajasthan University UG/PG degree results, semester archives, and
                         registration status search.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -84,8 +95,7 @@ $meta_keywords = "";
                     for various sessions. Having a verified digital result from the <strong>rajresult</strong> hub is
                     essential for students to complete their academic verification and proof of performance during
                     university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -98,26 +108,28 @@ $meta_keywords = "";
                         <p>Yes, the <strong>rajresult</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated "Search by Name" feature for candidates participating in the BSER and state
                             university exams.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the results on this hub recognition official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards including BSER Ajmer, ensuring result data is mirrored directly from official board
                             databases.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">What details are needed for UNIRAJ result verification?</button>
                     <div class="faq-answer">
                         <p>You primarily need your University Roll Number. Some versions may also require your Father's
                             Name for <strong>rajresult</strong> session portal access.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

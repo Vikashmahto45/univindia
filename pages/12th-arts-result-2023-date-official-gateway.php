@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th arts result 2023 date - Official Arts Stream Result Schedule Hub</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>12th arts result 2023 date - Official Arts Stream Result Schedule Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "12th arts result 2023 date - Official Arts Stream Result Schedule Hub"; 
+$meta_description = "Check 12th arts result 2023 date for Class 12 exams. Access the official 2023 Higher Secondary Arts result declaration schedule and portal on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -21,8 +30,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check Result Date</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -42,8 +50,7 @@ $meta_keywords = "";
                     <p>Pre-register to get your 2023 Arts stream board results via automated notification services for
                         the 2023 session.</p>
                     <a href="https://bihar.indiaresults.com" class="gateway-link">Access Hub 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -87,8 +94,7 @@ $meta_keywords = "";
                     milestones. Having a verified source for the <strong>12th arts result 2023 date</strong> is
                     essential for students to complete their academic verification and proof of educational performance
                     during university graduation and registration processes even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -100,28 +106,27 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Declaration dates for <strong>12th arts result 2023 date</strong> varied by state, typically
                             falling between May and June 2023, following the completion of evaluations.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the 2023 date announcements on this hub official?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for major state
                             boards, ensuring 2023 result notifications are mirrored directly from official board
                             archives.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I still check my 2023 Arts result on this portal?</button>
                     <div class="faq-answer">
                         <p>Yes, by visiting the <strong>12th arts result 2023 date</strong> gateway, you can access the
                             archived result link for the 2023 academic session and view your marksheet using your roll
                             number.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

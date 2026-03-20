@@ -7,8 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 2 odisha result - Official Odisha Plus Two Hub</div>
-    <h2 class='sr-title'></h2>
+    <h2 class='sr-title'>2 odisha result - Official Odisha Plus Two Hub</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "2 odisha result - Official Odisha Plus Two Hub"; 
+$meta_description = "Check Odisha Board +2 (Higher Secondary) result on 2 odisha result. Access official CHSE Odisha Plus Two scorecards and archival results on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -17,8 +28,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open Odisha +2 Hub</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -36,8 +46,7 @@ $meta_keywords = "";
                     <h3>Odisha +2 Directory</h3>
                     <p>Verify Odisha Board results (chseodisha.nic.in) +2 marks by student roll number or registration number alternative criteria for all academic batches.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -61,8 +70,7 @@ $meta_keywords = "";
 
                 <h3>Reliability of the Odisha (+2) Board Gateways</h3>
                 <p>The <strong>2 odisha result</strong> data provided through official mirrors is official and authentic. It acts as a mandatory foundation for students seeking Higher Education admission registrations, scholarship applications, or career verification in Odisha. The system provides a detailed subject-wise breakdown for each batch of student examinees across all streams in Odisha. Having a verified digital result from the <strong>2 odisha result</strong> hub is essential for students to complete their academic verification and proof of educational attainment even years after their graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -73,24 +81,23 @@ $meta_keywords = "";
                     <button class="faq-question">Are the Odisha +2 result links permanently active on this hub?</button>
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>2 odisha result</strong> are archived on verified platforms for lifelong academic verification access in Odisha.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check Odisha +2 results by name only on mobile devices using this hub?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>2 odisha result</strong> portal is fully mobile-responsive and includes a dedicated name-wise search for student examinees in Odisha.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2 odisha marksheet valid for graduation admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard retrieved from the <strong>2 odisha result</strong> gateway is a valid provisional document accepted for initial institutional registration across Odisha and India.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 

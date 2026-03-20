@@ -1,23 +1,35 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "result 10th rbse - Official Rajasthan Matric Gateway Hub"; 
 $meta_description = "Check result 10th rbse for Class 10th Secondary examinations. Access the official Rajasthan (BSER) 10th result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; result 10th rbse - Official Rajasthan Matric Gateway Hub</div>
+    <h2 class='sr-title'>result 10th rbse - Official Rajasthan Matric Gateway Hub</h2>
+    <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "result 10th rbse - Official Rajasthan Matric Gateway Hub"; 
+$meta_description = "Check result 10th rbse for Class 10th Secondary examinations. Access the official Rajasthan (BSER) 10th result portal on indiaresults for high-speed checking."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest Secondary (Class 10th) results for Rajasthan. Official
                 RBSE mirrors and portal links updated for the Matric examinations.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Check RBSE 10th Result</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -35,8 +47,7 @@ $meta_keywords = "";
                     <h3>Name-wise Directory</h3>
                     <p>Verify RBSE 10th results by student name alternative.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -75,8 +86,7 @@ $meta_keywords = "";
                     subject-wise breakdown of marks and overall percentages. Having a verified digital result from the
                     <strong>result 10th rbse</strong> hub is essential for students to complete their certificate
                     verification and academic proof during college registration.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -88,27 +98,29 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, the <strong>result 10th rbse</strong> portal on <strong>indiaresults</strong> includes a
                             dedicated "Search by Name" feature for all participating candidates in Rajasthan.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Are the online results official for future use?</button>
                     <div class="faq-answer">
                         <p>Absolutely. <strong>indiaresults.com</strong> is a recognized hosting partner for RBSE
                             (BSER), ensuring that all result data is mirrored directly from official board databases.
                         </p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital result valid for Class 11th admission?</button>
                     <div class="faq-answer">
                         <p>The digital scorecard from the <strong>result 10th rbse</strong> portal is a valid
                             provisional document accepted for initial class 11th registration and document verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

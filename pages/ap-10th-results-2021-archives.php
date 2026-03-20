@@ -7,10 +7,19 @@ $meta_keywords = "";
 
 <div class='sr-page-wrapper'>
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap 10th results 2021 - Official Andhra Pradesh 2021 Archive</div>
-    <h2 class='sr-title'>
-                
-            </h2>
+    <h2 class='sr-title'>ap 10th results 2021 - Official Andhra Pradesh 2021 Archive</h2>
     <div class='sr-content'>
+        <?php 
+include '../header.php'; 
+$page_title = "ap 10th results 2021 - Official Andhra Pradesh 2021 Archive"; 
+$meta_description = "Check ap 10th results 2021 for SSC exams. Access the official 2021 Andhra Pradesh Board (BSEAP) archival result gateway on indiaresults."; 
+$meta_keywords = ""; 
+?>
+
+
+    
+    
+    
         <main class="main-content">
     <section class="hero-section">
         <div class="container">
@@ -20,8 +29,7 @@ $meta_keywords = "";
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
                 <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            </div>
-        </div>
+            
     </section>
 
     <section id="gateways" class="gateways-section">
@@ -41,8 +49,7 @@ $meta_keywords = "";
                     <p>Verify Andhra Pradesh board 10th results 2021 by student name alternative criteria for the 2021
                         academic batch verification.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 2</a>
-                </div>
-            </div>
+                
         </div>
     </section>
 
@@ -89,8 +96,7 @@ $meta_keywords = "";
                     archive hub is essential for students to complete their academic verification and proof of
                     educational achievement during transition and registration processes even years after their
                     graduation.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="faq" class="faq-section">
@@ -102,15 +108,13 @@ $meta_keywords = "";
                     <div class="faq-answer">
                         <p>Yes, all records under <strong>ap 10th results 2021</strong> are permanently archived on
                             verified platforms for lifelong academic verification access.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Can I check 2021 AP 10th results by name search?</button>
                     <div class="faq-answer">
                         <p>Absolutely. The <strong>ap 10th results 2021</strong> portal includes a dedicated name-wise
                             search for student examinees in Andhra Pradesh for the 2021 session.</p>
-                    </div>
-                </div>
+                    
                 <div class="faq-item">
                     <button class="faq-question">Is the digital 2021 AP marksheet official for college
                         admission?</button>
@@ -118,12 +122,13 @@ $meta_keywords = "";
                         <p>The digital scorecard retrieved from the <strong>ap 10th results 2021</strong> archive is a
                             valid provisional document accepted for initial school registration and verification
                             nationwide.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
+            
     </section>
-</main>
+    
+
+
+<?php include '../footer.php'; ?>
     </div>
 </div>
 
