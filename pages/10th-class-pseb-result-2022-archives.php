@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th class pseb result 2022 - Official Punjab Board Secondary Archive"; 
 $meta_description = "Check 10th class pseb result 2022 for PSEB Matric exams. Access the official 2022 Punjab Board archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class pseb result 2022 - Official Punjab Board Secondary Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 10th (Matriculation)
                 for the Punjab School Education Board (PSEB). Official mirrors and archival links updated for the 2022
                 batch.</p>
@@ -117,5 +121,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Class 10 Result 2025 - All India Board 10th Result Hub"; 
 $meta_description = "Check Class 10 Result 2025 for CBSE, ICSE, and all state boards. Access the latest updates on high school result dates, scoring patterns, and official links."; 
 $meta_keywords = "class 10 result 2025, 10th board result 2025, ssc result 2025, matric result date, class 10 scorecard online"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Class 10 Result 2025 - All India Board 10th Result Hub</div>
+    <h2 class='sr-title'>Class 10 Result 2025: Your National Gateway to Secondary Success and Beyond</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>Class 10 Result 2025: Your National Gateway to Secondary Success and Beyond</h1>
+        
         
         <p>The "Class 10 Result 2025" is the most universal and transformative academic milestone for the youth of India. Representing the official conclusion of secondary education, the 10th-grade results act as the primary benchmark for assessing a student's foundational knowledge and analytical aptitude. Whether you are enrolled in the Central Board of Secondary Education (CBSE), the Council for the Indian School Certificate Examinations (ICSE), or any of the various state boards like UPMSP, RBSE, or WBBSE, the phrase "Class 10 Result 2025" is the key that unlocks the door to higher secondary streams (+2) and specialized vocational careers. For the 2025 academic cycle, the landscape of "Class 10 Result 2025" has evolved to include more competency-based evaluation models, moving away from rote memorization toward critical understanding. At Univindia.online, we are dedicated to providing a high-speed, SEO-optimized national hub that aggregates "Class 10 Result 2025" updates from every corner of the country, ensuring that the class of 2025 can access their hard-earned scores with confidence and clarity.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "class 10 result 2025, 10th board result 2025, ssc result 2025,
         <p>No, for permanent documents like a passport or an ECNR status, you must submit the original hard-copy marksheet and certificate issued by the board office several months after the initial "Class 10 Result 2025" declaration.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

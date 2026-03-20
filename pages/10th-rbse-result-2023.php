@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th RBSE Result 2023 - Official Rajasthan Board Matric Archive"; 
 $meta_description = "Check 10th RBSE Result 2023 for Secondary examinations. Access the 2023 Rajasthan board results, merit list, and official certificates online by roll number."; 
 $meta_keywords = "10th rbse result 2023, rajasthan board 10th result 2023, check rbse secondary result 2023, rajresults.nic.in 2023 10th, matric result rajasthan 2023, official rbse portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th RBSE Result 2023 - Official Rajasthan Board Matric Archive</div>
+    <h2 class='sr-title'>10th RBSE Result 2023: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER/RBSE) Secondary (Class 10), Praveshika, and Vocational Result Gateways (Government of Rajasthan, Rajasthan Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals Across Rajasthan</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>10th RBSE Result 2023: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER/RBSE) Secondary (Class 10), Praveshika, and Vocational Result Gateways (Government of Rajasthan, Rajasthan Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals Across Rajasthan</h1>
+        
         
         <p>The "10th RBSE Result 2023" (applicable to the annual board examinations and supplementary tests conducted for the 2022-2023 academic session by the Board of Secondary Education, Rajasthan) represents a landmark digital milestone for over 10 lakh students who completed their secondary education in the historical academic landscape of Rajasthan. As the primary official gateway to the state's educational archives (Ajmer, RBSE HQ), and the traditional school education infrastructure of the nation, the "10th RBSE Result 2023" serves as the formal master directory that allows candidates to access their theory scores, practical assessment marks, and final secondary certificate allotment via dedicated government server endpoints. For the 2023 academic cycle, which saw high-quality digital governance and integrated evaluation analytics are statewide priorities, the "10th RBSE Result 2023" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Rajasthan education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "10th RBSE Result 2023," ensuring that every aspiring student and researcher in Rajasthan can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "10th rbse result 2023, rajasthan board 10th result 2023, check
         <p>Yes, your secondary results (verified via the official "10th RBSE Result 2023" portal) are the accepted records for applying to state government roles like LDC or Police Constable.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

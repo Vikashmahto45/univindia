@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "IB Exam Admit Card 2024: Intelligence Bureau ACIO & SA Hall Ticket"; 
 $meta_description = "Download Intelligence Bureau (IB) Exam Admit Card for ACIO, Security Assistant, and MTS. Get direct link to MHA official portal for IB Hall Ticket download."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IB Exam Admit Card 2024: Intelligence Bureau ACIO & SA Hall Ticket</div>
+    <h2 class='sr-title'>IB Exam Admit Card 2024</h2>
+    <div class='sr-content'>
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +21,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
                 <div class="card-header bg-dark p-4">
-                    <h1 class="display-6 fw-bold text-white mb-0">IB Exam Admit Card 2024</h1>
+                    
                 </div>
                 <div class="card-body p-4">
                     <p class="lead">The Intelligence Bureau (IB), under the Ministry of Home Affairs (MHA), regularly conducts recruitment examinations for prestigious posts like ACIO Grade II, Security Assistant (SA), and Multi-Tasking Staff (MTS). The IB Exam Admit Card is released exclusively on the official MHA portal for all successfully registered candidates.</p>
@@ -155,5 +159,8 @@ $meta_keywords = "";
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

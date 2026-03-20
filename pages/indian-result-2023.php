@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Indian Result 2023 - Official National Secondary Mirror"; 
 $meta_description = "Check Indian Result 2023 online. Access the historical CBSE, ICSE, and All-India State Board Secondary (10th) and Senior Secondary (12th) results for the 2023 session."; 
 $meta_keywords = "indian result 2023, check india results 2023 online, official 2023 board results hub, national 2023 mirror, indiaresults portal 2023"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indian Result 2023 - Official National Secondary Mirror</div>
+    <h2 class='sr-title'>Indian Result 2023: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and All-India State Board Result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>Indian Result 2023: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and All-India State Board Result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Indian Result 2023" (representing the primary synchronized digital result-dissemination framework utilized by over 3 crore students for the annual secondary and senior secondary board exams conducted during the historical 2022-2023 academic session by various national and state bodies) represents a significant digital milestone for students residing in the academic and industrial landscape of the nation. As the primary official gateway to the nation's historical 2023 educational infrastructure, and the traditional school education infrastructure of the nation, the "Indian Result 2023" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like IndiaResults and NIC Results. For the 2023 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across India, the "Indian Result 2023" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The national education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Indian Result 2023," ensuring that every student and researcher in the country can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "indian result 2023, check india results 2023 online, official 
         <p>Yes, your board results (verified via the official "Indian Result 2023" portal) are recorded in the state/central database and serve as primary data for background verification.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

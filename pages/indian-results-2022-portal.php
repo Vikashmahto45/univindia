@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indian results 2022 - Official National Archive Gateway Hub"; 
 $meta_description = "Check indian results 2022 for all board and university exams. Access the official 2022 result portal mirrors on indiaresults for fast checking by name and roll number."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian results 2022 - Official National Archive Gateway Hub</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic result archives for every state and central
                 board in India. Verified links and mirrors updated.</p>
             <div class="cta-group animate-up">
@@ -109,5 +113,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

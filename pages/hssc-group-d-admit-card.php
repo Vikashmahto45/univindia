@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "HSSC Group D Admit Card 2024 Download - Common Entrance Test (CET) Link | Univindia.online"; 
 $meta_description = "Download HSSC Group D Admit Card 2024. Get the direct link for Haryana SSC CET Group D recruitment exam hall tickets, reporting time, and city list at hssc.gov.in."; 
 $meta_keywords = "hssc group d admit card 2024, haryana group d hall ticket download, hssc cet group d admit card link, hssc.gov.in group d login, haryana group d exam date"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSSC Group D Admit Card 2024 Download - Common Entrance Test (CET) Link | Univindia.online</div>
+    <h2 class='sr-title'>HSSC Group D Admit Card 2024 Download - Common Entrance Test (CET) Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">HSSC Group D Admit Card 2024: Download Haryana CET Group D Hall Ticket</h2>
         
@@ -87,5 +91,8 @@ $meta_keywords = "hssc group d admit card 2024, haryana group d hall ticket down
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

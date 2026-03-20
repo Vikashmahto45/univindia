@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 10th Class - All India Board 10th Result Portal"; 
 $meta_description = "Check India Result 10th class for all boards. Access CBSE, ICSE, and State Board 10th class results online. Your complete guide to matriculation scores across India."; 
 $meta_keywords = "india result 10th, 10th class result, board result 10th, matric result 2024, india results 10th"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th Class - All India Board 10th Result Portal</div>
+    <h2 class='sr-title'>India Result 10th Class: Navigating the Gateway to Higher Education</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 10th Class: Navigating the Gateway to Higher Education</h1>
+        
         
         <p>The "India Result 10th Class" declaration is arguably the most significant annual event in the life of a young student in India. Known variously as the Secondary School Certificate (SSC), Matriculation, or High School exam, the 10th-grade finals serve as the first major hurdle in a student's formal academic career. For millions of teenagers, finding their "India Result 10th Class" is the moment they decide between chasing dreams in Science, Commerce, or the Arts. These results are not merely a reflection of a year's worth of study; they are a benchmark that determines entry into prestigious senior secondary schools and sets the tone for future professional ambitions. In the vast digital landscape of the subcontinent, the term "India Result 10th Class" encompasses a multi-layered network of central, state, and open-school boards, all working in tandem to evaluate and certify the nation's burgeoning talent pool. At Univindia.online, we are dedicated to providing a clear, accurate, and comprehensive guide for students and parents navigating the 10th-class result season.</p>
 
@@ -66,5 +70,8 @@ $meta_keywords = "india result 10th, 10th class result, board result 10th, matri
         <p>You can always check your "India Result 10th Class" online using your roll number. For the physical marksheet, you can request your school to courier it or download an officially verified digital copy from DigiLocker.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

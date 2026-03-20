@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 12th 2021 - Senior Secondary Results Archive for All Boards"; 
 $meta_description = "Retrieve your India Result 12th 2021 online. Access the archival scores for CBSE, state boards, and national senior secondary exams from the 2021 session."; 
 $meta_keywords = "india result 12th 2021, class 12 result 2021 archive, 12th board result 2021, senior secondary result 2021 national, india results 12th index"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 12th 2021 - Senior Secondary Results Archive for All Boards</div>
+    <h2 class='sr-title'>India Result 12th 2021: Navigating the Historical Success of the National Graduation Class</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 12th 2021: Navigating the Historical Success of the National Graduation Class</h1>
+        
         
         <p>The "India Result 12th 2021" represents a monumental digital vault for millions of students who completed their senior secondary education during one of the most unique and challenging academic years in Indian history. As the definitive concluding chapter of school-level life, the 12th-grade results of the 2021 session remain critical for alumni today as they navigate graduate admissions, international work permits, and high-stakes professional verification. "India Result 12th 2021" serves as the primary national hub for these records, aggregating the results from central boards like CBSE and ISC, alongside mega-state boards like UPMSP, RBSE, and MSBSHSE. Whether you are a former student looking to recover a digital marksheet or an HR professional verifying a 2021 candidate's academic standing, the records under the "India Result 12th 2021" banner are your most reliable resource. At Univindia.online, we are committed to providing you with a high-quality, SEO-optimized manual that simplifies the search for your 2021 Senior Secondary scores, ensuring that every member of the Class of 2021 can access their hard-earned success without technical hurdles.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "india result 12th 2021, class 12 result 2021 archive, 12th boa
         <p>While the computer-generated "India Result 12th 2021" scorecard provided provisional proof, most professional recruiters will require a verified copy from DigiLocker or the original physical certificate issued by the board.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

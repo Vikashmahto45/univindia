@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indian result.com 2023 - Official National Result Portal Hub"; 
 $meta_description = "Check indian result.com 2023 for all board and university results. Access the official 2023 results portal on indiaresults for the latest updates across India."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian result.com 2023 - Official National Result Portal Hub</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Your centralized hub for every academic result in India for the 2023
                 session. Board, University, and Competitive exam links updated.</p>
             <div class="cta-group animate-up">
@@ -109,5 +113,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

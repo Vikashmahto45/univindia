@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CSIR NET Admit Card Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download CSIR NET Admit Card. Get the direct link for Joint CSIR UGC NET examination hall tickets for JRF and Assistant Professorship at csirnet.nta.ac.in."; 
 $meta_keywords = "csir net admit card, download csir net hall ticket, csirnet.nta.ac.in login admit card, csir ugc net exam date 2024 download, science net call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CSIR NET Admit Card Download - NTA National Eligibility Test Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>CSIR NET Admit Card Download - NTA National Eligibility Test Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CSIR NET Admit Card: Download NTA Joint CSIR UGC NET Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "csir net admit card, download csir net hall ticket, csirnet.nt
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 5th 2023 - Official Primary Board Result Gateway"; 
 $meta_description = "Check india result 5th 2023 for RBSE, PSEB, and all state boards. Access the official 5th class board result mirror for the 2023 academic session."; 
 $meta_keywords = "india result 5th 2023, 5th class board result 2023, check 5th result online, indiaresults 5th class, primary board result 2023"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 5th 2023 - Official Primary Board Result Gateway</div>
+    <h2 class='sr-title'>india result 5th 2023: Your Authoritative Navigator to State Primary Education Boards, Elementary Councils,
+            and National Informatics Centre (NIC) Result Gateways for the 2023 Batch Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result 5th 2023: Your Authoritative Navigator to State Primary Education Boards, Elementary Councils,
-            and National Informatics Centre (NIC) Result Gateways for the 2023 Batch Across India</h1>
+        
 
         <p>The "india result 5th 2023" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for the annual Primary Board examinations conducted for the 5th class)
@@ -119,5 +123,8 @@ $meta_keywords = "india result 5th 2023, 5th class board result 2023, check 5th 
             school-issued TC (Transfer Certificate) and Marksheet are final requirements.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

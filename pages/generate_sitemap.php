@@ -1,16 +1,15 @@
-<?php
-/**
- * Univindia Sitemap Generator - Fresh Rebuild
- * This script scans the /pages directory and generates sitemap.xml in the root.
- */
+<?php 
+include '../header.php'; 
+$page_title = "Generate_sitemap"; 
+$meta_description = ""; 
+$meta_keywords = ""; 
+?>
 
-require_once __DIR__ . '/../includes/config.php';
-
-$pages_dir = __DIR__ . '/';
-$root_dir = __DIR__ . '/../';
-$xml_file = $root_dir . 'sitemap.xml';
-
-$xml = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Generate_sitemap</div>
+    <h2 class='sr-title'>Generate_sitemap</h2>
+    <div class='sr-content'>
+        ' . PHP_EOL;
 $xml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
 
 // 1. Add Home Page
@@ -43,3 +42,8 @@ if (file_put_contents($xml_file, $xml)) {
     echo "ERROR: Could not write to " . $xml_file;
 }
 ?>
+    </div>
+</div>
+
+
+<?php include '../footer.php'; ?>

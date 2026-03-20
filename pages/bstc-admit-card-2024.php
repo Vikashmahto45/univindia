@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSTC Admit Card 2024 Download - Rajasthan Pre DElEd Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download BSTC Admit Card 2024. Get the direct link for Rajasthan Pre DElEd (BSTC) entrance examination hall tickets at predeledraj2024.in."; 
 $meta_keywords = "bstc admit card 2024, rajasthan pre deled hall ticket download, predeledraj2024.in admit card login, bstc exam date 2024 download, rajasthan teacher entrance call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSTC Admit Card 2024 Download - Rajasthan Pre DElEd Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>BSTC Admit Card 2024 Download - Rajasthan Pre DElEd Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">BSTC Admit Card 2024: Download Rajasthan Pre DElEd Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "bstc admit card 2024, rajasthan pre deled hall ticket download
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

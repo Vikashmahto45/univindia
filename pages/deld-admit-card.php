@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online"; 
 $meta_description = "Download DElEd Admit Card 2024. Get the direct link for Diploma in Elementary Education (D.El.Ed / BTC) entrance examination hall tickets for various states at the official education portals."; 
 $meta_keywords = "deled admit card 2024, btc admit card download, deled entrance hall ticket, state deled admit card link, deled exam hall ticket login"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">DElEd Admit Card 2024: Download State Diploma in Elementary Education Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "deled admit card 2024, btc admit card download, deled entrance
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

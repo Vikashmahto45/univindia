@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div id="content-container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
+    <h2 class='sr-title'>BTEUP Result 2024 - UP Polytechnic Diploma Semester Results Link</h2>
+    <div class='sr-content'>
+        <div id="content-container">
     <div class="main-content">
         <section class="result-section">
-            <h1>BTEUP Result 2024 - UP Polytechnic Diploma Semester Results Link</h1>
+            
             <p>The <strong>BTEUP result</strong> is the crucial announcement for thousands of students enrolled in various polytechnic diploma courses across Uttar Pradesh. The Board of Technical Education, Uttar Pradesh (BTEUP), Lucknow, conducts semester examinations (Even/Odd) for Pharmacy, Engineering, and other diploma programs. This page provides a comprehensive guide on how to access your results, marksheets, and latest updates from BTE Lucknow.</p>
             
             <div class="flash-news">
@@ -102,5 +106,8 @@ $meta_keywords = "";
     
     
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

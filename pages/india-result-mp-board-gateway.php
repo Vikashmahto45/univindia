@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result mp - Official Madhya Pradesh Board Gateway Hub"; 
 $meta_description = "Check india result mp for Class 10th and 12th board results. Access the official Madhya Pradesh (MPBSE) result portal on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result mp - Official Madhya Pradesh Board Gateway Hub</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest High School and Higher Secondary results for Madhya
                 Pradesh. Official MPBSE mirrors and gateway links updated for the board examinations.</p>
             <div class="cta-group animate-up">
@@ -110,5 +114,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

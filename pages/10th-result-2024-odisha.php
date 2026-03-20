@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th Result 2024 Odisha - official BSE Odisha HSC Results Portal"; 
 $meta_description = "Check 10th Result 2024 Odisha for official High School Certificate (HSC) board examinations. Access the latest BSE Odisha matric result news, dates, and merit lists."; 
 $meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha matric result 2024 date, orissaresults.nic.in 2024 hsc, bseodisha.ac.in hsc results 2024"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Result 2024 Odisha - official BSE Odisha HSC Results Portal</div>
+    <h2 class='sr-title'>10th Result 2024 Odisha: Your Comprehensive Roadmap to the State’s Matriculation Success</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>10th Result 2024 Odisha: Your Comprehensive Roadmap to the State’s Matriculation Success</h1>
+        
         
         <p>The "10th Result 2024 Odisha" (High School Certificate or HSC) is the most decisive academic milestone for hundreds of thousands of young scholars across the educationally focused state of Odisha. Managed by the Board of Secondary Education (BSE), Odisha, the matriculation examination is the primary gateway to senior secondary education and specialized career paths in fields like Science, Commerce, and Arts. For the 2024 academic cycle, the "10th Result 2024 Odisha" search represents the culmination of a decade of hard work and is the official ticket to prestigious junior colleges and vocational institutes across the nation. BSE Odisha has implemented sophisticated digital evaluation and data verification systems for the 2024 session, ensuring that the results for regular and ex-regular candidates are released with maximum transparency, speed, and integrity. At Univindia.online, we recognize the life-altering significance of these scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies the search for your "10th Result 2024 Odisha," ensuring that every student in Odisha can celebrate their academic victory without technical hurdles.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "10th result 2024 odisha, bse odisha 10th result 2024, odisha m
         <p>Yes, the computer-generated "10th Result 2024 Odisha" scorecard is accepted for initial online counseling and document verification on the SAMS Odisha portal until the physical marksheet is provided by the board.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

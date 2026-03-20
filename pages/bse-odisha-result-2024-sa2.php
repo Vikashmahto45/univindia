@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSE Odisha Result 2024 SA2 - Official Class 10 Summative Assessment Portal"; 
 $meta_description = "Check BSE Odisha Result 2024 SA2 online. Access the Summative Assessment 2 (SA2) results for Class 10th matric. Download your 2024 marksheet and qualification status."; 
 $meta_keywords = "bse odisha result 2024 sa2, check odisha 10th sa2 result 2024, bseodisha.ac.in sa2 result 2024, odisha matric sa2 result date, bse odisha results link, official sa2 result portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha Result 2024 SA2 - Official Class 10 Summative Assessment Portal</div>
+    <h2 class='sr-title'>BSE Odisha Result 2024 SA2: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Summative Assessment 2 (SA2), and Madhyamik (Class 10) Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>BSE Odisha Result 2024 SA2: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Summative Assessment 2 (SA2), and Madhyamik (Class 10) Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h1>
+        
         
         <p>The "BSE Odisha Result 2024 SA2" (applicable to the annual secondary summative assessment examinations and continuous evaluation conducted for the 2023-2024 academic session by the Board of Secondary Education, Odisha) represents the single most significant digital milestone for over 5.5 lakh students residing in the educationally advanced landscape of Odisha. As the primary official gateway to the state's education infrastructure (Cuttack, BSE Odisha HQ), and the traditional school education infrastructure of the nation, the "BSE Odisha Result 2024 SA2" serves as the formal secondary master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificate via dedicated government server endpoints. For the 2024 academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "BSE Odisha Result 2024 SA2" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Odisha education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "BSE Odisha Result 2024 SA2," ensuring that every aspiring student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "bse odisha result 2024 sa2, check odisha 10th sa2 result 2024,
         <p>Yes, your board results (verified via the official "BSE Odisha Result 2024 SA2" portal or DigiLocker) are the accepted records for applying to state merit-based scholarships in 2024-25.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

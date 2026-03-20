@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "class 11th result 2023 - Official All-India Board Mirror"; 
 $meta_description = "Check class 11th result 2023 online. Access the annual results for Class 11 exams conducted by various state boards (JKBOSE, HSE, etc.) for the 2023 session."; 
 $meta_keywords = "class 11th result 2023, check 11th result online, official board 11th link, class 11 examination results 2023 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 11th result 2023 - Official All-India Board Mirror</div>
+    <h2 class='sr-title'>class 11th result 2023: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>class 11th result 2023: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "class 11th result 2023" (representing the primary synchronized digital result-dissemination framework utilized by over 10 million students for the annual Class 11 school exams conducted during the historical 2022-2023 academic session by various state boards) represents a significant digital milestone for students residing in the academic and industrial landscape of the nation. As the primary official gateway to the nation's historical 2023 educational infrastructure, and the traditional school education infrastructure of the nation, the "class 11th result 2023" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like National IndiaResults. For the 2023 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across various states, the "class 11th result 2023" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The national education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2023 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "class 11th result 2023," ensuring that every student and researcher in the states can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "class 11th result 2023, check 11th result online, official boa
         <p>Yes, your board results (verified via the official "class 11th result 2023" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

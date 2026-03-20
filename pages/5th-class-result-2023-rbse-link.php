@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "5th class result 2023 rbse link - Rajasthan Board Update"; 
 $meta_description = "Check 5th class result 2023 rbse online. Access the direct link for Rajasthan Board Class 5 primary education results."; 
 $meta_keywords = "5th class result 2023 rbse link, rajasthan board 5th result 2023, rajshaladarpan nic in 5th result, rbse 5th result direct link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th class result 2023 rbse link - Rajasthan Board Update</div>
+    <h2 class='sr-title'>5th class result 2023 rbse link: Your Prime Hub for Rajasthan Board of Secondary Education (RBSE/BSER) Ajmer, Shala Darpan (Department of Education, Rajasthan), Primary Education (Class 5), and Digital Scorecard Portals Across Rajasthan</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>5th class result 2023 rbse link: Your Prime Hub for Rajasthan Board of Secondary Education (RBSE/BSER) Ajmer, Shala Darpan (Department of Education, Rajasthan), Primary Education (Class 5), and Digital Scorecard Portals Across Rajasthan</h1>
+        
         
         <p>The "5th class result 2023 rbse link" (representing the primary digital network utilized by over 14 lakh young students for the annual Primary Education Learning Level Evaluation conducted by the RBSE in collaboration with the Bikaner Directorate) serves as a vital bridge for families in Rajasthan. As the official gateway to the state's foundational educational infrastructure (Ajmer and Bikaner HQ), the "5th class result 2023 rbse link" provides the formal academic directory for parents and students to access their grades and certificates via specialized high-concordance server endpoints like Shala Darpan. For the 2023 academic cycle, which saw a transformative approach to primary grading—shifting from raw marks to comprehensive grade-based assessments—the "5th class result 2023 rbse link" search remains the definitive tool for verifying primary achievements. The Rajasthan education authorities utilized the 'RajShalaDarpan' platform to ensure that the Class 5 scores (including subject-wise grades from A+ to E) were served with maximum reliability. At Univindia.online, we prioritize making these foundational links accessible to every household in Rajasthan, ensuring a smooth transition for students entering secondary education.</p>
 
@@ -60,5 +64,8 @@ $meta_keywords = "5th class result 2023 rbse link, rajasthan board 5th result 20
         <p>Yes, authorized mirror portals often provide a Name-wise search feature for the Rajasthan 5th class results.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

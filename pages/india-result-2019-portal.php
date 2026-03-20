@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 2019 - Official 2019 National Result Archive"; 
 $meta_description = "Check india result 2019 for 10th, 12th, and university exams. Access the official 2019 national result archive and historical marksheet download portal."; 
 $meta_keywords = "india result 2019, 2019 board result, check 2019 results online, indiaresults 2019 archive, national result gateway 2019"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2019 - Official 2019 National Result Archive</div>
+    <h2 class='sr-title'>india result 2019: Your Authoritative Navigator to National Board Councils, State Education Departments, and
+            National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result 2019: Your Authoritative Navigator to National Board Councils, State Education Departments, and
-            National Informatics Centre (NIC) Result Gateways Across India</h1>
+        
 
         <p>The "india result 2019" (representing the primary synchronized digital result-distribution network utilized
             by millions of students for the 2019 annual examinations conducted by national and state boards) serves as
@@ -118,5 +122,8 @@ $meta_keywords = "india result 2019, 2019 board result, check 2019 results onlin
             DigiLocker for instant digital certificate download.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

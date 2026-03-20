@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Admit Card for SBI PO Exam - Download Probationary Officer Hall Ticket"; 
 $meta_description = "Download Admit Card for SBI PO Exam. Get the direct link to access your State Bank of India Probationary Officer prelims & mains hall tickets."; 
 $meta_keywords = "admit card for sbi po exam, sbi po hall ticket download, sbi po call letter link, sbi exam center"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Card for SBI PO Exam - Download Probationary Officer Hall Ticket</div>
+    <h2 class='sr-title'>Admit Card: SBI PO Exam</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="row">
         <div class="col-lg-8">
             <article class="result-card shadow-sm">
                 <div class="card-header-custom p-4">
-                    <h1 class="h2 mb-0">Admit Card: SBI PO Exam</h1>
+                    
                     <p class="text-white-50 mb-0">State Bank of India - Probationary Officer (PO)</p>
                 </div>
                 
@@ -59,5 +63,8 @@ $meta_keywords = "admit card for sbi po exam, sbi po hall ticket download, sbi p
         </div>
     </div>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

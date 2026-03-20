@@ -1,15 +1,19 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 12th 2021 bihar board - Official BSEB Archive"; 
 $meta_description = "Check india result 12th 2021 bihar board for Intermediate Arts, Science, and Commerce. Access the official Bihar Board 2021 result mirror for the 12th batch."; 
 $meta_keywords = "india result 12th 2021 bihar board, bseb 12th result 2021, bihar board intermediate result 2021 indiaresults, 2021 bseb mirror"; 
 ?>
 
-<main class="container">
-    <div class="seo-content">
-        <h1>india result 12th 2021 bihar board: Your Authoritative Navigator to Bihar School Examination Board (BSEB)
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12th 2021 bihar board - Official BSEB Archive</div>
+    <h2 class='sr-title'>india result 12th 2021 bihar board: Your Authoritative Navigator to Bihar School Examination Board (BSEB)
             Patna, Intermediate Senior Secondary Councils, and National Informatics Centre (NIC) Result Gateways for the
-            2021 Archive</h1>
+            2021 Archive</h2>
+    <div class='sr-content'>
+        <main class="container">
+    <div class="seo-content">
+        
 
         <p>The "india result 12th 2021 bihar board" (representing the primary synchronized digital result-distribution
             network utilized by millions of students for the historical 2021 intermediate examinations conducted by
@@ -122,5 +126,8 @@ $meta_keywords = "india result 12th 2021 bihar board, bseb 12th result 2021, bih
             marksheet with a hologram, you must apply at the BSEB Regional Office or Main Office in Patna.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

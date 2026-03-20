@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th Result 2022 Odisha Website - Official BSE Odisha Mirror"; 
 $meta_description = "Check 10th Result 2022 Odisha online. Access the historical BSE Odisha Class 10 results for the 2022 session. Official 2022 orissaresults.nic.in mirror link."; 
 $meta_keywords = "10th result 2022 odisha website, check bse odisha 10th result 2022 online, official odisha 10th 2022 link, orissaresults.nic.in 2022 portal, bseodisha.ac.in 2022"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Result 2022 Odisha Website - Official BSE Odisha Mirror</div>
+    <h2 class='sr-title'>10th Result 2022 Odisha Website: Your Comprehensive Navigator to Board of Secondary Education, Odisha (BSE Odisha), Cuttack, High School Certificate (HSC) Examination (Class 10), and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>10th Result 2022 Odisha Website: Your Comprehensive Navigator to Board of Secondary Education, Odisha (BSE Odisha), Cuttack, High School Certificate (HSC) Examination (Class 10), and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "10th Result 2022 Odisha Website" (representing the primary synchronized digital result-dissemination framework utilized by over 5 lakh students for the annual secondary board exams conducted during the historical 2021-2022 academic session by the BSE Odisha) represents a significant digital milestone for students residing in the academic and industrial landscape of Odisha. As the primary official gateway to the state's historical 2022 educational infrastructure (Cuttack HQ), and the traditional school education infrastructure of the nation, the "10th Result 2022 Odisha Website" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Odisha IndiaResults. For the 2022 academic cycle, which marked the successful implementation of the 'Alternative Assessment' and 'Summative Evaluation' models in Odisha, the "10th Result 2022 Odisha Website" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2022 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "10th Result 2022 Odisha Website," ensuring that every student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "10th result 2022 odisha website, check bse odisha 10th result 
         <p>Yes, your board results (verified via the official "10th Result 2022 Odisha Website" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result rajasthan 2021 10th - Official Rajasthan Secondary 2021 Archive"; 
 $meta_description = "Check india result rajasthan 2021 10th for BSER Class 10 exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result rajasthan 2021 10th - Official Rajasthan Secondary 2021 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Rajasthan Class 10th
                 (Secondary). Official BSER Ajmer mirrors and archival links updated for the 2021 batch verification.</p>
             <div class="cta-group animate-up">
@@ -117,5 +121,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

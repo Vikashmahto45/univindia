@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in"; 
 $meta_description = "Download GATE 2025 Admit Card. Get direct link for Graduate Aptitude Test in Engineering Hall Ticket. Check exam dates, paper schedules, and reporting instructions."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in</div>
+    <h2 class='sr-title'>GATE 2025 Admit Card</h2>
+    <div class='sr-content'>
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +21,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4">
                 <div class="card-body p-4">
-                    <h1 class="display-5 fw-bold text-success mb-3 underline-success">GATE 2025 Admit Card</h1>
+                    
                     <p class="lead">The Graduate Aptitude Test in Engineering (GATE) 2025 admit cards are expected to be released by the conducting Indian Institute of Technology (IIT) in January 2025. Candidates who have successfully registered for the exam can download their hall tickets from the official GATE Online Application Processing System (GOAPS).</p>
                     
                     <div class="alert alert-success border-0 shadow-sm mt-4">
@@ -109,5 +113,8 @@ $meta_keywords = "";
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

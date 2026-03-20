@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th Class Result 2023 RBSE Name Wise Roll Number - Official Rajasthan Board Link"; 
 $meta_description = "Check 10th Class Result 2023 RBSE Name Wise and Roll Number Wise. Access the Rajasthan Board Secondary results for the 2023 session. Official merit stats and marks."; 
 $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 roll number wise, rajeduboard.rajasthan.gov.in 10th result 2023, check rajasthan board 10th result by name, official rbse 10th 2023 link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Class Result 2023 RBSE Name Wise Roll Number - Official Rajasthan Board Link</div>
+    <h2 class='sr-title'>10th Class Result 2023 RBSE Name Wise Roll Number: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary School (Class 10), Praveshika (Class 10), and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>10th Class Result 2023 RBSE Name Wise Roll Number: Your Comprehensive Navigator to Board of Secondary Education Rajasthan (BSER), Ajmer, Secondary School (Class 10), Praveshika (Class 10), and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "10th Class Result 2023 RBSE Name Wise Roll Number" (applicable to the annual secondary and professional board examinations conducted for the 2022-2023 academic session by the BSER Ajmer) represents a significant digital milestone for over 10 lakh students residing in the academic and cultural landscape of Rajasthan. As the primary official gateway to the state's historical secondary infrastructure (Ajmer, BSER HQ), and the traditional school education infrastructure of the nation, the "10th Class Result 2023 RBSE Name Wise Roll Number" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (Class 10) via dedicated government server endpoints and authorized mirror archives. For the 2023 academic cycle, which marked the complete return to the standard annual evaluation framework in Rajasthan, the "10th Class Result 2023 RBSE Name Wise Roll Number" search remains the digital gateway through which candidates verify their fundamental academic achievement with maximum transparency and integrity. The Rajasthan education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "10th Class Result 2023 RBSE Name Wise Roll Number," ensuring that every student and researcher in Rajasthan can approach their academic records without technical delay or misinformation.</p>
 
@@ -65,5 +69,8 @@ $meta_keywords = "10th class result 2023 rbse name wise, rbse 10th result 2023 r
         <p>Yes, your board results (verified via the official "10th Class Result 2023 RBSE Name Wise Roll Number" portal) are digitized and available in the DigiLocker archive for official verification.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "8th Class Result 2022 Punjab Board - Historical PSEB Result archive"; 
 $meta_description = "Check 8th Class Result 2022 Punjab Board online. Access the historical Punjab School Education Board (PSEB) Middle results for the 2022 session. Official Link."; 
 $meta_keywords = "8th class result 2022 punjab board, check pseb 8th result 2022 online, punjab board middle result 2022, official 2022 pseb 8th link, indiaresult pseb 2022"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th Class Result 2022 Punjab Board - Historical PSEB Result archive</div>
+    <h2 class='sr-title'>8th Class Result 2022 Punjab Board: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Middle Standard (Class 8), Primary Standard (Class 5), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>8th Class Result 2022 Punjab Board: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Middle Standard (Class 8), Primary Standard (Class 5), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "8th Class Result 2022 Punjab Board" (applicable to the annual middle standard board examinations and final technical evaluations conducted for the 2021-2022 academic session by the PSEB Mohali) represents a significant digital milestone for over 3 lakh students residing in the academic and industrial landscape of Punjab. As the primary official gateway to the state's historical middle education infrastructure (Mohali, PSEB HQ), and the traditional school education infrastructure of the nation, the "8th Class Result 2022 Punjab Board" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final promotion status via dedicated government server endpoints and authorized mirror archives like IndiaResults. For the 2022 academic cycle, which marked the complete return to traditional board-level evaluations for the middle standard in Punjab, the "8th Class Result 2022 Punjab Board" search remains the digital gateway through which candidates verify their fundamental academic achievement with maximum transparency and integrity. The Punjab education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2022 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "8th Class Result 2022 Punjab Board," ensuring that every student and researcher in Punjab can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "8th class result 2022 punjab board, check pseb 8th result 2022
         <p>Yes, your board results (verified via the official "8th Class Result 2022 Punjab Board" portal) are digitized and available in the DigiLocker archive for official verification.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "IBPS Clerk Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online"; 
 $meta_description = "Download IBPS Clerk Admit Card. Get the direct link for IBPS CRP Clerks-XIV Preliminary and Main examination hall tickets at ibps.in."; 
 $meta_keywords = "ibps clerk admit card, ibps crp clerks xiv hall ticket download, ibps.in admit card login, ibps clerk prelims exam date 2024, ibps bank clerk call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IBPS Clerk Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>IBPS Clerk Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">IBPS Clerk Admit Card: Download Institute of Banking Personnel Selection Hall Ticket</h2>
         
@@ -93,5 +97,8 @@ $meta_keywords = "ibps clerk admit card, ibps crp clerks xiv hall ticket downloa
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

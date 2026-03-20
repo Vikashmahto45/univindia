@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in"; 
 $meta_description = "Download IBPS PO Admit Card 2024 for CRP PO/MT XIV. Get direct link for Preliminary Exam Hall Ticket. Check exam dates, reporting time, and important banking exam guidelines."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in</div>
+    <h2 class='sr-title'>IBPS PO Admit Card 2024</h2>
+    <div class='sr-content'>
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +21,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4 rounded-5 p-2">
                 <div class="card-body p-4">
-                    <h1 class="display-5 fw-bold text-dark border-bottom pb-3 mb-4">IBPS PO Admit Card 2024</h1>
+                    
                     <p class="lead">The Institute of Banking Personnel Selection (IBPS) is expected to release the admit cards for the Common Recruitment Process for Probationary Officers and Management Trainees (CRP PO/MT XIV) 2024 soon. Candidates who have applied for the vacancies in various public sector banks can download their IBPS PO Prelims Admit Card from the official website at ibps.in.</p>
                     
                     <div class="row mt-4">
@@ -167,5 +171,8 @@ $meta_keywords = "";
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

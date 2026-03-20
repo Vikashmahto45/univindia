@@ -1,12 +1,16 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSc 1st Year Result 2023 - Download University BSc Part 1 Marksheet"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div class="result-container">
-    <h1>BSc 1st Year Result 2023</h1>
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSc 1st Year Result 2023 - Download University BSc Part 1 Marksheet</div>
+    <h2 class='sr-title'>BSc 1st Year Result 2023</h2>
+    <div class='sr-content'>
+        <div class="result-container">
+    
     
     <div class="info-box">
         <p>The <strong>BSc 1st Year Result 2023</strong> has been announced by various universities across India. Students who appeared for the Bachelor of Science Part 1 examination can now check their results and download their marksheet using their roll number and name.</p>
@@ -32,5 +36,8 @@ $meta_keywords = "";
         <p>Most universities like RU, MGSU, MDSU, MLSU, and others have updated their portals with the latest BSc results. Ensure you have your admit card ready to verify the details.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

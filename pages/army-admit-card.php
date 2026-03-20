@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Army Admit Card Download - Join Indian Army Agnipath Hall Ticket | Univindia.online"; 
 $meta_description = "Download Army Admit Card. Get the direct link for Join Indian Army (JIA) Agnipath, Agniveer, and Soldier recruitment examination hall tickets at joinindianarmy.nic.in."; 
 $meta_keywords = "army admit card download, join indian army hall ticket download, joinindianarmy.nic.in login admit card, agniveer exam date 2024 download, soldier recruitment call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Army Admit Card Download - Join Indian Army Agnipath Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>Army Admit Card Download - Join Indian Army Agnipath Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Army Admit Card: Download Join Indian Army Agnipath Hall Ticket</h2>
         
@@ -92,5 +96,8 @@ $meta_keywords = "army admit card download, join indian army hall ticket downloa
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

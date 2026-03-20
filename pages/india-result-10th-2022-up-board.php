@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 10th 2022 UP Board - Official Uttar Pradesh matric Archive"; 
 $meta_description = "Check India Result 10th 2022 UP Board online. Access the historical Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) High School results for the 2022 session. Official mirror."; 
 $meta_keywords = "india result 10th 2022 up board, check up board 10th result 2022 online, upmsp high school result 2022 indiaresults, official 2022 up board link, up board results 2022"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th 2022 UP Board - Official Uttar Pradesh matric Archive</div>
+    <h2 class='sr-title'>India Result 10th 2022 UP Board: Your Comprehensive Navigator to Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP), Prayagraj, High School (Class 10), Secondary School, and Uttar Pradesh State Board Result Gateways (Government of UP, Secondary Education Department, and National Informatics Centre (NIC) UP State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 10th 2022 UP Board: Your Comprehensive Navigator to Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP), Prayagraj, High School (Class 10), Secondary School, and Uttar Pradesh State Board Result Gateways (Government of UP, Secondary Education Department, and National Informatics Centre (NIC) UP State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result 10th 2022 UP Board" (representing the primary synchronized digital result-dissemination framework utilized by over 27 lakh students for the annual high school board exams conducted during the 2021-2022 academic session by the UPMSP Prayagraj) represents a significant digital milestone for students residing in the academic and industrial landscape of Uttar Pradesh. As the primary authorized mirror gateway to the state's historical 2022 educational infrastructure (Prayagraj, UPMSP HQ), and the traditional school education infrastructure of the nation, the "India Result 10th 2022 UP Board" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (High School) via dedicated high-concurrency server endpoints and authorized mirror archives like UP IndiaResults. For the 2022 academic cycle, which marked the complete return to traditional board examinations in Uttar Pradesh after the pandemic period, the "India Result 10th 2022 UP Board" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Uttar Pradesh education councils implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the 2022 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result 10th 2022 UP Board," ensuring that every student and researcher in Uttar Pradesh can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result 10th 2022 up board, check up board 10th result 20
         <p>Yes, your board results (verified via the official "India Result 10th 2022 UP Board" portals) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

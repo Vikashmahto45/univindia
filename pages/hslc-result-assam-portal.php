@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "HSLC Result - Official Assam Board Secondary Portal"; 
 $meta_description = "Check HSLC Result online. Access the Secondary Education Board of Assam (SEBA) High School Leaving Certificate results for current and historical sessions."; 
 $meta_keywords = "hslc result, check seba hslc result online, assam board 10th result link, sebaonline.org hslc result, resultsassam.nic.in hslc"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSLC Result - Official Assam Board Secondary Portal</div>
+    <h2 class='sr-title'>HSLC Result: Your Comprehensive Navigator to Secondary Education Board of Assam (SEBA), Guwahati, High School Leaving Certificate (HSLC) Examination (Class 10), and Assam State Board Result Gateways (Government of Assam, Education Department, and National Informatics Centre (NIC) Assam State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>HSLC Result: Your Comprehensive Navigator to Secondary Education Board of Assam (SEBA), Guwahati, High School Leaving Certificate (HSLC) Examination (Class 10), and Assam State Board Result Gateways (Government of Assam, Education Department, and National Informatics Centre (NIC) Assam State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "HSLC Result" (representing the primary synchronized digital result-dissemination framework utilized by over 4 lakh students for the annual secondary board exams conducted during the academic sessions by the SEBA Guwahati) represents a significant digital milestone for students residing in the academic and cultural landscape of Assam. As the primary official gateway to the state's educational infrastructure (Guwahati HQ), and the traditional school education infrastructure of the nation, the "HSLC Result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Assam IndiaResults. For the current academic cycle, which marked a definitive record in transparent grading and digital certificate issuance in Assam, the "HSLC Result" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Assam education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the board scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "HSLC Result," ensuring that every student and researcher in Assam can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "hslc result, check seba hslc result online, assam board 10th r
         <p>Yes, your board results (verified via the official "HSLC Result" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

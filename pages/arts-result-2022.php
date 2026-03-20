@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Arts Result 2022 - Official National Board Archive"; 
 $meta_description = "Check Arts Result 2022 online. Access the historical Higher Secondary (12th) Arts results for all major state boards including RBSE, UP Board, and GSEB. Official mirror."; 
 $meta_keywords = "arts result 2022, check 12th arts result 2022 online, rbse 12th arts result 2022, up board 12th arts result 2022, official 2022 arts link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Arts Result 2022 - Official National Board Archive</div>
+    <h2 class='sr-title'>Arts Result 2022: Your Comprehensive Navigator to National Board Result Aggregators (IndiaResults), State Board Examination Councils, Senior Secondary (Class 12), Humanities, Arts Streams (History, Political Science, Geography, Sociology), and National NIC Result Gateways (Government of Rajasthan, Uttar Pradesh, Gujarat, and Maharashtra) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>Arts Result 2022: Your Comprehensive Navigator to National Board Result Aggregators (IndiaResults), State Board Examination Councils, Senior Secondary (Class 12), Humanities, Arts Streams (History, Political Science, Geography, Sociology), and National NIC Result Gateways (Government of Rajasthan, Uttar Pradesh, Gujarat, and Maharashtra) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "Arts Result 2022" (representing the primary synchronized digital result-dissemination framework utilized by over 7 million humanities students for the annual higher secondary exams conducted during the 2021-2022 academic session across India) represents a significant digital milestone for students residing in the academic and cultural landscape of the nation. As the primary authorized framework to the historical 2022 educational infrastructure (covering major boards like RBSE Ajmer, UPMSP Prayagraj, and GSEB Gandhinagar), and the traditional school education infrastructure of the nation, the "Arts Result 2022" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (Inter Arts) via dedicated high-concurrency server endpoints and authorized mirror archives. For the 2022 academic cycle, which marked a definitive record in student performance across the humanities, the "Arts Result 2022" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The various state education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2022 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Arts Result 2022," ensuring that every student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "arts result 2022, check 12th arts result 2022 online, rbse 12t
         <p>Yes, your board results (verified via the official "Arts Result 2022" portal) are recorded in the national database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

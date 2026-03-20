@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "DSSSB Admit Card Download - Delhi Subordinate Services Hall Ticket"; 
 $meta_description = "Download DSSSB Admit Card for TGT, PGT, Clerk, and Junior Assistant exams. Get direct hall ticket links from the official OARS portal."; 
 $meta_keywords = "dsssb admit card, dsssb hall ticket download, delhi exam admit card, dsssb exam date 2024, dsssb oars login"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; DSSSB Admit Card Download - Delhi Subordinate Services Hall Ticket</div>
+    <h2 class='sr-title'>DSSSB Admit Card</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="row">
         <div class="col-lg-8">
             <article class="result-card shadow-sm">
                 <div class="card-header-custom p-4">
-                    <h1 class="h2 mb-0">DSSSB Admit Card</h1>
+                    
                     <p class="text-white-50 mb-0">Delhi Subordinate Services Selection Board</p>
                 </div>
                 
@@ -59,5 +63,8 @@ $meta_keywords = "dsssb admit card, dsssb hall ticket download, delhi exam admit
         </div>
     </div>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

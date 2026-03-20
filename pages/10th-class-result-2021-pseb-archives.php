@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th class result 2021 pseb - Official Punjab 2021 Archive"; 
 $meta_description = "Check 10th class result 2021 pseb for Matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival result gateway."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result 2021 pseb - Official Punjab 2021 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 academic session results for Punjab Class 10th
                 (Matriculation). Official PSEB Mohali mirrors and archival links updated for the 2021 batch
                 verification.</p>
@@ -120,5 +124,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

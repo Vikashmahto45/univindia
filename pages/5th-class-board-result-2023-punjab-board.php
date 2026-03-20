@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "5th class board result 2023 punjab board - Official PSEB Mirror"; 
 $meta_description = "Check 5th class board result 2023 punjab board online. Access the historical results for Punjab School Education Board (PSEB) Class 5 for the 2023 session."; 
 $meta_keywords = "5th class board result 2023 punjab board, check pseb class 5 result 2023 online, official punjab board link, indiaresults punjab 5th portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th class board result 2023 punjab board - Official PSEB Mirror</div>
+    <h2 class='sr-title'>5th class board result 2023 punjab board: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Primary School examinations (Class 5), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>5th class board result 2023 punjab board: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Primary School examinations (Class 5), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "5th class board result 2023 punjab board" (representing the primary synchronized digital result-dissemination framework utilized by over 3 lakh students for the annual Primary exams conducted during the historical 2022-2023 academic session by the PSEB Mohali) represents a significant digital milestone for students residing in the academic and industrial landscape of Punjab. As the primary official gateway to the state's historical 2023 educational infrastructure (Mohali HQ), and the traditional school education infrastructure of the nation, the "5th class board result 2023 punjab board" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Punjab IndiaResults. For the 2023 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across Punjab, the "5th class board result 2023 punjab board" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Punjab education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2023 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "5th class board result 2023 punjab board," ensuring that every student and researcher in Punjab can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "5th class board result 2023 punjab board, check pseb class 5 r
         <p>Yes, your board results (verified via the official "5th class board result 2023 punjab board" portal) are recorded in the state database and serve as primary data for various primary merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "All India Result - Official National Result verification Portal"; 
 $meta_description = "Check All India Result online. Access the high-speed national and state board result verification framework. Official 10th, 12th, and Degree marks link cluster."; 
 $meta_keywords = "all india result, check board results online all india, high speed result portal india, official all india result link, board and university results 2024"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; All India Result - Official National Result verification Portal</div>
+    <h2 class='sr-title'>All India Result: Your Comprehensive Navigator to National Board Result Gateways, State Board Examination Councils, 10th Matrix, 12th Higher Secondary (Class 12), Science, Commerce, Arts Streams, University Degree, and National informatics Centre (NIC) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>All India Result: Your Comprehensive Navigator to National Board Result Gateways, State Board Examination Councils, 10th Matrix, 12th Higher Secondary (Class 12), Science, Commerce, Arts Streams, University Degree, and National informatics Centre (NIC) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "All India Result" (representing the primary synchronized digital result-dissemination framework utilized by over 50 million students for the annual board, technical, and university exams conducted during the current academic session) represents the single most critical digital milestone for students residing in the academic and industrial landscape of India. As the primary authorized framework to the nation's educational infrastructure (covering boards like CBSE, ICSE, and all major State Boards like UPMSP, RBSE, and BSEB), and the traditional school education infrastructure of the nation, the "All India Result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate via dedicated high-concurrency server endpoints and authorized mirror archives. For the current academic cycle, where immediate result retrieval and robust technical evaluation are national priorities, the "All India Result" search is the digital gateway through which candidates verify their fundamental professional achievement with maximum speed, transparency, and integrity. The national and state education councils have implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "All India Result," ensuring that every aspiring student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "all india result, check board results online all india, high s
         <p>Yes, your board results (verified via the official "All India Result" portal) are recorded in the National Scholarship Portal (NSP) database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

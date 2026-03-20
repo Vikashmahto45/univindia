@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "calcutta university 2nd semester result - Official CU Result Portal"; 
 $meta_description = "Check calcutta university 2nd semester result for BA, BSc, and BCom. Access the official University of Calcutta (CU) 2nd sem result gateway on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; calcutta university 2nd semester result - Official CU Result Portal</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023-2024 CBCS/Non-CBCS 2nd Semester results for the
                 University of Calcutta (CU). Official mirrors and high-speed links updated.</p>
             <div class="cta-group animate-up">
@@ -112,5 +116,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

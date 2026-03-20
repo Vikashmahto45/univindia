@@ -1,15 +1,19 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<div class="content-wrapper">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
+    <h2 class='sr-title'>High School Result 2023 UP Board Link</h2>
+    <div class='sr-content'>
+        <div class="content-wrapper">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="page-head-line">High School Result 2023 UP Board Link</h1>
+                
             </div>
         </div>
         <div class="row">
@@ -59,5 +63,8 @@ $meta_keywords = "";
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

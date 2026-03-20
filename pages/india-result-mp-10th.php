@@ -1,15 +1,19 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result mp 10th - Official MPBSE Result Portal"; 
 $meta_description = "Check india result mp 10th for Class 10 High School. Access the official Madhya Pradesh Board result mirror on indiaresults.com for fast result checking."; 
 $meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th result 2024, MP board 10th result indiaresults, check mp result 10th"; 
 ?>
 
-<main class="container">
-    <div class="seo-content">
-        <h1>india result mp 10th: Your Definitive Navigator to Madhya Pradesh Board of Secondary Education (MPBSE)
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result mp 10th - Official MPBSE Result Portal</div>
+    <h2 class='sr-title'>india result mp 10th: Your Definitive Navigator to Madhya Pradesh Board of Secondary Education (MPBSE)
             Bhopal, High School Councils, and National Informatics Centre (NIC) Result Gateways Across Madhya Pradesh
-        </h1>
+        </h2>
+    <div class='sr-content'>
+        <main class="container">
+    <div class="seo-content">
+        
 
         <p>The "india result mp 10th" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for the annual High School examinations conducted by MPBSE) serves as the
@@ -121,5 +125,8 @@ $meta_keywords = "india result mp 10th, mp board 10th result link, mpbose 10th r
             the original mark-sheet issued by MPBSE is required.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

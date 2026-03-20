@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<main class="container py-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal</div>
+    <h2 class='sr-title'>Admit Card Download 2025: All Govt & University Hall Tickets</h2>
+    <div class='sr-content'>
+        <main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -15,7 +19,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">Admit Card Download 2025: All Govt & University Hall Tickets</h1>
+            
             
             <div class="alert alert-secondary bg-dark border-secondary text-light rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-search me-2"></i> <strong>Quick Search:</strong> This portal serves as a central hub for finding the official <strong>Admit Card Download Link</strong> for various competitive examinations, recruitment tests, and university semseter exams across India.
@@ -191,5 +195,8 @@ $meta_keywords = "";
     transform: translateY(-5px) scale(1.05);
 }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

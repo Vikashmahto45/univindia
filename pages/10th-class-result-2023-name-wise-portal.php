@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th Class Result 2023 Name Wise - Official National Mirror"; 
 $meta_description = "Check 10th Class Result 2023 Name Wise online. Access the historical Rajasthan, Punjab, and other state matric results for the 2023 session via official name mirrors."; 
 $meta_keywords = "10th class result 2023 name wise, check 10th result 2023 by name, search matric result 2023 name wise, official 2023 name mirror, indiaresults 10th name 2023"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Class Result 2023 Name Wise - Official National Mirror</div>
+    <h2 class='sr-title'>10th Class Result 2023 Name Wise: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Secondary School Examination (Class 10), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>10th Class Result 2023 Name Wise: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Secondary School Examination (Class 10), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "10th Class Result 2023 Name Wise" (representing the primary synchronized digital result-dissemination framework utilized by over 1 crore students for the annual secondary board exams conducted during the historical 2022-2023 academic session by various state bodies like BSER Ajmer and PSEB Mohali) represents a significant digital milestone for students residing in the academic and industrial landscape of the nation. As the primary official gateway to the nation's historical 2023 educational infrastructure, and the traditional school education infrastructure of the nation, the "10th Class Result 2023 Name Wise" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Rajasthan and Punjab IndiaResults. For the 2023 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across India, the "10th Class Result 2023 Name Wise" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The national education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "10th Class Result 2023 Name Wise," ensuring that every student and researcher in the country can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "10th class result 2023 name wise, check 10th result 2023 by na
         <p>Yes, your board results (verified via the official "10th Class Result 2023 Name Wise" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

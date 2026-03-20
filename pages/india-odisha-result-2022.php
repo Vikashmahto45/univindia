@@ -1,15 +1,19 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "www.india result.com odisha 2022 - Official Odisha Board Archive"; 
 $meta_description = "Check www.india result.com odisha 2022 for BSE Odisha 10th and CHSE 12th results. Access the official Odisha result mirror for the 2022 academic session."; 
 $meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indiaresults, CHSE odisha result 2022, bse odisha 2022 mirror"; 
 ?>
 
-<main class="container">
-    <div class="seo-content">
-        <h1>www.india result.com odisha 2022: Your Official Navigator to Board of Secondary Education (BSE) Odisha,
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.india result.com odisha 2022 - Official Odisha Board Archive</div>
+    <h2 class='sr-title'>www.india result.com odisha 2022: Your Official Navigator to Board of Secondary Education (BSE) Odisha,
             Council of Higher Secondary Education (CHSE), and National Informatics Centre (NIC) Result Gateways for the
-            2022 Archive</h1>
+            2022 Archive</h2>
+    <div class='sr-content'>
+        <main class="container">
+    <div class="seo-content">
+        
 
         <p>The "www.india result.com odisha 2022" (representing the primary synchronized digital result-distribution
             network utilized by millions of students for the historical 2022 Odisha board examinations conducted by BSE
@@ -122,5 +126,8 @@ $meta_keywords = "www.india result.com odisha 2022, odisha 10th result 2022 indi
             students should use the Odyssey/DigiLocker portal of BSE Odisha.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

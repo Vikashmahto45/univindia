@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online"; 
 $meta_description = "Download BSPHCL Admit Card. Get the direct link for Bihar State Power Holding Company Limited (BSPHCL) Assistant Engineer, Clerk, and Technician hall tickets at bsphcl.co.in."; 
 $meta_keywords = "bsphcl admit card, bihar electricity board hall ticket download, bsphcl.co.in admit card login, bsphcl technician admit card download, bihar power holding call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">BSPHCL Admit Card: Download Bihar State Power Holding Company Hall Ticket</h2>
         
@@ -92,5 +96,8 @@ $meta_keywords = "bsphcl admit card, bihar electricity board hall ticket downloa
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "eamcet results 2023 - Official AP & Telangana Hub"; 
 $meta_description = "Check EAMCET (EAPCET) result 2023 on eamcet results 2023. Access official AP & Telangana 2023 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; eamcet results 2023 - Official AP & Telangana Hub</div>
+    <h2 class='sr-title'></h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Engineering, Agriculture and Medical Common Entrance Test (EAMCET/EAPCET) examination results for the 2023 academic session. Access official AP and Telangana state board mirrors and 2023 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2023 EAMCET Hub</a>
@@ -87,5 +91,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

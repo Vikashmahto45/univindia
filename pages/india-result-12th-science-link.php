@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 12th science - Official National Science Result Hub"; 
 $meta_description = "Check india result 12th science for CBSE, ICSE, and all State Boards. Access the official 12th science stream result portal and marksheet download."; 
 $meta_keywords = "india result 12th science, 12th science board result, check 12th science result online, indiaresults 12th science, HSC science result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12th science - Official National Science Result Hub</div>
+    <h2 class='sr-title'>india result 12th science: Your Unified Navigator to Central Board of Secondary Education (CBSE), State
+            Senior Secondary Boards, and National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result 12th science: Your Unified Navigator to Central Board of Secondary Education (CBSE), State
-            Senior Secondary Boards, and National Informatics Centre (NIC) Result Gateways Across India</h1>
+        
 
         <p>The "india result 12th science" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for the annual senior secondary examination in the Science stream conducted
@@ -120,5 +124,8 @@ $meta_keywords = "india result 12th science, 12th science board result, check 12
             data; however, for legal purposes, the board portal or DigiLocker is preferred.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

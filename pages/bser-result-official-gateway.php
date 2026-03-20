@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "bser result - Official Rajasthan Secondary Hub"; 
 $meta_description = "Check bser result for Board of Secondary Education Rajasthan exams. Access the official RBSE Ajmer result gateway and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bser result - Official Rajasthan Secondary Hub</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest and archival examination results for Rajasthan Board
                 (BSER Ajmer). Official RBSE mirrors and direct board result links updated for Class 10th and 12th for
                 the current academic session.</p>
@@ -119,5 +123,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

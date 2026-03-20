@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "IB ACIO Admit Card 2024 Download - Intelligence Bureau Assistant Central Intelligence Officer Link | Univindia.online"; 
 $meta_description = "Download IB ACIO Admit Card 2024. Get the direct link for Intelligence Bureau (MHA) Assistant Central Intelligence Officer Grade-II/Executive hall tickets at mha.gov.in."; 
 $meta_keywords = "ib acio admit card 2024, intelligence bureau hall ticket download, mha ib acio admit card link, ib acio grade 2 hall ticket, ib acio exam date 2024"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IB ACIO Admit Card 2024 Download - Intelligence Bureau Assistant Central Intelligence Officer Link | Univindia.online</div>
+    <h2 class='sr-title'>IB ACIO Admit Card 2024 Download - Intelligence Bureau Assistant Central Intelligence Officer Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">IB ACIO Admit Card 2024: Download Intelligence Bureau Hall Ticket</h2>
         
@@ -92,5 +96,8 @@ $meta_keywords = "ib acio admit card 2024, intelligence bureau hall ticket downl
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

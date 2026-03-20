@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "bse odisha.ac.in 10th result 2023 - Official Odisha 10th Hub"; 
 $meta_description = "Check BSE Odisha 10th result 2023 on bse odisha.ac.in 10th result 2023. Access the official Board of Secondary Education 2023 archival scorecards."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse odisha.ac.in 10th result 2023 - Official Odisha 10th Hub</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Board of
                 Secondary Education (BSE), Odisha Class 10th (Annual Secondary) examination. Official BSE Odisha mirrors
                 and 2023 archival links updated for batch verification.</p>
@@ -122,5 +126,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSE Odisha 10th Result - Official Odisha Matric Hub"; 
 $meta_description = "Check BSE Odisha 10th Result online. Access the high-speed Board of Secondary Education (BSE) Odisha High School Certificate (HSC) results. Official merit link."; 
 $meta_keywords = "bse odisha 10th result, check bse odisha matric result online, bseodisha.ac.in results, official bse odisha hsc link, indiaresult bse odisha 10th"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha 10th Result - Official Odisha Matric Hub</div>
+    <h2 class='sr-title'>BSE Odisha 10th Result: Your Comprehensive Navigator to Board of Secondary Education (BSE), Odisha, Cuttack, Secondary School (Class 10), High School Certificate (HSC), Madhyama, and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>BSE Odisha 10th Result: Your Comprehensive Navigator to Board of Secondary Education (BSE), Odisha, Cuttack, Secondary School (Class 10), High School Certificate (HSC), Madhyama, and Odisha State Board Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "BSE Odisha 10th Result" (representing the primary digital result-dissemination framework utilized by over 5 lakh students for the annual secondary exams conducted for the current academic session by the BSE Odisha) represents the single most significant digital milestone for students residing in the academic and cultural landscape of Odisha. As the primary official gateway to the state's educational infrastructure (Cuttack, BSE HQ), and the traditional school education infrastructure of the nation, the "BSE Odisha 10th Result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (HSC) via dedicated government server endpoints and authorized mirror archives like OrissaResults. For the current academic cycle, where high-quality technical evaluation and fastest result retrieval are state priorities, the "BSE Odisha 10th Result" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Odisha education councils have implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "BSE Odisha 10th Result," ensuring that every aspiring student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "bse odisha 10th result, check bse odisha matric result online,
         <p>Yes, your board results (verified via the official "BSE Odisha 10th Result" portal) are recorded in the state scholarship database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

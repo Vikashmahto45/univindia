@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Admit Cards - Univindia.online Hall Ticket Portal"; 
 $meta_description = "Download latest admit cards and hall tickets for competitive exams, university semesters, and board tests at Univindia.online."; 
 $meta_keywords = "admit card, hall ticket, download admit card, exam hall ticket"; 
 ?>
 
-<div class="container" style="margin-top: 30px;">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Cards - Univindia.online Hall Ticket Portal</div>
+    <h2 class='sr-title'>Exam Admit Cards Archive</h2>
+    <div class='sr-content'>
+        <div class="container" style="margin-top: 30px;">
     <div class="card" style="border-top: 4px solid var(--primary-color);">
-        <h1 style="color: var(--nav-color); border-bottom: 2px solid #eee; padding-bottom: 10px;">Exam Admit Cards Archive</h1>
+        
         <p>Browse and download the latest admit cards for various university and recruitment examinations across India.</p>
         
         <div class="search-container" style="margin: 20px 0;">
@@ -50,5 +54,8 @@ function filterLinks() {
     }
 }
 </script>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

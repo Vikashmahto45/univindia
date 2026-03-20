@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "2nd puc result - Official Karnataka PUE Portal"; 
 $meta_description = "Check 2nd puc result online for Karnataka Class 12. Access the official KarResults portal for science, commerce, and arts results."; 
 $meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 2024, pue karnataka result, 2nd puc result link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 2nd puc result - Official Karnataka PUE Portal</div>
+    <h2 class='sr-title'>2nd puc result: Your Authoritative Navigator to Karnataka Pre-University Examination (PUE), Department of Pre-University Education (DPUE), and National Informatics Centre (NIC) Result Gateways</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>2nd puc result: Your Authoritative Navigator to Karnataka Pre-University Examination (PUE), Department of Pre-University Education (DPUE), and National Informatics Centre (NIC) Result Gateways</h1>
+        
         
         <p>The "2nd puc result" (representing the primary synchronized digital result-distribution network utilized by over 7 lakh students for the annual pre-university certificate examinations conducted by the Karnataka PUE Board) serves as the most critical academic junction in the state. As the primary official gateway to Karnataka's higher educational infrastructure (Bengaluru HQ), the "2nd puc result" provides the formal academic master directory that allows candidates to access their theory scores, practical marks, and qualifying status via dedicated high-concurrency server endpoints like `karresults.nic.in` and `pue.kar.nic.in`. For the current academic cycle, which observed a massive digital transformation in secure tabulation and instant result delivery across all 31 districts, the "2nd puc result" search remains the definitive digital tool for verifying professional potential. The Karnataka education authorities implemented state-of-the-art 'Integrated Marks Processing' systems to ensure that the PUC-II scores (including subject-wise totals, aggregate percentage, and eligibility for KCET and NEET) were served with maximum integrity. At Univindia.online, we prioritize specialized navigation for Karnataka students. We are dedicated to providing a premium, SEO-optimized portal that centralizes the "2nd puc result," ensuring that every student from Mysuru to Belgavi can access their records without technical delay.</p>
 
@@ -61,5 +65,8 @@ $meta_keywords = "2nd puc result, check karnataka puc result, karresults nic in 
         <p>Yes, the "2nd puc result" served via the NIC portal is the official digital output of the Karnataka DPUE.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

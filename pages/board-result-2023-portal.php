@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "board result 2023 - Official National Board Hub"; 
 $meta_description = "Check board result 2023 for CBSE, ICSE, UP Board, Bihar Board, and all state boards. Access the official 10th and 12th board result 2023 portal."; 
 $meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2023, check board result online, all state board results 2023"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; board result 2023 - Official National Board Hub</div>
+    <h2 class='sr-title'>board result 2023: Your Authoritative Navigator to National Board Councils, State Education Departments, and
+            National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>board result 2023: Your Authoritative Navigator to National Board Councils, State Education Departments, and
-            National Informatics Centre (NIC) Result Gateways Across India</h1>
+        
 
         <p>The "board result 2023" (representing the primary synchronized digital result-distribution network utilized
             by millions of students for the annual secondary and senior secondary examinations conducted by various
@@ -118,5 +122,8 @@ $meta_keywords = "board result 2023, 10th board result 2023, 12th board result 2
             aggregates results from various state and central boards.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

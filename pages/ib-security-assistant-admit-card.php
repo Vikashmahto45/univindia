@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "IB Security Assistant Admit Card Download - MHA Intelligence Bureau Hall Ticket | Univindia.online"; 
 $meta_description = "Download IB Security Assistant Admit Card. Get the direct link for Intelligence Bureau (IB) SA and MTS recruitment examination hall tickets at mha.gov.in."; 
 $meta_keywords = "ib security assistant admit card download, intelligence bureau sa hall ticket download, mha.gov.in ib login admit card, ib sa mts exam date 2024 download, intelligence bureau call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IB Security Assistant Admit Card Download - MHA Intelligence Bureau Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>IB Security Assistant Admit Card Download - MHA Intelligence Bureau Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">IB Security Assistant Admit Card: Download Intelligence Bureau Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "ib security assistant admit card download, intelligence bureau
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

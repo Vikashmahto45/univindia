@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "class 10 rbse result - Official Rajasthan Board Hub"; 
 $meta_description = "Check Rajasthan Board Class 10th result on class 10 rbse result. Access official BSER Ajmer 10th scorecards for all academic sessions on indiaresults portal."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 10 rbse result - Official Rajasthan Board Hub</div>
+    <h2 class='sr-title'></h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 10th (Secondary) examination results for all academic sessions. Access official Rajasthan board mirrors and archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open RBSE 10th Hub</a>
@@ -87,5 +91,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "8 class result punjab board - Official PSEB 8th Hub"; 
 $meta_description = "Check Punjab Board 8th class result on 8 class result punjab board. Access official PSEB Middle School scorecards and archival result links on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8 class result punjab board - Official PSEB 8th Hub</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all Punjab School Education Board (PSEB) Class
                 8th (Middle School) examination results. Access official PSEB mirrors and historical archival links
                 updated for batch verification.</p>
@@ -122,5 +126,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

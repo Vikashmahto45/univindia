@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Http Univindia Net - Main MGSU University Student Portal"; 
 $meta_description = "Http Univindia Net is the primary digital gateway for MGSU Bikaner. Complete guide to accessing results, admit cards, and examination forms at http://univindia.net."; 
 $meta_keywords = "http univindia net"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Http Univindia Net - Main MGSU University Student Portal</div>
+    <h2 class='sr-title'>Http Univindia Net: Your Portal for Maharaja Ganga Singh University Success</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>Http Univindia Net: Your Portal for Maharaja Ganga Singh University Success</h1>
+        
         
         <p>Http Univindia Net is the primary web address for thousands of students enrolled in Maharaja Ganga Singh University (MGSU), Bikaner. As education moves further into the digital realm, having a centralized hub for all administrative and examination-related tasks has become a necessity. This portal, often accessed via the clear and simple address `http://univindia.net`, serves as the primary bridge between the university's central administration and its diverse student population spread throughout Rajasthan. In this detailed guide, we will explore why Http Univindia Net is so vital for your academic career and how to make the most of its many features.</p>
 
@@ -41,5 +45,8 @@ $meta_keywords = "http univindia net";
         <p><i>Note: Univindia.online is an independent educational portal and is not the official Maharaja Ganga Singh University or Univindia.net website. For official updates, please always refer to the university's authorized portal.</i></p>
     </div>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

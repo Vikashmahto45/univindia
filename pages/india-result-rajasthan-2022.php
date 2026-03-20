@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result Rajasthan 2022 - RBSE & University Results Archive"; 
 $meta_description = "Retrieve your India Result Rajasthan 2022 online. Access the archive for Rajasthan Board (RBSE) 10th/12th and University scores from the 2022 session."; 
 $meta_keywords = "india result rajasthan 2022, rbse result 2022, rajasthan 10th result 2022, rajasthan 12th result 2022, rajresults archive 2022"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Rajasthan 2022 - RBSE & University Results Archive</div>
+    <h2 class='sr-title'>India Result Rajasthan 2022: Reclaiming the Academic History of the Desert State</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result Rajasthan 2022: Reclaiming the Academic History of the Desert State</h1>
+        
         
         <p>The "India Result Rajasthan 2022" represents a definitive digital repository for millions of students who completed their secondary, senior secondary, and higher education exams in the state of Rajasthan during the 2022 academic cycle. In the competitive landscape of Indian education, the results of the previous sessions are frequently required for university admissions, professional verification, and government job documentation. "India Result Rajasthan 2022" serves as the primary gateway to these records, maintaining the databases for the Board of Secondary Education Rajasthan (RBSE) and major universities like the University of Rajasthan (RU) and MGSU. Whether you are an alumnus looking to retrieve a lost marksheet or a career professional verifying a candidate's 2022 credentials, the Rajasthan archives on "India Result" are your most reliable and accessible resource. At Univindia.online, we are dedicated to providing you with a technical, SEO-optimized walkthrough that simplifies the process of navigating the "India Result Rajasthan 2022" database, ensuring that every 2022 student can access their academic legacy with absolute ease.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "india result rajasthan 2022, rbse result 2022, rajasthan 10th 
         <p>The online printout serves as provisional proof. For final verification, most employers will require the original 2022 certificate or a verified copy from the DigiLocker platform, where RBSE has uploaded many 2022 records.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

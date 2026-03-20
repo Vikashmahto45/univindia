@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CHSE 12th Result 2022 - Official Odisha Board Archive"; 
 $meta_description = "Check CHSE 12th Result 2022 online. Access the historical Council of Higher Secondary Education (CHSE) Odisha Plus Two (+2) results for the 2022 session. Official marks."; 
 $meta_keywords = "chse 12th result 2022, check chse odisha 12th result 2022 online, odisha plus two result 2022 indiaresults, official 2022 odisha 12th link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE 12th Result 2022 - Official Odisha Board Archive</div>
+    <h2 class='sr-title'>CHSE 12th Result 2022: Your Comprehensive Navigator to Council of Higher Secondary Education (CHSE), Odisha, Bhubaneswar, Higher Secondary (Class 12), Plus Two (+2), Science, Commerce, Arts Streams, and Odisha State Board Result Gateways (Government of Odisha, School and Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>CHSE 12th Result 2022: Your Comprehensive Navigator to Council of Higher Secondary Education (CHSE), Odisha, Bhubaneswar, Higher Secondary (Class 12), Plus Two (+2), Science, Commerce, Arts Streams, and Odisha State Board Result Gateways (Government of Odisha, School and Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "CHSE 12th Result 2022" (representing the primary synchronized digital result-dissemination framework utilized by over 3.2 lakh plus two students for the annual board exams conducted during the 2021-2022 academic session by the CHSE Odisha Bhubaneswar) represents a significant digital milestone for students residing in the academic and industrial landscape of Odisha. As the primary official gateway to the state's historical 2022 educational infrastructure (Bhubaneswar, CHSE HQ), and the traditional school education infrastructure of the nation, the "CHSE 12th Result 2022" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (Higher Secondary) via dedicated high-concurrency server endpoints and authorized mirror archives like Odisha IndiaResults. For the 2022 academic cycle, which marked the complete restoration of physical examinations in Odisha, the "CHSE 12th Result 2022" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2022 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "CHSE 12th Result 2022," ensuring that every student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "chse 12th result 2022, check chse odisha 12th result 2022 onli
         <p>Yes, your board results (verified via the official "CHSE 12th Result 2022" portals) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

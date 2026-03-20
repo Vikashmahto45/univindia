@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ap inter supplementary results 2023 - Official BIEAP 2023 Archive"; 
 $meta_description = "Check ap inter supplementary results 2023 for IPASE exams. Access the official 2023 Andhra Pradesh Board of Intermediate Education (BIEAP) archival portal."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap inter supplementary results 2023 - Official BIEAP 2023 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 IPASE examination results for Andhra Pradesh
                 Intermediate 1st and 2nd Year Supplementary. Official BIEAP mirrors and archival links updated for the
                 2023 batch verification.</p>
@@ -122,5 +126,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

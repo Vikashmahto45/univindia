@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download CGL Exam Admit Card 2024. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) examination hall tickets at regional ssc.gov.in portals."; 
 $meta_keywords = "cgl exam admit card download, ssc cgl exam hall ticket 2024, ssc.gov.in login 2024, cgl tier 1 date download, ssc inspector recruitment call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CGL Exam Admit Card: Download SSC Tier 1 & 2 Hall Ticket Link</h2>
         
@@ -92,5 +96,8 @@ $meta_keywords = "cgl exam admit card download, ssc cgl exam hall ticket 2024, s
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

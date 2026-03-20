@@ -1,12 +1,16 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSEB 10th Result 2024 Check by Roll Number - Bihar Board Matric Result"; 
 $meta_description = "Learn how to perform BSEB 10th Result 2024 check by roll number. Online portal for Bihar Board Class 10th results, marksheet download, and pass criteria."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="result-container">
-    <h1>BSEB 10th Result 2024 Check by Roll Number</h1>
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSEB 10th Result 2024 Check by Roll Number - Bihar Board Matric Result</div>
+    <h2 class='sr-title'>BSEB 10th Result 2024 Check by Roll Number</h2>
+    <div class='sr-content'>
+        <div class="result-container">
+    
     <div class="info-box">
         <p>Searching for <strong>BSEB 10th Result 2024 check by roll number</strong>? The Bihar School Examination Board (BSEB) provides an easy way for students to access their Matric marks online using their unique roll numbers and roll codes.</p>
     </div>
@@ -38,5 +42,8 @@ $meta_keywords = "";
         </table>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

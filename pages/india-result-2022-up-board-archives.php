@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 2022 up board - Official Uttar Pradesh 2022 Archive"; 
 $meta_description = "Check india result 2022 up board for Class 10 and 12 exams. Access the official 2022 Uttar Pradesh Board (UPMSP) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2022 up board - Official Uttar Pradesh 2022 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Uttar Pradesh
                 Class 10th (High School) and 12th (Intermediate). Official UPMSP mirrors and archival links updated for
                 the 2022 batch verification.</p>
@@ -123,5 +127,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

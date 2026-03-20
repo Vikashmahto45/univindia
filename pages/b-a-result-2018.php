@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks"; 
 $meta_description = "Check the B.A. Result 2018 archives. Access historical Bachelor of Arts scores from major Indian universities and understand the result retrieval process for the 2018 cycle."; 
 $meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 2018 university results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; B.A. Result 2018 - Bachelor of Arts Historical Scores & Marks</div>
+    <h2 class='sr-title'>B.A. Result 2018: Accessing Historical Bachelor of Arts Academic Records</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>B.A. Result 2018: Accessing Historical Bachelor of Arts Academic Records</h1>
+        
         
         <p>The term "B.A. Result 2018" refers to the comprehensive academic outcomes for students who pursued a Bachelor of Arts degree during the 2017-2018 academic session across India. As we move deeper into the 2020s, the 2018 graduation cycle has become a significant milestone for many professionals who are now transitioning into advanced careers or seeking higher education abroad. Retrieving a "B.A. Result 2018" is often necessary for background verification, government job applications, and degree validation at various state and central university levels. Whether you graduated from a major institution like MGSU Bikaner, Rajasthan University, or a central university like DU, the 2018 result archives remain a permanent fixture in the digital landscape of Indian education. At Univindia.online, we recognize the importance of these historical records and provide a detailed guide on how to navigate the archival systems of various universities to find your B.A. scores from over half a decade ago.</p>
 
@@ -70,5 +74,8 @@ $meta_keywords = "b a result 2018, ba result 2018, bachelor of arts results, 201
         <p>No, the window for re-evaluation typically closes 15-30 days after the result declaration in 2018. It is not possible to challenge those marks now, several years later.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

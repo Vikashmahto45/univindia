@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CHSE Result 2024 - Odisha Higher Secondary (+2) Examination Hub"; 
 $meta_description = "Check CHSE Result 2024 for Odisha +2 Science, Commerce, and Arts. Access the official Council of Higher Secondary Education gateway for results and merit lists."; 
 $meta_keywords = "chse result 2024, chse odisha result, chse plus two result 2024, orissaresults.nic.in 2024, chse result date 2024 science commerce arts"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE Result 2024 - Odisha Higher Secondary (+2) Examination Hub</div>
+    <h2 class='sr-title'>CHSE Result 2024: Your Comprehensive Guide to Odisha’s Higher Secondary Success</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>CHSE Result 2024: Your Comprehensive Guide to Odisha’s Higher Secondary Success</h1>
+        
         
         <p>The "CHSE Result 2024" is the most decisive academic milestone for hundreds of thousands of students across the intellectually growing and culturally vibrant state of Odisha. Managed by the Council of Higher Secondary Education (CHSE), Odisha, the Higher Secondary (+2) examination represents the primary gateway to undergraduate education and specialized professional streams in fields like Engineering, Medicine, and Management. For the 2024 academic cycle, the "CHSE Result 2024" search symbolizes the culmination of years of dedicated secondary schooling and is the ticket to prestigious universities and technical institutes across India. CHSE has pioneered advanced digital assessment and data verification systems for the 2024 session, ensuring that the results for Science, Commerce, and Arts are released with maximum transparency, speed, and integrity. At Univindia.online, we recognize the life-altering significance of these scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies the search for your "CHSE Result 2024," ensuring that every student in Odisha can celebrate their victory without technical hurdles.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "chse result 2024, chse odisha result, chse plus two result 202
         <p>Yes, the computer-generated "CHSE Result 2024" scorecard is accepted for the initial online application on the SAMS Odisha portal until the original certificate is provided by the council.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

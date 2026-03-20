@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "hsc 10th result 2022 - Official National 2022 Archive"; 
 $meta_description = "Check hsc 10th result 2022 for all state boards. Access the official national Class 10 (HSC) archival result portal and mirrors on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hsc 10th result 2022 - Official National 2022 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all Secondary School Certificate (HSC/Class
                 10th) examination results across India for the 2022 academic session. Official board mirrors and
                 archival result links updated for batch verification.</p>
@@ -119,5 +123,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

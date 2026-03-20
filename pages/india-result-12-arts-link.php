@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 12 arts - Official Senior Secondary Arts Archive"; 
 $meta_description = "Check india result 12 arts for CBSE, RBSE, UP Board, and all state boards. Access the official 12th Arts stream result gateway and name-wise search portal."; 
 $meta_keywords = "india result 12 arts, 12th arts board result, check 12th arts result online, indiaresults 12th arts, RBSE 12th arts result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12 arts - Official Senior Secondary Arts Archive</div>
+    <h2 class='sr-title'>india result 12 arts: Your Authoritative Navigator to State Senior Secondary Boards, Arts Stream Councils,
+            and National Informatics Centre (NIC) Result Gateways Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result 12 arts: Your Authoritative Navigator to State Senior Secondary Boards, Arts Stream Councils,
-            and National Informatics Centre (NIC) Result Gateways Across India</h1>
+        
 
         <p>The "india result 12 arts" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for the annual Senior Secondary examinations in the Arts stream) serves as
@@ -119,5 +123,8 @@ $meta_keywords = "india result 12 arts, 12th arts board result, check 12th arts 
             required for the final confirmation of eligibility.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

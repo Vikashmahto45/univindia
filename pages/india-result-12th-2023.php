@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 12th 2023 - Senior Secondary Results Archive for All Boards"; 
 $meta_description = "Retrieve your India Result 12th 2023 online. Access the archival scores and merit lists for Class 12 CBSE, state boards, and national exams from the 2023 session."; 
 $meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th board result 2023, senior secondary result 2023 national, india results 12th-2023"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 12th 2023 - Senior Secondary Results Archive for All Boards</div>
+    <h2 class='sr-title'>India Result 12th 2023: Reclaiming the Academic Success of the National Senior Secondary Batch</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 12th 2023: Reclaiming the Academic Success of the National Senior Secondary Batch</h1>
+        
         
         <p>The "India Result 12th 2023" represents a monumental digital vault for millions of students who completed their senior secondary education during the 2023 academic year. As the definitive concluding chapter of school life, the 12th-grade results of the 2023 session remain critical for alumni today as they navigate graduate admissions, international certifications, and high-stakes professional verification. "India Result 12th 2023" serves as the primary national archive for these records, maintaining the databases for central boards like CBSE and CISCE, alongside massive state boards like UPMSP, RBSE, and BSEB. Whether you are a former student looking to download a lost 2023 marksheet or an HR professional verifying a 2023 candidate's academic credentials, the records under the "India Result 12th 2023" banner are your most reliable and accessible resource. At Univindia.online, we are proud to provide a technical, SEO-optimized manual that simplifies the search for your 2023 Senior Secondary scores, ensuring that every member of the Class of 2023 can access their hard-earned success without technical delay.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "india result 12th 2023, class 12 result 2023 archive, 12th boa
         <p>The online printout serves as provisional proof of your "India Result 12th 2023." For final verification and enrollment, most universities will require the original 2023 board certificate or a verified version from the DigiLocker platform.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

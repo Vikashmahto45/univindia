@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in"; 
 $meta_description = "Download DU SOL Admit Card 2024 for UG/PG Exams. Get direct link for Delhi University School of Open Learning Hall Ticket at sol.du.ac.in. Check exam dates and instructions."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in</div>
+    <h2 class='sr-title'>DU SOL Admit Card 2024-25</h2>
+    <div class='sr-content'>
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +21,7 @@ $meta_keywords = "";
 
             <div class="card shadow-lg border-0 mb-4">
                 <div class="card-body p-4">
-                    <h1 class="display-5 fw-bold text-primary mb-3">DU SOL Admit Card 2024-25</h1>
+                    
                     <p class="lead">The Delhi University School of Open Learning (DU SOL) is all set to release the admit cards for the upcoming undergraduate and postgraduate examinations. Students enrolled in various distance learning programs can download their DU SOL Hall Ticket through the official website at sol.du.ac.in.</p>
                     
                     <div class="alert alert-info border-0 shadow-sm mt-4">
@@ -133,5 +137,8 @@ $meta_keywords = "";
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

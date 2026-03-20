@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 5th 2022 - Official Primary School Result Gateway"; 
 $meta_description = "Check india result 5th 2022 for all states. Access the official 5th class result portal on indiaresults.com for the 2022 academic year. Fast result checking by name or roll number."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 5th 2022 - Official Primary School Result Gateway</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 result portal for Class 5th Primary Board examinations.
                 Verified links from official servers.</p>
             <div class="cta-group animate-up">
@@ -106,5 +110,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

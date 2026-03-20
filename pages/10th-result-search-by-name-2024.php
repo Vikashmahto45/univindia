@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th Result Search By Name 2024 - Official Name-Wise Matric Gateway"; 
 $meta_description = "Check 10th Result Search By Name 2024 online. Access the name-wise search for Rajasthan, Punjab, and other state boards for the 20th matriculation session."; 
 $meta_keywords = "10th result search by name 2024, check 10th result name wise 2024, board result name search 2024, click to check 10th result by name, official name wise result portal, check matric result by name"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Result Search By Name 2024 - Official Name-Wise Matric Gateway</div>
+    <h2 class='sr-title'>10th Result Search By Name 2024: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), Secondary School Certificate (SSC), and Madhyamik (High School) Name-Wise Result Gateways (Board of Secondary Education Rajasthan, Punjab School Education Board, and Various State Board Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>10th Result Search By Name 2024: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), Secondary School Certificate (SSC), and Madhyamik (High School) Name-Wise Result Gateways (Board of Secondary Education Rajasthan, Punjab School Education Board, and Various State Board Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "10th Result Search By Name 2024" (applicable to the annual secondary board examinations and internal evaluations conducted for the 2023-2024 academic session by various state education boards) represents the single most significant digital milestone for over 18 million students residing in the diverse academic landscape of India. As the primary official and private-partner gateway to the nation's high-traffic education archives (Jaipur, Mohali, and Various State Hubs), and the traditional school education infrastructure of the nation, the "10th Result Search By Name 2024" serves as the formal secondary master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificates even without a roll number via dedicated name-based server endpoints. For the 2024 academic cycle, where high-quality digital governance and user-centric technical accessibility are nationwide priorities, the "10th Result Search By Name 2024" search is the digital gateway through which candidates verify their professional transition from secondary to higher secondary education with maximum transparency and integrity. The national technical partners have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability through name-search index. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "10th Result Search By Name 2024," ensuring that every aspiring student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "10th result search by name 2024, check 10th result name wise 2
         <p>Yes, your board results (verified via the official "10th Result Search By Name 2024" portal or DigiLocker) are the accepted records for applying to international schools or job visas in 2024-25.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

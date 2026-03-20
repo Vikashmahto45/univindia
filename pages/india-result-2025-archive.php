@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 2025 - Official National Board Mirror Archive"; 
 $meta_description = "Check india result 2025 online. Access the upcoming 2025 Class 10th and 12th results for CBSE, ICSE, and All-India State Boards via the official historical mirror."; 
 $meta_keywords = "india result 2025, check board results 2025 online, official india results 2025 link, indiaresults 2025 search, state board results 2025 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2025 - Official National Board Mirror Archive</div>
+    <h2 class='sr-title'>india result 2025: Your Comprehensive Navigator to CBSE, ICSE, NIOS, and All-India State Board Result Gateways (Government of Rajasthan, Punjab, UP, Madhya Pradesh, Bihar, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result 2025: Your Comprehensive Navigator to CBSE, ICSE, NIOS, and All-India State Board Result Gateways (Government of Rajasthan, Punjab, UP, Madhya Pradesh, Bihar, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "india result 2025" (representing the primary synchronized digital result-dissemination framework utilized by over 6 crore students for the annual secondary and higher secondary board exams conducted during the upcoming 2024-2025 academic session by various national and state bodies) represents a significant digital milestone for students residing in the academic and industrial landscape of the nation. As the primary official gateway to the nation's 2025 educational infrastructure, and the traditional school education infrastructure of the nation, the "india result 2025" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like National IndiaResults. For the 2025 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across India, the "india result 2025" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The national education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2025 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "india result 2025," ensuring that every student and researcher in the states can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result 2025, check board results 2025 online, official i
         <p>Yes, your board results (verified via the official "india result 2025" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

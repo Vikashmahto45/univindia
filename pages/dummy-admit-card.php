@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online"; 
 $meta_description = "Download Dummy Admit Card. Get the direct link for Bihar Board (BSEB), CBSE, and other school board dummy hall tickets at secondary.biharboardonline.com."; 
 $meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar board dummy hall ticket download, inter dummy admit card login, board exam error correction admit card"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online</div>
+    <h2 class='sr-title'>Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Dummy Admit Card: Download Board Exam Sample & Error Correction Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar b
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

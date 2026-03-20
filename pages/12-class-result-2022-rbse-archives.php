@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "12 class result 2022 rbse - Official BSER Rajasthan Senior Secondary Archive"; 
 $meta_description = "Check 12 class result 2022 rbse for Science, Commerce, and Arts. Access the official 2022 BSER Rajasthan (12th) archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12 class result 2022 rbse - Official BSER Rajasthan Senior Secondary Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 12th (Senior
                 Secondary) for Rajasthan. Official BSER Ajmer mirrors and archival links updated for the 2022 batch.</p>
             <div class="cta-group animate-up">
@@ -116,5 +120,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

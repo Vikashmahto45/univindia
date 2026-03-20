@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<title>cbseresults nic in 2024 class 10 - University Results 2024</title>
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
+    <h2 class='sr-title'>cbseresults nic in 2024 class 10</h2>
+    <div class='sr-content'>
+        <title>cbseresults nic in 2024 class 10 - University Results 2024</title>
 
 <div class="container mt-4">
     <div class="row">
         <div class="col-md-8">
-            <h1 class="mb-4">cbseresults nic in 2024 class 10</h1>
+            
             
             <div class="alert alert-info">
                 <strong>Latest Update:</strong> The results for cbseresults nic in 2024 class 10 have been announced. Check the direct link below.
@@ -64,5 +68,8 @@ $meta_keywords = "";
 </div>
 
 include('footer.php');
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

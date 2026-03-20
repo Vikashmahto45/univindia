@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th class rbse result 2022 - Official Rajasthan Board Hub"; 
 $meta_description = "Check Rajasthan Board 10th result 2022 on 10th class rbse result 2022. Access official BSER Ajmer Class 10th 2022 archival scorecards on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class rbse result 2022 - Official Rajasthan Board Hub</div>
+    <h2 class='sr-title'></h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 10th (Secondary) examination results for the 2022 academic session. Access official Rajasthan board mirrors and 2022 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 RBSE 10th Hub</a>
@@ -87,5 +91,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

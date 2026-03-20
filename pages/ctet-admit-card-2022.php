@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CTET Admit Card 2022 Download - CBSE Teacher Eligibility Test Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download CTET Admit Card 2022. Get the direct link for CBSE Central Teacher Eligibility Test (CTET) December 2022 session hall tickets at ctet.nic.in."; 
 $meta_keywords = "ctet admit card 2022, cbse ctet hall ticket download, ctet.nic.in 2022 admit card link, ctet december 2022 admit card, teacher eligibility test hall ticket"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CTET Admit Card 2022 Download - CBSE Teacher Eligibility Test Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>CTET Admit Card 2022 Download - CBSE Teacher Eligibility Test Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CTET Admit Card 2022: Download CBSE Central Teacher Eligibility Test Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "ctet admit card 2022, cbse ctet hall ticket download, ctet.nic
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

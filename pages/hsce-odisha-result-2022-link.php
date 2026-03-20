@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "hsce odisha result 2022 - Official BSE Matric Archive"; 
 $meta_description = "Check hsce odisha result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result archive portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hsce odisha result 2022 - Official BSE Matric Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 High School Certificate (HSC) results for Odisha.
                 Official BSE mirrors and archival links updated for Matric examinations.</p>
             <div class="cta-group animate-up">
@@ -108,5 +112,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "5th Class Board Result 2023 - Official National Portal"; 
 $meta_description = "Check 5th Class Board Result 2023 online. Access the primary Class 5 results for HP Board, Punjab Board, and Rajasthan Shala Darpan. Official marks link."; 
 $meta_keywords = "5th class board result 2023, check 5th result 2023 online, punjab board 5th result 2023, hp board 5th result 2023, official 2023 5th class link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th Class Board Result 2023 - Official National Portal</div>
+    <h2 class='sr-title'>5th Class Board Result 2023: Your Comprehensive Navigator to National Primary Education Councils, Class 5, Grade 5, and State Board Result Gateways (Government of Punjab, Himachal Pradesh, Rajasthan, and Madhya Pradesh) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>5th Class Board Result 2023: Your Comprehensive Navigator to National Primary Education Councils, Class 5, Grade 5, and State Board Result Gateways (Government of Punjab, Himachal Pradesh, Rajasthan, and Madhya Pradesh) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "5th Class Board Result 2023" (representing the primary synchronized digital result-dissemination framework utilized by over 5 million primary students for the annual board-level exams conducted during the 2022-2023 academic session across various Indian states) represents a significant digital milestone for students residing in the academic landscape of India. As the primary official gateway to the state's 2023 primary educational infrastructure (including PSEB Mohali, HPBOSE Dharamshala, and RajShalaDarpan), and the traditional school education infrastructure of the nation, the "5th Class Board Result 2023" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final promotion status via dedicated high-concurrency server endpoints and authorized mirror archives. For the 2023 academic cycle, which marked a definitive standard in decentralized primary evaluation and transparent grading, the "5th Class Board Result 2023" search is the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The various state education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "5th Class Board Result 2023," ensuring that every student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "5th class board result 2023, check 5th result 2023 online, pun
         <p>Yes, your board results (verified via the official "5th Class Board Result 2023" portal) are recorded in the national database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

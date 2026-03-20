@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "bsc 2 year result 2021 - Official National 2021 Archive"; 
 $meta_description = "Check bsc 2 year result 2021 for all state universities. Access the official national B.Sc 2nd year archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bsc 2 year result 2021 - Official National 2021 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all Bachelor of Science (B.Sc) 2nd Year degree
                 examination results across India for the 2021 academic session. Official university mirrors and 2021
                 archival links updated for batch verification.</p>
@@ -124,5 +128,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

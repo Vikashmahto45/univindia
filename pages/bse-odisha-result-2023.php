@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSE Odisha Result 2023 - Official Class 10th Board Archive"; 
 $meta_description = "Check BSE Odisha Result 2023 for Class 10th Matric examinations. Access the 2023 board results, school-wise stats, and official merit lists online."; 
 $meta_keywords = "bse odisha result 2023, odisha 10th result 2023, check bse odisha matric 2023, bseodisha.ac.in result 2023, matric result archive 2023, official odisha board portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha Result 2023 - Official Class 10th Board Archive</div>
+    <h2 class='sr-title'>BSE Odisha Result 2023: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Madhyamik (Class 10), and State Open School Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>BSE Odisha Result 2023: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Madhyamik (Class 10), and State Open School Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h1>
+        
         
         <p>The "BSE Odisha Result 2023" (applicable to the annual board examinations and supplementary tests conducted for the 2022-2023 academic session by the Board of Secondary Education, Odisha) represents a significant digital milestone for over 5.3 lakh students who completed their secondary education during this period. As the primary official gateway to the state's educational archives (Cuttack, BSE Odisha HQ), and the traditional school education infrastructure of the nation, the "BSE Odisha Result 2023" serves as the formal master directory that allows candidates to access their theory scores, practical assessment marks, and final school-leaving certificate via dedicated government server endpoints. For the 2023 academic cycle, which saw high-quality digital governance and integrated cloud-based analytics, the "BSE Odisha Result 2023" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "BSE Odisha Result 2023," ensuring that every aspiring student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "bse odisha result 2023, odisha 10th result 2023, check bse odi
         <p>Yes, your secondary results (verified via the official "BSE Odisha Result 2023" portal) are the accepted records for applying to migration and higher secondary certificates in 2024.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

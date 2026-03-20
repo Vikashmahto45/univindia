@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSE Odisha Result 2023 SA2 - Official Summative Assessment 2 Portal"; 
 $meta_description = "Check BSE Odisha Result 2023 SA2 for Class 10th. Access the Summative Assessment 2 results, subject-wise marks, and official school result stats online."; 
 $meta_keywords = "bse odisha result 2023 sa2, odisha 10th sa2 result 2023, check bse odisha sa2 matric, bseodisha.ac.in sa2 result 2023, summative assessment 2 results odisha, official bse portal sa2"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha Result 2023 SA2 - Official Summative Assessment 2 Portal</div>
+    <h2 class='sr-title'>BSE Odisha Result 2023 SA2: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha Summative Assessment 2 (SA-II), Madhyamik (Class 10), and High School Certificate (HSC) Examination Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>BSE Odisha Result 2023 SA2: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha Summative Assessment 2 (SA-II), Madhyamik (Class 10), and High School Certificate (HSC) Examination Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals Across Odisha</h1>
+        
         
         <p>The "BSE Odisha Result 2023 SA2" (applicable to the second Summative Assessment board examinations and continuous evaluation conducted for the 2022-2023 academic session by the Board of Secondary Education, Odisha) represents a critical digital milestone for over 5.4 lakh matriculation students who completed their specialized terminal assessments durante this session. As the primary official gateway to the state's educational evaluation infrastructure (Cuttack, BSE Odisha HQ), and the traditional school education infrastructure of the nation, the "BSE Odisha Result 2023 SA2" serves as the formal master directory that allows candidates to access their theory scores for the second term, practical assessment marks, and final composite score allotment via dedicated government server endpoints. For the 2023 academic cycle, which utilized a multi-term assessment model focused on high-quality digital governance and integrated script analytics, the "BSE Odisha Result 2023 SA2" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and terminal component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "BSE Odisha Result 2023 SA2," ensuring that every aspiring student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "bse odisha result 2023 sa2, odisha 10th sa2 result 2023, check
         <p>Yes, your secondary results (verified via the official "BSE Odisha Result 2023 SA2" portal or DigiLocker) are the accepted records for applying to state-sponsored merit scholarships in 2024.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

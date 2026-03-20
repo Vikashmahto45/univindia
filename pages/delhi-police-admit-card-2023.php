@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online"; 
 $meta_description = "Download Delhi Police Admit Card 2023. Get the direct link for SSC Delhi Police Constable (Driver) and Head Constable AWO/TPO hall tickets at ssc.nic.in."; 
 $meta_keywords = "delhi police admit card 2023 download, ssc delhi police hall ticket 2023 download, ssc.nic.in delhi police login, delhi police constable exam date 2023, ssc regional call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Delhi Police Admit Card 2023: Download SSC Constable & Head Constable Hall Ticket</h2>
         
@@ -92,5 +96,8 @@ $meta_keywords = "delhi police admit card 2023 download, ssc delhi police hall t
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

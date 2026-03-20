@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "apsu result 2023 2nd year - Official APSU Rewa 2023 Archive"; 
 $meta_description = "Check Awadhesh Pratap Singh University 2nd year result 2023 on apsu result 2023 2nd year. Access official APSU Rewa archival results on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; apsu result 2023 2nd year - Official APSU Rewa 2023 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Awadhesh Pratap
                 Singh University (APSU), Rewa for Undergraduate (UG) 2nd Year degree examinations. Official APSU mirrors
                 and 2023 archival links updated for batch verification.</p>
@@ -124,5 +128,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

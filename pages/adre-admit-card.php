@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ADRE Admit Card 2024 Download - Assam Direct Recruitment Grade 3 & 4 Link | Univindia.online"; 
 $meta_description = "Download ADRE Admit Card 2024. Get the direct link for Assam Direct Recruitment Grade III and Grade IV examination hall tickets at sebaonline.org and slrc.assam.gov.in."; 
 $meta_keywords = "adre admit card 2024, assam direct recruitment hall ticket, sebaonline.org adre admit card, slrc assam admit card download, adre grade 3 4 hall ticket"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ADRE Admit Card 2024 Download - Assam Direct Recruitment Grade 3 & 4 Link | Univindia.online</div>
+    <h2 class='sr-title'>ADRE Admit Card 2024 Download - Assam Direct Recruitment Grade 3 & 4 Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">ADRE Admit Card 2024: Download Assam Direct Recruitment Grade III & IV Hall Ticket</h2>
         
@@ -90,5 +94,8 @@ $meta_keywords = "adre admit card 2024, assam direct recruitment hall ticket, se
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

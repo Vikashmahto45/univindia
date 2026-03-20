@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 2023 Class 10 - Official Secondary Result Gateway"; 
 $meta_description = "Check India Result 2023 Class 10 online. Access the secondary board results for CBSE, ICSE, and all state boards. Download your 2023 marksheet and merit list."; 
 $meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all india secondary result 2023, cbse 10th result 2023, state board 10th result 2023, official india result portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 2023 Class 10 - Official Secondary Result Gateway</div>
+    <h2 class='sr-title'>India Result 2023 Class 10: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), High School Certificate (HSC), and Matriculation Result Gateways (Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and National Informatics Centre (NIC) Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 2023 Class 10: Your Comprehensive Navigator to National and State Board Class 10 (Secondary), High School Certificate (HSC), and Matriculation Result Gateways (Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), and National Informatics Centre (NIC) Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result 2023 Class 10" (applicable to the annual board examinations and continuous evaluation conducted for the 2022-2023 academic session by various national and state education boards) represents the single most significant digital milestone for over 22 million students residing in the diverse academic landscape of India. As the primary official gateway to the nation's education infrastructure (New Delhi, CBSE HQ, and various State capitals), and the traditional school education infrastructure of the nation, the "India Result 2023 Class 10" serves as the formal secondary master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificate via dedicated government server endpoints. For the 2023 academic cycle, where high-quality digital governance and integrated technical evaluation are nationwide priorities, the "India Result 2023 Class 10" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The national education technical partners have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result 2023 Class 10," ensuring that every aspiring student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result 2023 class 10, check 10th result 2023 india, all 
         <p>Yes, your secondary results (verified via the official "India Result 2023 Class 10" portal) are accepted for provisional admission in schools while the original physical certificates are being processed.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

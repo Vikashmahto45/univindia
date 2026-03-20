@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th result 2022 odisha sa1 - Official Odisha 2022 SA1 Archive"; 
 $meta_description = "Check Odisha Board 10th SA1 result 2022 on 10th result 2022 odisha sa1. Access official BSE Odisha Summative Assessment 1 archival results on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result 2022 odisha sa1 - Official Odisha 2022 SA1 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Board of
                 Secondary Education (BSE) Odisha Class 10th (SSC) Summative Assessment 1 (SA1). Official BSE Odisha
                 mirrors and 2022 archival links updated for batch verification.</p>
@@ -120,5 +124,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

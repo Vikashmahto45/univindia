@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india examination result - Official National Gateway"; 
 $meta_description = "Check all board results on india examination result. Access the official indiaresults portal for 10th & 12th scorecards across all Indian states and sessions."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india examination result - Official National Gateway</div>
+    <h2 class='sr-title'></h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all academic and competitive examination results across the Republic of India via the india examination result portal. Access official board mirrors and direct result links for all state and central boards updated for latest and archival sessions.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open National Result Hub</a>
@@ -87,5 +91,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

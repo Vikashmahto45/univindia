@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result Uttarakhand - Official UK Board result Portal"; 
 $meta_description = "Check India Result Uttarakhand online. Access the high-speed Uttarakhand Board (UBSE) 10th and 12th results. Official marks link cluster."; 
 $meta_keywords = "india result uttarakhand, check uk board 10th result online, ubse results 2024, official uttarakhand result link, indiaresult uk board 12th"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Uttarakhand - Official UK Board result Portal</div>
+    <h2 class='sr-title'>India Result Uttarakhand: Your Comprehensive Navigator to Uttarakhand Board of School Education (UBSE), Ramnagar (Nainital), Secondary School (Class 10), Higher Secondary (Class 12), Science, Commerce, Arts Streams, and Uttarakhand State Board Result Gateways (Government of Uttarakhand, Education Department, and National Informatics Centre (NIC) Uttarakhand State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result Uttarakhand: Your Comprehensive Navigator to Uttarakhand Board of School Education (UBSE), Ramnagar (Nainital), Secondary School (Class 10), Higher Secondary (Class 12), Science, Commerce, Arts Streams, and Uttarakhand State Board Result Gateways (Government of Uttarakhand, Education Department, and National Informatics Centre (NIC) Uttarakhand State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result Uttarakhand" (representing the primary synchronized digital result-dissemination framework utilized by over 3 lakh students for the annual board exams conducted by the UBSE Ramnagar) represents the single most significant digital milestone for students residing in the academic and mountainous landscape of Uttarakhand. As the primary official gateway to the state's educational infrastructure (Ramnagar, UBSE HQ), and the traditional school education infrastructure of the nation, the "India Result Uttarakhand" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (High School and Inter) via dedicated government server endpoints and authorized mirror archives like Uttarakhand IndiaResults. For the current academic cycle, where high-quality technical evaluation and fastest result retrieval are state priorities, the "India Result Uttarakhand" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Uttarakhand education councils have implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result Uttarakhand," ensuring that every aspiring student and researcher in Uttarakhand can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result uttarakhand, check uk board 10th result online, u
         <p>Yes, your board results (verified via the official "India Result Uttarakhand" portal) are recorded in the state scholarship database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

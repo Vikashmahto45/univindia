@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result name wise - Official National Board Mirror"; 
 $meta_description = "Check india result name wise online. Access the alternative search gateway to find all Indian board results using strictly your Full Name."; 
 $meta_keywords = "india result name wise, search board results by name, official indiaresults name link, check results without roll number portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result name wise - Official National Board Mirror</div>
+    <h2 class='sr-title'>india result name wise: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result name wise: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "india result name wise" (representing the primary synchronized digital result-dissemination framework utilized by over 50 million students for the annual school and university exams conducted during the active 2023-2024 academic session by various state and national bodies) represents a significant digital milestone for students residing in the academic and industrial landscape of the nation. As the primary official gateway to the nation's 2024 educational infrastructure, and the traditional school education infrastructure of the nation, the "india result name wise" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like National IndiaResults. For the 2024 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across India, the "india result name wise" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The national education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2024 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "india result name wise," ensuring that every student and researcher in the states can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result name wise, search board results by name, official
         <p>Yes, the data matched via the "india result name wise" portal is the same as the roll-number based database and is officially valid for initial verification.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

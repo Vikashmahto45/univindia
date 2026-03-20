@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "hslc result link - Official High School Result Hub"; 
 $meta_description = "Check all state HSLC results on hslc result link. Access official indiaresults gateway for High School Leaving Certificate 10th scores and rank lists."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hslc result link - Official High School Result Hub</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for all High School Leaving Certificate (HSLC/Class
                 10th) examination results across India. Access official board mirrors and direct result links for all
                 participating state boards (SEBA, BSE, etc.).</p>
@@ -121,5 +125,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

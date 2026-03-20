@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online"; 
 $meta_description = "Download CBSE Admit Card 2025. Get the direct link for Class 10 and Class 12 board examination hall tickets at cbse.gov.in (Pariksha Sangam)."; 
 $meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th hall ticket login, cbse.gov.in admit card 2025 link, cbse private candidate admit card"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CBSE Admit Card 2025: Download Class 10th & 12th Board Hall Ticket</h2>
         
@@ -90,5 +94,8 @@ $meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

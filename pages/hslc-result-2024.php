@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "HSLC Result 2024 - SEBA Assam 10th Class Board Results"; 
 $meta_description = "Check SEBA HSLC Result 2024 online. Access Assam 10th class scores, merit lists, and official high school result updates at sebaonline.org."; 
 $meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 2024 result date, sebaonline hslc archive"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSLC Result 2024 - SEBA Assam 10th Class Board Results</div>
+    <h2 class='sr-title'>HSLC Result 2024: A Definitive Guide to Assam’s Secondary Success</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>HSLC Result 2024: A Definitive Guide to Assam’s Secondary Success</h1>
+        
         
         <p>The "HSLC Result 2024" is the most decisive academic moment for hundreds of thousands of students across the beautiful state of Assam. Conducted by the Board of Secondary Education, Assam (SEBA), the High School Leaving Certificate (HSLC) examination is a rite of passage that marks the successful completion of the secondary education cycle. For the 2024 session, the "HSLC Result 2024" search has become synonymous with the aspirations of the Northeast's youth, signaling the transition into higher secondary streams and specialized vocational paths. SEBA has made commendable strides in 2024, utilizing robust digital platforms to ensure that the "HSLC Result 2024" is delivered with speed and integrity to students from the valleys of Barak to the hills of Karbi Anglong. At Univindia.online, we are proud to be your trusted partner in this journey, providing you with a high-quality, SEO-optimized guide that simplifies the search for your SEBA results, ensuring that the class of 2024 can celebrate their victories without technical hurdles.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "hslc result 2024, seba result 2024, assam 10th result, hscl 20
         <p>We provide links to the official SEBA merit list notifications the moment they are released. You can check the 2024 toppers on the official resultsassam.nic.in gateway.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

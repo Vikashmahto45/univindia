@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "8th class result 2023 pseb - Official Punjab Board 8th Portal"; 
 $meta_description = "Check 8th class result 2023 pseb online. Access the historical Punjab School Education Board (PSEB), Mohali Class 8th (Middle School) 2023 results."; 
 $meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online, official pseb 8th result 2023 link, punjab school education board 8th 2023 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th class result 2023 pseb - Official Punjab Board 8th Portal</div>
+    <h2 class='sr-title'>8th class result 2023 pseb: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Middle School Public Examinations (Class 8), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>8th class result 2023 pseb: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Middle School Public Examinations (Class 8), and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "8th class result 2023 pseb" (representing the primary synchronized digital result-dissemination framework utilized by over 3 lakh students for the annual middle school board exams conducted during the historical 2022-2023 academic session by the PSEB Mohali) represents a significant digital milestone for students residing in the academic and industrial landscape of Punjab. As the primary official gateway to the state's historical 2023 educational infrastructure (Mohali HQ), and the traditional school education infrastructure of the nation, the "8th class result 2023 pseb" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Punjab IndiaResults. For the 2023 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance for the middle standard in Punjab, the "8th class result 2023 pseb" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Punjab education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2023 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "8th class result 2023 pseb," ensuring that every student and researcher in Punjab can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "8th class result 2023 pseb, check pseb 8th result 2023 online,
         <p>Yes, your board results (verified via the official "8th class result 2023 pseb" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

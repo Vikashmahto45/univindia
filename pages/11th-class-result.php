@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "11th class result - Official All-India Board Mirror"; 
 $meta_description = "Check 11th class result online. Access the results for Class 11 (Part 1) for various state boards including JKBOSE, BIEAP, and others for the 2024 session."; 
 $meta_keywords = "11th class result, check class 11 results online, official board 11th link, 11th class examination results 2024 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 11th class result - Official All-India Board Mirror</div>
+    <h2 class='sr-title'>11th class result: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>11th class result: Your Comprehensive Navigator to National Board Councils, University Senates, Recruitment Commissions, and All-India State Board Result Gateways (Government of India, Department of Education, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "11th class result" (representing the primary synchronized digital result-dissemination framework utilized by over 10 million students for the annual Class 11 school exams conducted during the active 2023-2024 academic session by various state boards) represents a significant digital milestone for students residing in the academic and industrial landscape of the nation. As the primary official gateway to the nation's 2024 educational infrastructure, and the traditional school education infrastructure of the nation, the "11th class result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like National IndiaResults. For the 2024 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across various states, the "11th class result" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The national education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2024 scores (including subject-wise marks, grades, and total percentages) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "11th class result," ensuring that every student and researcher in the states can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "11th class result, check class 11 results online, official boa
         <p>Yes, your board results (verified via the official "11th class result" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

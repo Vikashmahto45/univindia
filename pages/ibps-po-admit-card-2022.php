@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "IBPS PO Admit Card 2022: Download Prelims/Mains Hall Ticket"; 
 $meta_description = "Download IBPS PO Admit Card 2022. Get direct link for CRP PO/MT XII Preliminary and Main Examination Hall Ticket. Check exam dates and banking exam instructions."; 
 $meta_keywords = ""; 
 ?>
 
-<div class="container mt-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IBPS PO Admit Card 2022: Download Prelims/Mains Hall Ticket</div>
+    <h2 class='sr-title'>IBPS PO Admit Card 2022 (Archive)</h2>
+    <div class='sr-content'>
+        <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">
             <nav aria-label="breadcrumb">
@@ -17,7 +21,7 @@ $meta_keywords = "";
 
             <div class="card shadow rounded-3 border-0 mb-4 overflow-hidden">
                 <div class="bg-navy p-4 text-white">
-                    <h1 class="h2 fw-bold mb-0">IBPS PO Admit Card 2022 (Archive)</h1>
+                    
                 </div>
                 <div class="card-body p-4">
                     <p class="lead text-secondary">The Institute of Banking Personnel Selection (IBPS) released the admit cards for the Common Recruitment Process for Probationary Officers and Management Trainees (CRP PO/MT XII) in 2022. This document provides archived information regarding the 2022 recruitment cycle hall tickets.</p>
@@ -131,5 +135,8 @@ $meta_keywords = "";
 .text-navy { color: #000080; }
 .table-navy-themed thead { background-color: #000080; }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

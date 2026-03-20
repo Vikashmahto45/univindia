@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result by name - Official Name-Wise Result Portal"; 
 $meta_description = "Check india result by name for all boards and universities. Access the official name-wise result search portal for 10th and 12th exams on indiaresults.com."; 
 $meta_keywords = "india result by name, check result by name, name wise board result, indiaresults name search, 10th result search by name"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result by name - Official Name-Wise Result Portal</div>
+    <h2 class='sr-title'>india result by name: Your Unified Navigator to Name-Wise Search Portals, Official Mirror Hubs, and
+            Independent Result Gateways Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result by name: Your Unified Navigator to Name-Wise Search Portals, Official Mirror Hubs, and
-            Independent Result Gateways Across India</h1>
+        
 
         <p>The "india result by name" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for searching board and university results using alphabetical parameters)
@@ -118,5 +122,8 @@ $meta_keywords = "india result by name, check result by name, name wise board re
             always requires the original certificate with the roll number.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

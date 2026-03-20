@@ -1,11 +1,11 @@
 <?php 
 require_once __DIR__ . '/includes/config.php';
-$page_title = "Univindia Results Portal 2025";
+$page_title = "Sarkari Result - Univindia Official Result Gateway 2025";
 include __DIR__ . '/header.php';
 
-// PHP 7+ Compatible Directory Scanning
-$all_links = [];
+// Dynamic Page Discovery
 $pages_dir = __DIR__ . '/pages/';
+$all_links = [];
 if (is_dir($pages_dir)) {
     $files = scandir($pages_dir);
     foreach ($files as $file) {
@@ -17,17 +17,11 @@ if (is_dir($pages_dir)) {
 }
 ?>
 
-<div class="hero">
-    <div class="container">
-        <h2 style="font-size: 2.5rem; margin-bottom: 10px;">University Exam Results 2025</h2>
-        <p style="color: #94a3b8; font-size: 1.1rem;">Official dissemination portal for all Indian Board and University examinations.</p>
-    </div>
-</div>
-
-<div class="container grid">
-    <div class="box">
-        <h3>Primary Search</h3>
-        <ul class="link-list">
+<div class="sr-main-grid">
+    <!-- Results Column -->
+    <div class="sr-panel">
+        <div class="sr-panel-header">Results</div>
+        <ul class="sr-list">
             <?php 
             $count = 0;
             foreach ($all_links as $file => $name) {
@@ -39,9 +33,11 @@ if (is_dir($pages_dir)) {
             ?>
         </ul>
     </div>
-    <div class="box">
-        <h3>Admit Cards</h3>
-        <ul class="link-list">
+    
+    <!-- Admit Card Column -->
+    <div class="sr-panel">
+        <div class="sr-panel-header">Admit Card</div>
+        <ul class="sr-list">
             <?php 
             $count = 0;
             foreach ($all_links as $file => $name) {
@@ -53,9 +49,11 @@ if (is_dir($pages_dir)) {
             ?>
         </ul>
     </div>
-    <div class="box">
-        <h3>Trending</h3>
-        <ul class="link-list">
+    
+    <!-- Latest Jobs Column -->
+    <div class="sr-panel">
+        <div class="sr-panel-header">Latest Jobs</div>
+        <ul class="sr-list">
             <?php 
             $count = 0;
             foreach ($all_links as $file => $name) {
@@ -67,6 +65,23 @@ if (is_dir($pages_dir)) {
             ?>
         </ul>
     </div>
+</div>
+
+<!-- Category Table Section -->
+<div class="sr-panel" style="margin-top: 20px;">
+    <div class="sr-panel-header">Important Category Gateways</div>
+    <table class="sr-table">
+        <tr>
+            <td><a href="#">MGSU Result</a></td>
+            <td><a href="#">MSBU Result</a></td>
+            <td><a href="#">RRBMU Result</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">BA 1st Year</a></td>
+            <td><a href="#">BSc 1st Year</a></td>
+            <td><a href="#">BCom 1st Year</a></td>
+        </tr>
+    </table>
 </div>
 
 <?php include __DIR__ . '/footer.php'; ?>

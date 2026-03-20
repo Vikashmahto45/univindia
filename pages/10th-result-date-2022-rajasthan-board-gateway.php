@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10 th result date 2022 rajasthan board - Official BSER Details"; 
 $meta_description = "Check Rajasthan Board 10th result date 2022 on 10 th result date 2022 rajasthan board. Access official BSER Ajmer 2022 archival news and results."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10 th result date 2022 rajasthan board - Official BSER Details</div>
+    <h2 class='sr-title'></h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up"></h1>
+            
             <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 10th result announcement dates and details for the 2022 academic session. Access official Rajasthan board mirrors and 2022 archival links updated for batch verification.</p>
             <div class="cta-group animate-up">
                 <a href="#gateways" class="btn btn-primary">Open 2022 RBSE Result</a>
@@ -87,5 +91,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

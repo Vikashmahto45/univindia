@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result PSEB - Official Punjab Board Mirror Portal"; 
 $meta_description = "Check India Result PSEB online. Access the historical Punjab School Education Board (PSEB) 8th, 10th, and 12th results via the official national mirror."; 
 $meta_keywords = "india result pseb, check punjab board result online, official indiaresults pseb link, pseb.ac.in mirror portal, punjab results search"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result PSEB - Official Punjab Board Mirror Portal</div>
+    <h2 class='sr-title'>India Result PSEB: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Senior Secondary, Matric, and Middle School Examinations, and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result PSEB: Your Comprehensive Navigator to Punjab School Education Board (PSEB), Mohali, Senior Secondary, Matric, and Middle School Examinations, and Punjab State Board Result Gateways (Government of Punjab, School Education Department, and National Informatics Centre (NIC) Punjab) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result PSEB" (representing the primary synchronized digital result-dissemination framework utilized by over 8 lakh students annually for the various secondary and higher secondary board exams conducted by the PSEB Mohali) represents a significant digital milestone for students residing in the academic and industrial landscape of Punjab. As the primary official gateway to the state's educational infrastructure (Mohali HQ), and the traditional school education infrastructure of the nation, the "India Result PSEB" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Punjab IndiaResults. For the current academic cycle, which marked a definitive record in transparent grading and digital certificate issuance across Punjab, the "India Result PSEB" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Punjab education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result PSEB," ensuring that every student and researcher in the states can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result pseb, check punjab board result online, official 
         <p>Yes, your board results (verified via the official "India Result PSEB" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

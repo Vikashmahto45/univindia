@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<main class="container py-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in</div>
+    <h2 class='sr-title'>Haryana Police Admit Card 2025: HSSC Constable Hall Ticket</h2>
+    <div class='sr-content'>
+        <main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -15,7 +19,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">Haryana Police Admit Card 2025: HSSC Constable Hall Ticket</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-shield-alt me-2"></i> <strong>PST/PMT Update:</strong> The Haryana Staff Selection Commission (HSSC) has announced the Physical Screening Test (PST) dates for the 6,000 Constable vacancies. The <strong>Haryana Police Admit Card</strong> for the physical stage is now downloadable.
@@ -184,5 +188,8 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<main class="container py-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in</div>
+    <h2 class='sr-title'>CISF Admit Card 2025: Constable, ASI & Head Constable Hall Ticket</h2>
+    <div class='sr-content'>
+        <main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -15,7 +19,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">CISF Admit Card 2025: Constable, ASI & Head Constable Hall Ticket</h1>
+            
             
             <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-shield-alt me-2"></i> <strong>Recruitment News:</strong> The Central Industrial Security Force (CISF) has activated the recruitment portal for Constable (Fire), ASI (Steno), and Head Constable (Min) posts. The <strong>CISF Admit Card</strong> is released separately for PET/PST and CBT stages.
@@ -187,5 +191,8 @@ $meta_keywords = "";
     transform: translateY(-5px);
 }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<main class="container py-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City</div>
+    <h2 class='sr-title'>Group D Admit Card 2024: <span class="text-warning">Download RRC Hall Ticket</span></h2>
+    <div class='sr-content'>
+        <main class="container py-5">
     <div class="row pt-4">
         <div class="col-lg-12">
             <!-- Breadcrumb -->
@@ -16,7 +20,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-4 fw-bold mb-4 text-white">Group D Admit Card 2024: <span class="text-warning">Download RRC Hall Ticket</span></h1>
+            
             
             <div class="alert alert-info border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
                 <div class="d-flex align-items-center">
@@ -258,5 +262,8 @@ $meta_keywords = "";
     background-color: transparent;
 }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

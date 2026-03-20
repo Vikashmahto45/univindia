@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "AKTU Admit Card Download - Dr. APJ Abdul Kalam Technical University | Univindia.online"; 
 $meta_description = "Download AKTU Admit Card. Get the direct link for AKTU (formerly UPTU) B.Tech, MBA, and other semester examination hall tickets at erp.aktu.ac.in."; 
 $meta_keywords = "aktu admit card download, uptu hall ticket download, erp.aktu.ac.in login admit card, aktu exam date 2024 download, engineering call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; AKTU Admit Card Download - Dr. APJ Abdul Kalam Technical University | Univindia.online</div>
+    <h2 class='sr-title'>AKTU Admit Card Download - Dr. APJ Abdul Kalam Technical University | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">AKTU Admit Card: Download Dr. APJ Abdul Kalam Technical University Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "aktu admit card download, uptu hall ticket download, erp.aktu.
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

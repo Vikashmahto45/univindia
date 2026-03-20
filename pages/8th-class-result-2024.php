@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "8th Class Result 2024 - Official Middle School Examination Hub"; 
 $meta_description = "Check 8th Class Result 2024 online. Access the middle school results for Rajasthan (RBSE), Punjab (PSEB), HP, and all state boards. Download your 2024 marksheets instantly."; 
 $meta_keywords = "8th class result 2024, check middle school result 2024, 8th board result 2024 link, class 8 result 2024 date, official 8th merit list 2024, click to check 8th result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th Class Result 2024 - Official Middle School Examination Hub</div>
+    <h2 class='sr-title'>8th Class Result 2024: Your Comprehensive Navigator to National and State Board Class 8 (Middle School), Elementary Education Completion Certificate (EECC), and Junior High School Result Gateways (Board of Secondary Education Rajasthan, Punjab School Education Board, and Various State Board Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>8th Class Result 2024: Your Comprehensive Navigator to National and State Board Class 8 (Middle School), Elementary Education Completion Certificate (EECC), and Junior High School Result Gateways (Board of Secondary Education Rajasthan, Punjab School Education Board, and Various State Board Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "8th Class Result 2024" (applicable to the annual elementary board examinations and continuous evaluation conducted for the 2023-2024 academic session by various state education boards) represents the single most significant digital milestone for over 15 million students residing in the diverse academic landscape of India. As the primary official gateway to the state's elementary education archives (Ajmer, Mohali, and Various State Hubs), and the traditional school education infrastructure of the nation, the "8th Class Result 2024" serves as the formal middle school master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificates via dedicated government server endpoints. For the 2024 academic cycle, where high-quality digital governance and integrated technical evaluation are nationwide priorities, the "8th Class Result 2024" search is the digital gateway through which candidates verify their professional transition from elementary to secondary education with maximum transparency and integrity. The national technical partners have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "8th Class Result 2024," ensuring that every aspiring student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "8th class result 2024, check middle school result 2024, 8th bo
         <p>Yes, your board results (verified via the official "8th Class Result 2024" portal or DigiLocker) are the accepted records for applying to state merit-based scholarships in 2024-25.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

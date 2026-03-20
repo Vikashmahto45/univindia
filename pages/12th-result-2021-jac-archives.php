@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "12th result 2021 jac - Official Jharkhand 12th 2021 Archive"; 
 $meta_description = "Check Jharkhand Board 12th results for 2021 on 12th result 2021 jac. Access the official JAC Intermediate archival result portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th result 2021 jac - Official Jharkhand 12th 2021 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Jharkhand
                 Academic Council (JAC) Class 12th (Intermediate). Official JAC mirrors and archival links updated for
                 the 2021 batch verification.</p>
@@ -122,5 +126,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

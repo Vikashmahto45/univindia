@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Indian Army Admit Card Download - Agniveer & JCO Recruitment Hall Ticket | Univindia.online"; 
 $meta_description = "Download Indian Army Admit Card. Get the direct link for Join Indian Army Agniveer, JCO, and OR recruitment examination hall tickets at joinindianarmy.nic.in."; 
 $meta_keywords = "indian army admit card, agniveer admit card download, joinindianarmy.nic.in login, indian army cee hall ticket, army recruitment rally admit card"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Indian Army Admit Card Download - Agniveer & JCO Recruitment Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>Indian Army Admit Card Download - Agniveer & JCO Recruitment Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">Indian Army Admit Card: Download Agniveer & JCO Recruitment Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "indian army admit card, agniveer admit card download, joinindi
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

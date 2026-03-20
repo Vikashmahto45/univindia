@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 2 - Official +2 Senior Secondary Result Hub"; 
 $meta_description = "Check india result 2 for Class 12th / Plus Two (Arts, Science, Commerce). Access the official results for all states and national boards online."; 
 $meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result, HSC +2 result check, india result secondary"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2 - Official +2 Senior Secondary Result Hub</div>
+    <h2 class='sr-title'>india result 2: Your Authoritative Navigator to State Higher Secondary (+2) Councils, National Informatics
+            Centre (NIC) Result Gateways, and Authoritative Mirror Hubs Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result 2: Your Authoritative Navigator to State Higher Secondary (+2) Councils, National Informatics
-            Centre (NIC) Result Gateways, and Authoritative Mirror Hubs Across India</h1>
+        
 
         <p>The "india result 2" (representing the primary synchronized digital result-distribution network utilized by
             millions of students for the annual Plus Two/12th examinations conducted by various state and national
@@ -119,5 +123,8 @@ $meta_keywords = "india result 2, plus two result 2024, indiaresults 12th result
             original physical marksheet or a DigiLocker verified version.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

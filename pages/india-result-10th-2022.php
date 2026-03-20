@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 10th 2022 - Historical National Result archive"; 
 $meta_description = "Check India Result 10th 2022 online. Access the historical board results for Class 10 (Secondary) from CBSE, BSEB, RBSE, and more for 2022. Official Link."; 
 $meta_keywords = "india result 10th 2022, check board result 10th 2022, secondary result 2022 online, official 2022 matric result link, indiaresult 10th 2022 mirror"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th 2022 - Historical National Result archive</div>
+    <h2 class='sr-title'>India Result 10th 2022: Your Comprehensive Navigator to Board of Secondary Education Class 10 (Secondary), Matriculation, High School, and National State Board Result Gateways (Government of Rajasthan, Bihar, Uttar Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 10th 2022: Your Comprehensive Navigator to Board of Secondary Education Class 10 (Secondary), Matriculation, High School, and National State Board Result Gateways (Government of Rajasthan, Bihar, Uttar Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result 10th 2022" (representing the historical digital result-dissemination framework utilized by millions of candidates for the annual secondary examinations conducted during the 2021-2022 academic session) represents a significant digital milestone for over 18 million students residing in the diverse and technological landscape of India. As the primary official gateway to the nation's historical 2022 educational infrastructure (covering boards like CBSE, BSEB, and RBSE), and the traditional school education infrastructure of the nation, the "India Result 10th 2022" serves as the formal secondary master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (Class 10) via dedicated government server endpoints and authorized mirror archives. For the 2022 academic cycle, which was conducted under specialized hybrid evaluation models in many states, the "India Result 10th 2022" search remains the digital gateway through which candidates verify their fundamental academic achievement with maximum transparency and integrity. The national and state education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2022 scores (including subject-wise marks, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result 10th 2022," ensuring that every student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result 10th 2022, check board result 10th 2022, secondar
         <p>Yes, your board results (verified via the official "India Result 10th 2022" portal) are digitized and available in the DigiLocker archive for official verification.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

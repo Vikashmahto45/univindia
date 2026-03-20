@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result In - Official National Examination Portal"; 
 $meta_description = "Visit India Result In online. Access the primary national and state board results across India. Official mirror links for 10th and 12th standard examinations."; 
 $meta_keywords = "india result in, check indian board results online, national result portal in, official board result links in, 10th 12th result in mirrors"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result In - Official National Examination Portal</div>
+    <h2 class='sr-title'>India Result In: Your Comprehensive Navigator to National Board of Secondary Education, State Boards of Secondary Education, Senior Secondary (Class 12), Secondary (Class 10), Higher Secondary, and All-India State Board Result Gateways (Ministry of Education, Government of India, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result In: Your Comprehensive Navigator to National Board of Secondary Education, State Boards of Secondary Education, Senior Secondary (Class 12), Secondary (Class 10), Higher Secondary, and All-India State Board Result Gateways (Ministry of Education, Government of India, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result In" (representing the primary synchronized digital result-dissemination framework utilized by over 4 crore students for the annual board exams conducted during the academic session by various central and state bodies) represents the single most critical digital portal infrastructure for students residing in the academic and professional landscape of the nation. As the primary official gateway to the nation's educational infrastructure (New Delhi and State Capitals), and the traditional school education infrastructure of the nation, the "India Result In" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives. For the current academic cycle, where immediate result retrieval and robust technical evaluation for higher education and competitive entrances are national priorities, the "India Result In" search is the digital gateway through which candidates verify their fundamental professional achievement with maximum speed, transparency, and integrity. The national education councils have implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the board scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result In," ensuring that every student and researcher in the country can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result in, check indian board results online, national r
         <p>Yes, your board results (verified via the official "India Result In" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

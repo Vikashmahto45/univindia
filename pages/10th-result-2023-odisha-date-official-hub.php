@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th result 2023 odisha date - Official Odisha Secondary 2023 Archive"; 
 $meta_description = "Check 10th result 2023 odisha date and notification. Access the official 2023 Odisha academic result portal, declaration dates, and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result 2023 odisha date - Official Odisha Secondary 2023 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session results and official declaration date
                 notification for Odisha Class 10th (Secondary). Verified BSE Odisha mirrors and archival links updated
                 for the 2023 batch.</p>
@@ -124,5 +128,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "cbse result 2025 - Official CBSE Results Portal"; 
 $meta_description = "Check cbse result 2025 online for Class 10 and Class 12. Access the official CBSE results portal for marks, certificates, and pass percentage."; 
 $meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result 2025, cbse official result link, central board results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; cbse result 2025 - Official CBSE Results Portal</div>
+    <h2 class='sr-title'>cbse result 2025: Your Definitive Navigator to Central Board of Secondary Education (CBSE), Pariksha Sangam, and National Informatics Centre (NIC) Result Gateways</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>cbse result 2025: Your Definitive Navigator to Central Board of Secondary Education (CBSE), Pariksha Sangam, and National Informatics Centre (NIC) Result Gateways</h1>
+        
         
         <p>The "cbse result 2025" (representing the primary synchronized digital result-distribution network utilized by over 35 lakh students for the annual secondary and senior secondary examinations conducted by the Central Board of Secondary Education) serves as the most significant academic milestone in India. As the primary official gateway to the nation's premier educational infrastructure (Delhi HQ), the "cbse result 2025" provides the formal academic master directory that allows candidates to access their theory scores, internal assessment grades, and qualifying status via dedicated high-concurrency server endpoints like `cbseresults.nic.in`, `results.cbse.nic.in`, and `cbse.gov.in`. For the current academic cycle, which observed a massive digital transformation in secure tabulation and instant result delivery across all 26,000+ affiliated schools, the "cbse result 2025" search remains the definitive digital tool for verifying scholastic achievement. The CBSE authorities implemented state-of-the-art 'Encrypted Result Servers' to ensure that the Class 10 and 12 scores (including subject-wise marks, total percentage, and qualifying status for higher education) were served with maximum integrity. At Univindia.online, we prioritize specialized navigation for CBSE students. We are dedicated to providing a premium, SEO-optimized national portal that centralizes the "cbse result 2025," ensuring that every student from Delhi to Dubai can access their records without technical delay.</p>
 
@@ -61,5 +65,8 @@ $meta_keywords = "cbse result 2025, check cbse class 10 result, cbse 12th result
         <p>Yes, the "cbse result 2025" served via the NIC portal is the only official and final digital output of the Central Board of Secondary Education.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

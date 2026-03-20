@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<main class="container py-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in</div>
+    <h2 class='sr-title'>CTET Admit Card 2025: Download CBSE CTET Hall Ticket Online</h2>
+    <div class='sr-content'>
+        <main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -15,7 +19,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">CTET Admit Card 2025: Download CBSE CTET Hall Ticket Online</h1>
+            
             
             <div class="alert alert-primary bg-dark border-primary text-primary rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-book-reader me-2"></i> <strong>Official Update:</strong> The Central Board of Secondary Education (CBSE) releases the CTET Admit Card in a phased manner. The Pre-Admit Card (City Intimation) is released first, followed by the final Hall Ticket 2 days before the exam.
@@ -184,5 +188,8 @@ $meta_keywords = "";
     transform: translateY(-5px);
 }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

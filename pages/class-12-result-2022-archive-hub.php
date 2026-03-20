@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "class 12 result 2022 - Official National Higher Secondary Archive"; 
 $meta_description = "Check class 12 result 2022 for all state and central board exams. Access the official 2022 India result archive on indiaresults for high-speed checking."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 result 2022 - Official National Higher Secondary Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 Higher Secondary and Senior Secondary academic results
                 for all boards in India. Official mirrors and archival links updated for the 2022 session.</p>
             <div class="cta-group animate-up">
@@ -111,5 +115,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CAT Admit Card Download - IIM Common Admission Test Hall Ticket | Univindia.online"; 
 $meta_description = "Download CAT Admit Card. Get the direct link for IIM Common Admission Test (CAT) MBA entrance examination hall tickets at iimcat.ac.in."; 
 $meta_keywords = "cat admit card download, iim cat hall ticket download, iimcat.ac.in login admit card, cat exam date 2024 download, mba entrance call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CAT Admit Card Download - IIM Common Admission Test Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>CAT Admit Card Download - IIM Common Admission Test Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CAT Admit Card: Download IIM Common Admission Test Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "cat admit card download, iim cat hall ticket download, iimcat.
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

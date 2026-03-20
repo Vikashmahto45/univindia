@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "indian results 2022 inter ts - Official Telangana Board Archive"; 
 $meta_description = "Check indian results 2022 inter ts for 1st and 2nd year examinations. Access the official Telangana State Board of Intermediate Education (TSBIE) portal on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian results 2022 inter ts - Official Telangana Board Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2022 Intermediate (1st & 2nd Year) results for Telangana.
                 Official TSBIE archival links and mirrors updated.</p>
             <div class="cta-group animate-up">
@@ -108,5 +112,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

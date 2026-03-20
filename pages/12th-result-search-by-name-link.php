@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<!DOCTYPE html>
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
+    <h2 class='sr-title'>12th Result Search By Name</h2>
+    <div class='sr-content'>
+        <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,7 +32,7 @@ $meta_keywords = "";
 </head>
 <body>
     <header>
-        <h1>12th Result Search By Name</h1>
+        
     </header>
     <main>
         <p>Welcome to <strong>University India</strong>. Are you looking to check your <strong>12th Result Search By Name</strong>? Many students lose their roll numbers and search for alternative ways to access their board marks. We provide a comprehensive guide and direct links to portals that support name-wise result searching.</p>
@@ -55,5 +59,8 @@ $meta_keywords = "";
     </footer>
 </body>
 </html>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

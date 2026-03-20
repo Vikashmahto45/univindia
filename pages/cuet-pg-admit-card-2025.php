@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CUET PG Admit Card 2025 Download - NTA Postgraduate Entrance Hall Ticket | Univindia.online"; 
 $meta_description = "Download CUET PG Admit Card 2025. Get the direct link for NTA Common University Entrance Test (CUET PG) examination hall tickets at pgcuet.samarth.ac.in."; 
 $meta_keywords = "cuet pg admit card 2025 download, cuet pg hall ticket 2025 download, pgcuet.samarth.ac.in login admit card, cuet pg exam date 2025 download, pg entrance call letter"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET PG Admit Card 2025 Download - NTA Postgraduate Entrance Hall Ticket | Univindia.online</div>
+    <h2 class='sr-title'>CUET PG Admit Card 2025 Download - NTA Postgraduate Entrance Hall Ticket | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CUET PG Admit Card 2025: Download NTA Postgraduate Entrance Hall Ticket</h2>
         
@@ -91,5 +95,8 @@ $meta_keywords = "cuet pg admit card 2025 download, cuet pg hall ticket 2025 dow
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

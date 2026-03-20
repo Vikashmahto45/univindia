@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSE Odisha Result 2023 SA1 - Official Class 10 Summative Assessment (SA-I) Portal"; 
 $meta_description = "Check BSE Odisha Result 2023 SA1 online. Access the Summative Assessment 1 records for Class 10th matric. Download your 2023 marksheet and scorecards officially."; 
 $meta_keywords = "bse odisha result 2023 sa1, check odisha 10th sa1 result 2023, bseodisha.ac.in sa1 result 2023, odisha matric sa1 result link, official bse odisha sa1 portal, 10th sa1 marksheet odisha"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSE Odisha Result 2023 SA1 - Official Class 10 Summative Assessment (SA-I) Portal</div>
+    <h2 class='sr-title'>BSE Odisha Result 2023 SA1: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Summative Assessment 1 (SA1), and Madhyamik (Class 10) Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and Official Archives Across Odisha</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>BSE Odisha Result 2023 SA1: Your Comprehensive Navigator to Board of Secondary Education (BSE) Odisha High School Certificate (HSC), Summative Assessment 1 (SA1), and Madhyamik (Class 10) Result Gateways (Government of Odisha, School & Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and Official Archives Across Odisha</h1>
+        
         
         <p>The "BSE Odisha Result 2023 SA1" (applicable to the first summative assessment examinations and continuous evaluation conducted for the 2022-2023 academic session by the Board of Secondary Education, Odisha) represents a critical digital milestone for over 5 lakh students residing in the educationally progressive landscape of Odisha. As the primary official gateway to the state's education archives (Cuttack, BSE Odisha HQ), and the traditional school education infrastructure of the nation, the "BSE Odisha Result 2023 SA1" serves as the formal secondary master directory that allows candidates to access their theory scores, internal assessment marks, and preliminary graduation data via dedicated government server endpoints. For the 2023 academic cycle, where high-quality digital governance and integrated technical evaluation were statewide priorities, the "BSE Odisha Result 2023 SA1" search remains the digital gateway through which candidates verify their academic progress with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "BSE Odisha Result 2023 SA1," ensuring that every student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "bse odisha result 2023 sa1, check odisha 10th sa1 result 2023,
         <p>Yes, your performance in SA1 (verified via the official "BSE Odisha Result 2023 SA1" portal) contributes significantly to your final cumulative Grade Point Average (GPA) for the 2023 session.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

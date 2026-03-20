@@ -1,14 +1,18 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result 2021 12th - Official Archive of Senior Secondary Results"; 
 $meta_description = "Access the india result 2021 12th for all state and national boards. Documenting the high-speed mirrors and official archives for the 2021 senior secondary exams."; 
 $meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 board results, indiaresults class 12 2021, HSC result 2021 link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2021 12th - Official Archive of Senior Secondary Results</div>
+    <h2 class='sr-title'>india result 2021 12th: Your Comprehensive Navigator to the 2021 Senior Secondary Board Archives, National
+            Informatics Centre (NIC) Result Gateways, and Authoritative Mirror Hubs Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>india result 2021 12th: Your Comprehensive Navigator to the 2021 Senior Secondary Board Archives, National
-            Informatics Centre (NIC) Result Gateways, and Authoritative Mirror Hubs Across India</h1>
+        
 
         <p>The "india result 2021 12th" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for the historical 2021 senior secondary examinations conducted during the
@@ -118,5 +122,8 @@ $meta_keywords = "india result 2021 12th, 12th result archive 2021, check 2021 b
             permanent use, the DigiLocker marksheet is the primary valid document.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

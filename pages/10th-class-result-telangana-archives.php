@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th class result telangana - Official TS Secondary Result Archive"; 
 $meta_description = "Check 10th class result telangana for SSC (Class 10) exams. Access the official Telangana State Secondary (BSE) result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result telangana - Official TS Secondary Result Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the latest examination results for Class 10th (Secondary School
                 Certificate) for Telangana. Official BSE Hyderabad mirrors and archival links updated for the latest
                 academic batches.</p>
@@ -121,5 +125,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

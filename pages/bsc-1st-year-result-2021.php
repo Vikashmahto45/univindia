@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSc 1st Year Result 2021 - Official University Result Archive"; 
 $meta_description = "Check BSc 1st Year Result 2021 online. Access the historical Bachelor of Science (B.Sc) Part 1 results for all major Indian universities. Official mirror."; 
 $meta_keywords = "bsc 1st year result 2021, check bsc part 1 result 2021 online, university bsc 1st year result 2021 indiaresults, official 2021 bsc link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSc 1st Year Result 2021 - Official University Result Archive</div>
+    <h2 class='sr-title'>BSc 1st Year Result 2021: Your Comprehensive Navigator to National University Examination Councils, Bachelor of Science (B.Sc), Part 1 (First Year), Science Streams (Physics, Chemistry, Mathematics, Botany, Zoology), and National NIC Result Gateways (UGC Recognized Universities) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>BSc 1st Year Result 2021: Your Comprehensive Navigator to National University Examination Councils, Bachelor of Science (B.Sc), Part 1 (First Year), Science Streams (Physics, Chemistry, Mathematics, Botany, Zoology), and National NIC Result Gateways (UGC Recognized Universities) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "BSc 1st Year Result 2021" (representing the primary synchronized digital result-dissemination framework utilized by over 4 million science students for the annual undergraduate exams conducted during the 2020-2021 academic session across various Indian universities) represents a significant digital milestone for students residing in the academic and scientific landscape of the nation. As the primary authorized framework to the historical 2021 educational infrastructure (covering major universities like DU, UOR, BU, and RMLAU), and the traditional higher education infrastructure of the nation, the "BSc 1st Year Result 2021" serves as the formal academic master directory that allows candidates to access their theory scores, practical assessment marks, and final first-year promotion status via dedicated high-concurrency server endpoints and authorized mirror archives like IndiaResults. For the 2021 academic cycle, which was heavily impacted by the global pandemic and shift to hybrid evaluation in India, the "BSc 1st Year Result 2021" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The various university education councils implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the 2021 scores (including subject-wise grades, total marks, and GPA component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "BSc 1st Year Result 2021," ensuring that every student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "bsc 1st year result 2021, check bsc part 1 result 2021 online,
         <p>Yes, your university results (verified via the official "BSc 1st Year Result 2021" portals) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

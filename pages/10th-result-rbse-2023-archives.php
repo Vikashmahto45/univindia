@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "10th result rbse 2023 - Official Rajasthan 10th 2023 Archive"; 
 $meta_description = "Check Rajasthan Board 10th result 2023 on 10th result rbse 2023. Access the official RBSE Secondary archival results and direct scorecard links on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result rbse 2023 - Official Rajasthan 10th 2023 Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Rajasthan Board
                 of Secondary Education (RBSE) Class 10th (Secondary). Official RBSE mirrors and 2023 archival links
                 updated for batch verification.</p>
@@ -119,5 +123,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

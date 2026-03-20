@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Results 2024 - Official National Examination Hub"; 
 $meta_description = "Check India Results 2024 online. Access the high-speed result search for all Indian boards (CBSE, RBSE, PSEB, BSEB) for 2024. Official result links and merit lists."; 
 $meta_keywords = "india results 2024, check board results 2024 online, official indiaresults portal 2024, state board 10th 12th results, national result hub 2024, click to check 2024 results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Results 2024 - Official National Examination Hub</div>
+    <h2 class='sr-title'>India Results 2024: Your Comprehensive Navigator to National Board Class 10 (Secondary), Class 12 (Higher Secondary), and Senior Secondary Result Gateways (Government of Rajasthan, Uttar Pradesh, Bihar, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Results 2024: Your Comprehensive Navigator to National Board Class 10 (Secondary), Class 12 (Higher Secondary), and Senior Secondary Result Gateways (Government of Rajasthan, Uttar Pradesh, Bihar, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Results 2024" (representing the premier digital result-dissemination framework utilized by millions of candidates for the annual board and entrance examinations conducted for the 2023-2024 academic session) represents a significant digital milestone for over 25 million students residing in the diverse and technological landscape of India. As the primary official gateway to the nation's 2024 educational infrastructure (covering states like Bihar, UP, Rajasthan, and Punjab), and the traditional school education infrastructure of the nation, the "India Results 2024" serves as the formal secondary and senior secondary master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation status via dedicated high-performance server clusters. For the current academic cycle, where immediate result retrieval and robust technical evaluation are national priorities, the "India Results 2024" search is the digital gateway through which candidates verify their professional transition with maximum speed and transparency. The technical councils at various state boards and their partners have implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division status) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the critical utility and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Results 2024," ensuring that every aspiring student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india results 2024, check board results 2024 online, official 
         <p>The "India Results 2024" data is used for 'Initial Verification'. For final 'Scholarship Disbursement,' the board-issued physical marksheet or DigiLocker records are required.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

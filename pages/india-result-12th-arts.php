@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 12th Arts - Official National Board Mirror"; 
 $meta_description = "Check India Result 12th Arts online. Access the historical Rajasthan, Punjab, and All-India State Board Senior Secondary Arts results via the official mirror."; 
 $meta_keywords = "india result 12th arts, check rajasthan board 12th arts result online, check punjab board 12th arts result, official 12th arts result link, indiaresults 12th arts"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 12th Arts - Official National Board Mirror</div>
+    <h2 class='sr-title'>India Result 12th Arts: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Central Board of Secondary Education (CBSE), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 12th Arts: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Central Board of Secondary Education (CBSE), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, and Various National Informatics Centres) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result 12th Arts" (representing the primary synchronized digital result-dissemination framework utilized by over 20 lakh students for the annual senior secondary board exams in the humanities stream conducted by various state bodies like BSER Ajmer and PSEB Mohali) represents a significant digital milestone for students residing in the academic and cultural landscape of the nation. As the primary official gateway to the nation's educational infrastructure, and the traditional school education infrastructure of the nation, the "India Result 12th Arts" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Rajasthan and Punjab IndiaResults. For the current academic cycle, which marked a definitive record in transparent grading and digital certificate issuance in the Arts stream, the "India Result 12th Arts" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The national education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the board scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result 12th Arts," ensuring that every student and researcher in the states can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result 12th arts, check rajasthan board 12th arts result
         <p>Yes, your board results (verified via the official "India Result 12th Arts" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CBSE Term 1 Result - Official Central Board examination Hub"; 
 $meta_description = "Check CBSE Term 1 Result online. Access the Central Board (CBSE) Class 10 and 12 Term 1 examination scores. Official 2022-23 merit list and performance link."; 
 $meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse class 12 term 1 result online, cbse term 1 result date, official cbseresults.nic.in term 1"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CBSE Term 1 Result - Official Central Board examination Hub</div>
+    <h2 class='sr-title'>CBSE Term 1 Result: Your Comprehensive Navigator to Central Board of Secondary Education (CBSE), New Delhi, Secondary School (Class 10), Senior Secondary (Class 12), and Central Board Term-Based Result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC) Central Hub) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>CBSE Term 1 Result: Your Comprehensive Navigator to Central Board of Secondary Education (CBSE), New Delhi, Secondary School (Class 10), Senior Secondary (Class 12), and Central Board Term-Based Result Gateways (Government of India, Ministry of Education, and National Informatics Centre (NIC) Central Hub) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "CBSE Term 1 Result" (representing the specialized digital result-dissemination framework utilized by millions of candidates for the bifurcated term-based board examinations conducted during the 2021-2022 and 2022-2023 academic sessions by the CBSE New Delhi) represents a significant digital milestone for over 35 lakh students residing in the diverse and technological landscape of India and abroad. As the primary official gateway to the board's historical term-based infrastructure (New Delhi, CBSE HQ), and the traditional school education infrastructure of the nation, the "CBSE Term 1 Result" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks, and objective performance indicators via dedicated government server endpoints and authorized mirror archives. For the specialized academic cycles where the board implemented a two-term evaluation model, the "CBSE Term 1 Result" search remains the digital gateway through which candidates verify their foundational performance with maximum transparency and integrity. The central education councils implemented state-of-the-art 'Electronic Performance Tracking,' ensuring that the Term 1 scores (including subject-wise weights, MCQ marks, and internal component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and structural significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "CBSE Term 1 Result," ensuring that every student and researcher can approach their term-wise academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "cbse term 1 result, check cbse class 10 term 1 result, cbse cl
         <p>Yes, your term results (verified via the official "CBSE Term 1 Result" portal) are recorded in the DigiLocker and serve as primary data for various KVPY/NTSE evaluations.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

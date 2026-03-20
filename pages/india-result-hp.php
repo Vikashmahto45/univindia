@@ -1,15 +1,19 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result hp - Official Himachal Pradesh Board Result Mirror"; 
 $meta_description = "Check india result hp for HPBOSE Class 10th and 12th results. Access the official Himachal Pradesh Board result mirror on indiaresults.com for fast checking."; 
 $meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himachal Pradesh board result, indiaresults hp portal"; 
 ?>
 
-<main class="container">
-    <div class="seo-content">
-        <h1>india result hp: Your Authoritative Navigator to Himachal Pradesh Board of School Education (HPBOSE)
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result hp - Official Himachal Pradesh Board Result Mirror</div>
+    <h2 class='sr-title'>india result hp: Your Authoritative Navigator to Himachal Pradesh Board of School Education (HPBOSE)
             Dharamshala, Senior Secondary Councils, and National Informatics Centre (NIC) Result Gateways Across
-            Himachal Pradesh</h1>
+            Himachal Pradesh</h2>
+    <div class='sr-content'>
+        <main class="container">
+    <div class="seo-content">
+        
 
         <p>The "india result hp" (representing the primary synchronized digital result-distribution network utilized by
             millions of students for the annual Himachal Pradesh board examinations conducted by HPBOSE) serves as the
@@ -121,5 +125,8 @@ $meta_keywords = "india result hp, hpbose result 10th, hpbose result 12th, Himac
             must be submitted via the `hpbose.org` portal within the board's deadline.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

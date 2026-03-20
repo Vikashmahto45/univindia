@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = ""; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-$link_map = include '../includes/link_map.php';
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; </div>
+    <h2 class='sr-title'></h2>
+    <div class='sr-content'>
+        $link_map = include '../includes/link_map.php';
 $keywords = file('keyword.txt');
 array_shift($keywords); // Skip header
 
@@ -29,5 +33,8 @@ foreach($keywords as $i => $k) {
     }
 }
 unlink(__FILE__);
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

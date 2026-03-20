@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CCS University Admit Card 2025: CCSU Meerut Exam Form & Call Letter @ ccsuniversity.ac.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<main class="container py-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CCS University Admit Card 2025: CCSU Meerut Exam Form & Call Letter @ ccsuniversity.ac.in</div>
+    <h2 class='sr-title'>CCS University Admit Card 2025: CCSU Meerut Hall Ticket Link</h2>
+    <div class='sr-content'>
+        <main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -15,7 +19,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">CCS University Admit Card 2025: CCSU Meerut Hall Ticket Link</h1>
+            
             
             <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-info-circle me-2"></i> <strong>Academic Notice:</strong> Chaudhary Charan Singh University (CCSU) has activated the portal for March-April session exams. Ensure your examination fee is paid to unlock the <strong>CCSU Admit Card download link</strong>.
@@ -185,5 +189,8 @@ $meta_keywords = "";
     transform: scale(1.05);
 }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

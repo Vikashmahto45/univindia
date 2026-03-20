@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india rajasthan result - Official Rajasthan Board & University Archive"; 
 $meta_description = "Check india rajasthan result for BSER and state university exams. Access the official Rajasthan academic result portal and archives on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india rajasthan result - Official Rajasthan Board & University Archive</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2024 academic session and archival results for all major
                 boards and universities in Rajasthan. Official mirrors for BSER Ajmer and Rajasthan University Jaipur
                 updated for the latest batches.</p>
@@ -120,5 +124,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

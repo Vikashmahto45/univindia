@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result Com - Official National Examination Result Hub"; 
 $meta_description = "Check India Result Com online. Access the high-speed results for all Indian states and boards. Official 2024 marksheets, merit lists, and name-wise search."; 
 $meta_keywords = "india result com, check board result online, indiaresults 10th 12th results, state board result link, official indiaresult portal, name wise result search"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result Com - Official National Examination Result Hub</div>
+    <h2 class='sr-title'>India Result Com: Your Comprehensive Navigator to National Board Class 10 (Secondary), Class 12 (Higher Secondary), and Senior Secondary Result Gateways (Government of Rajasthan, Punjab, Himachal Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result Com: Your Comprehensive Navigator to National Board Class 10 (Secondary), Class 12 (Higher Secondary), and Senior Secondary Result Gateways (Government of Rajasthan, Punjab, Himachal Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result Com" (representing the premier digital result-hosting framework utilized by millions of candidates for the annual board and university examinations conducted across the Indian academic session) represents the single most significant digital milestone for over 22 million students residing in the diverse and technological landscape of India. As the primary authorized private gateway to the nation's educational infrastructure (spanning states like Punjab, Rajasthan, Haryana, and Kerala), and the traditional school education infrastructure of the nation, the "India Result Com" serves as the formal academic master directory that allows candidates to access their scores, marks, and final graduation certificates via dedicated high-speed server endpoints. For the current academic cycle, where immediate result retrieval and robust technical evaluation are national priorities, the "India Result Com" search is the digital gateway through which candidates verify their professional transition with maximum speed and transparency. The technical councils at IndiaResults have implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the critical utility and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result Com," ensuring that every aspiring student and researcher can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result com, check board result online, indiaresults 10th
         <p>The "India Result Com" data is used for 'Provisional Verification'. For final 'Scholarship Disbursement,' the board-issued physical marksheet or DigiLocker records are required.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

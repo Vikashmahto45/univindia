@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CUET UG Admit Card 2024 Download - NTA Undergraduate Entrance Hall Ticket Link | Univindia.online"; 
 $meta_description = "Download CUET UG Admit Card 2024. Get the direct link for NTA Common University Entrance Test (CUET-UG) undergraduate examination hall tickets at exams.nta.ac.in/CUET-UG."; 
 $meta_keywords = "cuet ug admit card 2024, nta cuet undergraduate hall ticket, exams.nta.ac.in/CUET-UG admit card, cuet ug hall ticket link, university entrance exam link"; 
 ?>
 
-<div class="container main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET UG Admit Card 2024 Download - NTA Undergraduate Entrance Hall Ticket Link | Univindia.online</div>
+    <h2 class='sr-title'>CUET UG Admit Card 2024 Download - NTA Undergraduate Entrance Hall Ticket Link | Univindia.online</h2>
+    <div class='sr-content'>
+        <div class="container main-content">
     <div class="content-card">
         <h2 class="gold-text">CUET UG Admit Card 2024: Download NTA Undergraduate Entrance Hall Ticket</h2>
         
@@ -92,5 +96,8 @@ $meta_keywords = "cuet ug admit card 2024, nta cuet undergraduate hall ticket, e
         </div>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

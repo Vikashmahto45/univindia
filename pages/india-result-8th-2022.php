@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 8th 2022 - Historical elementary Result Archive"; 
 $meta_description = "Check India Result 8th 2022 online. Access the historical middle school results for Rajasthan (RBSE), Punjab (PSEB), and all state boards. Download your 2022 marksheets."; 
 $meta_keywords = "india result 8th 2022, check 8th result 2022, rajasthan 8th board result 2022, punjab board 8th result 2022, official 8th result archive 2022, click to check 8th result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 8th 2022 - Historical elementary Result Archive</div>
+    <h2 class='sr-title'>India Result 8th 2022: Your Comprehensive Navigator to National and State Board Class 8 (Middle School), Elementary Education Completion Certificate (EECC), and Junior High School historical Result Gateways (Board of Secondary Education Rajasthan, Punjab School Education Board, and Various State Board Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 8th 2022: Your Comprehensive Navigator to National and State Board Class 8 (Middle School), Elementary Education Completion Certificate (EECC), and Junior High School historical Result Gateways (Board of Secondary Education Rajasthan, Punjab School Education Board, and Various State Board Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result 8th 2022" (applicable to the annual elementary board examinations and continuous evaluation conducted for the 2021-2022 academic session by various state education boards) represents a significant digital record for over 15 million students residing in the diverse academic landscape of India. As the primary official gateway to the state's historical elementary education archives (Ajmer, Mohali, and Various State Hubs), and the traditional school education infrastructure of the nation, the "India Result 8th 2022" serves as the formal middle school master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificates via dedicated government server endpoints. For the 2022 academic cycle, which was marked by the transition back to physical examinations and integrated technical evaluation, the "India Result 8th 2022" search remains the digital gateway through which candidates verify their fundamental academic foundation with maximum transparency and integrity. The national technical partners implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2022 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result 8th 2022," ensuring that every student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result 8th 2022, check 8th result 2022, rajasthan 8th bo
         <p>Yes, your board results (verified via the official "India Result 8th 2022" portal) are the accepted records for verifying eligibility for past state merit-based scholarships.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CHSE 10th Result 2023 - Official Odisha Board Link"; 
 $meta_description = "Check CHSE 10th Result 2023 online. Access the Odisha Board Secondary results for the 2023 session. Official marksheets and board stats available for download."; 
 $meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, orissaresults.nic.in 2023, bse odisha 10th result, official chse portal 2023, odisha secondary result link"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE 10th Result 2023 - Official Odisha Board Link</div>
+    <h2 class='sr-title'>CHSE 10th Result 2023: Your Comprehensive Navigator to Board of Secondary Education Odisha (BSE Odisha), Council of Higher Secondary Education (Note: Secondary Cycle), and Odisha State Board result Gateways (Government of Odisha, School and Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>CHSE 10th Result 2023: Your Comprehensive Navigator to Board of Secondary Education Odisha (BSE Odisha), Council of Higher Secondary Education (Note: Secondary Cycle), and Odisha State Board result Gateways (Government of Odisha, School and Mass Education Department, and National Informatics Centre (NIC) Odisha State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "CHSE 10th Result 2023" (applicable to the annual secondary board examinations and summative evaluations conducted for the 2022-2023 academic session by the Odisha Board infrastructure) represents a significant digital milestone for over 5.5 lakh students residing in the coastal and academic landscape of Odisha. As the primary official gateway to the state's educational infrastructure (Cuttack and Bhubaneswar, Board HQs), and the traditional school education infrastructure of the nation, the "CHSE 10th Result 2023" serves as the formal secondary master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate via dedicated government server endpoints. For the 2023 academic cycle, which marked the complete normalization of the annual examination schedule in the state, the "CHSE 10th Result 2023" search is the digital gateway through which candidates verify their professional transition with maximum transparency and integrity. The Odisha education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the academic and developmental significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "CHSE 10th Result 2023," ensuring that every student and researcher in Odisha can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "chse 10th result 2023, check odisha board 10th result 2023, or
         <p>Yes, your board results (verified via the official "CHSE 10th Result 2023" portal) were the primary records for applying to the 'Pathani Samanta' and other merit schemes in 2023.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

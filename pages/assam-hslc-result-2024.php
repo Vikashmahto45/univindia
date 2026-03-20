@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "Assam HSLC Result 2024 - Official SEBA Class 10th Portal"; 
 $meta_description = "Check Assam HSLC Result 2024 online. Access the Board of Secondary Education Assam (SEBA) Class 10 results, marksheets, and merit list for the current session."; 
 $meta_keywords = "assam hslc result 2024, seba hslc result 2024, check assam 10th result 2024, hslc marksheet 2024 assam, sebaonline.org result 2024, official assam board portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Assam HSLC Result 2024 - Official SEBA Class 10th Portal</div>
+    <h2 class='sr-title'>Assam HSLC Result 2024: Your Comprehensive Navigator to Board of Secondary Education, Assam (SEBA) High School Leaving Certificate (HSLC), Class 10th, and Assam High Madrassa (AHM) Result Gateways (Government of Assam, Education Department, and National Informatics Centre (NIC) Assam State Centre) Result Portals Across Assam</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>Assam HSLC Result 2024: Your Comprehensive Navigator to Board of Secondary Education, Assam (SEBA) High School Leaving Certificate (HSLC), Class 10th, and Assam High Madrassa (AHM) Result Gateways (Government of Assam, Education Department, and National Informatics Centre (NIC) Assam State Centre) Result Portals Across Assam</h1>
+        
         
         <p>The "Assam HSLC Result 2024" (applicable to the annual secondary board examinations and internal evaluations conducted for the 2023-2024 academic session by the Board of Secondary Education, Assam) represents the single most significant digital milestone for over 4 lakh students residing in the educationally developing landscape of Assam. As the primary official gateway to the state's education infrastructure (Guwahati, SEBA HQ), and the traditional school education infrastructure of the nation, the "Assam HSLC Result 2024" serves as the formal master directory that allows candidates to access their theory scores, practical assessment marks, and final graduation certificate via dedicated government server endpoints. For the 2024 academic cycle, where high-quality digital governance and integrated technical evaluation are statewide priorities, the "Assam HSLC Result 2024" search is the digital gateway through which candidates verify their professional transition from secondary to higher secondary education with maximum transparency and integrity. The Assam education councils have implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2024 scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the life-altering significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "Assam HSLC Result 2024," ensuring that every aspiring student and researcher in Assam can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "assam hslc result 2024, seba hslc result 2024, check assam 10t
         <p>Yes, your secondary results (verified via the official "Assam HSLC Result 2024" portal or DigiLocker) are the accepted records for applying to international colleges or job visas in 2024.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

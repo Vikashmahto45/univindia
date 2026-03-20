@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "5th class result 2024 - Official State Board Primary Portal"; 
 $meta_description = "Check 5th class result 2024 online. Access the Rajasthan (RBSE), Punjab (PSEB), and Bihar (BSEB) Class 5 primary examination results for the 2024 session."; 
 $meta_keywords = "5th class result 2024, check primary result 2024 online, rbse 5th result 2024, pseb 5th result 2024 link, official 2024 5th result portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th class result 2024 - Official State Board Primary Portal</div>
+    <h2 class='sr-title'>5th class result 2024: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Bihar School Examination Board (BSEB), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, Bihar, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>5th class result 2024: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Punjab School Education Board (PSEB), Bihar School Examination Board (BSEB), and All-India State Board Result Gateways (Government of Rajasthan, Punjab, Bihar, and National Informatics Centre (NIC)) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "5th class result 2024" (representing the primary synchronized digital result-dissemination framework utilized by over 40 lakh students for the annual primary board exams conducted during the 2023-2024 academic session by various state bodies) represents a significant digital milestone for young students residing in the academic and cultural landscape of India. As the primary official gateway to the state's 2024 educational infrastructure, and the traditional school education infrastructure of the nation, the "5th class result 2024" serves as the formal academic master directory that allows candidates to access their theory scores, oral assessment marks (including latest moderation components), and final primary certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Rajasthan and Punjab IndiaResults. For the 2024 academic cycle, which marked a definitive record in transparent grading and digital certificate issuance for primary levels, the "5th class result 2024" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The national education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2024 scores (including subject-wise grades, total marks, and qualifying status) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "5th class result 2024," ensuring that every student and researcher in the states can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "5th class result 2024, check primary result 2024 online, rbse 
         <p>Yes, your board results (verified via the official "5th class result 2024" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

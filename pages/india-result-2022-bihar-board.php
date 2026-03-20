@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 2022 Bihar Board - Historical BSEB Result archive"; 
 $meta_description = "Check India Result 2022 Bihar Board online. Access the historical BSEB Matric (10th) and Inter (12th) results for the 2022 session. Official 2022 merit lists."; 
 $meta_keywords = "india result 2022 bihar board, check bseb result 2022 online, bihar board 10th result 2022, bseb inter result 2022, biharboardonline results 2022, indiaresult bihar mirror"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 2022 Bihar Board - Historical BSEB Result archive</div>
+    <h2 class='sr-title'>India Result 2022 Bihar Board: Your Comprehensive Navigator to Bihar School Examination Board (BSEB), Patna, Matric (Class 10), Intermediate (Class 12), and Bihar State Board Result Gateways (Government of Bihar, Education Department, and National Informatics Centre (NIC) Bihar State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 2022 Bihar Board: Your Comprehensive Navigator to Bihar School Examination Board (BSEB), Patna, Matric (Class 10), Intermediate (Class 12), and Bihar State Board Result Gateways (Government of Bihar, Education Department, and National Informatics Centre (NIC) Bihar State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Result 2022 Bihar Board" (applicable to the annual board examinations and final technical evaluations conducted for the 2021-2022 academic session by the BSEB Patna) represents a significant digital milestone for over 29 lakh students residing in the academic and agricultural landscape of Bihar. As the primary official gateway to the state's historical educational infrastructure (Patna, BSEB HQ), and the traditional school education infrastructure of the nation, the "India Result 2022 Bihar Board" serves as the formal academic master directory that allows candidates to access their theory scores, internal marks, and final graduation certificate (10th and 12th) via dedicated government server endpoints and authorized mirror archives like IndiaResults. For the 2022 academic cycle, which was the first to fully implement the 'Fastest Result Processing' model in India, the "India Result 2022 Bihar Board" search remains the digital gateway through which candidates verify their fundamental academic achievement with maximum transparency and integrity. The Bihar education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2022 scores (including subject-wise marks, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Result 2022 Bihar Board," ensuring that every student and researcher in Bihar can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india result 2022 bihar board, check bseb result 2022 online, 
         <p>Yes, your board results (verified via the official "India Result 2022 Bihar Board" portal) are digitized and available in the DigiLocker archive for official verification.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

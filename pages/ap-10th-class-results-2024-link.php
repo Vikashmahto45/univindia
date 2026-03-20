@@ -1,15 +1,19 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "ap 10th class results 2024 - Official BSEAP SSC Portal"; 
 $meta_description = "Check ap 10th class results 2024 online. Access the official Board of Secondary Education Andhra Pradesh SSC result portal and marksheet download."; 
 $meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th result online, BSEAP results 2024, Andhra Pradesh 10th result"; 
 ?>
 
-<main class="container">
-    <div class="seo-content">
-        <h1>ap 10th class results 2024: Your Comprehensive Navigator to Board of Secondary Education Andhra Pradesh
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap 10th class results 2024 - Official BSEAP SSC Portal</div>
+    <h2 class='sr-title'>ap 10th class results 2024: Your Comprehensive Navigator to Board of Secondary Education Andhra Pradesh
             (BSEAP), SSC Public Examinations, and National Informatics Centre (NIC) Result Gateways Across Andhra
-            Pradesh</h1>
+            Pradesh</h2>
+    <div class='sr-content'>
+        <main class="container">
+    <div class="seo-content">
+        
 
         <p>The "ap 10th class results 2024" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for the annual SSC public examinations conducted by the Board of Secondary
@@ -122,5 +126,8 @@ $meta_keywords = "ap 10th class results 2024, AP SSC results 2024, check AP 10th
             digital output authorized by the Board of Secondary Education Andhra Pradesh.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

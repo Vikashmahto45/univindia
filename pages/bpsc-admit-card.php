@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<main class="container py-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in</div>
+    <h2 class='sr-title'>BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket</h2>
+    <div class='sr-content'>
+        <main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -15,7 +19,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket</h1>
+            
             
             <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-balance-scale me-2"></i> <strong>Recruitment Alert:</strong> BPSC has announced the dates for the 70th Civil Services Prelims and TRE (Teacher Recruitment Exam) Phase 4.0. The <strong>BPSC Admit Card</strong> is downloadable only through the official 'Candidate Login' portal.
@@ -179,5 +183,8 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

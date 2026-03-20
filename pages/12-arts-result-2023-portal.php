@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "12 arts result 2023 - Official National Result Portal"; 
 $meta_description = "Check 12 arts result 2023 for all state boards including RBSE, UP, and more. Access the official 2023 Senior Secondary Arts result hub on indiaresults."; 
 $meta_keywords = ""; 
 ?>
 
-<main class="main-content">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12 arts result 2023 - Official National Result Portal</div>
+    <h2 class='sr-title'>
+                
+            </h2>
+    <div class='sr-content'>
+        <main class="main-content">
     <section class="hero-section">
         <div class="container">
-            <h1 class="hero-title animate-up">
-                
-            </h1>
+            
             <p class="hero-subtitle animate-up">Access the 2023 Senior Secondary (12th Class) results for the Arts
                 stream across all major Indian boards. Direct links and mirrors updated.</p>
             <div class="cta-group animate-up">
@@ -107,5 +111,8 @@ $meta_keywords = "";
         </div>
     </section>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

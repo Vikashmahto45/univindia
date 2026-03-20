@@ -1,15 +1,19 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "india result com 2023 - Official IndiaResults Archive"; 
 $meta_description = "Check india result com 2023 for all boards and universities. Access the 2023 result archive on indiaresults.com for 10th, 12th, and degree exams."; 
 $meta_keywords = "india result com 2023, indiaresults 2023, check board result 2023, indiaresults university result 2023, 2023 result mirror"; 
 ?>
 
-<main class="container">
-    <div class="seo-content">
-        <h1>india result com 2023: Your Unrivaled Navigator to National Mirror Hubs, State Board Archives, and All-India
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result com 2023 - Official IndiaResults Archive</div>
+    <h2 class='sr-title'>india result com 2023: Your Unrivaled Navigator to National Mirror Hubs, State Board Archives, and All-India
             University Result Gateways (IndiaResults, National Informatics Centre (NIC), and State Portals) Result
-            Gateways and National Mirror Archives Across India</h1>
+            Gateways and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
+    <div class="seo-content">
+        
 
         <p>The "india result com 2023" (representing the primary synchronized digital result-distribution network
             utilized by millions of students for the 2023 annual board and university examinations across India) serves
@@ -118,5 +122,8 @@ $meta_keywords = "india result com 2023, indiaresults 2023, check board result 2
             courses conducted in 2023 across Indian universities.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

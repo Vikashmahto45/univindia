@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "HPTU Result - Himachal Pradesh Technical University Semester Updates"; 
 $meta_description = "Check HPTU results for B.Tech, M.Tech, MBA, and other technical courses. Get the latest updates on Himachal Pradesh Technical University Hamirpur exams and scores."; 
 $meta_keywords = "hptu, hptu result, himachal pradesh technical university, hptu hamirpur result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HPTU Result - Himachal Pradesh Technical University Semester Updates</div>
+    <h2 class='sr-title'>HPTU Result: Comprehensive Guide to Himachal Pradesh Technical University Scores</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>HPTU Result: Comprehensive Guide to Himachal Pradesh Technical University Scores</h1>
+        
         
         <p>Himachal Pradesh Technical University, popularly known as HPTU, stands as a beacon of engineering and professional excellence in the serene landscapes of Hamirpur, Himachal Pradesh. Established with the vision of providing industry-aligned technical education, HPTU governs a wide network of affiliated colleges across the state. For the thousands of students enrolled in its undergraduate and postgraduate programs, the term "HPTU Result" is a critical milestone that marks the culmination of their rigourous academic efforts. Whether you are pursuing a B.Tech in Computer Science, an MBA in Finance, or a Bachelor's in Pharmacy, the HPTU result portal is your definitive guide to understanding your academic progress. At Univindia.online, we prioritize providing clear, concise, and structured information to help Himachal's technical scholars access their HPTU results with ease and confidence.</p>
 
@@ -77,5 +81,8 @@ $meta_keywords = "hptu, hptu result, himachal pradesh technical university, hptu
         <p>In most technical programs at HPTU, a student must secure at least 4.0 Grade Points in each subject and a minimum overall SGPA (usually 5.0) to be promoted to the next semester without backlogs.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

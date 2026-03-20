@@ -1,16 +1,20 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link"; 
 $meta_description = "Download CET Admit Card 2024. Get direct links for Rajasthan CET Graduation and 12th Level examination hall tickets easily."; 
 $meta_keywords = "cet admit card 2024, rajasthan cet hall ticket download, rsmssb cet admit card, cet 12th level admit card, cet graduation admit card"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link</div>
+    <h2 class='sr-title'>CET Admit Card 2024</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="row">
         <div class="col-lg-8">
             <article class="result-card shadow-sm">
                 <div class="card-header-custom p-4">
-                    <h1 class="h2 mb-0">CET Admit Card 2024</h1>
+                    
                     <p class="text-white-50 mb-0">Rajasthan Common Eligibility Test (CET)</p>
                 </div>
                 
@@ -59,5 +63,8 @@ $meta_keywords = "cet admit card 2024, rajasthan cet hall ticket download, rsmss
         </div>
     </div>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

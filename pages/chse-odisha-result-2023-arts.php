@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub"; 
 $meta_description = "Check CHSE Odisha Result 2023 Arts for official +2 board examinations. Access the 2023 archival results, stream-wise merit lists, and marksheet download links."; 
 $meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, orissaresults.nic.in arts 2023, chse odisha +2 arts result archive, bseodisha.ac.in inter arts result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSE Odisha Result 2023 Arts - Official Plus Two Archive Hub</div>
+    <h2 class='sr-title'>CHSE Odisha Result 2023 Arts: Reclaiming the Academic Successes of the Creative Class</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>CHSE Odisha Result 2023 Arts: Reclaiming the Academic Successes of the Creative Class</h1>
+        
         
         <p>The "CHSE Odisha Result 2023 Arts" represented the single most significant academic milestone for hundreds of thousands of creative and intellectually vibrant young scholars across the state of Odisha. Managed by the Council of Higher Secondary Education (CHSE), Odisha, the Class 12 (Plus Two) Arts examination is the primary gateway to undergraduate education and specialized career paths in Law, Humanities, Social Sciences, and the Creative Arts. For the 2023 academic cycle, which marked the formal return to traditional state-level standardized testing for all subjects, the "CHSE Odisha Result 2023 Arts" search represents the official culmination of a student’s senior secondary learning years. in the educationally progressive landscape of Odisha, where the CHSE sets high intellectual standards, the results declared on the official state portals are the formal recognition of a student’s intellectual growth and resilience. At Univindia.online, we recognize the life-changing nature of these archival scores. We are dedicated to providing a high-quality, SEO-optimized manual that simplifies the search for your "CHSE Odisha Result 2023 Arts," ensuring that every student from the coastal districts to the western heartlands can celebrate their victory through the digital archives with absolute ease.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "chse odisha result 2023 arts, chse 12th arts result 2023, oris
         <p>Yes, the computer-generated "CHSE Odisha Result 2023 Arts" scorecard is accepted for initial admission and document verification in colleges across Odisha until the physical marksheet is provided by the board office.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

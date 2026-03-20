@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 10th 2023 - Official National Secondary School Archive"; 
 $meta_description = "Check India Result 10th 2023 for all major state and central boards. Access the 2023 archival results, merit lists, and marksheet download links for matric scholars."; 
 $meta_keywords = "india result 10th 2023, 10th class result 2023 india, board results 10th 2023, national matric results 2023 archive, indiaresults 10th 2023 portal"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 10th 2023 - Official National Secondary School Archive</div>
+    <h2 class='sr-title'>India Result 10th 2023: Reclaiming the Academic Successes of the National Secondary Class</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 10th 2023: Reclaiming the Academic Successes of the National Secondary Class</h1>
+        
         
         <p>The academic milestone "India Result 10th 2023" (representing the national landscape of secondary school results) stands as one of the most recognizable and essential digital landmarks for millions of students navigating the diverse and high-stakes educational system of India. The 2023 academic session was a landmark year, serving as a pivotal point for millions of scholars who appeared for their secondary board examinations across dozens of state boards and central councils like CBSE and ICSE. For current career seekers, government job applicants, and postgraduate scholars, the "India Result 10th 2023" archive is the digital key that formally acknowledges the transition of over 20 million students from foundational schooling to higher secondary excellence. Whether you were a student of the massive UP Board, the regional giants like RBSE and BSE Odisha, or the national boards, the "India Result 10th 2023" records are the official validation of your secondary success. At Univindia.online, we recognize the enduring value of these archival scores. We are dedicated to providing a high-quality, SEO-optimized national hub that simplifies your search for the "India Result 10th 2023" records, ensuring that every professional can retrieve their official success stories from the digital legacy rosters with absolute ease.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "india result 10th 2023, 10th class result 2023 india, board re
         <p>Yes, for the initial rounds of online school admission and counseling (like OFSS Bihar or DOST Telangana), the computer-generated "India Result 10th 2023" scorecard is fully accepted as proof of your qualification until the original certificate is provided by the school.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

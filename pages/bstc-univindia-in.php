@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "BSTC Univindia - Rajasthan Pre-DElEd Exam Portal Guide"; 
 $meta_description = "BSTC Univindia is the primary portal for Rajasthan Pre-DElEd (BSTC) exam forms, admit cards, and results. Complete walkthrough for BSTC aspirants."; 
 $meta_keywords = "bstc.univindia.in"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSTC Univindia - Rajasthan Pre-DElEd Exam Portal Guide</div>
+    <h2 class='sr-title'>BSTC Univindia: Your Essential Portal for Rajasthan Pre-DElEd Entrance Exam</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>BSTC Univindia: Your Essential Portal for Rajasthan Pre-DElEd Entrance Exam</h1>
+        
         
         <p>For thousands of young aspirants in Rajasthan looking to build a career in primary education, "BSTC Univindia" is a critical search term. The Basic School Teaching Certificate (BSTC) exam, now officially known as the Pre-DElEd (Diploma in Elementary Education) examination, is a major state-level entrance test. The management of this massive examination—from the application phase to the final counseling process—is frequently hosted on the Univindia platform under the dedicated domain `bstc.univindia.in`. In this comprehensive guide, we will explore everything you need to know about BSTC Univindia, how to navigate its important sections, and how to ensure a smooth application process for your teaching career.</p>
 
@@ -53,5 +57,8 @@ $meta_keywords = "bstc.univindia.in";
         <p><i>Note: Univindia.online is an independent educational site providing helpful guides. For official notifications and authorized updates, always rely on the official state-authorized BSTC and Pre-DElEd websites.</i></p>
     </div>
 </main>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

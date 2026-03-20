@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Result 12th Class 2024 - Senior Secondary Board Results All States"; 
 $meta_description = "Check India Result 12th Class 2024 for all state boards including CBSE, ISC, UP Board, and RBSE. Find direct links to 12th result portals across India."; 
 $meta_keywords = "india result 12th, 12th class result 2024, board result 12th, senior secondary results india, class 12 result date"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Result 12th Class 2024 - Senior Secondary Board Results All States</div>
+    <h2 class='sr-title'>India Result 12th Class: The Definitive National Hub for Higher Secondary Success</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Result 12th Class: The Definitive National Hub for Higher Secondary Success</h1>
+        
         
         <p>The "India Result 12th Class" represents the most critical academic transition in the life of an Indian student. As the final chapter of school education, the 12th class results are the primary currency for university admissions, professional course eligibility, and career foundation. Whether you are a student of the Central Board (CBSE), the Council for the Indian School Certificate (ISC), or one of the many state boards like UPMSP or RBSE, the phrase "India Result 12th Class" is the key that unlocks your future aspirations. For the 2024 and 2025 academic sessions, the landscape of "India Result 12th Class" has evolved to include more comprehensive assessment models and faster digital delivery systems. At Univindia.online, we specialize in aggregating the "India Result 12th Class" data from across every state and union territory, providing you with a unified, high-speed gateway to your senior secondary scores. We are dedicated to ensuring that every 12th-grade student can navigate the result season with confidence and clarity.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "india result 12th, 12th class result 2024, board result 12th, 
         <p>Following the "India Result 12th Class" declaration, your board will issue a migration certificate. You can collect it from your school or download a digital version through the DigiLocker platform.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

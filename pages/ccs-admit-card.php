@@ -1,11 +1,15 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in"; 
 $meta_description = ""; 
 $meta_keywords = ""; 
 ?>
 
-<main class="container py-5">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CCS Admit Card 2025: CCSU Meerut BA, BSc, BCom Hall Ticket @ ccsuniversity.ac.in</div>
+    <h2 class='sr-title'>CCS Admit Card 2025: Download CCSU Meerut Hall Ticket</h2>
+    <div class='sr-content'>
+        <main class="container py-5">
     <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
         <div class="col-12">
             <nav aria-label="breadcrumb">
@@ -15,7 +19,7 @@ $meta_keywords = "";
                 </ol>
             </nav>
 
-            <h1 class="display-5 fw-bold text-gradient-gold mb-4 mt-3">CCS Admit Card 2025: Download CCSU Meerut Hall Ticket</h1>
+            
             
             <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
                 <i class="fas fa-university me-2"></i> <strong>University Update:</strong> Chaudhary Charan Singh University (CCSU), Meerut releases admit cards for Regular, Private, and Professional courses. Students can access their 2025 hall tickets using their Form Number.
@@ -187,5 +191,8 @@ $meta_keywords = "";
     transform: translateY(-8px) scale(1.02);
 }
 </style>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

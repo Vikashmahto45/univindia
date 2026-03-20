@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Results JKBOSE - Jammu & Kashmir Board Results Hub"; 
 $meta_description = "Check India Results JKBOSE for 10th and 12th class results. Access Jammu and Kashmir board scores, merit lists, and official updates for both Soft and Hard zones."; 
 $meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, jkbose result 2024, jammu and kashmir board results"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Results JKBOSE - Jammu & Kashmir Board Results Hub</div>
+    <h2 class='sr-title'>India Results JKBOSE: Your Definitive Gateway to Jammu & Kashmir’s Academic Success</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Results JKBOSE: Your Definitive Gateway to Jammu & Kashmir’s Academic Success</h1>
+        
         
         <p>The "India Results JKBOSE" search represents the most decisive academic milestone for tens of thousands of students across the diverse and beautiful landscape of Jammu and Kashmir. Conducted by the Jammu and Kashmir Board of School Education (JKBOSE), the 10th and 12th-grade examinations are the primary gateways to higher learning and professional careers in the UT. For the 2024 academic cycle, the "India Results JKBOSE" portal has become synonymous with the aspirations of youth from the valley of Srinagar to the plains of Jammu Hub. With the recent unification of the academic calendar across the Soft and Hard zones, the 2024 results are more critical than ever, determining eligibility for national competitive exams like NEET and JEE. At Univindia.online, we are proud to be your trusted partner, providing you with a high-quality, SEO-optimized guide that simplifies the search for your "India Results JKBOSE" scores, ensuring that every student in the region can celebrate their victory without technical hurdles.</p>
 
@@ -63,5 +67,8 @@ $meta_keywords = "india results jkbose, jkbose 10th result, jkbose 12th result, 
         <p>Yes, the computer-generated "India Results JKBOSE" scorecard is accepted for provisional admission in all colleges across J&K and for the PMSSS scholarship application until the board issues the physical copy.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "12th Arts Result 2022 - Official Rajasthan Board Mirror"; 
 $meta_description = "Check 12th Arts Result 2022 online. Access the historical Rajasthan Board (BSER) Senior Secondary Arts results for the 2022 session. Official 2022 BSER mirror link."; 
 $meta_keywords = "12th arts result 2022, check rajasthan board 12th arts result 2022 online, rbse 12th arts 2022 link, official 2022 bser arts portal, rajresults.nic.in 2022"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Arts Result 2022 - Official Rajasthan Board Mirror</div>
+    <h2 class='sr-title'>12th Arts Result 2022: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Ajmer, Senior Secondary School Examination (Class 12), Arts Stream, and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>12th Arts Result 2022: Your Comprehensive Navigator to Board of Secondary Education, Rajasthan (BSER), Ajmer, Senior Secondary School Examination (Class 12), Arts Stream, and Rajasthan State Board Result Gateways (Government of Rajasthan, School Education Department, and National Informatics Centre (NIC) Rajasthan State Centre) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "12th Arts Result 2022" (representing the primary synchronized digital result-dissemination framework utilized by over 6 lakh students for the annual humanities board exams conducted during the historical 2021-2022 academic session by the BSER Ajmer) represents a significant digital milestone for students residing in the academic and cultural landscape of Rajasthan. As the primary official gateway to the state's historical 2022 educational infrastructure (Ajmer HQ), and the traditional school education infrastructure of the nation, the "12th Arts Result 2022" serves as the formal academic master directory that allows candidates to access their theory scores, internal assessment marks (including latest moderation components), and final graduation certificates via dedicated high-concurrency server endpoints and authorized mirror archives like Rajasthan IndiaResults. For the 2022 academic cycle, which marked the return of full-scale physical examinations after the pandemic, the "12th Arts Result 2022" search remains the digital gateway through which candidates verify their fundamental professional achievement with maximum transparency and integrity. The Rajasthan education councils implemented state-of-the-art 'Electronic Result Delivery' systems, ensuring that the 2022 Arts scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "12th Arts Result 2022," ensuring that every student and researcher in Rajasthan can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "12th arts result 2022, check rajasthan board 12th arts result 
         <p>Yes, your board results (verified via the official "12th Arts Result 2022" portal) are recorded in the state database and serve as primary data for various merit schemes.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

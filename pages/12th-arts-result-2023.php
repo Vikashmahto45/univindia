@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "12th Arts Result 2023 - Official National & state Board archive"; 
 $meta_description = "Check 12th Arts Result 2023 online. Access the historical Class 12 (Higher Secondary) Arts results from CBSE, RBSE, UP Board, and more for 2023. Official Link."; 
 $meta_keywords = "12th arts result 2023, check board result 12th arts 2023, senior secondary arts result 2023 online, official 2023 arts result link, indiaresult 12th arts mirror"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th Arts Result 2023 - Official National & state Board archive</div>
+    <h2 class='sr-title'>12th Arts Result 2023: Your Comprehensive Navigator to Board of Higher Secondary Education Class 12 (Senior Secondary) Arts Stream, Humanities, and National State Board Result Gateways (Government of Rajasthan, Bihar, Uttar Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>12th Arts Result 2023: Your Comprehensive Navigator to Board of Higher Secondary Education Class 12 (Senior Secondary) Arts Stream, Humanities, and National State Board Result Gateways (Government of Rajasthan, Bihar, Uttar Pradesh, and National Informatics Centre (NIC) State Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "12th Arts Result 2023" (representing the historical digital result-dissemination framework utilized by millions of candidates for the annual senior secondary arts examinations conducted during the 2022-2023 academic session) represents a significant digital milestone for over 15 million students residing in the diverse and technological landscape of India. As the primary official gateway to the nation's historical 2023 educational infrastructure (covering boards like CBSE, RBSE, and UPMSP), and the traditional school education infrastructure of the nation, the "12th Arts Result 2023" serves as the formal senior secondary master directory that allows candidates to access their theory scores, internal assessment marks, and final graduation certificate (Class 12 Arts) via dedicated government server endpoints and authorized mirror archives. For the 2023 academic cycle, which marked the complete return to traditional comprehensive evaluation models after several hybrid years, the "12th Arts Result 2023" search remains the digital gateway through which candidates verify their fundamental academic achievement with maximum transparency and integrity. The national and state education councils implemented state-of-the-art 'Electronic Result Dissemination,' ensuring that the 2023 scores (including subject-wise grades, total marks, and division component evaluation) were served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the historical and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "12th Arts Result 2023," ensuring that every student and researcher in India can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "12th arts result 2023, check board result 12th arts 2023, seni
         <p>Yes, your board results (verified via the official "12th Arts Result 2023" portal) are digitized and available in the DigiLocker archive for official verification.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>

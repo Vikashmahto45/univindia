@@ -1,13 +1,17 @@
 <?php 
-include '../includes/header.php'; 
+include '../header.php'; 
 $page_title = "India Results AP - Official Andhra Pradesh Board Result Hub"; 
 $meta_description = "Check India Results AP online. Access the high-speed Andhra Pradesh (BSEAP, BIEAP) SSC and Inter results on IndiaResults mirror. 2024 merit lists link."; 
 $meta_keywords = "india results ap, check andhra pradesh board result online, ap ssc result indiaresults 2024, indiaresult ap inter 2nd year, bseap result mirror, name wise ap result"; 
 ?>
 
-<main class="container">
+<div class='sr-page-wrapper'>
+    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; India Results AP - Official Andhra Pradesh Board Result Hub</div>
+    <h2 class='sr-title'>India Results AP: Your Comprehensive Navigator to Board of Secondary Education Andhra Pradesh (BSEAP), Vijayawada, Secondary School Certificate (SSC), Board of Intermediate Education (BIEAP), +2 Inter, and Andhra Pradesh State Board Result Gateways (Government of Andhra Pradesh, School Education Department, and National Informatics Centre (NIC) AP Hubs) Result Portals and National Mirror Archives Across India</h2>
+    <div class='sr-content'>
+        <main class="container">
     <div class="seo-content">
-        <h1>India Results AP: Your Comprehensive Navigator to Board of Secondary Education Andhra Pradesh (BSEAP), Vijayawada, Secondary School Certificate (SSC), Board of Intermediate Education (BIEAP), +2 Inter, and Andhra Pradesh State Board Result Gateways (Government of Andhra Pradesh, School Education Department, and National Informatics Centre (NIC) AP Hubs) Result Portals and National Mirror Archives Across India</h1>
+        
         
         <p>The "India Results AP" (representing the premier digital result-dissemination framework utilized by millions of students for the annual Andhra Pradesh SSC and Intermediate examinations conducted for the academic session) represents a significant digital milestone for over 12 lakh students residing in the academic and industrial landscape of Andhra Pradesh. As the primary authorized mirror gateway to the state's educational infrastructure (Vijayawada and Guntur, Board HQs), and the traditional school education infrastructure of the nation, the "India Results AP" serves as the formal secondary and senior secondary master directory that allows candidates to access their scores, marks, and final graduation certificates via dedicated high-performance server clusters. For the current academic cycle, where immediate result retrieval and robust technical evaluation are statewide priorities, the "India Results AP" search is the digital gateway through which candidates verify their professional transition with maximum speed and transparency. The technical councils at BSEAP/BIEAP and their technical partner, IndiaResults, have implemented state-of-the-art 'Electronic Result Delivery,' ensuring that the scores (including subject-wise grades, total marks, and division component evaluation) are served with maximum integrity, speed, and reliability. At Univindia.online, we recognize the critical utility and academic significance of this vision-focused result search. We are dedicated to providing a high-quality, SEO-optimized national portal that centralizes the "India Results AP," ensuring that every aspiring student and researcher in Andhra Pradesh can approach their academic records without technical delay or misinformation.</p>
 
@@ -64,5 +68,8 @@ $meta_keywords = "india results ap, check andhra pradesh board result online, ap
         <p>The "India Results AP" data is used for 'Provisional Verification'. For final 'Scholarship Disbursement,' the board-issued physical marksheet or DigiLocker records are required.</p>
     </div>
 </div>
+    </div>
+</div>
 
-<?php include '../includes/footer.php'; ?>
+
+<?php include '../footer.php'; ?>
