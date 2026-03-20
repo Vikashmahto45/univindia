@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 5th 2022 - Official Primary School Result Gateway</div>
     <h2 class='sr-title'>india result 5th 2022 - Official Primary School Result Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 5th 2022 - Official Primary School Result Gateway"; 
-$meta_description = "Check india result 5th 2022 for all states. Access the official 5th class result portal on indiaresults.com for the 2022 academic year. Fast result checking by name or roll number."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 result portal for Class 5th Primary Board examinations.
-                Verified links from official servers.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Download 2022 Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">2022 Primary Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🎒</div>
-                    <h3>5th Grade Portal</h3>
+        <h3>5th Grade Portal</h3>
                     <p>Primary access server for 2022 school results.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Gateway 1</a>
                 </div>
@@ -111,10 +82,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

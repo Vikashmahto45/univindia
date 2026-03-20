@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC GD Admit Card 2024-25: Download Constable GD 46617 Vacancy Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC GD Admit Card 2024-25 for Constable GD in BSF, CRPF, SSB, and CISF. Get direct link for SSC GD Hall Ticket, Exam Schedule, and Region Wise Status. 800+ words.";
-$page_keywords = "SSC GD Admit Card 2024, SSC GD Hall Ticket Download, ssc.gov.in gd admit card link, SSC GD Exam Date 2025, SSC GD Constable Exam Status";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">SSC GD Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-shield-alt me-2"></i> <strong>Recruitment Alert:</strong> The Staff Selection Commission (SSC) has announced the revision in vacancies for Constable GD to <strong>46,617 posts</strong>. The <strong>SSC GD 2024 Admit Card</strong> status for Tier 1 is now live across regional websites.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>SSC GD Admit Card 2024</strong> is the mandatory permit for candidates aspiring to serve in the Central Armed Police Forces (CAPFs), SSF, and Rifleman (GD) in Assam Rifles. With a significant increase in vacancies across BSF, CISF, CRPF, ITBP, SSB, and AR, the <strong>SSC GD Hall Ticket 2024</strong> serves as the first step towards a prestigious career in national security.
                 </p>
@@ -158,57 +123,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> CAPF Selection Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $capf_links = [
-                        'bsf-admit-card.php' => 'BSF Constable GD Status',
-                        'crpf-admit-card.php' => 'CRPF Tradesman Call Letter',
-                        'itbp-admit-card.php' => 'ITBP Head Constable Card',
-                        'ssb-admit-card.php' => 'SSB Tradesman Hall Ticket'
-                    ];
-                    foreach ($capf_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="gd-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.gd-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.gd-link-card:hover {
-    background: rgba(255, 193, 7, 0.12);
-    border-color: #ffc107 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

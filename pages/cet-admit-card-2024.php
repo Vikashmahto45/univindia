@@ -9,34 +9,7 @@ $meta_keywords = "cet admit card 2024, rajasthan cet hall ticket download, rsmss
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link</div>
     <h2 class='sr-title'>CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link"; 
-$meta_description = "Download CET Admit Card 2024. Get direct links for Rajasthan CET Graduation and 12th Level examination hall tickets easily."; 
-$meta_keywords = "cet admit card 2024, rajasthan cet hall ticket download, rsmssb cet admit card, cet 12th level admit card, cet graduation admit card"; 
-?>
-
-
-    
-    
-    
-        <?php 
-$page_title = "CET Admit Card 2024 Download - Rajasthan CET Hall Ticket Link";
-$meta_description = "Download CET Admit Card 2024. Get direct links for Rajasthan CET Graduation and 12th Level examination hall tickets easily.";
-$meta_keywords = "cet admit card 2024, rajasthan cet hall ticket download, rsmssb cet admit card, cet 12th level admit card, cet graduation admit card";
-include '../includes/header.php'; 
-?>
-
-
-    <div class="row">
-        <div class="col-lg-8">
-            <article class="result-card shadow-sm">
-                <div class="card-header-custom p-4">
-                    
-                    <p class="text-white-50 mb-0">Rajasthan Common Eligibility Test (CET)</p>
-                </div>
-                
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <div class="announcement-bar mb-4">
                         <i class="fas fa-bullhorn me-2"></i>
                         <strong>Update:</strong> RSMSSB has released the CET exam schedule and admit card link for 2024 sessions.
@@ -63,29 +36,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">RSMSSB Exam Services</h3>
                 <div class="row">
-                    <?php 
-                    $current_kw = "cet admit card 2024";
-                    $related_count = 0;
-                    foreach($link_map as $kw => $url) {
-                        if($kw != $current_kw && $related_count < 6) {
-                            echo '<div class="col-md-6 mb-3"><div class="card-mini shadow-sm"><a href="'.$url.'">'.ucwords($kw).'</a>';
-                            $related_count++;
-                        }
-                    }
-                    ?>
-                
-        </div>
-
-        <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
-        
-
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

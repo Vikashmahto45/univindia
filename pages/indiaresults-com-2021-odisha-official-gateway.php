@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresults.com 2021 odisha - Official State Gateway</div>
     <h2 class='sr-title'>indiaresults.com 2021 odisha - Official State Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "indiaresults.com 2021 odisha - Official State Gateway"; 
-$meta_description = "Check Odisha Board 10th & 12th results 2021 on indiaresults.com 2021 odisha. Access the official 2021 archival scorecards for all Odisha exams on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Odisha state examination results for the 2021 academic session. Access official Odisha board mirrors and 2021 archival links updated for batch verification via <strong>indiaresults.com 2021 odisha</strong>.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Odisha Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 Odisha (indiaresults) Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Odisha National Server 2021</h3>
+        <h3>Odisha National Server 2021</h3>
                     <p>Primary server mirror for accessing Odisha Board (BSE & CHSE) results and University marks for the 2021 academic session archive.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

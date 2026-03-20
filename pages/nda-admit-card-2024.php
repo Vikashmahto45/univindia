@@ -9,33 +9,6 @@ $meta_keywords = "nda admit card 2024 download, upsc nda hall ticket 2024 downlo
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NDA Admit Card 2024 Download - UPSC National Defence Academy Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>NDA Admit Card 2024 Download - UPSC National Defence Academy Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NDA Admit Card 2024 Download - UPSC National Defence Academy Hall Ticket | Univindia.online"; 
-$meta_description = "Download NDA Admit Card 2024. Get the direct link for UPSC NDA & NA (I) and (II) examination hall tickets at upsconline.nic.in."; 
-$meta_keywords = "nda admit card 2024 download, upsc nda hall ticket 2024 download, upsconline.nic.in login 2024, nda exam date 2024 download, defense entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NDA Admit Card 2024 Download - UPSC National Defence Academy Hall Ticket | Univindia.online";
-$meta_description = "Download NDA Admit Card 2024. Get the direct link for UPSC NDA & NA (I) and (II) examination hall tickets at upsconline.nic.in.";
-$meta_keywords = "nda admit card 2024 download, upsc nda hall ticket 2024 download, upsconline.nic.in login 2024, nda exam date 2024 download, defense entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NDA Admit Card 2024: Download UPSC National Defence Academy Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>NDA (I) & (II) 2024 Cycle:</strong> The Union Public Service Commission (UPSC) conducted the National Defence Academy (NDA) and Naval Academy (NA) Examination (I) and (II) in April and September 2024. Candidates can access their archived hall tickets and results at upsc.gov.in using their 2024 registration ID.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Defense Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

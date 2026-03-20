@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap intermediate results - Official BIEAP Hub</div>
     <h2 class='sr-title'>ap intermediate results - Official BIEAP Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ap intermediate results - Official BIEAP Hub"; 
-$meta_description = "Check ap intermediate results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest and archival examination results for Andhra Pradesh
-                Class 12th (Intermediate). Official BIEAP mirrors and direct board result links updated for the current
-                academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check AP Inter Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Andhra Pradesh (AP Inter) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BIEAP Board Server</h3>
+        <h3>BIEAP Board Server</h3>
                     <p>Primary server for Andhra Pradesh Board Intermediate result data across all centers and archival
                         sessions for the council.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

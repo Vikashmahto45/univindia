@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result .com 2023 - Official National Result Mirror Hub</div>
     <h2 class='sr-title'>india result .com 2023 - Official National Result Mirror Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result .com 2023 - Official National Result Mirror Hub"; 
-$meta_description = "Check india result .com 2023 for all board and university results. Access the official 2023 result portal mirrors on indiaresults for fast checking by name and roll number."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the fastest mirrors for the 2023 academic year. National, State,
-                and University results centralized.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Mirror</a>
-                <a href="#faq" class="btn btn-secondary">Global Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Portals</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🌐</div>
-                    <h3>Main Result Hub</h3>
+        <h3>Main Result Hub</h3>
                     <p>Primary server for 2023 board data.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -111,10 +82,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

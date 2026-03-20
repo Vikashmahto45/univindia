@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result by name - Official National Secondary Hub</div>
     <h2 class='sr-title'>10th class result by name - Official National Secondary Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "10th class result by name - Official National Secondary Hub"; 
-$meta_description = "Check Class 10 result by student name on 10th class result by name. Access official indiaresults Name-Wise Search for Secondary scores nationwide."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Class 10th (Secondary) examination results
-                searchable by student name. Access official national board name-wise mirrors and direct score links for
-                all participating state boards.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 10th Name Search</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 10th (Name-Wise) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>10th Name-Wise Server</h3>
+        <h3>10th Name-Wise Server</h3>
                     <p>Primary server mirror for accessing Secondary (10th) results by name for Rajasthan Board, Punjab
                         Board, and other state education councils.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

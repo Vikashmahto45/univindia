@@ -9,33 +9,6 @@ $meta_keywords = "csir net admit card 2025, download csir net 2025 hall ticket, 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CSIR NET Admit Card 2025 Download - NTA National Eligibility Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CSIR NET Admit Card 2025 Download - NTA National Eligibility Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CSIR NET Admit Card 2025 Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
-$meta_description = "Download CSIR NET Admit Card 2025. Get the direct link for Joint CSIR UGC NET 2025 examination hall tickets for JRF and Assistant Professorship at csirnet.nta.ac.in."; 
-$meta_keywords = "csir net admit card 2025, download csir net 2025 hall ticket, csirnet.nta.ac.in 2025 login, csir ugc net exam date 2025 download, science net call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CSIR NET Admit Card 2025 Download - NTA National Eligibility Test Hall Ticket | Univindia.online";
-$meta_description = "Download CSIR NET Admit Card 2025. Get the direct link for Joint CSIR UGC NET 2025 examination hall tickets for JRF and Assistant Professorship at csirnet.nta.ac.in.";
-$meta_keywords = "csir net admit card 2025, download csir net 2025 hall ticket, csirnet.nta.ac.in 2025 login, csir ugc net exam date 2025 download, science net call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CSIR NET Admit Card 2025: Download NTA Joint CSIR UGC NET Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>CSIR NET 2025 Official:</strong> The National Testing Agency (NTA) has activated the portal for downloading the exam admit cards for the Joint CSIR-UGC NET June/December 2025 cycle. Candidates can log in with their application number at csirnet.nta.ac.in to access their high-security CBT hall tickets.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Research Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

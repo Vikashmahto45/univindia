@@ -9,33 +9,6 @@ $meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online"; 
-$meta_description = "Download UP DElEd Admit Card 2024 (formerly UP BTC). Get direct links for 1st, 2nd, 3rd, and 4th Semester exams, counseling status, and hall tickets at updeled.gov.in."; 
-$meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.gov.in admit card, up deled semester exam hall ticket, up d.el.ed admit card 2024"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "UP DElEd Admit Card 2024 Download - Semester Exam & Counseling Hall Ticket | Univindia.online";
-$meta_description = "Download UP DElEd Admit Card 2024 (formerly UP BTC). Get direct links for 1st, 2nd, 3rd, and 4th Semester exams, counseling status, and hall tickets at updeled.gov.in.";
-$meta_keywords = "up deled admit card 2024, up btc admit card download, updeled.gov.in admit card, up deled semester exam hall ticket, up d.el.ed admit card 2024";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">UP DElEd Admit Card 2024: Download BTC/DElEd Semester Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>UPPRPB/SCERT Update:</strong> The Examination Regulatory Authority (ERA), Uttar Pradesh, has released the admit cards for the UP DElEd 2024 Semester Examinations. Candidates can access their hall tickets through the college portal or the official updeled.gov.in link.
         </div>
@@ -106,13 +79,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Univindia Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check Semester Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "ssc gd admit card status 2024, ssc gd constable application st
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online</div>
     <h2 class='sr-title'>SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online"; 
-$meta_description = "Check SSC GD Constable Admit Card Status 2024. Get direct links for regional status updates, exam center city intimation, and Tier 1 hall ticket download steps."; 
-$meta_keywords = "ssc gd admit card status 2024, ssc gd constable application status, ssc gd exam city check, ssc nr gd status, ssc cr gd admit card status"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC GD Admit Card Status 2024 - Check Exam City & Date | Univindia.online";
-$meta_description = "Check SSC GD Constable Admit Card Status 2024. Get direct links for regional status updates, exam center city intimation, and Tier 1 hall ticket download steps.";
-$meta_keywords = "ssc gd admit card status 2024, ssc gd constable application status, ssc gd exam city check, ssc nr gd status, ssc cr gd admit card status";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC GD Admit Card Status 2024: Check Your Application & Exam Details</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Update:</strong> The Staff Selection Commission (SSC) has started updating the 'Application Status' for the GD Constable 2024 recruitment. Candidates from ER, SR, and KKR regions can now check their submission details and exam dates.
         </div>
@@ -140,13 +113,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Job News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

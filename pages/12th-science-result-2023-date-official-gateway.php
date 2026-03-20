@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th science result 2023 date - Official Board Notifications</div>
     <h2 class='sr-title'>12th science result 2023 date - Official Board Notifications</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th science result 2023 date - Official Board Notifications"; 
-$meta_description = "Check Rajasthan and all State Board 12th Science result date 2023 on 12th science result 2023 date. Access official 2023 archival schedule scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Senior Secondary (Class 12th) Science stream result announcement dates and details for the 2023 academic session. Access official board mirrors and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Science Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Science Hubs & Date Records</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Science Server 2023</h3>
+        <h3>National Science Server 2023</h3>
                     <p>Primary server for accessing Class 12th (Senior Secondary) Science examination result date records and data for the 2023 academic session archive.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

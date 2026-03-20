@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; aps result - Official School Examination Hub</div>
     <h2 class='sr-title'>aps result - Official School Examination Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "aps result - Official School Examination Hub"; 
-$meta_description = "Check aps result for all classes and board exams. Access the official Army Public School (APS) and general school result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Army Public School (APS) and specialized
-                school-level examination results. Official institution mirrors and direct result links updated for the
-                current academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check APS Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified School (APS) Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>APS Institution Server</h3>
+        <h3>APS Institution Server</h3>
                     <p>Primary server for Army Public School (APS) examination results across all branches and academic
                         sessions for students.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

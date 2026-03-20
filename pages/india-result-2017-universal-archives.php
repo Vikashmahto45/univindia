@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2017 - Official 2017 Academic Result Archive</div>
     <h2 class='sr-title'>india result 2017 - Official 2017 Academic Result Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 2017 - Official 2017 Academic Result Archive"; 
-$meta_description = "Check india result 2017 for board and university exams. Access the official 2017 academic result portal and archival verification links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2017 academic session results for all major boards and
-                universities across India. Official indiaresults mirrors and archival links updated for the 2017 batch
-                verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2017 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2017 National Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Results 2017</h3>
+        <h3>Board Results 2017</h3>
                     <p>Primary server for 10th and 12th board result data across participating states for the 2017
                         session archive.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -121,10 +91,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

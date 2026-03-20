@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8 class result punjab board - Official PSEB 8th Hub</div>
     <h2 class='sr-title'>8 class result punjab board - Official PSEB 8th Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "8 class result punjab board - Official PSEB 8th Hub"; 
-$meta_description = "Check Punjab Board 8th class result on 8 class result punjab board. Access official PSEB Middle School scorecards and archival result links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Punjab School Education Board (PSEB) Class
-                8th (Middle School) examination results. Access official PSEB mirrors and historical archival links
-                updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 8th Result Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Punjab (PSEB 8th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>PSEB Middle Server</h3>
+        <h3>PSEB Middle Server</h3>
                     <p>Primary server for Punjab Board Class 8th (Middle) examination result data across Mohali,
                         Ludhiana, Amritsar, and all districts in Punjab.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter 2nd year supplementary results 2023 - Official 12th Supply 2023 Archive</div>
     <h2 class='sr-title'>inter 2nd year supplementary results 2023 - Official 12th Supply 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "inter 2nd year supplementary results 2023 - Official 12th Supply 2023 Archive"; 
-$meta_description = "Check inter 2nd year supplementary results 2023 for all state boards. Access the official 2023 Class 12th (Senior Secondary) Supply result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session supplementary results for Class 12th
-                (Senior Secondary / Intermediate) across all Indian state boards. Official board mirrors and
-                supplemental links updated for 2023 batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Supply Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Supply Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Supply Hub 2023</h3>
+        <h3>Board Supply Hub 2023</h3>
                     <p>Primary server for Class 12th (Inter) Supplementary result data for participating boards (TSBIE,
                         BIEAP, etc.) 2023 session archive.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -130,10 +100,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hsce odisha result 2022 - Official BSE Matric Archive</div>
     <h2 class='sr-title'>hsce odisha result 2022 - Official BSE Matric Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "hsce odisha result 2022 - Official BSE Matric Archive"; 
-$meta_description = "Check hsce odisha result 2022 for the High School Certificate examination. Access the official 2022 Odisha Matric result archive portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 High School Certificate (HSC) results for Odisha.
-                Official BSE mirrors and archival links updated for Matric examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Odisha 2022 HSCE Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Main Server 2022</h3>
+        <h3>BSE Main Server 2022</h3>
                     <p>Primary server for Odisha HSCE result 2022 archive.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -113,10 +84,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

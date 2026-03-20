@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; punjab.indiaresults.com 2023 8th class - Official Punjab 2023 Archive</div>
     <h2 class='sr-title'>punjab.indiaresults.com 2023 8th class - Official Punjab 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "punjab.indiaresults.com 2023 8th class - Official Punjab 2023 Archive"; 
-$meta_description = "Check Punjab Board 8th Class result 2023 on punjab.indiaresults.com 2023 8th class. Access official PSEB 8th archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Punjab School
-                Education Board (PSEB) Class 8th (Middle School). Official PSEB mirrors and 2023 archival links updated
-                for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Punjab Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Punjab (PSEB 8th) Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>PSEB Board Server 2023</h3>
+        <h3>PSEB Board Server 2023</h3>
                     <p>Primary server mirror for accessing Punjab Board 8th Class results for the 2023 session archive
                         across districts like Mohali, Patiala, and Amritsar.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "ibps clerk admit card 2025, ibps crp clerks xv hall ticket dow
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IBPS Clerk Admit Card 2025 Download - CRP Clerks-XV Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>IBPS Clerk Admit Card 2025 Download - CRP Clerks-XV Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "IBPS Clerk Admit Card 2025 Download - CRP Clerks-XV Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download IBPS Clerk Admit Card 2025. Get the direct link for IBPS CRP Clerks-XV Preliminary and Main examination hall tickets at ibps.in."; 
-$meta_keywords = "ibps clerk admit card 2025, ibps crp clerks xv hall ticket download, ibps.in admit card 2025 login, ibps clerk prelims exam date 2025, bank clerk call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "IBPS Clerk Admit Card 2025 Download - CRP Clerks-XV Hall Ticket Link | Univindia.online";
-$meta_description = "Download IBPS Clerk Admit Card 2025. Get the direct link for IBPS CRP Clerks-XV Preliminary and Main examination hall tickets at ibps.in.";
-$meta_keywords = "ibps clerk admit card 2025, ibps crp clerks xv hall ticket download, ibps.in admit card 2025 login, ibps clerk prelims exam date 2025, bank clerk call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">IBPS Clerk Admit Card 2025: Download CRP Clerks-XV Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>IBPS 2025 Update:</strong> The Institute of Banking Personnel Selection (IBPS) has activated the portal for downloading the exam admit cards for the CRP Clerks-XV (2025-26) recruitment. Candidates can log in with their registration number and password at ibps.in to download their hall tickets.
         </div>
@@ -114,13 +87,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Bank Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

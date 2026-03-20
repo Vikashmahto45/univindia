@@ -9,33 +9,6 @@ $meta_keywords = "bssc admit card 2024, bihar ssc hall ticket download, bssc int
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSSC Admit Card 2024 Download - Bihar SSC Inter Level & CGL Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>BSSC Admit Card 2024 Download - Bihar SSC Inter Level & CGL Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "BSSC Admit Card 2024 Download - Bihar SSC Inter Level & CGL Hall Ticket | Univindia.online"; 
-$meta_description = "Download BSSC Admit Card 2024. Get the direct link for Bihar Staff Selection Commission 2nd Inter Level and 3rd CGL recruitment exam hall tickets at bssc.bihar.gov.in."; 
-$meta_keywords = "bssc admit card 2024, bihar ssc hall ticket download, bssc inter level admit card link, bssc.bihar.gov.in admit card login, bssc cgl admit card download"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "BSSC Admit Card 2024 Download - Bihar SSC Inter Level & CGL Hall Ticket | Univindia.online";
-$meta_description = "Download BSSC Admit Card 2024. Get the direct link for Bihar Staff Selection Commission 2nd Inter Level and 3rd CGL recruitment exam hall tickets at bssc.bihar.gov.in.";
-$meta_keywords = "bssc admit card 2024, bihar ssc hall ticket download, bssc inter level admit card link, bssc.bihar.gov.in admit card login, bssc cgl admit card download";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">BSSC Admit Card 2024: Download Bihar SSC Inter Level & Graduate Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Bihar Recruitment News:</strong> The Bihar Staff Selection Commission (BSSC) is set to release the admit cards for the 2nd Inter Level Combined Competitive Examination 2024. Candidates can log in using their registration number and password at bssc.bihar.gov.in to check their exam status.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

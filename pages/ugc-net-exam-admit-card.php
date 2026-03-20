@@ -9,34 +9,7 @@ $meta_keywords = "ugc net exam admit card, nta net hall ticket download, ugc net
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UGC NET Exam Admit Card - Download NTA University Hall Ticket</div>
     <h2 class='sr-title'>UGC NET Exam Admit Card - Download NTA University Hall Ticket</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UGC NET Exam Admit Card - Download NTA University Hall Ticket"; 
-$meta_description = "UGC NET Exam Admit Card Download. Get the direct link to access your NTA UGC NET examination hall ticket and check exam venue details."; 
-$meta_keywords = "ugc net exam admit card, nta net hall ticket download, ugc net call letter, university eligibility test admit card"; 
-?>
-
-
-    
-    
-    
-        <?php 
-$page_title = "UGC NET Exam Admit Card - Download NTA University Hall Ticket";
-$meta_description = "UGC NET Exam Admit Card Download. Get the direct link to access your NTA UGC NET examination hall ticket and check exam venue details.";
-$meta_keywords = "ugc net exam admit card, nta net hall ticket download, ugc net call letter, university eligibility test admit card";
-include '../includes/header.php'; 
-?>
-
-
-    <div class="row">
-        <div class="col-lg-8">
-            <article class="result-card shadow-sm">
-                <div class="card-header-custom p-4">
-                    
-                    <p class="text-white-50 mb-0">National Testing Agency (NTA)</p>
-                </div>
-                
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <div class="announcement-bar mb-4">
                         <i class="fas fa-bullhorn me-2"></i>
                         The UGC NET Exam Admit Card contains specific instructions for the computer-based test (CBT).
@@ -63,29 +36,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Higher Education Links</h3>
                 <div class="row">
-                    <?php 
-                    $current_kw = "ugc net exam admit card";
-                    $related_count = 0;
-                    foreach($link_map as $kw => $url) {
-                        if($kw != $current_kw && $related_count < 6) {
-                            echo '<div class="col-md-6 mb-3"><div class="card-mini shadow-sm"><a href="'.$url.'">'.ucwords($kw).'</a>';
-                            $related_count++;
-                        }
-                    }
-                    ?>
-                
-        </div>
-
-        <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
-        
-
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

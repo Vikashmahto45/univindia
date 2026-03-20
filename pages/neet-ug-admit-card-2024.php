@@ -9,33 +9,6 @@ $meta_keywords = "neet ug admit card 2024, neet ug hall ticket download, neet.nt
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET UG Admit Card 2024 Download - NTA Medical Entrance Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>NEET UG Admit Card 2024 Download - NTA Medical Entrance Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NEET UG Admit Card 2024 Download - NTA Medical Entrance Hall Ticket | Univindia.online"; 
-$meta_description = "Download NEET UG Admit Card 2024. Get the direct link for NTA National Eligibility Entrance Test (Undergraduate) examination hall tickets at neet.nta.nic.in."; 
-$meta_keywords = "neet ug admit card 2024, neet ug hall ticket download, neet.nta.nic.in admit card login, neet 2024 exam date download, mbbs entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NEET UG Admit Card 2024 Download - NTA Medical Entrance Hall Ticket | Univindia.online";
-$meta_description = "Download NEET UG Admit Card 2024. Get the direct link for NTA National Eligibility Entrance Test (Undergraduate) examination hall tickets at neet.nta.nic.in.";
-$meta_keywords = "neet ug admit card 2024, neet ug hall ticket download, neet.nta.nic.in admit card login, neet 2024 exam date download, mbbs entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NEET UG Admit Card 2024: Download NTA Medical Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>NEET UG 2024 Official:</strong> The National Testing Agency (NTA) has officially activated the portal for downloading the exam admit cards for the National Eligibility cum Entrance Test (UG) 2024. Candidates can log in with their application number at exams.nta.ac.in/NEET to download their hall tickets.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Medical Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

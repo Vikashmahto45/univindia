@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; search by name result - Official National Name-Wise Hub</div>
     <h2 class='sr-title'>search by name result - Official National Name-Wise Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "search by name result - Official National Name-Wise Hub"; 
-$meta_description = "Check board results by student name on search by name result. Access the official indiaresults Name-Wise Search features for 10th & 12th results nationwide."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all examination results searchable by student
-                name instead of roll number. Access official board name-wise mirrors and direct score links for all
-                participating state boards nationwide.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open Name-Wise Search</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Name-Wise Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Name-Wise Server</h3>
+        <h3>National Name-Wise Server</h3>
                     <p>Primary server mirror for accessing student results by name for various boards including
                         Rajasthan, Punjab, Himachal Pradesh, and Haryana on institutional mirrors.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

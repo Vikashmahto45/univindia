@@ -9,33 +9,6 @@ $meta_keywords = "pet admit card download, cg pet hall ticket download, vyapam p
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; PET Admit Card Download - State Pre Engineering Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>PET Admit Card Download - State Pre Engineering Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "PET Admit Card Download - State Pre Engineering Test Hall Ticket | Univindia.online"; 
-$meta_description = "Download PET Admit Card. Get the direct link for CG PET, MP PET, and other state-level Pre-Engineering Test examination hall tickets at official portals."; 
-$meta_keywords = "pet admit card download, cg pet hall ticket download, vyapam pet login admit card, pet exam date 2024 download, engineering entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "PET Admit Card Download - State Pre Engineering Test Hall Ticket | Univindia.online";
-$meta_description = "Download PET Admit Card. Get the direct link for CG PET, MP PET, and other state-level Pre-Engineering Test examination hall tickets at official portals.";
-$meta_keywords = "pet admit card download, cg pet hall ticket download, vyapam pet login admit card, pet exam date 2024 download, engineering entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">PET Admit Card: Download State Pre-Engineering Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>State PET 2024-25 Update:</strong> Various state boards including CG Vyapam (Chhattisgarh) and MPESB have activated the portal for downloading exam admit cards for the Pre-Engineering Test (PET). Candidates can log in with their application ID at the respective state Vyapam or professional examination websites.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Tech Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

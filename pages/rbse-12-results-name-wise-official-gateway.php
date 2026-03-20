@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 12 results name wise - Official Rajasthan Board Hub</div>
     <h2 class='sr-title'>rbse 12 results name wise - Official Rajasthan Board Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rbse 12 results name wise - Official Rajasthan Board Hub"; 
-$meta_description = "Check Rajasthan Board 12th result by name on rbse 12 results name wise. Access official BSER Ajmer 2023 & 2022 archival name-wise scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 12th (Senior Secondary) examination results via name-wise search for all streams. Access official Rajasthan board mirrors and archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open RBSE Name Search Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Rajasthan (BSER) 12th Name-Wise Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Name Server</h3>
+        <h3>RBSE Name Server</h3>
                     <p>Primary server for accessing Rajasthan Board Class 12th (Senior Secondary) examination result data by student name search for current and historical sessions.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

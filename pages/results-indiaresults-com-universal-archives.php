@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; results indiaresults com - Official National Academic Archive Gateway</div>
     <h2 class='sr-title'>results indiaresults com - Official National Academic Archive Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "results indiaresults com - Official National Academic Archive Gateway"; 
-$meta_description = "Check results indiaresults com for university and board exams. Access the official academic result portal and archives across all Indian states on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized national gateway for all academic results across boards
-                and universities in India. Official mirrors and archival links updated for all years and sessions.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open National Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Results Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Exam Directory</h3>
+        <h3>Board Exam Directory</h3>
                     <p>Primary server for all state and national board result data (Secondary and Higher Secondary)
                         archives.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -124,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

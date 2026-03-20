@@ -9,33 +9,6 @@ $meta_keywords = "peb.mp.gov.in admit card 2023, mp esb hall ticket download, mp
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; peb.mp.gov.in Admit Card 2023 Download - MP ESB Professional Exam Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>peb.mp.gov.in Admit Card 2023 Download - MP ESB Professional Exam Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "peb.mp.gov.in Admit Card 2023 Download - MP ESB Professional Exam Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download peb.mp.gov.in Admit Card 2023. Get the direct link for MP Professional Examination Board (now MPESB) various recruitment hall tickets at esb.mp.gov.in (peb.mp.gov.in)."; 
-$meta_keywords = "peb.mp.gov.in admit card 2023, mp esb hall ticket download, mp board recruitment admit card link, esb.mp.gov.in hall ticket 2023, mp peb exam 2023 admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "peb.mp.gov.in Admit Card 2023 Download - MP ESB Professional Exam Hall Ticket Link | Univindia.online";
-$meta_description = "Download peb.mp.gov.in Admit Card 2023. Get the direct link for MP Professional Examination Board (now MPESB) various recruitment hall tickets at esb.mp.gov.in (peb.mp.gov.in).";
-$meta_keywords = "peb.mp.gov.in admit card 2023, mp esb hall ticket download, mp board recruitment admit card link, esb.mp.gov.in hall ticket 2023, mp peb exam 2023 admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">peb.mp.gov.in Admit Card 2023: Download MP Professional Exam Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MPESB 2023 Notification:</strong> The Madhya Pradesh Professional Examination Board (MPPEB), now known as MP Employees Selection Board (MPESB), conducted several major recruitments in 2023 including Patwari, Forest Guard, and Jail Prahari. Candidates can access their 2023 hall tickets and records at the updated portal esb.mp.gov.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check MPESB Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisharesult.nic.in 2022 - Official Odisha 2022 Result Hub</div>
     <h2 class='sr-title'>odisharesult.nic.in 2022 - Official Odisha 2022 Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "odisharesult.nic.in 2022 - Official Odisha 2022 Result Hub"; 
-$meta_description = "Check Odisha Board result 2022 on odisharesult.nic.in 2022. Access official Odisha 10th & 12th scorecards and 2022 archival links on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Odisha examination results of the 2022
-                academic session. Access official Odisha board mirrors and 2022 archival links updated for batch
-                verification (BSE & CHSE).</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Odisha Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Odisha Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Odisha Main Server 2022</h3>
+        <h3>Odisha Main Server 2022</h3>
                     <p>Primary server for Odisha Board 10th (Secondary) and 12th (+2) examination result data for the
                         2022 session archive across all districts in Odisha.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

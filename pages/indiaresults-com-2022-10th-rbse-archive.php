@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresults.com 2022 10th rbse - Official Rajasthan Result Archive</div>
     <h2 class='sr-title'>indiaresults.com 2022 10th rbse - Official Rajasthan Result Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "indiaresults.com 2022 10th rbse - Official Rajasthan Result Archive"; 
-$meta_description = "Check indiaresults.com 2022 10th rbse for Class 10th Secondary examinations. Access the official 2022 Rajasthan (BSER) result archive on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 Secondary (Class 10th) results for Rajasthan. Official
-                RBSE mirrors and archival links updated for the 2022 board session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan 10th 2022 Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>RBSE Main Server 2022</h3>
+        <h3>RBSE Main Server 2022</h3>
                     <p>Primary server for Rajasthan 10th board result 2022 archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -116,10 +87,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

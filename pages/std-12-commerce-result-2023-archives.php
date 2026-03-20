@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; std 12 commerce result 2023 - Official National 12th Commerce Hub</div>
     <h2 class='sr-title'>std 12 commerce result 2023 - Official National 12th Commerce Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "std 12 commerce result 2023 - Official National 12th Commerce Hub"; 
-$meta_description = "Check Class 12 Commerce result 2023 for all state boards on std 12 commerce result 2023. Access the official 12th archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary) Commerce
-                stream examination results for the 2023 academic session. Official board mirrors and 2023 archival links
-                updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Commerce Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 12th (Commerce 2023) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Commerce Board Server 2023</h3>
+        <h3>Commerce Board Server 2023</h3>
                     <p>Primary server mirror for accessing 12th Commerce results for participating state boards (like
                         RBSE, PSEB, BSEH) for the 2023 session archive nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -129,10 +99,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

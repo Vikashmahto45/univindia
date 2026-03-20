@@ -9,33 +9,6 @@ $meta_keywords = "mht cet admit card 2022 download, download mht cet hall ticket
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online</div>
     <h2 class='sr-title'>MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online"; 
-$meta_description = "Download MHT CET Admit Card 2022. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) hall tickets at cetcell.mahacet.org."; 
-$meta_keywords = "mht cet admit card 2022 download, download mht cet hall ticket 2022, cetcell.mahacet.org login 2022, mht cet exam date 2022 download, maharashtra entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "MHT CET Admit Card 2022 Download - CET Cell Maharashtra Archive | Univindia.online";
-$meta_description = "Download MHT CET Admit Card 2022. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) hall tickets at cetcell.mahacet.org.";
-$meta_keywords = "mht cet admit card 2022 download, download mht cet hall ticket 2022, cetcell.mahacet.org login 2022, mht cet exam date 2022 download, maharashtra entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">MHT CET Admit Card 2022: Download CET Cell Maharashtra Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MHT CET 2022 Archive:</strong> The State Common Entrance Test Cell, Maharashtra, conducted the MHT CET 2022 in August for PCM and PCB groups. Candidates looking for old hall tickets or scorecard records for the 2022 session can access the official portal archive at cetcell.mahacet.org.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Engineering Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12 class result 2022 rbse - Official BSER Rajasthan Senior Secondary Archive</div>
     <h2 class='sr-title'>12 class result 2022 rbse - Official BSER Rajasthan Senior Secondary Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12 class result 2022 rbse - Official BSER Rajasthan Senior Secondary Archive"; 
-$meta_description = "Check 12 class result 2022 rbse for Science, Commerce, and Arts. Access the official 2022 BSER Rajasthan (12th) archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 academic session results for Class 12th (Senior
-                Secondary) for Rajasthan. Official BSER Ajmer mirrors and archival links updated for the 2022 batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Rajasthan 12th Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSER Main Server 2022</h3>
+        <h3>BSER Main Server 2022</h3>
                     <p>Primary server for Rajasthan 12th result data for the 2022 session archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -121,10 +92,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

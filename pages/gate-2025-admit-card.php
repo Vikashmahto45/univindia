@@ -9,38 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in</div>
     <h2 class='sr-title'>GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "GATE 2025 Admit Card: Download Hall Ticket @gate2025.iit@.ac.in"; 
-$meta_description = "Download GATE 2025 Admit Card. Get direct link for Graduate Aptitude Test in Engineering Hall Ticket. Check exam dates, paper schedules, and reporting instructions."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">GATE 2025 Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4">
-                <div class="card-body p-4">
-                    
-                    <p class="lead">The Graduate Aptitude Test in Engineering (GATE) 2025 admit cards are expected to be released by the conducting Indian Institute of Technology (IIT) in January 2025. Candidates who have successfully registered for the exam can download their hall tickets from the official GATE Online Application Processing System (GOAPS).</p>
-                    
-                    <div class="alert alert-success border-0 shadow-sm mt-4">
-                        <h4 class="alert-heading fw-bold"><i class="bi bi-megaphone-fill me-2"></i>Official Announcement!</h4>
-                        <p class="mb-0">GATE 2025 examinations are scheduled to be held in February 2025. The admit cards will be available for download only through the electronic mode at the official portal. No hard copies will be sent by post.</p>
-                    </div>
-
-                    <h2 class="mt-5 fw-bold text-dark">Why is the GATE Admit Card Essential?</h2>
+        <h2 class="mt-5 fw-bold text-dark">Why is the GATE Admit Card Essential?</h2>
                     <p>The GATE 2025 Admit Card is the most critical document for candidates appearing for this national-level entrance examination. It serves not only as your entry ticket to the exam hall but also as a proof of identity and registration. The GATE score is used for admissions to M.Tech/Ph.D. programs in IITs, NITs, and other top institutions, as well as for recruitment in various Public Sector Undertakings (PSUs).</p>
                     
                     <p>The hall ticket contains specific details regarding the candidate's designated exam center, session timing (Forenoon or Afternoon), and the specific paper they are appearing for. IITs maintain strict security protocols, and candidates must present a clear, printed copy of the admit card along with a valid original photo ID to gain entry.</p>
@@ -121,10 +90,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

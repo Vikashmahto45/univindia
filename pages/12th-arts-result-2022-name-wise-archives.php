@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th arts result 2022 name wise - Official National 2022 Archive</div>
     <h2 class='sr-title'>12th arts result 2022 name wise - Official National 2022 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th arts result 2022 name wise - Official National 2022 Archive"; 
-$meta_description = "Check 12th arts result 2022 by name for all state boards. Access the official national Class 12 Arts archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary) Arts stream
-                examination results across India with name-wise search for the 2022 academic session. Official board
-                mirrors and 2022 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Name Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 12th Arts 2022 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Arts Board Server 2022</h3>
+        <h3>National Arts Board Server 2022</h3>
                     <p>Primary server mirror for accessing 12th Arts stream results for all participating state boards
                         and educational councils nationwide for the 2022 session.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

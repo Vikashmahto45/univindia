@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th ka result 2024 - Official Secondary Hub</div>
     <h2 class='sr-title'>10th ka result 2024 - Official Secondary Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "10th ka result 2024 - Official Secondary Hub"; 
-$meta_description = "Check Class 10th result 2024 on 10th ka result 2024. Access official Board 10th (Matric) scorecards and results links on indiaresults updated for 2024."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Board Class 10th (Secondary/Matric) examination results for the 2024 academic session across India. Access official board mirrors and 2024 result links updated for session verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 10th Result Hub 2024</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2024 Board 10th Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Server 10th (2024)</h3>
+        <h3>Board Server 10th (2024)</h3>
                     <p>Primary server for accessing Class 10th examination result data for all major boards including CBSE, ICSE, and State Boards for the 2024 session.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

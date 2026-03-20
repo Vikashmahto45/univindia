@@ -9,33 +9,6 @@ $meta_keywords = "jeevika admit card download, bihar srlps hall ticket download,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Jeevika Admit Card Download - Bihar SRLPS Recruitment Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Jeevika Admit Card Download - Bihar SRLPS Recruitment Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Jeevika Admit Card Download - Bihar SRLPS Recruitment Hall Ticket | Univindia.online"; 
-$meta_description = "Download Jeevika Admit Card. Get the direct link for Bihar State Rural Livelihoods Promotion Society (SRLPS) JEEVIKA examination hall tickets at brlps.in."; 
-$meta_keywords = "jeevika admit card download, bihar srlps hall ticket download, brlps.in jeevika login admit card, jeevika exam date 2024 download, rural livelihoods recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Jeevika Admit Card Download - Bihar SRLPS Recruitment Hall Ticket | Univindia.online";
-$meta_description = "Download Jeevika Admit Card. Get the direct link for Bihar State Rural Livelihoods Promotion Society (SRLPS) JEEVIKA examination hall tickets at brlps.in.";
-$meta_keywords = "jeevika admit card download, bihar srlps hall ticket download, brlps.in jeevika login admit card, jeevika exam date 2024 download, rural livelihoods recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Jeevika Admit Card: Download Bihar SRLPS Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Bihar Jeevika Recruitment:</strong> The Bihar State Rural Livelihoods Promotion Society (SRLPS), popularly known as JEEVIKA, has activated the portal for downloading exam admit cards for various recruitments including CC (Community Coordinator), Area Coordinator, and Office Assistant. Candidates can log in with their application number at brlps.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Rural Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

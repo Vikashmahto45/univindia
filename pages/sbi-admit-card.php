@@ -9,33 +9,6 @@ $meta_keywords = "sbi admit card, state bank of india hall ticket download, sbi 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online"; 
-$meta_description = "Download SBI Admit Card. Get the direct link for SBI Junior Associate (Clerk) and Probationary Officer (PO) recruitment hall tickets at sbi.co.in/careers."; 
-$meta_keywords = "sbi admit card, state bank of india hall ticket download, sbi ja prelims admit card 2024, sbi po main admit card login, sbi.co.in careers call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SBI Admit Card Download - State Bank of India Recruitment Hall Ticket | Univindia.online";
-$meta_description = "Download SBI Admit Card. Get the direct link for SBI Junior Associate (Clerk) and Probationary Officer (PO) recruitment hall tickets at sbi.co.in/careers.";
-$meta_keywords = "sbi admit card, state bank of india hall ticket download, sbi ja prelims admit card 2024, sbi po main admit card login, sbi.co.in careers call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SBI Admit Card: Download State Bank of India Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SBI Career Update:</strong> The State Bank of India (SBI) has activated the portal for downloading exam admit cards for various recruitment cycles including Junior Associates (Customer Support & Sales) and Probationary Officers (PO). Candidates can log in with their Registration Number and Password at sbi.co.in/careers.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Bank Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "nta neet admit card 2024 download, nta neet hall ticket 2024 d
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NTA NEET Admit Card 2024 Download - National Testing Agency Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>NTA NEET Admit Card 2024 Download - National Testing Agency Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NTA NEET Admit Card 2024 Download - National Testing Agency Hall Ticket | Univindia.online"; 
-$meta_description = "Download NTA NEET Admit Card 2024. Get the direct link for National Testing Agency NEET (UG) 2024 examination hall tickets at exams.nta.ac.in/NEET."; 
-$meta_keywords = "nta neet admit card 2024 download, nta neet hall ticket 2024 download, neet.nta.nic.in login 2024, nta neet exam date 2024 download, medical entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NTA NEET Admit Card 2024 Download - National Testing Agency Hall Ticket | Univindia.online";
-$meta_description = "Download NTA NEET Admit Card 2024. Get the direct link for National Testing Agency NEET (UG) 2024 examination hall tickets at exams.nta.ac.in/NEET.";
-$meta_keywords = "nta neet admit card 2024 download, nta neet hall ticket 2024 download, neet.nta.nic.in login 2024, nta neet exam date 2024 download, medical entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NTA NEET Admit Card 2024: Download National Testing Agency Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>NTA NEET Official:</strong> The National Testing Agency (NTA) conducted the National Eligibility cum Entrance Test (NEET UG) 2024 for undergraduate medical courses. Candidates can access their archived hall tickets, final answer keys, and results at the official NTA portal: exams.nta.ac.in/NEET.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Medical Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

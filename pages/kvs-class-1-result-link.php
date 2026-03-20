@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Kvs Class 1 Result Link</div>
     <h2 class='sr-title'>Kvs Class 1 Result Link</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Kvs Class 1 Result Link"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div id="content-container">
-    <div class="main-content">
-        <section class="result-section">
-            
-            <p>The **Kendriya Vidyalaya Sangathan (KVS)** releases the selection list for Class 1 admissions every year. Parents across India eagerly wait for the **KVS Class 1 result link** to see if their child's name is in the lottery list. KVS admissions are highly competitive and are conducted through an online lottery system to ensure transparency.</p>
-            
-            <div class="flash-news">
-                <span class="pulse"></span>
-                <strong>Admission Update:</strong> The KVS Online Admission Portal has activated the links for Check Application Status. The 1st, 2nd, and 3rd admission lists for Class 1 are being released as per the official schedule.
-            </div>
-
-            <h2>How to Access KVS Class 1 Selection List?</h2>
+        <h2>How to Access KVS Class 1 Selection List?</h2>
             <p>To check the **KVS Class 1 admission result**, you can use the centralized portal or the website of the specific KV school:</p>
             <ol>
                 <li>Visit the official KVS Online Admission Portal: <code>kvsonlineadmission.kvs.gov.in</code>.</li>
@@ -115,14 +93,6 @@ $meta_keywords = "";
                     A: No, the KVS admission process and online application are free of cost for all candidates.</p>
                 
         </section>
-    </div>
-    
-    <?php include 'sidebar.php'; ?>
-
-</div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

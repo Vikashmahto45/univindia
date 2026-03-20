@@ -9,33 +9,6 @@ $meta_keywords = "army admit card download, join indian army hall ticket downloa
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Army Admit Card Download - Join Indian Army Agnipath Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Army Admit Card Download - Join Indian Army Agnipath Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Army Admit Card Download - Join Indian Army Agnipath Hall Ticket | Univindia.online"; 
-$meta_description = "Download Army Admit Card. Get the direct link for Join Indian Army (JIA) Agnipath, Agniveer, and Soldier recruitment examination hall tickets at joinindianarmy.nic.in."; 
-$meta_keywords = "army admit card download, join indian army hall ticket download, joinindianarmy.nic.in login admit card, agniveer exam date 2024 download, soldier recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Army Admit Card Download - Join Indian Army Agnipath Hall Ticket | Univindia.online";
-$meta_description = "Download Army Admit Card. Get the direct link for Join Indian Army (JIA) Agnipath, Agniveer, and Soldier recruitment examination hall tickets at joinindianarmy.nic.in.";
-$meta_keywords = "army admit card download, join indian army hall ticket download, joinindianarmy.nic.in login admit card, agniveer exam date 2024 download, soldier recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Army Admit Card: Download Join Indian Army Agnipath Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Join Indian Army (JIA) Update:</strong> The Indian Army has activated the gateway for downloading e-Admit Cards for the Common Entrance Examination (CEE) for Agniveer (General Duty, Technical, Clerk, Tradesman) recruitment. Candidates can log in at joinindianarmy.nic.in.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Defense Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

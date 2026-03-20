@@ -9,33 +9,6 @@ $meta_keywords = "hssc group d admit card 2024, haryana group d hall ticket down
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSSC Group D Admit Card 2024 Download - Common Entrance Test (CET) Link | Univindia.online</div>
     <h2 class='sr-title'>HSSC Group D Admit Card 2024 Download - Common Entrance Test (CET) Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "HSSC Group D Admit Card 2024 Download - Common Entrance Test (CET) Link | Univindia.online"; 
-$meta_description = "Download HSSC Group D Admit Card 2024. Get the direct link for Haryana SSC CET Group D recruitment exam hall tickets, reporting time, and city list at hssc.gov.in."; 
-$meta_keywords = "hssc group d admit card 2024, haryana group d hall ticket download, hssc cet group d admit card link, hssc.gov.in group d login, haryana group d exam date"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "HSSC Group D Admit Card 2024 Download - Common Entrance Test (CET) Link | Univindia.online";
-$meta_description = "Download HSSC Group D Admit Card 2024. Get the direct link for Haryana SSC CET Group D recruitment exam hall tickets, reporting time, and city list at hssc.gov.in.";
-$meta_keywords = "hssc group d admit card 2024, haryana group d hall ticket download, hssc cet group d admit card link, hssc.gov.in group d login, haryana group d exam date";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">HSSC Group D Admit Card 2024: Download Haryana CET Group D Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Group D Update:</strong> The Haryana Staff Selection Commission (HSSC) has officially released the Admit Card for the CET Group D (Various Departments) Recruitment 2024. Candidates can log in using their OTR/CET Registration Number to download the E-Admit Card.
         </div>
@@ -108,13 +81,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

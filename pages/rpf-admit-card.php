@@ -9,33 +9,6 @@ $meta_keywords = "rpf admit card, railway protection force hall ticket download,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF Admit Card Download - Download Railway Protection Force Call Letter | Univindia.online</div>
     <h2 class='sr-title'>RPF Admit Card Download - Download Railway Protection Force Call Letter | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RPF Admit Card Download - Download Railway Protection Force Call Letter | Univindia.online"; 
-$meta_description = "Download RPF Admit Card. Get the direct link for Railway Protection Force (RPF) Constable and Sub-Inspector recruitment examination hall tickets at indianrailways.gov.in."; 
-$meta_keywords = "rpf admit card, railway protection force hall ticket download, rpf constable admit card link, rpf si hall ticket login, railway recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RPF Admit Card Download - Download Railway Protection Force Call Letter | Univindia.online";
-$meta_description = "Download RPF Admit Card. Get the direct link for Railway Protection Force (RPF) Constable and Sub-Inspector recruitment examination hall tickets at indianrailways.gov.in.";
-$meta_keywords = "rpf admit card, railway protection force hall ticket download, rpf constable admit card link, rpf si hall ticket login, railway recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RPF Admit Card: Download Railway Protection Force Hall Ticket (Constable & SI)</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway Update:</strong> The Railway Recruitment Boards (RRBs) have activated the login portal for RPF Constable and SI (CEN 01/2024 & 02/2024). Candidates who applied for the Railway Protection Force vacancies can now download their e-Call letters 4 days before their Computer Based Test (CBT) date.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

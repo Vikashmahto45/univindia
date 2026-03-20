@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Www Karresults Nic In 2024 Link</div>
     <h2 class='sr-title'>Www Karresults Nic In 2024 Link</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Www Karresults Nic In 2024 Link"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include('top.php');
-?>
-<title>www karresults nic in 2024 - University Results 2024</title>
-
-<div class="container mt-4">
-    <div class="row">
-        <div class="col-md-8">
-            
-            
-            <div class="alert alert-info">
-                <strong>Latest Update:</strong> The results for www karresults nic in 2024 have been announced. Check the direct link below.
-            </div>
-
-            <p>University Results portal provides the latest information about www karresults nic in 2024. Students who appeared for the examinations can now access their scores through the official links provided on this page.</p>
+        <p>University Results portal provides the latest information about www karresults nic in 2024. Students who appeared for the examinations can now access their scores through the official links provided on this page.</p>
 
             <div class="card mb-4">
                 <div class="card-header bg-primary text-white">
@@ -75,17 +50,10 @@ include('top.php');
         </div>
         
         <div class="col-md-4">
-            <?php include('sidebar.php'); ?>
+            
         
+
 </div>
-
-<?php
-include('footer.php');
-?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

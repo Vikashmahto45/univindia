@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC MTS Admit Card 2024-25: Multi Tasking Staff Exam 2024 Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC MTS Admit Card 2024-25 for Multi Tasking Staff and Havaldar vacancies. Get direct link for SSC MTS 2024 Hall Ticket, Phase 1 Exam Date, and Region Status. 800+ words guide.";
-$page_keywords = "SSC MTS Admit Card 2024, SSC MTS 2024 Hall Ticket Download, ssc.gov.in mts 2024 admit card, SSC MTS Exam Date 2024, SSC MTS Result Status";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">SSC MTS Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-id-badge me-2"></i> <strong>CBT Update:</strong> The Staff Selection Commission (SSC) has begun the Computer Based Examination (CBE) for the <strong>SSC MTS 2024</strong> recruitment. Candidates can download their regional <strong>MTS Admit Card 2024</strong> 4 days before their respective exam dates.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>SSC MTS Admit Card 2024</strong> is the primary document for thousands of aspirants seeking career stability through the Multi Tasking Staff (MTS) and Havaldar (CBIC & CBN) recruitment process. Conducted at an All-India level for Matriculation-pass candidates, the <strong>SSC MTS Hall Ticket 2024</strong> is the only valid permit for entry into the high-security computer labs managed by TCS iON.
                 </p>
@@ -153,57 +118,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Post-Specific Selection Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $mts_posts = [
-                        'havaldar-physical-admit-card.php' => 'Havaldar PET Hall Ticket',
-                        'ssc-mts-department-allocation.php' => 'MTS Dept Allocation List',
-                        'ssc-mts-salary-structure.php' => 'MTS Pay Scale Details',
-                        'ssc-mts-previous-year-cutoff.php' => 'MTS Cutoff Analysis'
-                    ];
-                    foreach ($mts_posts as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="mts24-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.mts24-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.mts24-link-card:hover {
-    background: rgba(40, 167, 69, 0.12);
-    border-color: #28a745 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

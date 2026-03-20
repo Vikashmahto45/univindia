@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th arts result 2023 date - Official Arts Stream Result Schedule Hub</div>
     <h2 class='sr-title'>12th arts result 2023 date - Official Arts Stream Result Schedule Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th arts result 2023 date - Official Arts Stream Result Schedule Hub"; 
-$meta_description = "Check 12th arts result 2023 date for Class 12 exams. Access the official 2023 Higher Secondary Arts result declaration schedule and portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Stay updated with the official declaration schedule for Class 12th
-                (Higher Secondary) Arts results for the 2023 academic session. Official state board mirrors and date
-                announcements updated for the 2023 batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Result Date</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Arts Stream Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">📅</div>
-                    <h3>Board Schedule Archive 2023</h3>
+        <h3>Board Schedule Archive 2023</h3>
                     <p>Primary server for Class 12th Arts result date announcements and official press release archives
                         for 2023.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -123,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

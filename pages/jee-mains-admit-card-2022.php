@@ -9,33 +9,6 @@ $meta_keywords = "jee mains admit card 2022 download, nta jee main hall ticket 2
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Mains Admit Card 2022 Download - NTA Engineering Entrance | Univindia.online</div>
     <h2 class='sr-title'>JEE Mains Admit Card 2022 Download - NTA Engineering Entrance | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JEE Mains Admit Card 2022 Download - NTA Engineering Entrance | Univindia.online"; 
-$meta_description = "Download JEE Mains Admit Card 2022. Get the direct link for National Testing Agency (NTA) JEE Main Session 1 and 2 examination hall tickets at jeemain.nta.nic.in."; 
-$meta_keywords = "jee mains admit card 2022 download, nta jee main hall ticket 2022 download, jeemain.nta.nic.in login 2022, jee exam date 2022 download, engineering entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "JEE Mains Admit Card 2022 Download - NTA Engineering Entrance | Univindia.online";
-$meta_description = "Download JEE Mains Admit Card 2022. Get the direct link for National Testing Agency (NTA) JEE Main Session 1 and 2 examination hall tickets at jeemain.nta.nic.in.";
-$meta_keywords = "jee mains admit card 2022 download, nta jee main hall ticket 2022 download, jeemain.nta.nic.in login 2022, jee exam date 2022 download, engineering entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">JEE Mains Admit Card 2022: Download NTA Engineering Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>JEE Main 2022 Archive:</strong> The National Testing Agency (NTA) conducted the JEE (Main) 2022 in two sessions (June and July 2022). Candidates looking for old hall tickets, final scorecards, or rank lists for the 2022 engineering admission session can access the official NTA portal: jeemain.nta.nic.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Tech Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

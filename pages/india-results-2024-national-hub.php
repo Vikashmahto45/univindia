@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india results 2024 - Official National Academic Hub Portal</div>
     <h2 class='sr-title'>india results 2024 - Official National Academic Hub Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india results 2024 - Official National Academic Hub Portal"; 
-$meta_description = "Check india results 2024 for all state and central boards. Access the official 2024 results gateway on indiaresults for high-speed checking across India."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized hub for every academic result in India for the 2024
-                session. Official state board and central mirrors updated in real-time.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Browse 2024 Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2024 National Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Result Hub</h3>
+        <h3>National Result Hub</h3>
                     <p>Primary server for all 2024 academic result data aggregate.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

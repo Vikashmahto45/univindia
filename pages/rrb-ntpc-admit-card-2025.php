@@ -9,33 +9,6 @@ $meta_keywords = "rrb ntpc admit card 2025, railway ntpc hall ticket download, r
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Admit Card 2025 Download - Railway Non-Technical Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>RRB NTPC Admit Card 2025 Download - Railway Non-Technical Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB NTPC Admit Card 2025 Download - Railway Non-Technical Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download RRB NTPC Admit Card 2025. Get the direct link for Railway Recruitment Board (RRB) NTPC Graduate and Undergraduate level examination hall tickets at indianrailways.gov.in."; 
-$meta_keywords = "rrb ntpc admit card 2025, railway ntpc hall ticket download, rrb ntpc 2025 admit card link, rrbntpc.gov.in admit card login, railway recruitment hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RRB NTPC Admit Card 2025 Download - Railway Non-Technical Hall Ticket Link | Univindia.online";
-$meta_description = "Download RRB NTPC Admit Card 2025. Get the direct link for Railway Recruitment Board (RRB) NTPC Graduate and Undergraduate level examination hall tickets at indianrailways.gov.in.";
-$meta_keywords = "rrb ntpc admit card 2025, railway ntpc hall ticket download, rrb ntpc 2025 admit card link, rrbntpc.gov.in admit card login, railway recruitment hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RRB NTPC Admit Card 2025: Download Railway Graduate & Undergraduate Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway Recruitment News:</strong> The Railway Recruitment Board (RRB) has activated the status check window for the NTPC Graduate and Undergraduate (CEN 03/2024) 2025 cycle exam. Candidates can download their e-Call letters 4 days prior to their scheduled Computer Based Test (CBT) date.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest RRB Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

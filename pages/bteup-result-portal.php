@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bteup Result Portal</div>
     <h2 class='sr-title'>Bteup Result Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Bteup Result Portal"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div id="content-container">
-    <div class="main-content">
-        <section class="result-section">
-            
-            <p>The <strong>BTEUP result</strong> is the crucial announcement for thousands of students enrolled in various polytechnic diploma courses across Uttar Pradesh. The Board of Technical Education, Uttar Pradesh (BTEUP), Lucknow, conducts semester examinations (Even/Odd) for Pharmacy, Engineering, and other diploma programs. This page provides a comprehensive guide on how to access your results, marksheets, and latest updates from BTE Lucknow.</p>
-            
-            <div class="flash-news">
-                <span class="pulse"></span>
-                <strong>Result Update:</strong> BTEUP has released the Results for Annual Exam and Even Semester Examinations. Students can check their Marksheets on the official result portal using their Enrollment Number.
-            </div>
-
-            <h2>How to Check BTEUP Result 2024 Online?</h2>
+        <h2>How to Check BTEUP Result 2024 Online?</h2>
             <p>To check your <strong>BTEUP odd/even semester result</strong>, follow these clear instructions:</p>
             <ol>
                 <li>Visit the official portal of BTEUP: <code>bteup.ac.in</code>.</li>
@@ -112,14 +90,6 @@ $meta_keywords = "";
                     A: Scrutiny involves re-counting the marks already awarded, while Revaluation (Re-checking) is a thorough review of the entire answer script by a different examiner.</p>
                 
         </section>
-    </div>
-    
-    <?php include 'sidebar.php'; ?>
-
-</div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

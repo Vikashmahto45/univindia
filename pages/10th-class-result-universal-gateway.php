@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class ka result - Official Class 10th Result Universal Hub</div>
     <h2 class='sr-title'>10th class ka result - Official Class 10th Result Universal Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "10th class ka result - Official Class 10th Result Universal Hub"; 
-$meta_description = "Check 10th class ka result for all Indian boards. Access the official 10th result universal gateway on indiaresults for high-speed score checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized hub for every Class 10th result in India. Official
-                state board and central mirrors updated for the current academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 10th Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Result Hub</h3>
+        <h3>National Result Hub</h3>
                     <p>Primary server for all 10th class result data across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -115,10 +86,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

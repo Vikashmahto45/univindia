@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse 10th result 2021 - Official Board 10th 2021 Archive</div>
     <h2 class='sr-title'>bse 10th result 2021 - Official Board 10th 2021 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bse 10th result 2021 - Official Board 10th 2021 Archive"; 
-$meta_description = "Check Board of Secondary Education (BSE) 10th result 2021 on bse 10th result 2021. Access official Class 10 archival results and scorecard links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Board of
-                Secondary Education (BSE) Class 10th (Secondary/SSC). Official board mirrors and 2021 archival links
-                updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 10th Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 Board (BSE 10th) Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Board Server 2021</h3>
+        <h3>BSE Board Server 2021</h3>
                     <p>Primary server mirror for accessing 10th class results for participating boards like BSE Odisha
                         or BSE Haryana for the 2021 session archive on institutional mirrors.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

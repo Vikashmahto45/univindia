@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter 2 year results - Official 2nd Year Intermediate Hub</div>
     <h2 class='sr-title'>inter 2 year results - Official 2nd Year Intermediate Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "inter 2 year results - Official 2nd Year Intermediate Hub"; 
-$meta_description = "Check inter 2 year results for all state board exams. Access the official 2nd year (Class 12) intermediate result portal and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest and archival examination results for Class 12th
-                (Intermediate 2nd Year) across all Indian state boards. Official board mirrors and direct result links
-                updated for the current academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2nd Year Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 2nd Year (Inter) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Result Server</h3>
+        <h3>Board Result Server</h3>
                     <p>Primary server for Class 12th (Inter 2nd Year) result data across all state boards and
                         intermediate councils nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

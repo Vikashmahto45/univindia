@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha result com - Official BSE and CHSE Result Hub</div>
     <h2 class='sr-title'>odisha result com - Official BSE and CHSE Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "odisha result com - Official BSE and CHSE Result Hub"; 
-$meta_description = "Check odisha result com for BSE Odisha 10th and CHSE Odisha 12th results. Access the official Odisha result portal on indiaresults for fast checking by name and roll number."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the official Odisha Board results for Matric and Higher Secondary
-                examinations. High-speed mirrors updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Odisha Result</a>
-                <a href="#faq" class="btn btn-secondary">System Help</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Official Odisha Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE/CHSE Main Hub</h3>
+        <h3>BSE/CHSE Main Hub</h3>
                     <p>Primary server for Odisha 10th and 12th results.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -115,10 +86,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

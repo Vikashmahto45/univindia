@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jharkhand board 10th result 2021 - Official JAC Matric Hub</div>
     <h2 class='sr-title'>jharkhand board 10th result 2021 - Official JAC Matric Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jharkhand board 10th result 2021 - Official JAC Matric Hub"; 
-$meta_description = "Check Jharkhand Board 10th result 2021 on jharkhand board 10th result 2021. Access official JAC Matric 2021 archival scorecards on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Jharkhand
-                Academic Council (JAC) Class 10th (Secondary/Matric) examination. Official Jharkhand board mirrors and
-                2021 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Matric Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 Jharkhand (JAC 10th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JAC Matric Server 2021</h3>
+        <h3>JAC Matric Server 2021</h3>
                     <p>Primary server for Jharkhand Board Secondary (10th) examination result data for the 2021 session
                         archive across all districts in Jharkhand.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -131,10 +101,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

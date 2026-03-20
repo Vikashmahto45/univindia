@@ -9,33 +9,6 @@ $meta_keywords = "jee admit card 2022, jee main hall ticket 2022, nta jee admit 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Admit Card 2022 Download - Link, Dates & Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>JEE Admit Card 2022 Download - Link, Dates & Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JEE Admit Card 2022 Download - Link, Dates & Hall Ticket | Univindia.online"; 
-$meta_description = "Download JEE Admit Card 2022 for Main & Advanced. Get direct links for NTA JEE Hall Ticket, exam dates, shift timings, and instruction for April/May sessions."; 
-$meta_keywords = "jee admit card 2022, jee main hall ticket 2022, nta jee admit card, jee main 2022 call letter, jee admit card download link"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "JEE Admit Card 2022 Download - Link, Dates & Hall Ticket | Univindia.online";
-$meta_description = "Download JEE Admit Card 2022 for Main & Advanced. Get direct links for NTA JEE Hall Ticket, exam dates, shift timings, and instruction for April/May sessions.";
-$meta_keywords = "jee admit card 2022, jee main hall ticket 2022, nta jee admit card, jee main 2022 call letter, jee admit card download link";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">JEE Admit Card 2022: Direct Download Link & Exam Instructions</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Important Update:</strong> The JEE Main 2022 Admit Cards for both June and July sessions were released by NTA on the official portal jeemain.nta.nic.in. Students should keep their application number and date of birth ready for downloading.
         </div>
@@ -127,13 +100,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Browse More Admit Cards</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

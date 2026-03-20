@@ -9,33 +9,6 @@ $meta_keywords = "cet admit card, common entrance test hall ticket download, raj
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CET Admit Card Download - Common Entrance Test Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>CET Admit Card Download - Common Entrance Test Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CET Admit Card Download - Common Entrance Test Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download CET Admit Card. Get the direct link for Rajasthan CET, Maharashtra CET, and Haryana CET examination hall tickets at the respective official portals."; 
-$meta_keywords = "cet admit card, common entrance test hall ticket download, rajasthan cet admit card login, haryana cet hall ticket link, cet exam date 2024 download"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CET Admit Card Download - Common Entrance Test Hall Ticket Link | Univindia.online";
-$meta_description = "Download CET Admit Card. Get the direct link for Rajasthan CET, Maharashtra CET, and Haryana CET examination hall tickets at the respective official portals.";
-$meta_keywords = "cet admit card, common entrance test hall ticket download, rajasthan cet admit card login, haryana cet hall ticket link, cet exam date 2024 download";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CET Admit Card: Download Common Entrance Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>CET Recruitment Update:</strong> Multiple state governments including Rajasthan (RSMSSB), Haryana (HSSC), and Maharashtra have activated the portals for downloading the exam admit cards for their respective Common Entrance Tests (CET) 2024-25. Candidates can log in with their application number to download university or recruitment-specific hall tickets.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

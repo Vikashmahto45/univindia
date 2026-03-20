@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; kar results nic in - Official Karnataka Board Result Hub</div>
     <h2 class='sr-title'>kar results nic in - Official Karnataka Board Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "kar results nic in - Official Karnataka Board Result Hub"; 
-$meta_description = "Check kar results nic in for SSLC and PUC exams. Access the official Karnataka (KSEEB/PUE) result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest educational results for Karnataka. Official KSEEB and
-                PUE mirrors updated for SSLC and PUC examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Kar Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Karnataka Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Karnataka Main Server</h3>
+        <h3>Karnataka Main Server</h3>
                     <p>Primary server for Karnataka board results latest session.</p>
                     <a href="https://karnataka.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -120,10 +91,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

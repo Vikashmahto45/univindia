@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th science result 2023 - Official Senior Secondary Academic Gateway</div>
     <h2 class='sr-title'>12th science result 2023 - Official Senior Secondary Academic Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th science result 2023 - Official Senior Secondary Academic Gateway"; 
-$meta_description = "Check 12th science result 2023 for all state and central board exams. Access the official 2023 Class 12 Science result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized destination for the Senior Secondary (Class 12th)
-                Science results across India. Official board mirrors and portal links updated for the 2023 session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 12th Science Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">National 12th Science Gateways 2023</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Science Result Hub</h3>
+        <h3>National Science Result Hub</h3>
                     <p>Primary server for all 2023 Class 12 Science board results data across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -122,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

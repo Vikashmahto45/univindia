@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jac nic in - Official Jharkhand Board Hub</div>
     <h2 class='sr-title'>jac nic in - Official Jharkhand Board Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jac nic in - Official Jharkhand Board Hub"; 
-$meta_description = "Check Jharkhand Board result on jac nic in. Access official JAC Ranchi 10th & 12th scorecards on indiaresults archival portal for JAC exams."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Jharkhand Academic Council (JAC), Ranchi examination results via the official jac nic in portal infrastructure. Access official Jharkhand board mirrors and archival links updated for session verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open JAC Result Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Jharkhand (JAC) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JAC Ranchi Server</h3>
+        <h3>JAC Ranchi Server</h3>
                     <p>Primary server mirror for accessing Jharkhand Board Class 10th (Secondary) and Class 12th (Intermediate) examination result data for all sessions in Jharkhand.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

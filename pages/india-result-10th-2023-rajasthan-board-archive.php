@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2023 rajasthan board - Official Rajasthan BSER Archive</div>
     <h2 class='sr-title'>india result 10th 2023 rajasthan board - Official Rajasthan BSER Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 10th 2023 rajasthan board - Official Rajasthan BSER Archive"; 
-$meta_description = "Check india result 10th 2023 rajasthan board for Secondary examinations. Access the official 2023 Rajasthan (RBSE) result archive on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 Secondary (Class 10th) results for Rajasthan Board.
-                Official BSER Ajmer mirrors and archival links updated for the 2023 session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan 10th 2023 Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>RBSE Main Server 2023</h3>
+        <h3>RBSE Main Server 2023</h3>
                     <p>Primary server for Rajasthan 10th board result 2023 session archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -118,10 +89,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

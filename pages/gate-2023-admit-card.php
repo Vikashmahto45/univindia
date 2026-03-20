@@ -9,33 +9,6 @@ $meta_keywords = "gate 2023 admit card download, iit kanpur gate hall ticket dow
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; GATE 2023 Admit Card Download - IIT Kanpur Engineering Entrance Archive | Univindia.online</div>
     <h2 class='sr-title'>GATE 2023 Admit Card Download - IIT Kanpur Engineering Entrance Archive | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "GATE 2023 Admit Card Download - IIT Kanpur Engineering Entrance Archive | Univindia.online"; 
-$meta_description = "Download GATE 2023 Admit Card. Get the direct link for IIT Kanpur Graduate Aptitude Test in Engineering (GATE 2023) hall tickets at gate.iitk.ac.in."; 
-$meta_keywords = "gate 2023 admit card download, iit kanpur gate hall ticket download, gate.iitk.ac.in GOAPS login 2023, gate exam date 2023 download, engineering entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "GATE 2023 Admit Card Download - IIT Kanpur Engineering Entrance Archive | Univindia.online";
-$meta_description = "Download GATE 2023 Admit Card. Get the direct link for IIT Kanpur Graduate Aptitude Test in Engineering (GATE 2023) hall tickets at gate.iitk.ac.in.";
-$meta_keywords = "gate 2023 admit card download, iit kanpur gate hall ticket download, gate.iitk.ac.in GOAPS login 2023, gate exam date 2023 download, engineering entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">GATE 2023 Admit Card: Download IIT Kanpur Engineering Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>GATE 2023 Archive:</strong> The Indian Institute of Technology (IIT) Kanpur conducted the Graduate Aptitude Test in Engineering (GATE) in February 2023. Candidates looking for old hall tickets or scorecard records for the 2023 session can access the GOAPS portal archive at gate.iitk.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Engineering Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

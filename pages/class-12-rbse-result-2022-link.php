@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 rbse result 2022 - Official Rajasthan Board Archive</div>
     <h2 class='sr-title'>class 12 rbse result 2022 - Official Rajasthan Board Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "class 12 rbse result 2022 - Official Rajasthan Board Archive"; 
-$meta_description = "Check class 12 rbse result 2022 for all streams including Science, Arts, and Commerce. Access the official 2022 Rajasthan Board (BSER) result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 Senior Secondary (Class 12th) results for Rajasthan.
-                Official RBSE mirrors and archival links updated for all streams.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan 12th 2022 Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Server 1 (2022)</h3>
+        <h3>RBSE Server 1 (2022)</h3>
                     <p>Primary server for Rajasthan 12th result 2022 archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -113,10 +84,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

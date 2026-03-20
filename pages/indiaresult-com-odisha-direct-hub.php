@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresult com odisha - Official Odisha Board Result Gateway</div>
     <h2 class='sr-title'>indiaresult com odisha - Official Odisha Board Result Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "indiaresult com odisha - Official Odisha Board Result Gateway"; 
-$meta_description = "Check indiaresult com odisha for Matric (10th) and +2 (12th) results. Access the official Odisha result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest academic results for Odisha. Official BSE and CHSE
-                mirrors updated for High School Certificate and Higher Secondary examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Odisha Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Odisha Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Odisha Main Server</h3>
+        <h3>Odisha Main Server</h3>
                     <p>Primary server for Odisha board results latest session.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -117,10 +88,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

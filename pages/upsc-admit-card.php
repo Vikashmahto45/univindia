@@ -9,33 +9,6 @@ $meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in a
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download UPSC Admit Card 2024. Get the direct link for Union Public Service Commission Civil Services (IAS/IFS), NDA, CDS, and IES examination hall tickets at upsc.gov.in."; 
-$meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in admit card login, upsc ias admit card link, upsc nda cds hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "UPSC Admit Card 2024 Download - Civil Services IAS & IFS Hall Ticket Link | Univindia.online";
-$meta_description = "Download UPSC Admit Card 2024. Get the direct link for Union Public Service Commission Civil Services (IAS/IFS), NDA, CDS, and IES examination hall tickets at upsc.gov.in.";
-$meta_keywords = "upsc admit card 2024, upsc hall ticket download, upsc.gov.in admit card login, upsc ias admit card link, upsc nda cds hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">UPSC Admit Card 2024: Download Civil Services & National Defense Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>UPSC Notification:</strong> The Union Public Service Commission (UPSC) has released the e-Admit Cards for the upcoming Civil Services (Preliminary) Examination 2024 and various others like CDS/NDA. Candidates can download their hall tickets at upsc.gov.in or upsconline.nic.in.
         </div>
@@ -116,13 +89,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

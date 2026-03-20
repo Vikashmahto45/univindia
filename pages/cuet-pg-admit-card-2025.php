@@ -9,33 +9,6 @@ $meta_keywords = "cuet pg admit card 2025 download, cuet pg hall ticket 2025 dow
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET PG Admit Card 2025 Download - NTA Postgraduate Entrance Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CUET PG Admit Card 2025 Download - NTA Postgraduate Entrance Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CUET PG Admit Card 2025 Download - NTA Postgraduate Entrance Hall Ticket | Univindia.online"; 
-$meta_description = "Download CUET PG Admit Card 2025. Get the direct link for NTA Common University Entrance Test (CUET PG) examination hall tickets at pgcuet.samarth.ac.in."; 
-$meta_keywords = "cuet pg admit card 2025 download, cuet pg hall ticket 2025 download, pgcuet.samarth.ac.in login admit card, cuet pg exam date 2025 download, pg entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CUET PG Admit Card 2025 Download - NTA Postgraduate Entrance Hall Ticket | Univindia.online";
-$meta_description = "Download CUET PG Admit Card 2025. Get the direct link for NTA Common University Entrance Test (CUET PG) examination hall tickets at pgcuet.samarth.ac.in.";
-$meta_keywords = "cuet pg admit card 2025 download, cuet pg hall ticket 2025 download, pgcuet.samarth.ac.in login admit card, cuet pg exam date 2025 download, pg entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CUET PG Admit Card 2025: Download NTA Postgraduate Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>CUET PG 2025 Update:</strong> The National Testing Agency (NTA) has activated the portal for downloading the exam admit cards for the Common University Entrance Test (CUET PG) 2025. Candidates seeking admission to MA, MSc, MCom, and other PG programs can log in with their application number at pgcuet.samarth.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Search PG Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

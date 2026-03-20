@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india re - Official National Result Archive Mirror</div>
     <h2 class='sr-title'>india re - Official National Result Archive Mirror</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india re - Official National Result Archive Mirror"; 
-$meta_description = "Check india re for the latest national academic and competitive results. Access the official india results mirrors on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the national result mirror hub for all Indian state and central
-                boards. Official links and high-speed portals updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open Result Mirror</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Mirror Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Mirror 1</h3>
+        <h3>National Mirror 1</h3>
                     <p>Primary server for all national board result data.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -112,10 +83,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

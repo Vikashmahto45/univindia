@@ -9,33 +9,6 @@ $meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online"; 
-$meta_description = "Download NDA Admit Card 2022. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) 2022 examination hall tickets at upsc.gov.in."; 
-$meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1 2022 admit card link, nda 2 2022 admit card, naval academy call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NDA Admit Card 2022 Download - UPSC National Defence Academy Hall Ticket | Univindia.online";
-$meta_description = "Download NDA Admit Card 2022. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) 2022 examination hall tickets at upsc.gov.in.";
-$meta_keywords = "nda admit card 2022, upsc nda hall ticket 2022 download, nda 1 2022 admit card link, nda 2 2022 admit card, naval academy call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NDA Admit Card 2022: Download UPSC National Defence Academy Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>NDA 2022 Archive:</strong> The Union Public Service Commission (UPSC) conducted the National Defence Academy (NDA) I and II examinations in 2022. Candidates looking for old hall tickets or recruitment records for the 2022 session can access the official archive portal at upsc.gov.in.
         </div>
@@ -114,13 +87,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Defence Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

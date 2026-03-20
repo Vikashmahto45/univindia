@@ -9,33 +9,6 @@ $meta_keywords = "rrb admit card download, rrb hall ticket download, rrb officia
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Admit Card Download - Railway Recruitment Board Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>RRB Admit Card Download - Railway Recruitment Board Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB Admit Card Download - Railway Recruitment Board Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download RRB Admit Card. Get the direct link for Railway Recruitment Board (RRB) NTPC, Group D, ALP, and Technicians exam hall tickets at rrbcdg.gov.in."; 
-$meta_keywords = "rrb admit card download, rrb hall ticket download, rrb official website admit card, railway recruitment board call letter, rrb exam date 2024 download"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RRB Admit Card Download - Railway Recruitment Board Hall Ticket Link | Univindia.online";
-$meta_description = "Download RRB Admit Card. Get the direct link for Railway Recruitment Board (RRB) NTPC, Group D, ALP, and Technicians exam hall tickets at rrbcdg.gov.in.";
-$meta_keywords = "rrb admit card download, rrb hall ticket download, rrb official website admit card, railway recruitment board call letter, rrb exam date 2024 download";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RRB Admit Card: Download Railway Recruitment Board Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway Official Update:</strong> The Railway Recruitment Boards (RRBs) have activated the centralized portal for downloading the exam admit cards for various Centralized Employment Notices (CEN). Candidates can log in with their Registration Number and Date of Birth at their respective regional RRB portals or the nodal rrbcdg.gov.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest RRB Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

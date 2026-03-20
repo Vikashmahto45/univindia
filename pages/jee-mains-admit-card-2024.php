@@ -9,33 +9,6 @@ $meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online"; 
-$meta_description = "Download JEE Mains Admit Card 2024. Get the direct link for NTA JEE Main (Joint Entrance Examination) Session 1 and Session 2 hall tickets at jeemain.nta.ac.in."; 
-$meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2024 download, jeemain.nta.ac.in login 2024, jee mains exam date 2024 download, engineering entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "JEE Mains Admit Card 2024 Download - NTA Engineering Entrance Hall Ticket | Univindia.online";
-$meta_description = "Download JEE Mains Admit Card 2024. Get the direct link for NTA JEE Main (Joint Entrance Examination) Session 1 and Session 2 hall tickets at jeemain.nta.ac.in.";
-$meta_keywords = "jee mains admit card 2024 download, nta jee main hall ticket 2024 download, jeemain.nta.ac.in login 2024, jee mains exam date 2024 download, engineering entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">JEE Mains Admit Card 2024: Download NTA Engineering Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>JEE Main 2024 Cycle:</strong> The National Testing Agency (NTA) conducted the Joint Entrance Examination (JEE Main) 2024 in two cycles: Session 1 (January) and Session 2 (April). Candidates can access their archived hall tickets and scorecards at jeemain.nta.ac.in using their 2024 application number.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Engineering Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

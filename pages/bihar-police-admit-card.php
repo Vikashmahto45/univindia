@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in</div>
     <h2 class='sr-title'>Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "Bihar Police Admit Card 2025: CSBC Constable Hall Ticket Download @ csbc.bih.nic.in";
-$page_description = "Download Bihar Police Admit Card 2025 for Constable 21391 vacancies. Get direct link for CSBC Bihar Police Hall Ticket, Exam Schedule, and center details. 800+ words guide.";
-$page_keywords = "Bihar Police Admit Card 2025, CSBC Bihar Constable Hall Ticket Download, csbc.bih.nic.in admit card link, Bihar Police Constable Exam Date, Bihar Police Call Letter";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">Bihar Police Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-shield-alt me-2"></i> <strong>Recruitment News:</strong> The Central Selection Board of Constables (CSBC), Bihar has released the schedule for the 21,391 Constable vacancies. The <strong>Bihar Police Admit Card</strong> can be downloaded using the Registration ID or Mobile Number.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>Bihar Police Admit Card 2025</strong> is the essential identification permit for candidates participating in the massive recruitment drive for 21,391 Constable posts. Managed by the CSBC, this selection process involves a written examination followed by a rigorous Physical Efficiency Test (PET), with the <strong>Bihar Police Hall Ticket</strong> being the key to accessing each stage of the selection.
                 </p>
@@ -158,57 +123,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Bihar State Authority Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $bihar_auth = [
-                        'bpssc-admit-card.php' => 'Bihar SI Admit Card',
-                        'bihar-board-admit-card.php' => 'BSEB 10th 12th Admit Card',
-                        'btsc-admit-card.php' => 'BTSC Bihar ITI Admit Card',
-                        'dcece-admit-card.php' => 'Bihar Polytechnic Admit Card'
-                    ];
-                    foreach ($bihar_auth as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="bihar-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.bihar-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.bihar-link-card:hover {
-    background: rgba(255, 193, 7, 0.12);
-    border-color: #ffc107 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

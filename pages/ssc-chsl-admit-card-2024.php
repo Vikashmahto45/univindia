@@ -9,33 +9,6 @@ $meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 hall ticket, ssc chs
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CHSL Tier 1 Admit Card 2024 - Download Exam Date & Status | Univindia.online</div>
     <h2 class='sr-title'>SSC CHSL Tier 1 Admit Card 2024 - Download Exam Date & Status | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CHSL Tier 1 Admit Card 2024 - Download Exam Date & Status | Univindia.online"; 
-$meta_description = "SSC CHSL Admit Card 2024 for Tier 1 released. Check your SSC CHSL application status, exam date, city intimation and download hall ticket from regional websites."; 
-$meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 hall ticket, ssc chsl status 2024, ssc chsl exam date, ssc.gov.in chsl admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC CHSL Tier 1 Admit Card 2024 - Download Exam Date & Status | Univindia.online";
-$meta_description = "SSC CHSL Admit Card 2024 for Tier 1 released. Check your SSC CHSL application status, exam date, city intimation and download hall ticket from regional websites.";
-$meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 hall ticket, ssc chsl status 2024, ssc chsl exam date, ssc.gov.in chsl admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC CHSL Admit Card 2024: Tier 1 Exam Status & Download Guide</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Important Alert:</strong> SSC has migrated to a new website ssc.gov.in. Candidates are advised to check all latest notifications and admit card links on the new portal. Registration status for CHSL 2024 is now live for NR, SR, and CR regions.
         </div>
@@ -127,13 +100,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Univindia Home</a>
             <a href="results.php" class="hot-btn bg-red">Latest Result Updates</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

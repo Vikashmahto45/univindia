@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in</div>
     <h2 class='sr-title'>NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "NEET Admit Card 2024: Download Link, Exam Hall Ticket @ neet.nta.nic.in";
-$page_description = "NEET Admit Card 2024 Release Date, Direct Download Link, and Exam Day Instructions. Get your NTA NEET UG Hall Ticket and check exam city intimation details here.";
-$page_keywords = "NEET Admit Card 2024, NEET UG Hall Ticket Download, NTA NEET 2024 Admit Card, NEET Exam Date 2024, neet.nta.nic.in admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">NEET Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-exclamation-triangle me-2"></i> <strong>Important Notification:</strong> The National Testing Agency (NTA) will release the NEET UG 2024 Admit Card 3-4 days prior to the examination date. Stay tuned for the direct login link.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The National Eligibility cum Entrance Test (NEET) is the single largest medical entrance examination in India for admission to MBBS, BDS, and other undergraduate medical courses. As millions of students gear up for the upcoming session, the <strong>NEET Admit Card 2024</strong> remains the most critical document for entry into the exam hall.
                 </p>
@@ -178,65 +143,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-th-list me-2"></i> Explore More Admit Cards</h3>
                 <div class="row g-3">
-                    <?php
-                    $related = [
-                        'ssc-gd-admit-card.php' => 'SSC GD Admit Card',
-                        'jee-main-admit-card.php' => 'JEE Main Admit Card',
-                        'ctet-admit-card-2024.php' => 'CTET Admit Card 2024',
-                        'cuet-admit-card-2024.php' => 'CUET Admit Card 2024'
-                    ];
-                    foreach ($related as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="related-link-card d-block p-3 rounded-3 text-white text-decoration-none hover-glow">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #FFD700, #FFA500);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.95);
-    backdrop-filter: blur(8px);
-}
-.text-light-gray {
-    color: #d1d1d1;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #121212 0%, #252525 100%);
-}
-.hover-glow:hover {
-    box-shadow: 0 0 20px rgba(13, 202, 240, 0.25);
-    border-color: #0dcaf0 !important;
-    background: rgba(13, 202, 240, 0.1);
-    transition: all 0.3s ease;
-}
-.related-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-}
-.accordion-button:not(.collapsed) {
-    color: #0dcaf0;
-    background-color: #1e1e1e;
-}
-.accordion-button::after {
-    filter: invert(1);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

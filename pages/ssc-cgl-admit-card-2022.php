@@ -9,33 +9,6 @@ $meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download SSC CGL Admit Card 2022. Get the direct link for Staff Selection Commission Combined Graduate Level examination hall tickets at ssc.nic.in."; 
-$meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, ssc.nic.in admit card login, ssc cgl exam date 2022, ssc cgl tier 2 call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC CGL Admit Card 2022 Download - Tier 1 & Tier 2 Exam Hall Ticket Link | Univindia.online";
-$meta_description = "Download SSC CGL Admit Card 2022. Get the direct link for Staff Selection Commission Combined Graduate Level examination hall tickets at ssc.nic.in.";
-$meta_keywords = "ssc cgl admit card 2022, ssc cgl tier 1 hall ticket download, ssc.nic.in admit card login, ssc cgl exam date 2022, ssc cgl tier 2 call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC CGL Admit Card 2022: Download Staff Selection Commission Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSC CGL 2022 Archive:</strong> The Staff Selection Commission (SSC) conducted the Combined Graduate Level (CGL) 2022 examinations in multiple phases. Candidates looking for old tier-specific hall tickets or result records for the 2022 session can access the official regional SSC portals via ssc.nic.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

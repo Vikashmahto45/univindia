@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12th result 2024 - Official National Senior Secondary Hub</div>
     <h2 class='sr-title'>class 12th result 2024 - Official National Senior Secondary Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "class 12th result 2024 - Official National Senior Secondary Hub"; 
-$meta_description = "Check class 12th result 2024 for all state boards and CBSE. Access the official 2024 senior secondary (Class 12) result portal and live updates on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary) examination
-                results across India for the 2024 session. Official board mirrors and live result links updated for the
-                2024 academic batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2024 12th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Class 12th 2024 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Result Hub 2024</h3>
+        <h3>Board Result Hub 2024</h3>
                     <p>Primary server mirror for accessing 2024 Class 12 results for all state boards (Science,
                         Commerce, Arts) nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

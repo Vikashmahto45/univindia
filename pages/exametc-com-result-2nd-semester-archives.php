@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.exametc.com result 2nd semester - Official Academic Result Gateway</div>
     <h2 class='sr-title'>www.exametc.com result 2nd semester - Official Academic Result Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "www.exametc.com result 2nd semester - Official Academic Result Gateway"; 
-$meta_description = "Check www.exametc.com result 2nd semester for university and college exams. Access the official 2nd Semester archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest examination results for 2nd Semester across various
-                universities and colleges. Official exametc mirrors and archival links updated for the latest semester
-                batches.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2nd Sem Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2nd Semester Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>ExamEtc Official Hub 1</h3>
+        <h3>ExamEtc Official Hub 1</h3>
                     <p>Primary server for university 2nd semester result data across all undergraduate and postgraduate
                         streams.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

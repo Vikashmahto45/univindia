@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 result 2024 jac board - Official Jharkhand 12th Hub</div>
     <h2 class='sr-title'>class 12 result 2024 jac board - Official Jharkhand 12th Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "class 12 result 2024 jac board - Official Jharkhand 12th Hub"; 
-$meta_description = "Check Jharkhand Board 12th result 2024 on class 12 result 2024 jac board. Access official JAC Intermediate 2024 archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Jharkhand Academic Council (JAC) Class 12th
-                (Intermediate) examination results for the 2024 academic session. Access official Jharkhand board
-                mirrors and 2024 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2024 JAC Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2024 Jharkhand (JAC 12th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JAC Inter Server 2024</h3>
+        <h3>JAC Inter Server 2024</h3>
                     <p>Primary server for Jharkhand Board Class 12th (Intermediate) examination result data for the 2024
                         session archive across all districts in Jharkhand.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -131,10 +101,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

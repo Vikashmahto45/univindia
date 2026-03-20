@@ -9,33 +9,6 @@ $meta_keywords = "up police admit card 2024 date, up police constable hall ticke
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online"; 
-$meta_description = "Download UP Police Constable Admit Card 2024. Get the latest update on UP Police exam dates, city intimation link, and steps to download hall ticket at uppbpb.gov.in."; 
-$meta_keywords = "up police admit card 2024 date, up police constable hall ticket, uppbpb gov in admit card, up police exam city link, download up police call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "UP Police Admit Card 2024 Exam Date - Download Constable Hall Ticket | Univindia.online";
-$meta_description = "Download UP Police Constable Admit Card 2024. Get the latest update on UP Police exam dates, city intimation link, and steps to download hall ticket at uppbpb.gov.in.";
-$meta_keywords = "up police admit card 2024 date, up police constable hall ticket, uppbpb gov in admit card, up police exam city link, download up police call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">UP Police Admit Card 2024: Constable Exam Date & City Intimation Link</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Fresh Update:</strong> The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has announced the re-exam schedule for the Constable recruitment 2024. The City Intimation slip will be available 10 days before the exam, followed by the final admit card 3 days prior.
         </div>
@@ -117,13 +90,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

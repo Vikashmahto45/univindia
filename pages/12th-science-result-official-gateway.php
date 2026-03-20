@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th science result - Official National 12th Science Hub</div>
     <h2 class='sr-title'>12th science result - Official National 12th Science Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th science result - Official National 12th Science Hub"; 
-$meta_description = "Check 12th science result for all state boards and central councils. Access the official national Class 12 Science archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary) Science stream
-                examination results across India. Official board mirrors and direct result links updated for batch
-                verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 12th Science Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 12th (Science) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Science Board Server</h3>
+        <h3>National Science Board Server</h3>
                     <p>Primary server mirror for accessing 12th Science stream results for all participating state
                         boards and central councils like CBSE and ICSE nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

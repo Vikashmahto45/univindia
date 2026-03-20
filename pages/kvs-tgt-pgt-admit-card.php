@@ -9,33 +9,6 @@ $meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teac
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online"; 
-$meta_description = "Download KVS TGT PGT Admit Card 2024. Get direct link for Kendriya Vidyalaya Trained Graduate Teacher and Post Graduate Teacher recruitment hall tickets at kvsangathan.nic.in."; 
-$meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teacher admit card link, kvsangathan.nic.in teacher hall ticket, kvs interview admit card tgt pgt"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "KVS TGT PGT Admit Card 2024 Download - Grade Teacher Interview Hall Ticket | Univindia.online";
-$meta_description = "Download KVS TGT PGT Admit Card 2024. Get direct link for Kendriya Vidyalaya Trained Graduate Teacher and Post Graduate Teacher recruitment hall tickets at kvsangathan.nic.in.";
-$meta_keywords = "kvs tgt admit card 2024, kvs pgt admit card download, kvs teacher admit card link, kvsangathan.nic.in teacher hall ticket, kvs interview admit card tgt pgt";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">KVS TGT PGT Admit Card 2024: Download Teacher Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Recruitment Update:</strong> The Kendriya Vidyalaya Sangathan (KVS) has officially activated the portal for downloading the interview call letters and final selection test admit cards for the TGT and PGT 2024 batch. Candidates can check their status at kvsangathan.nic.in.
         </div>
@@ -109,13 +82,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check KVS Interview Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

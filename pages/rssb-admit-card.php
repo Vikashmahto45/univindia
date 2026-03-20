@@ -9,33 +9,6 @@ $meta_keywords = "rssb admit card 2024, rsmssb admit card download, rajasthan st
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RSSB Admit Card 2024 Download - Rajasthan Staff Selection Board RSMSSB Link | Univindia.online</div>
     <h2 class='sr-title'>RSSB Admit Card 2024 Download - Rajasthan Staff Selection Board RSMSSB Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RSSB Admit Card 2024 Download - Rajasthan Staff Selection Board RSMSSB Link | Univindia.online"; 
-$meta_description = "Download RSSB Admit Card 2024. Get the direct link for RSMSSB Junior Assistant, Clerk, Patwari, and various recruitment hall tickets at rsmssb.rajasthan.gov.in."; 
-$meta_keywords = "rssb admit card 2024, rsmssb admit card download, rajasthan staff selection board hall ticket, rssb board admit card link, rssb recruitment 2024 hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RSSB Admit Card 2024 Download - Rajasthan Staff Selection Board RSMSSB Link | Univindia.online";
-$meta_description = "Download RSSB Admit Card 2024. Get the direct link for RSMSSB Junior Assistant, Clerk, Patwari, and various recruitment hall tickets at rsmssb.rajasthan.gov.in.";
-$meta_keywords = "rssb admit card 2024, rsmssb admit card download, rajasthan staff selection board hall ticket, rssb board admit card link, rssb recruitment 2024 hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RSSB Admit Card 2024: Download Rajasthan Staff Selection Board Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>RSSB Recruitment News:</strong> The Rajasthan Staff Selection Board (RSSB), formerly RSMSSB, has released the admit cards for various recruitment exams including Livestock Assistant, Junior Assistant, and Hostel Superintendent. Candidates can log in to the SSO Portal to download their e-admit cards.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check RSSB Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

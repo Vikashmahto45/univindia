@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in</div>
     <h2 class='sr-title'>Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "Voter ID Download 2025: Get E-EPIC Digital Voter Card @ voters.eci.gov.in";
-$page_description = "Download Voter ID Card 2025 Online. Get direct link for E-EPIC digital voter card, EPIC number search, and voter list status. 800+ words of latest updates.";
-$page_keywords = "Voter ID Download 2025, Digital Voter Card E-EPIC Online, NVSP Voter ID Download, EPIC Number Search, voters.eci.gov.in portal link";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">Voter ID Download 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-id-card me-2"></i> <strong>ECI Portal Update:</strong> The Election Commission of India (ECI) has activated the 2.0 version of the <strong>voters.eci.gov.in</strong> portal. Eligible voters can now download the non-editable, digital version of their Voter ID, known as E-EPIC.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>Voter ID Download 2025</strong> service is the digital transformation of the traditional Electors Photo Identity Card (EPIC). With the introduction of the E-EPIC (Electronic EPIC), citizens can now bypass the wait for a physical card and carry a secure, legally-valid digital Voter ID on their smartphones or DigiLocker accounts.
                 </p>
@@ -159,57 +124,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-user-check me-2"></i> Identity & Registration Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $id_links = [
-                        'pan-card-download.php' => 'E-PAN Card Online Download',
-                        'aadhar-card-download.php' => 'Aadhar Card Download Link',
-                        'driving-license-download.php' => 'Driving License Digital Copy',
-                        'ration-card-status.php' => 'Ration Card List 2025'
-                    ];
-                    foreach ($id_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="voter-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(10, 10, 10, 0.98);
-    backdrop-filter: blur(15px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.voter-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.voter-link-card:hover {
-    background: rgba(40, 167, 69, 0.12);
-    border-color: #28a745 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

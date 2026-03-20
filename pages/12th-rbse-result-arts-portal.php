@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th rbse result arts - Official Rajasthan Board Portal</div>
     <h2 class='sr-title'>12th rbse result arts - Official Rajasthan Board Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th rbse result arts - Official Rajasthan Board Portal"; 
-$meta_description = "Check 12th rbse result arts for the Senior Secondary examination. Access the official 2023 Rajasthan Board (BSER) 12th Arts result gateway on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 Senior Secondary (Class 12th) results for the Arts
-                stream in Rajasthan. Official RBSE mirrors and result links updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Arts Result</a>
-                <a href="#faq" class="btn btn-secondary">System Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan 12th Arts Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Server 1</h3>
+        <h3>RBSE Server 1</h3>
                     <p>Primary server for Rajasthan 12th Arts results 2023.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

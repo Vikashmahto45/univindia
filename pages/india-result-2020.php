@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2020 - Official Archive of National Board Results</div>
     <h2 class='sr-title'>india result 2020 - Official Archive of National Board Results</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 2020 - Official Archive of National Board Results"; 
-$meta_description = "Check india result 2020 for CBSE, ICSE, and all State Boards. Access the official archives for 10th and 12th results of the 2020 academic year on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2020 result archives for secondary and senior secondary
-                examinations across all Indian boards.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Browse 2020 Archive</a>
-                <a href="#faq" class="btn btn-secondary">System Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">2020 Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">📁</div>
-                    <h3>Main Result Archive</h3>
+        <h3>Main Result Archive</h3>
                     <p>Primary server for all 2020 board results.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Open Archive 1</a>
                 </div>
@@ -111,10 +82,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

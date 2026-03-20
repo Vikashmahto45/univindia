@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in</div>
     <h2 class='sr-title'>RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RPSC Admit Card 2025: RAS, Teacher, Lecturer Hall Ticket Download @ rpsc.rajasthan.gov.in";
-$page_description = "Download RPSC Admit Card 2025 for RAS, Teacher, Lecturer, and other competitive exams. Get direct link for Rajasthan Public Service Commission Hall Ticket. 800+ words of detailed guide.";
-$page_keywords = "RPSC Admit Card 2025, Rajasthan Public Service Commission Hall Ticket, RPSC RAS Admit Card, RPSC Teacher Hall Ticket Download, rpsc.rajasthan.gov.in call letter";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">RPSC Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-landmark me-2"></i> <strong>Official Update:</strong> The Rajasthan Public Service Commission (RPSC) releases the admit cards for Gazetted and non-Gazetted officer posts on its official portal: rpsc.rajasthan.gov.in. Ensure you have your SSO ID ready for a smoother experience.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>RPSC Admit Card 2025</strong> is the most critical document for thousands of administrative and teaching aspirants in Rajasthan. As the premier recruitment body for the state, the Rajasthan Public Service Commission conducts prestigious exams like the Rajasthan Administrative Services (RAS), Senior Teacher recruitment, and various Assistant Professor exams.
                 </p>
@@ -177,57 +142,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Rajasthan Education Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $raj_edu = [
-                        'uniraj-admit-card.php' => 'Uniraj Hall Ticket',
-                        'mdsu-admit-card.php' => 'MDSU Ajmer Admit Card',
-                        'jnvu-admit-card.php' => 'JNVU Jodhpur Call Letter',
-                        'vmou-admit-card.php' => 'VMOU Kota Admit Card'
-                    ];
-                    foreach ($raj_edu as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="rpsc-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #2c3e50 0%, #000 100%);
-}
-.rpsc-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.rpsc-link-card:hover {
-    background: rgba(13, 202, 240, 0.12);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india result com - Official National Academic Portal Hub</div>
     <h2 class='sr-title'>all india result com - Official National Academic Portal Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "all india result com - Official National Academic Portal Hub"; 
-$meta_description = "Check all india result com for all state and national boards. Access the official all India results gateway on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized hub for every academic result in India. Official state
-                board and central mirrors updated for the current and archival sessions across the nation.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Browse All Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>All India Result Hub</h3>
+        <h3>All India Result Hub</h3>
                     <p>Primary server for academic result data aggregated across all Indian states.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -117,10 +88,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

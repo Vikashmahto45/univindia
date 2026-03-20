@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th result 2021 jac - Official Jharkhand 12th 2021 Archive</div>
     <h2 class='sr-title'>12th result 2021 jac - Official Jharkhand 12th 2021 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th result 2021 jac - Official Jharkhand 12th 2021 Archive"; 
-$meta_description = "Check Jharkhand Board 12th results for 2021 on 12th result 2021 jac. Access the official JAC Intermediate archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Jharkhand
-                Academic Council (JAC) Class 12th (Intermediate). Official JAC mirrors and archival links updated for
-                the 2021 batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 JAC Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 Jharkhand (JAC 12th) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JAC Board Server 2021</h3>
+        <h3>JAC Board Server 2021</h3>
                     <p>Primary server for Jharkhand Academic Council (JAC) Intermediate (Class 12) result data for the
                         2021 session archive across all streams (Science, Commerce, Arts).</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

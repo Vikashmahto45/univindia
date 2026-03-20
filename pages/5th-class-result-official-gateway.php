@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 5th class result - Official Primary School Hub</div>
     <h2 class='sr-title'>5th class result - Official Primary School Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "5th class result - Official Primary School Hub"; 
-$meta_description = "Check Primary School 5th class result on 5th class result. Access official Board Class 5th (Primary) scorecards and selection lists on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Board Class 5th (Primary) examination results across India. Access official primary board mirrors and archival links updated for session verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 5th Class Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Primary (Class 5th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Primary Board Server</h3>
+        <h3>Primary Board Server</h3>
                     <p>Primary server for accessing Class 5th examination result data for all major education boards including Rajasthan (DIET), Punjab, and Haryana.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

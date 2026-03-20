@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; results. com - Official National Academic Results News & Portal Hub</div>
     <h2 class='sr-title'>results. com - Official National Academic Results News & Portal Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "results. com - Official National Academic Results News & Portal Hub"; 
-$meta_description = "Check results. com for all board and university exams. Access the official result declaration gateway, news updates, and archival scores nationwide on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your primary destination for global and national examination results.
-                Access latest scorecards for 10th/12th state boards, university semester exams, and professional
-                entrance tests updated for the latest academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Results Portal</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Results Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Academic Board Hub</h3>
+        <h3>Academic Board Hub</h3>
                     <p>Primary server for 10th and 12th board result data across participating national and state
                         education boards archives.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

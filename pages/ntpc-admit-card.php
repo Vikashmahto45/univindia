@@ -9,33 +9,6 @@ $meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbap
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download NTPC Admit Card. Get the direct link for RRB NTPC (Non-Technical Popular Categories) CBT 1 and CBT 2 hall tickets at rrbapply.gov.in."; 
-$meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbapply.gov.in ntpc login admit card, railway exam date 2024 download, railway recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NTPC Admit Card Download - Railway NTPC CBT Hall Ticket Link | Univindia.online";
-$meta_description = "Download NTPC Admit Card. Get the direct link for RRB NTPC (Non-Technical Popular Categories) CBT 1 and CBT 2 hall tickets at rrbapply.gov.in.";
-$meta_keywords = "ntpc admit card download, rrb ntpc hall ticket download, rrbapply.gov.in ntpc login admit card, railway exam date 2024 download, railway recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NTPC Admit Card: Download Railway NTPC Phase-wise Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway Recruitment 2024-25:</strong> The Railway Recruitment Boards (RRB) have activated the portal for downloading exam admit cards and City Intimation Slips for the Non-Technical Popular Categories (NTPC) recruitment (Graduate & Undergraduate levels). Candidates can log in with their registration number at rrbapply.gov.in or regional RRB websites.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Railway Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

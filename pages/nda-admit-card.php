@@ -9,33 +9,6 @@ $meta_keywords = "nda admit card, upsc nda hall ticket download, nda exam date 2
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download NDA Admit Card. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) examination hall tickets at upsc.gov.in."; 
-$meta_keywords = "nda admit card, upsc nda hall ticket download, nda exam date 2025 download, upsc.gov.in admit card login, nda 1 2025 admit card, naval academy call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NDA Admit Card Download - UPSC National Defence Academy Exam Hall Ticket | Univindia.online";
-$meta_description = "Download NDA Admit Card. Get the direct link for UPSC National Defence Academy (NDA) & Naval Academy (NA) examination hall tickets at upsc.gov.in.";
-$meta_keywords = "nda admit card, upsc nda hall ticket download, nda exam date 2025 download, upsc.gov.in admit card login, nda 1 2025 admit card, naval academy call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NDA Admit Card: Download UPSC National Defence Academy Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>UPSC NDA Update:</strong> The Union Public Service Commission (UPSC) has activated the e-Admit Card portal for the National Defence Academy (NDA) and Naval Academy (NA) Examination. Candidates who have successfully registered for the NDA (I) or (II) 2025 sessions can download their hall tickets at upsc.gov.in.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Defence Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

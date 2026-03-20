@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC GD Constable Admit Card 2025: Download Region-wise Hall Ticket @ ssc.gov.in";
-$page_description = "SSC GD Constable Admit Card 2025 Download Link. Get region-wise call letters for SSC Constable GD Exam. Physical & Medical test details, exam date, and hall ticket status.";
-$page_keywords = "SSC GD Constable Admit Card 2025, SSC GD Hall Ticket 2025, SSC GD Constable Exam Date, SSC GD Call Letter download, ssc.gov.in admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">SSC GD Constable Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-bell fa-2x text-warning"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Latest Update:</h4>
                         <p class="mb-0">The Staff Selection Commission (SSC) is set to release the <strong>SSC GD Constable Admit Card 2025</strong> soon. Candidates can check their application status and download their hall tickets from the respective regional websites.</p>
                     
@@ -250,12 +213,6 @@ include '../includes/header.php';
     filter: invert(1);
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

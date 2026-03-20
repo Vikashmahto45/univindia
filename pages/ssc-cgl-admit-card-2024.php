@@ -9,33 +9,6 @@ $meta_keywords = "ssc cgl admit card 2024, ssc cgl tier 1 hall ticket, ssc cgl s
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CGL Tier 1 Admit Card 2024 - Download Exam Date & City | Univindia.online</div>
     <h2 class='sr-title'>SSC CGL Tier 1 Admit Card 2024 - Download Exam Date & City | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CGL Tier 1 Admit Card 2024 - Download Exam Date & City | Univindia.online"; 
-$meta_description = "Download SSC CGL Admit Card 2024 for Tier 1. Check your CGL application status, regional website links, and exam dates. Get official hall ticket at ssc.gov.in."; 
-$meta_keywords = "ssc cgl admit card 2024, ssc cgl tier 1 hall ticket, ssc cgl status 2024, ssc cgl exam date, ssc.gov.in cgl admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC CGL Tier 1 Admit Card 2024 - Download Exam Date & City | Univindia.online";
-$meta_description = "Download SSC CGL Admit Card 2024 for Tier 1. Check your CGL application status, regional website links, and exam dates. Get official hall ticket at ssc.gov.in.";
-$meta_keywords = "ssc cgl admit card 2024, ssc cgl tier 1 hall ticket, ssc cgl status 2024, ssc cgl exam date, ssc.gov.in cgl admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC CGL Admit Card 2024: Tier 1 Exam Status & Regional Download Links</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Hot Update:</strong> The Staff Selection Commission has officially released the exam calendar for CGL 2024. Tier 1 application status is being updated on regional websites (NR, CR, SR, ER). Final admit cards will be out 4 days before the exam date.
         </div>
@@ -157,13 +130,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

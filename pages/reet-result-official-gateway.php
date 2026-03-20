@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; reet result - Official Rajasthan REET Eligibility Gateway</div>
     <h2 class='sr-title'>reet result - Official Rajasthan REET Eligibility Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "reet result - Official Rajasthan REET Eligibility Gateway"; 
-$meta_description = "Check reet result for Rajasthan Eligibility Examination for Teachers. Access the official REET (BSER) result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest teacher eligibility results for Rajasthan. Official
-                BSER Ajmer mirrors and portal links updated for the current REET session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check REET Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified REET Rajasthan Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>REET Official Mirror</h3>
+        <h3>REET Official Mirror</h3>
                     <p>Primary server for REET examination results for the current session.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -122,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

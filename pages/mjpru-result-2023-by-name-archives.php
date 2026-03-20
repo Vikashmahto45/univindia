@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; mjpru result 2023 by name - Official Rohilkhand University 2023 Archive</div>
     <h2 class='sr-title'>mjpru result 2023 by name - Official Rohilkhand University 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "mjpru result 2023 by name - Official Rohilkhand University 2023 Archive"; 
-$meta_description = "Check mjpru result 2023 by name for UG and PG exams. Access the official 2023 Mahatma Jyotiba Phule Rohilkhand University (MJPRU) archival portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session results for Mahatma Jyotiba Phule
-                Rohilkhand University (MJPRU Bareilly). Official university mirrors and name-wise archival links updated
-                for the 2023 batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 MJPRU Bareilly Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>MJPRU Official Hub 2023</h3>
+        <h3>MJPRU Official Hub 2023</h3>
                     <p>Primary server for Rohilkhand University result data for the 2023 academic session archive.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -123,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

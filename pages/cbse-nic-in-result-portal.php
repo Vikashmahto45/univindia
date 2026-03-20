@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; cbse nic in result - Official CBSE Secondary and Higher Secondary Hub</div>
     <h2 class='sr-title'>cbse nic in result - Official CBSE Secondary and Higher Secondary Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "cbse nic in result - Official CBSE Secondary and Higher Secondary Hub"; 
-$meta_description = "Check cbse nic in result for Class 10th and 12th exams. Access the official CBSE result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest Secondary and Senior Secondary academic results for
-                the Central Board of Secondary Education. Official CBSE mirrors and portal links updated for the current
-                session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check CBSE Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified CBSE National Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>CBSE Main Server</h3>
+        <h3>CBSE Main Server</h3>
                     <p>Primary server for CBSE 10th and 12th board results latest session.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -121,10 +91,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

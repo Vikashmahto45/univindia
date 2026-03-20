@@ -9,33 +9,6 @@ $meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online</div>
     <h2 class='sr-title'>SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online"; 
-$meta_description = "Download SSC GD Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct links for GD Constable hall ticket, PET/PST admit card, and exam schedules."; 
-$meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd hall ticket download, ssc gd call letter ssc nic in, ssc gd admit card 2024 download link"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC GD Admit Card ssc.nic.in - Constable GD Hall Ticket Download | Univindia.online";
-$meta_description = "Download SSC GD Admit Card from ssc.nic.in (old) and ssc.gov.in (new). Get direct links for GD Constable hall ticket, PET/PST admit card, and exam schedules.";
-$meta_keywords = "ssc.nic.in gd admit card, ssc gd constable admit card, ssc gd hall ticket download, ssc gd call letter ssc nic in, ssc gd admit card 2024 download link";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC GD Admit Card ssc.nic.in: Constable GD Download Guide & PET/PST Details</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Portal News:</strong> The SSC GD 2024 Written Examination Admit Cards have been uploaded on the regional domains of ssc.nic.in. The new ssc.gov.in portal also hosts the OTR-based download link for advanced candidates.
         </div>
@@ -102,13 +75,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-darkblue">Explore Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

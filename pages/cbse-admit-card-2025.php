@@ -9,33 +9,6 @@ $meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download CBSE Admit Card 2025. Get the direct link for Class 10 and Class 12 board examination hall tickets at cbse.gov.in (Pariksha Sangam)."; 
-$meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th hall ticket login, cbse.gov.in admit card 2025 link, cbse private candidate admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CBSE Admit Card 2025 Download - Class 10th & 12th Board Exam Hall Ticket | Univindia.online";
-$meta_description = "Download CBSE Admit Card 2025. Get the direct link for Class 10 and Class 12 board examination hall tickets at cbse.gov.in (Pariksha Sangam).";
-$meta_keywords = "cbse admit card 2025, cbse 10th admit card download, cbse 12th hall ticket login, cbse.gov.in admit card 2025 link, cbse private candidate admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CBSE Admit Card 2025: Download Class 10th & 12th Board Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>CBSE 2025 Update:</strong> The Central Board of Secondary Education (CBSE) has activated the "Pariksha Sangam" portal for downloading the admit cards for Class 10th and 12th board examinations 2025. While regular students should collect their hall tickets from their respective schools, private candidates can download them at cbse.gov.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check CBSE Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

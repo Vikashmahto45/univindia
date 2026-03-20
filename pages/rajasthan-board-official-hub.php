@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan board - Official BSER/RBSE Result Gateway</div>
     <h2 class='sr-title'>rajasthan board - Official BSER/RBSE Result Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rajasthan board - Official BSER/RBSE Result Gateway"; 
-$meta_description = "Check all Rajasthan Board results for 10th and 12th classes. Access the official BSER (RBSE) result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized hub for all Rajasthan academic results. Board of
-                Secondary Education Rajasthan (BSER) official mirrors and links updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open Board Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan Board Official Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Server 1</h3>
+        <h3>RBSE Server 1</h3>
                     <p>Primary server for all Rajasthan 10th & 12th results.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

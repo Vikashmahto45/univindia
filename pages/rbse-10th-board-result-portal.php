@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 10th board result - Official Rajasthan Secondary Hub</div>
     <h2 class='sr-title'>rbse 10th board result - Official Rajasthan Secondary Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rbse 10th board result - Official Rajasthan Secondary Hub"; 
-$meta_description = "Check rbse 10th board result for the High School (Secondary) examinations. Access the official Rajasthan (BSER) result gateway on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest High School (Class 10th) results for Rajasthan.
-                Official RBSE mirrors and portal links updated for the Secondary examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 10th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan 10th Board Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>RBSE Main Server</h3>
+        <h3>RBSE Main Server</h3>
                     <p>Primary server for Rajasthan Secondary result latest session.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -115,10 +86,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

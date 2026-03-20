@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rbse 8th Result 2022 Roll Number Link</div>
     <h2 class='sr-title'>Rbse 8th Result 2022 Roll Number Link</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Rbse 8th Result 2022 Roll Number Link"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="content-wrapper">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                
-            
-        <div class="row">
-            <div class="col-md-12">
-                <div class="alert alert-success">
-                    <strong>RBSE 8th Result 2022 Roll Number:</strong> Rajasthan Board of Secondary Education (RBSE) has released the Class 8th examination results for the year 2022. Students who appeared for the exams can now check their results using their roll number.
-                </div>
-                <p>
+        <p>
                     The Rajasthan Board 8th class result 2022 is a crucial milestone for students. The board offers various ways to check the result, with the roll number search being the most common and direct method.
                 </p>
                 <h3>How to Check RBSE 8th Result 2022 by Roll Number:</h3>
@@ -72,10 +50,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

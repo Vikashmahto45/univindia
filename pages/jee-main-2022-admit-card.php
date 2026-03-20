@@ -9,33 +9,6 @@ $meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online</div>
     <h2 class='sr-title'>JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online"; 
-$meta_description = "Download JEE Main 2022 Admit Card. Get the direct link for NTA Engineering Entrance (JEE) Session 1 and Session 2 examination hall tickets at jeemain.nta.nic.in."; 
-$meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain.nta.nic.in hall ticket, jee mains 2022 admit card link, jee session 1 2 hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "JEE Main 2022 Admit Card Download - NTA Joint Entrance Exam Session 1 & 2 | Univindia.online";
-$meta_description = "Download JEE Main 2022 Admit Card. Get the direct link for NTA Engineering Entrance (JEE) Session 1 and Session 2 examination hall tickets at jeemain.nta.nic.in.";
-$meta_keywords = "jee main 2022 admit card, nta jee admit card download, jeemain.nta.nic.in hall ticket, jee mains 2022 admit card link, jee session 1 2 hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">JEE Main 2022 Admit Card: Download NTA Engineering Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>JEE 2022 Archive:</strong> The Joint Entrance Examination (JEE) Main 2022 was conducted by the National Testing Agency (NTA). Candidates looking for old hall tickets or selection records for the 2022 sessions (Session 1 and Session 2) can access the official archive link at jeemain.nta.nic.in or nta.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check JEE 2022 Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

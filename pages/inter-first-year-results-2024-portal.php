@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter first year results 2024 - Official Intermediate 1st Year Gateway</div>
     <h2 class='sr-title'>inter first year results 2024 - Official Intermediate 1st Year Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "inter first year results 2024 - Official Intermediate 1st Year Gateway"; 
-$meta_description = "Check inter first year results 2024 for all state boards. Access the official 2024 Intermediate (11th) result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest educational results for Intermediate 1st Year (Class
-                11th) examinations across major state boards. Official mirrors and portal links updated for the 2024
-                session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2024 Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2024 Intermediate Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Intermediate Hub</h3>
+        <h3>National Intermediate Hub</h3>
                     <p>Primary server for 2024 Intermediate 1st year results latest session data.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -121,10 +91,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

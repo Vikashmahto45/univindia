@@ -9,33 +9,6 @@ $meta_keywords = "admit card neet 2022 download, neet ug hall ticket 2022 downlo
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Card NEET 2022 Download - NTA Medical Entrance Exam Archive | Univindia.online</div>
     <h2 class='sr-title'>Admit Card NEET 2022 Download - NTA Medical Entrance Exam Archive | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Admit Card NEET 2022 Download - NTA Medical Entrance Exam Archive | Univindia.online"; 
-$meta_description = "Download Admit Card NEET 2022. Get the direct link for NTA National Eligibility Entrance Test (NEET UG) 2022 examination hall tickets at neet.nta.nic.in."; 
-$meta_keywords = "admit card neet 2022 download, neet ug hall ticket 2022 download, neet.nta.nic.in login 2022, medical entrance exam date 2022 download, neet call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Admit Card NEET 2022 Download - NTA Medical Entrance Exam Archive | Univindia.online";
-$meta_description = "Download Admit Card NEET 2022. Get the direct link for NTA National Eligibility Entrance Test (NEET UG) 2022 examination hall tickets at neet.nta.nic.in.";
-$meta_keywords = "admit card neet 2022 download, neet ug hall ticket 2022 download, neet.nta.nic.in login 2022, medical entrance exam date 2022 download, neet call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Admit Card NEET 2022: Download NTA Medical Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>NEET 2022 Archive:</strong> The National Testing Agency (NTA) conducted the National Eligibility cum Entrance Test (NEET UG) for undergraduate medical admissions in 2022. Candidates looking for old hall tickets or merit records for the 2022 session can access the official archive portal at neet.nta.nic.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Medical News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

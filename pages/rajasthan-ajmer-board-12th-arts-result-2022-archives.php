@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan ajmer board 12th arts result 2022 - Official RBSE 12th Arts Hub</div>
     <h2 class='sr-title'>rajasthan ajmer board 12th arts result 2022 - Official RBSE 12th Arts Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rajasthan ajmer board 12th arts result 2022 - Official RBSE 12th Arts Hub"; 
-$meta_description = "Check Rajasthan Ajmer Board 12th Arts result 2022 on rajasthan ajmer board 12th arts result 2022. Access official RBSE 2022 archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Rajasthan Board
-                of Secondary Education (RBSE, Ajmer) Class 12th (Arts) examination. Official Ajmer Board mirrors and
-                2022 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Arts Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Rajasthan Ajmer (RBSE 12th Arts) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Ajmer Arts Server 2022</h3>
+        <h3>RBSE Ajmer Arts Server 2022</h3>
                     <p>Primary server for Rajasthan Board Senior Secondary (Arts) examination result data for the 2022
                         session archive across Ajmer and all other districts.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -129,10 +99,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

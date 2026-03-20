@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 8th class result 2023 punjab board roll number link - Official PSEB Portal</div>
     <h2 class='sr-title'>8th class result 2023 punjab board roll number link - Official PSEB Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "8th class result 2023 punjab board roll number link - Official PSEB Portal"; 
-$meta_description = "Check 8th class result 2023 punjab board roll number link. Access the official Punjab School Education Board (PSEB) Middle Exam results on indiaresults for fast checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the official 2023 Middle Examination (8th Class) results for the
-                Punjab School Education Board (PSEB). Direct roll number gateways updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 8th Result</a>
-                <a href="#faq" class="btn btn-secondary">Board Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Punjab 2023 Middle Exam Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">📖</div>
-                    <h3>PSEB Main Server</h3>
+        <h3>PSEB Main Server</h3>
                     <p>Primary server for Punjab 8th class results 2023.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -115,10 +86,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

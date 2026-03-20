@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; results.indiaresults.com 2021 - Official National Archive Hub</div>
     <h2 class='sr-title'>results.indiaresults.com 2021 - Official National Archive Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "results.indiaresults.com 2021 - Official National Archive Hub"; 
-$meta_description = "Check results.indiaresults.com 2021 for all state and central board results. Access the official 2021 result gateway on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 national academic result archives. Dedicated mirrors and
-                high-speed links updated for the 2021 examination cycles.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 National Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🌐</div>
-                    <h3>National Server 2021</h3>
+        <h3>National Server 2021</h3>
                     <p>Primary server for all 2021 board and university results.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

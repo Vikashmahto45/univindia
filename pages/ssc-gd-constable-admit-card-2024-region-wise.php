@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC GD Constable Admit Card 2024: Region-wise Download Links @ ssc.gov.in";
-$page_description = "SSC GD Constable Admit Card 2024 Region-wise Download. Get direct links for NR, CR, WR, SR, ER, KKR, NER, MPR, and NWR. Physical test and Medical exam hall ticket status.";
-$page_keywords = "SSC GD Constable Admit Card 2024, SSC GD Region-wise Hall Ticket, Download SSC GD 2024 Admit Card CR NR WR, ssc.gov.in gd admit card 2024 region wise";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">SSC GD Admit Card 2024 Region-wise</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-map-marked-alt fa-2x text-warning"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Region Update:</h4>
                         <p class="mb-0">The Staff Selection Commission has activated the <strong>SSC GD 2024 Admit Card</strong> links for all regions including Central (CR), Northern (NR), and Western (WR). Access your regional portal below for direct download.</p>
                     
@@ -229,12 +192,6 @@ include '../includes/header.php';
     background-color: #333 !important;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

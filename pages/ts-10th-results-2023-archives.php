@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ts 10th results 2023 - Official Telangana State Secondary 2023 Archive</div>
     <h2 class='sr-title'>ts 10th results 2023 - Official Telangana State Secondary 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ts 10th results 2023 - Official Telangana State Secondary 2023 Archive"; 
-$meta_description = "Check ts 10th results 2023 for TSBIE Class 10 exams. Access the official 2023 Telangana State Secondary (SSC) archival portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session results for Telangana State Class 10th
-                (Secondary School Certificate). Official BSE Hyderabad mirrors and archival links updated for the 2023
-                batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Telangana Secondary Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Telangana Server 2023</h3>
+        <h3>BSE Telangana Server 2023</h3>
                     <p>Primary server for Telangana 10th result data for the 2023 academic session archive.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -121,10 +91,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

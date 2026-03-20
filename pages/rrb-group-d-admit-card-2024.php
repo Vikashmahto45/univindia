@@ -9,33 +9,6 @@ $meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online</div>
     <h2 class='sr-title'>RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online"; 
-$meta_description = "Download RRB Group D Admit Card 2024. Check your railway application status, exam date, shift timings, and download hall ticket from regional RRB websites."; 
-$meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb group d status, rrb exam city link, download rrb call letter, rrbcdg.gov.in admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RRB Group D Admit Card 2024 - Download Exam Date & Status | Univindia.online";
-$meta_description = "Download RRB Group D Admit Card 2024. Check your railway application status, exam date, shift timings, and download hall ticket from regional RRB websites.";
-$meta_keywords = "rrb group d admit card 2024, railway group d hall ticket, rrb group d status, rrb exam city link, download rrb call letter, rrbcdg.gov.in admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RRB Group D Admit Card 2024: Railway Exam Status & Download Hub</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Latest Update:</strong> The Railway Recruitment Board (RRB) is expected to announce the CEN RRC-01/2024 Group D exam dates soon. Regional status links for application acceptance will be live 15 days before the first phase of exams.
         </div>
@@ -126,13 +99,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Home Portal</a>
             <a href="results.php" class="hot-btn bg-red">Latest Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

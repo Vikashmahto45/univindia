@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 arts result 2022 - Official National Archive Gateway</div>
     <h2 class='sr-title'>class 12 arts result 2022 - Official National Archive Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "class 12 arts result 2022 - Official National Archive Gateway"; 
-$meta_description = "Check class 12 arts result 2022 for all major boards including RBSE, UP, and more. Access the official 2022 Senior Secondary Arts result hub on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 Senior Secondary (Class 12th) results for the Arts
-                stream across all major state and central boards. Direct links and mirrors updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Browse 2022 Arts Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Arts Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🎨</div>
-                    <h3>Arts Result Hub</h3>
+        <h3>Arts Result Hub</h3>
                     <p>Primary server for 2022 12th Arts results nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

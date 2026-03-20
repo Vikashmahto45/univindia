@@ -9,33 +9,6 @@ $meta_keywords = "ctet admit card 2022, cbse ctet hall ticket download, ctet.nic
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CTET Admit Card 2022 Download - CBSE Teacher Eligibility Test Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>CTET Admit Card 2022 Download - CBSE Teacher Eligibility Test Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CTET Admit Card 2022 Download - CBSE Teacher Eligibility Test Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download CTET Admit Card 2022. Get the direct link for CBSE Central Teacher Eligibility Test (CTET) December 2022 session hall tickets at ctet.nic.in."; 
-$meta_keywords = "ctet admit card 2022, cbse ctet hall ticket download, ctet.nic.in 2022 admit card link, ctet december 2022 admit card, teacher eligibility test hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CTET Admit Card 2022 Download - CBSE Teacher Eligibility Test Hall Ticket Link | Univindia.online";
-$meta_description = "Download CTET Admit Card 2022. Get the direct link for CBSE Central Teacher Eligibility Test (CTET) December 2022 session hall tickets at ctet.nic.in.";
-$meta_keywords = "ctet admit card 2022, cbse ctet hall ticket download, ctet.nic.in 2022 admit card link, ctet december 2022 admit card, teacher eligibility test hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CTET Admit Card 2022: Download CBSE Central Teacher Eligibility Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>CTET 2022 Archive:</strong> The Central Board of Secondary Education (CBSE) conducted the CTET December 2022 session in a Computer Based Test (CBT) mode. Candidates looking for old hall tickets or qualifying records for the 2022 session can access the official archive link at ctet.nic.in or DigiLocker.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Get Qualifying Certificates</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

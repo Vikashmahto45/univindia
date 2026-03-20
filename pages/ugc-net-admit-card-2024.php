@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in</div>
     <h2 class='sr-title'>UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "UGC NET Admit Card 2024: NTA NET JRF June/December Hall Ticket @ ugcnet.nta.nic.in";
-$page_description = "Download UGC NET Admit Card 2024 for June and December sessions. Get direct link for NTA NET JRF Hall Ticket, Exam Schedule, and Subject Wise shifts. 800+ words of latest updates.";
-$page_keywords = "UGC NET Admit Card 2024, NTA NET JRF Hall Ticket Download, UGC NET December Hall Ticket, UGC NET June Admit Card, ugcnet.nta.nic.in call letter";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">UGC NET Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-primary bg-dark border-primary text-primary rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-graduation-cap me-2"></i> <strong>Current Cycle Update:</strong> The National Testing Agency (NTA) conducts the UGC NET exam twice a year. The 2024 June session admit cards were released in a phased manner followed by the December cycle.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>UGC NET Admit Card 2024</strong> is the primary document required for Assistant Professorship and Junior Research Fellowship (JRF) aspirants in Indian Universities. As a national-level eligibility test conducted for 83 subjects, the UGC NET is a benchmark for academic excellence in Humanities, Social Sciences, and Electronic Science.
                 </p>
@@ -157,57 +122,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard me-2"></i> Teaching and Research Exams</h3>
                 <div class="row g-3">
-                    <?php
-                    $research = [
-                        'ignou-admit-card.php' => 'IGNOU Hall Ticket',
-                        'ctet-admit-card.php' => 'CTET Paper 1/2 Admit Card',
-                        'set-admit-card.php' => 'SET Exam Result & Hall Ticket',
-                        'gate-admit-card.php' => 'GATE Hall Ticket 2025'
-                    ];
-                    foreach ($research as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="ugc-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(20, 20, 20, 0.98);
-    backdrop-filter: blur(10px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-}
-.ugc-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-.ugc-link-card:hover {
-    background: rgba(13, 202, 240, 0.12);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

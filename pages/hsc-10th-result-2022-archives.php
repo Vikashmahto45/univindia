@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hsc 10th result 2022 - Official National 2022 Archive</div>
     <h2 class='sr-title'>hsc 10th result 2022 - Official National 2022 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "hsc 10th result 2022 - Official National 2022 Archive"; 
-$meta_description = "Check hsc 10th result 2022 for all state boards. Access the official national Class 10 (HSC) archival result portal and mirrors on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Secondary School Certificate (HSC/Class
-                10th) examination results across India for the 2022 academic session. Official board mirrors and
-                archival result links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 HSC Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 10th (HSC) 2022 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>HSC Board Server 2022</h3>
+        <h3>HSC Board Server 2022</h3>
                     <p>Primary server for accessing 2022 Class 10/HSC results for all participating state boards and
                         educational councils nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

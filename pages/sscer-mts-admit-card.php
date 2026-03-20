@@ -9,33 +9,6 @@ $meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online</div>
     <h2 class='sr-title'>SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online"; 
-$meta_description = "Download SSCER MTS Admit Card 2024 for Eastern Region. Check SSC Multi-Tasking Staff & Havaldar application status, exam date, and center list at sscer.org."; 
-$meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket, sscer.org mts status, ssc mts admit card kolkata, ssc havladar admit card eastern region"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSCER MTS Admit Card 2024 Download - Eastern Region Havaldar Status | Univindia.online";
-$meta_description = "Download SSCER MTS Admit Card 2024 for Eastern Region. Check SSC Multi-Tasking Staff & Havaldar application status, exam date, and center list at sscer.org.";
-$meta_keywords = "sscer mts admit card 2024, ssc eastern region mts hall ticket, sscer.org mts status, ssc mts admit card kolkata, ssc havladar admit card eastern region";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSCER MTS Admit Card 2024: Eastern Region Multi-Tasking Staff Status</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSCER Alert:</strong> The Staff Selection Commission Eastern Region (SSCER) has started releasing the application status and roll numbers for the Multi-Tasking (Non-Technical) Staff and Havaldar (CBIC & CBN) Examination 2024. Confirm your exam slot now at sscer.org.
         </div>
@@ -124,13 +97,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Browse Call Letters</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; apsu result 2023 2nd year - Official APSU Rewa 2023 Archive</div>
     <h2 class='sr-title'>apsu result 2023 2nd year - Official APSU Rewa 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "apsu result 2023 2nd year - Official APSU Rewa 2023 Archive"; 
-$meta_description = "Check Awadhesh Pratap Singh University 2nd year result 2023 on apsu result 2023 2nd year. Access official APSU Rewa archival results on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Awadhesh Pratap
-                Singh University (APSU), Rewa for Undergraduate (UG) 2nd Year degree examinations. Official APSU mirrors
-                and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 APSU Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 APSU (Rewa) Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>APSU University Server 2023</h3>
+        <h3>APSU University Server 2023</h3>
                     <p>Primary server for Awadhesh Pratap Singh University (APSU) Rewa UG/PG result data for the 2023
                         session archive for students across Rewa and Satna.</p>
                     <a href="https://madhya-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -129,10 +99,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bsc 2 year result 2021 - Official National 2021 Archive</div>
     <h2 class='sr-title'>bsc 2 year result 2021 - Official National 2021 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bsc 2 year result 2021 - Official National 2021 Archive"; 
-$meta_description = "Check bsc 2 year result 2021 for all state universities. Access the official national B.Sc 2nd year archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Bachelor of Science (B.Sc) 2nd Year degree
-                examination results across India for the 2021 academic session. Official university mirrors and 2021
-                archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 B.Sc Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National B.Sc 2nd Year 2021 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Technical University Server 2021</h3>
+        <h3>Technical University Server 2021</h3>
                     <p>Primary server for accessing 2021 B.Sc 2nd year degree results for all participating state
                         universities and educational councils nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -129,10 +99,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

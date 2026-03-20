@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in</div>
     <h2 class='sr-title'>RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RRB NTPC Admit Card 2025: Exam Date, Hall Ticket Download Link @ indianrailways.gov.in";
-$page_description = "Download RRB NTPC Admit Card 2025. Get direct link for RRB NTPC Hall Ticket, Exam Schedule, City Intimation, and Step-by-Step Download Guide. 800+ words of detailed info.";
-$page_keywords = "RRB NTPC Admit Card 2025, RRB NTPC Hall Ticket, Download RRB NTPC Admit Card, Railway NTPC Exam Date, RRB NTPC City Intimation";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">RRB NTPC Admit Card</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4">
-                <i class="fas fa-bullhorn me-2"></i> <strong>Latest Update:</strong> The Railway Recruitment Board (RRB) is expected to release the NTPC CEN 01/2024 Exam City Intimation and Admit Cards shortly. Bookmark this page for the fastest updates!
-            </div>
-
-            <!-- 800+ Word High Quality Content Section -->
+        <!-- 800+ Word High Quality Content Section -->
             <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The Railway Recruitment Board (RRB) Non-Technical Popular Categories (NTPC) recruitment is one of the most anticipated competitive exams in India. Aspiring candidates who have filled out the application form for the various graduate and undergraduate level posts must be well-informed about the periodic updates regarding the <strong>RRB NTPC Admit Card 2025</strong>.
@@ -191,59 +156,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-link me-2"></i> More Admit Cards & Updates</h3>
                 <div class="row g-3">
-                    <?php
-                    $admit_keywords = ['neet-admit-card-2024.php' => 'NEET Admit Card 2024', 'ssc-gd-admit-card.php' => 'SSC GD Admit Card', 'ugc-net-admit-card-2024.php' => 'UGC NET Admit Card', 'rpf-admmit-card.php' => 'RPF Admit Card'];
-                    foreach ($admit_keywords as $url => $kw) {
-                        echo '<div class="col-md-3 col-sm-6">
-                                <a href="'.$url.'" class="related-link-card d-block p-3 rounded-3 text-center border border-secondary text-decoration-none hover-glow">
-                                    <span class="text-light-gray">'.$kw.'</span>
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.8);
-    backdrop-filter: blur(10px);
-}
-.text-light-gray {
-    color: #e0e0e0;
-}
-.hover-lift:hover {
-    transform: translateY(-3px);
-    transition: transform 0.3s ease;
-}
-.hover-glow:hover {
-    border-color: #0dcaf0 !important;
-    box-shadow: 0 0 15px rgba(13, 202, 240, 0.3);
-    transition: all 0.3s ease;
-}
-.related-link-card {
-    background: rgba(255, 255, 255, 0.05);
-}
-.content-section h2 {
-    font-weight: 700;
-    letter-spacing: 0.5px;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

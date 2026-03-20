@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresults.com 2021 ts - Official Telangana Result Archive</div>
     <h2 class='sr-title'>indiaresults.com 2021 ts - Official Telangana Result Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "indiaresults.com 2021 ts - Official Telangana Result Archive"; 
-$meta_description = "Check indiaresults.com 2021 ts for Telangana board and university results. Access the official 2021 TS result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic result archives for Telangana. Official board
-                mirrors and high-speed links updated for the 2021 sessions.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Telangana 2021 Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>TS National Hub 2021</h3>
+        <h3>TS National Hub 2021</h3>
                     <p>Primary server for all 2021 TS academic data.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -113,10 +84,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

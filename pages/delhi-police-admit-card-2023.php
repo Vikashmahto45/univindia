@@ -9,33 +9,6 @@ $meta_keywords = "delhi police admit card 2023 download, ssc delhi police hall t
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online"; 
-$meta_description = "Download Delhi Police Admit Card 2023. Get the direct link for SSC Delhi Police Constable (Driver) and Head Constable AWO/TPO hall tickets at ssc.nic.in."; 
-$meta_keywords = "delhi police admit card 2023 download, ssc delhi police hall ticket 2023 download, ssc.nic.in delhi police login, delhi police constable exam date 2023, ssc regional call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Delhi Police Admit Card 2023 Download - Constable Driver & Head Constable Hall Ticket | Univindia.online";
-$meta_description = "Download Delhi Police Admit Card 2023. Get the direct link for SSC Delhi Police Constable (Driver) and Head Constable AWO/TPO hall tickets at ssc.nic.in.";
-$meta_keywords = "delhi police admit card 2023 download, ssc delhi police hall ticket 2023 download, ssc.nic.in delhi police login, delhi police constable exam date 2023, ssc regional call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Delhi Police Admit Card 2023: Download SSC Constable & Head Constable Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Delhi Police 2023 Archive:</strong> The Staff Selection Commission (SSC) conducted various recruitment exams for Delhi Police in 2023, including Constable (Executive), Driver, and Head Constable (AWO/TPO/Ministerial). Candidates looking for old hall tickets or recruitment records for the 2023 session can access the official regional SSC portals.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Police Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 10th board result date - Official Rajasthan BSER Notification Hub</div>
     <h2 class='sr-title'>rbse 10th board result date - Official Rajasthan BSER Notification Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rbse 10th board result date - Official Rajasthan BSER Notification Hub"; 
-$meta_description = "Check rbse 10th board result date for the current academic session. Access the official Rajasthan Board (BSER) result date alerts on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Get authentic information about the Rajasthan Board 10th result
-                declaration date. Official BSER Ajmer notifications and update alerts for the current session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Get Date Alerts</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan Result Date Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Notification Server</h3>
+        <h3>RBSE Notification Server</h3>
                     <p>Primary server for official BSER result dates and notification alerts.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -117,10 +88,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

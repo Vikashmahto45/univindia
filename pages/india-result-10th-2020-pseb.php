@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2020 pseb - Official Punjab Board Archive</div>
     <h2 class='sr-title'>india result 10th 2020 pseb - Official Punjab Board Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 10th 2020 pseb - Official Punjab Board Archive"; 
-$meta_description = "Check india result 10th 2020 pseb for Matriculation results. Access the official Punjab School Education Board (PSEB) 2020 archive on indiaresults for fast checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the official 2020 Matriculation (10th) results for the Punjab
-                School Education Board (PSEB).</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2020 PSEB Portal</a>
-                <a href="#faq" class="btn btn-secondary">Information Hub</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">PSEB 2020 Archival Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🌾</div>
-                    <h3>PSEB Matric Server</h3>
+        <h3>PSEB Matric Server</h3>
                     <p>Official server for Punjab 10th results 2020.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server A</a>
                 </div>
@@ -111,10 +82,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

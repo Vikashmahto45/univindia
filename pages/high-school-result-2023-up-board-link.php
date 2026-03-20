@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; High School Result 2023 Up Board Link</div>
     <h2 class='sr-title'>High School Result 2023 Up Board Link</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "High School Result 2023 Up Board Link"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="content-wrapper">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                
-            
-        <div class="row">
-            <div class="col-md-12">
-                <div class="alert alert-info">
-                    <strong>UP Board High School Result 2023:</strong> The Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) has declared the 2023 Class 10th (High School) examination results. Check your result using the direct link provided below.
-                </div>
-                <p>
+        <p>
                     UP Board is one of the largest examining bodies in the world. The High School exams for 2023 were conducted successfully, and students can now access their scores online.
                 </p>
                 <h3>Check UPMSP High School Result 2023:</h3>
@@ -69,12 +47,6 @@ $meta_keywords = "";
                 <p>
                     The online result is for immediate information and cannot be treated as an original mark sheet. Students should collect their original documents from their respective schools after some days.
                 </p>
-            
-    
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

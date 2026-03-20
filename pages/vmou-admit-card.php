@@ -9,33 +9,6 @@ $meta_keywords = "vmou admit card 2024, vmou kota hall ticket download, vmou.ac.
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; VMOU Admit Card 2024 Download - Vardhaman Mahaveer Open University Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>VMOU Admit Card 2024 Download - Vardhaman Mahaveer Open University Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "VMOU Admit Card 2024 Download - Vardhaman Mahaveer Open University Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download VMOU Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) UG, PG, and Diploma examination hall tickets at vmou.ac.in."; 
-$meta_keywords = "vmou admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, vmou result 2024, vmou kota exam date 2024"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "VMOU Admit Card 2024 Download - Vardhaman Mahaveer Open University Exam Hall Ticket | Univindia.online";
-$meta_description = "Download VMOU Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) UG, PG, and Diploma examination hall tickets at vmou.ac.in.";
-$meta_keywords = "vmou admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, vmou result 2024, vmou kota exam date 2024";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">VMOU Admit Card 2024: Download Vardhaman Mahaveer Open University Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>VMOU Kota Update:</strong> The Examination Department of Vardhaman Mahaveer Open University (VMOU), Kota, has activated the portal for downloading e-Admit Cards for the upcoming Term End Examinations (TEE) June/December 2024. Candidates can log in with their Scholar Number at vmou.ac.in.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check VMOU Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

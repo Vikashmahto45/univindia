@@ -9,33 +9,6 @@ $meta_keywords = "rrb ntpc exam 2025 admit card download, railway ntpc hall tick
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Exam 2025 Admit Card Download - Railway Graduate Level Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>RRB NTPC Exam 2025 Admit Card Download - Railway Graduate Level Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB NTPC Exam 2025 Admit Card Download - Railway Graduate Level Hall Ticket | Univindia.online"; 
-$meta_description = "Download RRB NTPC Exam 2025 Admit Card. Get the direct link for Railway Graduate and Undergraduate NTPC recruitment examination hall tickets at rrbapply.gov.in."; 
-$meta_keywords = "rrb ntpc exam 2025 admit card download, railway ntpc hall ticket 2025 download, rrbapply.gov.in ntpc login 2025, railway recruitment exam date 2025 download, ntpc call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RRB NTPC Exam 2025 Admit Card Download - Railway Graduate Level Hall Ticket | Univindia.online";
-$meta_description = "Download RRB NTPC Exam 2025 Admit Card. Get the direct link for Railway Graduate and Undergraduate NTPC recruitment examination hall tickets at rrbapply.gov.in.";
-$meta_keywords = "rrb ntpc exam 2025 admit card download, railway ntpc hall ticket 2025 download, rrbapply.gov.in ntpc login 2025, railway recruitment exam date 2025 download, ntpc call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RRB NTPC Exam 2025 Admit Card: Download Railway Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>RRB NTPC 2025 Update:</strong> The Railway Recruitment Boards (RRB) are expected to activate the portal for downloading exam admit cards and City Intimation Slips for the Non-Technical Popular Categories (NTPC) Graduate and Undergraduate levels for the 2025 session. Candidates can log in with their registration number at rrbapply.gov.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Railway Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

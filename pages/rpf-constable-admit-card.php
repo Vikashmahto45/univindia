@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in</div>
     <h2 class='sr-title'>RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RPF Constable Admit Card 2024-25: Railway Protection Force Hall Ticket Download @ rpf.indianrailways.gov.in";
-$page_description = "Download RPF Constable Admit Card 2024-25. Get direct link for Railway Protection Force Hall Ticket, Exam Schedule, and CBT stage details. 800+ words of in-depth guide.";
-$page_keywords = "RPF Constable Admit Card 2024, RPF Constable Hall Ticket Download, Railway Protection Force Admit Card, RPF CBT 1 Admit Card, rpf.indianrailways.gov.in admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">RPF Constable Admit Card</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-shield-alt me-2"></i> <strong>Important:</strong> The Railway Protection Force (RPF) Constable recruitment (CEN 02/2024) involves a Computer Based Test (CBT), Physical Efficiency Test (PET), and Document Verification. The CBT admit card is mandatory for the first stage.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>RPF Constable Admit Card 2024-25</strong> is the gateway for thousands of candidates aspiring to serve in the Railway Protection Force. As a key security wing of the Indian Railways, the RPF offers a prestigious and challenging career path. The release of the hall ticket marks the final phase of preparation for the recruitment examination.
                 </p>
@@ -167,57 +132,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-train me-2"></i> Railway Recruitment Hall Tickets</h3>
                 <div class="row g-3">
-                    <?php
-                    $railway = [
-                        'rrb-group-d-admit-card.php' => 'RRB Group D Hall Ticket',
-                        'rpf-si-admit-card.php' => 'RPF SI Admit Card',
-                        'rrb-je-admit-card.php' => 'RRB Junior Engineer Call Letter',
-                        'rrc-admit-card.php' => 'RRC Railway Admit Card'
-                    ];
-                    foreach ($railway as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="rpf-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(20, 20, 20, 0.98);
-    backdrop-filter: blur(10px);
-}
-.text-light-gray {
-    color: #e0e0e0;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #333 100%);
-}
-.rpf-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-.rpf-link-card:hover {
-    background: rgba(13, 202, 240, 0.15);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-5px) scale(1.05);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC Stenographer Admit Card 2024-25: Download Grade C & D Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC Stenographer Admit Card 2024-25 for Grade C and D positions. Get direct link for SSC Steno Hall Ticket, Skill Test Date, and Region Status. 800+ words guide.";
-$page_keywords = "SSC Stenographer Admit Card 2024, SSC Steno Grade C D Hall Ticket, ssc.gov.in steno admit card, SSC Stenographer Skill Test Date, SSC Steno Region Status";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">SSC Stenographer Admit Card</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-keyboard me-2"></i> <strong>Recruitment Update:</strong> The Staff Selection Commission (SSC) has released the <strong>Stenographer 2024 CBE Admit Card</strong> status. Candidates can check their exam date and city at <strong>ssc.gov.in</strong>. Skill Test hall tickets will be issued separately for qualified candidates.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>SSC Stenographer Admit Card 2024</strong> is the vital document for aspirants aiming for specialized clerical and secretarial roles in the Government of India. Unlike other SSC exams, the Stenographer recruitment places a heavy emphasis on shorthand skills, and therefore, the <strong>Steno Hall Ticket</strong> is issued in two phases: first for the Computer Based Examination (CBE) and subsequently for the Skill Test in Stenography.
                 </p>
@@ -158,57 +123,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-keyboard me-2"></i> Shorthand & Skill Test Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $steno_links = [
-                        'ssc-steno-skill-test-pattern.php' => 'Steno Typing Speed Logic',
-                        'ssc-steno-previous-year-result.php' => 'Steno Grade C/D Cutoff',
-                        'ssc-steno-salary-allowance.php' => 'Stenographer Pay Matrix',
-                        'ssc-steno-job-profile.php' => 'Steno Grade C Job Responsibilities'
-                    ];
-                    foreach ($steno_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="steno-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.steno-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.steno-link-card:hover {
-    background: rgba(255, 193, 7, 0.12);
-    border-color: #ffc107 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

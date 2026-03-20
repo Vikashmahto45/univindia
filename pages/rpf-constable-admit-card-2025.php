@@ -9,33 +9,6 @@ $meta_keywords = "rpf constable admit card 2025 download, rpf hall ticket 2025 d
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online"; 
-$meta_description = "Download RPF Constable Admit Card 2025. Get the direct link for Railway Protection Force (RPF) Constable recruitment examination hall tickets at rpf.indianrailways.gov.in."; 
-$meta_keywords = "rpf constable admit card 2025 download, rpf hall ticket 2025 download, rpf.indianrailways.gov.in login 2025, railway police exam date 2025 download, constable recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RPF Constable Admit Card 2025 Download - Railway Protection Force Hall Ticket | Univindia.online";
-$meta_description = "Download RPF Constable Admit Card 2025. Get the direct link for Railway Protection Force (RPF) Constable recruitment examination hall tickets at rpf.indianrailways.gov.in.";
-$meta_keywords = "rpf constable admit card 2025 download, rpf hall ticket 2025 download, rpf.indianrailways.gov.in login 2025, railway police exam date 2025 download, constable recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RPF Constable Admit Card 2025: Download Railway Protection Force Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>RPF 2025 Update:</strong> The Railway Recruitment Boards (RRB) and the Ministry of Railways are expected to release the admit cards for the RPF Constable (CEN 02/2024) recruitment examinations in 2025. Candidates can log in with their registration number at rrbapply.gov.in or regional RRB websites.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Railway Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

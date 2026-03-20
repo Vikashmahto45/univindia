@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC CHSL Tier 1 Admit Card 2024: Download LDC/JSA/DEO Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC CHSL Tier 1 Admit Card 2024. Get region-wise links for Combined Higher Secondary Level Tier I Exam. LDC, JSA & DEO Hall Ticket download instructions.";
-$page_keywords = "SSC CHSL Tier 1 Admit Card 2024, SSC CHSL Tier I Hall Ticket, Download CHSL Tier 1 2024 Admit Card, ssc.gov.in chsl admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">SSC CHSL Tier 1 Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-exclamation-triangle fa-2x text-warning"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Important Instruction:</h4>
                         <p class="mb-0">The <strong>SSC CHSL Tier 1 Admit Card 2024</strong> is now live on regional websites. Candidates are advised to download the call letter well in advance and check the reporting time to avoid last-minute entry issues.</p>
                     
@@ -204,12 +167,6 @@ include '../includes/header.php';
     color: #ffd700;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

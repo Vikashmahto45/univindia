@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; apsu result 2023 - Official Awadhesh Pratap Singh University Hub</div>
     <h2 class='sr-title'>apsu result 2023 - Official Awadhesh Pratap Singh University Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "apsu result 2023 - Official Awadhesh Pratap Singh University Hub"; 
-$meta_description = "Check apsu result 2023 for all UG/PG semester exams. Access the official Awadhesh Pratap Singh University (APSU) Rewa result portal and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session results for Awadhesh Pratap Singh
-                University (APSU) Rewa. Official university mirrors for UG, PG, and Professional degree courses updated
-                for the 2023 batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open APSU 2023 Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified APSU Rewa 2023 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>APSU Examination Server</h3>
+        <h3>APSU Examination Server</h3>
                     <p>Primary server for APSU Rewa degree results (BA, B.Sc, B.Com, MA, M.Sc) across all affiliated
                         colleges for 2023.</p>
                     <a href="https://madhya-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

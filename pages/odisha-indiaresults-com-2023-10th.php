@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub</div>
     <h2 class='sr-title'>odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "odisha.indiaresults.com 2023 10th - Official BSE Odisha Result Hub"; 
-$meta_description = "Check odisha.indiaresults.com 2023 10th for BSE Odisha Matric examinations. Access the official 2023 Odisha 10th result link on indiaresults for fast checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 Matriculation (Class 10th) results for Odisha. Official
-                BSE mirrors and high-speed result links updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2023 10th Result</a>
-                <a href="#faq" class="btn btn-secondary">System Info</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Official Odisha 2023 Matric Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Main Server 2023</h3>
+        <h3>BSE Main Server 2023</h3>
                     <p>Primary server for Odisha 10th class results 2023.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

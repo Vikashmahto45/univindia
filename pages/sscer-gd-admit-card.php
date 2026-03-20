@@ -9,33 +9,6 @@ $meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, s
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online</div>
     <h2 class='sr-title'>SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online"; 
-$meta_description = "Download SSCER GD Admit Card 2024 for Eastern Region. Check SSC GD Constable application status, PET/PST date, and exam center list for West Bengal, Odisha, Jharkhand at sscer.org."; 
-$meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, sscer.org gd status, ssc gd admit card kolkata, ssc gd constable admit card eastern region"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSCER GD Admit Card 2024 Download - Eastern Region Constable Status | Univindia.online";
-$meta_description = "Download SSCER GD Admit Card 2024 for Eastern Region. Check SSC GD Constable application status, PET/PST date, and exam center list for West Bengal, Odisha, Jharkhand at sscer.org.";
-$meta_keywords = "sscer gd admit card 2024, ssc eastern region gd hall ticket, sscer.org gd status, ssc gd admit card kolkata, ssc gd constable admit card eastern region";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSCER GD Admit Card 2024: Eastern Region Constable GD Status & Link</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Recruitment News:</strong> The Staff Selection Commission Eastern Region (SSCER) has activated the 'Application Status' window for candidates appearing in the GD Constable (BSF, CISF, CRPF, SSB, ITBP, AR, SSF) 2024 Exam. Check your roll number and city now.
         </div>
@@ -120,13 +93,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Browse Call Letters</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

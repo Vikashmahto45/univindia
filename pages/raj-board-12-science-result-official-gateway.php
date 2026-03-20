@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; raj board 12 science result - Official BSER Senior Secondary Gateway</div>
     <h2 class='sr-title'>raj board 12 science result - Official BSER Senior Secondary Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "raj board 12 science result - Official BSER Senior Secondary Gateway"; 
-$meta_description = "Check raj board 12 science result for BSER Senior Secondary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized destination for the Senior Secondary (Science) results
-                for Rajasthan. Official BSER Ajmer mirrors and portal links updated for the latest academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Science Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Rajasthan Science Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSER Main Server</h3>
+        <h3>BSER Main Server</h3>
                     <p>Primary server for Rajasthan 12th Science result latest session data archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -122,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

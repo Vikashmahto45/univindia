@@ -9,33 +9,6 @@ $meta_keywords = "jnvu admit card 2024, jnvu jodhpur hall ticket download, jnvue
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JNVU Admit Card 2024 Download - Jai Narain Vyas University Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>JNVU Admit Card 2024 Download - Jai Narain Vyas University Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JNVU Admit Card 2024 Download - Jai Narain Vyas University Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download JNVU Admit Card 2024. Get the direct link for Jai Narain Vyas University (JNVU Jodhpur) UG and PG examination hall tickets at jnvuexam.in."; 
-$meta_keywords = "jnvu admit card 2024, jnvu jodhpur hall ticket download, jnvuexam.in admit card login, jnvu result 2024, jnvu exam date 2024"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "JNVU Admit Card 2024 Download - Jai Narain Vyas University Exam Hall Ticket | Univindia.online";
-$meta_description = "Download JNVU Admit Card 2024. Get the direct link for Jai Narain Vyas University (JNVU Jodhpur) UG and PG examination hall tickets at jnvuexam.in.";
-$meta_keywords = "jnvu admit card 2024, jnvu jodhpur hall ticket download, jnvuexam.in admit card login, jnvu result 2024, jnvu exam date 2024";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">JNVU Admit Card 2024: Download Jai Narain Vyas University Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>JNVU Jodhpur Update:</strong> The Examination Department of Jai Narain Vyas University (JNVU) has activated the portal for downloading e-Admit Cards for the upcoming BA, B.Sc, B.Com, MA, M.Sc, M.Com (Annual and Semester scheme) 2024 examinations. Candidates can log in with their Roll Number or Form Number at jnvuexam.in.
         </div>
@@ -109,13 +82,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check JNVU Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; pseb 8th class result 2023 date - Official PSEB 8th Result Hub</div>
     <h2 class='sr-title'>pseb 8th class result 2023 date - Official PSEB 8th Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "pseb 8th class result 2023 date - Official PSEB 8th Result Hub"; 
-$meta_description = "Find PSEB 8th class result 2023 date and updates on pseb 8th class result 2023 date. Access official Punjab Board Middle Result 2023 archives and links."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Punjab School Education Board (PSEB) Class
-                8th (Middle School) examination result dates and scorecard releases for the 2023 session. Official PSEB
-                mirrors and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 8th Result Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Punjab (PSEB 8th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>PSEB Middle Server 2023</h3>
+        <h3>PSEB Middle Server 2023</h3>
                     <p>Primary server for Punjab Board Class 8th (Middle) examination result data for the 2023 session
                         archive across Mohali, Ludhiana, and Amritsar districts.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

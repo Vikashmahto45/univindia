@@ -9,33 +9,6 @@ $meta_keywords = "cat admit card download, iim cat hall ticket download, iimcat.
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CAT Admit Card Download - IIM Common Admission Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CAT Admit Card Download - IIM Common Admission Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CAT Admit Card Download - IIM Common Admission Test Hall Ticket | Univindia.online"; 
-$meta_description = "Download CAT Admit Card. Get the direct link for IIM Common Admission Test (CAT) MBA entrance examination hall tickets at iimcat.ac.in."; 
-$meta_keywords = "cat admit card download, iim cat hall ticket download, iimcat.ac.in login admit card, cat exam date 2024 download, mba entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CAT Admit Card Download - IIM Common Admission Test Hall Ticket | Univindia.online";
-$meta_description = "Download CAT Admit Card. Get the direct link for IIM Common Admission Test (CAT) MBA entrance examination hall tickets at iimcat.ac.in.";
-$meta_keywords = "cat admit card download, iim cat hall ticket download, iimcat.ac.in login admit card, cat exam date 2024 download, mba entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CAT Admit Card: Download IIM Common Admission Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>IIM CAT Update:</strong> The Indian Institutes of Management (IIMs) have activated the portal for downloading exam admit cards for the Common Admission Test (CAT). Candidates seeking admission to prestigious MBA/PGP programs can log in with their User ID at the official portal: iimcat.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search MBA Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

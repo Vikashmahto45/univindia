@@ -9,33 +9,6 @@ $meta_keywords = "jee main admit card 2025 download, nta jee main hall ticket 20
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online"; 
-$meta_description = "Download JEE Main Admit Card 2025. Get the direct link for NTA JEE Main Session 1 and Session 2 examination hall tickets at jeemain.nta.ac.in."; 
-$meta_keywords = "jee main admit card 2025 download, nta jee main hall ticket 2025 download, jeemain.nta.ac.in login 2025, jee main exam date 2025 download, engineering entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "JEE Main Admit Card 2025 Download - NTA Joint Entrance Examination Hall Ticket | Univindia.online";
-$meta_description = "Download JEE Main Admit Card 2025. Get the direct link for NTA JEE Main Session 1 and Session 2 examination hall tickets at jeemain.nta.ac.in.";
-$meta_keywords = "jee main admit card 2025 download, nta jee main hall ticket 2025 download, jeemain.nta.ac.in login 2025, jee main exam date 2025 download, engineering entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">JEE Main Admit Card 2025: Download NTA Joint Entrance Examination Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>JEE Main 2025 Prediction:</strong> The National Testing Agency (NTA) is expected to activate the portal for downloading exam admit cards for the Joint Entrance Examination (JEE Main) 2025 for both Session 1 (January) and Session 2 (April). Candidates can log in with their application number at jeemain.nta.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Tech Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

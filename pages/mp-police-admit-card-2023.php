@@ -9,33 +9,6 @@ $meta_keywords = "mp police admit card 2023 download, mp esb police hall ticket 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MP Police Admit Card 2023 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>MP Police Admit Card 2023 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MP Police Admit Card 2023 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online"; 
-$meta_description = "Download MP Police Admit Card 2023. Get the direct link for Madhya Pradesh Police Constable recruitment examination hall tickets at esb.mp.gov.in."; 
-$meta_keywords = "mp police admit card 2023 download, mp esb police hall ticket 2023 download, esb.mp.gov.in police login 2023, mp police exam date 2023 download, police recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "MP Police Admit Card 2023 Download - Madhya Pradesh Police Constable Hall Ticket | Univindia.online";
-$meta_description = "Download MP Police Admit Card 2023. Get the direct link for Madhya Pradesh Police Constable recruitment examination hall tickets at esb.mp.gov.in.";
-$meta_keywords = "mp police admit card 2023 download, mp esb police hall ticket 2023 download, esb.mp.gov.in police login 2023, mp police exam date 2023 download, police recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">MP Police Admit Card 2023: Download Madhya Pradesh Constable Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MP Police 2023 Update:</strong> The Madhya Pradesh Employees Selection Board (MPESB) conducted the Constable Recruitment Test 2023 in August-September 2023. Candidates looking for old hall tickets or physical fitness test (PPT) results for the 2023 session can access the official portal archive at esb.mp.gov.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Police Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "mp online admit card download, mponline.gov.in hall ticket dow
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MP Online Admit Card Download - Madhya Pradesh Recruitment Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>MP Online Admit Card Download - Madhya Pradesh Recruitment Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MP Online Admit Card Download - Madhya Pradesh Recruitment Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download MP Online Admit Card. Get the direct link for MPPEB, MPPSC, and other Madhya Pradesh recruitment examination hall tickets at mponline.gov.in."; 
-$meta_keywords = "mp online admit card download, mponline.gov.in hall ticket download, mp police admit card login, mp govt recruitment exam date 2024 download, madhya pradesh call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "MP Online Admit Card Download - Madhya Pradesh Recruitment Hall Ticket Link | Univindia.online";
-$meta_description = "Download MP Online Admit Card. Get the direct link for MPPEB, MPPSC, and other Madhya Pradesh recruitment examination hall tickets at mponline.gov.in.";
-$meta_keywords = "mp online admit card download, mponline.gov.in hall ticket download, mp police admit card login, mp govt recruitment exam date 2024 download, madhya pradesh call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">MP Online Admit Card: Download Madhya Pradesh State Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MP Online Official:</strong> MP Online is the common service portal for various departments of Madhya Pradesh. Candidates appearing for Patwari, Police, Teachers, or MPPSC exams can download their admit cards through the centralized portal at mponline.gov.in or the respective department websites like esb.mp.gov.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search MP Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

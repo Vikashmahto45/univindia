@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC CPO Admit Card 2024-25: Download SI in Delhi Police & CAPF Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC CPO Admit Card 2024-25 for Sub-Inspector in Delhi Police, BSF, CRPF, and CISF. Get direct link for SSC CPO Hall Ticket, Paper 1 Status, and PET Date. 800+ words guide.";
-$page_keywords = "SSC CPO Admit Card 2024, SSC CPO SI Hall Ticket Download, ssc.gov.in cpo admit card link, SSC CPO Paper 1 Status, SSC CPO Region Wise Link";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">SSC CPO Admit Card</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-star me-2"></i> <strong>Recruitment Update:</strong> The Staff Selection Commission (SSC) has released the <strong>CPO 2024-25 Paper 1 Admit Card</strong> status for the Northern, Western, and Southern regions. Candidates can download their hall tickets from the new <strong>ssc.gov.in</strong> platform.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>SSC CPO Admit Card 2024</strong> is the mandatory certificate for candidates aspiring to lead as Sub-Inspectors in the Delhi Police and Central Armed Police Forces (CAPFs). As a specialized recruitment for executive police roles, the <strong>SSC CPO Hall Ticket</strong> is issued across multiple phases: Paper 1 (CBT), PET/PST (Physical), Paper 2 (English), and the Detailed Medical Examination (DME).
                 </p>
@@ -158,57 +123,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> CAPF SI Selection Details</h3>
                 <div class="row g-3">
-                    <?php
-                    $cpo_links = [
-                        'ssc-cpo-physical-eligibility.php' => 'CPO Height & Chest Criteria',
-                        'ssc-cpo-paper-2-english-guide.php' => 'CPO Paper 2 Strategy',
-                        'ssc-cpo-medical-standards.php' => 'Eyesight & Tattoo Rules',
-                        'ssc-cpo-salary-perks.php' => 'SI Delhi Police Pay Matrix'
-                    ];
-                    foreach ($cpo_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="cpo-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.cpo-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.cpo-link-card:hover {
-    background: rgba(40, 167, 69, 0.12);
-    border-color: #28a745 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

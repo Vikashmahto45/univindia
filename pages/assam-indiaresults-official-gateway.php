@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; assam indiaresults - Official Assam Academic Hub</div>
     <h2 class='sr-title'>assam indiaresults - Official Assam Academic Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "assam indiaresults - Official Assam Academic Hub"; 
-$meta_description = "Check assam indiaresults for SEBA, AHSEC and university exams. Access the official Assam board result portal and mirrors on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for the official examination results for Assam Class
-                10th (SEBA), 12th (AHSEC), and major state universities. Direct result links and mirrors updated for the
-                current academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Assam Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Assam (SEBA/AHSEC) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Assam Board Server</h3>
+        <h3>Assam Board Server</h3>
                     <p>Primary server for Assam Board SEBA HSLC and AHSEC HS result data across all streams for students
                         in Guwahati and across the state.</p>
                     <a href="https://assam.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

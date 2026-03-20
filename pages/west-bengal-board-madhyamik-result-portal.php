@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; west bengal board madhyamik result - Official WBBSE Mirror Gateway</div>
     <h2 class='sr-title'>west bengal board madhyamik result - Official WBBSE Mirror Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "west bengal board madhyamik result - Official WBBSE Mirror Gateway"; 
-$meta_description = "Check west bengal board madhyamik result for Class 10th exams. Access the official West Bengal (WBBSE) result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest Class 10 academic results for West Bengal. Official
-                WBBSE mirrors and portal links updated for the current Madhyamik session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Madhyamik Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">West Bengal Board Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>WBBSE Main Server</h3>
+        <h3>WBBSE Main Server</h3>
                     <p>Primary server for West Bengal Madhyamik results latest session.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -119,10 +90,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

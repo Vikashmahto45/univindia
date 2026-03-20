@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian results 2023 - Official National 2023 Archive</div>
     <h2 class='sr-title'>indian results 2023 - Official National 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "indian results 2023 - Official National 2023 Archive"; 
-$meta_description = "Check indian results 2023 for all state boards and universities. Access the official 2023 national examination results archival portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all examination results across India for the
-                2023 session. Official board mirrors and archival result links updated for the 2023 academic batch
-                verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 2023 Indian result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Indian Result Hub 2023</h3>
+        <h3>Indian Result Hub 2023</h3>
                     <p>Primary server for accessing 2023 results for all state boards and central councils (Class 10th &
                         12th) across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

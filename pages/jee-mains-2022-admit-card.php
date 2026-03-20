@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)</div>
     <h2 class='sr-title'>JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JEE Mains 2022 Admit Card: Download Session 1 & 2 Hall Ticket (Archive)"; 
-$meta_description = "Download archived JEE Mains 2022 Admit Card for Session 1 and 2. Get information on NTA JEE Main June/July exam hall tickets, center instructions and recovery of application number."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">JEE Mains 2022 Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4 rounded-4">
-                <div class="card-header bg-primary text-white p-4 rounded-top-4">
-                    
-                </div>
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <p class="lead">The Joint Entrance Examination (JEE) Main 2022 was conducted by the National Testing Agency (NTA) in two sessions—June and July. This page provides historical information and archived details regarding the JEE Mains 2022 Admit Card release and download process for students and researchers.</p>
                     
                     <div class="alert alert-info border-0 shadow-sm rounded-4 mt-4">
@@ -124,10 +99,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

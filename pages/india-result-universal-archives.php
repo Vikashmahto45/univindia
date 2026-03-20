@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result india result - Official National Academic Results Verification Archive</div>
     <h2 class='sr-title'>india result india result - Official National Academic Results Verification Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result india result - Official National Academic Results Verification Archive"; 
-$meta_description = "Check india result india result for all state board and university exams. Access the official result portal and archival certificates nationwide on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized national destination for all examination results across
-                Indian boards and universities. Official mirrors and archival links updated for all years and academic
-                sessions.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check India Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Exam Archive</h3>
+        <h3>Board Exam Archive</h3>
                     <p>Primary server for all state and national board result data (10th and 12th) across participating
                         states.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

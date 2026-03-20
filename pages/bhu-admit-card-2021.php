@@ -9,33 +9,6 @@ $meta_keywords = "bhu admit card 2021, bhu uet admit card download, bhu pet hall
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BHU Admit Card 2021 Download - Banaras Hindu University Entrance Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>BHU Admit Card 2021 Download - Banaras Hindu University Entrance Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "BHU Admit Card 2021 Download - Banaras Hindu University Entrance Hall Ticket | Univindia.online"; 
-$meta_description = "Download BHU Admit Card 2021. Get the direct link for NTA BHU UET and PET entrance examination hall tickets at bhuet.nta.nic.in."; 
-$meta_keywords = "bhu admit card 2021, bhu uet admit card download, bhu pet hall ticket login, bhuet.nta.nic.in admit card 2021 link, banaras hindu university admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "BHU Admit Card 2021 Download - Banaras Hindu University Entrance Hall Ticket | Univindia.online";
-$meta_description = "Download BHU Admit Card 2021. Get the direct link for NTA BHU UET and PET entrance examination hall tickets at bhuet.nta.nic.in.";
-$meta_keywords = "bhu admit card 2021, bhu uet admit card download, bhu pet hall ticket login, bhuet.nta.nic.in admit card 2021 link, banaras hindu university admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">BHU Admit Card 2021: Download Banaras Hindu University Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>BHU 2021 Archive:</strong> The National Testing Agency (NTA) conducted the Banaras Hindu University Undergraduate Entrance Test (UET) and Postgraduate Entrance Test (PET) for the 2021 session. Candidates looking for old hall tickets or admission records for the 2021 cycle can access the official archive portal at bhuet.nta.nic.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

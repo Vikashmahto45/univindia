@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th result 2022 arts - Official Senior Secondary Arts Archive</div>
     <h2 class='sr-title'>12th result 2022 arts - Official Senior Secondary Arts Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th result 2022 arts - Official Senior Secondary Arts Archive"; 
-$meta_description = "Check 12th result 2022 arts for all state boards including Rajasthan, Punjab, and more. Access the official 2022 Senior Secondary Arts result gateway on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 Arts stream results for Class 12th examinations.
-                Dedicated links and archival gateways updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">2022 Arts Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🎨</div>
-                    <h3>Arts Result Server</h3>
+        <h3>Arts Result Server</h3>
                     <p>Primary server for 2022 12th Arts results.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Archive 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

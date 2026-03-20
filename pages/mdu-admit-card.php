@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in</div>
     <h2 class='sr-title'>MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MDU Admit Card 2024: Download Rohtak UG/PG Hall Ticket @mdu.ac.in"; 
-$meta_description = "Download MDU Rohtak Admit Card 2024 for B.A, B.Sc, B.Com, B.Tech and PG Exams. Get direct link for Maharshi Dayanand University Hall Ticket download at mdu.ac.in."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">MDU Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
-                <div class="card-header bg-primary text-white p-4">
-                    
-                </div>
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <p class="lead">Maharshi Dayanand University (MDU), Rohtak is ready to conduct its various semester and annual examinations for the 2024 academic session. Students appearing for UG/PG courses including B.A, B.Sc, B.Com, B.Tech, M.A, M.Sc, and other diplomas can now download their MDU Admit Card from the official university portal.</p>
                     
                     <div class="alert alert-primary border-0 shadow-sm rounded-4 mt-4">
@@ -140,10 +115,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

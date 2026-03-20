@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in</div>
     <h2 class='sr-title'>CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "CISF Admit Card 2025: Constable Fireman, ASI, Head Constable Hall Ticket @ cisfrectt.cisf.gov.in";
-$page_description = "Download CISF Admit Card 2025 for Constable Fireman, ASI, and HC recruitment. Get direct link for CISF Physical (PET/PST) and CBT Hall Ticket. 800+ words of latest updates.";
-$page_keywords = "CISF Admit Card 2025, CISF Constable Fireman Hall Ticket, CISF ASI Steno Call Letter, CISF Head Constable Admit Card, cisfrectt.cisf.gov.in admit card download";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">CISF Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-shield-alt me-2"></i> <strong>Recruitment News:</strong> The Central Industrial Security Force (CISF) has activated the recruitment portal for Constable (Fire), ASI (Steno), and Head Constable (Min) posts. The <strong>CISF Admit Card</strong> is released separately for PET/PST and CBT stages.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>CISF Admit Card 2025</strong> is the mandatory permit for candidates entering one of India's most disciplined paramilitary forces. Whether you are appearing for the physical endurance test (PET) or the computer-based written examination (CBT), the <strong>CISF Hall Ticket</strong> serves as your official identity and recruitment tracker through multiple selection rounds.
                 </p>
@@ -159,57 +124,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-user-shield me-2"></i> Paramilitary & Defense Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $forces = [
-                        'crpf-admit-card.php' => 'CRPF Constable Admit Card',
-                        'itbp-admit-card.php' => 'ITBP Recruitment Hall Ticket',
-                        'ssb-admit-card.php' => 'SSB Tradesman Call Letter',
-                        'rpf-constable-admit-card.php' => 'RPF Constable Admit Card'
-                    ];
-                    foreach ($forces as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="cisf-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-}
-.cisf-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.cisf-link-card:hover {
-    background: rgba(40, 167, 69, 0.12);
-    border-color: #28a745 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

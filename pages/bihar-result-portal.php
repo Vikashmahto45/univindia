@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bihar result - Official BSEB Result Mirror Hub</div>
     <h2 class='sr-title'>bihar result - Official BSEB Result Mirror Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bihar result - Official BSEB Result Mirror Hub"; 
-$meta_description = "Check bihar result for Class 10th and 12th. Access the official Bihar School Examination Board (BSEB) result portal on indiaresults for fast checking by name and roll number."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the official Bihar Board (BSEB) Matric and Intermediate results.
-                Direct mirrors for fast checking.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Bihar Result</a>
-                <a href="#faq" class="btn btn-secondary">System Info</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Official Bihar Board Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSEB Main Server</h3>
+        <h3>BSEB Main Server</h3>
                     <p>Primary server for Bihar Matric and Inter results.</p>
                     <a href="https://bihar.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -113,10 +84,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

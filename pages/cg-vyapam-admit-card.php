@@ -9,33 +9,6 @@ $meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download CG Vyapam Admit Card. Get the direct link for Chhattisgarh (CG) Vyapam recruitment and entrance examination hall tickets at vyapam.cgstate.gov.in."; 
-$meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket download, vyapam.cgstate.gov.in login admit card, cg exam date 2024 download, recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CG Vyapam Admit Card Download - Chhattisgarh Professional Exam Hall Ticket | Univindia.online";
-$meta_description = "Download CG Vyapam Admit Card. Get the direct link for Chhattisgarh (CG) Vyapam recruitment and entrance examination hall tickets at vyapam.cgstate.gov.in.";
-$meta_keywords = "cg vyapam admit card download, chhattisgarh vyapam hall ticket download, vyapam.cgstate.gov.in login admit card, cg exam date 2024 download, recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CG Vyapam Admit Card: Download Chhattisgarh Professional Exam Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>CG Vyapam Official Update:</strong> The Chhattisgarh Professional Examination Board (PEB), Raipur, has activated the portal for downloading exam admit cards for Teacher Recruitment, SET, and PAT Examinations. Candidates can log in at the official Vyapam portal: vyapam.cgstate.gov.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Latest Vyapam Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

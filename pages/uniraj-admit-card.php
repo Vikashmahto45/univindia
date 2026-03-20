@@ -9,33 +9,6 @@ $meta_keywords = "uniraj admit card 2024, university of rajasthan admit card dow
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UNIRAJ Admit Card 2024 Download - University of Rajasthan Exams Link | Univindia.online</div>
     <h2 class='sr-title'>UNIRAJ Admit Card 2024 Download - University of Rajasthan Exams Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UNIRAJ Admit Card 2024 Download - University of Rajasthan Exams Link | Univindia.online"; 
-$meta_description = "Download UNIRAJ Admit Card 2024. Get the direct link for University of Rajasthan BA, BSc, BCom, MA, MSc, and MCom annual and semester examination hall tickets at univraj.org."; 
-$meta_keywords = "uniraj admit card 2024, university of rajasthan admit card download, raj university exam hall ticket, univraj.org admit card login, uniraj.ac.in exam date"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "UNIRAJ Admit Card 2024 Download - University of Rajasthan Exams Link | Univindia.online";
-$meta_description = "Download UNIRAJ Admit Card 2024. Get the direct link for University of Rajasthan BA, BSc, BCom, MA, MSc, and MCom annual and semester examination hall tickets at univraj.org.";
-$meta_keywords = "uniraj admit card 2024, university of rajasthan admit card download, raj university exam hall ticket, univraj.org admit card login, uniraj.ac.in exam date";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">UNIRAJ Admit Card 2024: Download University of Rajasthan Exam Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>UNIRAJ Notification:</strong> The University of Rajasthan (UNIRAJ) has officially activated the portal for downloading theory exam admit cards for UG (Arts, Science, Commerce) and PG (MA, MSc, MCom) courses. Students can log in at univraj.org to obtain their 2024 session hall tickets.
         </div>
@@ -115,13 +88,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 12th arts result 2021 - Official National Arts Result Archive</div>
     <h2 class='sr-title'>12th arts result 2021 - Official National Arts Result Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "12th arts result 2021 - Official National Arts Result Archive"; 
-$meta_description = "Check 12th arts result 2021 for all state and central boards. Access the official 2021 Class 12th Arts result portal on indiaresults for archive access."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 Higher Secondary (Class 12th) results for the Arts
-                stream across all Indian boards. Official archival links updated for the 2021 session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">2021 12th Arts National Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>National Result Hub</h3>
+        <h3>National Result Hub</h3>
                     <p>Primary server for all 2021 academic result data aggregate.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -118,10 +89,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

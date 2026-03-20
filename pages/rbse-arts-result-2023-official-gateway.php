@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse arts result 2023 - Official Rajasthan Board Hub</div>
     <h2 class='sr-title'>rbse arts result 2023 - Official Rajasthan Board Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rbse arts result 2023 - Official Rajasthan Board Hub"; 
-$meta_description = "Check Rajasthan Board 12th Arts result 2023 on rbse arts result 2023. Access official BSER 2023 archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 12th (Senior Secondary) Arts stream examination results for the 2023 academic session. Access official Rajasthan board mirrors and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 RBSE Arts Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Rajasthan (BSER) Arts Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Senior Secondary Arts 2023</h3>
+        <h3>RBSE Senior Secondary Arts 2023</h3>
                     <p>Primary server for accessing Rajasthan Board Class 12th (Arts) examination result data for the 2023 academic session archive in Rajasthan.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

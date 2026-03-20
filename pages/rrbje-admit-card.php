@@ -9,33 +9,6 @@ $meta_keywords = "rrbje admit card, rrb je admit card download, railway junior e
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download RRB JE Admit Card. Get the direct link for Railway Recruitment Board (RRB) Junior Engineer (JE) examination hall tickets at rrbcdg.gov.in."; 
-$meta_keywords = "rrbje admit card, rrb je admit card download, railway junior engineer hall ticket download, rrb je cbt 1 exam date 2024, rrbcdg.gov.in je login"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RRB JE Admit Card Download - Railway Junior Engineer Hall Ticket Link | Univindia.online";
-$meta_description = "Download RRB JE Admit Card. Get the direct link for Railway Recruitment Board (RRB) Junior Engineer (JE) examination hall tickets at rrbcdg.gov.in.";
-$meta_keywords = "rrbje admit card, rrb je admit card download, railway junior engineer hall ticket download, rrb je cbt 1 exam date 2024, rrbcdg.gov.in je login";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RRBJE Admit Card: Download Railway Junior Engineer Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway JE Update:</strong> The Railway Recruitment Boards (RRBs) have activated the portal for downloading exam admit cards for the Junior Engineer (JE) recruitment under Centralized Employment Notice (CEN) 03/2024. Candidates can log in with their Registration Number and Date of Birth to access their specific regional RRB hall tickets.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Engineering Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

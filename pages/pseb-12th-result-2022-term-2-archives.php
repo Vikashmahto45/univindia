@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; pseb 12th result 2022 term 2 - Official Punjab 2022 Archive</div>
     <h2 class='sr-title'>pseb 12th result 2022 term 2 - Official Punjab 2022 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "pseb 12th result 2022 term 2 - Official Punjab 2022 Archive"; 
-$meta_description = "Check pseb 12th result 2022 term 2 for Senior Secondary exams. Access the official 2022 Punjab Board (PSEB) term 2 archival result gateway."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the Term 2 examination results for Punjab Class 12th (Senior
-                Secondary) from the 2022 session. Official PSEB Mohali mirrors and archival links updated for the 2022
-                batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Term 2 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Punjab (PSEB 12th) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>PSEB Server 2022 T2</h3>
+        <h3>PSEB Server 2022 T2</h3>
                     <p>Primary server for Punjab Board Senior Secondary result data for the 2022 Term 2 session across
                         all districts and centers.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

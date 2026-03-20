@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2023 bihar board - Official Bihar 10th Hub</div>
     <h2 class='sr-title'>india result 10th 2023 bihar board - Official Bihar 10th Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 10th 2023 bihar board - Official Bihar 10th Hub"; 
-$meta_description = "Check Bihar Board 10th result 2023 on india result 10th 2023 bihar board. Access official BSEB Matric 2023 archival scorecards on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Bihar School Examination Board (BSEB) Class 10th
-                (Matric) examination results for the 2023 session. Access official Bihar board mirrors and historical
-                2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Matric Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Bihar (BSEB 10th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Bihar Matric Server 2023</h3>
+        <h3>Bihar Matric Server 2023</h3>
                     <p>Primary server for Bihar Board Class 10th (Matric) examination result data for the 2023 session
                         archive across all districts in Bihar.</p>
                     <a href="https://bihar.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

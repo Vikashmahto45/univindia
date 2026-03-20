@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; calcutta university results - Official WB UG/PG Archive</div>
     <h2 class='sr-title'>calcutta university results - Official WB UG/PG Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "calcutta university results - Official WB UG/PG Archive"; 
-$meta_description = "Check calcutta university results for BA, BSc, BCom, and Semester examinations. Access the official CU result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest Undergraduate and Postgraduate results for the
-                University of Calcutta. Official CU mirrors and portal links updated for all semester sessions.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check CU Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Calcutta University Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>CU Main Server</h3>
+        <h3>CU Main Server</h3>
                     <p>Primary server for Calcutta University UG/PG semester results.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -118,10 +89,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

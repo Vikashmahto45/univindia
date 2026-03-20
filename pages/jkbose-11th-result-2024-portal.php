@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway</div>
     <h2 class='sr-title'>jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jkbose 11th result 2024 - Official Jammu & Kashmir Board Gateway"; 
-$meta_description = "Check jkbose 11th result 2024 for Class 11 exams. Access the official JKBOSE divisional result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest Class 11 academic results for Jammu & Kashmir.
-                Official JKBOSE mirrors and portal links updated for the 2024 session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check JK 11th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Jammu & Kashmir Board Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JKBOSE Main Server</h3>
+        <h3>JKBOSE Main Server</h3>
                     <p>Primary server for Jammu & Kashmir 11th results for the 2024 session.</p>
                     <a href="https://jammu-kashmir.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -118,10 +89,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

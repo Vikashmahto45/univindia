@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; board result 2022 class 10 - Official National 2022 Archive</div>
     <h2 class='sr-title'>board result 2022 class 10 - Official National 2022 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "board result 2022 class 10 - Official National 2022 Archive"; 
-$meta_description = "Check board result 2022 class 10 for all state boards and CBSE. Access the official 2022 secondary (Class 10) result portal archival mirror on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Class 10th (Secondary) examination results
-                across India for the 2022 session. Official board mirrors and archival result links updated for the 2022
-                academic batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Class 10th 2022 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Result Server 2022</h3>
+        <h3>Board Result Server 2022</h3>
                     <p>Primary server mirror for accessing 2022 Class 10 (Secondary) results for all state boards and
                         central councils nationwide.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

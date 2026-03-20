@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 12th result 2021 name wise science - Official Rajasthan Board Archive</div>
     <h2 class='sr-title'>rbse 12th result 2021 name wise science - Official Rajasthan Board Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rbse 12th result 2021 name wise science - Official Rajasthan Board Archive"; 
-$meta_description = "Check rbse 12th result 2021 name wise science for BSER Senior Secondary exams. Access the official 2021 Board of Secondary Education (BSER) Rajasthan archival portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session results for Class 12th (Science) for
-                Rajasthan via student name. Official BSER Ajmer mirrors and archival links updated for the 2021 batch.
-            </p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 Rajasthan Science Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSER Main Server 2021</h3>
+        <h3>BSER Main Server 2021</h3>
                     <p>Primary server for Rajasthan 12th Science result data for the 2021 academic session archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

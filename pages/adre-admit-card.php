@@ -9,33 +9,6 @@ $meta_keywords = "adre admit card 2024, assam direct recruitment hall ticket, se
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ADRE Admit Card 2024 Download - Assam Direct Recruitment Grade 3 & 4 Link | Univindia.online</div>
     <h2 class='sr-title'>ADRE Admit Card 2024 Download - Assam Direct Recruitment Grade 3 & 4 Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ADRE Admit Card 2024 Download - Assam Direct Recruitment Grade 3 & 4 Link | Univindia.online"; 
-$meta_description = "Download ADRE Admit Card 2024. Get the direct link for Assam Direct Recruitment Grade III and Grade IV examination hall tickets at sebaonline.org and slrc.assam.gov.in."; 
-$meta_keywords = "adre admit card 2024, assam direct recruitment hall ticket, sebaonline.org adre admit card, slrc assam admit card download, adre grade 3 4 hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "ADRE Admit Card 2024 Download - Assam Direct Recruitment Grade 3 & 4 Link | Univindia.online";
-$meta_description = "Download ADRE Admit Card 2024. Get the direct link for Assam Direct Recruitment Grade III and Grade IV examination hall tickets at sebaonline.org and slrc.assam.gov.in.";
-$meta_keywords = "adre admit card 2024, assam direct recruitment hall ticket, sebaonline.org adre admit card, slrc assam admit card download, adre grade 3 4 hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">ADRE Admit Card 2024: Download Assam Direct Recruitment Grade III & IV Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Assam Recruitment News:</strong> The State Level Recruitment Commission (SLRC) of Assam has officially activated the portal for downloading the exam admit cards for Grade 3 and Grade 4 posts under ADRE 2024. Candidates can log in to the SEBA portal at sebaonline.org to download their hall tickets.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check ADRE Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

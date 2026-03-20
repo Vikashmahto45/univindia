@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in</div>
     <h2 class='sr-title'>UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "UP PBPB Admit Card 2025: UP Police Constable Hall Ticket Download @ uppbpb.gov.in";
-$page_description = "Download UP PBPB Admit Card 2025 for Constable, SI, and Fireman. Get direct link for UP Police Hall Ticket, Exam Schedule, and center status. 800+ words of latest updates.";
-$page_keywords = "UP PBPB Admit Card 2025, UP Police Constable Hall Ticket Download, uppbpb.gov.in admit card link, UP Police SI Call Letter, up-pbpb-gov-in-admit-card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">UP PBPB Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-primary bg-dark border-primary text-primary rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-gavel me-2"></i> <strong>Official Update:</strong> The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB or UP PBPB) has initiated the examination process for massive vacancies in Constable and SI cadres. The <strong>UP Police Admit Card</strong> is released session-wise on uppbpb.gov.in.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>UP PBPB Admit Card 2025</strong> is the primary voucher for over 50 lakh aspirants participating in the UP Police recruitment exams. As one of the largest state-level recruitment drives in India, the UPPRPB ensures that the <strong>UP Police Hall Ticket</strong> is issued with high-security features like unique QR codes and iris scan instructions to maintain the integrity of the selection process.
                 </p>
@@ -156,57 +121,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> UP Recruitment & Education Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $up_links = [
-                        'uptransport-admit-card.php' => 'UP Transport Admit Card',
-                        'upnrhm-admit-card.php' => 'UP NRHM Call Letter',
-                        'up-board-admit-card.php' => 'UP Board Hall Ticket',
-                        'ccs-university-admit-card.php' => 'CCS University Admit Card'
-                    ];
-                    foreach ($up_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="up-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-}
-.up-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.up-link-card:hover {
-    background: rgba(13, 110, 253, 0.12);
-    border-color: #0d6efd !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

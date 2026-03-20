@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 10th result 2021 rbse - Official Rajasthan Board Hub</div>
     <h2 class='sr-title'>class 10th result 2021 rbse - Official Rajasthan Board Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "class 10th result 2021 rbse - Official Rajasthan Board Hub"; 
-$meta_description = "Check Rajasthan Board Class 10th result 2021 on class 10th result 2021 rbse. Access official BSER Ajmer 2021 archival scorecards on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education, Rajasthan (BSER/RBSE) Ajmer Class 10th (Secondary) examination results for the 2021 academic session. Access official Rajasthan board mirrors and 2021 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 RBSE 10th Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 Rajasthan (RBSE 10th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Ajmer Server 2021</h3>
+        <h3>RBSE Ajmer Server 2021</h3>
                     <p>Primary server for accessing Rajasthan Board Class 10th (Secondary) examination result data for the 2021 academic session archive in Rajasthan.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

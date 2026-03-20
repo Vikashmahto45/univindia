@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; otet results 2023 - Official Odisha Teacher Hub</div>
     <h2 class='sr-title'>otet results 2023 - Official Odisha Teacher Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "otet results 2023 - Official Odisha Teacher Hub"; 
-$meta_description = "Check Odisha Teacher Eligibility Test (OTET) result 2023 on otet results 2023. Access official OTET 2023 archival scorecards on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Odisha Teacher Eligibility Test (OTET) examination results for the 2023 academic session. Access official Odisha teacher board mirrors and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 OTET Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Odisha (OTET) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Odisha OTET Server 2023</h3>
+        <h3>Odisha OTET Server 2023</h3>
                     <p>Primary server for accessing Odisha Teacher Eligibility Test (OTET) examination result data for all categories (Paper I and Paper II) for the 2023 session.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

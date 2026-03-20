@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; uk board result 2022 class 10 - Official Uttarakhand Archive Portal</div>
     <h2 class='sr-title'>uk board result 2022 class 10 - Official Uttarakhand Archive Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "uk board result 2022 class 10 - Official Uttarakhand Archive Portal"; 
-$meta_description = "Check uk board result 2022 class 10 for High School examinations. Access the official 2022 Uttarakhand (UBSE) archival portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 High School (Class 10th) results for Uttarakhand.
-                Official UBSE mirrors and archival links updated for the 2022 board session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Uttarakhand 10th 2022 Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>UBSE Main Server 2022</h3>
+        <h3>UBSE Main Server 2022</h3>
                     <p>Primary server for Uttarakhand board 10th result 2022 archive.</p>
                     <a href="https://uttarakhand.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -117,10 +88,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

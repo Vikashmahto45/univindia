@@ -9,25 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BA 2nd Year Result 2022 - University BA Part 2 Results Online</div>
     <h2 class='sr-title'>BA 2nd Year Result 2022 - University BA Part 2 Results Online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "BA 2nd Year Result 2022 - University BA Part 2 Results Online"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="result-container">
-    
-    
-    <div class="info-box">
-        <p>The <strong>BA 2nd Year Result 2022</strong> is available for students of various Indian Universities. If you appeared for the BA Part 2 exams in the academic session 2021-22, you can check your marks status here.</p>
-    </div>
-
-    <div class="action-section">
+        <div class="action-section">
         <a href="https://www.univindia.org/" class="btn-primary">Check BA 2nd Year Result 2022</a>
     </div>
 
@@ -45,11 +27,6 @@ $meta_keywords = "";
 
         <h2>BA 2nd Year University Portal Links</h2>
         <p>Students can check their results on the official portals of their respective universities. Whether it's CCSU, MSBU, UNIRAJ, or any other state university, the results are usually published under the 'Students Corner' section.</p>
-    
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

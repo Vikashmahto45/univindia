@@ -9,33 +9,6 @@ $meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket dow
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download JEE Advanced Admit Card 2025. Get the direct link for IIT JEE Advanced postgraduate examination hall tickets at jeeadv.ac.in."; 
-$meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket download, jeeadv.ac.in 2025 admit card link, jee advanced exam hall ticket login, iit entrance hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "JEE Advanced Admit Card 2025 Download - IIT Entrance Hall Ticket Link | Univindia.online";
-$meta_description = "Download JEE Advanced Admit Card 2025. Get the direct link for IIT JEE Advanced postgraduate examination hall tickets at jeeadv.ac.in.";
-$meta_keywords = "jee advanced admit card 2025, iit jee advanced hall ticket download, jeeadv.ac.in 2025 admit card link, jee advanced exam hall ticket login, iit entrance hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">JEE Advanced Admit Card 2025: Download IIT Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>IIT Admission Update:</strong> The organizing Indian Institute of Technology (IIT) for the 2025 cycle has officially activated the portal for downloading the exam admit cards for JEE Advanced. Candidates who have qualified for JEE Main and registered for the advanced stage can download their hall tickets at jeeadv.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">JEE Advanced Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

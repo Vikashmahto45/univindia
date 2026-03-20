@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12th 2022 by name - Official Senior Secondary Name Search Hub</div>
     <h2 class='sr-title'>india result 12th 2022 by name - Official Senior Secondary Name Search Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 12th 2022 by name - Official Senior Secondary Name Search Hub"; 
-$meta_description = "Check india result 12th 2022 by name for all state boards. Access the official 2022 Class 12 name-wise result archive on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 Senior Secondary (Class 12th) results by student name
-                for all boards in India. Official mirrors and archival links updated for the 2022 session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Name-wise Search</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Name-wise Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🔍</div>
-                    <h3>National Name Hub 2022</h3>
+        <h3>National Name Hub 2022</h3>
                     <p>Primary server for 2022 Class 12th results using name search alternative.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -116,10 +87,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

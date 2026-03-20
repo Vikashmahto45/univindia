@@ -9,33 +9,6 @@ $meta_keywords = "net admit card 2021 download, nta ugc net hall ticket 2021 dow
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NET Admit Card 2021 Download - NTA UGC NET Archive | Univindia.online</div>
     <h2 class='sr-title'>NET Admit Card 2021 Download - NTA UGC NET Archive | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NET Admit Card 2021 Download - NTA UGC NET Archive | Univindia.online"; 
-$meta_description = "Download NET Admit Card 2021. Get the direct link for NTA UGC NET (December 2020 and June 2021 cycles) hall tickets at ugcnet.nta.nic.in."; 
-$meta_keywords = "net admit card 2021 download, nta ugc net hall ticket 2021 download, ugcnet.nta.nic.in login 2021, ugc net exam date 2021 download, academic research call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NET Admit Card 2021 Download - NTA UGC NET Archive | Univindia.online";
-$meta_description = "Download NET Admit Card 2021. Get the direct link for NTA UGC NET (December 2020 and June 2021 cycles) hall tickets at ugcnet.nta.nic.in.";
-$meta_keywords = "net admit card 2021 download, nta ugc net hall ticket 2021 download, ugcnet.nta.nic.in login 2021, ugc net exam date 2021 download, academic research call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NET Admit Card 2021: Download NTA UGC NET Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>UGC NET 2021 Archive:</strong> The National Testing Agency (NTA) conducted the UGC NET December 2020 and June 2021 cycles together as a merged session in November 2021-January 2022. Candidates looking for old hall tickets or certificate records for the 2021 session can access the official portal archive at ugcnet.nta.nic.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Research Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

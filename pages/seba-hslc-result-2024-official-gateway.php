@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; seba hslc result 2024 - Official Assam Secondary Hub</div>
     <h2 class='sr-title'>seba hslc result 2024 - Official Assam Secondary Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "seba hslc result 2024 - Official Assam Secondary Hub"; 
-$meta_description = "Check seba hslc result 2024 for MSBSHSE exams. Access the official Assam Board High School Leaving Certificate (HSLC) result gateway on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2024 academic session individual results for Assam Class 10th
-                (HSLC). Official SEBA mirrors and board result links updated for the current 2024 academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check HSLC Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Assam HSLC 2024 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>SEBA Board Server 2024</h3>
+        <h3>SEBA Board Server 2024</h3>
                     <p>Primary server mirror for accessing 2024 Assam Board HSLC (Secondary) result data across all
                         centers and candidates.</p>
                     <a href="https://assam.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -125,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

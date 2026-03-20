@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CCS University Admit Card 2025: CCSU Meerut Exam Form & Call Letter @ ccsuniversity.ac.in</div>
     <h2 class='sr-title'>CCS University Admit Card 2025: CCSU Meerut Exam Form & Call Letter @ ccsuniversity.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CCS University Admit Card 2025: CCSU Meerut Exam Form & Call Letter @ ccsuniversity.ac.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "CCS University Admit Card 2025: CCSU Meerut Exam Form & Call Letter @ ccsuniversity.ac.in";
-$page_description = "Download CCS University Admit Card 2025 for UG & PG Semester Exams. Get official link for CCSU Meerut Hall Ticket & Date Sheet. 800+ words of academic guide.";
-$page_keywords = "CCS University Admit Card 2025, CCSU Meerut Hall Ticket Download, CCS University Private Admit Card, CCSU Semester Exam Result, ccsuniversity.ac.in examination";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">CCS University Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-info-circle me-2"></i> <strong>Academic Notice:</strong> Chaudhary Charan Singh University (CCSU) has activated the portal for March-April session exams. Ensure your examination fee is paid to unlock the <strong>CCSU Admit Card download link</strong>.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>CCS University Admit Card 2025</strong> is the gateway for thousands of students pursuing higher education in Western Uttar Pradesh. From Meerut to Saharanpur, CCSU affiliates hundreds of colleges, and its centralized examination system ensures that the <strong>CCSU Hall Ticket</strong> is issued fairly to all eligible Regular and Private candidates.
                 </p>
@@ -157,57 +122,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Neighboring University Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $neigh = [
-                        'mjpru-admit-card.php' => 'MJPRU Bareilly',
-                        'msu-admit-card.php' => 'MSU Saharanpur',
-                        'alak-university-admit-card.php' => 'Alark University',
-                        'dbrau-admit-card.php' => 'DBRAU Agra'
-                    ];
-                    foreach ($neigh as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="ccsu-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #e0e0e0;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #333 100%);
-}
-.ccsu-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s ease;
-}
-.ccsu-link-card:hover {
-    background: rgba(13, 202, 240, 0.1);
-    border-color: #0dcaf0 !important;
-    transform: scale(1.05);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC GD Admit Card 2025: Constable GD Hall Ticket Release Date & Download Link @ ssc.gov.in";
-$page_description = "Download SSC GD Admit Card 2025. Get region-wise call letter links for SSC Constable GD CBT Exam, PE & MT details. 800+ words of high-quality guide for aspirants.";
-$page_keywords = "SSC GD Admit Card 2025, SSC Constable GD Hall Ticket, SSC GD 2025 Exam Date, Download SSC GD 2025 Call Letter, ssc.gov.in gd admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">SSC GD Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-calendar-check me-2"></i> <strong>Exam Alert:</strong> The Staff Selection Commission (SSC) has released the tentative schedule for the Constable (GD) 2025 exam. Regional links for the application status and admit cards are being activated.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>SSC GD Admit Card 2025</strong> is the key document for candidates aspiring to join various paramilitary forces in India, including the BSF, CISF, CRPF, ITBP, SSB, and SSF. As one of the largest recruitment drives conducted by the Staff Selection Commission, the Constable (GD) exam attracts millions of applicants every year.
                 </p>
@@ -202,57 +167,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-tags me-2"></i> Trending Hall Tickets</h3>
                 <div class="row g-3">
-                    <?php
-                    $trending = [
-                        'ssc-chsl-admit-card-2024.php' => 'SSC CHSL 2024 Admit Card',
-                        'ssc-gov-in-admit-card.php' => 'SSC Gov Admit Card',
-                        'ctet-admit-card-2024.php' => 'CTET Paper 1 & 2 Call Letter',
-                        'rpf-constable-admit-card.php' => 'RPF Constable Hall Ticket'
-                    ];
-                    foreach ($trending as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="gd-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.95);
-    backdrop-filter: blur(8px);
-}
-.text-light-gray {
-    color: #e2e2e2;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #111 0%, #333 100%);
-}
-.gd-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s ease;
-}
-.gd-link-card:hover {
-    background: rgba(13, 202, 240, 0.15);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

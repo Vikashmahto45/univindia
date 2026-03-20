@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket</div>
     <h2 class='sr-title'>SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC CGL Tier 1 Admit Card 2024: Download Combined Graduate Level Hall Ticket";
-$page_description = "SSC CGL Tier 1 Admit Card 2024 Download Link. Get region-wise call letters for SSC CGL Tier I Exam. Exam date, reporting time, and important instructions for CGL 2024.";
-$page_keywords = "SSC CGL Tier 1 Admit Card 2024, SSC CGL Tier I Hall Ticket, Download CGL Tier 1 2024 Admit Card, ssc.gov.in cgl tier 1 admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">SSC CGL Tier 1 Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-primary border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-file-download fa-2x text-primary"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Download Available:</h4>
                         <p class="mb-0">The Staff Selection Commission (SSC) has released the <strong>CGL Tier 1 Admit Card 2024</strong> across all regions. Candidates can now download their e-call letters by logging into their respective regional websites.</p>
                     
@@ -210,12 +173,6 @@ include '../includes/header.php';
     color: #ffd700;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

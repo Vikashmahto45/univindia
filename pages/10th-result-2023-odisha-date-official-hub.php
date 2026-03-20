@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result 2023 odisha date - Official Odisha Secondary 2023 Archive</div>
     <h2 class='sr-title'>10th result 2023 odisha date - Official Odisha Secondary 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "10th result 2023 odisha date - Official Odisha Secondary 2023 Archive"; 
-$meta_description = "Check 10th result 2023 odisha date and notification. Access the official 2023 Odisha academic result portal, declaration dates, and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session results and official declaration date
-                notification for Odisha Class 10th (Secondary). Verified BSE Odisha mirrors and archival links updated
-                for the 2023 batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Odisha Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Odisha (BSE) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Odisha Hub 2023</h3>
+        <h3>BSE Odisha Hub 2023</h3>
                     <p>Primary server for Odisha Class 10th result data for the 2023 academic session archive and date
                         notifications.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -129,10 +99,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

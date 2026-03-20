@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; raj board 8 class result - Official BSER Rajasthan Class 8 Gateway</div>
     <h2 class='sr-title'>raj board 8 class result - Official BSER Rajasthan Class 8 Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "raj board 8 class result - Official BSER Rajasthan Class 8 Gateway"; 
-$meta_description = "Check raj board 8 class result for BSER Elementary exams. Access the official Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized destination for the Elementary (Class 8th) results for
-                Rajasthan. Official BSER Ajmer mirrors and portal links updated for the latest academic batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Class 8 Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Rajasthan Elementary Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSER Main Server</h3>
+        <h3>BSER Main Server</h3>
                     <p>Primary server for Rajasthan 8th Class result latest session data archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -123,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

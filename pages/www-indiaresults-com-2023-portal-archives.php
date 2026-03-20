@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.indiaresults.com 2023 - Verified 2023 National Result Portal</div>
     <h2 class='sr-title'>www.indiaresults.com 2023 - Verified 2023 National Result Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "www.indiaresults.com 2023 - Verified 2023 National Result Portal"; 
-$meta_description = "Check www.indiaresults.com 2023 for all secondary and senior secondary exams. Access the official 2023 national academic result archive on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified digital archive for the 2023 academic examination cycle. Access
-                verified results for state boards and central universities across India for the 2023 batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2023 Record</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 National Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Archive Hub</h3>
+        <h3>Board Archive Hub</h3>
                     <p>Primary server mirror for accessing 2023 marksheet and scorecards from all major Indian state
                         boards for the 2023 batch.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -122,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

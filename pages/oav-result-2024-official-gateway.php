@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; oav result 2024 - Official OAV Entrance Hub</div>
     <h2 class='sr-title'>oav result 2024 - Official OAV Entrance Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "oav result 2024 - Official OAV Entrance Hub"; 
-$meta_description = "Check Odisha Adarsha Vidyalaya result 2024 on oav result 2024. Access official OAVS Class 6th entry scorecards and selection lists on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Odisha Adarsha Vidyalaya Sangathan (OAVS)
-                entrance examination results for the 2024 academic session. Access official OAV mirrors and selection
-                list links updated for session verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2024 OAV Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2024 Odisha (OAVS) Selection Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>OAVS Server 2024</h3>
+        <h3>OAVS Server 2024</h3>
                     <p>Primary server for OAV entrance examination result data for Class 6th admission for the 2024
                         session archive across all districts in Odisha.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

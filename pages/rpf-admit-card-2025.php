@@ -9,33 +9,6 @@ $meta_keywords = "rpf admit card 2025, railway protection force hall ticket, rpf
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF Admit Card 2025 Download - Constable & SI Railway Recruitment Link | Univindia.online</div>
     <h2 class='sr-title'>RPF Admit Card 2025 Download - Constable & SI Railway Recruitment Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RPF Admit Card 2025 Download - Constable & SI Railway Recruitment Link | Univindia.online"; 
-$meta_description = "Download RPF Admit Card 2025. Get the direct link for Railway Protection Force Constable and Sub-Inspector (SI) recruitment CBT examination hall tickets at rpf.indianrailways.gov.in."; 
-$meta_keywords = "rpf admit card 2025, railway protection force hall ticket, rpf constable admit card download, rpf si admit card 2025 link, rrb rpf exam date"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RPF Admit Card 2025 Download - Constable & SI Railway Recruitment Link | Univindia.online";
-$meta_description = "Download RPF Admit Card 2025. Get the direct link for Railway Protection Force Constable and Sub-Inspector (SI) recruitment CBT examination hall tickets at rpf.indianrailways.gov.in.";
-$meta_keywords = "rpf admit card 2025, railway protection force hall ticket, rpf constable admit card download, rpf si admit card 2025 link, rrb rpf exam date";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RPF Admit Card 2025: Download Railway Protection Force Constable & SI Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway Recruitment News:</strong> The Ministry of Railways has announced the tentative schedule for the RPF Constable and SI (CEN 01/2024 & 02/2024) examination. RPF Admit Cards for the 2025 Computer Based Test (CBT) will be released 4 days before the exam date on regional RRB websites.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse 10th result 2023 - Official Secondary Education Result Portal</div>
     <h2 class='sr-title'>bse 10th result 2023 - Official Secondary Education Result Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bse 10th result 2023 - Official Secondary Education Result Portal"; 
-$meta_description = "Check bse 10th result 2023 for all boards including BSE Odisha, BSE Telangana, and more. Access the official 2023 secondary results on indiaresults for fast checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 Secondary School Certificate (SSC) and 10th Board
-                Results. Official links and mirrors updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2023 Result</a>
-                <a href="#faq" class="btn btn-secondary">System Info</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Official 2023 BSE Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Main Server</h3>
+        <h3>BSE Main Server</h3>
                     <p>Primary access for 2023 secondary results.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -113,10 +84,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

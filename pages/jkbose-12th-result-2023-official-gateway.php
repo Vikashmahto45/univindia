@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jkbose 12th result 2023 - Official JK Board Hub</div>
     <h2 class='sr-title'>jkbose 12th result 2023 - Official JK Board Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jkbose 12th result 2023 - Official JK Board Hub"; 
-$meta_description = "Check JKBOSE 12th result 2023 on jkbose 12th result 2023. Access official Jammu & Kashmir Board Class 12th 2023 archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Jammu and Kashmir Board of School Education (JKBOSE) Class 12th (Higher Secondary/Part II) examination results for the 2023 academic session. Access official JK board mirrors and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 JK Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Jammu & Kashmir (JKBOSE) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JKBOSE Server 2023</h3>
+        <h3>JKBOSE Server 2023</h3>
                     <p>Primary server for accessing Jammu & Kashmir Board Class 12th (Higher Secondary) examination result data for both Jammu and Kashmir divisions for the 2023 session.</p>
                     <a href="https://jammu-kashmir.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

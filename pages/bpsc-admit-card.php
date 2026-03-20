@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in</div>
     <h2 class='sr-title'>BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "BPSC Admit Card 2025: Bihar Public Service Commission Hall Ticket Download @ bpsc.bih.nic.in";
-$page_description = "Download BPSC Admit Card 2025 for 70th CCE, TRE 4.0, and various Gazetted posts. Get direct link for BPSC Prelims/Mains Hall Ticket. 800+ words guide.";
-$page_keywords = "BPSC Admit Card 2025, BPSC 70th CCE Hall Ticket, BPSC TRE 4.0 Admit Card Download, bpsc.bih.nic.in admit card link, BPSC Headmaster Call Letter";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">BPSC Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-balance-scale me-2"></i> <strong>Recruitment Alert:</strong> BPSC has announced the dates for the 70th Civil Services Prelims and TRE (Teacher Recruitment Exam) Phase 4.0. The <strong>BPSC Admit Card</strong> is downloadable only through the official 'Candidate Login' portal.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>BPSC Admit Card 2025</strong> is the most prestigious entry permit for administrative and teaching aspirants in Bihar. As the premier state body for recruiting Gazetted Officers and Teachers, the Bihar Public Service Commission (BPSC) maintains a highly secure and transparent system for releasing the <strong>BPSC Hall Ticket</strong> across various competitive cycles.
                 </p>
@@ -151,57 +116,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-graduation-cap me-2"></i> Teacher & Academic Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $edu_links = [
-                        'stet-admit-card-2025.php' => 'Bihar STET Admit Card',
-                        'ctet-admit-card-2024.php' => 'CTET 2024 Hall Ticket',
-                        'bihar-board-admit-card.php' => 'BSEB Board Admit Card',
-                        'ugc-net-admit-card-2024.php' => 'UGC NET Hall Ticket'
-                    ];
-                    foreach ($edu_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="bpsc-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-}
-.bpsc-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.bpsc-link-card:hover {
-    background: rgba(220, 53, 69, 0.12);
-    border-color: #dc3545 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

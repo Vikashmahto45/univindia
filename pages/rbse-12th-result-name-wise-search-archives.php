@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 12th result name wise search - Official Rajasthan 12th Archive</div>
     <h2 class='sr-title'>rbse 12th result name wise search - Official Rajasthan 12th Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rbse 12th result name wise search - Official Rajasthan 12th Archive"; 
-$meta_description = "Check Rajasthan Board 12th result by name for Science, Arts, and Commerce on rbse 12th result name wise search. Access official RBSE archival scorecards."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access individual results for Rajasthan Board of Secondary Education
-                (RBSE) Class 12th (Senior Secondary) across all streams with the name-wise search feature. Official RBSE
-                mirrors and archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 12th Name Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Rajasthan (RBSE 12th Name-Wise) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE National Server</h3>
+        <h3>RBSE National Server</h3>
                     <p>Primary server mirror for accessing Rajasthan Board Senior Secondary (12th) results by name for
                         Science, Arts, and Commerce streams on institutional mirrors.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -130,10 +100,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in</div>
     <h2 class='sr-title'>ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "ESB MP Gov In Admit Card 2025: MPPEB Vyapam Hall Ticket Download @ esb.mp.gov.in";
-$page_description = "Download ESB MP Gov In Admit Card 2025 for MP Police, Patwari, Teacher, and other exams. Get direct link for MPPEB Hall Ticket and Exam Schedule. 800+ words of detailed guide.";
-$page_keywords = "esb mp gov in admit card 2025, MP ESB Admit Card Download, MPPEB Vyapam Hall Ticket, MP Police Admit Card, MP Patwari Admit Card 2025";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">ESB MP Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-exclamation-triangle me-2"></i> <strong>Important Notification:</strong> The Madhya Pradesh Employees Selection Board (MP ESB), formerly known as PEB or Vyapam, releases admit cards strictly on its official portal: esb.mp.gov.in. Ignore third-party unofficial links.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>ESB MP Gov In Admit Card 2025</strong> is the primary document for candidates appearing in various state-level recruitment and entrance examinations in Madhya Pradesh. From the high-demand MP Police Constable recruitment to the Middle School Teacher Eligibility Test (MSTET), the MP ESB manages a diverse portfolio of examinations crucial for the state's administrative and educational machinery.
                 </p>
@@ -166,57 +131,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marker-alt me-2"></i> Madhya Pradesh Universities</h3>
                 <div class="row g-3">
-                    <?php
-                    $mp_univ = [
-                        'davv-admit-card.php' => 'DAVV Indore Admit Card',
-                        'jiwaji-admit-card.php' => 'Jiwaji Gwalior Hall Ticket',
-                        'mjpru-admit-card.php' => 'MJPRU Admit Card Link',
-                        'bu-jhansi-admit-card.php' => 'BU Jhansi Call Letter'
-                    ];
-                    foreach ($mp_univ as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="esb-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(20, 20, 20, 0.98);
-    backdrop-filter: blur(10px);
-}
-.text-light-gray {
-    color: #e0e0e0;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #333 100%);
-}
-.esb-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-.esb-link-card:hover {
-    background: rgba(220, 53, 69, 0.1);
-    border-color: #dc3545 !important;
-    transform: scale(1.05);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

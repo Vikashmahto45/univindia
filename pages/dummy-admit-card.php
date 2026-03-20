@@ -9,33 +9,6 @@ $meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar b
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online</div>
     <h2 class='sr-title'>Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online"; 
-$meta_description = "Download Dummy Admit Card. Get the direct link for Bihar Board (BSEB), CBSE, and other school board dummy hall tickets at secondary.biharboardonline.com."; 
-$meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar board dummy hall ticket download, inter dummy admit card login, board exam error correction admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Dummy Admit Card Download - Board & Entrance Exam Sample Guide | Univindia.online";
-$meta_description = "Download Dummy Admit Card. Get the direct link for Bihar Board (BSEB), CBSE, and other school board dummy hall tickets at secondary.biharboardonline.com.";
-$meta_keywords = "dummy admit card download, bseb dummy admit card 2025, bihar board dummy hall ticket download, inter dummy admit card login, board exam error correction admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Dummy Admit Card: Download Board Exam Sample & Error Correction Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Board Exam Alert:</strong> Many educational boards, including the Bihar School Examination Board (BSEB), issue a "Dummy Admit Card" before the final exams (10th and 12th). This is a trial document used to check for errors in name, photo, or subjects. Candidates must review it at secondary.biharboardonline.com.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Board News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse odisha 10th result 2024 - Official Odisha HSC Gateway Hub</div>
     <h2 class='sr-title'>bse odisha 10th result 2024 - Official Odisha HSC Gateway Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bse odisha 10th result 2024 - Official Odisha HSC Gateway Hub"; 
-$meta_description = "Check bse odisha 10th result 2024 for High School Certificate examinations. Access the official 2024 Odisha (BSE) 10th result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest High School Certificate (Class 10th) results for
-                Odisha. Official BSE mirrors and portal links updated for the 2024 Annual HSC examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 10th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Odisha 10th Board 2024 Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>Odisha Main Server 2024</h3>
+        <h3>Odisha Main Server 2024</h3>
                     <p>Primary server for Odisha HSC board results for the 2024 session.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -117,10 +88,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

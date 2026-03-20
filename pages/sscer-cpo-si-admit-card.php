@@ -9,33 +9,6 @@ $meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall tick
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online</div>
     <h2 class='sr-title'>SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online"; 
-$meta_description = "Download SSCER CPO SI Admit Card 2024 for Eastern Region. Check application status, exam date, and center list for Sub-Inspector in Delhi Police and CAPFs at sscer.org."; 
-$meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall ticket, sscer.org cpo si status, ssc cpo admit card download kolkata, ssc si admit card eastern region"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSCER CPO SI Admit Card 2024 Download - Eastern Region Paper 1 Status | Univindia.online";
-$meta_description = "Download SSCER CPO SI Admit Card 2024 for Eastern Region. Check application status, exam date, and center list for Sub-Inspector in Delhi Police and CAPFs at sscer.org.";
-$meta_keywords = "sscer cpo si admit card 2024, ssc eastern region cpo hall ticket, sscer.org cpo si status, ssc cpo admit card download kolkata, ssc si admit card eastern region";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSCER CPO SI Admit Card 2024: Eastern Region Sub-Inspector Status</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>CPO Update:</strong> The Staff Selection Commission Eastern Region (SSCER) has activated the login portal for checking the Application Status of Sub-Inspector in Delhi Police and Central Armed Police Forces Examination 2024. Check your exam city intimation now.
         </div>
@@ -120,13 +93,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-red">Latest Result Updates</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

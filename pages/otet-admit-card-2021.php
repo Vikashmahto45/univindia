@@ -9,33 +9,6 @@ $meta_keywords = "otet admit card 2021, bse odisha teacher hall ticket download,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; OTET Admit Card 2021 Download - Odisha Teacher Eligibility Test Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>OTET Admit Card 2021 Download - Odisha Teacher Eligibility Test Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "OTET Admit Card 2021 Download - Odisha Teacher Eligibility Test Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download OTET Admit Card 2021. Get the direct link for Odisha Teacher Eligibility Test (OTET) examination hall tickets at bseodisha.ac.in."; 
-$meta_keywords = "otet admit card 2021, bse odisha teacher hall ticket download, otet.nic.in admit card link, odisha tet 2021 hall ticket download, teacher eligibility test odisha"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "OTET Admit Card 2021 Download - Odisha Teacher Eligibility Test Hall Ticket Link | Univindia.online";
-$meta_description = "Download OTET Admit Card 2021. Get the direct link for Odisha Teacher Eligibility Test (OTET) examination hall tickets at bseodisha.ac.in.";
-$meta_keywords = "otet admit card 2021, bse odisha teacher hall ticket download, otet.nic.in admit card link, odisha tet 2021 hall ticket download, teacher eligibility test odisha";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">OTET Admit Card 2021: Download Odisha Teacher Eligibility Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>OTET 2021 Archive:</strong> The Board of Secondary Education (BSE), Odisha, conducted the Odisha Teacher Eligibility Test (OTET) 2021 for primary and upper-primary teachers. Candidates looking for old hall tickets or qualifying records for the 2021 session can access the official archive link at bseodisha.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Get OTET Certificates</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

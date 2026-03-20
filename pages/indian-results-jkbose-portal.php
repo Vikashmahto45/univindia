@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indian results jkbose - Official Jammu & Kashmir Board Gateway</div>
     <h2 class='sr-title'>indian results jkbose - Official Jammu & Kashmir Board Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "indian results jkbose - Official Jammu & Kashmir Board Gateway"; 
-$meta_description = "Check indian results jkbose for Class 10th and 12th board results. Access the official JKBOSE result portal on indiaresults for both Jammu and Kashmir divisions."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest High School and Higher Secondary results for Jammu &
-                Kashmir. Official JKBOSE mirrors and portal links updated for divisional examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check JK Board Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Jammu & Kashmir Board Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>JKBOSE Main Server</h3>
+        <h3>JKBOSE Main Server</h3>
                     <p>Primary server for Jammu & Kashmir board results latest session.</p>
                     <a href="https://jammu-kashmir.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -117,10 +88,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

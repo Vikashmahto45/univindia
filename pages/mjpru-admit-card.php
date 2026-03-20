@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in</div>
     <h2 class='sr-title'>MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "MJPRU Admit Card 2025: MJP Rohilkhand University BA, BSc, BCom, MA Hall Ticket @ mjpru.ac.in";
-$page_description = "Download MJPRU Admit Card 2025 for Private & Regular exams. Get direct link for Mahatma Jyotiba Phule Rohilkhand University UG/PG Hall Ticket, Exam Schedule, and private entrance info.";
-$page_keywords = "MJPRU Admit Card 2025, MJP Rohilkhand University Hall Ticket, MJPRU Admit Card Private, Download MJPRU Call Letter, mjpru.ac.in admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">MJPRU Admit Card</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-university me-2"></i> <strong>University Update:</strong> Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly has activated the admit card link for odd/even semesters and annual exams. Candidates can download their hall tickets using the form number.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>MJPRU Admit Card</strong> is a mandatory requirement for all students enrolled in Mahatma Jyotiba Phule Rohilkhand University, Bareilly. Whether you are a regular student or a private candidate in undergraduate (BA, BSc, BCom) or postgraduate (MA, MSc, MCom) courses, carrying your admit card to the examination center is essential for appearing in the university's exams.
                 </p>
@@ -169,57 +134,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-graduation-cap me-2"></i> Other University Portals</h3>
                 <div class="row g-3">
-                    <?php
-                    $unis = [
-                        'ccsu-admit-card.php' => 'CCSU Admit Card',
-                        'ccs-admit-card.php' => 'CCS Hall Ticket',
-                        'jawahar-navodaya-vidyalaya-admit-card.php' => 'JNV Hall Ticket',
-                        'ugc-net-admit-card-2024.php' => 'UGC NET Admit Card'
-                    ];
-                    foreach ($unis as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="mu-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ffa500);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.95);
-    backdrop-filter: blur(8px);
-}
-.text-light-gray {
-    color: #e5e5e5;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #121212 0%, #2c2c2c 100%);
-}
-.mu-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-.mu-link-card:hover {
-    background: rgba(13, 202, 240, 0.15);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-8px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

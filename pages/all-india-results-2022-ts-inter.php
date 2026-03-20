@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india results 2022 intermediate ts - Official Telangana Archive</div>
     <h2 class='sr-title'>all india results 2022 intermediate ts - Official Telangana Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "all india results 2022 intermediate ts - Official Telangana Archive"; 
-$meta_description = "Check all india results 2022 intermediate ts for 1st and 2nd year examinations. Access the official Telangana State Board (TSBIE) portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 Intermediate (1st & 2nd Year) results for Telangana.
-                Official TSBIE archival links and mirrors updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Telangana 2022 Inter Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>TSBIE Main Server</h3>
+        <h3>TSBIE Main Server</h3>
                     <p>Primary server for TS Inter results 2022 archive.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -116,10 +87,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

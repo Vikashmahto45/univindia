@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Mpbse Nic In 10th Result 2023 Link</div>
     <h2 class='sr-title'>Mpbse Nic In 10th Result 2023 Link</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Mpbse Nic In 10th Result 2023 Link"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="content-wrapper">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                
-            
-        <div class="row">
-            <div class="col-md-12">
-                <div class="alert alert-info">
-                    <strong>MP Board 10th Result 2023:</strong> The Madhya Pradesh Board of Secondary Education (MPBSE) has declared the Class 10th (High School) results for the 2023 examinations. Students can use the official link provided on <strong>mpbse.nic.in</strong>.
-                </div>
-                <p>
+        <p>
                     MPBSE is the apex body for school education in Madhya Pradesh. The 10th board exams are a significant event, and students can check their subject-specific marks and merit positions on the board's official servers.
                 </p>
                 <h3>Direct Access to MPBSE 10th Result 2023:</h3>
@@ -60,10 +38,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in</div>
     <h2 class='sr-title'>RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RPF Constable Admit Card 2024: Download Railway RPF Hall Ticket Link @ rrbapply.gov.in";
-$page_description = "RPF Constable Admit Card 2024 Download Link. Get hall ticket for Railway Protection Force Constable CBT Exam. Physical test date, exam city, and instructions.";
-$page_keywords = "RPF Constable Admit Card 2024, Railway RPF Hall Ticket, RPF Constable Exam Date 2024, Download RPF Call Letter, rrbapply.gov.in admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">RPF Constable Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-info border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-train fa-2x text-info"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">CBT Examination Update:</h4>
                         <p class="mb-0">The Railway Recruitment Board (RRB) is preparing the <strong>RPF Constable Admit Card 2024</strong> for the upcoming Computer Based Test. Candidates will be able to check their exam city intimation 10 days before the scheduled date.</p>
                     
@@ -217,12 +180,6 @@ include '../includes/header.php';
     font-size: 0.75rem;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

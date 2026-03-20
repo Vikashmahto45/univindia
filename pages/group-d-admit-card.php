@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City</div>
     <h2 class='sr-title'>Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "Group D Admit Card 2024: Download Railway RRC Group D Hall Ticket & Exam City";
-$page_description = "Download RRC Group D Admit Card 2024. Get direct links for Railway Group D Call Letter, Exam City Intimation, and Exam Date. 800+ word guide for RRC Level 1 aspirants.";
-$page_keywords = "Group D Admit Card 2024, RRC Group D Hall Ticket, Railway Group D Call Letter, Download RRC Group D 2024 Admit Card, Exam City Intimation";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">Group D Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-info border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-info-circle fa-2x text-info"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Important Announcement:</h4>
                         <p class="mb-0">The Railway Recruitment Cells (RRC) are preparing to release the <strong>Group D Admit Card 2024</strong>. Candidates who have applied for CEN No. RRC-01/2024 can expect their exam city intimation slip 10 days before the exam.</p>
                     
@@ -267,12 +230,6 @@ include '../includes/header.php';
     background-color: transparent;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

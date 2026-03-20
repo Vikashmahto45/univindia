@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; wbresults.nic.in 10th result link - Official West Bengal Hub</div>
     <h2 class='sr-title'>wbresults.nic.in 10th result link - Official West Bengal Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "wbresults.nic.in 10th result link - Official West Bengal Hub"; 
-$meta_description = "Check West Bengal Board 10th result on wbresults.nic.in 10th result link. Access official WBBSE Madhyamik scorecards and 10th result links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for West Bengal Board of Secondary Education (WBBSE) 10th (Madhyamik) examination results via the official wbresults.nic.in infrastructure. Access official board mirrors and 10th result links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 10th Result Link</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified West Bengal (WBBSE) 10th Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>WBBSE Server 10th</h3>
+        <h3>WBBSE Server 10th</h3>
                     <p>Primary server for accessing West Bengal Board Class 10th (Secondary/Madhyamik Pariksha) examination result data for all academic sessions in West Bengal.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

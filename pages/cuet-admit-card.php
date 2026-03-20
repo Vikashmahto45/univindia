@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG</div>
     <h2 class='sr-title'>CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "CUET Admit Card 2025: NTA CUET UG Hall Ticket Download @ exams.nta.ac.in/CUET-UG";
-$page_description = "Download CUET Admit Card 2025 for UG Entrance Exam. Get direct link for NTA CUET Hall Ticket, Exam Schedule, and City Intimation Slip. 800+ words guide.";
-$page_keywords = "CUET Admit Card 2025, NTA CUET UG Hall Ticket Download, CUET 2025 Call Letter Link, exams.nta.ac.in cuet login, CUET City Slip Status";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">CUET Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-university me-2"></i> <strong>Official News:</strong> The National Testing Agency (NTA) has activated the portal for <strong>CUET UG 2025</strong> admissions. Candidates can now download their City Intimation Slip and the final <strong>CUET Admit Card</strong> using their Application Number.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>CUET Admit Card 2025</strong> is the mandatory digital pass for students seeking admission into Central Universities, City Universities, and participating Private Universities across India. As the world's second-largest entrance examination, the Common University Entrance Test (CUET) conducted by the NTA requires a high-security <strong>CUET UG Hall Ticket</strong> that details your specific Subject Combinations (Slots), Exam Date, and Center Location.
                 </p>
@@ -152,57 +117,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-graduation-cap me-2"></i> University Admission Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $univ_links = [
-                        'du-admit-card.php' => 'Delhi University Admit Card',
-                        'bhu-admit-card.php' => 'BHU Entrance Hall Ticket',
-                        'jnu-admit-card.php' => 'JNU Entrance Call Letter',
-                        'amu-admit-card.php' => 'AMU Admission Card'
-                    ];
-                    foreach ($univ_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="cuet-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.cuet-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.cuet-link-card:hover {
-    background: rgba(40, 167, 69, 0.12);
-    border-color: #28a745 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

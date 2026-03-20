@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter 1 year results - Official Junior College Gateway</div>
     <h2 class='sr-title'>inter 1 year results - Official Junior College Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "inter 1 year results - Official Junior College Gateway"; 
-$meta_description = "Check inter 1 year results for all major state boards. Access the official 1st Year Intermediate result hub on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest 1st Year Intermediate results for all state boards.
-                Official result mirrors and high-speed links updated for the current session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open Inter 1st Year</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Inter 1st Year Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Inter Result Hub</h3>
+        <h3>Inter Result Hub</h3>
                     <p>Primary server for all Intermediate 1st Year results.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -116,10 +87,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

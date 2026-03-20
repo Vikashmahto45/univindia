@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 10th result 2021 name wise and father name - Official BSER Rajasthan Archive</div>
     <h2 class='sr-title'>rbse 10th result 2021 name wise and father name - Official BSER Rajasthan Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rbse 10th result 2021 name wise and father name - Official BSER Rajasthan Archive"; 
-$meta_description = "Check rbse 10th result 2021 name wise and father name for BSER Secondary exams. Access the official 2021 Rajasthan archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session results for Class 10th (Secondary) for
-                Rajasthan with name and father's name search features. Official BSER Ajmer mirrors updated for the 2021
-                batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 BSER Rajasthan Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSER Main Server 2021</h3>
+        <h3>BSER Main Server 2021</h3>
                     <p>Primary server for Rajasthan 10th result data for the 2021 session archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

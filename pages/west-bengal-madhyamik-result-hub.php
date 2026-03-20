@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; west bengal madhyamik result - Official WBBSE Result Portal Hub</div>
     <h2 class='sr-title'>west bengal madhyamik result - Official WBBSE Result Portal Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "west bengal madhyamik result - Official WBBSE Result Portal Hub"; 
-$meta_description = "Check west bengal madhyamik result for Class 10th examinations. Access the official West Bengal (WBBSE) Matric result gateway on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest Madhyamik Pariksha (10th) results for West Bengal.
-                Official WBBSE mirrors and portal links updated for the Matric examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Madhyamik Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">West Bengal Matric Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>WBBSE Main Server</h3>
+        <h3>WBBSE Main Server</h3>
                     <p>Primary server for West Bengal 10th result latest session.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -116,10 +87,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

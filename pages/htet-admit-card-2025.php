@@ -9,33 +9,6 @@ $meta_keywords = "htet admit card 2025 download, haryana teacher eligibility tes
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HTET Admit Card 2025 Download - Haryana Teacher Eligibility Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>HTET Admit Card 2025 Download - Haryana Teacher Eligibility Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "HTET Admit Card 2025 Download - Haryana Teacher Eligibility Test Hall Ticket | Univindia.online"; 
-$meta_description = "Download HTET Admit Card 2025. Get the direct link for Haryana Teacher Eligibility Test (HTET) Level 1, 2, and 3 exam hall tickets at bseh.org.in."; 
-$meta_keywords = "htet admit card 2025 download, haryana teacher eligibility test hall ticket download, bseh.org.in htet login, htet exam date 2025 download, haryana teaching call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "HTET Admit Card 2025 Download - Haryana Teacher Eligibility Test Hall Ticket | Univindia.online";
-$meta_description = "Download HTET Admit Card 2025. Get the direct link for Haryana Teacher Eligibility Test (HTET) Level 1, 2, and 3 exam hall tickets at bseh.org.in.";
-$meta_keywords = "htet admit card 2025 download, haryana teacher eligibility test hall ticket download, bseh.org.in htet login, htet exam date 2025 download, haryana teaching call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">HTET Admit Card 2025: Download Haryana Teacher Eligibility Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>HTET 2025 Official:</strong> The Board of School Education Haryana (BSEH) has activated the portal for downloading exam admit cards for the Haryana Teacher Eligibility Test (HTET) 2025 for Level 1 (PRT), Level 2 (TGT), and Level 3 (PGT). Candidates can log in with their registration number at bseh.org.in.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Teaching Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

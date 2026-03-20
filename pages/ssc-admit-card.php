@@ -9,33 +9,6 @@ $meta_keywords = "ssc admit card 2024, ssc hall ticket download, ssc exam status
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Admit Card 2024 Download - CGL, CHSL, MTS, GD, CPO | Univindia.online</div>
     <h2 class='sr-title'>SSC Admit Card 2024 Download - CGL, CHSL, MTS, GD, CPO | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC Admit Card 2024 Download - CGL, CHSL, MTS, GD, CPO | Univindia.online"; 
-$meta_description = "Download SSC Admit Card 2024 for all major exams including CGL Tier 1, CHSL, MTS, GD Constable, and CPO SI. Get regional links and step-by-step guide here."; 
-$meta_keywords = "ssc admit card 2024, ssc hall ticket download, ssc exam status, ssc portal login, ssc admit card link, ssc cgl chsl mts gd admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC Admit Card 2024 Download - CGL, CHSL, MTS, GD, CPO | Univindia.online";
-$meta_description = "Download SSC Admit Card 2024 for all major exams including CGL Tier 1, CHSL, MTS, GD Constable, and CPO SI. Get regional links and step-by-step guide here.";
-$meta_keywords = "ssc admit card 2024, ssc hall ticket download, ssc exam status, ssc portal login, ssc admit card link, ssc cgl chsl mts gd admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC Admit Card 2024: Master Hub for CGL, CHSL, MTS & GD Constable</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Global Update:</strong> The Staff Selection Commission (SSC) has released the 2024-25 Exam Calendar. Admit cards for GD Constable and CGL Tier 2 are expected to be out soon. Keep your registration details ready for regional login.
         </div>
@@ -123,13 +96,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Home Page</a>
             <a href="latest-jobs.php" class="hot-btn bg-darkblue">Explore Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

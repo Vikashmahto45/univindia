@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JPSC Admit Card 2024: Download Civil Services Prelims Hall Ticket @jpsc.gov.in</div>
     <h2 class='sr-title'>JPSC Admit Card 2024: Download Civil Services Prelims Hall Ticket @jpsc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JPSC Admit Card 2024: Download Civil Services Prelims Hall Ticket @jpsc.gov.in"; 
-$meta_description = "Download JPSC Admit Card 2024 for Jharkhand Civil Services Examination. Get direct link for JPSC Prelims/Mains Hall Ticket download at jpsc.gov.in."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">JPSC Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
-                <div class="card-header bg-success p-4">
-                    
-                </div>
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <p class="lead">The Jharkhand Public Service Commission (JPSC) is responsible for recruiting officers into the state civil services. The JPSC Admit Card for the Combined Civil Services Examination 2024 is the primary document required for candidates to appear in the Preliminary and Main examinations. Thousands of candidates across Jharkhand and India wait for this call letter to begin their officer journey.</p>
                     
                     <div class="alert alert-success border-0 shadow-sm rounded-4 mt-4">
@@ -119,10 +94,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

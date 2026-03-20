@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jharkhand result - Official Jharkhand Academic Council Gateway</div>
     <h2 class='sr-title'>jharkhand result - Official Jharkhand Academic Council Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jharkhand result - Official Jharkhand Academic Council Gateway"; 
-$meta_description = "Check jharkhand result for 10th and 12th board exams. Access the official JAC result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest educational results for Jharkhand. Official JAC Ranchi
-                mirrors and portal links updated for 10th and 12th board examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Jharkhand Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Jharkhand Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JAC Main Server</h3>
+        <h3>JAC Main Server</h3>
                     <p>Primary server for Jharkhand board results latest session.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -116,10 +87,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

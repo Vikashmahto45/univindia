@@ -9,33 +9,6 @@ $meta_keywords = "join indian army admit card 2024, army agniveer hall ticket do
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Join Indian Army Admit Card 2024 Download - Agniveer GD, Clerk & Trademan Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Join Indian Army Admit Card 2024 Download - Agniveer GD, Clerk & Trademan Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Join Indian Army Admit Card 2024 Download - Agniveer GD, Clerk & Trademan Hall Ticket | Univindia.online"; 
-$meta_description = "Download Join Indian Army Admit Card 2024. Get the direct link for Army Agniveer GD, Technical, Clerk, and Tradesman CEE examination hall tickets at joinindianarmy.nic.in."; 
-$meta_keywords = "join indian army admit card 2024, army agniveer hall ticket download, joinindianarmy.nic.in admit card login, army cee admit card 2024 link, indian army bharti admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Join Indian Army Admit Card 2024 Download - Agniveer GD, Clerk & Trademan Hall Ticket | Univindia.online";
-$meta_description = "Download Join Indian Army Admit Card 2024. Get the direct link for Army Agniveer GD, Technical, Clerk, and Tradesman CEE examination hall tickets at joinindianarmy.nic.in.";
-$meta_keywords = "join indian army admit card 2024, army agniveer hall ticket download, joinindianarmy.nic.in admit card login, army cee admit card 2024 link, indian army bharti admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Join Indian Army Admit Card 2024: Download Agniveer & Regular Cadet Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Indian Army Recruitment:</strong> The Indian Army has released the Admit Cards for the Common Entrance Examination (CEE) under the Agniveer Recruitment 2024 scheme. Candidates can download their e-Admit Cards by logging into their profile at joinindianarmy.nic.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check Army Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

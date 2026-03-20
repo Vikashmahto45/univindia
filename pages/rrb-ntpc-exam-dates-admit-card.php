@@ -9,33 +9,6 @@ $meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online</div>
     <h2 class='sr-title'>RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online"; 
-$meta_description = "Check RRB NTPC Exam Dates and Download Admit Card. Get the direct link for Railway NTPC phase-wise examination schedules and hall tickets at rrbapply.gov.in."; 
-$meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule 2024 download, rrbapply.gov.in ntpc login 2024, railway recruitment exam date download, ntpc call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RRB NTPC Exam Dates Admit Card Download - Railway Recruitment Schedule | Univindia.online";
-$meta_description = "Check RRB NTPC Exam Dates and Download Admit Card. Get the direct link for Railway NTPC phase-wise examination schedules and hall tickets at rrbapply.gov.in.";
-$meta_keywords = "rrb ntpc exam dates admit card download, railway ntpc schedule 2024 download, rrbapply.gov.in ntpc login 2024, railway recruitment exam date download, ntpc call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RRB NTPC Exam Dates & Admit Card: Download Railway Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway NTPC Notice:</strong> The Railway Recruitment Boards (RRB) release the NTPC exam dates and phase-wise schedules on their regional websites. Candidates can check their City Intimation Slip 10 days before the exam and download the e-Call letter 4 days prior to their specific shift at rrbapply.gov.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Railway Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

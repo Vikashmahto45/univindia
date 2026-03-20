@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 result 2023 - Official National 12th Hub</div>
     <h2 class='sr-title'>class 12 result 2023 - Official National 12th Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "class 12 result 2023 - Official National 12th Hub"; 
-$meta_description = "Check all board results on class 12 result 2023. Access the official indiaresults portal for 12th (Intermediate) scorecards of the 2023 academic session."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Class 12th (Senior Secondary/Higher Secondary) examination results of the 2023 academic session across India. Access official board mirrors and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 12th Result 2023 Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 National Class 12 Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Indian 12th Server 2023</h3>
+        <h3>Indian 12th Server 2023</h3>
                     <p>Primary server mirror for accessing Class 12th (Sr. Secondary/Intermediate) examination result data for all State and Central board examinees of the 2023 session.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

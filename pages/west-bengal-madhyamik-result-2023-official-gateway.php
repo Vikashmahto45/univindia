@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; west bengal madhyamik result 2023 - Official WBBSE Hub</div>
     <h2 class='sr-title'>west bengal madhyamik result 2023 - Official WBBSE Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "west bengal madhyamik result 2023 - Official WBBSE Hub"; 
-$meta_description = "Check West Bengal Board 10th result 2023 on west bengal madhyamik result 2023. Access official WBBSE Madhyamik 2023 archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for West Bengal Board of Secondary Education (WBBSE) Madhyamik (Class 10th) examination results for the 2023 academic session. Access official West Bengal board mirrors and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Madhyamik Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 West Bengal (WBBSE) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>WBBSE Madhyamik Server 2023</h3>
+        <h3>WBBSE Madhyamik Server 2023</h3>
                     <p>Primary server for accessing West Bengal Board Class 10th (Secondary/Madhyamik Pariksha) examination result data for the 2023 academic session archive.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

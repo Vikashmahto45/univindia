@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bteup - Official Board of Technical Education Uttar Pradesh Gateway</div>
     <h2 class='sr-title'>bteup - Official Board of Technical Education Uttar Pradesh Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bteup - Official Board of Technical Education Uttar Pradesh Gateway"; 
-$meta_description = "Check bteup for Polytechnic and Diploma exams. Access the official Board of Technical Education Uttar Pradesh (BTEUP) result portal and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest examination results for Polytechnic Diplomas, Semester
-                exams, and Annual examinations for BTEUP Lucknow. Official board mirrors and archival links updated for
-                the latest academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check BTEUP Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified BTEUP Lucknow Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BTEUP Official Hub</h3>
+        <h3>BTEUP Official Hub</h3>
                     <p>Primary server for UP Polytechnic Diploma result data, Semester-wise marks, and archival sessions
                         archive.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

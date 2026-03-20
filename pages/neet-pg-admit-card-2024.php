@@ -9,33 +9,6 @@ $meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download NEET PG Admit Card 2024. Get the direct link for NBEMS National Eligibility Entrance Test for Post Graduates (MD/MS) hall tickets at nbe.edu.in."; 
-$meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu.in admit card login, neet pg exam date 2024 download, medical pg entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NEET PG Admit Card 2024 Download - NBEMS Post Graduate Entrance Hall Ticket Link | Univindia.online";
-$meta_description = "Download NEET PG Admit Card 2024. Get the direct link for NBEMS National Eligibility Entrance Test for Post Graduates (MD/MS) hall tickets at nbe.edu.in.";
-$meta_keywords = "neet pg admit card 2024, neet pg hall ticket download, nbe.edu.in admit card login, neet pg exam date 2024 download, medical pg entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NEET PG Admit Card 2024: Download NBEMS Post Graduate Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>NEET PG Official Update:</strong> The National Board of Examinations in Medical Sciences (NBEMS) has activated the portal for downloading the exam admit cards for the National Eligibility cum Entrance Test for Post Graduates (NEET PG) 2024. Candidates can log in with their User ID and Password at nbe.edu.in to download their hall tickets.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search MD/MS News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

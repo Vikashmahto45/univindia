@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hs result 2021 west bengal - Official WBCHSE 2021 Archive</div>
     <h2 class='sr-title'>hs result 2021 west bengal - Official WBCHSE 2021 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "hs result 2021 west bengal - Official WBCHSE 2021 Archive"; 
-$meta_description = "Check hs result 2021 west bengal for Higher Secondary exams. Access the official 2021 West Bengal Council of Higher Secondary Education (WBCHSE) archival portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for West Bengal
-                Class 12th (Higher Secondary). Official WBCHSE mirrors and archival links updated for the 2021 batch
-                verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 HS Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 West Bengal Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>WBCHSE Server 2021</h3>
+        <h3>WBCHSE Server 2021</h3>
                     <p>Primary server for West Bengal Board HS result data for the 2021 session archive across all
                         streams (Science, Commerce, Arts).</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

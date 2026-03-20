@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; uk board result - Official Uttarakhand Board Result Gateway</div>
     <h2 class='sr-title'>uk board result - Official Uttarakhand Board Result Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "uk board result - Official Uttarakhand Board Result Gateway"; 
-$meta_description = "Check uk board result for Class 10th and 12th exams. Access the official Uttarakhand Board of School Education (UBSE) result portal and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest examination results for Class 10th (Secondary) and
-                12th (Intermediate) for the Uttarakhand Board (UBSE). Official Ramnagar mirrors and archival links
-                updated for the latest academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Uttarakhand Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Uttarakhand (UBSE) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>UBSE Ramnagar Server</h3>
+        <h3>UBSE Ramnagar Server</h3>
                     <p>Primary server for Uttarakhand board result data for High School and Intermediate examinations
                         archive.</p>
                     <a href="https://uttarakhand.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

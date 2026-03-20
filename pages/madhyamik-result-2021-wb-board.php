@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; madhyamik result 2021 west bengal board - Official WBBSE Archive</div>
     <h2 class='sr-title'>madhyamik result 2021 west bengal board - Official WBBSE Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "madhyamik result 2021 west bengal board - Official WBBSE Archive"; 
-$meta_description = "Check madhyamik result 2021 west bengal board for the Class 10th examinations. Access the official 2021 WBBSE Matric result archive on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 Madhyamik Pariksha (10th) results for West Bengal.
-                Official WBBSE mirrors and archival links updated for Matric examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">West Bengal 2021 Matric Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>WBBSE Main Server 2021</h3>
+        <h3>WBBSE Main Server 2021</h3>
                     <p>Primary server for West Bengal 10th result 2021 archive.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -117,10 +88,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

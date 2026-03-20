@@ -9,33 +9,6 @@ $meta_keywords = "rajasthan university admit card 2024, uniraj admit card downlo
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rajasthan University Admit Card 2024 Download - UNIRAJ UG & PG Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Rajasthan University Admit Card 2024 Download - UNIRAJ UG & PG Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Rajasthan University Admit Card 2024 Download - UNIRAJ UG & PG Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download Rajasthan University (UNIRAJ) Admit Card 2024. Get the direct link for BA, BSc, BCom, MA, MSc, and MCom annual/semester examination hall tickets at uniraj.ac.in."; 
-$meta_keywords = "rajasthan university admit card 2024, uniraj admit card download, uor admit card login, uniraj.ac.in exam hall ticket, rajasthan university exam date"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Rajasthan University Admit Card 2024 Download - UNIRAJ UG & PG Exam Hall Ticket | Univindia.online";
-$meta_description = "Download Rajasthan University (UNIRAJ) Admit Card 2024. Get the direct link for BA, BSc, BCom, MA, MSc, and MCom annual/semester examination hall tickets at uniraj.ac.in.";
-$meta_keywords = "rajasthan university admit card 2024, uniraj admit card download, uor admit card login, uniraj.ac.in exam hall ticket, rajasthan university exam date";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Rajasthan University Admit Card 2024: Download UNIRAJ UG & PG Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>UNIRAJ Exam Update:</strong> The University of Rajasthan (UNIRAJ) has released the admit cards for BA, BSc, and BCom Part 1, 2, and 3 annual examinations 2024. Regular and private students can download their hall tickets from the official university portal at univraj.org.
         </div>
@@ -115,13 +88,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12th - Official National Higher Secondary Archive</div>
     <h2 class='sr-title'>india result 12th - Official National Higher Secondary Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 12th - Official National Higher Secondary Archive"; 
-$meta_description = "Check india result 12th for all state board exams. Access the official Class 12th (Intermediate) result portal and archival verification links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized destination for the Class 12th (Higher Secondary /
-                Intermediate) results across all state boards in India. Official board mirrors and archival links
-                updated for the latest academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 12th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Class 12th Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Results Hub</h3>
+        <h3>Board Results Hub</h3>
                     <p>Primary server for Class 12 result data across participating state boards (BSER, BSEB, CHSE,
                         etc.) archive.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

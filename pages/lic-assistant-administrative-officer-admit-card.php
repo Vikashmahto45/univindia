@@ -9,33 +9,6 @@ $meta_keywords = "lic assistant administrative officer admit card download, lic 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; LIC Assistant Administrative Officer Admit Card Download - LIC AAO Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>LIC Assistant Administrative Officer Admit Card Download - LIC AAO Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "LIC Assistant Administrative Officer Admit Card Download - LIC AAO Hall Ticket | Univindia.online"; 
-$meta_description = "Download LIC Assistant Administrative Officer (AAO) Admit Card. Get the direct link for LIC AAO Generalist and IT/CA/Actuarial hall tickets at licindia.in."; 
-$meta_keywords = "lic assistant administrative officer admit card download, lic aao hall ticket download, licindia.in aao login admit card, lic aao exam date 2024 download, insurance officer call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "LIC Assistant Administrative Officer Admit Card Download - LIC AAO Hall Ticket | Univindia.online";
-$meta_description = "Download LIC Assistant Administrative Officer (AAO) Admit Card. Get the direct link for LIC AAO Generalist and IT/CA/Actuarial hall tickets at licindia.in.";
-$meta_keywords = "lic assistant administrative officer admit card download, lic aao hall ticket download, licindia.in aao login admit card, lic aao exam date 2024 download, insurance officer call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">LIC Assistant Administrative Officer Admit Card: Download LIC AAO Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>LIC AAO Recruitment:</strong> The Life Insurance Corporation of India (LIC) has activated the portal for downloading exam admit cards for the post of Assistant Administrative Officer (AAO). Candidates appearing for Generalist or Specialist cadres can log in with their registration number at licindia.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Insurance Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

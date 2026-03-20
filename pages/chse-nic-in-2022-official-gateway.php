@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; chse.nic.in 2022 result - Official Odisha +2 Hub</div>
     <h2 class='sr-title'>chse.nic.in 2022 result - Official Odisha +2 Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "chse.nic.in 2022 result - Official Odisha +2 Hub"; 
-$meta_description = "Check Odisha Board +2 result 2022 on chse.nic.in 2022 result. Access official CHSE Odisha Plus Two 2022 archival scorecards on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Council of Higher Secondary Education (CHSE), Odisha Class 12th (+2) examination results for the 2022 academic session. Access official Odisha board mirrors and 2022 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 +2 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Odisha (CHSE +2) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>CHSE Odisha Server 2022</h3>
+        <h3>CHSE Odisha Server 2022</h3>
                     <p>Primary server for Odisha Board Class 12th (+2/Higher Secondary) examination result data for the 2022 session archive across all streams (Arts, Science, Commerce) in Odisha.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; hslc result link - Official High School Result Hub</div>
     <h2 class='sr-title'>hslc result link - Official High School Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "hslc result link - Official High School Result Hub"; 
-$meta_description = "Check all state HSLC results on hslc result link. Access official indiaresults gateway for High School Leaving Certificate 10th scores and rank lists."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all High School Leaving Certificate (HSLC/Class
-                10th) examination results across India. Access official board mirrors and direct result links for all
-                participating state boards (SEBA, BSE, etc.).</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open HSLC Result Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National HSLC Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>HSLC Main Server</h3>
+        <h3>HSLC Main Server</h3>
                     <p>Primary server mirror for accessing HSLC (Class 10) results for states like Assam, Odisha,
                         Manipur, and Nagaland on official board mirrors.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

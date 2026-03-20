@@ -9,33 +9,6 @@ $meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, s
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online"; 
-$meta_description = "Download SSC CGL Admit Card 2021. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) 2021 Tier-1 exam hall tickets at ssc.nic.in."; 
-$meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, ssc cgl tier 1 2021 hall ticket download, ssc.nic.in cgl login, staff selection graduate level call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC CGL Admit Card 2021 Download - Tier 1 Staff Selection Commission Hall Ticket | Univindia.online";
-$meta_description = "Download SSC CGL Admit Card 2021. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) 2021 Tier-1 exam hall tickets at ssc.nic.in.";
-$meta_keywords = "ssc cgl admit card 2021, ssc.nic.in cgl admit card download, ssc cgl tier 1 2021 hall ticket download, ssc.nic.in cgl login, staff selection graduate level call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC CGL Admit Card 2021: Download Staff Selection Commission Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSC CGL 2021 Archive:</strong> The Staff Selection Commission (SSC) conducted the Combined Graduate Level (CGL) 2021 examination for recruitment to various Group B and C posts in Ministries/Departments. Candidates looking for old hall tickets or merit records for the 2021 session can access the official regional SSC portals.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check CGL Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

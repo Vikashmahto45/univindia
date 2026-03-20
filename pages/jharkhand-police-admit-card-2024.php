@@ -9,33 +9,6 @@ $meta_keywords = "jharkhand police admit card 2024, jssc constable hall ticket d
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Jharkhand Police Admit Card 2024 Download - JSSC Constable Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>Jharkhand Police Admit Card 2024 Download - JSSC Constable Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Jharkhand Police Admit Card 2024 Download - JSSC Constable Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download Jharkhand Police Admit Card 2024. Get the direct link for JSSC Constable Competitive Examination (JCCE) physical and written test hall tickets at jssc.nic.in."; 
-$meta_keywords = "jharkhand police admit card 2024, jssc constable hall ticket download, jssc.nic.in admit card link, jcce 2024 hall ticket download, jharkhand police exam date"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Jharkhand Police Admit Card 2024 Download - JSSC Constable Hall Ticket Link | Univindia.online";
-$meta_description = "Download Jharkhand Police Admit Card 2024. Get the direct link for JSSC Constable Competitive Examination (JCCE) physical and written test hall tickets at jssc.nic.in.";
-$meta_keywords = "jharkhand police admit card 2024, jssc constable hall ticket download, jssc.nic.in admit card link, jcce 2024 hall ticket download, jharkhand police exam date";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Jharkhand Police Admit Card 2024: Download JSSC Constable Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>JSSC Recruitment Update:</strong> The Jharkhand Staff Selection Commission (JSSC) has officially activated the portal for downloading the exam admit cards for the Jharkhand Constable Competitive Examination (JCCE) 2024. Candidates can log in with their registration ID to download their physical efficiency and written test hall tickets at jssc.nic.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

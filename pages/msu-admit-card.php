@@ -9,33 +9,6 @@ $meta_keywords = "msu admit card download, maharaja sayajirao university hall ti
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online"; 
-$meta_description = "Download MSU Admit Card. Get the direct link for Maharaja Sayajirao University (MSU Baroda) UG and PG semester examination hall tickets at msubaroda.ac.in."; 
-$meta_keywords = "msu admit card download, maharaja sayajirao university hall ticket download, msubaroda.ac.in login admit card, msu baroda exam date 2024 download, university entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "MSU Admit Card Download - Maharaja Sayajirao University Baroda Hall Ticket | Univindia.online";
-$meta_description = "Download MSU Admit Card. Get the direct link for Maharaja Sayajirao University (MSU Baroda) UG and PG semester examination hall tickets at msubaroda.ac.in.";
-$meta_keywords = "msu admit card download, maharaja sayajirao university hall ticket download, msubaroda.ac.in login admit card, msu baroda exam date 2024 download, university entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">MSU Admit Card: Download Maharaja Sayajirao University Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MSU Baroda Update:</strong> The Maharaja Sayajirao University of Baroda (MSU) has activated the portal for downloading exam admit cards for the Undergraduate (UG) and Postgraduate (PG) Semester Examinations. Students can log in with their PRN or Application Number at msubaroda.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Tech Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

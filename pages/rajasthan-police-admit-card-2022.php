@@ -9,33 +9,6 @@ $meta_keywords = "rajasthan police admit card 2022 download, raj police constabl
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rajasthan Police Admit Card 2022 Download - Constable Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Rajasthan Police Admit Card 2022 Download - Constable Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Rajasthan Police Admit Card 2022 Download - Constable Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download Rajasthan Police Admit Card 2022. Get the direct link for Rajasthan Police Constable recruitment examination hall tickets at recruitment2.rajasthan.gov.in."; 
-$meta_keywords = "rajasthan police admit card 2022 download, raj police constable hall ticket 2022 download, sso id login rajasthan police, rajasthan police exam date 2022 download, constable recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Rajasthan Police Admit Card 2022 Download - Constable Exam Hall Ticket | Univindia.online";
-$meta_description = "Download Rajasthan Police Admit Card 2022. Get the direct link for Rajasthan Police Constable recruitment examination hall tickets at recruitment2.rajasthan.gov.in.";
-$meta_keywords = "rajasthan police admit card 2022 download, raj police constable hall ticket 2022 download, sso id login rajasthan police, rajasthan police exam date 2022 download, constable recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Rajasthan Police Admit Card 2022: Download Constable Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Rajasthan Police 2022 Archive:</strong> The Rajasthan Police Department conducted the Constable Recruitment Test 2021-22 in May 2022 and subsequent re-exams in July 2022. Candidates looking for old hall tickets or physical efficiency test (PET/PST) records for the 2022 session can access the official portal archive via SSO Rajasthan.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Rajasthan Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "ssc.nic.in admit card 2021, ssc gd admit card download, ssc ch
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ssc.nic.in Admit Card 2021 Download - Staff Selection Commission Recruitment Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>ssc.nic.in Admit Card 2021 Download - Staff Selection Commission Recruitment Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ssc.nic.in Admit Card 2021 Download - Staff Selection Commission Recruitment Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download ssc.nic.in Admit Card 2021. Get the direct link for SSC GD, CHSL, CGL, and MTS recruitment examination hall tickets at ssc.nic.in regional portals."; 
-$meta_keywords = "ssc.nic.in admit card 2021, ssc gd admit card download, ssc chsl 2021 hall ticket login, ssc mts admit card 2021 link, staff selection commission call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "ssc.nic.in Admit Card 2021 Download - Staff Selection Commission Recruitment Hall Ticket Link | Univindia.online";
-$meta_description = "Download ssc.nic.in Admit Card 2021. Get the direct link for SSC GD, CHSL, CGL, and MTS recruitment examination hall tickets at ssc.nic.in regional portals.";
-$meta_keywords = "ssc.nic.in admit card 2021, ssc gd admit card download, ssc chsl 2021 hall ticket login, ssc mts admit card 2021 link, staff selection commission call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">ssc.nic.in Admit Card 2021: Download SSC Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSC 2021 Archive:</strong> The Staff Selection Commission (SSC) conducted major recruitments in 2021 including GD Constable, CHSL, and MTS. Candidates seeking historical data or old 2021 hall tickets for document verification purposes can visit the regional links available at ssc.nic.in.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

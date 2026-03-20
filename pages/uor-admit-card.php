@@ -9,33 +9,6 @@ $meta_keywords = "uor admit card 2024, university of rajasthan hall ticket, uor.
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UOR Admit Card 2024 Download - University of Rajasthan Exams Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>UOR Admit Card 2024 Download - University of Rajasthan Exams Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UOR Admit Card 2024 Download - University of Rajasthan Exams Hall Ticket | Univindia.online"; 
-$meta_description = "Download UOR (University of Rajasthan) Admit Card 2024. Get the direct link for BA, BSc, BCom, MA, MSc, and MCom annual/semester examination hall tickets at univraj.org."; 
-$meta_keywords = "uor admit card 2024, university of rajasthan hall ticket, uor.ac.in exam admit card download, uor exam date 2024, univraj admit card login"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "UOR Admit Card 2024 Download - University of Rajasthan Exams Hall Ticket | Univindia.online";
-$meta_description = "Download UOR (University of Rajasthan) Admit Card 2024. Get the direct link for BA, BSc, BCom, MA, MSc, and MCom annual/semester examination hall tickets at univraj.org.";
-$meta_keywords = "uor admit card 2024, university of rajasthan hall ticket, uor.ac.in exam admit card download, uor exam date 2024, univraj admit card login";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">UOR Admit Card 2024: Download University of Rajasthan Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>UOR Exam Update:</strong> The University of Rajasthan (UOR) has started the distribution of e-admit cards for the 2024 annual examinations. Students of BA, BSc, and BCom (Regular/Ex/Private) can now download their hall tickets from the official portal univraj.org.
         </div>
@@ -116,13 +89,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

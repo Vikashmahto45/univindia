@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in</div>
     <h2 class='sr-title'>Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "Haryana Police Admit Card 2025: HSSC Constable Hall Ticket Download @ hssc.gov.in";
-$page_description = "Download Haryana Police Admit Card 2025 for Constable 6000 vacancies. Get direct link for HSSC Haryana Police Hall Ticket, PST/PMT Schedule, and Exam Date. 800+ words guide.";
-$page_keywords = "Haryana Police Admit Card 2025, HSSC Constable Hall Ticket Download, hssc.gov.in admit card link, Haryana Police PST PMT Status, Haryana Police Exam Date";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">Haryana Police Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-shield-alt me-2"></i> <strong>PST/PMT Update:</strong> The Haryana Staff Selection Commission (HSSC) has announced the Physical Screening Test (PST) dates for the 6,000 Constable vacancies. The <strong>Haryana Police Admit Card</strong> for the physical stage is now downloadable.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>Haryana Police Admit Card 2025</strong> is the mandatory voucher for candidates participating in the state's largest police recruitment drive. With 6,000 vacancies (5,000 Male and 1,000 Female Constables), the HSSC employs a multi-stage selection process where the <strong>Haryana Police Hall Ticket</strong> serves as the primary verification document for the PST, PMT, and Knowledge Test (Written Exam).
                 </p>
@@ -156,57 +121,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Haryana State Recruitment Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $hry_links = [
-                        'hpsc-admit-card.php' => 'HPSC SDO/HCS Admit Card',
-                        'hseb-admit-card.php' => 'HBSE Board Result 2025',
-                        'hau-admit-card.php' => 'HAU Hisar Entrance Card',
-                        'mdu-admit-card.php' => 'MDU Rohtak Hall Ticket'
-                    ];
-                    foreach ($hry_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="hry-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.hry-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.hry-link-card:hover {
-    background: rgba(255, 193, 7, 0.12);
-    border-color: #ffc107 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

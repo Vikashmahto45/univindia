@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC CPO Admit Card 2024: Phase 1 Sub-Inspector Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC CPO Admit Card 2024 for Sub-Inspector (SI) recruitment. Get direct link for SSC CPO 2024 Hall Ticket, Physical Date, and Region Wise Status. 800+ words guide.";
-$page_keywords = "SSC CPO Admit Card 2024, SSC CPO SI 2024 Hall Ticket Download, ssc.gov.in cpo 2024 link, SSC CPO 2024 Exam Date, SSC CPO Region Status";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">SSC CPO Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-user-shield me-2"></i> <strong>Exam Alert:</strong> The Computer Based Examination (CBE) for <strong>SSC CPO 2024</strong> is scheduled across various centers. Candidates can download their regional <strong>CPO 2024 Admit Card</strong> using the official links below.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>SSC CPO Admit Card 2024</strong> is the mandatory identification voucher for graduates seeking a career in the executive branch of the Indian Police and Para-military forces. With thousands of Sub-Inspector vacancies in the Delhi Police, BSF, CISF, CRPF, and SSB, the <strong>SSC CPO 2024 Hall Ticket</strong> represents the first crucial step toward achieving a position of command and responsibility in national internal security.
                 </p>
@@ -159,57 +124,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-shield-alt me-2"></i> SI Executive Resources</h3>
                 <div class="row g-3">
-                    <?php
-                    $cpo24_links = [
-                        'ssc-cpo-result-2024.php' => 'CPO Final Selection List',
-                        'ssc-cpo-cut-off-2024.php' => 'CPO Region Wise Cut Off',
-                        'ssc-cpo-exam-analysis.php' => 'Shift-Wise Exam Review',
-                        'ssc-cpo-physical-tips.php' => 'High Jump & Long Jump Tips'
-                    ];
-                    foreach ($cpo24_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="cpo24-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.cpo24-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.cpo24-link-card:hover {
-    background: rgba(13, 202, 240, 0.12);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

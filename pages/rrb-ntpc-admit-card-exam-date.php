@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in</div>
     <h2 class='sr-title'>RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RRB NTPC Admit Card Exam Date 2024-25: Stage 1 CBT Schedule & Hall Ticket @ rrbcdg.gov.in";
-$page_description = "Check RRB NTPC Admit Card and Exam Date 2024-25. Get detailed schedule for CBT 1, shift timings, and download link for Railway NTPC Call Letter. 800+ words of latest updates.";
-$page_keywords = "RRB NTPC Admit Card Exam Date, RRB NTPC 2024 Exam Date, Railway NTPC CBT 1 Schedule, Download RRB NTPC Call Letter, rrbcdg.gov.in ntpc admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">RRB NTPC Exam Date</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-train me-2"></i> <strong>Railway Update:</strong> The Railway Recruitment Board (RRB) has initiated the process for CEN 01/2024 (NTPC Graduate and Under Graduate posts). The CBT 1 exam dates will be announced region-wise.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>RRB NTPC Admit Card Exam Date</strong> is the most anticipated information for millions of railway aspirants who have applied for the Non-Technical Popular Categories (NTPC) recruitment. With vacancies across various positions like Goods Train Manager, Junior Accountant, and Station Master, this recruitment drive is a lifeline for many seeking a stable career in the Indian Railways.
                 </p>
@@ -159,57 +124,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-train me-2"></i> RRB Regional Sites</h3>
                 <div class="row g-3">
-                    <?php
-                    $rrbs = [
-                        'rrb-chandigarh-admit-card.php' => 'RRB Chandigarh Hall Ticket',
-                        'rrb-mumbai-admit-card.php' => 'RRB Mumbai Call Letter',
-                        'rrb-allahabad-admit-card.php' => 'RRB Allahabad Admit Card',
-                        'rrb-patna-admit-card.php' => 'RRB Patna Hall Ticket'
-                    ];
-                    foreach ($rrbs as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="rrb-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.95);
-    backdrop-filter: blur(8px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #111 0%, #333 100%);
-}
-.rrb-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s ease;
-}
-.rrb-link-card:hover {
-    background: rgba(13, 202, 240, 0.15);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

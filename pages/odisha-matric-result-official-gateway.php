@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha matric result - Official BSE Odisha Secondary Gateway</div>
     <h2 class='sr-title'>odisha matric result - Official BSE Odisha Secondary Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "odisha matric result - Official BSE Odisha Secondary Gateway"; 
-$meta_description = "Check odisha matric result for HSC exams. Access the official Board of Secondary Education (BSE) Odisha result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized destination for the High School Certificate (HSC)
-                results for Odisha. Official BSE mirrors and portal links updated for the latest Matriculation session.
-            </p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Matric Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Odisha Matriculation Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Odisha Main Server</h3>
+        <h3>BSE Odisha Main Server</h3>
                     <p>Primary server for Odisha High School Certificate (HSC) results latest session.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -123,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

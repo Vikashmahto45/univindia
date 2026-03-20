@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub</div>
     <h2 class='sr-title'>jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jac board 12th result 2024 - Official Jharkhand Senior Secondary Hub"; 
-$meta_description = "Check jac board 12th result 2024 for Intermediate exams. Access the official Jharkhand Academic Council (JAC) result portal mirror on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for the official examination results for Jharkhand
-                Class 12th (Intermediate). Direct board result links and mirror access updated for the 2024 academic
-                session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check JAC 12th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Jharkhand (JAC) 2024 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JAC Board Server 2024</h3>
+        <h3>JAC Board Server 2024</h3>
                     <p>Primary server for Jharkhand Board Intermediate result data across Science, Commerce, and Arts
                         streams for the 2024 session.</p>
                     <a href="https://jharkhand.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -129,10 +99,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

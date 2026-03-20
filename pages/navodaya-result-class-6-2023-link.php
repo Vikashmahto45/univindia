@@ -9,24 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Navodaya Result Class 6 2023 Link - JNVST Selection List</div>
     <h2 class='sr-title'>Navodaya Result Class 6 2023 Link - JNVST Selection List</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Navodaya Result Class 6 2023 Link - JNVST Selection List"; 
-$meta_description = "Access the Navodaya Result Class 6 2023 Link. Check JNVST Class 6 entrance exam results, selection list PDF, and waitlist details for all regions."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="result-container">
-    
-    <div class="info-box">
-        <p>Looking for the <strong>Navodaya Result Class 6 2023 Link</strong>? The Navodaya Vidyalaya Samiti (NVS) has released the results for the Jawahar Navodaya Vidyalaya Selection Test (JNVST) for Class 6 admissions. Check the link below to see if you have been selected.</p>
-    </div>
-
-    <div class="check-result-section">
+        <div class="check-result-section">
         <h2>Check JNVST Class 6 Result 2023</h2>
         <p>Parents and students can use the Navodaya Result Class 6 2023 Link to access the scorecards:</p>
         <ul class="steps-list">
@@ -49,11 +32,6 @@ $meta_keywords = "";
             <tr><td>Result Type</td><td>Selection List / Scorecard</td></tr>
             <tr><td>Admission Level</td><td>Class 6</td></tr>
         </table>
-    
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

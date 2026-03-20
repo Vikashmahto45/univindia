@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket</div>
     <h2 class='sr-title'>Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Jiwaji Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket"; 
-$meta_description = "Download Jiwaji University Admit Card 2024 for UG/PG Semester Exams. Get direct link for Jiwaji Gwalior Hall Ticket download at jiwaji.edu."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Jiwaji Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
-                <div class="card-header bg-danger text-white p-4">
-                    
-                </div>
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <p class="lead">Jiwaji University, Gwalior is preparing to release the admit cards for various undergraduate (UG) and postgraduate (PG) semester and annual examinations. Students appearing for B.A., B.Sc., B.Com, M.A., M.Sc., and other professional courses can download their hall tickets from the official Jiwaji portal.</p>
                     
                     <div class="alert alert-danger border-0 shadow-sm rounded-4 mt-4">
@@ -150,10 +125,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

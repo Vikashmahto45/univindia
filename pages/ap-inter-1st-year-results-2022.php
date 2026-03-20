@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap intermediate 1st year results 2022 - Official BIEAP Archive</div>
     <h2 class='sr-title'>ap intermediate 1st year results 2022 - Official BIEAP Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ap intermediate 1st year results 2022 - Official BIEAP Archive"; 
-$meta_description = "Check ap intermediate 1st year results 2022 for General and Vocational streams. Access the official Andhra Pradesh Inter 1st year result gateway on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 Intermediate 1st Year results for Andhra Pradesh. Direct
-                archival links for General and Vocational streams.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">System Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">2022 Inter 1st Year Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">📚</div>
-                    <h3>BIEAP Main Server</h3>
+        <h3>BIEAP Main Server</h3>
                     <p>Primary server for AP Inter 1st year results 2022.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

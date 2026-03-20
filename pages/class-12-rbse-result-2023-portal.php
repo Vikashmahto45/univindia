@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; class 12 rbse result 2023 - Official BSER Rajasthan Senior Secondary Gateway</div>
     <h2 class='sr-title'>class 12 rbse result 2023 - Official BSER Rajasthan Senior Secondary Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "class 12 rbse result 2023 - Official BSER Rajasthan Senior Secondary Gateway"; 
-$meta_description = "Check class 12 rbse result 2023 for Science, Commerce, and Arts. Access the official 2023 BSER Rajasthan (12th) result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session results for Class 12th (Senior
-                Secondary) for Rajasthan. Official BSER Ajmer mirrors and portal links updated for the 2023 batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2023 Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Rajasthan 12th Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSER Main Server 2023</h3>
+        <h3>BSER Main Server 2023</h3>
                     <p>Primary server for Rajasthan 12th result data for the 2023 session.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -121,10 +92,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

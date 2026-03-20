@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha 10th result - Official Odisha Secondary Result Hub</div>
     <h2 class='sr-title'>odisha 10th result - Official Odisha Secondary Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "odisha 10th result - Official Odisha Secondary Result Hub"; 
-$meta_description = "Check odisha 10th result for BSE exams. Access the official Board of Secondary Education Odisha (BSE) result gateway and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest and archival examination results for Odisha Class 10th
-                (Secondary/HSC). Official BSE Odisha mirrors and board result links updated for the current academic
-                batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 10th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Odisha Secondary Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Board Server</h3>
+        <h3>BSE Board Server</h3>
                     <p>Primary server for Odisha Board 10th result data across all examination centers and secondary
                         archival sessions.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

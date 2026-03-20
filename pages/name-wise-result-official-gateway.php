@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; name wise result - Find Results by Student Name Officially</div>
     <h2 class='sr-title'>name wise result - Find Results by Student Name Officially</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "name wise result - Find Results by Student Name Officially"; 
-$meta_description = "Access name wise result search for all state boards and universities in India. Unified portal for official result verification using student name alternative criteria."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for accessing examination results across India using
-                the student's name alternative search feature. Official board mirrors and name-wise archival links
-                updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open Name Search Portal</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National Name-Wise Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>National Name Directory</h3>
+        <h3>National Name Directory</h3>
                     <p>Primary server mirror for accessing student results by name for participating state boards and
                         universities nationwide on institutional mirrors.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

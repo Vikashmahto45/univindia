@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th result 2024 rbse - Official Rajasthan Board Secondary Gateway</div>
     <h2 class='sr-title'>10th result 2024 rbse - Official Rajasthan Board Secondary Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "10th result 2024 rbse - Official Rajasthan Board Secondary Gateway"; 
-$meta_description = "Check 10th result 2024 rbse for BSER Secondary exams. Access the official 2024 Board of Secondary Education (BSER) Rajasthan result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized destination for the Secondary (Class 10th) results for
-                Rajasthan for the 2024 session. Official BSER Ajmer mirrors and portal links updated for the latest
-                batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2024 Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2024 Rajasthan Secondary Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSER Main Server 2024</h3>
+        <h3>BSER Main Server 2024</h3>
                     <p>Primary server for Rajasthan 10th Secondary result latest 2024 session data.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -122,10 +92,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in</div>
     <h2 class='sr-title'>MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MLSU Admit Card 2024: Download Udaipur UG/PG Hall Ticket @mlsu.ac.in"; 
-$meta_description = "Download MLSU Udaipur Admit Card 2024 for B.A, B.Sc, B.Com, B.Ed and PG Semester Exams. Get direct link for Mohanlal Sukhadia University Hall Ticket download."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">MLSU Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
-                <div class="card-header bg-success text-white p-4">
-                    
-                </div>
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <p class="lead">Mohanlal Sukhadia University (MLSU), Udaipur, is the primary higher education hub for the Mewar region of Rajasthan. The university conducts examination for thousands of students in Regular, Private, and Ex-student categories. The MLSU Admit Card is the crucial entry document for these semester and annual examinations.</p>
                     
                     <div class="alert alert-success border-0 shadow-sm rounded-4 mt-4">
@@ -128,10 +103,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

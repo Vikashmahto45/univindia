@@ -9,33 +9,6 @@ $meta_keywords = "ugc net admit card 2022, nta ugc net hall ticket download, ugc
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UGC NET Admit Card 2022 Download - NTA National Eligibility Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>UGC NET Admit Card 2022 Download - NTA National Eligibility Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UGC NET Admit Card 2022 Download - NTA National Eligibility Test Hall Ticket | Univindia.online"; 
-$meta_description = "Download UGC NET Admit Card 2022. Get the direct link for NTA UGC National Eligibility Test (NET) combined cycle examination hall tickets at ugcnet.nta.nic.in."; 
-$meta_keywords = "ugc net admit card 2022, nta ugc net hall ticket download, ugcnet.nta.nic.in admit card login, ugc net december 2021 june 2022 admit card, net exam hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "UGC NET Admit Card 2022 Download - NTA National Eligibility Test Hall Ticket | Univindia.online";
-$meta_description = "Download UGC NET Admit Card 2022. Get the direct link for NTA UGC National Eligibility Test (NET) combined cycle examination hall tickets at ugcnet.nta.nic.in.";
-$meta_keywords = "ugc net admit card 2022, nta ugc net hall ticket download, ugcnet.nta.nic.in admit card login, ugc net december 2021 june 2022 admit card, net exam hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">UGC NET Admit Card 2022: Download NTA National Eligibility Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>NTA Archive:</strong> The National Testing Agency (NTA) conducted the UGC NET December 2021 and June 2022 merged cycles in multiple phases. Candidates looking for old session-specific hall tickets or result records for the 2022 session can access the official archive portal at ugcnet.nta.nic.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

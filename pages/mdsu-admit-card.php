@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MDSU Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket @mdsuajmer.ac.in</div>
     <h2 class='sr-title'>MDSU Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket @mdsuajmer.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MDSU Admit Card 2024: Download B.A, B.Sc, B.Com Hall Ticket @mdsuajmer.ac.in"; 
-$meta_description = "Download MDSU Ajmer Admit Card 2024 for UG/PG Semester and Annual Exams. Get direct link for Maharshi Dayanand Saraswati University Hall Ticket download."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">MDSU Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4 rounded-4 overflow-hidden">
-                <div class="card-header bg-warning py-3">
-                    
-                </div>
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <p class="lead">Maharshi Dayanand Saraswati University (MDSU), Ajmer is set to release the admit cards for various undergraduate and postgraduate examinations. Students enrolled in B.A., B.Sc., B.Com, B.Ed., M.A., M.Sc., and M.Com courses can now access their exam hall tickets through the official MDSU portal.</p>
                     
                     <div class="alert alert-warning border-0 shadow-sm rounded-4 mt-4">
@@ -132,10 +107,6 @@ $meta_keywords = "";
 <style>
 .underline-warning { border-bottom: 3px solid #ffc107; display: inline-block; padding-bottom: 2px; }
 </style>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

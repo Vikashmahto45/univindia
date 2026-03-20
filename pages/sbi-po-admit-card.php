@@ -9,33 +9,6 @@ $meta_keywords = "sbi po admit card 2024, sbi probationary officer hall ticket, 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SBI PO Admit Card 2024 Download - Probationary Officer Prelims & Mains Link | Univindia.online</div>
     <h2 class='sr-title'>SBI PO Admit Card 2024 Download - Probationary Officer Prelims & Mains Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SBI PO Admit Card 2024 Download - Probationary Officer Prelims & Mains Link | Univindia.online"; 
-$meta_description = "Download SBI PO Admit Card 2024. Get the direct link for State Bank of India Probationary Officer (PO) recruitment prelims and mains examination hall tickets at sbi.co.in."; 
-$meta_keywords = "sbi po admit card 2024, sbi probationary officer hall ticket, sbi po prelims admit card download, sbi po mains hall ticket link, sbi.co.in admit card login"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SBI PO Admit Card 2024 Download - Probationary Officer Prelims & Mains Link | Univindia.online";
-$meta_description = "Download SBI PO Admit Card 2024. Get the direct link for State Bank of India Probationary Officer (PO) recruitment prelims and mains examination hall tickets at sbi.co.in.";
-$meta_keywords = "sbi po admit card 2024, sbi probationary officer hall ticket, sbi po prelims admit card download, sbi po mains hall ticket link, sbi.co.in admit card login";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SBI PO Admit Card 2024: Download State Bank of India Probationary Officer Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>State Bank Recruitment News:</strong> The State Bank of India (SBI) has officially activated the portal for downloading the Prelims examination call letters for the SBI PO 2024 batch. Candidates who applied for the 2000+ vacancies can log in to the SBI careers portal to download their documents.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

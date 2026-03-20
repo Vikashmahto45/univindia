@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10 class board exam 2024 result - Official National 10th Hub</div>
     <h2 class='sr-title'>10 class board exam 2024 result - Official National 10th Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "10 class board exam 2024 result - Official National 10th Hub"; 
-$meta_description = "Check 10 class board exam 2024 result for all state boards. Access the official 2024 secondary (Class 10) result portal and live updates on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2024 academic session results for Class 10th (Secondary/High
-                School) across all Indian state boards. Official board mirrors and direct result links updated for the
-                2024 batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2024 10th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 10th 2024 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Result Server 2024</h3>
+        <h3>Board Result Server 2024</h3>
                     <p>Primary server for Class 10th result data across all state boards and secondary education
                         councils nationwide for 2024.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "hssc admit card 2018 download, haryana staff selection commiss
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online</div>
     <h2 class='sr-title'>HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online"; 
-$meta_description = "Download HSSC Admit Card 2018. Get the direct link for Haryana Police, Group D, and Clerk recruitment 2018 hall tickets at hssc.gov.in."; 
-$meta_keywords = "hssc admit card 2018 download, haryana staff selection commission hall ticket download, hssc.gov.in login 2018, hssc group d 2018 exam date, haryana call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "HSSC Admit Card 2018 Download - Haryana Staff Selection Commission Archive | Univindia.online";
-$meta_description = "Download HSSC Admit Card 2018. Get the direct link for Haryana Police, Group D, and Clerk recruitment 2018 hall tickets at hssc.gov.in.";
-$meta_keywords = "hssc admit card 2018 download, haryana staff selection commission hall ticket download, hssc.gov.in login 2018, hssc group d 2018 exam date, haryana call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">HSSC Admit Card 2018: Download Haryana Staff Selection Commission Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>HSSC 2018 Archive:</strong> The Haryana Staff Selection Commission (HSSC) conducted several massive recruitment drives in 2018, including Group D (18,000+ posts), Haryana Police Constable, and Various clerical roles. Candidates looking for old hall tickets or merit records for the 2018 session can access the official recruitment portal archive at hssc.gov.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Haryana Jobs</a>
         
+
 </div>
-
-<?php include '../includes/header.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "ssc admit card 2021, ssc.nic.in admit card download, ssc cgl 2
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Admit Card 2021 Download - Staff Selection Commission Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>SSC Admit Card 2021 Download - Staff Selection Commission Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC Admit Card 2021 Download - Staff Selection Commission Hall Ticket | Univindia.online"; 
-$meta_description = "Download SSC Admit Card 2021. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD 2021 exam hall tickets at ssc.nic.in."; 
-$meta_keywords = "ssc admit card 2021, ssc.nic.in admit card download, ssc cgl 2021 hall ticket download, ssc gd 2021 admit card link, ssc chsl 2021 call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC Admit Card 2021 Download - Staff Selection Commission Hall Ticket | Univindia.online";
-$meta_description = "Download SSC Admit Card 2021. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD 2021 exam hall tickets at ssc.nic.in.";
-$meta_keywords = "ssc admit card 2021, ssc.nic.in admit card download, ssc cgl 2021 hall ticket download, ssc gd 2021 admit card link, ssc chsl 2021 call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC Admit Card 2021: Download Staff Selection Commission Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSC 2021 Archive:</strong> The Staff Selection Commission (SSC) conducted various national-level recruitment exams in 2021 including CGL, CHSL, MTS, and GD Constable. Candidates looking for old hall tickets or recruitment records for the 2021 session can access the official regional SSC portals.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search SSC Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

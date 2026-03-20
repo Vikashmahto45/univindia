@@ -9,33 +9,6 @@ $meta_keywords = "mpbse admit card 2025 download, mp board 10th 12th hall ticket
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online"; 
-$meta_description = "Download MPBSE Admit Card 2025. Get the direct link for MP Board 10th and 12th (HSC/HSSC) main examination hall tickets at mpbse.mponline.gov.in."; 
-$meta_keywords = "mpbse admit card 2025 download, mp board 10th 12th hall ticket 2025 download, mpbse.mponline.gov.in login 2025, mp board exam date 2025 download, secondary education call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "MPBSE Admit Card 2025 Download - MP Board 10th & 12th Hall Ticket | Univindia.online";
-$meta_description = "Download MPBSE Admit Card 2025. Get the direct link for MP Board 10th and 12th (HSC/HSSC) main examination hall tickets at mpbse.mponline.gov.in.";
-$meta_keywords = "mpbse admit card 2025 download, mp board 10th 12th hall ticket 2025 download, mpbse.mponline.gov.in login 2025, mp board exam date 2025 download, secondary education call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">MPBSE Admit Card 2025: Download MP Board 10th and 12th Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MP Board 2025 Update:</strong> The Board of Secondary Education, Madhya Pradesh (MPBSE) is expected to activate the portal for downloading exam admit cards for the High School (10th) and Higher Secondary (12th) Main Examinations 2025. Students can log in with their application number at mpbse.mponline.gov.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Search Board Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

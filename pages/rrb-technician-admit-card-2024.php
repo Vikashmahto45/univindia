@@ -9,33 +9,6 @@ $meta_keywords = "rrb technician admit card 2024 download, railway technician ha
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Technician Admit Card 2024 Download - Railway recruitment Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>RRB Technician Admit Card 2024 Download - Railway recruitment Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB Technician Admit Card 2024 Download - Railway recruitment Hall Ticket | Univindia.online"; 
-$meta_description = "Download RRB Technician Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) Technician Grade I and III examination hall tickets at rrbapply.gov.in."; 
-$meta_keywords = "rrb technician admit card 2024 download, railway technician hall ticket 2024 download, rrbapply.gov.in technician login 2024, railway exam date 2024 download, technician recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RRB Technician Admit Card 2024 Download - Railway recruitment Hall Ticket | Univindia.online";
-$meta_description = "Download RRB Technician Admit Card 2024. Get the direct link for Railway Recruitment Board (RRB) Technician Grade I and III examination hall tickets at rrbapply.gov.in.";
-$meta_keywords = "rrb technician admit card 2024 download, railway technician hall ticket 2024 download, rrbapply.gov.in technician login 2024, railway exam date 2024 download, technician recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RRB Technician Admit Card 2024: Download Railway Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway Technician 2024 Cycle:</strong> The Railway Recruitment Boards (RRB) conducted the recruitment for Technician Grade I Signal and Technician Grade III positions under CEN 02/2024. Candidates can access their archived hall tickets, results, and document verification (DV) status at rrbapply.gov.in.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Technical Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

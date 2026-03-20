@@ -9,33 +9,6 @@ $meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticke
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online</div>
     <h2 class='sr-title'>SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online"; 
-$meta_description = "Download SSCER CHSL Admit Card 2024 for Eastern Region. Check SSC Combined Higher Secondary Level (10+2) application status and hall ticket at sscer.org."; 
-$meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticket, sscer.org chsl status, ssc chsl admit card kolkata, ssc chsl admit card jharkhand"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSCER CHSL Admit Card 2024 Download - Eastern Region 10+2 Status | Univindia.online";
-$meta_description = "Download SSCER CHSL Admit Card 2024 for Eastern Region. Check SSC Combined Higher Secondary Level (10+2) application status and hall ticket at sscer.org.";
-$meta_keywords = "sscer chsl admit card 2024, ssc eastern region chsl hall ticket, sscer.org chsl status, ssc chsl admit card kolkata, ssc chsl admit card jharkhand";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSCER CHSL Admit Card 2024: Eastern Region Status & Hall Ticket Link</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Latest Release:</strong> SSC Eastern Region (SSCER) has officially activated the Status/Admit Card link for the 10+2 CHSL 2024 Tier 1 examination. Candidates can now verify their exam venue city and shift details using the registration ID.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Univindia Home</a>
             <a href="results.php" class="hot-btn bg-red">Latest Result News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

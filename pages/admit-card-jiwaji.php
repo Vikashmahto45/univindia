@@ -9,33 +9,6 @@ $meta_keywords = "jiwaji admit card download, jiwaji university hall ticket down
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download Jiwaji Admit Card. Get the direct link for Jiwaji University Gwalior UG and PG semester examination hall tickets at jiwaji.edu."; 
-$meta_keywords = "jiwaji admit card download, jiwaji university hall ticket download, jiwaji.edu login admit card, gwalior university exam date 2024 download, university call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Jiwaji Admit Card Download - Jiwaji University Hall Ticket Link | Univindia.online";
-$meta_description = "Download Jiwaji Admit Card. Get the direct link for Jiwaji University Gwalior UG and PG semester examination hall tickets at jiwaji.edu.";
-$meta_keywords = "jiwaji admit card download, jiwaji university hall ticket download, jiwaji.edu login admit card, gwalior university exam date 2024 download, university call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Jiwaji Admit Card: Download Jiwaji University Gwalior Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Jiwaji University (JU) Update:</strong> Jiwaji University, Gwalior, has activated the portal for downloading exam admit cards for the Undergraduate (UG) and Postgraduate (PG) Semester/Annual Examinations (CBCS/Non-CBCS). Students can log in at the official MP Online Jiwaji portal: jiwaji.mponline.gov.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Varsity News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

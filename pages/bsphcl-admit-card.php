@@ -9,33 +9,6 @@ $meta_keywords = "bsphcl admit card, bihar electricity board hall ticket downloa
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online"; 
-$meta_description = "Download BSPHCL Admit Card. Get the direct link for Bihar State Power Holding Company Limited (BSPHCL) Assistant Engineer, Clerk, and Technician hall tickets at bsphcl.co.in."; 
-$meta_keywords = "bsphcl admit card, bihar electricity board hall ticket download, bsphcl.co.in admit card login, bsphcl technician admit card download, bihar power holding call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "BSPHCL Admit Card Download - Bihar State Power Holding Company Hall Ticket | Univindia.online";
-$meta_description = "Download BSPHCL Admit Card. Get the direct link for Bihar State Power Holding Company Limited (BSPHCL) Assistant Engineer, Clerk, and Technician hall tickets at bsphcl.co.in.";
-$meta_keywords = "bsphcl admit card, bihar electricity board hall ticket download, bsphcl.co.in admit card login, bsphcl technician admit card download, bihar power holding call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">BSPHCL Admit Card: Download Bihar State Power Holding Company Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>BSPHCL Recruitment Update:</strong> The Bihar State Power Holding Company Limited (BSPHCL) has activated the portal for downloading the exam admit cards for various posts including Technician Grade-III, Assistant Operator, Junior IT Manager, and Clerk. Candidates can download their hall tickets at bsphcl.co.in.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Bihar Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

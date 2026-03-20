@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jkbose 12th result - Official Jammu & Kashmir Board Gateway</div>
     <h2 class='sr-title'>jkbose 12th result - Official Jammu & Kashmir Board Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jkbose 12th result - Official Jammu & Kashmir Board Gateway"; 
-$meta_description = "Check jkbose 12th result for Class 12 exams. Access the official JKBOSE Jammu and Kashmir divisions archival portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest examination results for Class 12th (Senior Secondary)
-                for Jammu and Kashmir. Official JKBOSE mirrors and archival links updated for both Jammu and Kashmir
-                divisions.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check JKBOSE 12th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified JKBOSE Senior Secondary Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JKBOSE Main Server</h3>
+        <h3>JKBOSE Main Server</h3>
                     <p>Primary server for Jammu & Kashmir Board 12th result data across all divisions archive.</p>
                     <a href="https://jammu-kashmir.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -123,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

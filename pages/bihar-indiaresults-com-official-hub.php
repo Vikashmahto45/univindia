@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bihar.indiaresults - Official Bihar State Academic Hub</div>
     <h2 class='sr-title'>bihar.indiaresults - Official Bihar State Academic Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bihar.indiaresults - Official Bihar State Academic Hub"; 
-$meta_description = "Check bihar.indiaresults for BSEB, BU, and state board exams. Access the official Bihar result portal for 10th, 12th, and university results on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your primary destination for all academic results across Bihar. Official
-                mirrors for BSEB Patna, Bihar University Muzaffarpur, and other major state boards and institutes.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open Bihar Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Bihar State Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSEB Patna Hub</h3>
+        <h3>BSEB Patna Hub</h3>
                     <p>Primary server for Bihar Board 10th (Matric) and 12th (Inter) result data for all streams
                         archive.</p>
                     <a href="https://bihar.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -122,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

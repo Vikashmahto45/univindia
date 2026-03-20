@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jkbose 10th result 2021 kashmir division - Official JKBOSE 2021 Archive</div>
     <h2 class='sr-title'>jkbose 10th result 2021 kashmir division - Official JKBOSE 2021 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jkbose 10th result 2021 kashmir division - Official JKBOSE 2021 Archive"; 
-$meta_description = "Check jkbose 10th result 2021 kashmir division for Matric exams. Access the official 2021 Jammu and Kashmir Board (JKBOSE) archival portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session results for Jammu & Kashmir Class 10th
-                (Kashmir Division). Official JKBOSE mirrors and archival links updated for the 2021 batch verification.
-            </p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 JKBOSE Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 JKBOSE (Kashmir) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JKBOSE Kashmir Server 2021</h3>
+        <h3>JKBOSE Kashmir Server 2021</h3>
                     <p>Primary server mirror for Kashmir Division 10th result data hosted on official jkbose.nic.in
                         infrastructure for the 2021 session.</p>
                     <a href="https://jk.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

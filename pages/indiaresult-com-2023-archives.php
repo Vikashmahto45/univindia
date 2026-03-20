@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresult.com 2023 - Official National 2023 Archive</div>
     <h2 class='sr-title'>indiaresult.com 2023 - Official National 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "indiaresult.com 2023 - Official National 2023 Archive"; 
-$meta_description = "Check indiaresult.com 2023 for all board and university exams. Access the official 2023 national academic result portal and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session results for all Indian state boards,
-                central councils, and universities. Official mirrors for the 2023 batch verification and archival
-                scores.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National 2023 Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Board Archive 2023</h3>
+        <h3>Board Archive 2023</h3>
                     <p>Primary server mirror to access 2023 results for all state boards (10th/12th) nationwide for the
                         2023 batch.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -122,10 +92,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

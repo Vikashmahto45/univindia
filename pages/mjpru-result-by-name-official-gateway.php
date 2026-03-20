@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; mjpru result by name - Official Rohilkhand University Hub</div>
     <h2 class='sr-title'>mjpru result by name - Official Rohilkhand University Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "mjpru result by name - Official Rohilkhand University Hub"; 
-$meta_description = "Check MJPRU result by name on mjpru result by name. Access official Mahatma Jyotiba Phule Rohilkhand University UG/PG scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Mahatma Jyotiba Phule Rohilkhand University
-                (MJPRU), Bareilly examination results accessible by student name. Access official MJPRU mirrors and
-                archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open MJPRU Name Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified MJPRU (Rohilkhand University) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>MJPRU Main Server</h3>
+        <h3>MJPRU Main Server</h3>
                     <p>Primary server for Rohilkhand University Undergraduate (BA, BSc, BCom) and Postgraduate results
                         across all semesters and annual sessions.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

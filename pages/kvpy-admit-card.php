@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in</div>
     <h2 class='sr-title'>KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "KVPY Admit Card 2025: Kishore Vaigyanik Protsahan Yojana Hall Ticket @ kvpy.iisc.ac.in";
-$page_description = "Download KVPY Admit Card 2025 for fellowship selection. Get direct link for IISc KVPY Hall Ticket, Exam Schedule, and Aptitude Test status. 800+ words guide.";
-$page_keywords = "KVPY Admit Card 2025, IISc KVPY Hall Ticket Download, KVPY 2025 Call Letter Link, kvpy.iisc.ac.in login, KVPY Exam Selection Process";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">KVPY Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-secondary bg-dark border-secondary text-secondary rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-microscope me-2"></i> <strong>Program News:</strong> The Kishore Vaigyanik Protsahan Yojana (KVPY) is managed by the Indian Institute of Science (IISc), Bangalore. The <strong>KVPY Admit Card</strong> is the essential identification for the national-level fellowship exam.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>KVPY Admit Card 2025</strong> is the gateway for science students to secure one of India's most prestigious fellowships. Initiated and funded by the Department of Science and Technology (DST), Government of India, the KVPY program aims to identify and encourage students with talent and aptitude for research. The <strong>KVPY Hall Ticket</strong> is mandatory for participating in the rigorous aptitude test conducted across the country.
                 </p>
@@ -157,57 +122,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-flask me-2"></i> Science & Tech Entrance Links</h3>
                 <div class="row g-3">
-                    <?php
-                    $science_links = [
-                        'nest-admit-card.php' => 'NEST NISER Admit Card',
-                        'iiser-admit-card.php' => 'IISER IAT Hall Ticket',
-                        'jee-advanced-admit-card.php' => 'JEE Advanced IIT Card',
-                        'kerala-keam-admit-card.php' => 'KEAM Entrance Call Letter'
-                    ];
-                    foreach ($science_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="kvp-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #34495e 100%);
-}
-.kvp-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.kvp-link-card:hover {
-    background: rgba(108, 117, 125, 0.2);
-    border-color: #6c757d !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

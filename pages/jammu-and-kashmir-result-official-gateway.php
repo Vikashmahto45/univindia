@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jammu and kashmir result - Official JKBOSE Result Hub</div>
     <h2 class='sr-title'>jammu and kashmir result - Official JKBOSE Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jammu and kashmir result - Official JKBOSE Result Hub"; 
-$meta_description = "Check Jammu and Kashmir board results on jammu and kashmir result. Access official JKBOSE 10th & 12th scorecards and archival links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Jammu and Kashmir Board of School Education
-                (JKBOSE) examination results for both Jammu and Kashmir divisions. Access official JKBOSE mirrors and
-                historical archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open JKBOSE Result Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Jammu and Kashmir (JKBOSE) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JKBOSE Main Server</h3>
+        <h3>JKBOSE Main Server</h3>
                     <p>Primary server for Jammu and Kashmir Board 10th and 12th (Secondary/Senior Secondary) examination
                         result data for all divisions across the UT.</p>
                     <a href="https://jkbose.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmo
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online"; 
-$meta_description = "Download VMOU Kota Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) TEE examination hall tickets at vmou.ac.in."; 
-$meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, kota open university admit card 2024, vmou tee hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "VMOU Kota Admit Card 2024 Download - Vartaman Mahaveer Open University Hall Ticket | Univindia.online";
-$meta_description = "Download VMOU Kota Admit Card 2024. Get the direct link for Vardhaman Mahaveer Open University (VMOU Kota) TEE examination hall tickets at vmou.ac.in.";
-$meta_keywords = "vmou kota admit card 2024, vmou kota hall ticket download, vmou.ac.in admit card login, kota open university admit card 2024, vmou tee hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">VMOU Kota Admit Card 2024: Download Vardhaman Mahaveer Open University Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>VMOU Kota Official:</strong> Vardhaman Mahaveer Open University (VMOU), Kota, has released the permission letters for the Term End Examination (TEE) 2024. All regular and private students can access their center details and exam schedules by logging into the student one-view portal using their Scholar Number.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check VMOU Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

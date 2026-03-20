@@ -9,33 +9,6 @@ $meta_keywords = "ssc.nic.in admit card 2022, ssc hall ticket 2022 download, ssc
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online</div>
     <h2 class='sr-title'>SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online"; 
-$meta_description = "Download SSC.NIC.IN Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD exam hall tickets at ssc.nic.in."; 
-$meta_keywords = "ssc.nic.in admit card 2022, ssc hall ticket 2022 download, ssc.nic.in login admit card, staff selection exam date 2022 download, ssc regional call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC.NIC.IN Admit Card 2022 Download - Staff Selection Commission Portals | Univindia.online";
-$meta_description = "Download SSC.NIC.IN Admit Card 2022. Get the direct link for Staff Selection Commission (SSC) CGL, CHSL, MTS, and GD exam hall tickets at ssc.nic.in.";
-$meta_keywords = "ssc.nic.in admit card 2022, ssc hall ticket 2022 download, ssc.nic.in login admit card, staff selection exam date 2022 download, ssc regional call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC.NIC.IN Admit Card 2022: Download Staff Selection Commission Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSC.NIC.IN 2022 Archive:</strong> The Staff Selection Commission (SSC) conducted various national-level recruitment exams in 2022 including CGL, CHSL, MTS, and GD Constable through its nodal portal ssc.nic.in. Candidates looking for old hall tickets or recruitment records for the 2022 session can access the official regional SSC portals.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Govt Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

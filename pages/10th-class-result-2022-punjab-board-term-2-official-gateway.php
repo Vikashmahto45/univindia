@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th class result 2022 punjab board term 2 - Official PSEB Hub</div>
     <h2 class='sr-title'>10th class result 2022 punjab board term 2 - Official PSEB Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "10th class result 2022 punjab board term 2 - Official PSEB Hub"; 
-$meta_description = "Check Punjab Board 10th result 2022 Term 2 on 10th class result 2022 punjab board term 2. Access official PSEB 2022 archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Punjab School Education Board (PSEB) Class 10th (Matriculation) Term 2 examination results for the 2022 academic session. Access official Punjab board mirrors and 2022 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 PSEB Term 2</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Punjab (PSEB) 10th Term 2 Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>PSEB Matric Server 2022</h3>
+        <h3>PSEB Matric Server 2022</h3>
                     <p>Primary server for accessing Punjab Board Class 10th (Matriculation) Term 2 examination result data for the 2022 academic session archive.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

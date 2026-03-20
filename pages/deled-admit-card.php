@@ -9,33 +9,6 @@ $meta_keywords = "deled admit card 2024, d.el.ed hall ticket download, btc admit
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; DElEd Admit Card 2024 Download - State Wise D.El.Ed Entrance & Semester Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>DElEd Admit Card 2024 Download - State Wise D.El.Ed Entrance & Semester Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "DElEd Admit Card 2024 Download - State Wise D.El.Ed Entrance & Semester Hall Ticket | Univindia.online"; 
-$meta_description = "Download DElEd Admit Card 2024 for Bihar, UP, MP, Rajasthan, Haryana, and other states. Get direct links for DElEd Joint Entrance Test (JET) and Semester Exam call letters."; 
-$meta_keywords = "deled admit card 2024, d.el.ed hall ticket download, btc admit card, deled entrance exam admit card, deled semester exam hall ticket link"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "DElEd Admit Card 2024 Download - State Wise D.El.Ed Entrance & Semester Hall Ticket | Univindia.online";
-$meta_description = "Download DElEd Admit Card 2024 for Bihar, UP, MP, Rajasthan, Haryana, and other states. Get direct links for DElEd Joint Entrance Test (JET) and Semester Exam call letters.";
-$meta_keywords = "deled admit card 2024, d.el.ed hall ticket download, btc admit card, deled entrance exam admit card, deled semester exam hall ticket link";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">DElEd Admit Card 2024: State-Wise Download Hub for Entrance & Semester Exams</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>National Update:</strong> Admission processes for the 2024-26 DElEd academic session have commenced in major states. Bihar JET admit cards and UP Semester hall tickets are currently available. Check your respective state-board links below.
         </div>
@@ -128,13 +101,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Latest DElEd Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

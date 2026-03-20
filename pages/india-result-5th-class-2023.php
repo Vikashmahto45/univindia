@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 5th class 2023 - Official Primary Education Result Portal</div>
     <h2 class='sr-title'>india result 5th class 2023 - Official Primary Education Result Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 5th class 2023 - Official Primary Education Result Portal"; 
-$meta_description = "Check india result 5th class 2023 for all states. Access the official 5th grade results of the 2023 session on indiaresults for fast checking by name and roll number."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 primary board exam results for Class 5th. Official
-                mirrors and verified gateways updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2023 Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Resource</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Primary Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🖍️</div>
-                    <h3>5th Class Portal</h3>
+        <h3>5th Class Portal</h3>
                     <p>Direct linking for the 2023 academic batch.</p>
                     <a href="https://indiaresults.com" class="gateway-link">View Mirror 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

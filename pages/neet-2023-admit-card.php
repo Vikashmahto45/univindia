@@ -9,33 +9,6 @@ $meta_keywords = "neet 2023 admit card release, nta neet hall ticket 2023 downlo
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET 2023 Admit Card Download - NTA Medical Entrance Release Link | Univindia.online</div>
     <h2 class='sr-title'>NEET 2023 Admit Card Download - NTA Medical Entrance Release Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NEET 2023 Admit Card Download - NTA Medical Entrance Release Link | Univindia.online"; 
-$meta_description = "Download NEET 2023 Admit Card. Get the direct link for NTA NEET (UG) 2023 examination hall tickets and release updates at exams.nta.ac.in."; 
-$meta_keywords = "neet 2023 admit card release, nta neet hall ticket 2023 download, neet.nta.nic.in login 2023, neet ug exam date 2023 download, medical entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NEET 2023 Admit Card Download - NTA Medical Entrance Release Link | Univindia.online";
-$meta_description = "Download NEET 2023 Admit Card. Get the direct link for NTA NEET (UG) 2023 examination hall tickets and release updates at exams.nta.ac.in.";
-$meta_keywords = "neet 2023 admit card release, nta neet hall ticket 2023 download, neet.nta.nic.in login 2023, neet ug exam date 2023 download, medical entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NEET 2023 Admit Card Release: Download NTA Medical Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>NEET (UG) 2023 Cycle:</strong> The National Testing Agency (NTA) conducted the National Eligibility cum Entrance Test (NEET UG) 2023 in May 2023. Candidates looking for old hall tickets or rank records for the 2023 medical session can access the official portal archive at exams.nta.ac.in/NEET.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Medical Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

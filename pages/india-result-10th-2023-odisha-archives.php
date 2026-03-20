@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2023 odisha - Official Odisha 2023 Archive</div>
     <h2 class='sr-title'>india result 10th 2023 odisha - Official Odisha 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 10th 2023 odisha - Official Odisha 2023 Archive"; 
-$meta_description = "Check india result 10th 2023 odisha for HSE exams. Access the official 2023 Odisha Board (BSE Odisha) archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Odisha Class
-                10th (Matric). Official BSE Odisha mirrors and archival links updated for the 2023 batch verification.
-            </p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Odisha (BSE) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Odisha Server 2023</h3>
+        <h3>BSE Odisha Server 2023</h3>
                     <p>Primary server for Odisha Board High School Certificate (HSC) result data for the 2023 session
                         archive across all districts.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

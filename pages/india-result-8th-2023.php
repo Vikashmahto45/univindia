@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 8th class 2023 - Official Middle School Result Mirror</div>
     <h2 class='sr-title'>india result 8th class 2023 - Official Middle School Result Mirror</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 8th class 2023 - Official Middle School Result Mirror"; 
-$meta_description = "Check india result 8th class 2023 for all boards. Access the official 8th class result portal on indiaresults.com for fast result checking and name-wise search."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the fastest mirrors for Class 8th Board Results 2023. Direct
-                links and official gateways updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Result Now</a>
-                <a href="#faq" class="btn btn-secondary">Query & FAQ</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Official Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏫</div>
-                    <h3>Board Official Portal</h3>
+        <h3>Board Official Portal</h3>
                     <p>Access the primary server for 8th class marksheets.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -113,10 +84,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

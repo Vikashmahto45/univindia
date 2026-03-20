@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in</div>
     <h2 class='sr-title'>CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "CTET Admit Card 2025: Central Teacher Eligibility Test Hall Ticket Link @ ctet.nic.in";
-$page_description = "Download CTET Admit Card 2025 for Paper 1 & 2. Get direct link to download CBSE CTET Hall Ticket, Exam Schedule, and center details. 800+ words of in-depth guide.";
-$page_keywords = "CTET Admit Card 2025, CBSE CTET Hall Ticket Download, CTET Paper 1 Paper 2 Admit Card, ctet.nic.in admit card download, Central Teacher Eligibility Test Call Letter";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">CTET Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-primary bg-dark border-primary text-primary rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-book-reader me-2"></i> <strong>Official Update:</strong> The Central Board of Secondary Education (CBSE) releases the CTET Admit Card in a phased manner. The Pre-Admit Card (City Intimation) is released first, followed by the final Hall Ticket 2 days before the exam.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>CTET Admit Card 2025</strong> is the gateway for teaching aspirants aiming for central government schools like KVs, JNVs, and many prestigious private institutions. As a national-level eligibility test conducted by CBSE, the CTET requires a high level of preparation and strict adherence to the protocols mentioned on the official call letter.
                 </p>
@@ -156,57 +121,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-chalkboard me-2"></i> Teaching Eligibility Exams</h3>
                 <div class="row g-3">
-                    <?php
-                    $teaching = [
-                        'mptet-admit-card.php' => 'MP TET Hall Ticket',
-                        'uptet-admit-card.php' => 'UP TET Admit Card',
-                        'otet-admit-card.php' => 'OTET Odisha Admit Card',
-                        'htet-admit-card.php' => 'HTET Haryana Call Letter'
-                    ];
-                    foreach ($teaching as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="ctet-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.95);
-    backdrop-filter: blur(8px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #111 0%, #333 100%);
-}
-.ctet-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s ease;
-}
-.ctet-link-card:hover {
-    background: rgba(13, 202, 240, 0.15);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

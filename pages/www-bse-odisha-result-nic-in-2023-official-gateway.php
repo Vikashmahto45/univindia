@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www.bse odisha result.nic.in 2023 - Official Odisha 10th Hub</div>
     <h2 class='sr-title'>www.bse odisha result.nic.in 2023 - Official Odisha 10th Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "www.bse odisha result.nic.in 2023 - Official Odisha 10th Hub"; 
-$meta_description = "Check Odisha Board 10th result 2023 on www.bse odisha result.nic.in 2023. Access official BSE Odisha 2023 archival scorecards on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education (BSE), Odisha Class
-                10th (HSCE) examination results for the 2023 session. Access official Odisha board mirrors and 2023
-                archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Odisha Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Odisha (BSE 10th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Odisha Server 2023</h3>
+        <h3>BSE Odisha Server 2023</h3>
                     <p>Primary server for Odisha Board Class 10th (Secondary) examination result data for the 2023
                         session archive across all districts in Odisha.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -129,10 +99,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "bstc admit card 2021, rajasthan bstc hall ticket download, pan
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSTC Admit Card 2021 Download - Rajasthan Pre-DElEd Exam Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>BSTC Admit Card 2021 Download - Rajasthan Pre-DElEd Exam Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "BSTC Admit Card 2021 Download - Rajasthan Pre-DElEd Exam Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download BSTC Admit Card 2021. Get the direct link for Rajasthan Pre-DElEd (BSTC) entrance examination hall tickets at panjiyakpredeled.in and university archives."; 
-$meta_keywords = "bstc admit card 2021, rajasthan bstc hall ticket download, panjiyakpredeled.in 2021 admit card, bstc exam 2021 admit card link, raj bstc hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "BSTC Admit Card 2021 Download - Rajasthan Pre-DElEd Exam Hall Ticket Link | Univindia.online";
-$meta_description = "Download BSTC Admit Card 2021. Get the direct link for Rajasthan Pre-DElEd (BSTC) entrance examination hall tickets at panjiyakpredeled.in and university archives.";
-$meta_keywords = "bstc admit card 2021, rajasthan bstc hall ticket download, panjiyakpredeled.in 2021 admit card, bstc exam 2021 admit card link, raj bstc hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">BSTC Admit Card 2021: Download Rajasthan Pre-DElEd Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>BSTC 2021 Archive:</strong> The Rajasthan BSTC (Pre-DElEd) 2021 examination was conducted by the Department of Elementary Education, Bikaner. Candidates looking for old hall tickets or selection records for the 2021 session can access the official archive link at panjiyakpredeled.in or via the department archives.
         </div>
@@ -115,13 +88,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check BSTC 2021 Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "vbu admit card download, vinoba bhave university hall ticket d
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online"; 
-$meta_description = "Download VBU Admit Card. Get the direct link for Vinoba Bhave University (VBU) UG and PG semester examination hall tickets at vbu.ac.in."; 
-$meta_keywords = "vbu admit card download, vinoba bhave university hall ticket download, vbu.ac.in login admit card, vbu exam date 2024 download, university semester call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "VBU Admit Card Download - Vinoba Bhave University Hall Ticket | Univindia.online";
-$meta_description = "Download VBU Admit Card. Get the direct link for Vinoba Bhave University (VBU) UG and PG semester examination hall tickets at vbu.ac.in.";
-$meta_keywords = "vbu admit card download, vinoba bhave university hall ticket download, vbu.ac.in login admit card, vbu exam date 2024 download, university semester call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">VBU Admit Card: Download Vinoba Bhave University Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>VBU University Update:</strong> Vinoba Bhave University (VBU), Hazaribag, has activated the portal for downloading exam admit cards for the Undergraduate (UG) and Postgraduate (PG) Semester Examinations (FYUGP/CBCS). Students can log in at the official university portal: vbu.ac.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Varsity News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

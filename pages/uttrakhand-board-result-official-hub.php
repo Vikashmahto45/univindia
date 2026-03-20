@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; uttrakhand board result - Official UBSE Result Portal Hub</div>
     <h2 class='sr-title'>uttrakhand board result - Official UBSE Result Portal Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "uttrakhand board result - Official UBSE Result Portal Hub"; 
-$meta_description = "Check uttrakhand board result for Class 10th and 12th examinations. Access the official Uttarakhand (UBSE) result gateway on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest High School and Intermediate results for Uttarakhand.
-                Official UBSE mirrors and portal links updated for the board examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check UK Board Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Uttarakhand Board Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>UBSE Main Server</h3>
+        <h3>UBSE Main Server</h3>
                     <p>Primary server for Uttarakhand high school & inter results.</p>
                     <a href="https://uttarakhand.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -117,10 +88,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

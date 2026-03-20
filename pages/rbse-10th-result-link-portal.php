@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Rbse 10th Result Link Portal</div>
     <h2 class='sr-title'>Rbse 10th Result Link Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Rbse 10th Result Link Portal"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="content-wrapper">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                
-            
-        <div class="row">
-            <div class="col-md-12">
-                <div class="alert alert-info">
-                    <strong>RBSE 10th Result Link:</strong> Are you looking for the direct link to check your Rajasthan Board (RBSE) Class 10th results? This portal provides all the official links and instructions to access your marks easily.
-                </div>
-                <p>
+        <p>
                     The Board of Secondary Education, Rajasthan (BSER) conducts the 10th class exams every year. Thousands of students wait eagerly for the result link to be activated. We ensure that you get the most updated link right here.
                 </p>
                 <h3>Official Websites for RBSE 10th Result:</h3>
@@ -60,10 +38,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

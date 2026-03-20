@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in</div>
     <h2 class='sr-title'>JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "JoSAA 2025: IIT, NIT, IIIT Seat Allocation Counselling @ josaa.nic.in";
-$page_description = "Complete guide to JoSAA 2025 Counselling for IIT, NIT, and IIIT admissions. Get direct link for JoSAA Registration, Choice Filling, and Seat Allotment Status. 800+ words.";
-$page_keywords = "JoSAA 2025 Counselling, JoSAA Registration Choice Filling, josaa.nic.in seat allotment, JEE Advanced JoSAA Schedule, NIT IIIT Admission Process";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">JoSAA Counselling 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-primary bg-dark border-primary text-primary rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-university me-2"></i> <strong>Admission News:</strong> The Joint Seat Allocation Authority (JoSAA) has released the 2025 schedule for admissions into 23 IITs, 31 NITs, 26 IIITs, and 40 Other-GFTIs. The official portal <strong>josaa.nic.in</strong> is now open for registration.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>JoSAA 2025</strong> process is the single-window counselling platform for every engineering aspirant who has qualified for JEE Main and JEE Advanced. Managed by a joint committee representing the IITs and the NIT+ system, JoSAA ensures a fair and transparent allocation of seats across the most prestigious technical institutes in India.
                 </p>
@@ -158,57 +123,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Engineering Institute Portals</h3>
                 <div class="row g-3">
-                    <?php
-                    $eng_portals = [
-                        'iit-bombay-admission.php' => 'IIT Bombay Admission Link',
-                        'nit-trichy-admission.php' => 'NIT Trichy Seat Status',
-                        'bitsat-admit-card.php' => 'BITSAT BITS Pilani Card',
-                        'vitmee-admit-card.php' => 'VIT Entrance Hall Ticket'
-                    ];
-                    foreach ($eng_portals as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="josaa-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(10, 10, 10, 0.98);
-    backdrop-filter: blur(15px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-}
-.josaa-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.josaa-link-card:hover {
-    background: rgba(13, 202, 240, 0.12);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

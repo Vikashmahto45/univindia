@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket</div>
     <h2 class='sr-title'>SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC CPO SI Admit Card 2024: Download Sub-Inspector in Delhi Police & CAPFs Hall Ticket";
-$page_description = "Download SSC CPO SI Admit Card 2024. Get region-wise call letters for SSC Sub-Inspector in Delhi Police, BSF, CISF, CRPF, ITBP & SSB. Exam date and PET/PST details.";
-$page_keywords = "SSC CPO SI Admit Card 2024, SSC Sub Inspector Hall Ticket, SSC CPO Paper 1 Admit Card, Delhi Police SI Call Letter, ssc.gov.in cpo si admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">SSC CPO SI Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-danger border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-shield-alt fa-2x text-danger"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Recruitment Alert:</h4>
                         <p class="mb-0">The <strong>SSC CPO SI Admit Card 2024</strong> link is now active for all regions. This includes recruitment for Sub-Inspectors in Delhi Police and Central Armed Police Forces (CAPFs). Validate your application status and download the PDF call letter now.</p>
                     
@@ -250,12 +213,6 @@ include '../includes/header.php';
     background-color: #333 !important;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

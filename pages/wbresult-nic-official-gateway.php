@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; wbresult nic - Official West Bengal Board Gateways</div>
     <h2 class='sr-title'>wbresult nic - Official West Bengal Board Gateways</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "wbresult nic - Official West Bengal Board Gateways"; 
-$meta_description = "Check wbresult nic for Madhyamik (10th) and Uchcha Madhyamik (12th) results. Access the official West Bengal result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest educational results for West Bengal. Official WBBSE
-                and WBCHSE mirrors updated for Madhyamik and Higher Secondary examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check WB Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified West Bengal Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>WB Results Hub</h3>
+        <h3>WB Results Hub</h3>
                     <p>Primary server for West Bengal board results latest session.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

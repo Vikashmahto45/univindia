@@ -9,33 +9,6 @@ $meta_keywords = "bsf admit card 2024, border security force hall ticket, bsf co
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSF Admit Card 2024 Download - Constable, SI & Head Constable Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>BSF Admit Card 2024 Download - Constable, SI & Head Constable Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "BSF Admit Card 2024 Download - Constable, SI & Head Constable Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download BSF Admit Card 2024. Get the direct link for Border Security Force (BSF) Constable Tradesman, Sub-Inspector (SI), and Head Constable (RO/RM) recruitment hall tickets at rectt.bsf.gov.in."; 
-$meta_keywords = "bsf admit card 2024, border security force hall ticket, bsf constable tradesman admit card, rectt.bsf.gov.in admit card login, bsf si admit card download link"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "BSF Admit Card 2024 Download - Constable, SI & Head Constable Hall Ticket Link | Univindia.online";
-$meta_description = "Download BSF Admit Card 2024. Get the direct link for Border Security Force (BSF) Constable Tradesman, Sub-Inspector (SI), and Head Constable (RO/RM) recruitment hall tickets at rectt.bsf.gov.in.";
-$meta_keywords = "bsf admit card 2024, border security force hall ticket, bsf constable tradesman admit card, rectt.bsf.gov.in admit card login, bsf si admit card download link";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">BSF Admit Card 2024: Download Border Security Force Constable & SI Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>BSF Recruitment Update:</strong> The Border Security Force (BSF) has released the e-Admit Cards for the Phase 1 Physical Test (PET/PST) and Written Examination for various posts including Constable (Tradesman) and Head Constable. Candidates can download their hall tickets from the official recruitment portal at rectt.bsf.gov.in.
         </div>
@@ -109,13 +82,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest BSF Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

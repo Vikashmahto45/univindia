@@ -9,33 +9,6 @@ $meta_keywords = "ib security assistant admit card download, intelligence bureau
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IB Security Assistant Admit Card Download - MHA Intelligence Bureau Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>IB Security Assistant Admit Card Download - MHA Intelligence Bureau Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "IB Security Assistant Admit Card Download - MHA Intelligence Bureau Hall Ticket | Univindia.online"; 
-$meta_description = "Download IB Security Assistant Admit Card. Get the direct link for Intelligence Bureau (IB) SA and MTS recruitment examination hall tickets at mha.gov.in."; 
-$meta_keywords = "ib security assistant admit card download, intelligence bureau sa hall ticket download, mha.gov.in ib login admit card, ib sa mts exam date 2024 download, intelligence bureau call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "IB Security Assistant Admit Card Download - MHA Intelligence Bureau Hall Ticket | Univindia.online";
-$meta_description = "Download IB Security Assistant Admit Card. Get the direct link for Intelligence Bureau (IB) SA and MTS recruitment examination hall tickets at mha.gov.in.";
-$meta_keywords = "ib security assistant admit card download, intelligence bureau sa hall ticket download, mha.gov.in ib login admit card, ib sa mts exam date 2024 download, intelligence bureau call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">IB Security Assistant Admit Card: Download Intelligence Bureau Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>IB Recruitment 2024-25:</strong> The Intelligence Bureau (IB), under the Ministry of Home Affairs (MHA), has activated the portal for downloading exam admit cards for the Security Assistant (SA) and Multi-Tasking Staff (MTS) examination. Candidates can log in with their User ID at mha.gov.in or the dedicated recruitment portal.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Security Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

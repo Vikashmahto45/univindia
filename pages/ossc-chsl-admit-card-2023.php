@@ -9,33 +9,6 @@ $meta_keywords = "ossc chsl admit card 2023, odisha chsl admit card download, os
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online</div>
     <h2 class='sr-title'>OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online"; 
-$meta_description = "Download OSSC CHSL Admit Card 2023. Get the direct link for Odisha Staff Selection Commission Combined Higher Secondary Level (CHSL) Specialist recruitment hall tickets at ossc.gov.in."; 
-$meta_keywords = "ossc chsl admit card 2023, odisha chsl admit card download, ossc.gov.in chsl hall ticket, ossc chsl specialist admit card link, odisha recruitment 2023 admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "OSSC CHSL Admit Card 2023 Download - Odisha Combined Higher Secondary Level Link | Univindia.online";
-$meta_description = "Download OSSC CHSL Admit Card 2023. Get the direct link for Odisha Staff Selection Commission Combined Higher Secondary Level (CHSL) Specialist recruitment hall tickets at ossc.gov.in.";
-$meta_keywords = "ossc chsl admit card 2023, odisha chsl admit card download, ossc.gov.in chsl hall ticket, ossc chsl specialist admit card link, odisha recruitment 2023 admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">OSSC CHSL Admit Card 2023: Download Odisha Specialist Post Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>OSSC Recruitment Update:</strong> The Odisha Staff Selection Commission (OSSC) has released the admit cards for the Combined Higher Secondary Level (CHSL) Specialist Recruitment 2023 mains examination. Registered candidates can log in to ossc.gov.in to download their hall tickets.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest OSSC Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

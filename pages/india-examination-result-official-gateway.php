@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india examination result - Official National Gateway</div>
     <h2 class='sr-title'>india examination result - Official National Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india examination result - Official National Gateway"; 
-$meta_description = "Check all board results on india examination result. Access the official indiaresults portal for 10th & 12th scorecards across all Indian states and sessions."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all academic and competitive examination results across the Republic of India via the india examination result portal. Access official board mirrors and direct result links for all state and central boards updated for latest and archival sessions.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open National Result Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified National india examination result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Indian National Server Hub</h3>
+        <h3>Indian National Server Hub</h3>
                     <p>Primary server mirror for accessing 10th, 12th, and Graduate examination result data for all State Education Boards and Universities across India.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

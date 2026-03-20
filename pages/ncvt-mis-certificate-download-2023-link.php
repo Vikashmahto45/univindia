@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Ncvt Mis Certificate Download 2023 Link</div>
     <h2 class='sr-title'>Ncvt Mis Certificate Download 2023 Link</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Ncvt Mis Certificate Download 2023 Link"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div id="content-container">
-    <div class="main-content">
-        <section class="result-section">
-            
-            <p>Students who have completed their ITI training in 2023 can now access the **NCVT MIS certificate download 2023 link**. The National Council for Vocational Training (NCVT) provides an online portal for trainees to download their consolidated marksheets and certificates after the declaration of the All India Trade Test (AITT) results.</p>
-            
-            <div class="flash-news">
-                <span class="pulse"></span>
-                <strong>ITI NEWS:</strong> The NCVT MIS Trainee Profile portal is active for downloading original Marksheets and NTC (National Trade Certificates) for the 2023 session.
-            </div>
-
-            <h2>How to Download NCVT MIS ITI Certificate 2023?</h2>
+        <h2>How to Download NCVT MIS ITI Certificate 2023?</h2>
             <p>Follow these simple steps to download your **NCVT certificate** from the official portal:</p>
             <ol>
                 <li>Visit the official NCVT MIS website: <code>ncvtmis.gov.in</code>.</li>
@@ -109,14 +87,6 @@ $meta_keywords = "";
                     A: Yes, the latest NCVT certificates come with a QR code and digital signature for authentication.</p>
                 
         </section>
-    </div>
-    
-    <?php include 'sidebar.php'; ?>
-
-</div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

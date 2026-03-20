@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result mp - Official Madhya Pradesh Board Gateway Hub</div>
     <h2 class='sr-title'>india result mp - Official Madhya Pradesh Board Gateway Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result mp - Official Madhya Pradesh Board Gateway Hub"; 
-$meta_description = "Check india result mp for Class 10th and 12th board results. Access the official Madhya Pradesh (MPBSE) result portal on indiaresults for high-speed checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest High School and Higher Secondary results for Madhya
-                Pradesh. Official MPBSE mirrors and gateway links updated for the board examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check MP Board Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Madhya Pradesh Board Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>MPBSE Main Server</h3>
+        <h3>MPBSE Main Server</h3>
                     <p>Primary server for MP board high school & inter results results.</p>
                     <a href="https://madhya-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -115,10 +86,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

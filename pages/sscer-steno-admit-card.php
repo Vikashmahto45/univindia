@@ -9,33 +9,6 @@ $meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer h
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online</div>
     <h2 class='sr-title'>SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online"; 
-$meta_description = "Download SSCER Stenographer Grade C & D Admit Card 2024 for Eastern Region. Check application status, exam date, and skill test hall ticket at sscer.org."; 
-$meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer hall ticket, sscer.org steno status, ssc steno grade c d admit card download"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSCER Steno Admit Card 2024 Download - Eastern Region Grade C & D Status | Univindia.online";
-$meta_description = "Download SSCER Stenographer Grade C & D Admit Card 2024 for Eastern Region. Check application status, exam date, and skill test hall ticket at sscer.org.";
-$meta_keywords = "sscer steno admit card 2024, ssc eastern region stenographer hall ticket, sscer.org steno status, ssc steno grade c d admit card download";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSCER Stenographer Admit Card 2024: Grade C & D Eastern Region Status</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Steno Update:</strong> The SSC Eastern Region (SSCER) has officially released the 'Know Your Application Status' link for the Stenographer Grade 'C' & 'D' Examination 2024. Candidates from WB, Odisha, and Jharkhand can check their status now.
         </div>
@@ -117,13 +90,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

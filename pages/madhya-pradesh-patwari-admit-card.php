@@ -9,33 +9,6 @@ $meta_keywords = "madhya pradesh patwari admit card, mp patwari hall ticket down
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Madhya Pradesh Patwari Admit Card Download - MP PEB Group 2 Sub Group 4 Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Madhya Pradesh Patwari Admit Card Download - MP PEB Group 2 Sub Group 4 Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Madhya Pradesh Patwari Admit Card Download - MP PEB Group 2 Sub Group 4 Hall Ticket | Univindia.online"; 
-$meta_description = "Download Madhya Pradesh Patwari Admit Card. Get the direct link for MP PEB (ESB) Patwari recruitment examination hall tickets at peb.mp.gov.in (esb.mp.gov.in)."; 
-$meta_keywords = "madhya pradesh patwari admit card, mp patwari hall ticket download, peb.mp.gov.in admit card, mp esb patwari admit card link, patwari recruitment 2025"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Madhya Pradesh Patwari Admit Card Download - MP PEB Group 2 Sub Group 4 Hall Ticket | Univindia.online";
-$meta_description = "Download Madhya Pradesh Patwari Admit Card. Get the direct link for MP PEB (ESB) Patwari recruitment examination hall tickets at peb.mp.gov.in (esb.mp.gov.in).";
-$meta_keywords = "madhya pradesh patwari admit card, mp patwari hall ticket download, peb.mp.gov.in admit card, mp esb patwari admit card link, patwari recruitment 2025";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Madhya Pradesh Patwari Admit Card: Download MP PEB Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MP ESB Update:</strong> The Madhya Pradesh Employees Selection Board (MPESB), formerly MP PEB, has activated the portal for downloading the exam admit cards for the post of Patwari and other posts under Group 2 Sub Group 4. Candidates can log in with their application number to download their hall tickets.
         </div>
@@ -111,13 +84,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest MP Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

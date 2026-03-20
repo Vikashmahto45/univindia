@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; odisha.indiaresults.com 2021 - Official BSE/CHSE Archive</div>
     <h2 class='sr-title'>odisha.indiaresults.com 2021 - Official BSE/CHSE Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "odisha.indiaresults.com 2021 - Official BSE/CHSE Archive"; 
-$meta_description = "Check odisha.indiaresults.com 2021 for the High School and Senior Secondary examinations. Access the official 2021 Odisha result archive on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic results for Odisha. Official BSE and CHSE
-                mirrors and archival links updated for the 2021 sessions.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Odisha 2021 Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Main Server 2021</h3>
+        <h3>BSE Main Server 2021</h3>
                     <p>Primary server for Odisha 10th result 2021 archive.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -114,10 +85,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

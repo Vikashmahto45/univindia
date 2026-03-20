@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in</div>
     <h2 class='sr-title'>RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RRB Group D Admit Card 2024-25: RRC Railway Level 1 Hall Ticket Download @ rrbcdg.gov.in";
-$page_description = "Download RRB Group D Admit Card 2024-25 (RRC Level 1). Get direct link for Railway Group D Hall Ticket, Exam Schedule, and CBT Shift timings. 800+ words of latest updates.";
-$page_keywords = "RRB Group D Admit Card 2024, RRC Level 1 Hall Ticket Download, Railway Group D Admit Card Link, RRC Group D Call Letter, rrbcdg.gov.in admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">RRB Group D Admit Card</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-train me-2"></i> <strong>Recruitment Alert:</strong> The Railway Recruitment Board (RRB) and Railway Recruitment Cell (RRC) conduct massive exams for Group D (Level 1) posts. The hall ticket is released in multiple phases based on regional zones.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>RRB Group D Admit Card 2024-25</strong> is the primary document for millions of railway job seekers appearing for the Level 1 recruitment exam. As one of the largest recruitment drives in the world, the Railway Group D process involves multiple stages, beginning with a rigorous Computer Based Test (CBT).
                 </p>
@@ -157,57 +122,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-subway me-2"></i> RRB Recruitment Pages</h3>
                 <div class="row g-3">
-                    <?php
-                    $rrb_links = [
-                        'rrb-ntpc-admit-card.php' => 'RRB NTPC Hall Ticket',
-                        'rpf-constable-admit-card.php' => 'RPF Constable Admit Card',
-                        'rrb-alp-admit-card.php' => 'RRB ALP Admit Card',
-                        'rrb-je-admit-card.php' => 'RRB Junior Engineer'
-                    ];
-                    foreach ($rrb_links as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="rrb-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.95);
-    backdrop-filter: blur(8px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #111 0%, #333 100%);
-}
-.rrb-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s ease;
-}
-.rrb-link-card:hover {
-    background: rgba(220, 53, 69, 0.15);
-    border-color: #dc3545 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

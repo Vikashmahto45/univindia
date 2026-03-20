@@ -9,33 +9,6 @@ $meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online"; 
-$meta_description = "Download RSMSSB Admit Card. Get the direct link for Rajasthan RSMSSB CET, LDC, Patwari, and VDO examination hall tickets at rsmssb.rajasthan.gov.in."; 
-$meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket download, rsmssb.rajasthan.gov.in admit card login, rsmssb exam date 2024 download, rajasthan sso admit card"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "RSMSSB Admit Card Download - Rajasthan Staff Selection Board Hall Ticket | Univindia.online";
-$meta_description = "Download RSMSSB Admit Card. Get the direct link for Rajasthan RSMSSB CET, LDC, Patwari, and VDO examination hall tickets at rsmssb.rajasthan.gov.in.";
-$meta_keywords = "rsmssb admit card, rajasthan staff selection board hall ticket download, rsmssb.rajasthan.gov.in admit card login, rsmssb exam date 2024 download, rajasthan sso admit card";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">RSMSSB Admit Card: Download Rajasthan Staff Selection Board Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>RSMSSB Official:</strong> The Rajasthan Staff Selection Board (RSSB/RSMSSB) has activated the portal for downloading exam admit cards for various recruitments including CET (Common Eligibility Test), LDC, and Librarian. Candidates can log in via their SSO ID at sso.rajasthan.gov.in to download their hall tickets.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Rajasthan Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

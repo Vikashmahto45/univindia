@@ -9,33 +9,6 @@ $meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 admit card, ssc regi
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online"; 
-$meta_description = "Download SSC CHSL Admit Card 2024 for Tier 1 & 2. Get region-wise direct links for NR, CR, WR, SR, ER, KKR, MPR, NER. Check status and exam dates here."; 
-$meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 admit card, ssc regional websites, chsl exam status, ssc chsl hall ticket download"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC CHSL Admit Card 2024 Download - Region Wise Link & Hall Ticket | Univindia.online";
-$meta_description = "Download SSC CHSL Admit Card 2024 for Tier 1 & 2. Get region-wise direct links for NR, CR, WR, SR, ER, KKR, MPR, NER. Check status and exam dates here.";
-$meta_keywords = "ssc chsl admit card 2024, ssc chsl tier 1 admit card, ssc regional websites, chsl exam status, ssc chsl hall ticket download";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC CHSL Admit Card 2024: Region-Wise Download Links & Exam Status</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Latest News:</strong> The Staff Selection Commission (SSC) has started releasing the application status and admit cards for the Combined Higher Secondary (10+2) Level Examination 2024. Candidates can check their region-specific links below.
         </div>
@@ -149,13 +122,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check Latest Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

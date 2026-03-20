@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MHT CET Admit Card 2024: Download PCM & PCB Hall Ticket @mahacet.org</div>
     <h2 class='sr-title'>MHT CET Admit Card 2024: Download PCM & PCB Hall Ticket @mahacet.org</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MHT CET Admit Card 2024: Download PCM & PCB Hall Ticket @mahacet.org"; 
-$meta_description = "Download MHT CET Admit Card 2024 for PCM and PCB groups. Get direct link for Maharashtra CET Hall Ticket download, exam date and candidate instructions."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">MHT CET Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow border-0 mb-4 rounded-4 overflow-hidden">
-                <div class="card-header bg-dark text-white p-4">
-                    
-                </div>
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <p class="lead">The State Common Entrance Test Cell, Maharashtra, is the nodal agency for conducting the MHT CET 2024 for admissions to Engineering, Agriculture, and Pharmacy courses. The MHT CET Admit Card is the mandatory digital pass for candidates appearing in the Computer Based Test (CBT) for both PCM (Physics, Chemistry, Maths) and PCB (Physics, Chemistry, Biology) groups.</p>
                     
                     <div class="alert alert-secondary border-0 shadow-sm rounded-4 mt-4">
@@ -128,10 +103,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

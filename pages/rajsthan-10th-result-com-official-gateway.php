@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajsthan 10th result com - Official Rajasthan 10th Gateway</div>
     <h2 class='sr-title'>rajsthan 10th result com - Official Rajasthan 10th Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rajsthan 10th result com - Official Rajasthan 10th Gateway"; 
-$meta_description = "Access rajsthan 10th result com for official RBSE Secondary result updates. Unified portal for Rajasthan Board 10th scores and direct links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for all Rajasthan Board of Secondary Education
-                (RBSE) Class 10th (Secondary) examination results. Official RBSE mirrors and direct result links updated
-                for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 10th Result Portal</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Rajasthan (RBSE 10th) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Board Server</h3>
+        <h3>RBSE Board Server</h3>
                     <p>Primary server mirror for accessing Rajasthan Board 10th (Secondary) results for various academic
                         sessions across districts on institutional mirrors.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

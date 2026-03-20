@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive</div>
     <h2 class='sr-title'>inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "inter 1st year results 2022 ap - Official Andhra Pradesh 11th 2022 Archive"; 
-$meta_description = "Check inter 1st year results 2022 ap for BIEAP exams. Access the official 2022 Andhra Pradesh Intermediate result portal and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 academic session results for Andhra Pradesh Class 11th
-                (Junior Intermediate). Official BIEAP Vijayawada mirrors and archival links updated for 2022 batch
-                verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 AP Inter Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Andhra (BIEAP) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BIEAP Vijayawada Hub 2022</h3>
+        <h3>BIEAP Vijayawada Hub 2022</h3>
                     <p>Primary server for AP Junior Inter (1st Year) result data across all centers and archival
                         sessions for 2022.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

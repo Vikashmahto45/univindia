@@ -9,33 +9,6 @@ $meta_keywords = "cet admit card 2023 download, rsmssb cet hall ticket 2023 down
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CET Admit Card 2023 Download - Common Eligibility Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CET Admit Card 2023 Download - Common Eligibility Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CET Admit Card 2023 Download - Common Eligibility Test Hall Ticket | Univindia.online"; 
-$meta_description = "Download CET Admit Card 2023. Get the direct link for Common Eligibility Test (CET) HSSC and RSMSSB recruitment examination hall tickets at official portals."; 
-$meta_keywords = "cet admit card 2023 download, rsmssb cet hall ticket 2023 download, hssc cet login 2023, cet exam date 2023 download, eligibility recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CET Admit Card 2023 Download - Common Eligibility Test Hall Ticket | Univindia.online";
-$meta_description = "Download CET Admit Card 2023. Get the direct link for Common Eligibility Test (CET) HSSC and RSMSSB recruitment examination hall tickets at official portals.";
-$meta_keywords = "cet admit card 2023 download, rsmssb cet hall ticket 2023 download, hssc cet login 2023, cet exam date 2023 download, eligibility recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CET Admit Card 2023: Download Common Eligibility Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>2023 CET Archive:</strong> The Common Eligibility Test (CET) 2023 was a massive recruitment milestone for states like Haryana (HSSC) and Rajasthan (RSMSSB). Candidates can access their archived 2023 hall tickets, scorecards, and tier-2 schedules at the respective state portals.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search 2023 Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

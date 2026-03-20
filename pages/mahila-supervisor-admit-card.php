@@ -9,33 +9,6 @@ $meta_keywords = "mahila supervisor admit card download, rsmssb mahila superviso
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download Mahila Supervisor Admit Card. Get the direct link for RSMSSB, MPPEB, and various state female supervisor (Anganwadi) hall tickets at recruitment portals."; 
-$meta_keywords = "mahila supervisor admit card download, rsmssb mahila supervisor hall ticket download, mppeb mahila supervisor login admit card, mahila supervisor exam date 2024 download, female supervisor call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Mahila Supervisor Admit Card Download - State Recruitment Hall Ticket Link | Univindia.online";
-$meta_description = "Download Mahila Supervisor Admit Card. Get the direct link for RSMSSB, MPPEB, and various state female supervisor (Anganwadi) hall tickets at recruitment portals.";
-$meta_keywords = "mahila supervisor admit card download, rsmssb mahila supervisor hall ticket download, mppeb mahila supervisor login admit card, mahila supervisor exam date 2024 download, female supervisor call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Mahila Supervisor Admit Card: Download Female Supervisor Recruitment Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Mahila Supervisor Recruitment:</strong> Various state boards including RSMSSB (Rajasthan) and MPPEB (Madhya Pradesh) have activated portals for downloading exam admit cards for the Mahila Supervisor (Female Supervisor) recruitment in the Women and Child Development Department. Candidates can log in with their Application ID at the respective state recruitment portals.
         </div>
@@ -116,13 +89,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Welfare Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

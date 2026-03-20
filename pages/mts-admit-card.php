@@ -9,33 +9,6 @@ $meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download SSC MTS Admit Card 2024. Get the direct link for Multi Tasking Staff and Havaldar (CBIC & CBN) examination status, exam dates, and hall tickets at ssc.gov.in."; 
-$meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall ticket link, ssc.gov.in mts admit card, ssc havladar admit card 2024"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SSC MTS Admit Card 2024 Download - Multi Tasking Staff Hall Ticket Link | Univindia.online";
-$meta_description = "Download SSC MTS Admit Card 2024. Get the direct link for Multi Tasking Staff and Havaldar (CBIC & CBN) examination status, exam dates, and hall tickets at ssc.gov.in.";
-$meta_keywords = "ssc mts admit card 2024, mts admit card download, ssc mts hall ticket link, ssc.gov.in mts admit card, ssc havladar admit card 2024";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SSC MTS Admit Card 2024: Download Multi Tasking Staff & Havaldar Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSC Notification:</strong> The Staff Selection Commission (SSC) has officially released the Application Status and Admit Card for the Multi Tasking (Non-Technical) Staff and Havaldar (CBIC & CBN) Examination 2024. Region-wise links are now active on ssc.gov.in.
         </div>
@@ -123,13 +96,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

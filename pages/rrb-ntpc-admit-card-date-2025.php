@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in</div>
     <h2 class='sr-title'>RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RRB NTPC Admit Card Date 2025: Railway NTPC Exam Schedule & Hall Ticket Link @ rrbcdg.gov.in";
-$page_description = "Check RRB NTPC Admit Card Date 2025. Get the latest release schedule for Railway NTPC Hall Ticket, CBT 1 Exam Date, and center city intimation. 800+ words of detailed analysis.";
-$page_keywords = "RRB NTPC Admit Card Date 2025, Railway NTPC Hall Ticket Release Date, RRB NTPC Level 2 3 5 6 Admit Card, rrb ntpc cbt 1 exam date 2025, rrbcdg.gov.in ntpc hall ticket";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">RRB NTPC Admit Card Date 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-calendar-alt me-2"></i> <strong>Latest Notification:</strong> The Railway Recruitment Board (RRB) has initiated the process for CEN 03/2024 (NTPC Graduate and Undergraduate posts). The <strong>NTPC Admit Card link</strong> is typically activated 4 days prior to each candidate's specific exam date.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>RRB NTPC Admit Card Date 2025</strong> is a crucial piece of information for millions of applicants vying for non-technical posts such as Station Master, Goods Guard, and Commercial Apprentice. Given the massive scale of the recruitment, tracking the exact timeline for the release of the hall ticket and center intimation is essential for effective preparation.
                 </p>
@@ -150,57 +115,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marker-alt me-2"></i> Regional RRB Portals</h3>
                 <div class="row g-3">
-                    <?php
-                    $regions = [
-                        'rrb-patna-admit-card.php' => 'RRB Patna Admit Card',
-                        'rrb-allahabad-admit-card.php' => 'RRB Allahabad Call Letter',
-                        'rrb-ahmedabad-admit-card.php' => 'RRB Ahmedabad Admit Card',
-                        'rrb-secunderabad-admit-card.php' => 'RRB Secunderabad Hall Ticket'
-                    ];
-                    foreach ($regions as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="ntpc-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-}
-.ntpc-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
-.ntpc-link-card:hover {
-    background: rgba(13, 202, 240, 0.15);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

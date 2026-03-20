@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal</div>
     <h2 class='sr-title'>Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "Admit Card Download 2025: Central & State Govt Exam Hall Ticket portal";
-$page_description = "Universal Portal for Admit Card Download 2025. Get direct links for Railway, SSC, Banking, and University Exam Hall Tickets. 800+ words of technical guide.";
-$page_keywords = "admit card download 2025, Govt Exam Hall Ticket Link, Download Call Letter Online, sarkari result admit card download, center city intimation slip 2025";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">Admit Card Download Portal</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-secondary bg-dark border-secondary text-light rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-search me-2"></i> <strong>Quick Search:</strong> This portal serves as a central hub for finding the official <strong>Admit Card Download Link</strong> for various competitive examinations, recruitment tests, and university semseter exams across India.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>Admit Card Download 2025</strong> process is the most critical step for every student and job seeker. An Admit Card, also known as a Hall Ticket or Call Letter, is the official document issued by an examination body to verify that the candidate is eligible to sit for the test. Without this document, no candidate is permitted to enter the examination hall.
                 </p>
@@ -163,57 +128,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> University Download Portals</h3>
                 <div class="row g-3">
-                    <?php
-                    $univs = [
-                        'mjpru-admit-card.php' => 'MJPRU Bareilly Admit Card',
-                        'davv-admit-card.php' => 'DAVV Indore Hall Ticket',
-                        'csjm-admit-card.php' => 'CSJM Kanpur Admit Card',
-                        'uniraj-admit-card.php' => 'Rajasthan University Admit Card'
-                    ];
-                    foreach ($univs as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="download-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #e0e0e0;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-}
-.download-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
-.download-link-card:hover {
-    background: rgba(13, 202, 240, 0.12);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-5px) scale(1.05);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

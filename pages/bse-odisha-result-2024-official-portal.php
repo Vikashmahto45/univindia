@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bse odisha result 2024 - Official Odisha Secondary Result Hub</div>
     <h2 class='sr-title'>bse odisha result 2024 - Official Odisha Secondary Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bse odisha result 2024 - Official Odisha Secondary Result Hub"; 
-$meta_description = "Check bse odisha result 2024 for Class 10 exams. Access the official 2024 Board of Secondary Education (BSE) Odisha result portal and schedule on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Stay updated with the latest declaration schedule and direct access for
-                the Odisha Class 10th (Secondary) results for the 2024 academic session. Official BSE Cuttack mirrors
-                updated for the 2024 batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2024 Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2024 Odisha Secondary Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Orissa Main Hub 2024</h3>
+        <h3>BSE Orissa Main Hub 2024</h3>
                     <p>Primary server for Odisha 10th result data and official marksheet downloads for the 2024 academic
                         session.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

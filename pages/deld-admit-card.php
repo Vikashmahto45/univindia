@@ -9,33 +9,6 @@ $meta_keywords = "deled admit card 2024, btc admit card download, deled entrance
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online"; 
-$meta_description = "Download DElEd Admit Card 2024. Get the direct link for Diploma in Elementary Education (D.El.Ed / BTC) entrance examination hall tickets for various states at the official education portals."; 
-$meta_keywords = "deled admit card 2024, btc admit card download, deled entrance hall ticket, state deled admit card link, deled exam hall ticket login"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "DElEd Admit Card 2024 Download - State Diploma in Elementary Education Hall Ticket | Univindia.online";
-$meta_description = "Download DElEd Admit Card 2024. Get the direct link for Diploma in Elementary Education (D.El.Ed / BTC) entrance examination hall tickets for various states at the official education portals.";
-$meta_keywords = "deled admit card 2024, btc admit card download, deled entrance hall ticket, state deled admit card link, deled exam hall ticket login";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">DElEd Admit Card 2024: Download State Diploma in Elementary Education Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>DElEd Notification:</strong> Various state education boards (e.g., BSEB Bihar, SCERT UP, RSMSSB Rajasthan) have activated the portal for downloading the exam admit cards for the 2024-26 academic session of the Diploma in Elementary Education (D.El.Ed). Candidates can log in with their application ID to download their hall tickets.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

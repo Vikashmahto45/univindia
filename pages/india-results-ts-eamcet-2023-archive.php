@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india results ts eamcet 2023 - Official Telangana Entrance Archive Portal</div>
     <h2 class='sr-title'>india results ts eamcet 2023 - Official Telangana Entrance Archive Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india results ts eamcet 2023 - Official Telangana Entrance Archive Portal"; 
-$meta_description = "Check india results ts eamcet 2023 for Engineering, Agriculture, and Medical streams. Access the official 2023 TS EAMCET result archive on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 Entrance Examination results for Telangana EAMCET.
-                Official TSCHE mirrors and archival links updated for Engineering and Medical streams.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">TS EAMCET 2023 Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>Telangana Entrance Server 2023</h3>
+        <h3>Telangana Entrance Server 2023</h3>
                     <p>Primary server for TS EAMCET 2023 session result archive.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -121,10 +92,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

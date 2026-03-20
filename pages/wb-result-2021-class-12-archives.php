@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; wb result 2021 class 12 - Official West Bengal 2021 Archive</div>
     <h2 class='sr-title'>wb result 2021 class 12 - Official West Bengal 2021 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "wb result 2021 class 12 - Official West Bengal 2021 Archive"; 
-$meta_description = "Check West Bengal Board 12th result 2021 on wb result 2021 class 12. Access official WBCHSE Higher Secondary 2021 archival results on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for West Bengal
-                Council of Higher Secondary Education (WBCHSE) Class 12th (Higher Secondary). Official WBCHSE mirrors
-                and 2021 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 WB Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 West Bengal (WBCHSE) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>WBCHSE Board Server 2021</h3>
+        <h3>WBCHSE Board Server 2021</h3>
                     <p>Primary server for West Bengal Higher Secondary (12th) result data for the 2021 session archive
                         across districts like Kolkata, Howrah, and Asansol.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

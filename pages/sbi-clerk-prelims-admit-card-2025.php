@@ -9,33 +9,6 @@ $meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associa
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online"; 
-$meta_description = "Download SBI Clerk Prelims Admit Card 2025. Get the direct link for State Bank of India (SBI) Junior Associate examination hall tickets at sbi.co.in."; 
-$meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associate hall ticket 2025 download, sbi.co.in login 2025, bank exam date 2025 download, sbi recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SBI Clerk Prelims Admit Card 2025 Download - Junior Associate Hall Ticket | Univindia.online";
-$meta_description = "Download SBI Clerk Prelims Admit Card 2025. Get the direct link for State Bank of India (SBI) Junior Associate examination hall tickets at sbi.co.in.";
-$meta_keywords = "sbi clerk prelims admit card 2025 download, sbi junior associate hall ticket 2025 download, sbi.co.in login 2025, bank exam date 2025 download, sbi recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SBI Clerk Prelims Admit Card 2025: Download State Bank Junior Associate Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SBI 2025 Recruitment:</strong> The State Bank of India (SBI) is expected to activate the portal for downloading exam admit cards for the Junior Associate (Customer Support & Sales) Preliminary Examinations 2025. Candidates can log in with their registration number at sbi.co.in/web/careers.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest Bank News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

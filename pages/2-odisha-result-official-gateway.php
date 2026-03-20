@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 2 odisha result - Official Odisha Plus Two Hub</div>
     <h2 class='sr-title'>2 odisha result - Official Odisha Plus Two Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "2 odisha result - Official Odisha Plus Two Hub"; 
-$meta_description = "Check Odisha Board +2 (Higher Secondary) result on 2 odisha result. Access official CHSE Odisha Plus Two scorecards and archival results on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Council of Higher Secondary Education (CHSE), Odisha Class 12 (+2) examination results. Access official Odisha board mirrors and archival links updated for session verification across all streams.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open Odisha +2 Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Odisha (+2/CHSE) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>CHSE Odisha Server</h3>
+        <h3>CHSE Odisha Server</h3>
                     <p>Primary server for accessing Odisha Board Class 12th (+2/Higher Secondary) examination result data for all streams (Arts, Science, Commerce, Vocational) in Odisha.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "bihar deled admit card 2024 download, bseb deled hall ticket 2
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Bihar DElEd Admit Card 2024 Download - BSEB Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>Bihar DElEd Admit Card 2024 Download - BSEB Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Bihar DElEd Admit Card 2024 Download - BSEB Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download Bihar DElEd Admit Card 2024. Get the direct link for Bihar School Examination Board (BSEB) D.El.Ed Joint Entrance Test (JET) hall tickets at biharboardonline.com."; 
-$meta_keywords = "bihar deled admit card 2024 download, bseb deled hall ticket 2024 download, biharboardonline.com login 2024, deled exam date 2024 download, teacher entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Bihar DElEd Admit Card 2024 Download - BSEB Hall Ticket Link | Univindia.online";
-$meta_description = "Download Bihar DElEd Admit Card 2024. Get the direct link for Bihar School Examination Board (BSEB) D.El.Ed Joint Entrance Test (JET) hall tickets at biharboardonline.com.";
-$meta_keywords = "bihar deled admit card 2024 download, bseb deled hall ticket 2024 download, biharboardonline.com login 2024, deled exam date 2024 download, teacher entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Bihar DElEd Admit Card 2024: Download BSEB JET Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Bihar DElEd 2024 Update:</strong> The Bihar School Examination Board (BSEB) has activated the portal for downloading exam admit cards for the Diploma in Elementary Education (D.El.Ed) Joint Entrance Test (JET) 2024. Candidates can log in with their application ID at secondary.biharboardonline.com.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Teacher Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

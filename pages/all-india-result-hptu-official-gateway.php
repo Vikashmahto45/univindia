@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; all india result hptu - Official National Technical Hub</div>
     <h2 class='sr-title'>all india result hptu - Official National Technical Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "all india result hptu - Official National Technical Hub"; 
-$meta_description = "Check all india result hptu for B.Tech, MBA, MCA and other courses. Access official national HPTU result portals and university mirrors on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for the official examination results for Himachal
-                Pradesh Technical University (HPTU), Hamirpur on the national stage. Direct degree result links and
-                mirrors updated for the current academic session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check HPTU National</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified HPTU National Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>HPTU University Server</h3>
+        <h3>HPTU University Server</h3>
                     <p>Primary server for Himachal Pradesh Technical University (HPTU) results for B.Tech, B.Pharm, MBA,
                         MCA, and M.Tech for students across India.</p>
                     <a href="https://himachal-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

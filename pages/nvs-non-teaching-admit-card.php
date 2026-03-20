@@ -9,33 +9,6 @@ $meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online</div>
     <h2 class='sr-title'>NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online"; 
-$meta_description = "Download NVS Non-Teaching Admit Card 2024. Get direct link for NVS Recruitment Examination hall ticket, exam dates, city intimation for 1377+ posts at navodaya.gov.in."; 
-$meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download, nvs lab attendant hall ticket, nvs recruitment 2024 admit card link, navodaya.gov.in recruitment login"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "NVS Non-Teaching Admit Card 2024 Download - JSA, Staff Nurse, Lab Attendant | Univindia.online";
-$meta_description = "Download NVS Non-Teaching Admit Card 2024. Get direct link for NVS Recruitment Examination hall ticket, exam dates, city intimation for 1377+ posts at navodaya.gov.in.";
-$meta_keywords = "nvs non teaching admit card 2024, nvs jsa admit card download, nvs lab attendant hall ticket, nvs recruitment 2024 admit card link, navodaya.gov.in recruitment login";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">NVS Non-Teaching Admit Card 2024: Download Recruitment Hall Ticket for 1377+ Posts</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Recruitment Alert:</strong> Navodaya Vidyalaya Samiti (NVS) has activated the City Intimation Link for the Non-Teaching Direct Recruitment 2024. Final admit cards for exams scheduled in the upcoming week are now downloadable via the candidate portal.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

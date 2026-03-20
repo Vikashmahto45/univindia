@@ -9,33 +9,6 @@ $meta_keywords = "aibe admit card 2024, all india bar examination hall ticket, a
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; AIBE Admit Card 2024 Download - All India Bar Examination Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>AIBE Admit Card 2024 Download - All India Bar Examination Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "AIBE Admit Card 2024 Download - All India Bar Examination Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download AIBE Admit Card 2024. Get the direct link for All India Bar Examination (AIBE XIX/XX) hall tickets at allindiabarexamination.com."; 
-$meta_keywords = "aibe admit card 2024, all india bar examination hall ticket, aibe xix admit card download, bci admit card login, law advocate license exam link"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "AIBE Admit Card 2024 Download - All India Bar Examination Hall Ticket Link | Univindia.online";
-$meta_description = "Download AIBE Admit Card 2024. Get the direct link for All India Bar Examination (AIBE XIX/XX) hall tickets at allindiabarexamination.com.";
-$meta_keywords = "aibe admit card 2024, all india bar examination hall ticket, aibe xix admit card download, bci admit card login, law advocate license exam link";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">AIBE Admit Card 2024: Download All India Bar Examination Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>BCI News:</strong> The Bar Council of India (BCI) has officially activated the portal for downloading the e-Admit Cards for the All India Bar Examination (AIBE-XIX). Candidates can log in with their credentials to access their law practice license examination hall tickets.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

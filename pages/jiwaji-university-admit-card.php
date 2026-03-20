@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket</div>
     <h2 class='sr-title'>Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Jiwaji University Admit Card: Download Gwalior UG/PG Hall Ticket"; 
-$meta_description = "Download Jiwaji University Gwalior Admit Card for Semester and Annual Examinations. Get direct links for UG/PG Private and Regular Student Hall Tickets at jiwaji.edu."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Jiwaji University Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4 rounded-5 overflow-hidden">
-                <div class="card-body p-5">
-                    
-                    <p class="lead">Jiwaji University Gwalior is the premier educational institution for students in the Gwalior and Chambal regions. The university conducts examinations for a vast array of courses including B.A, B.Sc, B.Com, B.Lib, M.A, M.Sc, M.Com, and many more. The Jiwaji University Admit Card is the most crucial document for all students appearing in these exams.</p>
-                    
-                    <div class="row align-items-center bg-light p-4 rounded-5 my-5 border">
-                        <div class="col-md-2 text-center">
-                            <i class="bi bi-file-earmark-person-fill text-primary display-1"></i>
-                        </div>
-                        <div class="col-md-10">
+        <div class="col-md-10">
                             <h4 class="fw-bold">Admit Card Availability</h4>
                             <p class="mb-0">The hall tickets for Jiwaji University examinations are typically made available online 7 to 10 days before the commencement of each semester's papers. Students belonging to both Regular and Private categories must download their specific admit cards from the MP Online portal of the university.</p>
                         
@@ -114,10 +84,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

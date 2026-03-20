@@ -9,33 +9,6 @@ $meta_keywords = "cbse admit card download, central board hall ticket download, 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download CBSE Admit Card. Get the direct link for CBSE Class 10th and 12th Board examination hall tickets at cbse.gov.in."; 
-$meta_keywords = "cbse admit card download, central board hall ticket download, cbse.gov.in login admit card, class 10 exam date 2024 download, class 12 board call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CBSE Admit Card Download - Central Board Board Exam Hall Ticket | Univindia.online";
-$meta_description = "Download CBSE Admit Card. Get the direct link for CBSE Class 10th and 12th Board examination hall tickets at cbse.gov.in.";
-$meta_keywords = "cbse admit card download, central board hall ticket download, cbse.gov.in login admit card, class 10 exam date 2024 download, class 12 board call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CBSE Admit Card: Download Central Board Class 10th & 12th Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>CBSE Board Update:</strong> The Central Board of Secondary Education (CBSE) has activated the portal for downloading exam admit cards for the Class X and Class XII Board Examinations 2024-25. Regular students can collect them from schools, while Private candidates can download them at cbse.gov.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Latest Results News</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

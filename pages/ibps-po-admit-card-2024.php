@@ -9,39 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in</div>
     <h2 class='sr-title'>IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "IBPS PO Admit Card 2024: Download Prelims Hall Ticket @ibps.in"; 
-$meta_description = "Download IBPS PO Admit Card 2024 for CRP PO/MT XIV. Get direct link for Preliminary Exam Hall Ticket. Check exam dates, reporting time, and important banking exam guidelines."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">IBPS PO Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4 rounded-5 p-2">
-                <div class="card-body p-4">
-                    
-                    <p class="lead">The Institute of Banking Personnel Selection (IBPS) is expected to release the admit cards for the Common Recruitment Process for Probationary Officers and Management Trainees (CRP PO/MT XIV) 2024 soon. Candidates who have applied for the vacancies in various public sector banks can download their IBPS PO Prelims Admit Card from the official website at ibps.in.</p>
-                    
-                    <div class="row mt-4">
-                        <div class="col-md-7">
-                            <h2 class="fw-bold h3 text-primary mb-3">Release of CRP PO/MT XIV Hall Ticket</h2>
-                            <p>The recruitment of Probationary Officers in 2024 will proceed in three distinct phases: Preliminary Online Examination, Main Online Examination, and Interview. The admit card for the Preliminary round is usually released 10-15 days before the scheduled exam date. It is mandatory for every candidate to carry a physical copy of the hall ticket to gain entrance to the examination hall.</p>
-                            <p>Bank aspirants are advised to keep their registration credentials (Registration Number and Date of Birth/Password) ready to ensure a quick download as soon as the link is activated.</p>
-                        </div>
-                        <div class="col-md-5">
+        <div class="col-md-5">
                             <div class="bg-primary bg-opacity-10 p-4 rounded-5 border-start border-primary border-5">
                                 <h4 class="fw-bold mb-3">Key Highlights</h4>
                                 <ul class="mb-0 list-unstyled">
@@ -173,10 +141,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive</div>
     <h2 class='sr-title'>indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "indiaresults.com 2022 ap - Official Andhra Pradesh 2022 Archive"; 
-$meta_description = "Check Andhra Pradesh (AP) Board 10th & 12th result 2022 on indiaresults.com 2022 ap. Access official BSEAP/BIEAP 2022 archival results on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Andhra Pradesh
-                Board of Secondary Education (BSEAP) and Board of Intermediate Education (BIEAP). Official AP mirrors
-                and 2022 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 AP Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Andhra Pradesh (AP Board) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>AP Board Server 2022</h3>
+        <h3>AP Board Server 2022</h3>
                     <p>Primary server mirror for accessing Andhra Pradesh SSC (10th) and Intermediate (12th) results for
                         the 2022 session archive across districts like Visakhapatnam and Vijayawada.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

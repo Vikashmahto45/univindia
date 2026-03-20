@@ -9,33 +9,6 @@ $meta_keywords = "mht cet admit card 2021, maharashtra cet hall ticket download,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MHT CET Admit Card 2021 Download - Maharashtra CET Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>MHT CET Admit Card 2021 Download - Maharashtra CET Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MHT CET Admit Card 2021 Download - Maharashtra CET Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download MHT CET Admit Card 2021. Get the direct link for Maharashtra CET Engineering, Pharmacy, and Law entrance examination hall tickets at mahacet.org."; 
-$meta_keywords = "mht cet admit card 2021, maharashtra cet hall ticket download, mahacet.org admit card login, mht cet result 2021, mht cet exam date 2021 download"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "MHT CET Admit Card 2021 Download - Maharashtra CET Hall Ticket Link | Univindia.online";
-$meta_description = "Download MHT CET Admit Card 2021. Get the direct link for Maharashtra CET Engineering, Pharmacy, and Law entrance examination hall tickets at mahacet.org.";
-$meta_keywords = "mht cet admit card 2021, maharashtra cet hall ticket download, mahacet.org admit card login, mht cet result 2021, mht cet exam date 2021 download";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">MHT CET Admit Card 2021: Download Maharashtra CET Entrance Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MHT CET 2021 Archive:</strong> The State Common Entrance Test Cell, Maharashtra, conducted the MHT CET 2021 examination for professional courses in Engineering, Technology, and Pharmacy. Candidates looking for old hall tickets or merit records for the 2021 session can access the official archive link at mahacet.org.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Latest CET Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

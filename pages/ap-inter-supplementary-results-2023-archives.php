@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ap inter supplementary results 2023 - Official BIEAP 2023 Archive</div>
     <h2 class='sr-title'>ap inter supplementary results 2023 - Official BIEAP 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ap inter supplementary results 2023 - Official BIEAP 2023 Archive"; 
-$meta_description = "Check ap inter supplementary results 2023 for IPASE exams. Access the official 2023 Andhra Pradesh Board of Intermediate Education (BIEAP) archival portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 IPASE examination results for Andhra Pradesh
-                Intermediate 1st and 2nd Year Supplementary. Official BIEAP mirrors and archival links updated for the
-                2023 batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Supple Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Andhra Pradesh (AP Inter) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BIEAP Supple Server 2023</h3>
+        <h3>BIEAP Supple Server 2023</h3>
                     <p>Primary server for Andhra Pradesh Board Intermediate Supplementary result data for the 2023
                         session archive across all districts.</p>
                     <a href="https://andhra-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

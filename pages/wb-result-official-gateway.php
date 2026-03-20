@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; wb result - Official West Bengal Academic Hub</div>
     <h2 class='sr-title'>wb result - Official West Bengal Academic Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "wb result - Official West Bengal Academic Hub"; 
-$meta_description = "Check wb result for Madhyamik and Higher Secondary exams. Access the official West Bengal Board of Secondary Education (WBBSE) and Council (WBCHSE) result gateways on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest and archival examination results for West Bengal Class
-                10th (Madhyamik) and Class 12th (Higher Secondary). Official WBBSE and WBCHSE mirrors updated for the
-                current academic batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check WB Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified West Bengal Academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Madhyamik Results</h3>
+        <h3>Madhyamik Results</h3>
                     <p>Primary server for West Bengal Board Class 10th (Secondary) results data across all districts and
                         archival sessions.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -127,10 +97,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

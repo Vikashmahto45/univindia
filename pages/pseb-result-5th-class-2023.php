@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; pseb result 5th class 2023 - Official Punjab Board Portal</div>
     <h2 class='sr-title'>pseb result 5th class 2023 - Official Punjab Board Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "pseb result 5th class 2023 - Official Punjab Board Portal"; 
-$meta_description = "Check pseb result 5th class 2023 for Primary examinations. Access the official Punjab School Education Board (PSEB) 5th result gateway on indiaresults for fast checking."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 Primary (5th Class) results for the Punjab School
-                Education Board (PSEB). Direct portal links and mirrors updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 5th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Punjab 2023 Primary Exam Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🎒</div>
-                    <h3>PSEB Primary Server</h3>
+        <h3>PSEB Primary Server</h3>
                     <p>Primary server for Punjab 5th class results 2023.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -112,10 +83,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

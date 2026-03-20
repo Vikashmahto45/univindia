@@ -9,33 +9,6 @@ $meta_keywords = "cgl exam admit card download, ssc cgl exam hall ticket 2024, s
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download CGL Exam Admit Card 2024. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) examination hall tickets at regional ssc.gov.in portals."; 
-$meta_keywords = "cgl exam admit card download, ssc cgl exam hall ticket 2024, ssc.gov.in login 2024, cgl tier 1 date download, ssc inspector recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CGL Exam Admit Card 2024 Download - SSC Tier 1 & 2 Hall Ticket Link | Univindia.online";
-$meta_description = "Download CGL Exam Admit Card 2024. Get the direct link for Staff Selection Commission Combined Graduate Level (CGL) examination hall tickets at regional ssc.gov.in portals.";
-$meta_keywords = "cgl exam admit card download, ssc cgl exam hall ticket 2024, ssc.gov.in login 2024, cgl tier 1 date download, ssc inspector recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CGL Exam Admit Card: Download SSC Tier 1 & 2 Hall Ticket Link</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSC Exam Update:</strong> The Staff Selection Commission (SSC) releases the exact exam dates, city intimation slips, and final e-Admit Cards for the CGL Examination exclusively on its 9 regional websites (NR, CR, ER, WR, SR, NWR, KKR, MPR, NER).
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest CGL Vacancies</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

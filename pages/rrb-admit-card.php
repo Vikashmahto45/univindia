@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in</div>
     <h2 class='sr-title'>RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RRB Admit Card 2025: Railway NTPC, Group D, ALP, JE Hall Ticket Download Link @ rrbcdg.gov.in";
-$page_description = "Download RRB Admit Card 2025 for all zones. Get direct link for Railway NTPC, ALP, JE, and Group D Hall Tickets. 800+ words of technical guide for all RRB regions.";
-$page_keywords = "RRB Admit Card 2025, Railway Hall Ticket Download Link, RRB NTPC Admit Card, RRB ALP Call Letter, rrbcdg.gov.in admit card 2025";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">RRB Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-train me-2"></i> <strong>Official Gateway:</strong> The Railway Recruitment Board (RRB) has activated the centralized portal for various CEN 2024-25 notifications. Candidates can access their specific <strong>Railway Admit Card</strong> by logging into their regional board systems.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>RRB Admit Card 2025</strong> is the most important document for millions of aspirants participating in the world's largest public sector recruitment drive. As the Indian Railways looks to fill thousands of vacancies for posts like NTPC, ALP, JE, and Group D, the <strong>Railway Call Letter</strong> acts as the official voucher of identity and center allocation.
                 </p>
@@ -153,57 +118,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-map-marker-alt me-2"></i> Popular RRB Zone Portals</h3>
                 <div class="row g-3">
-                    <?php
-                    $zones = [
-                        'rrb-chandigarh-admit-card.php' => 'RRB Chandigarh',
-                        'rrb-patna-admit-card.php' => 'RRB Patna',
-                        'rrb-bhopal-admit-card.php' => 'RRB Bhopal',
-                        'rrb-ajmer-admit-card.php' => 'RRB Ajmer'
-                    ];
-                    foreach ($zones as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="rrb-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
-}
-.rrb-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.rrb-link-card:hover {
-    background: rgba(220, 53, 69, 0.12);
-    border-color: #dc3545 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

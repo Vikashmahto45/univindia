@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Tnsslcexamresults Nic In 2022 Portal</div>
     <h2 class='sr-title'>Tnsslcexamresults Nic In 2022 Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Tnsslcexamresults Nic In 2022 Portal"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="content-wrapper">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12" style="background-color: #f5f5f5; padding-top: 20px;">
-                
-            
-        <div class="row">
-            <div class="col-md-12">
-                <div class="alert alert-success" style="margin-top: 20px;">
-                    <strong>Tamil Nadu SSLC Results 2022:</strong> The official portal for checking TN SSLC (Class 10) results for the 2022 batch is active. Students can verify their performance through the integrated nic.in link.
-                </div>
-                <p>
+        <p>
                     The Directorate of Government Examinations (DGE), Tamil Nadu, provides multiple platforms for students to access their SSLC results. The dedicated server at <strong>tnresults.nic.in</strong> ensures a smooth experience for users.
                 </p>
                 <div class="panel panel-info">
@@ -57,12 +35,6 @@ $meta_keywords = "";
                 <p>
                     This portal also hosts results for HSE (+1 and +2) exams. For any technical difficulties, students can refer to the official helpdesk or contact their District Education Offices.
                 </p>
-            
-    
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

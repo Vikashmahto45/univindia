@@ -9,38 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in</div>
     <h2 class='sr-title'>DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "DU SOL Admit Card 2024-25: Download Hall Ticket @sol.du.ac.in"; 
-$meta_description = "Download DU SOL Admit Card 2024 for UG/PG Exams. Get direct link for Delhi University School of Open Learning Hall Ticket at sol.du.ac.in. Check exam dates and instructions."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">DU SOL Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-0 mb-4">
-                <div class="card-body p-4">
-                    
-                    <p class="lead">The Delhi University School of Open Learning (DU SOL) is all set to release the admit cards for the upcoming undergraduate and postgraduate examinations. Students enrolled in various distance learning programs can download their DU SOL Hall Ticket through the official website at sol.du.ac.in.</p>
-                    
-                    <div class="alert alert-info border-0 shadow-sm mt-4">
-                        <h4 class="alert-heading fw-bold">Latest Update!</h4>
-                        <p class="mb-0">The DU SOL Admit Card for Semester and Annual Examinations 2024 is released 7-10 days before the scheduled exam date. Students are advised to keep their SOL Roll Number and Date of Birth ready for download.</p>
-                    </div>
-
-                    <h2 class="mt-5 fw-bold text-dark">Importance of DU SOL Admit Card</h2>
+        <h2 class="mt-5 fw-bold text-dark">Importance of DU SOL Admit Card</h2>
                     <p>The DU SOL Admit Card is a mandatory document for every student appearing for the Delhi University School of Open Learning examinations. It serves as an entry pass to the examination center and provides essential details regarding the candidate and the exam schedule. Without a valid hall ticket, candidates will not be allowed to enter the examination hall under any circumstances.</p>
                     
                     <p>The admit card contains vital information such as the candidate's name, roll number, examination center address, paper codes, and specific instructions for the exam day. It is crucial to verify all details immediately after downloading to ensure there are no discrepancies that could cause issues on the day of the test.</p>
@@ -143,10 +112,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

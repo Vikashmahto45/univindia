@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; cu exam result - Official Calcutta University Result Gateway</div>
     <h2 class='sr-title'>cu exam result - Official Calcutta University Result Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "cu exam result - Official Calcutta University Result Gateway"; 
-$meta_description = "Check cu exam result for University of Calcutta undergraduate and postgraduate exams. Access the official CU academic result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the latest examination results for the University of Calcutta
-                (CU). Official Kolkata mirrors and portal links updated for UG/PG Semester and Part-wise batches.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check CU Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified University of Calcutta Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>CU Official Hub 1</h3>
+        <h3>CU Official Hub 1</h3>
                     <p>Primary server for Calcutta University CBCS and Annual system result data archive.</p>
                     <a href="https://west-bengal.indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -119,10 +90,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

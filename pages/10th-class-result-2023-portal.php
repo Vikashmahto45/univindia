@@ -9,29 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 10th Class Result 2023 Portal</div>
     <h2 class='sr-title'>10th Class Result 2023 Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "10th Class Result 2023 Portal"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="content-wrapper">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                
-            
-        <div class="row">
-            <div class="col-md-12">
-                <div class="alert alert-warning">
-                    <strong>Search 2023 10th Result:</strong> Looking for your Class 10th results announced in 2023? This comprehensive portal lists links for all major state and central boards.
-                </div>
-                <p>
+        <p>
                     The year 2023 saw millions of students appearing for 10th-grade examinations across India. Whether you are from CBSE, ICSE, or any state board like UP, Bihar, Rajasthan, or Maharashtra, you can find your result links here.
                 </p>
                 <h3>Major Boards 10th Result 2023:</h3>
@@ -75,12 +53,6 @@ $meta_keywords = "";
                 <p>
                     Always ensure you are checking results on official government portals to avoid misinformation. The marks obtained in 10th grade are vital for choosing the stream for higher secondary education.
                 </p>
-            
-    
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

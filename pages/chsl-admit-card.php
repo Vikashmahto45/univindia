@@ -9,33 +9,6 @@ $meta_keywords = "chsl admit card download, ssc chsl tier 1 hall ticket 2024, ss
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CHSL Admit Card Download - SSC 10+2 LDC DEO Tier 1 Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>CHSL Admit Card Download - SSC 10+2 LDC DEO Tier 1 Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CHSL Admit Card Download - SSC 10+2 LDC DEO Tier 1 Hall Ticket | Univindia.online"; 
-$meta_description = "Download CHSL Admit Card 2024. Get the direct link for SSC Combined Higher Secondary Level (CHSL 10+2) Tier 1 examination regional hall tickets at ssc.gov.in."; 
-$meta_keywords = "chsl admit card download, ssc chsl tier 1 hall ticket 2024, ssc.gov.in login 10+2 admit card, chsl exam date 2024 download, ssc ldc recruitment call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "CHSL Admit Card Download - SSC 10+2 LDC DEO Tier 1 Hall Ticket | Univindia.online";
-$meta_description = "Download CHSL Admit Card 2024. Get the direct link for SSC Combined Higher Secondary Level (CHSL 10+2) Tier 1 examination regional hall tickets at ssc.gov.in.";
-$meta_keywords = "chsl admit card download, ssc chsl tier 1 hall ticket 2024, ssc.gov.in login 10+2 admit card, chsl exam date 2024 download, ssc ldc recruitment call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">CHSL Admit Card: Download SSC 10+2 Tier 1 Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 17, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SSC CHSL 10+2 Update:</strong> The Staff Selection Commission (SSC) has activated the status and e-Admit Card downloading links for the Combined Higher Secondary (10+2) Level Examination (Tier-I). Applicants for LDC/JSA and DEO posts can download them via their respective 9 regional portals.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest CHSL Vacancies</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

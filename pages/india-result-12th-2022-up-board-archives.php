@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 12th 2022 up board - Official Uttar Pradesh 12th 2022 Archive</div>
     <h2 class='sr-title'>india result 12th 2022 up board - Official Uttar Pradesh 12th 2022 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 12th 2022 up board - Official Uttar Pradesh 12th 2022 Archive"; 
-$meta_description = "Check india result 12th 2022 up board for Intermediate exams. Access the official 2022 Uttar Pradesh Board (UPMSP) archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 academic session individual results for Uttar Pradesh
-                Class 12th (Intermediate). Official UPMSP mirrors and archival links updated for the 2022 batch
-                verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 12th Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Uttar Pradesh (UP 12th) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>UPMSP Board Server 2022</h3>
+        <h3>UPMSP Board Server 2022</h3>
                     <p>Primary server for Uttar Pradesh Board Intermediate (Class 12) result data for the 2022 session
                         archive across all streams (Science, Commerce, Arts).</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

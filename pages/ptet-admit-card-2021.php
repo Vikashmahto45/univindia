@@ -9,33 +9,6 @@ $meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, pte
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online"; 
-$meta_description = "Download PTET Admit Card 2021. Get the direct link for Rajasthan PTET 4-Year BA B.Ed / BSc B.Ed and 2-Year B.Ed recruitment entrance exam hall tickets at ptetraj2021.com."; 
-$meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, ptetraj2021.com admit card link, ptet exam 2021 admit card download, raj ptet hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "PTET Admit Card 2021 Download - Rajasthan Pre-Teacher Education Test Hall Ticket | Univindia.online";
-$meta_description = "Download PTET Admit Card 2021. Get the direct link for Rajasthan PTET 4-Year BA B.Ed / BSc B.Ed and 2-Year B.Ed recruitment entrance exam hall tickets at ptetraj2021.com.";
-$meta_keywords = "ptet admit card 2021, rajasthan ptet hall ticket download, ptetraj2021.com admit card link, ptet exam 2021 admit card download, raj ptet hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">PTET Admit Card 2021: Download Rajasthan Pre-Teacher Education Test Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>PTET 2021 Archive:</strong> The Rajasthan PTET 2021 examination was conducted by Dungar College, Bikaner. Candidates looking for old hall tickets or selection records for the 2021 session can access the official archive link at ptetraj2021.com or via university archives.
         </div>
@@ -115,13 +88,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="ptet-result.php" class="hot-btn bg-gold">Check PTET 2021 Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

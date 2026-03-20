@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in</div>
     <h2 class='sr-title'>CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "CUET Admit Card 2024: CUET UG Download Link, Hall Ticket @ exams.nta.ac.in";
-$page_description = "Download CUET Admit Card 2024 for UG courses. Get direct link for NTA CUET Hall Ticket, Exam Schedule, and subject-wise exam dates. 800+ words of detailed info.";
-$page_keywords = "CUET Admit Card 2024, CUET UG Hall Ticket Download, NTA CUET 2024 Admit Card, CUET Exam Date 2024, cuet.samarth.ac.in admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">CUET Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-warning bg-dark border-warning text-warning rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-exclamation-circle me-2"></i> <strong>Important:</strong> The National Testing Agency (NTA) releases the CUET UG 2024 Admit Card in phases based on subject combinations. Ensure you download the correct set of hall tickets for all your papers.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The Common University Entrance Test (CUET) has revolutionized underground admissions in India, bringing 250+ universities under a single testing umbrella. The <strong>CUET Admit Card 2024</strong> is the most critical document for students seeking seats in prestigious institutions such as DU, BHU, JNU, and Jamia Millia Islamia.
                 </p>
@@ -171,57 +136,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> University Admit Cards</h3>
                 <div class="row g-3">
-                    <?php
-                    $uni = [
-                        'mjpru-admit-card.php' => 'MJPRU Exam Admit Card',
-                        'ccs-university-admit-card.php' => 'CCSU Hall Ticket',
-                        'ignou-admit-card.php' => 'IGNOU Hall Ticket',
-                        'jnvu-admit-card.php' => 'JNVU Admit Card'
-                    ];
-                    foreach ($uni as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="uni-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.9);
-    backdrop-filter: blur(10px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #222 0%, #3a3a3a 100%);
-}
-.uni-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s ease;
-}
-.uni-link-card:hover {
-    background: rgba(13, 202, 240, 0.1);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

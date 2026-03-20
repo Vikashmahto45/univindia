@@ -9,33 +9,6 @@ $meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticke
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online</div>
     <h2 class='sr-title'>MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online"; 
-$meta_description = "Download MHCET 2021 Admit Card. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) 2021 hall tickets at mhtcet2021.mahacet.org."; 
-$meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticket 2021 download, mahacet.org login 2021, mht cet exam date 2021 download, engineering entrance call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "MHCET 2021 Admit Card Download - Maharashtra CET Cell Archive | Univindia.online";
-$meta_description = "Download MHCET 2021 Admit Card. Get the direct link for Maharashtra Common Entrance Test (PCM & PCB) 2021 hall tickets at mhtcet2021.mahacet.org.";
-$meta_keywords = "mhtcet2021.mahacet.org admit card download, mht cet hall ticket 2021 download, mahacet.org login 2021, mht cet exam date 2021 download, engineering entrance call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">MHCET 2021 Admit Card: Download Maharashtra CET Cell Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MHT CET 2021 Archive:</strong> The State Common Entrance Test Cell, Maharashtra, conducted the MHT CET 2021 in September-October 2021 for PCM and PCB groups. Candidates looking for old hall tickets or scorecard records for the 2021 session can access the official portal archive at mhtcet2021.mahacet.org.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Tech Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

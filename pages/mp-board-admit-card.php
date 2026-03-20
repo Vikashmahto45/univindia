@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in</div>
     <h2 class='sr-title'>MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "MP Board Admit Card 2025: MPBSE Class 10th & 12th Hall Ticket @ mpbse.nic.in";
-$page_description = "Download MP Board Admit Card 2025 for Class 10 and Class 12 exams. Get direct link for MPBSE Hall Ticket, Exam Schedule, and center status. 800+ words of detailed guide.";
-$page_keywords = "MP Board Admit Card 2025, MPBSE 10th 12th Hall Ticket Download, MP Board Class 10 Admit Card, MP Board Class 12 Hall Ticket, mpbse.nic.in admit card link";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">MP Board Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success bg-dark border-success text-success rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-file-alt me-2"></i> <strong>Official Update:</strong> The Madhya Pradesh Board of Secondary Education (MPBSE) releases the admit cards for High School (Class 10) and Higher Secondary (Class 12) examinations on its official portal: mpbse.mponline.gov.in.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>MP Board Admit Card 2025</strong> is a vital document for over 18 lakh students appearing for the board examinations in Madhya Pradesh. Conducted annually by the MPBSE, these exams are the benchmark for a student's academic progress and career path. The e-admit card is the primary permission slip required to enter the designated examination centers across the state.
                 </p>
@@ -156,57 +121,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-building me-2"></i> Other State Boards</h3>
                 <div class="row g-3">
-                    <?php
-                    $boards = [
-                        'up-board-admit-card.php' => 'UP Board 10/12 Hall Ticket',
-                        'rbse-admit-card.php' => 'Rajasthan Board Admit Card',
-                        'bihar-board-admit-card.php' => 'Bihar Board Call Letter',
-                        'cbse-admit-card.php' => 'CBSE Board Admit Card 2025'
-                    ];
-                    foreach ($boards as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="mpb-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(10, 10, 10, 0.98);
-    backdrop-filter: blur(15px);
-}
-.text-light-gray {
-    color: #e8e8e8;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1a1a1a 0%, #1e3c72 100%);
-}
-.mpb-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-}
-.mpb-link-card:hover {
-    background: rgba(40, 167, 69, 0.1);
-    border-color: #28a745 !important;
-    transform: translateY(-5px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

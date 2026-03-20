@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ts results - Official Telangana State Academic Result Hub</div>
     <h2 class='sr-title'>ts results - Official Telangana State Academic Result Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ts results - Official Telangana State Academic Result Hub"; 
-$meta_description = "Check ts results for SSC and Inter exams. Access the official Telangana State (BSE & TSBIE) result portal and archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your primary destination for all academic results across Telangana.
-                Official mirrors for TS SSC (10th), TS Inter (12th), and major state universities updated for the latest
-                session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check TS Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Telangana (TS) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>TS Board Hub</h3>
+        <h3>TS Board Hub</h3>
                     <p>Primary server for TS SSC and TS Intermediate result data across all state centers and archival
                         sessions.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -123,10 +93,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

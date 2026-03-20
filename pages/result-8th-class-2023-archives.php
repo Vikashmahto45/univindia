@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; result 8th class 2023 - Official Class 8 Result 2023 Archive</div>
     <h2 class='sr-title'>result 8th class 2023 - Official Class 8 Result 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "result 8th class 2023 - Official Class 8 Result 2023 Archive"; 
-$meta_description = "Check result 8th class 2023 for all state boards. Access the official 2023 Class 8th (Middle School) result portal and archival links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session results for Class 8th (Middle School)
-                across all Indian state boards. Official DIET and state board mirrors updated for the 2023 batch
-                verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 8th Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Class 8th Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Primary Board Hub 2023</h3>
+        <h3>Primary Board Hub 2023</h3>
                     <p>Primary server for Class 8 result data for participating boards (RBSE, SCERT, etc.) 2023 session
                         archive.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

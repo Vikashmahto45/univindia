@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; metrik rijal 2023 odisha - Official BSE Odisha Hub</div>
     <h2 class='sr-title'>metrik rijal 2023 odisha - Official BSE Odisha Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "metrik rijal 2023 odisha - Official BSE Odisha Hub"; 
-$meta_description = "Check Odisha Board 10th (Metrik) result 2023 on metrik rijal 2023 odisha. Access official BSE Odisha 2023 archival scorecards on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Board of Secondary Education (BSE), Odisha Matriculation (Metrik) examination results for the 2023 academic session. Access official Odisha board mirrors and 2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Metrik Hub</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Odisha (BSE) Metrik Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSE Odisha Server 2023</h3>
+        <h3>BSE Odisha Server 2023</h3>
                     <p>Primary server for accessing Odisha Board Class 10th (Matriculation) examination result data for the 2023 academic session archive in Odisha.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

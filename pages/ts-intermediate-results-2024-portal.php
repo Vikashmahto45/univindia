@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ts intermediate results 2024 - Official Telangana State Inter Gateway</div>
     <h2 class='sr-title'>ts intermediate results 2024 - Official Telangana State Inter Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ts intermediate results 2024 - Official Telangana State Inter Gateway"; 
-$meta_description = "Check ts intermediate results 2024 for TSBIE Inter 1st and 2nd year exams. Access the official 2024 Telangana State archival result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2024 academic session results for Telangana State
-                Intermediate 1st and 2nd Year. Official TSBIE Hyderabad mirrors and archival links updated for the 2024
-                batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2024 Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2024 Telangana Inter Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>TSBIE Main Server 2024</h3>
+        <h3>TSBIE Main Server 2024</h3>
                     <p>Primary server for Telangana 1st and 2nd year result data for the 2024 session archive.</p>
                     <a href="https://telangana.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

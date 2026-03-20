@@ -9,33 +9,6 @@ $meta_keywords = "railway recruitment board admit card download, rrb hall ticket
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download Railway Recruitment Board (RRB) Admit Card. Get the direct link for RRB NTPC, Group D, ALP, and JE hall tickets at rrbcdg.gov.in."; 
-$meta_keywords = "railway recruitment board admit card download, rrb hall ticket download, rrbcdg.gov.in admit card login, railway exam date 2024 download, rrb call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Railway Recruitment Board Admit Card Download - RRB Hall Ticket Link | Univindia.online";
-$meta_description = "Download Railway Recruitment Board (RRB) Admit Card. Get the direct link for RRB NTPC, Group D, ALP, and JE hall tickets at rrbcdg.gov.in.";
-$meta_keywords = "railway recruitment board admit card download, rrb hall ticket download, rrbcdg.gov.in admit card login, railway exam date 2024 download, rrb call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Railway Recruitment Board Admit Card: Download RRB Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Railway Update:</strong> The Railway Recruitment Boards (RRBs) have activated the centralized portal for downloading exam admit cards for various categories including NTPC, ALP, and Technicians. Candidates can log in with their Registration Number and Date of Birth to access their specific regional RRB hall tickets.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Latest RRB Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

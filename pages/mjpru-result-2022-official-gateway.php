@@ -9,35 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; mjpru result 2022 - Official MJPRU University Hub</div>
     <h2 class='sr-title'>mjpru result 2022 - Official MJPRU University Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "mjpru result 2022 - Official MJPRU University Hub"; 
-$meta_description = "Check Mahatma Jyotiba Phule Rohilkhand University result 2022 on mjpru result 2022. Access official MJPRU 2022 archival scorecards on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Unified destination for Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly examination results for the 2022 academic session. Access official MJPRU university mirrors and 2022 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 MJPRU Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 MJPRU (Bareilly) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>MJPRU Server 2022</h3>
+        <h3>MJPRU Server 2022</h3>
                     <p>Primary server for accessing MJPRU Bareilly UG/PG (BA, BSc, BCom, MA) examination result data for the 2022 academic session archive.</p>
                     <a href="https://uttar-pradesh.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -94,10 +66,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,38 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download</div>
     <h2 class='sr-title'>ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "ITBP Admit Card 2024: Constable, Head Constable & SI Hall Ticket Download"; 
-$meta_description = "Download ITBP Admit Card 2024 for Constable, Head Constable, ASI, and SI. Get direct link for Indo-Tibetan Border Police Recruitment PET/PST and Written Exam Hall Ticket."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">ITBP Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow-lg border-primary border-0 rounded-4 mb-4">
-                <div class="card-body p-5">
-                    
-                    <p class="lead">The Indo-Tibetan Border Police (ITBP) Force is releasing admit cards for various recruitment posts including Constable (Tradesman), Head Constable, Sub-Inspector (SI), and Assistant Sub-Inspector (ASI). Candidates who have applied for these vacancies must download their PET/PST and Written Exam Admit Cards from the official recruitment portal.</p>
-                    
-                    <div class="bg-primary text-white p-4 rounded-4 my-5 shadow">
-                        <h4 class="fw-bold mb-2">Notice for Candidates</h4>
-                        <p class="mb-0">ITBP conducts the recruitment process in multi-stage cycles starting from Physical Efficiency Test (PET), Physical Standard Test (PST), followed by Written Examination and Trade Tests. Admit cards are issued separately for each stage on recruitment.itbpolice.nic.in.</p>
-                    </div>
-
-                    <h2 class="mt-5 fw-bold text-dark border-bottom pb-2">ITBP Hall Ticket Release Schedule</h2>
+        <h2 class="mt-5 fw-bold text-dark border-bottom pb-2">ITBP Hall Ticket Release Schedule</h2>
                     <p>The ITBP usually releases the call letters for physical tests and written examinations about 10-15 days prior to the event. As ITBP is a premium paramilitary force of the Union of India, candidates must strictly follow the reporting times and venue instructions mentioned on their admit cards. All successfully registered candidates can access their login area on the recruitment portal to fetch their documents.</p>
                     
                     <p>It is important to note that no candidate will be allowed to participate in the Physical Test or the Written Test without a valid physical copy of the admit card and a valid original identity proof.</p>
@@ -140,10 +109,8 @@ $meta_keywords = "";
                 
         
 
+
 </div>
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

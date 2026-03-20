@@ -9,33 +9,6 @@ $meta_keywords = "bstc admit card 2023, rajasthan predeled hall ticket download,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; BSTC Admit Card 2023 Download - Pre D.El.Ed Rajasthan Exam Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>BSTC Admit Card 2023 Download - Pre D.El.Ed Rajasthan Exam Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "BSTC Admit Card 2023 Download - Pre D.El.Ed Rajasthan Exam Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download BSTC Admit Card 2023. Get the direct link for Rajasthan Pre D.El.Ed entrance examination hall tickets at panjiyakpredeled.in."; 
-$meta_keywords = "bstc admit card 2023, rajasthan predeled hall ticket download, bstc 2023 admit card login, panjiyakpredeled.in admit card download, bstc admit card name wise"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "BSTC Admit Card 2023 Download - Pre D.El.Ed Rajasthan Exam Hall Ticket Link | Univindia.online";
-$meta_description = "Download BSTC Admit Card 2023. Get the direct link for Rajasthan Pre D.El.Ed entrance examination hall tickets at panjiyakpredeled.in.";
-$meta_keywords = "bstc admit card 2023, rajasthan predeled hall ticket download, bstc 2023 admit card login, panjiyakpredeled.in admit card download, bstc admit card name wise";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">BSTC Admit Card 2023: Download Rajasthan Pre D.El.Ed Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>BSTC 2023 Archive:</strong> The Department of Elementary Education, Rajasthan, conducted the Pre D.El.Ed (BSTC) 2023 examination for teacher training admissions. Candidates looking for old hall tickets or merit scores for the 2023 session can access the official link at panjiyakpredeled.in.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check BSTC Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

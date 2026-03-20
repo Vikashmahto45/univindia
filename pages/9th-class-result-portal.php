@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; 9th class result - Official Academic Result Portal</div>
     <h2 class='sr-title'>9th class result - Official Academic Result Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "9th class result - Official Academic Result Portal"; 
-$meta_description = "Check 9th class result for school and state exams. Access the official Class 9th result portal and marksheet verification links on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized destination for the Class 9th results across various
-                states and schools. Official board mirrors and portal links updated for the latest academic batch.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 9th Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Class 9th Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>State Board Hub</h3>
+        <h3>State Board Hub</h3>
                     <p>Primary server for Class 9 result latest session data across participating state boards and
                         districts.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Hub 1</a>
@@ -121,10 +92,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

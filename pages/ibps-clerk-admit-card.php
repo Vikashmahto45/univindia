@@ -9,33 +9,6 @@ $meta_keywords = "ibps clerk admit card, ibps crp clerks xiv hall ticket downloa
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; IBPS Clerk Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>IBPS Clerk Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "IBPS Clerk Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online"; 
-$meta_description = "Download IBPS Clerk Admit Card. Get the direct link for IBPS CRP Clerks-XIV Preliminary and Main examination hall tickets at ibps.in."; 
-$meta_keywords = "ibps clerk admit card, ibps crp clerks xiv hall ticket download, ibps.in admit card login, ibps clerk prelims exam date 2024, ibps bank clerk call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "IBPS Clerk Admit Card Download - Institute of Banking Personnel Selection Hall Ticket | Univindia.online";
-$meta_description = "Download IBPS Clerk Admit Card. Get the direct link for IBPS CRP Clerks-XIV Preliminary and Main examination hall tickets at ibps.in.";
-$meta_keywords = "ibps clerk admit card, ibps crp clerks xiv hall ticket download, ibps.in admit card login, ibps clerk prelims exam date 2024, ibps bank clerk call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">IBPS Clerk Admit Card: Download Institute of Banking Personnel Selection Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>IBPS Update:</strong> The Institute of Banking Personnel Selection (IBPS) has activated the portal for downloading the exam admit cards for the CRP Clerks-XIV (2024-25) recruitment. Candidates can log in with their registration number and password at ibps.in to download their hall tickets.
         </div>
@@ -114,13 +87,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Bank Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

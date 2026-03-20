@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan board 12th result 2023 science - Official Rajasthan 2023 Archive</div>
     <h2 class='sr-title'>rajasthan board 12th result 2023 science - Official Rajasthan 2023 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rajasthan board 12th result 2023 science - Official Rajasthan 2023 Archive"; 
-$meta_description = "Check Rajasthan Board 12th Science result 2023 on rajasthan board 12th result 2023 science. Access official RBSE Sr. Secondary Science archives on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2023 academic session individual results for Rajasthan Board
-                of Secondary Education (RBSE) Class 12th (Senior Secondary) Science stream. Official RBSE mirrors and
-                2023 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2023 Science Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2023 Rajasthan (RBSE 12th Science) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Science Server 2023</h3>
+        <h3>RBSE Science Server 2023</h3>
                     <p>Primary server for Rajasthan Board Senior Secondary (12th) Science stream result data for the
                         2023 session archive across districts like Kota, Udaipur, and Ajmer.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -131,10 +101,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

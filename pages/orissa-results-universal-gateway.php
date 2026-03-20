@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; orissa results - Official Odisha Board and Council Gateway</div>
     <h2 class='sr-title'>orissa results - Official Odisha Board and Council Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "orissa results - Official Odisha Board and Council Gateway"; 
-$meta_description = "Check orissa results for CHSE (12th) and BSE (10th) exams. Access the official Odisha state archival result hub on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized hub for all examinations results from the state of
-                Odisha. Official CHSE and BSE Cuttack mirrors and archival links updated for the latest academic batch.
-            </p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check Orissa Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified Odisha Academic Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>CHSE Orissa Hub</h3>
+        <h3>CHSE Orissa Hub</h3>
                     <p>Primary server for Odisha Higher Secondary (Class 12) result data across all streams.</p>
                     <a href="https://odisha.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -120,10 +90,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

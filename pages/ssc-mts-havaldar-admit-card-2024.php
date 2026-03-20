@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC MTS & Havaldar Admit Card 2024: Multi Tasking Staff Hall Ticket Download @ ssc.gov.in";
-$page_description = "SSC MTS Havaldar Admit Card 2024 Download Link. Get region-wise call letters for SSC Multi Tasking Staff & Havaldar CBT Exam. Physical test details and exam status.";
-$page_keywords = "SSC MTS Havaldar Admit Card 2024, SSC MTS Hall Ticket, SSC Havaldar PET PST Admit Card, Download SSC MTS 2024 Admit Card, ssc.gov.in mts admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">SSC MTS & Havaldar Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-id-badge fa-2x text-success"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Status Released:</h4>
                         <p class="mb-0">The regional portals of the Staff Selection Commission (SSC) have started releasing the <strong>MTS and Havaldar Admit Card 2024</strong>. Check your exam city, date, and shift time now by entering your login details.</p>
                     
@@ -243,12 +206,6 @@ include '../includes/header.php';
     color: #ffd700;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,33 +9,6 @@ $meta_keywords = "sbi po admit card 2025 download, sbi po hall ticket 2025 downl
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online"; 
-$meta_description = "Download SBI PO Admit Card 2025. Get the direct link for State Bank of India (SBI) Probationary Officer (PO) Prelims and Mains exam hall tickets at sbi.co.in/careers."; 
-$meta_keywords = "sbi po admit card 2025 download, sbi po hall ticket 2025 download, sbi.co.in careers po login, sbi po exam date 2025 download, banking po call letter"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "SBI PO Admit Card 2025 Download - State Bank of India Probationary Officer Hall Ticket | Univindia.online";
-$meta_description = "Download SBI PO Admit Card 2025. Get the direct link for State Bank of India (SBI) Probationary Officer (PO) Prelims and Mains exam hall tickets at sbi.co.in/careers.";
-$meta_keywords = "sbi po admit card 2025 download, sbi po hall ticket 2025 download, sbi.co.in careers po login, sbi po exam date 2025 download, banking po call letter";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">SBI PO Admit Card 2025: Download State Bank of India Probationary Officer Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>SBI PO 2025 Official:</strong> The State Bank of India (SBI) has activated the portal for downloading the preliminary examination call letters for the Recruitment of Probationary Officers (PO) for the 2025-26 batch. Candidates can log in with their registration number at sbi.co.in/careers.
         </div>
@@ -114,13 +87,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Bank Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

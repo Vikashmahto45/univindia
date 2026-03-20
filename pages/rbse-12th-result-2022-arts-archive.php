@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rajasthan board 12th result 2022 arts - Official RBSE Archive Portal</div>
     <h2 class='sr-title'>rajasthan board 12th result 2022 arts - Official RBSE Archive Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rajasthan board 12th result 2022 arts - Official RBSE Archive Portal"; 
-$meta_description = "Check rajasthan board 12th result 2022 arts for the Senior Secondary examination. Access the official 2022 RBSE/BSER 12th Arts archive gateway on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the official 2022 Senior Secondary (12th Class Arts) results for
-                the Rajasthan Board (BSER/RBSE). Direct archival links updated.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Support</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan 2022 Arts Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏯</div>
-                    <h3>RBSE Server 2022</h3>
+        <h3>RBSE Server 2022</h3>
                     <p>Primary server for Rajasthan 12th Arts results 2022.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -116,10 +87,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

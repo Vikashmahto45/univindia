@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in</div>
     <h2 class='sr-title'>JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "JEE Main Admit Card 2025: Session 1/2 Hall Ticket Link @ jeemain.nta.nic.in";
-$page_description = "Download NTA JEE Main Admit Card 2025 for Session 1 & 2. Get direct download link, shift timings, and important exam day instructions. 800+ words of detailed content.";
-$page_keywords = "JEE Main Admit Card 2025, NTA JEE Main Hall Ticket, Download JEE Main Call Letter, JEE Main Session 1 Admit Card Date, jeemain.nta.nic.in hall ticket";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">JEE Main Admit Card</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-info-circle me-2"></i> <strong>Official Update:</strong> The National Testing Agency (NTA) activates the JEE Main Admit Card link separately for B.E./B.Tech and B.Arch/B.Planning papers. Check your specific shift and venue details on the e-call letter.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>JEE Main Admit Card 2025</strong> is the essential identity document for candidates appearing in one of the most competitive entrance exams for engineering in the world. Conducted by the National Testing Agency (NTA), the JEE Main is the first step for students aiming to enter NITs, IIITs, and CFTIs, as well as the qualifying round for JEE Advanced.
                 </p>
@@ -164,57 +129,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-edit me-2"></i> Other Entrance Exams</h3>
                 <div class="row g-3">
-                    <?php
-                    $others = [
-                        'cuet-admit-card-2024.php' => 'CUET UG Admit Card',
-                        'neet-admit-card-2024.php' => 'NEET UG Call Letter',
-                        'ugc-net-admit-card.php' => 'UGC NET Hall Ticket',
-                        'clat-admit-card.php' => 'CLAT Admit Card'
-                    ];
-                    foreach ($others as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="jm-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(30, 30, 30, 0.95);
-    backdrop-filter: blur(8px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #111 0%, #333 100%);
-}
-.jm-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
-.jm-link-card:hover {
-    background: rgba(13, 202, 240, 0.1);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-8px);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in</div>
     <h2 class='sr-title'>SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "SSC Selection Post Phase 12 Admit Card 2024: Download Hall Ticket @ ssc.gov.in";
-$page_description = "Download SSC Selection Post Phase 12 Admit Card 2024. Get direct links for Matric, Higher Secondary, and Graduate level Selection Post Phase XII exams. 800+ word guide.";
-$page_keywords = "SSC Selection Post Phase 12 Admit Card 2024, Phase XII Hall Ticket Download, SSC Selection Post Exam Date, ssc.gov.in selection post admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">SSC Selection Post Phase 12 Admit Card</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-success border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-calendar-check fa-2x text-success"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Status Update:</h4>
                         <p class="mb-0">The Staff Selection Commission (SSC) has activated the regional links for the <strong>Selection Post Phase 12 Admit Card 2024</strong>. Candidates across various regions (NR, CR, WR, ER, etc.) can now verify their application status and download call letters.</p>
                     
@@ -217,12 +180,6 @@ include '../includes/header.php';
     color: #ffd700;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

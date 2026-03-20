@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in</div>
     <h2 class='sr-title'>NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "NEET Admit Card 2025: NTA NEET UG Hall Ticket Download @ neet.nta.nic.in";
-$page_description = "Download NEET Admit Card 2025 for UG medical entrance exam. Get direct link for NTA NEET Hall Ticket, Exam Schedule, and center city details. 800+ words of in-depth guide.";
-$page_keywords = "NEET Admit Card 2025, NTA NEET UG Hall Ticket Download, NEET Admit Card Link 1 2, neet.nta.nic.in admit card download, National Eligibility cum Entrance Test Call Letter";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">NEET Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-danger bg-dark border-danger text-danger rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-notes-medical me-2"></i> <strong>Critical Update:</strong> The National Testing Agency (NTA) issues the NEET UG Admit Card to candidates who have successfully registered for the medical entrance exam. The admit card is mandatory for entry into the exam lab.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>NEET Admit Card 2025</strong> is the most sought-after document for medical aspirants aiming for MBBS, BDS, and other undergraduate medical courses in India. As the single largest entrance examination for medical education, NEET UG attracts over 20 lakh candidates annually, making the hall ticket release a massive digital event.
                 </p>
@@ -176,58 +141,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-stethoscope me-2"></i> Other Medical Exams</h3>
                 <div class="row g-3">
-                    <?php
-                    $med = [
-                        'neet-pg-admit-card.php' => 'NEET PG Hall Ticket',
-                        'ini-cet-admit-card.php' => 'INI CET Call Letter',
-                        'fmge-admit-card.php' => 'FMGE Admit Card',
-                        'mhcet-medical-admit-card.php' => 'MH CET Medical Hall Ticket'
-                    ];
-                    foreach ($med as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="neet-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(20, 20, 20, 0.98);
-    backdrop-filter: blur(10px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #111 0%, #444 100%);
-}
-.neet-link-card {
-    background: rgba(255, 255, 255, 0.05);
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
-.neet-link-card:hover {
-    background: rgba(220, 53, 69, 0.1);
-    border-color: #dc3545 !important;
-    transform: translateY(-8px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

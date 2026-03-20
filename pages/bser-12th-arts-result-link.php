@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; bser 12th art result - Official Rajasthan Board Portal</div>
     <h2 class='sr-title'>bser 12th art result - Official Rajasthan Board Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "bser 12th art result - Official Rajasthan Board Portal"; 
-$meta_description = "Check bser 12th art result for Class 12th Board examinations. Access the official Board of Secondary Education Rajasthan (BSER) 12th Arts result link on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the official 2024 Senior Secondary (Arts) results for the Board
-                of Secondary Education, Rajasthan (BSER/RBSE).</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check BSER Arts Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Official BSER Senior Arts Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>BSER Main Server</h3>
+        <h3>BSER Main Server</h3>
                     <p>Primary server for Rajasthan 12th Arts results.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -115,10 +86,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

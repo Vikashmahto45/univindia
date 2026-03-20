@@ -9,33 +9,6 @@ $meta_keywords = "mp police admit card 2024, mp police constable hall ticket dow
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; MP Police Admit Card 2024 Download - MPESB Constable Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>MP Police Admit Card 2024 Download - MPESB Constable Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "MP Police Admit Card 2024 Download - MPESB Constable Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download MP Police Admit Card 2024. Get the direct link for Madhya Pradesh Employees Selection Board (MPESB) Constable recruitment hall tickets at esb.mp.gov.in."; 
-$meta_keywords = "mp police admit card 2024, mp police constable hall ticket download, esb.mp.gov.in admit card link, mp police exam date 2024, mp constable admit card download"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "MP Police Admit Card 2024 Download - MPESB Constable Hall Ticket Link | Univindia.online";
-$meta_description = "Download MP Police Admit Card 2024. Get the direct link for Madhya Pradesh Employees Selection Board (MPESB) Constable recruitment hall tickets at esb.mp.gov.in.";
-$meta_keywords = "mp police admit card 2024, mp police constable hall ticket download, esb.mp.gov.in admit card link, mp police exam date 2024, mp constable admit card download";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">MP Police Admit Card 2024: Download MPESB Constable Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>MPESB Recruitment Update:</strong> The Madhya Pradesh Employees Selection Board (MPESB) has officially activated the portal for downloading the exam admit cards for the post of Police Constable (GD and Special). Candidates can log in with their application number and date of birth to download their hall tickets.
         </div>
@@ -113,13 +86,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

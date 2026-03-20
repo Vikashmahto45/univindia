@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2021 pseb - Official Punjab Secondary 2021 Archive</div>
     <h2 class='sr-title'>india result 10th 2021 pseb - Official Punjab Secondary 2021 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 10th 2021 pseb - Official Punjab Secondary 2021 Archive"; 
-$meta_description = "Check india result 10th 2021 pseb for matric exams. Access the official 2021 Punjab School Education Board (PSEB) archival portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session results for Punjab Class 10th
-                (Matriculation). Official PSEB Mohali mirrors and archival links updated for the 2021 batch
-                verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 Punjab Matric Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>PSEB Mohali Hub 2021</h3>
+        <h3>PSEB Mohali Hub 2021</h3>
                     <p>Primary server for Punjab Board 10th result data for the 2021 academic session archive.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -124,10 +94,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

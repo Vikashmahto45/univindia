@@ -9,42 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in</div>
     <h2 class='sr-title'>CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "CUET PG Admit Card 2025: NTA CUET Postgraduate Hall Ticket Download @ pgcuet.samarth.ac.in";
-$page_description = "Download CUET PG Admit Card 2025 for Postgraduate Entrance Exam. Get direct link for NTA CUET PG Hall Ticket, Exam Schedule, and City Intimation Slip. 800+ words guide.";
-$page_keywords = "CUET PG Admit Card 2025, NTA CUET PG Hall Ticket Download, CUET PG 2025 Call Letter Link, pgcuet.samarth.ac.in login, CUET PG Exam City Status";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row section-bg p-4 rounded-4 shadow-lg border border-secondary mb-5">
-        <div class="col-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb border-bottom border-secondary pb-2">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-info text-decoration-none"><i class="fas fa-home me-1"></i> Home</a></li>
-                    <li class="breadcrumb-item active text-light" aria-current="page">CUET PG Admit Card 2025</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-info bg-dark border-info text-info rounded-3 mb-4 shadow-sm">
-                <i class="fas fa-id-card-alt me-2"></i> <strong>Official Update:</strong> The National Testing Agency (NTA) has released the <strong>CUET PG 2025 Admit Card</strong> for the upcoming postgraduate entrance examinations. Candidates can download their hall tickets from the official portal <strong>pgcuet.samarth.ac.in</strong> or <strong>exams.nta.ac.in/CUET-PG</strong>.
-            </div>
-
-            <article class="content-section text-light-gray lh-lg">
+        <article class="content-section text-light-gray lh-lg">
                 <p class="lead text-white fst-italic mb-4">
                     The <strong>CUET PG Admit Card 2025</strong> is the mandatory identification voucher for students aspiring to enroll in Master's programs across Central, State, and Deemed Universities in India. Conducted by the NTA, the Common University Entrance Test (Postgraduate) requires a secure digital <strong>CUET PG Hall Ticket</strong> that specifies your unique Paper Codes, Shift Timing, and GPS-verified Exam Center.
                 </p>
@@ -152,57 +117,6 @@ include '../includes/header.php';
             <div class="mt-5 p-4 section-bg rounded-4 border border-secondary shadow">
                 <h3 class="text-gradient-gold h4 fw-bold mb-4 border-bottom border-secondary pb-3"><i class="fas fa-university me-2"></i> Top University PG Portals</h3>
                 <div class="row g-3">
-                    <?php
-                    $pg_univ = [
-                        'jnu-pg-admit-card.php' => 'JNU PG Admit Card',
-                        'bhu-pg-admit-card.php' => 'BHU Postgrad Hall Ticket',
-                        'du-pg-admit-card.php' => 'DU PG Entrance Card',
-                        'aims-pg-admit-card.php' => 'AIIMS PG Call Letter'
-                    ];
-                    foreach ($pg_univ as $url => $name) {
-                        echo '<div class="col-md-3 col-sm-6 text-center">
-                                <a href="'.$url.'" class="pg-link-card d-block p-3 rounded-4 text-white text-decoration-none shadow-sm h-100 border border-secondary">
-                                    '.$name.'
-                                </a>
-                              </div>';
-                    }
-                    ?>
-                
-        
-
-
-<style>
-.text-gradient-gold {
-    background: linear-gradient(45deg, #ffd700, #ff8c00);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-.section-bg {
-    background: rgba(15, 15, 15, 0.98);
-    backdrop-filter: blur(12px);
-}
-.text-light-gray {
-    color: #dfdfdf;
-}
-.bg-gradient-dark {
-    background: linear-gradient(135deg, #1d1d1d 0%, #2c3e50 100%);
-}
-.pg-link-card {
-    background: rgba(255, 255, 255, 0.03);
-    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.pg-link-card:hover {
-    background: rgba(13, 202, 240, 0.12);
-    border-color: #0dcaf0 !important;
-    transform: translateY(-8px) scale(1.02);
-}
-</style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

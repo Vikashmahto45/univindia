@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 2020: rajasthan - Official Rajasthan Result Archive Portal</div>
     <h2 class='sr-title'>india result 2020: rajasthan - Official Rajasthan Result Archive Portal</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 2020: rajasthan - Official Rajasthan Result Archive Portal"; 
-$meta_description = "Check india result 2020: rajasthan for 10th and 12th board results. Access the official 2020 Rajasthan (BSER) result archive on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2020 academic session results for Rajasthan Board. Official
-                BSER mirrors and archival links updated for the 2020 Matric and Inter examinations.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2020 Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Rajasthan 2020 Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏥</div>
-                    <h3>RBSE Main Server 2020</h3>
+        <h3>RBSE Main Server 2020</h3>
                     <p>Primary server for Rajasthan board 2020 session result archive.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
                 </div>
@@ -118,10 +89,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

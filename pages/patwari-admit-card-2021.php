@@ -9,33 +9,6 @@ $meta_keywords = "patwari admit card 2021, rajasthan patwar hall ticket download
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Patwari Admit Card 2021 Download - Rajasthan RSMSSB Patwar Exam Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>Patwari Admit Card 2021 Download - Rajasthan RSMSSB Patwar Exam Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Patwari Admit Card 2021 Download - Rajasthan RSMSSB Patwar Exam Hall Ticket | Univindia.online"; 
-$meta_description = "Download Patwari Admit Card 2021. Get the direct link for Rajasthan RSMSSB Patwar recruitment examination hall tickets at rsmssb.rajasthan.gov.in and SSO portal."; 
-$meta_keywords = "patwari admit card 2021, rajasthan patwar hall ticket download, rsmssb patwari admit card 2021 link, sso rajasthan patwari admit card, raj patwari exam hall ticket"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "Patwari Admit Card 2021 Download - Rajasthan RSMSSB Patwar Exam Hall Ticket | Univindia.online";
-$meta_description = "Download Patwari Admit Card 2021. Get the direct link for Rajasthan RSMSSB Patwar recruitment examination hall tickets at rsmssb.rajasthan.gov.in and SSO portal.";
-$meta_keywords = "patwari admit card 2021, rajasthan patwar hall ticket download, rsmssb patwari admit card 2021 link, sso rajasthan patwari admit card, raj patwari exam hall ticket";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">Patwari Admit Card 2021: Download Rajasthan RSMSSB Patwar Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>Patwari 2021 Archive:</strong> The Rajasthan Patwari Direct Recruitment 2021 was conducted by the Rajasthan Staff Selection Board (RSMSSB). Candidates looking for old hall tickets or selection records for the 2021 session can access the official archive link at rsmssb.rajasthan.gov.in or via the SSO portal.
         </div>
@@ -112,13 +85,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="results.php" class="hot-btn bg-gold">Check Patwari Results</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

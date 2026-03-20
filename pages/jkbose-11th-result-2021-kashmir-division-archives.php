@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; jkbose 11th result 2021 kashmir division - Official Kashmir 11th Hub</div>
     <h2 class='sr-title'>jkbose 11th result 2021 kashmir division - Official Kashmir 11th Hub</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "jkbose 11th result 2021 kashmir division - Official Kashmir 11th Hub"; 
-$meta_description = "Check JKBOSE 11th result 2021 for Kashmir Division on jkbose 11th result 2021 kashmir division. Access official archival scorecards on indiaresults portal."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session individual results for Jammu and
-                Kashmir Board of School Education (JKBOSE) Class 11th examination for the Kashmir Division. Official
-                JKBOSE mirrors and 2021 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 11th Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 JKBOSE (11th Kashmir) Result Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>JKBOSE Kashmir Server 2021</h3>
+        <h3>JKBOSE Kashmir Server 2021</h3>
                     <p>Primary server for Jammu and Kashmir Board Class 11th examination result data for the 2021
                         session archive specifically for the Kashmir Division.</p>
                     <a href="https://jkbose.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -128,10 +98,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

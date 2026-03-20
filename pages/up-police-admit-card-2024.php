@@ -9,33 +9,6 @@ $meta_keywords = "up police admit card 2024, upp admit card download, up police 
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online</div>
     <h2 class='sr-title'>UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online"; 
-$meta_description = "Download UP Police Admit Card 2024. Get the direct link for Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) Constable and Sub-Inspector exam hall tickets at uppbpb.gov.in."; 
-$meta_keywords = "up police admit card 2024, upp admit card download, up police constable hall ticket, uppbpb.gov.in admit card link, up police exam date 2024"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "UP Police Admit Card 2024 Download - Constable & SI Exam Hall Ticket Link | Univindia.online";
-$meta_description = "Download UP Police Admit Card 2024. Get the direct link for Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) Constable and Sub-Inspector exam hall tickets at uppbpb.gov.in.";
-$meta_keywords = "up police admit card 2024, upp admit card download, up police constable hall ticket, uppbpb.gov.in admit card link, up police exam date 2024";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">UP Police Admit Card 2024: Download Uttar Pradesh Constable & SI Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>UP Police Recruitment News:</strong> The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has announced the re-examination dates for the Constable Civil Police 2024 batch. Admit Cards for the scheduled dates will be released 48-72 hours before the exam on the official portal uppbpb.gov.in.
         </div>
@@ -110,13 +83,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="latest-jobs.php" class="hot-btn bg-gold">Search Latest Jobs</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

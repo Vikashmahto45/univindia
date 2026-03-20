@@ -9,34 +9,7 @@ $meta_keywords = "neet admit card 2024 release date, neet 2024 hall ticket date,
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; NEET Admit Card 2024 Release Date - NTA Hall Ticket News</div>
     <h2 class='sr-title'>NEET Admit Card 2024 Release Date - NTA Hall Ticket News</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "NEET Admit Card 2024 Release Date - NTA Hall Ticket News"; 
-$meta_description = "Check NEET Admit Card 2024 Release Date. Get latest news, tentative hall ticket schedule, and direct download links for NTA NEET UG."; 
-$meta_keywords = "neet admit card 2024 release date, neet 2024 hall ticket date, neet ug call letter link, nta neet latest news"; 
-?>
-
-
-    
-    
-    
-        <?php 
-$page_title = "NEET Admit Card 2024 Release Date - NTA Hall Ticket News";
-$meta_description = "Check NEET Admit Card 2024 Release Date. Get latest news, tentative hall ticket schedule, and direct download links for NTA NEET UG.";
-$meta_keywords = "neet admit card 2024 release date, neet 2024 hall ticket date, neet ug call letter link, nta neet latest news";
-include '../includes/header.php'; 
-?>
-
-
-    <div class="row">
-        <div class="col-lg-8">
-            <article class="result-card shadow-sm">
-                <div class="card-header-custom p-4">
-                    
-                    <p class="text-white-50 mb-0">NTA NEET UG Schedule & Timeline</p>
-                </div>
-                
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <div class="announcement-bar mb-4">
                         <i class="fas fa-calendar-alt me-2"></i>
                         <strong>Latest:</strong> NTA typically releases NEET Admit Cards exactly 7 days before the exam date.
@@ -63,29 +36,6 @@ include '../includes/header.php';
             <div class="related-sections mt-5">
                 <h3 class="premium-title">Medical Exam Hall Tickets</h3>
                 <div class="row">
-                    <?php 
-                    $current_kw = "neet admit card 2024 release date";
-                    $related_count = 0;
-                    foreach($link_map as $kw => $url) {
-                        if($kw != $current_kw && $related_count < 6) {
-                            echo '<div class="col-md-6 mb-3"><div class="card-mini shadow-sm"><a href="'.$url.'">'.ucwords($kw).'</a>';
-                            $related_count++;
-                        }
-                    }
-                    ?>
-                
-        </div>
-
-        <div class="col-lg-4">
-            <?php include 'includes/sidebar.php'; ?>
-        
-
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

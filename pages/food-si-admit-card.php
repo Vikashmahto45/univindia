@@ -9,33 +9,6 @@ $meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food su
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online</div>
     <h2 class='sr-title'>WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online"; 
-$meta_description = "Download WB Food SI Admit Card 2024. Get the direct link for WBPSC Food Sub-Inspector examination status, exam dates, and hall ticket at psc.wb.gov.in."; 
-$meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food sub inspector admit card west bengal, psc wb gov in admit card, food si exam date 2024"; 
-?>
-
-
-    
-    
-    
-        <?php
-require_once 'includes/config.php';
-$page_title = "WB Food SI Admit Card 2024 Download - WBPSC Sub-Inspector Hall Ticket | Univindia.online";
-$meta_description = "Download WB Food SI Admit Card 2024. Get the direct link for WBPSC Food Sub-Inspector examination status, exam dates, and hall ticket at psc.wb.gov.in.";
-$meta_keywords = "wb food si admit card 2024, wbpsc food si hall ticket, food sub inspector admit card west bengal, psc wb gov in admit card, food si exam date 2024";
-include '../includes/header.php';
-?>
-
-<div class="container main-content">
-    <div class="content-card">
-        <h2 class="gold-text">WB Food SI Admit Card 2024: Download West Bengal Food Sub-Inspector Hall Ticket</h2>
-        
-        <div class="post-meta">
-            <span>Published on: March 16, 2026</span> | <span>Category: Admit Card</span>
-        </div>
-
         <div class="alert-box">
             <strong>WBPSC Update:</strong> The West Bengal Public Service Commission (WBPSC) has released the admit cards for the Food Sub-Inspector (Group C) Recruitment Examination 2024. Candidates can log in to psc.wb.gov.in using their enrollment number to download the call letter.
         </div>
@@ -108,13 +81,8 @@ include '../includes/header.php';
             <a href="../index.php" class="hot-btn bg-blue">Back to Home</a>
             <a href="admit-cards.php" class="hot-btn bg-gold">Browse Call Letters</a>
         
+
 </div>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

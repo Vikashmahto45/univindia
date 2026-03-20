@@ -9,44 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in</div>
     <h2 class='sr-title'>RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in"; 
-$meta_description = ""; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <?php
-include '../includes/config.php';
-$page_title = "RPF SI Admit Card 2024: Download Railway RPF Sub-Inspector Hall Ticket @ rrbapply.gov.in";
-$page_description = "Download RPF SI Admit Card 2024. Get direct links for RPF Sub-Inspector CBT call letter. Exam date, city intimation status, and important guidelines for RPF SI recruitment.";
-$page_keywords = "RPF SI Admit Card 2024, Railway RPF Sub Inspector Hall Ticket, RPF SI Exam Date, Download RPF SI Call Letter, rrbapply.gov.in si admit card";
-include '../includes/header.php';
-?>
-
-<main class="container py-5">
-    <div class="row pt-4">
-        <div class="col-lg-12">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb bg-transparent p-0">
-                    <li class="breadcrumb-item"><a href="../index.php" class="text-warning text-decoration-none">Home</a></li>
-                    <li class="breadcrumb-item active text-white" aria-current="page">RPF SI Admit Card 2024</li>
-                </ol>
-            </nav>
-
-            
-            
-            <div class="alert alert-primary border-0 shadow-lg rounded-4 p-4 mb-5 bg-dark text-white">
-                <div class="d-flex align-items-center">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-user-shield fa-2x text-primary"></i>
-                    </div>
-                    <div class="ms-4">
+        <div class="ms-4">
                         <h4 class="alert-heading fw-bold mb-1">Sub-Inspector Recruitment:</h4>
                         <p class="mb-0">The <strong>RPF SI Admit Card 2024</strong> is expected to be released shortly for the Computer Based Test (CBT). Registered candidates must stay updated with the official portal for exam city slips and hall tickets.</p>
                     
@@ -210,12 +173,6 @@ include '../includes/header.php';
     background-color: #333 !important;
 }
 </style>
-
-<?php include '../includes/footer.php'; ?>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

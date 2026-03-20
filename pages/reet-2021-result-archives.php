@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; reet 2021 result - Official Rajasthan REET 2021 Archive</div>
     <h2 class='sr-title'>reet 2021 result - Official Rajasthan REET 2021 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "reet 2021 result - Official Rajasthan REET 2021 Archive"; 
-$meta_description = "Check reet 2021 result for Rajasthan Eligibility Examination for Teachers. Access the official 2021 REET archival portal and scorecard link on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2021 academic session results for Rajasthan Eligibility
-                Examination for Teachers (REET). Official BSER Ajmer mirrors for the REET 2021 level 1 and level 2
-                results portal.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2021 REET Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2021 REET (Rajasthan) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>REET Server 2021</h3>
+        <h3>REET Server 2021</h3>
                     <p>Primary server mirror for REET 2021 result data hosted on official reetbser21.com infrastructure
                         for both levels.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -125,10 +95,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

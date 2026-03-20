@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive</div>
     <h2 class='sr-title'>www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "www pseb ac in indiaresult com 2022 - Official Punjab 2022 Archive"; 
-$meta_description = "Check Punjab Board 2022 results on www pseb ac in indiaresult com 2022. Access the official PSEB Class 10 and 12 archival results for the 2022 session."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2022 academic session results for Punjab School Education
-                Board (PSEB) Class 10th (Matric) and 12th (Senior Secondary). Official PSEB mirrors and 2022 archival
-                links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2022 Punjab Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2022 Punjab (PSEB) academic Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>PSEB Board Server 2022</h3>
+        <h3>PSEB Board Server 2022</h3>
                     <p>Primary server mirror for accessing Punjab Board results for the 2022 session archive across
                         districts like Mohali, Ludhiana, and Amritsar.</p>
                     <a href="https://punjab.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -126,10 +96,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

@@ -9,37 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; rbse 12th science result 2020 name wise - Official Rajasthan 2020 Archive</div>
     <h2 class='sr-title'>rbse 12th science result 2020 name wise - Official Rajasthan 2020 Archive</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "rbse 12th science result 2020 name wise - Official Rajasthan 2020 Archive"; 
-$meta_description = "Check Rajasthan Board 12th Science result 2020 by name on rbse 12th science result 2020 name wise. Access official RBSE Sr. Sec. Science 2020 archives."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Access the 2020 academic session individual results for Rajasthan Board
-                of Secondary Education (RBSE) Class 12th Science stream with name-wise search feature. Official RBSE
-                mirrors and 2020 archival links updated for batch verification.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Open 2020 Name Archive</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Verified 2020 Rajasthan (RBSE 12th Science) Hubs</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>RBSE Science Server 2020</h3>
+        <h3>RBSE Science Server 2020</h3>
                     <p>Primary server for Rajasthan Board Senior Secondary (12th) Science stream result data for the
                         2020 session archive across districts like Jaipur and Ajmer.</p>
                     <a href="https://rajasthan.indiaresults.com" class="gateway-link">Access Server 1</a>
@@ -132,10 +102,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

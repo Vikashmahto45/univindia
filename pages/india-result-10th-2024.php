@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; india result 10th 2024 - Official Secondary Board Result Gateway</div>
     <h2 class='sr-title'>india result 10th 2024 - Official Secondary Board Result Gateway</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "india result 10th 2024 - Official Secondary Board Result Gateway"; 
-$meta_description = "Check india result 10th 2024 for all state and central boards. Access the latest 2024 secondary board exam results on indiaresults for fast checking and name-wise search."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Stay updated with the latest 2024 Matriculation and Secondary Board
-                Results across all Indian states.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check 2024 Result</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">Latest 2024 Board Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">📅</div>
-                    <h3>2024 Primary Server</h3>
+        <h3>2024 Primary Server</h3>
                     <p>Direct linking for current session results.</p>
                     <a href="https://indiaresults.com" class="gateway-link">View Result</a>
                 </div>
@@ -113,10 +84,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

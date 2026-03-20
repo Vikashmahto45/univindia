@@ -9,36 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; +2 results - Official National Higher Secondary Gateways</div>
     <h2 class='sr-title'>+2 results - Official National Higher Secondary Gateways</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "+2 results - Official National Higher Secondary Gateways"; 
-$meta_description = "Check +2 results for all state and central board Class 12th exams. Access the official Higher Secondary result portal on indiaresults."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <main class="main-content">
-    <section class="hero-section">
-        <div class="container">
-            
-            <p class="hero-subtitle animate-up">Your centralized destination for Senior Secondary and Higher Secondary
-                results. Official board mirrors and portal links updated for the latest +2 session.</p>
-            <div class="cta-group animate-up">
-                <a href="#gateways" class="btn btn-primary">Check +2 Results</a>
-                <a href="#faq" class="btn btn-secondary">Student Advisory</a>
-            
-    </section>
-
-    <section id="gateways" class="gateways-section">
-        <div class="container">
-            <h2 class="section-title">National +2 Result Gateways</h2>
-            <div class="gateways-grid">
-                <div class="gateway-card animate-up">
-                    <div class="gateway-icon">🏛️</div>
-                    <h3>Higher Secondary Hub</h3>
+        <h3>Higher Secondary Hub</h3>
                     <p>Primary server for all state and central +2 board results data.</p>
                     <a href="https://indiaresults.com" class="gateway-link">Access Hub 1</a>
                 </div>
@@ -118,10 +89,6 @@ $meta_keywords = "";
                     
             
     </section>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 

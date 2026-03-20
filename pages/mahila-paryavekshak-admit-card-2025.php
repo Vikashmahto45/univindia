@@ -9,32 +9,7 @@ $meta_keywords = "";
     <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket</div>
     <h2 class='sr-title'>Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket</h2>
     <div class='sr-content'>
-        <?php 
-include '../header.php'; 
-$page_title = "Mahila Paryavekshak Admit Card 2025: Download Supervisor Hall Ticket"; 
-$meta_description = "Download Mahila Paryavekshak (Female Supervisor) Admit Card 2025. Get direct link for integrated recruitment hall ticket. Check exam dates and lady supervisor exam instructions."; 
-$meta_keywords = ""; 
-?>
-
-
-    
-    
-    
-        <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Mahila Paryavekshak Admit Card</li>
-                </ol>
-            </nav>
-
-            <div class="card shadow rounded-4 border-0 mb-4 overflow-hidden">
-                <div class="bg-purple p-4 text-white">
-                    
-                </div>
-                <div class="card-body p-4">
+        <div class="card-body p-4">
                     <p class="lead text-dark">The recruitment of Mahila Paryavekshak (Lady Supervisors) for various state welfare departments is one of the most awaited competitive examinations for female candidates in 2025. The Mahila Paryavekshak Admit Card serves as the essential hall ticket for candidates appearing in the written examination across different districts.</p>
                     
                     <div class="alert alert-purple-light border-0 shadow-sm rounded-4 mt-4">
@@ -155,10 +130,6 @@ $meta_keywords = "";
 .alert-purple-light { background-color: #f3efff; color: #6f42c1; }
 .underline-purple { border-bottom: 3px solid #6f42c1; display: inline-block; padding-bottom: 2px; }
 </style>
-    
-
-
-<?php include '../footer.php'; ?>
     </div>
 </div>
 
