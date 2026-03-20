@@ -38,7 +38,7 @@ if (is_dir($pages_dir)) {
             ?>
         </ul>
         <div style="text-align:center; padding: 10px;">
-            <a href="#" class="view-more-btn">View More</a>
+            <a href="<?php echo BASE_URL; ?>results.php" class="view-more-btn">View More</a>
         </div>
     </div>
     
@@ -58,7 +58,7 @@ if (is_dir($pages_dir)) {
             ?>
         </ul>
         <div style="text-align:center; padding: 10px;">
-            <a href="#" class="view-more-btn">View More</a>
+            <a href="<?php echo BASE_URL; ?>admit-cards.php" class="view-more-btn">View More</a>
         </div>
     </div>
     
@@ -85,7 +85,7 @@ if (is_dir($pages_dir)) {
             ?>
         </ul>
         <div style="text-align:center; padding: 10px;">
-            <a href="#" class="view-more-btn">View More</a>
+            <a href="<?php echo BASE_URL; ?>latest-jobs.php" class="view-more-btn">View More</a>
         </div>
     </div>
 </div>
