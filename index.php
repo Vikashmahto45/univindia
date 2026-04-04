@@ -26,9 +26,15 @@ require_once __DIR__ . '/includes/header.php';
                 $links = $conn->query("SELECT title, url FROM links WHERE category_id = ".$catId." ORDER BY created_at DESC LIMIT 10");
                 if ($links && $links->num_rows > 0) {
                     while ($link = $links->fetch_assoc()) {
-                        echo '<li><a href="'.$link['url'].'">'.$link['title'].'</a></li>';
+                        $url = $link['url'];
+                        // Prefix with pages/ if it's a local filename (not starting with http or /)
+                        if (strpos($url, 'http') === false && strpos($url, '/') !== 0) {
+                            $url = BASE_URL . 'pages/' . ltrim($url, '/');
+                        }
+                        echo '<li><a href="'.$url.'">'.$link['title'].'</a></li>';
                     }
                 } else {
+
                     echo '<li style="color:#666; text-align:center;">No updates available</li>';
                 }
             } else {
