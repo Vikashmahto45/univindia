@@ -1,27 +1,49 @@
 <?php 
-include '../header.php'; 
-$page_title = "Official Result Portal - National & State Examination Result Hub"; 
-$meta_description = "Check your examination Result online across all Indian boards and universities. Find the latest 10th, 12th, and entrance exam results, merit lists, and marksheets."; 
-$meta_keywords = "result, check result online, exam result india, 10th result, 12th result, university result portal, sarkari result hub, official result website"; 
+/** 
+ * result.php - Sarkari Style Dynamic Linker
+ */
+require_once __DIR__ . '/../includes/header.php'; 
 ?>
 
-<div class='sr-page-wrapper'>
-    <div class='sr-breadcrumb'><a href='<?php echo BASE_URL; ?>'>Home</a> &raquo; Results &raquo; Official Result Portal - National & State Examination Result Hub</div>
-    <h2 class='sr-title'>Official Result Portal - National & State Examination Result Hub</h2>
-    <div class='sr-content'>
-        <div class="container" style="margin-bottom: 50px;">
-    <h2>Frequently Asked Questions (FAQ) About Result Portals</h2>
-    <div class="card">
-        <strong>1. Why is the official "Result" certificate critical for Jobs?</strong>
-        <p>A verified result certificate is the primary document required for clearing 'Eligibility' audits for government recruitment and corporate onboarding scripts.</p>
-        <br>
-        <strong>2. How to check Result online without a Roll Number?</strong>
-        <p>Some boards allow "Result" search by Name or Candidate ID on specialized portals. However, the official marksheet retrieval almost always requires the 2024 Roll No.</p>
-        <br>
-        <strong>3. Is the online Result valid for admission?</strong>
-        <p>Yes, your online board result (verified via the official portal or DigiLocker) is the accepted record for provisional admission to colleges or specialized technical diplomas.</p>
+<main>
+    <div class="sarkari-box" style="margin: 20px auto; max-width: 1000px; border: 2px solid #000;">
+        <div class="sarkari-box-title" style="font-size: 24px; padding: 15px;">ALL IMPORTANT RESULTS</div>
+        
+        <ul class="sarkari-list" style="padding: 20px; font-size: 16px;">
+            <?php
+            // Scan for all files containing 'result' in this pages directory
+            // This guarantees that ONLY existing files are shown, and NONE are broken.
+            $files = glob("*{result}*.php", GLOB_BRACE);
+            
+            // Also include some specific ones if they don't have 'result' in name but are obvious
+            $extra_files = glob("*{merit,selection}*.php", GLOB_BRACE);
+            $all_files = array_unique(array_merge($files, $extra_files));
+            
+            // Sort files alphabetically
+            sort($all_files);
+
+            $count = 0;
+            foreach($all_files as $file) {
+                // Skip this file itself
+                if ($file === 'result.php') continue;
+                
+                // Create a clean readable title from the filename
+                $clean_title = str_replace('.php', '', $file);
+                $clean_title = str_replace('-', ' ', $clean_title);
+                $clean_title = ucwords($clean_title);
+                
+                echo '<li style="padding: 10px; border-bottom: 1px dotted #ccc;">
+                        <a href="'.$file.'" style="font-size: 16px;">'.$clean_title.'</a>
+                      </li>';
+                $count++;
+            }
+            
+            if ($count === 0) {
+                 echo '<li><h2 style="color:#cc0000; text-align:center;">No Results Found</h2></li>';
+            }
+            ?>
+        </ul>
     </div>
-</div>
+</main>
 
-
-<?php include '../footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>

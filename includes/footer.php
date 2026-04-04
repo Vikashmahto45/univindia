@@ -1,14 +1,25 @@
-    </div> <!-- End Container -->
-    
-    <footer style="background:#000; color:#fff; padding:30px 0; margin-top:40px; text-align:center;">
-        <div class="container">
-            <p>&copy; <?php echo date("Y"); ?> Univindia.online - Sarkari Result Official Portal</p>
-            <div style="margin-top:10px;">
-                <a href="<?php echo BASE_URL; ?>index.php" style="color:#fff; margin:0 10px; font-size:0.8rem;">Home</a> | 
-                <a href="#" style="color:#fff; margin:0 10px; font-size:0.8rem;">Contact Us</a> | 
-                <a href="#" style="color:#fff; margin:0 10px; font-size:0.8rem;">Privacy Policy</a>
-            </div>
+<?php
+/**
+ * footer.php - Reusable footer for all pages
+ */
+?>
+    <footer>
+        <div class="footer-links">
+            <h4>Important Links</h4>
+            <ul>
+                <li><a href="<?php echo BASE_URL; ?>pages/about.php">About Us</a></li>
+                <li><a href="<?php echo BASE_URL; ?>pages/contact.php">Contact Us</a></li>
+                <li><a href="<?php echo BASE_URL; ?>pages/privacy.php">Privacy Policy</a></li>
+                <li><a href="<?php echo BASE_URL; ?>pages/terms.php">Terms &amp; Conditions</a></li>
+                <li><a href="<?php echo BASE_URL; ?>pages/disclaimer.php">Disclaimer</a></li>
+            </ul>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; <?php echo date('Y'); ?> univindia.online - Official University Job Portal. All Rights Reserved.</p>
         </div>
     </footer>
+</div> <!-- End .container -->
+
+<script src="<?php echo BASE_URL; ?>assets/js/script.js"></script>
 </body>
 </html>

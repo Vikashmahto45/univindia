@@ -1,9 +1,2 @@
 RewriteEngine On
-RewriteBase /
-
-# Priority 1: Direct File
-RewriteCond %{REQUEST_FILENAME} -f
-RewriteRule ^ - [L]
-
-# Priority 2: Page Routing
-RewriteRule ^([^/]+\.php)$ pages/$1 [L]
+RewriteRule ^sitemap\.xml$ sitemap.xml.php [L]

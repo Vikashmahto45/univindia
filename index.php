@@ -1,110 +1,99 @@
 <?php 
-require_once __DIR__ . '/includes/config.php';
-$page_title = "Sarkari Result - Univindia Official Result Gateway 2025";
-include __DIR__ . '/header.php';
-
-// Dynamic Page Discovery
-$pages_dir = __DIR__ . '/pages/';
-$all_links = [];
-if (is_dir($pages_dir)) {
-    $files = scandir($pages_dir);
-    foreach ($files as $file) {
-        if ($file !== '.' && $file !== '..' && substr($file, -4) === '.php') {
-            // Ignore system scripts
-            $scripts = ['generate_sitemap.php', 'get_next_15.php', 'deep_clean.php', 'sync_paths.php', 'sr_update.php', 'absolute_pure.php', 'mass_update.php'];
-            if (in_array($file, $scripts)) continue;
-            
-            $name = ucwords(str_replace(['-', '.php'], [' ', ''], $file));
-            $all_links[$file] = $name;
-        }
-    }
-}
+// 1. Core Header (Includes config & database)
+require_once __DIR__ . '/includes/header.php'; 
 ?>
 
-<div class="sr-main-grid">
-    <!-- Results Column -->
-    <div class="sr-panel">
-        <div class="sr-panel-header">Results</div>
-        <ul class="sr-list">
-            <?php 
-            $count = 0;
-            foreach ($all_links as $file => $name) {
-                if (strpos(strtolower($name), 'result') !== false) {
-                    echo '<li><a href="'.BASE_URL.$file.'">'.$name.'</a></li>';
-                    if (++$count >= 15) break;
-                }
-            }
-            if ($count == 0) echo "<li>Coming Soon...</li>";
-            ?>
-        </ul>
-        <div style="text-align:center; padding: 10px;">
-            <a href="<?php echo BASE_URL; ?>results.php" class="view-more-btn">View More</a>
-        </div>
-    </div>
-    
-    <!-- Admit Card Column -->
-    <div class="sr-panel">
-        <div class="sr-panel-header">Admit Card</div>
-        <ul class="sr-list">
-            <?php 
-            $count = 0;
-            foreach ($all_links as $file => $name) {
-                if (strpos(strtolower($name), 'admit') !== false) {
-                    echo '<li><a href="'.BASE_URL.$file.'">'.$name.'</a></li>';
-                    if (++$count >= 15) break;
-                }
-            }
-            if ($count == 0) echo "<li>Coming Soon...</li>";
-            ?>
-        </ul>
-        <div style="text-align:center; padding: 10px;">
-            <a href="<?php echo BASE_URL; ?>admit-cards.php" class="view-more-btn">View More</a>
-        </div>
-    </div>
-    
-    <!-- Latest Jobs Column -->
-    <div class="sr-panel">
-        <div class="sr-panel-header">Latest Jobs</div>
-        <ul class="sr-list">
-            <?php 
-            $count = 0;
-            foreach ($all_links as $file => $name) {
-                // Only show if explicitly a job page or not a result/admit Card
-                if (strpos(strtolower($name), 'job') !== false) {
-                    echo '<li><a href="'.BASE_URL.$file.'">'.$name.'</a></li>';
-                    $count++;
-                    if ($count >= 15) break;
-                }
-            }
-            if ($count == 0) {
-                echo "<li>NTA NEET UG 2025 Apply Online</li>";
-                echo "<li>CUET PG 2025 Registration Open</li>";
-                echo "<li>UP Police Constable Re-Exam Date</li>";
-                echo "<li>SSC GD Constable 2025 Notification</li>";
-            }
-            ?>
-        </ul>
-        <div style="text-align:center; padding: 10px;">
-            <a href="<?php echo BASE_URL; ?>latest-jobs.php" class="view-more-btn">View More</a>
-        </div>
-    </div>
-</div>
 
-<!-- Category Table Section -->
-<div class="sr-panel" style="margin-top: 20px;">
-    <div class="sr-panel-header">Important Category Gateways</div>
-    <table class="sr-table">
-        <tr>
-            <td><a href="#">MGSU Result</a></td>
-            <td><a href="#">MSBU Result</a></td>
-            <td><a href="#">RRBMU Result</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">BA 1st Year</a></td>
-            <td><a href="#">BSc 1st Year</a></td>
-            <td><a href="#">BCom 1st Year</a></td>
-        </tr>
-    </table>
-</div>
+    <!-- Main Content Grid -->
+    <main>
+        <?php
+        // Fetch all categories and store mapping of Name => ID
+        $categories_result = $conn->query("SELECT id, name FROM categories");
+        $cats = [];
+        if ($categories_result && $categories_result->num_rows > 0) {
+            while($row = $categories_result->fetch_assoc()) {
+                $cats[trim($row['name'])] = $row['id'];
+            }
+        }
 
-<?php include __DIR__ . '/footer.php'; ?>
+        // Helper function to render a sarkari block
+        function render_sarkari_box($conn, $cats, $catName, $linkPage) {
+            $catId = isset($cats[$catName]) ? $cats[$catName] : 0;
+            echo '<div class="sarkari-box">';
+            echo '<div class="sarkari-box-title"><a href="'.BASE_URL.'pages/'.$linkPage.'">'.$catName.'</a></div>';
+            echo '<ul class="sarkari-list">';
+            if ($catId > 0) {
+                $links = $conn->query("SELECT title, url FROM links WHERE category_id = ".$catId." ORDER BY created_at DESC LIMIT 10");
+                if ($links && $links->num_rows > 0) {
+                    while ($link = $links->fetch_assoc()) {
+                        echo '<li><a href="'.$link['url'].'">'.$link['title'].'</a></li>';
+                    }
+                } else {
+                    echo '<li style="color:#666; text-align:center;">No updates available</li>';
+                }
+            } else {
+                echo '<li style="color:#666; text-align:center;">No updates available</li>';
+            }
+            echo '</ul>';
+            echo '<div class="view-more-row"><a href="'.BASE_URL.'pages/'.$linkPage.'">View More</a></div>';
+            echo '</div>';
+        }
+        ?>
+
+        <!-- ROW 1 -->
+        <div class="sarkari-row">
+            <?php 
+            render_sarkari_box($conn, $cats, 'Results', 'result.php'); 
+            render_sarkari_box($conn, $cats, 'Admit Card', 'admit-card.php'); 
+            render_sarkari_box($conn, $cats, 'Latest Job', 'latest-job.php'); 
+            ?>
+        </div>
+
+        <!-- ROW 2 -->
+        <div class="sarkari-row">
+            <?php 
+            render_sarkari_box($conn, $cats, 'Answer Key', 'answer-key.php'); 
+            render_sarkari_box($conn, $cats, 'Syllabus', 'syllabus.php'); 
+            render_sarkari_box($conn, $cats, 'Admission', 'admission.php'); 
+            ?>
+        </div>
+
+        <!-- ROW 3 -->
+        <div class="sarkari-row">
+            <?php 
+            render_sarkari_box($conn, $cats, 'Document', 'document.php'); 
+            render_sarkari_box($conn, $cats, 'Student Tools', 'student-tools.php'); 
+            render_sarkari_box($conn, $cats, 'Time Table', 'time-table.php'); 
+            ?>
+        </div>
+
+    </main>
+
+    <!-- SEO Information Section -->
+    <section class="seo-info-container">
+        <div class="seo-card">
+            <h2 class="seo-main-title">Welcome to UnivIndia - Online University & Job Portal</h2>
+            <p class="seo-intro"><strong>univindia.online</strong> is your trusted one-stop destination for the latest educational updates and career opportunities across India. Get real-time updates on <strong>University Results</strong>, <strong>Sarkari Results</strong>, <strong>Admit Cards</strong>, and <strong>Latest Jobs</strong>.</p>
+            
+            <div class="seo-features">
+                <div class="feature-item">
+                    <h4 class="feature-title">What We Offer</h4>
+                    <ul class="feature-list">
+                        <li>UnivIndia Fast Result Engine</li>
+                        <li>Latest Sarkari Naukri Updates</li>
+                        <li>Syllabus & Admit Card Downloads</li>
+                        <li>All University Time Tables</li>
+                    </ul>
+                </div>
+                <div class="feature-item">
+                    <h4 class="feature-title">Why UnivIndia?</h4>
+                    <p class="feature-text">Stay connected with us for the most reliable educational content and job alerts. We provide fast and clean navigation exactly like you naturally expect.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<?php 
+// 2. Core Footer
+require_once __DIR__ . '/includes/footer.php'; 
+?>

@@ -1,30 +1,60 @@
-<?php require_once __DIR__ . '/includes/config.php'; ?>
+<?php
+/**
+ * header.php - Included on every page
+ */
+require_once __DIR__ . '/config.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $page_title ?? 'Sarkari Result - Univindia Official Gateway 2025'; ?></title>
-    <link rel="stylesheet" href="<?php echo BASE_URL; ?>css/style.css">
+    <title><?php echo isset($title) ? $title : "UnivIndia - Official University Portal & Job Notification"; ?></title>
+    <meta name="description" content="<?php echo isset($meta_description) ? $meta_description : "UnivIndia.online provides latest University Results, Board Results, Admit Cards, and Sarkari Job notifications across India."; ?>">
+    <meta name="keywords" content="<?php echo isset($meta_keywords) ? $meta_keywords : "UnivIndia, Board Result, University Result, Admit Card, Sarkari Naukri"; ?>">
+    <link rel="canonical" href="<?php echo "https://univindia.online" . $_SERVER['REQUEST_URI']; ?>">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="<?php echo isset($title) ? $title : "UnivIndia - Official University Portal"; ?>">
+    <meta property="og:description" content="<?php echo isset($meta_description) ? $meta_description : "Latest University Results & Job Updates."; ?>">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="<?php echo "https://univindia.online" . $_SERVER['REQUEST_URI']; ?>">
+
+    <!-- Schema.org JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "UnivIndia",
+      "url": "https://univindia.online/"
+    }
+    </script>
+    <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css">
+
 </head>
 <body>
-    <div class="sr-logo-bar">
-        <div class="container">
-            <h1>SARKARI RESULT</h1>
-            <p>Univindia.online / Official National Result Portal</p>
-        </div>
+
+<div class="container">
+    <header>
+        <div class="logo-text">UNIV INDIA</div>
+        <h3>WWW.UNIVINDIA.ONLINE</h3>
+    </header>
+
+    <nav>
+        <a href="<?php echo BASE_URL; ?>index.php">Home</a>
+        <a href="<?php echo BASE_URL; ?>pages/latest-job.php">Latest Jobs</a>
+        <a href="<?php echo BASE_URL; ?>pages/result.php">Result</a>
+        <a href="<?php echo BASE_URL; ?>pages/admit-card.php">Admit Card</a>
+        <a href="<?php echo BASE_URL; ?>pages/answer-key.php">Answer Key</a>
+        <a href="<?php echo BASE_URL; ?>pages/syllabus.php">Syllabus</a>
+        <a href="<?php echo BASE_URL; ?>pages/search.php">Search</a>
+        <a href="<?php echo BASE_URL; ?>pages/contact.php">Contact Us</a>
+    </nav>
+
+    <div class="marquee-bar">
+        <marquee onmouseover="this.stop();" onmouseout="this.start();" scrollamount="4">
+            Welcome to UnivIndia - Check your latest University Results, Government Jobs, Admit Cards, and Syllabus updates here! &nbsp;||&nbsp;
+            <a href="#" style="color: #cc0000; text-decoration: underline;">Download Android App</a> &nbsp;||&nbsp;
+            <a href="#" style="color: #cc0000; text-decoration: underline;">Join Our Telegram Channel</a>
+        </marquee>
     </div>
-    
-    <div class="sr-nav-bar">
-        <div class="container">
-            <ul>
-                <li><a href="<?php echo BASE_URL; ?>">HOME</a></li>
-                <li><a href="<?php echo BASE_URL; ?>">ADMIT CARD</a></li>
-                <li><a href="<?php echo BASE_URL; ?>">RESULT</a></li>
-                <li><a href="<?php echo BASE_URL; ?>">LATEST JOBS</a></li>
-                <li><a href="<?php echo BASE_URL; ?>">SYLLABUS</a></li>
-                <li><a href="<?php echo BASE_URL; ?>">CONTACT US</a></li>
-            </ul>
-        </div>
-    </div>
-    <div class="container">

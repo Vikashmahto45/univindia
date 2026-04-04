@@ -1,0 +1,72 @@
+/* Sarkari Result Style Core Stylesheet */
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, Tahoma, Verdana, sans-serif; }
+body { background-color: #f0f0f0; color: #000; line-height: 1.5; }
+a { text-decoration: none; color: #0000ff; font-weight: bold; }
+a:hover { color: #cc0000; text-decoration: underline; }
+
+.container { max-width: 1200px; margin: 0 auto; background: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.5); }
+
+/* Header */
+header { background: #800000; padding: 15px 0; text-align: center; border-bottom: 2px solid #000; }
+header .logo-text { color: #ffffff; font-size: 38px; font-weight: bold; text-shadow: 2px 2px 4px #000; margin-bottom: 2px; }
+header h3 { color: #ffffcc; font-size: 16px; font-weight: bold; text-shadow: 1px 1px 2px #000; }
+
+/* Navigation */
+nav { background: #000000; display: flex; justify-content: center; flex-wrap: wrap; padding: 5px 0; }
+nav a { color: #ffffff; margin: 5px 12px; font-weight: bold; font-size: 14px; text-transform: uppercase; }
+nav a:hover { color: #ffff00; text-decoration: none; }
+
+/* Marquee bar */
+.marquee-bar { background: #ffffcc; padding: 5px; border-bottom: 2px solid #000; border-top: 2px solid #000; font-weight: bold; color: #000080; font-size: 15px; }
+
+/* Main Content Wrapper */
+main { padding: 10px; }
+
+/* Sarkari Grid Boxes */
+.sarkari-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 10px; }
+.sarkari-box { border: 2px solid #000; background: #fff; }
+.sarkari-box-title { background: #800000; color: #fff; text-align: center; padding: 8px; font-size: 18px; font-weight: bold; border-bottom: 2px solid #000; text-transform: uppercase; }
+.sarkari-box-title a { color: #fff; text-decoration: none; }
+.sarkari-box-title a:hover { text-decoration: underline; color: #ffff00; }
+.sarkari-list { list-style: none; padding: 5px; min-height: 250px; }
+.sarkari-list li { border-bottom: 1px dashed #ccc; padding: 6px 4px; font-size: 14px; }
+.sarkari-list li:last-child { border-bottom: none; }
+.sarkari-list li::before { content: "► "; color: #cc0000; font-size: 12px; }
+.sarkari-list a { color: #0000ff; font-weight: bold; }
+.sarkari-list a:hover { color: #000; text-decoration: underline; }
+
+.view-more-row { text-align: right; padding: 5px; }
+.view-more-row a { background: #e0e0e0; color: #000; padding: 3px 8px; border: 1px solid #999; font-size: 12px; text-decoration: none; }
+.view-more-row a:hover { background: #ccc; }
+
+/* SEO Information Section */
+.seo-info-container { padding: 20px; border-top: 2px solid #000; background: #fafafa; }
+.seo-card { text-align: center; }
+.seo-main-title { color: #800000; font-size: 22px; font-weight: bold; margin-bottom: 10px; }
+.seo-intro { margin-bottom: 15px; color: #333; font-size: 14px; }
+.seo-features { display: flex; flex-wrap: wrap; text-align: left; background: #fff; border: 1px solid #ccc; padding: 15px; }
+.feature-item { flex: 1; min-width: 300px; padding: 10px; }
+.feature-title { color: #800000; font-size: 16px; margin-bottom: 10px; font-weight: bold; }
+.feature-list { list-style: none; padding: 0; }
+.feature-list li { margin-bottom: 8px; font-size: 13px; color: #444; }
+.feature-list li::before { content: "★ "; color: #800000; }
+.feature-text { font-size: 13px; color: #444; margin-bottom: 10px; }
+
+/* Footer */
+footer { background: #000000; color: #fff; padding: 20px; border-top: 5px solid #800000; text-align: center; }
+.footer-links { margin-bottom: 20px; }
+.footer-links h4 { color: #ffff00; margin-bottom: 10px; font-size: 16px; border-bottom: 1px dashed #444; padding-bottom: 5px; display: inline-block; }
+.footer-links ul { list-style: none; display: flex; justify-content: center; flex-wrap: wrap; }
+.footer-links li { margin: 5px 15px; }
+.footer-links a { color: #fff; font-size: 14px; font-weight: normal; }
+.footer-links a:hover { color: #ffff00; text-decoration: underline; }
+.footer-bottom { border-top: 1px solid #333; padding-top: 10px; font-size: 12px; color: #aaa; }
+
+@media (max-width: 900px) {
+    .sarkari-row { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+    .sarkari-row { grid-template-columns: 1fr; }
+    header .logo-text { font-size: 28px; }
+    nav a { margin: 5px 8px; font-size: 12px; }
+}
