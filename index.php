@@ -67,10 +67,20 @@ function render_univindia_box($conn, $catName, $viewMorePage) {
 ?>
 
 <main>
-    <!-- ROW 1: LATEST JOBS -->
+    <!-- ROW 1: ADMIT CARD & LATEST JOBS -->
     <div class="sarkari-row">
+        <!-- ADMIT CARD (Empty as requested) -->
+        <div class="sarkari-box">
+            <div class="sarkari-box-title"><a href="<?php echo BASE_URL; ?>pages/admit-card.php">Admit Card</a></div>
+            <ul class="sarkari-list">
+                <li style="color:#888; text-align:center; padding:10px;">Updates Coming Soon...</li>
+            </ul>
+            <div class="view-more-row"><a href="<?php echo BASE_URL; ?>pages/admit-card.php">View More</a></div>
+        </div>
+
         <?php render_univindia_box($conn, 'Latest Job', 'latest-job.php'); ?>
     </div>
+
 
 
     <!-- ROW 2: ANSWER KEY, SYLLABUS, ADMISSION -->
