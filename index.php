@@ -48,11 +48,27 @@ require_once __DIR__ . '/includes/header.php';
 
         <!-- ROW 1 -->
         <div class="sarkari-row">
-            <?php 
-            render_sarkari_box($conn, $cats, 'Results', 'result.php'); 
-            render_sarkari_box($conn, $cats, 'Admit Card', 'admit-card.php'); 
-            render_sarkari_box($conn, $cats, 'Latest Job', 'latest-job.php'); 
-            ?>
+            <?php render_sarkari_box($conn, $cats, 'Results', 'result.php'); ?>
+
+            <!-- ADMIT CARD - Hardcoded with real existing files -->
+            <div class="sarkari-box">
+                <div class="sarkari-box-title"><a href="<?php echo BASE_URL; ?>pages/admit-card.php">Admit Card</a></div>
+                <ul class="sarkari-list">
+                    <li><a href="<?php echo BASE_URL; ?>pages/ssc-gd-admit-card-2025-official-constable-gd-hall-ticket.php">SSC GD Constable Admit Card 2025</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/rrb-ntpc-admit-card-2025-official-railway-career-portal.php">RRB NTPC Admit Card 2025</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/upsc-admit-card-2024-official-civil-services-selection-hub.php">UPSC Admit Card 2024</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/ssc-cgl-admit-card-2024-official-tier-1-2-hall-ticket-hub.php">SSC CGL Admit Card 2024</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/rrb-alp-admit-card-2024-official-loco-pilot-hall-ticket-hub.php">RRB ALP Admit Card 2024</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/up-police-admit-card-2024-official-uppbpb-constable-hall-ticket.php">UP Police Admit Card 2024</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/sbi-po-admit-card-2025-official-banking-selection-hub.php">SBI PO Admit Card 2025</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/ugc-net-admit-card-december-2024.php">UGC NET Admit Card 2024</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/mgsu-admit-card-2024.php">MGSU Admit Card 2024</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>pages/mgsu-practical-admit-card.php">MGSU Practical Admit Card</a></li>
+                </ul>
+                <div class="view-more-row"><a href="<?php echo BASE_URL; ?>pages/admit-card.php">View More</a></div>
+            </div>
+
+            <?php render_sarkari_box($conn, $cats, 'Latest Job', 'latest-job.php'); ?>
         </div>
 
         <!-- ROW 2 -->
@@ -74,6 +90,7 @@ require_once __DIR__ . '/includes/header.php';
         </div>
 
     </main>
+
 
     <!-- SEO Information Section -->
     <section class="seo-info-container">
