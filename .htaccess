@@ -1,5 +1,14 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
+
+# 1. Specific Rewrite Rules
 RewriteRule ^sitemap\.xml$ sitemap.xml.php [L]
+
+# 2. Redirect 404 / Non-existent files to Home
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [L,QSA,R=301]
 </IfModule>
+
+
 
