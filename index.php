@@ -40,9 +40,10 @@ function render_db_box($conn, $catName, $viewMorePage) {
 ?>
 
 <main>
-    <!-- ROW 1: LATEST JOBS -->
+    <!-- ROW 1: LATEST JOBS & ADMIT CARD -->
     <div class="sarkari-row">
         <?php render_db_box($conn, 'Latest Job', 'latest-job.php'); ?>
+        <?php render_db_box($conn, 'Admit Card', 'admit-card.php'); ?>
     </div>
 
 
