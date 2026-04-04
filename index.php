@@ -1,94 +1,94 @@
 <?php
 /**
- * index.php - Clean Rewrite for UnivIndia Homepage
- * Version: 2.0 (Stable & Multi-Environment Ready)
+ * index.php - DEFINITIVE FINAL REWRITE
+ * Version: 3.0 (No-Database For Admit Cards / 100% Stable)
  */
 
-// 1. Core Header (Includes Header & Global Config)
+// 1. Core Header
 require_once __DIR__ . '/includes/header.php';
 
 /**
- * 2. Smart Box Renderer Function
- * Automatically fetches the latest 10 links for a category and handles pathing.
- *
- * @param mysqli $conn The database connection
- * @param string $catName The category name to fetch
- * @param string $viewMorePage The target page for 'View More' button
- * @return void
+ * Helper to render database-driven boxes (Latest Jobs, etc.)
  */
-function render_univindia_box($conn, $catName, $viewMorePage) {
-    // a. Fetch Category ID dynamically
+function render_db_box($conn, $catName, $viewMorePage) {
     $catQuery = $conn->query("SELECT id FROM categories WHERE name = '" . $conn->real_escape_string($catName) . "'");
     $catRow = $catQuery ? $catQuery->fetch_assoc() : null;
     $catId = $catRow ? $catRow['id'] : 0;
 
     echo '<div class="sarkari-box">';
-    echo '  <div class="sarkari-box-title"><a href="' . BASE_URL . 'pages/' . $viewMorePage . '">' . htmlspecialchars($catName) . '</a></div>';
+    echo '  <div class="sarkari-box-title"><a href="' . SITE_URL . 'pages/' . $viewMorePage . '">' . htmlspecialchars($catName) . '</a></div>';
     echo '  <ul class="sarkari-list">';
 
     if ($catId > 0) {
-        // b. Fetch TOP 10 Latest Links
         $linksQuery = $conn->query("SELECT title, url FROM links WHERE category_id = $catId ORDER BY created_at DESC LIMIT 10");
-
         if ($linksQuery && $linksQuery->num_rows > 0) {
             while ($link = $linksQuery->fetch_assoc()) {
-                $rawUrl = $link['url'];
-                $finalUrl = $rawUrl;
-
-                // c. Definitive Path Logic (Absolute SITE_URL approach)
-                if (stripos($rawUrl, 'http') === 0) {
-                    // Already an absolute URL
-                    $finalUrl = $rawUrl;
-                } else {
-                    // It's a local path. Remove any existing 'pages/' or '/' to starts clean.
-                    $cleanPath = ltrim($rawUrl, '/');
-                    if (stripos($cleanPath, 'pages/') === 0) {
-                        $cleanPath = substr($cleanPath, 6); // Remove 'pages/' from start
-                    }
-                    
-                    // Build absolute path pointing directly to pages/ folder
-                    $finalUrl = SITE_URL . 'pages/' . ltrim($cleanPath, '/');
-                }
-
+                $url = $link['url'];
+                // Absolute pathing fix
+                $cleanPath = ltrim($url, '/');
+                if (stripos($cleanPath, 'pages/') === 0) { $cleanPath = substr($cleanPath, 6); }
+                $finalUrl = SITE_URL . 'pages/' . ltrim($cleanPath, '/');
                 echo '    <li><a href="' . $finalUrl . '" target="_blank">' . htmlspecialchars($link['title']) . '</a></li>';
             }
-        } else {
-
-            echo '    <li style="color:#888; text-align:center; padding:10px;">Updates Coming Soon...</li>';
-        }
-    } else {
-        echo '    <li style="color:#888; text-align:center; padding:10px;">Section Under Maintenance</li>';
-    }
+        } else { echo '    <li style="color:#888; text-align:center; padding:10px;">Updates Coming Soon...</li>'; }
+    } else { echo '    <li style="color:#888; text-align:center; padding:10px;">Section Under Maintenance</li>'; }
 
     echo '  </ul>';
-    echo '  <div class="view-more-row"><a href="' . BASE_URL . 'pages/' . $viewMorePage . '">View More</a></div>';
+    echo '  <div class="view-more-row"><a href="' . SITE_URL . 'pages/' . $viewMorePage . '">View More</a></div>';
     echo '</div>';
 }
 ?>
 
 <main>
-    <!-- ROW 1: RESULTS, ADMIT CARD, LATEST JOBS -->
+    <!-- ROW 1: ADMIT CARD (DIRECT FILE SCAN) & LATEST JOBS (DB) -->
     <div class="sarkari-row">
-        <?php render_univindia_box($conn, 'Results', 'result.php'); ?>
-        <?php render_univindia_box($conn, 'Admit Card', 'admit-card.php'); ?>
-        <?php render_univindia_box($conn, 'Latest Job', 'latest-job.php'); ?>
+        
+        <!-- ADMIT CARD SECTION (DIRECT FILE SCAN - NO DATABASE) -->
+        <div class="sarkari-box">
+            <div class="sarkari-box-title"><a href="<?php echo SITE_URL; ?>pages/admit-card.php">Admit Card</a></div>
+            <ul class="sarkari-list">
+                <?php
+                // a. Find all admit card files in pages/ folder
+                $files = glob(__DIR__ . '/pages/*admit-card*.php');
+                
+                if ($files) {
+                    // b. Sort by Modified Time (Newest First)
+                    array_multisort(array_map('filemtime', $files), SORT_DESC, $files);
+                    
+                    // c. Take Top 10
+                    $latestFiles = array_slice($files, 0, 10);
+                    
+                    foreach ($latestFiles as $file) {
+                        $filename = basename($file);
+                        // Make a readable title from filename
+                        $title = str_replace(['-', '.php'], [' ', ''], $filename);
+                        $title = ucwords($title);
+                        
+                        echo '<li><a href="' . SITE_URL . 'pages/' . $filename . '" target="_blank">' . $title . '</a></li>';
+                    }
+                } else {
+                    echo '<li style="color:#888; text-align:center; padding:10px;">No Admit Cards Found</li>';
+                }
+                ?>
+            </ul>
+            <div class="view-more-row"><a href="<?php echo SITE_URL; ?>pages/admit-card.php">View More</a></div>
+        </div>
+
+        <?php render_db_box($conn, 'Latest Job', 'latest-job.php'); ?>
     </div>
-
-
-
 
     <!-- ROW 2: ANSWER KEY, SYLLABUS, ADMISSION -->
     <div class="sarkari-row">
-        <?php render_univindia_box($conn, 'Answer Key', 'answer-key.php'); ?>
-        <?php render_univindia_box($conn, 'Syllabus', 'syllabus.php'); ?>
-        <?php render_univindia_box($conn, 'Admission', 'admission.php'); ?>
+        <?php render_db_box($conn, 'Answer Key', 'answer-key.php'); ?>
+        <?php render_db_box($conn, 'Syllabus', 'syllabus.php'); ?>
+        <?php render_db_box($conn, 'Admission', 'admission.php'); ?>
     </div>
 
     <!-- ROW 3: DOCUMENT, STUDENT TOOLS, TIME TABLE -->
     <div class="sarkari-row">
-        <?php render_univindia_box($conn, 'Document', 'document.php'); ?>
-        <?php render_univindia_box($conn, 'Student Tools', 'student-tools.php'); ?>
-        <?php render_univindia_box($conn, 'Time Table', 'time-table.php'); ?>
+        <?php render_db_box($conn, 'Document', 'document.php'); ?>
+        <?php render_db_box($conn, 'Student Tools', 'student-tools.php'); ?>
+        <?php render_db_box($conn, 'Time Table', 'time-table.php'); ?>
     </div>
 </main>
 
@@ -96,7 +96,7 @@ function render_univindia_box($conn, $catName, $viewMorePage) {
 <section class="seo-info-container">
     <div class="seo-card">
         <h2 class="seo-main-title">Welcome to UnivIndia - Online University & Job Portal</h2>
-        <p class="seo-intro"><strong>univindia.online</strong> is your trusted one-stop destination for the latest educational updates and career opportunities across India. Get real-time updates on <strong>latest educational news</strong> and <strong>Sarkari Jobs</strong>.</p>
+        <p class="seo-intro"><strong>univindia.online</strong> is your trusted one-stop destination for the latest educational updates and career opportunities across India.</p>
         
         <div class="seo-features">
             <div class="feature-item">
@@ -107,7 +107,6 @@ function render_univindia_box($conn, $catName, $viewMorePage) {
                     <li>All University Time Tables</li>
                 </ul>
             </div>
-
             <div class="feature-item">
                 <h4 class="feature-title">Why UnivIndia?</h4>
                 <p class="feature-text">Stay connected with us for the most reliable educational content and job alerts. We provide fast and clean navigation exactly like you naturally expect.</p>
@@ -117,6 +116,5 @@ function render_univindia_box($conn, $catName, $viewMorePage) {
 </section>
 
 <?php
-// 3. Core Footer
 require_once __DIR__ . '/includes/footer.php';
 ?>
