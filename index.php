@@ -92,18 +92,18 @@ function render_univindia_box($conn, $catName, $viewMorePage) {
 <section class="seo-info-container">
     <div class="seo-card">
         <h2 class="seo-main-title">Welcome to UnivIndia - Online University & Job Portal</h2>
-        <p class="seo-intro"><strong>univindia.online</strong> is your trusted one-stop destination for the latest educational updates and career opportunities across India. Get real-time updates on <strong>University Results</strong>, <strong>Sarkari Results</strong>, <strong>Admit Cards</strong>, and <strong>Latest Jobs</strong>.</p>
+        <p class="seo-intro"><strong>univindia.online</strong> is your trusted one-stop destination for the latest educational updates and career opportunities across India. Get real-time updates on <strong>latest educational news</strong> and <strong>Sarkari Jobs</strong>.</p>
         
         <div class="seo-features">
             <div class="feature-item">
                 <h4 class="feature-title">What We Offer</h4>
                 <ul class="feature-list">
-                    <li>UnivIndia Fast Result Engine</li>
                     <li>Latest Sarkari Naukri Updates</li>
-                    <li>Syllabus & Admit Card Downloads</li>
+                    <li>Official Syllabus Downloads</li>
                     <li>All University Time Tables</li>
                 </ul>
             </div>
+
             <div class="feature-item">
                 <h4 class="feature-title">Why UnivIndia?</h4>
                 <p class="feature-text">Stay connected with us for the most reliable educational content and job alerts. We provide fast and clean navigation exactly like you naturally expect.</p>
