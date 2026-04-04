@@ -40,42 +40,11 @@ function render_db_box($conn, $catName, $viewMorePage) {
 ?>
 
 <main>
-    <!-- ROW 1: ADMIT CARD (DIRECT FILE SCAN) & LATEST JOBS (DB) -->
+    <!-- ROW 1: LATEST JOBS -->
     <div class="sarkari-row">
-        
-        <!-- ADMIT CARD SECTION (DIRECT FILE SCAN - NO DATABASE) -->
-        <div class="sarkari-box">
-            <div class="sarkari-box-title"><a href="<?php echo SITE_URL; ?>pages/admit-card.php">Admit Card</a></div>
-            <ul class="sarkari-list">
-                <?php
-                // a. Find all admit card files in pages/ folder
-                $files = glob(__DIR__ . '/pages/*admit-card*.php');
-                
-                if ($files) {
-                    // b. Sort by Modified Time (Newest First)
-                    array_multisort(array_map('filemtime', $files), SORT_DESC, $files);
-                    
-                    // c. Take Top 10
-                    $latestFiles = array_slice($files, 0, 10);
-                    
-                    foreach ($latestFiles as $file) {
-                        $filename = basename($file);
-                        // Make a readable title from filename
-                        $title = str_replace(['-', '.php'], [' ', ''], $filename);
-                        $title = ucwords($title);
-                        
-                        echo '<li><a href="' . SITE_URL . 'pages/' . $filename . '" target="_blank">' . $title . '</a></li>';
-                    }
-                } else {
-                    echo '<li style="color:#888; text-align:center; padding:10px;">No Admit Cards Found</li>';
-                }
-                ?>
-            </ul>
-            <div class="view-more-row"><a href="<?php echo SITE_URL; ?>pages/admit-card.php">View More</a></div>
-        </div>
-
         <?php render_db_box($conn, 'Latest Job', 'latest-job.php'); ?>
     </div>
+
 
     <!-- ROW 2: ANSWER KEY, SYLLABUS, ADMISSION -->
     <div class="sarkari-row">
