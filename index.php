@@ -67,12 +67,11 @@ function render_univindia_box($conn, $catName, $viewMorePage) {
 ?>
 
 <main>
-    <!-- ROW 1: RESULTS, ADMIT CARD, LATEST JOBS -->
+    <!-- ROW 1: LATEST JOBS -->
     <div class="sarkari-row">
-        <?php render_univindia_box($conn, 'Results', 'result.php'); ?>
-        <?php render_univindia_box($conn, 'Admit Card', 'admit-card.php'); ?>
         <?php render_univindia_box($conn, 'Latest Job', 'latest-job.php'); ?>
     </div>
+
 
     <!-- ROW 2: ANSWER KEY, SYLLABUS, ADMISSION -->
     <div class="sarkari-row">
