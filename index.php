@@ -35,21 +35,25 @@ function render_univindia_box($conn, $catName, $viewMorePage) {
                 $rawUrl = $link['url'];
                 $finalUrl = $rawUrl;
 
-                // c. Smart Path Logic (Prevents double pages/ or missing folders)
-                // If it's a relative path...
-                if (stripos($rawUrl, 'http') === false && strpos($rawUrl, '/') !== 0) {
-                    // Check if 'pages/' is already in the URL
-                    if (stripos($rawUrl, 'pages/') === false) {
-                        $finalUrl = BASE_URL . 'pages/' . ltrim($rawUrl, '/');
-                    } else {
-                        // Already has pages/, just prepend BASE_URL
-                        $finalUrl = BASE_URL . ltrim($rawUrl, '/');
+                // c. Definitive Path Logic (Absolute SITE_URL approach)
+                if (stripos($rawUrl, 'http') === 0) {
+                    // Already an absolute URL
+                    $finalUrl = $rawUrl;
+                } else {
+                    // It's a local path. Remove any existing 'pages/' or '/' to starts clean.
+                    $cleanPath = ltrim($rawUrl, '/');
+                    if (stripos($cleanPath, 'pages/') === 0) {
+                        $cleanPath = substr($cleanPath, 6); // Remove 'pages/' from start
                     }
+                    
+                    // Build absolute path pointing directly to pages/ folder
+                    $finalUrl = SITE_URL . 'pages/' . ltrim($cleanPath, '/');
                 }
 
                 echo '    <li><a href="' . $finalUrl . '" target="_blank">' . htmlspecialchars($link['title']) . '</a></li>';
             }
         } else {
+
             echo '    <li style="color:#888; text-align:center; padding:10px;">Updates Coming Soon...</li>';
         }
     } else {
