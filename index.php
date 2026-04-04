@@ -27,14 +27,14 @@ require_once __DIR__ . '/includes/header.php';
                 if ($links && $links->num_rows > 0) {
                     while ($link = $links->fetch_assoc()) {
                         $url = $link['url'];
-                        // Prefix with pages/ if it's a local filename (not starting with http or /)
-                        if (strpos($url, 'http') === false && strpos($url, '/') !== 0) {
-                            $url = BASE_URL . 'pages/' . ltrim($url, '/');
+                        // DB already stores path like "pages/filename.php" or full http URL
+                        // Just prepend BASE_URL for relative paths
+                        if (strpos($url, 'http') === false) {
+                            $url = BASE_URL . ltrim($url, '/');
                         }
                         echo '<li><a href="'.$url.'">'.$link['title'].'</a></li>';
                     }
                 } else {
-
                     echo '<li style="color:#666; text-align:center;">No updates available</li>';
                 }
             } else {
