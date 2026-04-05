@@ -23,11 +23,19 @@ function render_db_box($conn, $catName, $viewMorePage) {
         $linksQuery = $conn->query("SELECT title, url FROM links WHERE category_id = $catId ORDER BY created_at DESC LIMIT 10");
         if ($linksQuery && $linksQuery->num_rows > 0) {
             while ($link = $linksQuery->fetch_assoc()) {
-                $url = $link['url'];
-                // Absolute pathing fix
-                $cleanPath = ltrim($url, '/');
-                if (stripos($cleanPath, 'pages/') === 0) { $cleanPath = substr($cleanPath, 6); }
-                $finalUrl = SITE_URL . 'pages/' . ltrim($cleanPath, '/');
+                $url = trim($link['url']);
+                
+                // If it's already an absolute URL, use it directly
+                if (stripos($url, 'http://') === 0 || stripos($url, 'https://') === 0) {
+                    $finalUrl = $url;
+                } else {
+                    // Absolute pathing fix for relative links
+                    $cleanPath = ltrim($url, '/');
+                    if (stripos($cleanPath, 'pages/') === 0) { 
+                        $cleanPath = substr($cleanPath, 6); 
+                    }
+                    $finalUrl = SITE_URL . 'pages/' . ltrim($cleanPath, '/');
+                }
                 echo '    <li><a href="' . $finalUrl . '" target="_blank">' . htmlspecialchars($link['title']) . '</a></li>';
             }
         } else { echo '    <li style="color:#888; text-align:center; padding:10px;">Updates Coming Soon...</li>'; }
