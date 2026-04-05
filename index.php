@@ -22,12 +22,16 @@ function render_db_box($conn, $catName, $viewMorePage) {
     if ($catId > 0) {
         $linksQuery = $conn->query("SELECT title, url FROM links WHERE category_id = $catId ORDER BY created_at DESC LIMIT 10");
         if ($linksQuery && $linksQuery->num_rows > 0) {
+            $renderedCount = 0;
             while ($link = $linksQuery->fetch_assoc()) {
+                if ($renderedCount >= 10) break;
+                
                 $url = trim($link['url']);
                 
                 // If it's already an absolute URL, use it directly
                 if (stripos($url, 'http://') === 0 || stripos($url, 'https://') === 0) {
                     $finalUrl = $url;
+                    $pathForCheck = parse_url($url, PHP_URL_PATH);
                 } else {
                     // Absolute pathing fix for relative links
                     $cleanPath = ltrim($url, '/');
@@ -35,9 +39,24 @@ function render_db_box($conn, $catName, $viewMorePage) {
                         $cleanPath = substr($cleanPath, 6); 
                     }
                     $finalUrl = SITE_URL . 'pages/' . ltrim($cleanPath, '/');
+                    $pathForCheck = '/pages/' . ltrim($cleanPath, '/');
                 }
+                
+                // Physical File Existence Check to prevent 404 Redirect loops on Live Website
+                $physicalPath = __DIR__ . '/' . ltrim(str_ireplace('/univindia/', '/', $pathForCheck), '/');
+                // Standardize pathing for both local (where '/univindia' is in path) and live
+                $baseDocRoot = __DIR__;
+                $filenameOnly = basename($pathForCheck);
+                $directPhysicalPath = $baseDocRoot . '/pages/' . $filenameOnly;
+                
+                if (!file_exists($directPhysicalPath)) {
+                    continue; // Skip this broken link! Don't show it!
+                }
+
                 echo '    <li><a href="' . $finalUrl . '" target="_blank">' . htmlspecialchars($link['title']) . '</a></li>';
+                $renderedCount++;
             }
+            if ($renderedCount === 0) { echo '    <li style="color:#888; text-align:center; padding:10px;">Updates Coming Soon...</li>'; }
         } else { echo '    <li style="color:#888; text-align:center; padding:10px;">Updates Coming Soon...</li>'; }
     } else { echo '    <li style="color:#888; text-align:center; padding:10px;">Section Under Maintenance</li>'; }
 
