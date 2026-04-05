@@ -3,32 +3,88 @@
  * header.php - Included on every page
  */
 require_once __DIR__ . '/config.php';
+
+// Clean canonical URL - strips index.php and query strings
+$requestUri = strtok($_SERVER['REQUEST_URI'], '?'); // remove query string
+$requestUri = str_replace('/index.php', '/', $requestUri); // strip index.php
+$canonicalUrl = SITE_URL . ltrim($requestUri, '/');
+
+// Detect if we're on an inner page (pages/ directory)
+$isInnerPage = (strpos($requestUri, '/pages/') !== false);
+$pageTitle     = isset($title) ? $title : 'UnivIndia - Official University Portal & Job Notification';
+$pageDesc      = isset($meta_description) ? $meta_description : 'UnivIndia.online provides latest University Results, Board Results, Admit Cards, and Sarkari Job notifications across India.';
+$pageKeywords  = isset($meta_keywords) ? $meta_keywords : 'UnivIndia, Board Result, University Result, Admit Card, Sarkari Naukri';
+$ogImage       = SITE_URL . 'assets/images/india-result-banner.png';
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo isset($title) ? $title : "UnivIndia - Official University Portal & Job Notification"; ?></title>
-    <meta name="description" content="<?php echo isset($meta_description) ? $meta_description : "UnivIndia.online provides latest University Results, Board Results, Admit Cards, and Sarkari Job notifications across India."; ?>">
-    <meta name="keywords" content="<?php echo isset($meta_keywords) ? $meta_keywords : "UnivIndia, Board Result, University Result, Admit Card, Sarkari Naukri"; ?>">
-    <link rel="canonical" href="<?php echo SITE_URL . ltrim($_SERVER['REQUEST_URI'], '/'); ?>">
+    <title><?php echo htmlspecialchars($pageTitle); ?></title>
+    <meta name="description" content="<?php echo htmlspecialchars($pageDesc); ?>">
+    <meta name="keywords" content="<?php echo htmlspecialchars($pageKeywords); ?>">
+    <link rel="canonical" href="<?php echo $canonicalUrl; ?>">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/all-india-result-banner.png">
+    <link rel="shortcut icon" href="<?php echo SITE_URL; ?>assets/images/all-india-result-banner.png">
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="<?php echo isset($title) ? $title : "UnivIndia - Official University Portal"; ?>">
-    <meta property="og:description" content="<?php echo isset($meta_description) ? $meta_description : "Latest University Results & Job Updates."; ?>">
+    <meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+    <meta property="og:description" content="<?php echo htmlspecialchars($pageDesc); ?>">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="<?php echo SITE_URL . ltrim($_SERVER['REQUEST_URI'], '/'); ?>">
+    <meta property="og:url" content="<?php echo $canonicalUrl; ?>">
+    <meta property="og:image" content="<?php echo $ogImage; ?>">
+    <meta property="og:site_name" content="UnivIndia">
+    <meta property="og:locale" content="en_IN">
 
-    <!-- Schema.org JSON-LD -->
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($pageDesc); ?>">
+    <meta name="twitter:image" content="<?php echo $ogImage; ?>">
+    <meta name="twitter:site" content="@univindia">
+
+    <!-- Schema.org JSON-LD: WebSite -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": "UnivIndia",
-      "url": "<?php echo SITE_URL; ?>"
+      "url": "<?php echo SITE_URL; ?>",
+      "description": "<?php echo addslashes($pageDesc); ?>",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "<?php echo SITE_URL; ?>pages/search.php?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
     }
     </script>
+
+<?php if ($isInnerPage): ?>
+    <!-- Schema.org JSON-LD: BreadcrumbList for inner pages -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "<?php echo SITE_URL; ?>"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "<?php echo htmlspecialchars($pageTitle); ?>",
+          "item": "<?php echo $canonicalUrl; ?>"
+        }
+      ]
+    }
+    </script>
+<?php endif; ?>
 
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css">
 
