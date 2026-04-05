@@ -1,10 +1,14 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 
-# 1. Specific Rewrite Rules
+# 1. Remove index.php from URL (clean URL redirect)
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.*)index\.php\ HTTP
+RewriteRule ^(.*)index\.php$ /$1 [R=301,L]
+
+# 2. Specific Rewrite Rules
 RewriteRule ^sitemap\.xml$ sitemap.xml.php [L]
 
-# 2. Redirect 404 / Non-existent files to Home
+# 3. Redirect 404 / Non-existent files to Home
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php [L,QSA,R=301]

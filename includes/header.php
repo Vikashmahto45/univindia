@@ -42,7 +42,7 @@ require_once __DIR__ . '/config.php';
     </header>
 
     <nav>
-        <a href="<?php echo BASE_URL; ?>index.php">Home</a>
+        <a href="<?php echo SITE_URL; ?>">Home</a>
         <a href="<?php echo BASE_URL; ?>pages/latest-job.php">Latest Jobs</a>
         <a href="<?php echo BASE_URL; ?>pages/result.php">Result</a>
         <a href="<?php echo BASE_URL; ?>pages/admit-card.php">Admit Card</a>
