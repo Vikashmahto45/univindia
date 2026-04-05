@@ -20,7 +20,7 @@ function render_db_box($conn, $catName, $viewMorePage) {
     echo '  <ul class="sarkari-list">';
 
     if ($catId > 0) {
-        $linksQuery = $conn->query("SELECT title, url FROM links WHERE category_id = $catId ORDER BY created_at DESC LIMIT 10");
+        $linksQuery = $conn->query("SELECT title, url FROM links WHERE category_id = $catId ORDER BY created_at DESC LIMIT 50");
         if ($linksQuery && $linksQuery->num_rows > 0) {
             $renderedCount = 0;
             while ($link = $linksQuery->fetch_assoc()) {
@@ -29,9 +29,15 @@ function render_db_box($conn, $catName, $viewMorePage) {
                 $url = trim($link['url']);
                 
                 // If it's already an absolute URL, use it directly
+                $isExternal = false;
                 if (stripos($url, 'http://') === 0 || stripos($url, 'https://') === 0) {
                     $finalUrl = $url;
                     $pathForCheck = parse_url($url, PHP_URL_PATH);
+                    $urlHost = parse_url($url, PHP_URL_HOST);
+                    $siteHost = parse_url(SITE_URL, PHP_URL_HOST);
+                    if ($urlHost && $siteHost && stripos($urlHost, $siteHost) === false) {
+                        $isExternal = true;
+                    }
                 } else {
                     // Absolute pathing fix for relative links
                     $cleanPath = ltrim($url, '/');
@@ -42,15 +48,15 @@ function render_db_box($conn, $catName, $viewMorePage) {
                     $pathForCheck = '/pages/' . ltrim($cleanPath, '/');
                 }
                 
-                // Physical File Existence Check to prevent 404 Redirect loops on Live Website
-                $physicalPath = __DIR__ . '/' . ltrim(str_ireplace('/univindia/', '/', $pathForCheck), '/');
-                // Standardize pathing for both local (where '/univindia' is in path) and live
-                $baseDocRoot = __DIR__;
-                $filenameOnly = basename($pathForCheck);
-                $directPhysicalPath = $baseDocRoot . '/pages/' . $filenameOnly;
-                
-                if (!file_exists($directPhysicalPath)) {
-                    continue; // Skip this broken link! Don't show it!
+                if (!$isExternal) {
+                    // Physical File Existence Check to prevent 404 Redirect loops on Live Website
+                    $baseDocRoot = __DIR__;
+                    $filenameOnly = basename($pathForCheck);
+                    $directPhysicalPath = $baseDocRoot . '/pages/' . $filenameOnly;
+                    
+                    if (!file_exists($directPhysicalPath)) {
+                        continue; // Skip this broken internal link! Don't show it!
+                    }
                 }
 
                 echo '    <li><a href="' . $finalUrl . '" target="_blank">' . htmlspecialchars($link['title']) . '</a></li>';
