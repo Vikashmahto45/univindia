@@ -27,8 +27,8 @@ $ogImage       = SITE_URL . 'assets/images/india-result-banner.png';
     <link rel="canonical" href="<?php echo $canonicalUrl; ?>">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/all-india-result-banner.png">
-    <link rel="shortcut icon" href="<?php echo SITE_URL; ?>assets/images/all-india-result-banner.png">
+    <link rel="icon" type="image/png" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
+    <link rel="shortcut icon" href="<?php echo SITE_URL; ?>assets/images/favicon.png">
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
