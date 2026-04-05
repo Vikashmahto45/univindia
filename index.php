@@ -75,7 +75,7 @@ function render_db_box($conn, $catName, $viewMorePage) {
 <main>
     <!-- ROW 1: RESULT, ADMIT CARD, LATEST JOBS -->
     <div class="sarkari-row">
-        <?php render_db_box($conn, 'Result', 'result.php'); ?>
+        <?php render_db_box($conn, 'Results', 'result.php'); ?>
         <?php render_db_box($conn, 'Admit Card', 'admit-card.php'); ?>
         <?php render_db_box($conn, 'Latest Job', 'latest-job.php'); ?>
     </div>
