@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /includes/
+Disallow: /scripts/
+Disallow: /assets/
 
-Sitemap: http://localhost/univindia/sitemap.xml.php
+Sitemap: https://univindia.online/sitemap.xml.php
