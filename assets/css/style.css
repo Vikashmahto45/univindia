@@ -1,72 +1,290 @@
-/* Sarkari Result Style Core Stylesheet */
-* { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, Tahoma, Verdana, sans-serif; }
-body { background-color: #f0f0f0; color: #000; line-height: 1.5; }
-a { text-decoration: none; color: #0000ff; font-weight: bold; }
-a:hover { color: #cc0000; text-decoration: underline; }
+/* 
+ * Premium UI System - Manual Implementation
+ * Focused on Academic Professionalism and AdSense Accessibility
+ */
+:root {
+    --brand-primary: #0a192f;
+    /* Deep Navy for Trust */
+    --brand-secondary: #ffb400;
+    /* Academic Gold for Accent */
+    --brand-success: #10b981;
+    --brand-bg: #f8fafc;
+    --brand-text: #1e293b;
+    --brand-white: #ffffff;
+    --shadow-sm: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+    --radius-md: 12px;
+}
 
-.container { max-width: 1200px; margin: 0 auto; background: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.5); }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-/* Header */
-header { background: #800000; padding: 15px 0; text-align: center; border-bottom: 2px solid #000; }
-header .logo-text { color: #ffffff; font-size: 38px; font-weight: bold; text-shadow: 2px 2px 4px #000; margin-bottom: 2px; }
-header h3 { color: #ffffcc; font-size: 16px; font-weight: bold; text-shadow: 1px 1px 2px #000; }
+body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: var(--brand-bg);
+    color: var(--brand-text);
+    line-height: 1.6;
+}
 
-/* Navigation */
-nav { background: #000000; display: flex; justify-content: center; flex-wrap: wrap; padding: 5px 0; }
-nav a { color: #ffffff; margin: 5px 12px; font-weight: bold; font-size: 14px; text-transform: uppercase; }
-nav a:hover { color: #ffff00; text-decoration: none; }
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
 
-/* Marquee bar */
-.marquee-bar { background: #ffffcc; padding: 5px; border-bottom: 2px solid #000; border-top: 2px solid #000; font-weight: bold; color: #000080; font-size: 15px; }
+/* Header Architecture */
+header.site-header {
+    background: var(--brand-primary);
+    padding: 1rem 0;
+    box-shadow: var(--shadow-sm);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
 
-/* Main Content Wrapper */
-main { padding: 10px; }
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-/* Sarkari Grid Boxes */
-.sarkari-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 10px; }
-.sarkari-box { border: 2px solid #000; background: #fff; }
-.sarkari-box-title { background: #800000; color: #fff; text-align: center; padding: 8px; font-size: 18px; font-weight: bold; border-bottom: 2px solid #000; text-transform: uppercase; }
-.sarkari-box-title a { color: #fff; text-decoration: none; }
-.sarkari-box-title a:hover { text-decoration: underline; color: #ffff00; }
-.sarkari-list { list-style: none; padding: 5px; min-height: 250px; }
-.sarkari-list li { border-bottom: 1px dashed #ccc; padding: 6px 4px; font-size: 14px; }
-.sarkari-list li:last-child { border-bottom: none; }
-.sarkari-list li::before { content: "► "; color: #cc0000; font-size: 12px; }
-.sarkari-list a { color: #0000ff; font-weight: bold; }
-.sarkari-list a:hover { color: #000; text-decoration: underline; }
+.logo a {
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: var(--brand-white);
+    text-decoration: none;
+}
 
-.view-more-row { text-align: right; padding: 5px; }
-.view-more-row a { background: #e0e0e0; color: #000; padding: 3px 8px; border: 1px solid #999; font-size: 12px; text-decoration: none; }
-.view-more-row a:hover { background: #ccc; }
+.logo .accent {
+    color: var(--brand-secondary);
+}
 
-/* SEO Information Section */
-.seo-info-container { padding: 20px; border-top: 2px solid #000; background: #fafafa; }
-.seo-card { text-align: center; }
-.seo-main-title { color: #800000; font-size: 22px; font-weight: bold; margin-bottom: 10px; }
-.seo-intro { margin-bottom: 15px; color: #333; font-size: 14px; }
-.seo-features { display: flex; flex-wrap: wrap; text-align: left; background: #fff; border: 1px solid #ccc; padding: 15px; }
-.feature-item { flex: 1; min-width: 300px; padding: 10px; }
-.feature-title { color: #800000; font-size: 16px; margin-bottom: 10px; font-weight: bold; }
-.feature-list { list-style: none; padding: 0; }
-.feature-list li { margin-bottom: 8px; font-size: 13px; color: #444; }
-.feature-list li::before { content: "★ "; color: #800000; }
-.feature-text { font-size: 13px; color: #444; margin-bottom: 10px; }
+.nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-menu a {
+    color: #94a3b8;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: 0.2s;
+}
+
+.nav-menu a:hover {
+    color: var(--brand-secondary);
+}
+
+.nav-btn {
+    background: var(--brand-secondary);
+    color: var(--brand-primary) !important;
+    padding: 0.6rem 1.25rem;
+    border-radius: 8px;
+    font-weight: 700;
+}
+
+/* Hero Engine */
+.hero-v2 {
+    background: linear-gradient(135deg, #0a192f 0%, #112240 100%);
+    padding: 5rem 0;
+    text-align: center;
+    color: var(--brand-white);
+}
+
+.hero-v2 h1 {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.025em;
+    font-weight: 800;
+}
+
+.hero-v2 p {
+    font-size: 1.25rem;
+    color: #8892b0;
+    max-width: 700px;
+    margin: 0 auto 2.5rem;
+}
+
+.search-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: var(--brand-white);
+    border-radius: 50px;
+    padding: 0.5rem;
+    display: flex;
+    box-shadow: var(--shadow-lg);
+}
+
+.search-container input {
+    flex: 1;
+    border: none;
+    padding: 0 1.5rem;
+    font-size: 1.1rem;
+    outline: none;
+    border-radius: 50px;
+    color: var(--brand-text);
+}
+
+.search-container button {
+    background: var(--brand-primary);
+    color: #fff;
+    border: none;
+    padding: 0.75rem 2rem;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+/* Utility Cards */
+.utility-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: -3rem;
+}
+
+.u-card {
+    background: var(--brand-white);
+    padding: 2.5rem;
+    border-radius: var(--radius-md);
+    text-align: center;
+    box-shadow: var(--shadow-lg);
+    transition: transform 0.3s;
+    border: 1px solid #e2e8f0;
+}
+
+.u-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--brand-secondary);
+}
+
+.u-card i {
+    font-size: 2.5rem;
+    color: var(--brand-secondary);
+    margin-bottom: 1.25rem;
+}
+
+.u-card h3 {
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.u-card p {
+    font-size: 0.9rem;
+    color: #64748b;
+}
+
+/* News Ticker */
+.news-area {
+    padding: 4rem 0;
+}
+
+.news-box {
+    background: var(--brand-white);
+    border-radius: var(--radius-md);
+    padding: 2rem;
+    box-shadow: var(--shadow-sm);
+}
+
+.news-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid var(--brand-bg);
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.news-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid #f1f5f9;
+}
+
+.badge-new {
+    background: #ef4444;
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 800;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+}
+
+.news-item a {
+    font-weight: 600;
+    color: var(--brand-text);
+    text-decoration: none;
+}
+
+.news-item a:hover {
+    color: var(--brand-secondary);
+}
 
 /* Footer */
-footer { background: #000000; color: #fff; padding: 20px; border-top: 5px solid #800000; text-align: center; }
-.footer-links { margin-bottom: 20px; }
-.footer-links h4 { color: #ffff00; margin-bottom: 10px; font-size: 16px; border-bottom: 1px dashed #444; padding-bottom: 5px; display: inline-block; }
-.footer-links ul { list-style: none; display: flex; justify-content: center; flex-wrap: wrap; }
-.footer-links li { margin: 5px 15px; }
-.footer-links a { color: #fff; font-size: 14px; font-weight: normal; }
-.footer-links a:hover { color: #ffff00; text-decoration: underline; }
-.footer-bottom { border-top: 1px solid #333; padding-top: 10px; font-size: 12px; color: #aaa; }
-
-@media (max-width: 900px) {
-    .sarkari-row { grid-template-columns: repeat(2, 1fr); }
+footer.site-footer {
+    background: var(--brand-primary);
+    color: #8892b0;
+    padding: 5rem 0 2rem;
+    margin-top: 5rem;
 }
-@media (max-width: 600px) {
-    .sarkari-row { grid-template-columns: 1fr; }
-    header .logo-text { font-size: 28px; }
-    nav a { margin: 5px 8px; font-size: 12px; }
+
+.footer-cols {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1.2fr;
+    gap: 4rem;
+    margin-bottom: 4rem;
+}
+
+.footer-cols h4 {
+    color: var(--brand-white);
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+}
+
+.footer-cols ul {
+    list-style: none;
+}
+
+.footer-cols ul li {
+    margin-bottom: 0.75rem;
+}
+
+.footer-cols a {
+    color: #8892b0;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.footer-cols a:hover {
+    color: var(--brand-secondary);
+}
+
+.footer-bottom {
+    text-align: center;
+    border-top: 1px solid #233554;
+    padding-top: 2rem;
+    font-size: 0.85rem;
+}
+
+@media (max-width: 768px) {
+    .nav-menu {
+        display: none;
+    }
+
+    .hero-v2 h1 {
+        font-size: 2rem;
+    }
+
+    .footer-cols {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+    }
 }

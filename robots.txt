@@ -1,7 +1,8 @@
 User-agent: *
 Allow: /
-Disallow: /includes/
-Disallow: /scripts/
-Disallow: /assets/
+Allow: /mgsu/
 
-Sitemap: https://univindia.online/sitemap.xml.php
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://univindia.online/sitemap.xml
