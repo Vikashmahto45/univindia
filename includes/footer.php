@@ -5,12 +5,12 @@
         <p style="max-width: 600px; margin: 0 auto;">Your premium source for MGSU Results, Admit Cards, and Educational Updates. Providing expert guidance for Maharaja Ganga Singh University students.</p>
         
         <div class="footer-nav">
-            <a href="<?php echo htmlspecialchars($site_url); ?>/index.php">Home</a>
-            <a href="<?php echo htmlspecialchars($site_url); ?>/mgsu-results.php">MGSU Results</a>
-            <a href="<?php echo htmlspecialchars($site_url); ?>/about-us.php">About Us</a>
-            <a href="<?php echo htmlspecialchars($site_url); ?>/contact-us.php">Contact Us</a>
-            <a href="<?php echo htmlspecialchars($site_url); ?>/privacy-policy.php">Privacy Policy</a>
-            <a href="<?php echo htmlspecialchars($site_url); ?>/terms.php">Terms of Service</a>
+            <a href="index.php">Home</a>
+            <a href="mgsu-results.php">MGSU Results</a>
+            <a href="about-us.php">About Us</a>
+            <a href="contact-us.php">Contact Us</a>
+            <a href="privacy-policy.php">Privacy Policy</a>
+            <a href="terms.php">Terms of Service</a>
         </div>
         
         <span class="copyright">

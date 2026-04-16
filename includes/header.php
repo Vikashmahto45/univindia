@@ -16,7 +16,7 @@ require_once 'config.php';
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Outfit:wght@500;700;800&display=swap" rel="stylesheet">
     
     <!-- Link to premium styles -->
-    <link rel="stylesheet" href="<?php echo htmlspecialchars($site_url); ?>/assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 
     <!-- AdSense E-E-A-T Schema Integration -->
     <script type="application/ld+json">
