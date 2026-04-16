@@ -1,40 +1,22 @@
-<footer class="site-footer">
-    <div class="container">
-        <div class="footer-cols">
-            <div class="f-about">
-                <h4>About UnivIndia</h4>
-                <p>UnivIndia is an independent educational portal focusing on Maharaja Ganga Singh University (MGSU)
-                    academic updates. We help students find their results, exam forms, and syllabus quickly.</p>
-            </div>
-            <div class="f-links">
-                <h4>Quick Access</h4>
-                <ul>
-                    <li><a href="<?php echo SITE_URL; ?>/about-us">About Us</a></li>
-                    <li><a href="<?php echo SITE_URL; ?>/privacy-policy">Privacy Policy</a></li>
-                    <li><a href="<?php echo SITE_URL; ?>/contact-us">Contact Us</a></li>
-                    <li><a href="<?php echo SITE_URL; ?>/disclaimer">Disclaimer</a></li>
-                </ul>
-            </div>
-            <div class="f-contact">
-                <h4>University Help</h4>
-                <ul>
-                    <li><i class="fas fa-phone" style="color:var(--brand-secondary);"></i>
-                        <?php echo HELPLINE_NUMBER; ?>
-                    </li>
-                    <li><i class="fas fa-globe" style="color:var(--brand-secondary);"></i>
-                        <?php echo OFFICIAL_DOMAIN; ?>
-                    </li>
-                </ul>
-            </div>
+<?php require_once 'config.php'; ?>
+<footer>
+    <div class="nav-container" style="flex-direction: column;">
+        <h2 class="logo" style="margin-bottom: 20px;">UnivIndia</h2>
+        <p style="max-width: 600px; margin: 0 auto;">Your premium source for MGSU Results, Admit Cards, and Educational Updates. Providing expert guidance for Maharaja Ganga Singh University students.</p>
+        
+        <div class="footer-nav">
+            <a href="<?php echo htmlspecialchars($site_url); ?>/index.php">Home</a>
+            <a href="<?php echo htmlspecialchars($site_url); ?>/mgsu-results.php">MGSU Results</a>
+            <a href="<?php echo htmlspecialchars($site_url); ?>/about-us.php">About Us</a>
+            <a href="<?php echo htmlspecialchars($site_url); ?>/contact-us.php">Contact Us</a>
+            <a href="<?php echo htmlspecialchars($site_url); ?>/privacy-policy.php">Privacy Policy</a>
+            <a href="<?php echo htmlspecialchars($site_url); ?>/terms.php">Terms of Service</a>
         </div>
-        <div class="footer-bottom">
-            <p>&copy;
-                <?php echo date('Y'); ?> UnivIndia.online. Not an official University website. All results are
-                provisional.
-            </p>
-        </div>
+        
+        <span class="copyright">
+            &copy; <?php echo date("Y"); ?> UnivIndia. All Rights Reserved. Not affiliated officially with MGSU Bikaner.
+        </span>
     </div>
 </footer>
 </body>
-
 </html>

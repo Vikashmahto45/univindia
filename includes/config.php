@@ -1,17 +1,18 @@
 <?php
-/**
- * Manual Configuration - univindia.online
- * Research Date: April 15, 2026
- * Current Session: 2025-26
- */
+// includes/config.php
+// Centralized SEO Engine
 
-define('SITE_NAME', 'UnivIndia');
-define('SITE_URL', 'https://univindia.online');
-define('UNIVERSITY_NAME', 'Maharaja Ganga Singh University, Bikaner');
-define('HELPLINE_NUMBER', '0151-2212044'); // Verified official helpline
-define('OFFICIAL_DOMAIN', 'mgsubikaner.ac.in');
+$default_meta_title = "UnivIndia - Expert MGSU Results, Admit Card & Syllabus Portal";
+$default_meta_description = "UnivIndia is the premier educational portal for MGSU results, admit cards, exam time tables, syllabus, and university news. Get fast, reliable, and expert-curated educational updates.";
+$default_meta_keywords = "UnivIndia, MGSU Results, Admit Card, MGSU Bikaner, Syllabus, Exam Form, Time Table";
 
-// AdSense SEO Defaults
-define('DEFAULT_DESC', 'Latest MGSU Bikaner Results 2026, Admit Cards, and Exam Forms. Verified updates for BA, BSc, BCom, MA, MSc students of Maharaja Ganga Singh University.');
-define('DEFAULT_KEYWORDS', 'mgsu bikaner, mgsu result 2026, mgsu admit card 2026, univindia mgsu, mgsu bikaner official site');
+$meta_title = isset($meta_title) ? $meta_title : $default_meta_title;
+$meta_description = isset($meta_description) ? $meta_description : $default_meta_description;
+$meta_keywords = isset($meta_keywords) ? $meta_keywords : $default_meta_keywords;
+
+// Define base URL for relative routing to ensure no broken links
+$protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
+$domainName = $_SERVER['HTTP_HOST'];
+$site_url = $protocol . $domainName . "/univindia";
+
 ?>
