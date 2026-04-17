@@ -7,8 +7,11 @@ $domainName = $_SERVER['HTTP_HOST'];
 $base_url = $protocol . $domainName . "/univindia";
 
 $pages = [
-    '/index.php',
+    '/',
     '/mgsu-results.php',
+    '/admit-card.php',
+    '/syllabus.php',
+    '/time-table.php',
     '/about-us.php',
     '/contact-us.php',
     '/privacy-policy.php',
@@ -23,7 +26,7 @@ foreach ($pages as $page) {
     echo "      <loc>" . htmlspecialchars($base_url . $page) . "</loc>\n";
     echo "      <lastmod>" . date('Y-m-d') . "</lastmod>\n";
     echo "      <changefreq>weekly</changefreq>\n";
-    if($page === '/index.php' || $page === '/mgsu-results.php') {
+    if($page === '/' || $page === '/mgsu-results.php' || $page === '/admit-card.php') {
         echo "      <priority>1.0</priority>\n";
     } else {
         echo "      <priority>0.5</priority>\n";

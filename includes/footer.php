@@ -5,8 +5,11 @@
         <p style="max-width: 600px; margin: 0 auto;">Your premium source for MGSU Results, Admit Cards, and Educational Updates. Providing expert guidance for Maharaja Ganga Singh University students.</p>
         
         <div class="footer-nav">
-            <a href="index.php">Home</a>
+            <a href="./">Home</a>
             <a href="mgsu-results.php">MGSU Results</a>
+            <a href="admit-card.php">Admit Card</a>
+            <a href="syllabus.php">Syllabus</a>
+            <a href="time-table.php">Time Table</a>
             <a href="about-us.php">About Us</a>
             <a href="contact-us.php">Contact Us</a>
             <a href="privacy-policy.php">Privacy Policy</a>

@@ -74,14 +74,14 @@ include 'includes/header.php';
         <!-- Quick Server Links Grid -->
         <h3 style="margin-bottom: 20px; text-align: center;">Quick Server Access Links</h3>
         <div class="grid-nav">
-            <a href="#" class="grid-btn">BA 1st Year Result</a>
-            <a href="#" class="grid-btn">BA 2nd Year Result</a>
-            <a href="#" class="grid-btn">BA 3rd Year Result</a>
-            <a href="#" class="grid-btn">B.Sc 1st Year Result</a>
-            <a href="#" class="grid-btn">B.Sc 2nd Year Result</a>
-            <a href="#" class="grid-btn">B.Sc Final Result</a>
-            <a href="#" class="grid-btn">B.Com Result (All)</a>
-            <a href="#" class="grid-btn">M.A Final Result</a>
+            <a href="mgsu-results.php?class=BA1" class="grid-btn">BA 1st Year Result</a>
+            <a href="mgsu-results.php?class=BA2" class="grid-btn">BA 2nd Year Result</a>
+            <a href="mgsu-results.php?class=BA3" class="grid-btn">BA 3rd Year Result</a>
+            <a href="mgsu-results.php?class=BSC1" class="grid-btn">B.Sc 1st Year Result</a>
+            <a href="mgsu-results.php?class=BSC2" class="grid-btn">B.Sc 2nd Year Result</a>
+            <a href="mgsu-results.php?class=BSC3" class="grid-btn">B.Sc Final Result</a>
+            <a href="mgsu-results.php?class=BCOM" class="grid-btn">B.Com Result (All)</a>
+            <a href="mgsu-results.php?class=MA" class="grid-btn">M.A Final Result</a>
         </div>
 
         <!-- SEO Content Retained Below Tools for AdSense -->
@@ -128,14 +128,14 @@ include 'includes/header.php';
     <div class="sidebar">
         <h3>Useful Resources</h3>
         <ul>
-            <li><a href="index.php">Home Page</a></li>
-            <li><a href="#">BA Part 1 Results</a></li>
-            <li><a href="#">BA Part 2 Results</a></li>
-            <li><a href="#">BA Part 3 Results</a></li>
-            <li><a href="#">B.Sc All Years Results</a></li>
-            <li><a href="#">PG Course Results</a></li>
-            <li><a href="#">Revaluation Guide</a></li>
-            <li><a href="#">Download Marksheets</a></li>
+            <li><a href="./">Home Page</a></li>
+            <li><a href="mgsu-results.php?class=BA1">BA Part 1 Results</a></li>
+            <li><a href="mgsu-results.php?class=BA2">BA Part 2 Results</a></li>
+            <li><a href="mgsu-results.php?class=BA3">BA Part 3 Results</a></li>
+            <li><a href="mgsu-results.php?class=BSC">B.Sc All Years Results</a></li>
+            <li><a href="mgsu-results.php?class=PG">PG Course Results</a></li>
+            <li><a href="admit-card.php">Download Admit Cards</a></li>
+            <li><a href="syllabus.php">Syllabus PDF</a></li>
             <li><a href="contact-us.php">Contact UnivIndia</a></li>
         </ul>
     </div>

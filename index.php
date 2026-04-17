@@ -53,15 +53,15 @@ include 'includes/header.php';
         <h3>Quick Links</h3>
         <ul>
             <li><a href="mgsu-results.php">Main Result Portal</a></li>
-            <li><a href="#">BA Results</a></li>
-            <li><a href="#">B.Sc Results</a></li>
-            <li><a href="#">B.Com Results</a></li>
-            <li><a href="#">MA Results</a></li>
-            <li><a href="#">Latest Admit Cards</a></li>
-            <li><a href="#">Download Syllabus PDF</a></li>
-            <li><a href="#">University Time Table</a></li>
-            <li><a href="#">Old Question Papers</a></li>
-            <li><a href="#">Help & Support</a></li>
+            <li><a href="mgsu-results.php?type=BA">BA Results</a></li>
+            <li><a href="mgsu-results.php?type=BSC">B.Sc Results</a></li>
+            <li><a href="mgsu-results.php?type=BCOM">B.Com Results</a></li>
+            <li><a href="mgsu-results.php?type=MA">MA Results</a></li>
+            <li><a href="admit-card.php">Latest Admit Cards</a></li>
+            <li><a href="syllabus.php">Download Syllabus PDF</a></li>
+            <li><a href="time-table.php">University Time Table</a></li>
+            <li><a href="old-papers.php">Old Question Papers</a></li>
+            <li><a href="contact-us.php">Help & Support</a></li>
         </ul>
     </div>
 </div>
