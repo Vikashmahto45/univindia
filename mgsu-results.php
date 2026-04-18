@@ -13,14 +13,13 @@ include 'includes/header.php';
 <div class="container">
     <div class="article-content" style="padding-bottom: 0;">
         
-        <!-- Live Interactive Tool via Official Iframe -->
         <div class="result-form-container" style="padding: 10px; overflow: hidden;">
             <div class="iframe-crop-container">
-                <iframe src="https://www.univindia.net/MGSURES/" class="live-iframe" id="resultIframe"></iframe>
+                <iframe src="https://www.univindia.net/" class="live-iframe" id="resultIframe"></iframe>
             </div>
             <div class="iframe-fallback">
-                <p>If the tool doesn't load above, click the button below to open the official MGSU portal.</p>
-                <a href="https://www.univindia.net/MGSURES/" target="_blank" class="btn-primary">Open Official MGSU Results</a>
+                <p>If the result tool doesn't load above, click the button below to open the official MGSU portal.</p>
+                <a href="https://www.univindia.net/" target="_blank" class="btn-primary">Open Official MGSU Portal</a>
             </div>
         </div>
 

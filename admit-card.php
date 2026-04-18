@@ -16,14 +16,13 @@ include 'includes/header.php';
         
         <p>Are you preparing for the Maharaja Ganga Singh University (MGSU) examinations? One of the most critical documents you need is the <strong>MGSU admit card</strong>. Without this hall ticket, students are strictly prohibited from entering the examination center. At <strong>UnivIndia</strong>, we provide a streamlined, high-speed portal to download your admit card without the usual technical glitches associated with high-traffic university servers.</p>
 
-        <!-- Live Interactive Tool via Official Iframe -->
         <div class="result-form-container" style="padding: 10px; overflow: hidden;">
             <div class="iframe-crop-container">
-                <iframe src="https://www.univindia.net/admitcard.php" class="live-iframe" id="admitIframe"></iframe>
+                <iframe src="https://www.univindia.net/" class="live-iframe" id="admitIframe"></iframe>
             </div>
             <div class="iframe-fallback">
                 <p>If the admit card tool doesn't load above, click the button below to open the official MGSU portal directly.</p>
-                <a href="https://www.univindia.net/admitcard.php" target="_blank" class="btn-primary">Download Official MGSU Admit Card</a>
+                <a href="https://www.univindia.net/" target="_blank" class="btn-primary">Open Official MGSU Portal</a>
             </div>
         </div>
 
