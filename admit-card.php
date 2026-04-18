@@ -16,33 +16,15 @@ include 'includes/header.php';
         
         <p>Are you preparing for the Maharaja Ganga Singh University (MGSU) examinations? One of the most critical documents you need is the <strong>MGSU admit card</strong>. Without this hall ticket, students are strictly prohibited from entering the examination center. At <strong>UnivIndia</strong>, we provide a streamlined, high-speed portal to download your admit card without the usual technical glitches associated with high-traffic university servers.</p>
 
-        <div class="result-form-container" style="background: rgba(var(--primary-rgb), 0.05); border: 2px solid var(--primary-color);">
-            <h2 class="result-form-title">Download Admit Card</h2>
-            <form action="#" method="POST">
-                <div class="form-group">
-                    <label>Select Course Type</label>
-                    <select class="form-control">
-                        <option>Undergraduate (UG)</option>
-                        <option>Postgraduate (PG)</option>
-                        <option>Professional</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label>Select Category</label>
-                    <select class="form-control">
-                        <option>Regular</option>
-                        <option>Private</option>
-                        <option>Ex-Student</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label>Registration/Form Number</label>
-                    <input type="text" class="form-control" placeholder="Enter Form Number">
-                </div>
-                <div style="margin-top: 25px;">
-                    <button type="submit" class="btn-primary">Download Hall Ticket</button>
-                </div>
-            </form>
+        <!-- Live Interactive Tool via Official Iframe -->
+        <div class="result-form-container" style="padding: 10px; overflow: hidden;">
+            <div class="iframe-crop-container">
+                <iframe src="https://www.univindia.net/admitcard.php" class="live-iframe" id="admitIframe"></iframe>
+            </div>
+            <div class="iframe-fallback">
+                <p>If the admit card tool doesn't load above, click the button below to open the official MGSU portal directly.</p>
+                <a href="https://www.univindia.net/admitcard.php" target="_blank" class="btn-primary">Download Official MGSU Admit Card</a>
+            </div>
         </div>
 
         <h2>Detailed Instructions for Downloading MGSU Bikaner Admit Card</h2>

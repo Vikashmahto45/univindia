@@ -13,62 +13,15 @@ include 'includes/header.php';
 <div class="container">
     <div class="article-content" style="padding-bottom: 0;">
         
-        <!-- Interactive Tool Interface (Fake Form via CSS/HTML Only) -->
-        <div class="result-form-container">
-            <h2 class="result-form-title">Check Provisional Result</h2>
-            <form action="#" method="GET">
-                <div class="form-group">
-                    <label for="examYear">Select Result Exam Year</label>
-                    <select class="form-control" id="examYear" name="year">
-                        <option value="2024">2024</option>
-                        <option value="2023">2023</option>
-                        <option value="2022">2022</option>
-                    </select>
-                </div>
-
-                <div class="form-group">
-                    <label for="resultType">Select Result Type</label>
-                    <select class="form-control" id="resultType" name="type">
-                        <option value="Main">Main</option>
-                        <option value="Revaluation">Revaluation</option>
-                        <option value="Retotalling">Retotalling</option>
-                        <option value="Supplementary">Supplementary</option>
-                    </select>
-                </div>
-
-                <div class="form-group">
-                    <label for="courseType">Select UG/PG/Other Courses</label>
-                    <select class="form-control" id="courseType" name="course_type">
-                        <option value="UG">UG (Under Graduate)</option>
-                        <option value="PG">PG (Post Graduate)</option>
-                        <option value="Prof">Professional Courses</option>
-                        <option value="Diploma">Diploma Courses</option>
-                    </select>
-                </div>
-                
-                <div class="form-group">
-                    <label for="className">Select Class for Result</label>
-                    <select class="form-control" id="className" name="class_name">
-                        <option value="">-- Select Class --</option>
-                        <option value="BA1">B.A Part-I Exam</option>
-                        <option value="BA2">B.A Part-II Exam</option>
-                        <option value="BA3">B.A Part-III Exam</option>
-                        <option value="BSC1">B.Sc Part-I Exam</option>
-                        <option value="BSC2">B.Sc Part-II Exam</option>
-                        <option value="BSC3">B.Sc Part-III Exam</option>
-                        <option value="BCOM">B.Com All Years Exam</option>
-                    </select>
-                </div>
-
-                <div class="form-group">
-                    <label for="rollNo">Enter Roll No.</label>
-                    <input type="text" class="form-control" id="rollNo" name="roll" placeholder="E.g. 123456" required>
-                </div>
-
-                <div style="margin-top: 25px;">
-                    <button type="submit" class="btn-primary">Proceed For Result</button>
-                </div>
-            </form>
+        <!-- Live Interactive Tool via Official Iframe -->
+        <div class="result-form-container" style="padding: 10px; overflow: hidden;">
+            <div class="iframe-crop-container">
+                <iframe src="https://www.univindia.net/MGSURES/" class="live-iframe" id="resultIframe"></iframe>
+            </div>
+            <div class="iframe-fallback">
+                <p>If the tool doesn't load above, click the button below to open the official MGSU portal.</p>
+                <a href="https://www.univindia.net/MGSURES/" target="_blank" class="btn-primary">Open Official MGSU Results</a>
+            </div>
         </div>
 
         <!-- Quick Server Links Grid -->
