@@ -31,10 +31,11 @@ foreach ($pages as $page) {
     echo "      <loc>" . htmlspecialchars($base_url . $page) . "</loc>\n";
     echo "      <lastmod>" . date('Y-m-d') . "</lastmod>\n";
     echo "      <changefreq>weekly</changefreq>\n";
-    if($page === '/' || $page === '/mgsu-results.php' || $page === '/admit-card.php') {
-        echo "      <priority>1.0</priority>\n";
+    $high_priority = ['/', '/mgsu-results.php', '/mgsu-ba-results.php', '/mgsu-bsc-results.php', '/mgsu-bcom-results.php', '/mgsu-ma-msc-results.php', '/admit-card.php'];
+    if(in_array($page, $high_priority)) {
+        echo "      <priority>0.9</priority>\n";
     } else {
-        echo "      <priority>0.5</priority>\n";
+        echo "      <priority>0.6</priority>\n";
     }
     echo "  </url>\n";
 }
