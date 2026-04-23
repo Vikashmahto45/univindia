@@ -12,6 +12,7 @@ $pages = [
     '/admit-card.php',
     '/syllabus.php',
     '/time-table.php',
+    '/old-papers.php',
     '/about-us.php',
     '/contact-us.php',
     '/privacy-policy.php',
