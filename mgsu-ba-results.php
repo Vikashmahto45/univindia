@@ -26,18 +26,43 @@ include 'includes/header.php';
             </div>
         </div>
 
-        <h2>How to Check MGSU BA 1st, 2nd & 3rd Year Result?</h2>
-        <p>Students can check their <strong>MGSU BA Part 1 Result</strong> or higher years by following these simple steps:</p>
-        <ol>
-            <li>Select the year of exam (2023-24).</li>
-            <li>Choose Course Type as 'UG'.</li>
-            <li>Select your specific class (BA Part I, II, or III).</li>
-            <li>Enter your Exam Roll Number.</li>
-            <li>Download the provisional digital marksheet.</li>
-        </ol>
+        <h2>Section 1: In-Depth Understanding of MGSU BA Examination Cycle</h2>
+        <p>The Bachelor of Arts (BA) program at महाराजा गंगा सिंह विश्वविद्यालय (MGSU) is the backbone of the region's academic landscape. With thousands of students appearing from Bikaner, Churu, Hanumangarh, and Sri Ganganagar, the competition and the anticipation around results are immense. The examinations are typically held in March/April, and the <strong>MGSU BA results</strong> are released in a phased manner starting with the Final Year, followed by the Second and First years.</p>
+        
+        <h3>Why Final Year Results are Declared First?</h3>
+        <p>The university prioritizes the <strong>MGSU BA 3rd Year result</strong> because it is a prerequisite for postgraduate admissions and competitive exams like the RAS, SSC, and Banking. Students need their degree marksheets to apply for higher education or professional certificates. UnivIndia ensures that as soon as the university data nodes update, our portal reflects the availability index for these results.</p>
 
-        <h2>MGSU BA Result 2024 Name Wise</h2>
-        <p>If you have forgotten your roll number, don't worry. The <strong>MGSU BA result 2024 name wise</strong> search feature is available. Simply select the 'By Name & Father's Name' option on the panel above. This is especially helpful for regular students who might have misplaced their admit cards before the results were announced.</p>
+        <h2>Section 2: How to Calculate Your MGSU BA Division and Marks</h2>
+        <p>Understanding the division system is crucial for your professional portfolio. Many government jobs in Rajasthan require a specific minimum division for eligibility. Here is how MGSU calculates your BA result status:</p>
+        <ul>
+            <li><strong>First Division:</strong> Awarded if the student secures 60% or more marks in aggregate across all three years.</li>
+            <li><strong>Second Division:</strong> Awarded if the student secures 48% or more but less than 60% marks.</li>
+            <li><strong>Third Division:</strong> Awarded if the student secures 36% or more but less than 48% marks.</li>
+            <li><strong>Fail:</strong> If the student secures less than 36% in aggregate or fails in more than three subjects.</li>
+        </ul>
+        <p>Note: Regular students must pass their compulsory subjects (General Hindi, General English, EVS, and Elementary Computer) during any of the three years to be eligible for a final degree certificate.</p>
+
+        <h2>Section 3: Mandatory Steps for "Name Wise" Result Verification</h2>
+        <p>A common issue for students is losing their roll numbers after the exams are over. UnivIndia specializes in providing the <strong>MGSU BA result 2024 name wise</strong> pathway. This allows you to check your marks by just providing your legal name and your father's name as registered on the university enrollment form. This feature is a lifesaver during the peak anxiety of result day.</p>
+
+        <h2>Section 4: Section 4: Detailed Revaluation and Academic Recourse</h2>
+        <p>If your <strong>MGSU Bikaner BA Result</strong> is not as per your expectations, the university offers a legal revaluation process. This is a formal request where an examiner (usually different from the original one) reviews your answer script for missed marks or grading errors.</p>
+        
+        <p><strong>Rules for BA Revaluation:</strong></p>
+        <ul>
+            <li>You can apply for revaluation in up to 3 papers or 50% of the theory papers (whichever is less).</li>
+            <li>The online application form must be submitted within 15 days of the online result declaration.</li>
+            <li>A fee of approximately ₹300 per subject is applicable.</li>
+            <li>The university issues a revised marksheet only if there is a significant change in the marks.</li>
+        </ul>
+
+        <h2>Section 5: Career Opportunities After BA from MGSU</h2>
+        <p>Graduating with a BA from MGSU is just the beginning. The region offers several opportunities:</p>
+        <ul>
+            <li><strong>Rajasthan Administrative Services (RAS):</strong> Start your preparation once you clear your <strong>MGSU BA Final Year result</strong>. The humanities subjects you studied provide a strong base for the optional papers.</li>
+            <li><strong>B.Ed and Teaching:</strong> After BA, many students pursue B.Ed to become teachers in government schools across Rajasthan.</li>
+            <li><strong>Post-Graduation:</strong> You can pursue MA in subjects like History, Geography, or Political Science from MGSU itself.</li>
+        </ul>
 
         <!-- FAQ Section for BA Results -->
         <div class="faq-section">

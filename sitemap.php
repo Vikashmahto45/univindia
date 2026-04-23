@@ -11,6 +11,8 @@ $pages = [
     '/mgsu-results.php',
     '/mgsu-ba-results.php',
     '/mgsu-bsc-results.php',
+    '/mgsu-bcom-results.php',
+    '/mgsu-ma-msc-results.php',
     '/admit-card.php',
     '/syllabus.php',
     '/time-table.php',
