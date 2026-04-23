@@ -13,6 +13,6 @@ $meta_keywords = isset($meta_keywords) ? $meta_keywords : $default_meta_keywords
 // Define base URL for relative routing to ensure no broken links
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
 $domainName = $_SERVER['HTTP_HOST'];
-$site_url = $protocol . $domainName . "/univindia";
+$site_url = $protocol . $domainName;
 
 ?>

@@ -4,7 +4,7 @@ header("Content-Type: application/xml; charset=utf-8");
 
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
 $domainName = $_SERVER['HTTP_HOST'];
-$base_url = $protocol . $domainName . "/univindia";
+$base_url = $protocol . $domainName;
 
 $pages = [
     '/',
