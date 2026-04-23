@@ -9,6 +9,8 @@ $base_url = $protocol . $domainName;
 $pages = [
     '/',
     '/mgsu-results.php',
+    '/mgsu-ba-results.php',
+    '/mgsu-bsc-results.php',
     '/admit-card.php',
     '/syllabus.php',
     '/time-table.php',

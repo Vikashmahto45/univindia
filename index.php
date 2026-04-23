@@ -133,8 +133,8 @@ include 'includes/header.php';
         <h3>Quick Links</h3>
         <ul>
             <li><a href="mgsu-results.php" title="Main MGSU Result Portal">Main Result Portal</a></li>
-            <li><a href="mgsu-results.php?type=BA" title="MGSU BA Results">BA Results</a></li>
-            <li><a href="mgsu-results.php?type=BSC" title="MGSU B.Sc Results">B.Sc Results</a></li>
+            <li><a href="mgsu-ba-results.php" title="MGSU BA Results">BA Results 2024 (1st, 2nd, 3rd Year)</a></li>
+            <li><a href="mgsu-bsc-results.php" title="MGSU B.Sc Results">B.Sc Results 2024 (Science)</a></li>
             <li><a href="mgsu-results.php?type=BCOM" title="MGSU B.Com Results">B.Com Results</a></li>
             <li><a href="mgsu-results.php?type=MA" title="MGSU MA Results">MA Results</a></li>
             <li><a href="admit-card.php" title="Download MGSU Admit Cards 2024">Latest Admit Cards</a></li>

@@ -61,8 +61,8 @@ require_once 'config.php';
         <div class="ticker-label">Latest Updates</div>
         <div class="ticker-content">
             <div class="ticker-scroll">
-                <span>🔥 <a href="mgsu-results.php" title="Check MGSU Results">MGSU Result 2024 (BA, BSc, BCom) expected soon. Watch this space for direct links!</a></span>
-                <span>🔥 <a href="syllabus.php" title="MGSU Syllabus PDF">New MGSU Syllabus for 2024-25 session is now available for download.</a></span>
+                <span>🔥 <a href="mgsu-ba-results.php" title="MGSU BA Results">MGSU BA Part 1, 2, 3 Result 2024 expected soon. Click here for BA links!</a></span>
+                <span>🔥 <a href="mgsu-bsc-results.php" title="MGSU BSc Results">Latest updates on MGSU B.Sc (Science) Results 2024. Check Marksheet.</a></span>
                 <span>🔥 <a href="time-table.php" title="MGSU Exam Date Sheet">MGSU Bikaner Main Exam Time Table 2024 has been released. Check dates here.</a></span>
             </div>
         </div>
