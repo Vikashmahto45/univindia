@@ -19,21 +19,21 @@ include 'includes/header.php';
             </div>
             <div class="iframe-fallback">
                 <p>If the result tool doesn't load above, click the button below to open the official MGSU portal.</p>
-                <a href="https://www.univindia.net/" target="_blank" class="btn-primary">Open Official MGSU Portal</a>
+                <a href="https://www.univindia.net/" target="_blank" class="btn-primary" title="Go to Official MGSU Result Website">Open Official MGSU Portal</a>
             </div>
         </div>
 
         <!-- Quick Server Links Grid -->
         <h3 style="margin-bottom: 20px; text-align: center;">Quick Server Access Links</h3>
         <div class="grid-nav">
-            <a href="mgsu-results.php?class=BA1" class="grid-btn">BA 1st Year Result</a>
-            <a href="mgsu-results.php?class=BA2" class="grid-btn">BA 2nd Year Result</a>
-            <a href="mgsu-results.php?class=BA3" class="grid-btn">BA 3rd Year Result</a>
-            <a href="mgsu-results.php?class=BSC1" class="grid-btn">B.Sc 1st Year Result</a>
-            <a href="mgsu-results.php?class=BSC2" class="grid-btn">B.Sc 2nd Year Result</a>
-            <a href="mgsu-results.php?class=BSC3" class="grid-btn">B.Sc Final Result</a>
-            <a href="mgsu-results.php?class=BCOM" class="grid-btn">B.Com Result (All)</a>
-            <a href="mgsu-results.php?class=MA" class="grid-btn">M.A Final Result</a>
+            <a href="mgsu-results.php?class=BA1" class="grid-btn" title="MGSU BA 1st Year Result">BA 1st Year Result</a>
+            <a href="mgsu-results.php?class=BA2" class="grid-btn" title="MGSU BA 2nd Year Result">BA 2nd Year Result</a>
+            <a href="mgsu-results.php?class=BA3" class="grid-btn" title="MGSU BA 3rd Year Result">BA 3rd Year Result</a>
+            <a href="mgsu-results.php?class=BSC1" class="grid-btn" title="MGSU B.Sc 1st Year Result">B.Sc 1st Year Result</a>
+            <a href="mgsu-results.php?class=BSC2" class="grid-btn" title="MGSU B.Sc 2nd Year Result">B.Sc 2nd Year Result</a>
+            <a href="mgsu-results.php?class=BSC3" class="grid-btn" title="MGSU B.Sc Final Result">B.Sc Final Result</a>
+            <a href="mgsu-results.php?class=BCOM" class="grid-btn" title="MGSU B.Com All Years Result">B.Com Result (All)</a>
+            <a href="mgsu-results.php?class=MA" class="grid-btn" title="MGSU MA Final Result">M.A Final Result</a>
         </div>
 
         <!-- SEO Content Retained Below Tools for AdSense -->
@@ -80,15 +80,15 @@ include 'includes/header.php';
     <div class="sidebar">
         <h3>Useful Resources</h3>
         <ul>
-            <li><a href="./">Home Page</a></li>
-            <li><a href="mgsu-results.php?class=BA1">BA Part 1 Results</a></li>
-            <li><a href="mgsu-results.php?class=BA2">BA Part 2 Results</a></li>
-            <li><a href="mgsu-results.php?class=BA3">BA Part 3 Results</a></li>
-            <li><a href="mgsu-results.php?class=BSC">B.Sc All Years Results</a></li>
-            <li><a href="mgsu-results.php?class=PG">PG Course Results</a></li>
-            <li><a href="admit-card.php">Download Admit Cards</a></li>
-            <li><a href="syllabus.php">Syllabus PDF</a></li>
-            <li><a href="contact-us.php">Contact UnivIndia</a></li>
+            <li><a href="./" title="UnivIndia Home">Home Page</a></li>
+            <li><a href="mgsu-results.php?class=BA1" title="MGSU BA Part 1 Result">BA Part 1 Results</a></li>
+            <li><a href="mgsu-results.php?class=BA2" title="MGSU BA Part 2 Result">BA Part 2 Results</a></li>
+            <li><a href="mgsu-results.php?class=BA3" title="MGSU BA Part 3 Result">BA Part 3 Results</a></li>
+            <li><a href="mgsu-results.php?class=BSC" title="MGSU B.Sc All Years Result">B.Sc All Years Results</a></li>
+            <li><a href="mgsu-results.php?class=PG" title="MGSU PG Course Results">PG Course Results</a></li>
+            <li><a href="admit-card.php" title="Download MGSU Admit Cards">Download Admit Cards</a></li>
+            <li><a href="syllabus.php" title="Download MGSU Syllabus PDF">Syllabus PDF</a></li>
+            <li><a href="contact-us.php" title="Contact UnivIndia Support">Contact UnivIndia</a></li>
         </ul>
     </div>
 </div>

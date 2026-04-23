@@ -47,12 +47,12 @@ include 'includes/header.php';
     <div class="sidebar">
         <h3>Exam Resources</h3>
         <ul>
-            <li><a href="./">Home Page</a></li>
-            <li><a href="admit-card.php">Download Admit Card</a></li>
-            <li><a href="mgsu-results.php">MGSU Results Portal</a></li>
-            <li><a href="syllabus.php">Download Syllabus</a></li>
-            <li><a href="#">Old Question Papers</a></li>
-            <li><a href="#">Revaluation Dates</a></li>
+            <li><a href="./" title="UnivIndia Home">Home Page</a></li>
+            <li><a href="admit-card.php" title="Download MGSU Admit Card">Download Admit Card</a></li>
+            <li><a href="mgsu-results.php" title="Check MGSU Results">MGSU Results Portal</a></li>
+            <li><a href="syllabus.php" title="Download MGSU Syllabus PDF">Download Syllabus</a></li>
+            <li><a href="#" title="Download MGSU Old Question Papers">Old Question Papers</a></li>
+            <li><a href="#" title="MGSU Revaluation Dates and Results">Revaluation Dates</a></li>
         </ul>
     </div>
 </div>

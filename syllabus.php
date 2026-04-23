@@ -20,12 +20,12 @@ include 'includes/header.php';
             <div style="text-align: center; width: 100%;">
                 <h3 style="margin-bottom: 20px;">Download Syllabus by Faculty</h3>
             </div>
-            <a href="#" class="grid-btn">Faculty of Arts</a>
-            <a href="#" class="grid-btn">Faculty of Science</a>
-            <a href="#" class="grid-btn">Faculty of Commerce</a>
-            <a href="#" class="grid-btn">Faculty of Education</a>
-            <a href="#" class="grid-btn">Faculty of Law</a>
-            <a href="#" class="grid-btn">Social Sciences</a>
+            <a href="#" class="grid-btn" title="MGSU Faculty of Arts Syllabus">Faculty of Arts</a>
+            <a href="#" class="grid-btn" title="MGSU Faculty of Science Syllabus">Faculty of Science</a>
+            <a href="#" class="grid-btn" title="MGSU Faculty of Commerce Syllabus">Faculty of Commerce</a>
+            <a href="#" class="grid-btn" title="MGSU Faculty of Education Syllabus">Faculty of Education</a>
+            <a href="#" class="grid-btn" title="MGSU Faculty of Law Syllabus">Faculty of Law</a>
+            <a href="#" class="grid-btn" title="MGSU Social Sciences Syllabus">Social Sciences</a>
         </div>
 
         <h2>Importance of Following the Official MGSU Bikaner Syllabus</h2>
@@ -50,13 +50,13 @@ include 'includes/header.php';
     <div class="sidebar">
         <h3>Quick Syllabus Access</h3>
         <ul>
-            <li><a href="./">Home</a></li>
-            <li><a href="admit-card.php">Download Admit Card</a></li>
-            <li><a href="#">BA English Syllabus</a></li>
-            <li><a href="#">BSc Physics Syllabus</a></li>
-            <li><a href="#">BCom Syllabus</a></li>
-            <li><a href="#">MA History Syllabus</a></li>
-            <li><a href="time-table.php">Exam Time Table</a></li>
+            <li><a href="./" title="UnivIndia Home">Home</a></li>
+            <li><a href="admit-card.php" title="Download MGSU Admit Card">Download Admit Card</a></li>
+            <li><a href="#" title="MGSU BA English Syllabus">BA English Syllabus</a></li>
+            <li><a href="#" title="MGSU BSc Physics Syllabus">BSc Physics Syllabus</a></li>
+            <li><a href="#" title="MGSU BCom Syllabus">BCom Syllabus</a></li>
+            <li><a href="#" title="MGSU MA History Syllabus">MA History Syllabus</a></li>
+            <li><a href="time-table.php" title="View MGSU Exam Time Table">Exam Time Table</a></li>
         </ul>
     </div>
 </div>

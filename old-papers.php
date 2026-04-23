@@ -17,12 +17,12 @@ include 'includes/header.php';
         <p>Expert students know that the secret to topping university exams lies in practicing with <strong>MGSU old papers</strong>. By reviewing previous year questions, you can identify recurring patterns, important topics, and the marking scheme used by Maharaja Ganga Singh University (MGSU). At <strong>UnivIndia</strong>, we have collected a vast archive of question papers spanning the last five years.</p>
 
         <div class="grid-nav" style="margin: 40px 0;">
-            <a href="#" class="grid-btn">BA Previous Papers</a>
-            <a href="#" class="grid-btn">BSc Previous Papers</a>
-            <a href="#" class="grid-btn">BCom Previous Papers</a>
-            <a href="#" class="grid-btn">MA/MSc Previous Papers</a>
-            <a href="#" class="grid-btn">B.Ed Old Papers</a>
-            <a href="#" class="grid-btn">LLB Old Papers</a>
+            <a href="#" class="grid-btn" title="Download MGSU BA Previous Year Papers">BA Previous Papers</a>
+            <a href="#" class="grid-btn" title="Download MGSU BSc Previous Year Papers">BSc Previous Papers</a>
+            <a href="#" class="grid-btn" title="Download MGSU BCom Previous Year Papers">BCom Previous Papers</a>
+            <a href="#" class="grid-btn" title="Download MGSU MA/MSc Previous Year Papers">MA/MSc Previous Papers</a>
+            <a href="#" class="grid-btn" title="Download MGSU B.Ed Old Papers">B.Ed Old Papers</a>
+            <a href="#" class="grid-btn" title="Download MGSU LLB Old Papers">LLB Old Papers</a>
         </div>
 
         <h2>Why Practice with MGSU Previous Year Papers?</h2>
@@ -47,11 +47,11 @@ include 'includes/header.php';
     <div class="sidebar">
         <h3>Study Material</h3>
         <ul>
-            <li><a href="./">Home</a></li>
-            <li><a href="syllabus.php">Download Syllabus</a></li>
-            <li><a href="time-table.php">Exam Time Table</a></li>
-            <li><a href="admit-card.php">Admit Card</a></li>
-            <li><a href="mgsu-results.php">Check Results</a></li>
+            <li><a href="./" title="UnivIndia Home">Home</a></li>
+            <li><a href="syllabus.php" title="Download MGSU Syllabus PDF">Download Syllabus</a></li>
+            <li><a href="time-table.php" title="View MGSU Exam Time Table">Exam Time Table</a></li>
+            <li><a href="admit-card.php" title="Download MGSU Admit Card">Admit Card</a></li>
+            <li><a href="mgsu-results.php" title="Check MGSU Results">Check Results</a></li>
         </ul>
     </div>
 </div>

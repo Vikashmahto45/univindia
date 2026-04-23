@@ -52,16 +52,16 @@ include 'includes/header.php';
     <div class="sidebar">
         <h3>Quick Links</h3>
         <ul>
-            <li><a href="mgsu-results.php">Main Result Portal</a></li>
-            <li><a href="mgsu-results.php?type=BA">BA Results</a></li>
-            <li><a href="mgsu-results.php?type=BSC">B.Sc Results</a></li>
-            <li><a href="mgsu-results.php?type=BCOM">B.Com Results</a></li>
-            <li><a href="mgsu-results.php?type=MA">MA Results</a></li>
-            <li><a href="admit-card.php">Latest Admit Cards</a></li>
-            <li><a href="syllabus.php">Download Syllabus PDF</a></li>
-            <li><a href="time-table.php">University Time Table</a></li>
-            <li><a href="old-papers.php">Old Question Papers</a></li>
-            <li><a href="contact-us.php">Help & Support</a></li>
+            <li><a href="mgsu-results.php" title="Main MGSU Result Portal">Main Result Portal</a></li>
+            <li><a href="mgsu-results.php?type=BA" title="MGSU BA Results">BA Results</a></li>
+            <li><a href="mgsu-results.php?type=BSC" title="MGSU B.Sc Results">B.Sc Results</a></li>
+            <li><a href="mgsu-results.php?type=BCOM" title="MGSU B.Com Results">B.Com Results</a></li>
+            <li><a href="mgsu-results.php?type=MA" title="MGSU MA Results">MA Results</a></li>
+            <li><a href="admit-card.php" title="Download MGSU Admit Cards 2024">Latest Admit Cards</a></li>
+            <li><a href="syllabus.php" title="Download MGSU Syllabus PDF">Download Syllabus PDF</a></li>
+            <li><a href="time-table.php" title="MGSU University Time Table">University Time Table</a></li>
+            <li><a href="old-papers.php" title="MGSU Old Question Papers">Old Question Papers</a></li>
+            <li><a href="contact-us.php" title="UnivIndia Help & Support">Help & Support</a></li>
         </ul>
     </div>
 </div>

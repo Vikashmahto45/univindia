@@ -22,7 +22,7 @@ include 'includes/header.php';
             </div>
             <div class="iframe-fallback">
                 <p>If the admit card tool doesn't load above, click the button below to open the official MGSU portal directly.</p>
-                <a href="https://www.univindia.net/" target="_blank" class="btn-primary">Open Official MGSU Portal</a>
+                <a href="https://www.univindia.net/" target="_blank" class="btn-primary" title="Go to Official MGSU Admit Card Portal">Open Official MGSU Portal</a>
             </div>
         </div>
 
@@ -50,13 +50,13 @@ include 'includes/header.php';
     <div class="sidebar">
         <h3>Admit Card Links</h3>
         <ul>
-            <li><a href="./">Back to Home</a></li>
-            <li><a href="mgsu-results.php">Check Results</a></li>
-            <li><a href="#">BA Admit Card</a></li>
-            <li><a href="#">BSc Admit Card</a></li>
-            <li><a href="#">BCom Admit Card</a></li>
-            <li><a href="#">MA/MSc Admit Card</a></li>
-            <li><a href="time-table.php">View Time Table</a></li>
+            <li><a href="./" title="UnivIndia Home">Back to Home</a></li>
+            <li><a href="mgsu-results.php" title="Check MGSU Results">Check Results</a></li>
+            <li><a href="#" title="MGSU BA Admit Card">BA Admit Card</a></li>
+            <li><a href="#" title="MGSU BSc Admit Card">BSc Admit Card</a></li>
+            <li><a href="#" title="MGSU BCom Admit Card">BCom Admit Card</a></li>
+            <li><a href="#" title="MGSU MA/MSc Admit Card">MA/MSc Admit Card</a></li>
+            <li><a href="time-table.php" title="View MGSU Exam Time Table">View Time Table</a></li>
         </ul>
     </div>
 </div>
