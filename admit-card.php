@@ -45,7 +45,87 @@ include 'includes/header.php';
             <li><strong>Photograph and Signature:</strong> Your photo must be clearly visible.</li>
         </ul>
         <p>In case of any discrepancy, contact the MGSU Bikaner helpline or your college's administrative office immediately for rectification before the first exam date.</p>
+
+        <!-- FAQ Section for SEO -->
+        <div class="faq-section">
+            <h2>MGSU Admit Card FAQ</h2>
+            <div class="faq-item">
+                <div class="faq-question">How to download MGSU Admit Card 2024?</div>
+                <div class="faq-answer">
+                    To download your MGSU admit card, visit the Admit Card section on UnivIndia, select your course category (UG/PG) and faculty, and enter your form number or challan number on the official panel.
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">What is required to check MGSU Hall Ticket?</div>
+                <div class="faq-answer">
+                    You typically need your Application Form Number or Challan Number. If you don't have these, you can also search using your Name and Father's Name on the official university portal.
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Can I download MGSU Admit Card by name?</div>
+                <div class="faq-answer">
+                    Yes, Maharaja Ganga Singh University provides an option to search for admit cards name-wise. Select the 'By Name and Father Name' option on the portal and enter the required details.
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Is the MGSU Admit Card mandatory for exams?</div>
+                <div class="faq-answer">
+                    Yes, it is strictly mandatory to carry a printed copy of your MGSU admit card to the examination hall. Without a valid admit card and a secondary ID proof, you will not be allowed to sit for the examination.
+                </div>
+            </div>
+        </div>
     </div>
+
+    <!-- Schema.org FAQ Implementation -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How to download MGSU Admit Card 2024?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To download your MGSU admit card, visit the Admit Card section on UnivIndia, select your course category (UG/PG) and faculty, and enter your form number or challan number on the official panel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is required to check MGSU Hall Ticket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You typically need your Application Form Number or Challan Number. If you don't have these, you can also search using your Name and Father's Name on the official university portal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I download MGSU Admit Card by name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Maharaja Ganga Singh University provides an option to search for admit cards name-wise. Select the 'By Name and Father Name' option on the portal and enter the required details."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the MGSU Admit Card mandatory for exams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, it is strictly mandatory to carry a printed copy of your MGSU admit card to the examination hall. Without a valid admit card and a secondary ID proof, you will not be allowed to sit for the examination."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <script>
+    document.querySelectorAll('.faq-question').forEach(button => {
+        button.addEventListener('click', () => {
+            const faqItem = button.parentElement;
+            faqItem.classList.toggle('active');
+        });
+    });
+    </script>
 
     <div class="sidebar">
         <h3>Admit Card Links</h3>

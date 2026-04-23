@@ -73,7 +73,87 @@ include 'includes/header.php';
 
             <h2>Conclusion</h2>
             <p>Securing your academic results requires more than just knowing a roll number; it demands an understanding of the entire administrative ecosystem. UnivIndia remains committed to empowering MGSU students with the absolute best resources, fastest updates, and clearest guides. Bookmark this page, stay informed, and we wish you the greatest success in your academic outcomes for 2024 and beyond!</p>
+
+        <!-- FAQ Section for SEO -->
+        <div class="faq-section">
+            <h2>MGSU Results FAQ</h2>
+            <div class="faq-item">
+                <div class="faq-question">Can I check MGSU Results 2024 by Name Wise?</div>
+                <div class="faq-answer">
+                    Yes, if you have lost your roll number, you can check your MGSU result using the "Name Wise" and "Father's Name" feature. Simply select this option on the official result panel embedded on our portal.
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">What details are required for MGSU Bikaner Results?</div>
+                <div class="faq-answer">
+                    To check your MGSU Bikaner results, you typically need your Exam Roll Number. Alternatively, you can use your name and father's name for name-wise result searching.
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">When will MGSU BA 2nd Year Result be declared?</div>
+                <div class="faq-answer">
+                    Maharaja Ganga Singh University usually declares Undergraduate (BA, BSc, BCom) results within 30-45 days after the completion of examinations. You can track this page or our news ticker for the exact declaration date.
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">How to download MGSU provisional marksheet?</div>
+                <div class="faq-answer">
+                    After your result is displayed on the screen, click the 'Print Result' button at the bottom of the marksheet. You can save it as a PDF or take a printout for provisional admissions.
+                </div>
+            </div>
         </div>
+    </div>
+
+    <!-- Schema.org FAQ Implementation -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I check MGSU Results 2024 by Name Wise?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, if you have lost your roll number, you can check your MGSU result using the 'Name Wise' and 'Father's Name' feature. Simply select this option on the official result panel embedded on our portal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What details are required for MGSU Bikaner Results?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To check your MGSU Bikaner results, you typically need your Exam Roll Number. Alternatively, you can use your name and father's name for name-wise result searching."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When will MGSU BA 2nd Year Result be declared?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Maharaja Ganga Singh University usually declares Undergraduate (BA, BSc, BCom) results within 30-45 days after the completion of examinations. You can track this page or our news ticker for the exact declaration date."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to download MGSU provisional marksheet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After your result is displayed on the screen, click the 'Print Result' button at the bottom of the marksheet. You can save it as a PDF or take a printout for provisional admissions."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <script>
+    document.querySelectorAll('.faq-question').forEach(button => {
+        button.addEventListener('click', () => {
+            const faqItem = button.parentElement;
+            faqItem.classList.toggle('active');
+        });
+    });
+    </script>
     </div>
 
     <!-- Keep sidebar intact as well -->

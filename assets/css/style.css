@@ -12,6 +12,8 @@
     --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
     --border-radius: 12px;
     --transition-speed: 0.3s;
+    --success-color: #10b981;
+    --error-color: #ef4444;
 }
 
 * {
@@ -443,4 +445,122 @@ footer {
     font-size: 0.95rem;
     color: #64748b !important;
     margin-bottom: 15px;
+}
+/* News Ticker Bar */
+.news-ticker-bar {
+    background: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 10px 0;
+    overflow: hidden;
+    position: relative;
+    z-index: 999;
+}
+
+.ticker-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+}
+
+.ticker-label {
+    background: var(--error-color);
+    color: #fff;
+    padding: 4px 12px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-right: 15px;
+    white-space: nowrap;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.7; }
+    100% { opacity: 1; }
+}
+
+.ticker-content {
+    flex: 1;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.ticker-scroll {
+    display: inline-block;
+    padding-left: 100%;
+    animation: ticker 30s linear infinite;
+    font-weight: 500;
+    color: var(--dark-text);
+}
+
+.ticker-scroll span {
+    margin-right: 50px;
+}
+
+.ticker-scroll a {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
+@keyframes ticker {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+
+/* FAQ Section */
+.faq-section {
+    margin-top: 60px;
+}
+
+.faq-item {
+    background: #fff;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.faq-question {
+    padding: 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+    color: var(--dark-text);
+    transition: background var(--transition-speed);
+}
+
+.faq-question:hover {
+    background: #f8fafc;
+}
+
+.faq-question::after {
+    content: "+";
+    font-size: 1.5rem;
+    color: var(--primary-color);
+}
+
+.faq-answer {
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height var(--transition-speed) ease-out, padding var(--transition-speed) ease-out;
+    background: #fff;
+    color: #4b5563;
+}
+
+.faq-item.active .faq-answer {
+    padding: 20px;
+    max-height: 500px;
+    border-top: 1px solid #f3f4f6;
+}
+
+.faq-item.active .faq-question::after {
+    content: "-";
 }

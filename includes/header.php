@@ -55,3 +55,16 @@ require_once 'config.php';
 </head>
 <body>
 <?php include 'nav.php'; ?>
+
+<div class="news-ticker-bar">
+    <div class="ticker-container">
+        <div class="ticker-label">Latest Updates</div>
+        <div class="ticker-content">
+            <div class="ticker-scroll">
+                <span>🔥 <a href="mgsu-results.php" title="Check MGSU Results">MGSU Result 2024 (BA, BSc, BCom) expected soon. Watch this space for direct links!</a></span>
+                <span>🔥 <a href="syllabus.php" title="MGSU Syllabus PDF">New MGSU Syllabus for 2024-25 session is now available for download.</a></span>
+                <span>🔥 <a href="time-table.php" title="MGSU Exam Date Sheet">MGSU Bikaner Main Exam Time Table 2024 has been released. Check dates here.</a></span>
+            </div>
+        </div>
+    </div>
+</div>
